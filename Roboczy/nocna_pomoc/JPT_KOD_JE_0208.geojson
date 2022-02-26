@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0208",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 420, "JPT_KOD_JE": "0208", "JPT_NAZWA_": "powiat kłodzki", "id": "104#3", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3201018", "swiadczeniodawca": "Bystrzyckie Centrum Zdrowia", "miejscowosc": "Bystrzyca Kłodzka", "ulica": "Okrzei ", "numer_domu": "49", "adres_swiadczeniodawcy": "Stefana Okrzei 49", "telefon": "74 811 15 77; 607 798 559", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Okrzei Stefana", "g_miejsc": "Bystrzyca Kłodzka", "g_adr": "49", "g_teryt": "0208063", "g_gm": "Bystrzyca Kłodzka", "g_pow": "kłodzki", "g_woj": "dolnośląskie", "g_szer": 16.653799716099755, "g_dlug": 50.299953711864667, "g_uuid": "fd27bd3f-6c0d-4fcb-b6d7-cc1866944155", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 332961.864795497851446, 272941.14511332847178 ] } },
+{ "type": "Feature", "properties": { "gid": 421, "JPT_KOD_JE": "0208", "JPT_NAZWA_": "powiat kłodzki", "id": "104#11", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3201021", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Kłodzku", "miejscowosc": "Kłodzko\r\n", "ulica": "Szpitalna", "numer_domu": "1", "adres_swiadczeniodawcy": "Szpitalna 1a", "telefon": "Kłodzko: 74 865 11 09; Nowa Ruda: 74 872 40 04", "dodatkowe_miejsce": "Szpitalna 2; 57-400 Nowa Ruda", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 16.660998821923727, "g_dlug": 50.456204904359325, "g_uuid": "ace3af0c-5a4c-4c3a-8eb9-69ae2874c9b6", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 334020.788628111418802, 290290.83305380307138 ] } }
+]
+}

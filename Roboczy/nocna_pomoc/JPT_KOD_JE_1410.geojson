@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1410",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 243, "JPT_KOD_JE": "1410", "JPT_NAZWA_": "powiat łosicki", "id": "104#199", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001668", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Łosicach", "miejscowosc": "Łosice ", "ulica": " Słoneczna ", "numer_domu": "1", "adres_swiadczeniodawcy": " Słoneczna 1", "telefon": "83 357-32-31 wew.14; \r\n512-128-051", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Słoneczna", "g_miejsc": "Łosice", "g_adr": "1", "g_teryt": "1410023", "g_gm": "Łosice", "g_pow": "łosicki", "g_woj": "mazowieckie", "g_szer": 22.707851055164983, "g_dlug": 52.215572230400575, "g_uuid": "dce42ee5-79b9-48e7-9cba-227679deb31a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 753201.39496637461707, 489757.732106410898268 ] } }
+]
+}

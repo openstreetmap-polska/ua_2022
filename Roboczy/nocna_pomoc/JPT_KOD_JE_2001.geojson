@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2001",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 268, "JPT_KOD_JE": "2001", "JPT_NAZWA_": "powiat augustowski", "id": "104#306", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000078", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Augustowie", "miejscowosc": "Augustów", "ulica": " Szpitalna ", "numer_domu": "12", "adres_swiadczeniodawcy": " Szpitalna 12", "telefon": "87 644 43 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Augustów", "g_adr": "12", "g_teryt": "2001011", "g_gm": "Augustów", "g_pow": "augustowski", "g_woj": "podlaskie", "g_szer": 22.993584481708325, "g_dlug": 53.851296681649217, "g_uuid": "250da214-1b9d-4105-9f67-507f32164d59", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 762565.890993109322153, 672580.699662004597485 ] } }
+]
+}

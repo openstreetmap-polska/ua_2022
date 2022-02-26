@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1407",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 465, "JPT_KOD_JE": "1407", "JPT_NAZWA_": "powiat kozienicki", "id": "104#195", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001796", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Kozienicach", "miejscowosc": "Kozienice", "ulica": "Sikorskiego ", "numer_domu": "10", "adres_swiadczeniodawcy": "Aleja Wł. Sikorskiego 10", "telefon": "48 382 05 58; 509-212-226", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Al. Władysława Sikorskiego", "g_miejsc": "Kozienice", "g_adr": "10", "g_teryt": "1407053", "g_gm": "Kozienice", "g_pow": "kozienicki", "g_woj": "mazowieckie", "g_szer": 21.524626617574686, "g_dlug": 51.591596657918672, "g_uuid": "290e067a-3071-4884-8992-2539cb13a666", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 674824.614355568774045, 416920.05378479231149 ] } }
+]
+}

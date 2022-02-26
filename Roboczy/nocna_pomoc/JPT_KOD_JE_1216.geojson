@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1216",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 351, "JPT_KOD_JE": "1216", "JPT_NAZWA_": "powiat tarnowski", "id": "104#179", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "065\/200018", "swiadczeniodawca": "Centrum Zdrowia Tuchów sp. z o.o.", "miejscowosc": "Tuchów", "ulica": " Szpitalna   ", "numer_domu": "1", "adres_swiadczeniodawcy": " Szpitalna 1  ", "telefon": "14 653 52 42", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Tuchów", "g_adr": "1", "g_teryt": "1216103", "g_gm": "Tuchów", "g_pow": "tarnowski", "g_woj": "małopolskie", "g_szer": 21.060383224244148, "g_dlug": 49.893016830359763, "g_uuid": "f6008d55-cff9-4c4d-803d-9c6d3a4d1b4c", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 647939.00691765837837, 227112.468493790365756 ] } },
+{ "type": "Feature", "properties": { "gid": 352, "JPT_KOD_JE": "1216", "JPT_NAZWA_": "powiat tarnowski", "id": "104#181", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "065\/200004", "swiadczeniodawca": "Wojnickie Centrum Medyczne sp. z o.o.", "miejscowosc": "Wojnicz", "ulica": "Rolnicza ", "numer_domu": "3", "adres_swiadczeniodawcy": "Rolnicza 3", "telefon": "14 67 903 08; 14 67 89 349; 531 955 191", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Rolnicza", "g_miejsc": "Wojnicz", "g_adr": "3", "g_teryt": "1216133", "g_gm": "Wojnicz", "g_pow": "tarnowski", "g_woj": "małopolskie", "g_szer": 20.837598538075508, "g_dlug": 49.953193676918723, "g_uuid": "c002d6be-ad4a-4f1d-bf13-2df84a70172a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 631779.815069648204371, 233383.456119670532644 ] } }
+]
+}

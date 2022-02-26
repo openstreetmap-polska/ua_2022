@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3062",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 525, "JPT_KOD_JE": "3062", "JPT_NAZWA_": "powiat Konin", "id": "104#479", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000032", "swiadczeniodawca": "Szpital Zespolony w Koninie", "miejscowosc": "Konin", "ulica": "Wyszyńskiego ", "numer_domu": "1", "adres_swiadczeniodawcy": "Wyszyńskiego 1", "telefon": "63 240 42 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Wyszyńskiego", "g_miejsc": "Konin", "g_adr": "1", "g_teryt": "3062011", "g_gm": "Konin", "g_pow": "Konin", "g_woj": "wielkopolskie", "g_szer": 18.265777798987333, "g_dlug": 52.225950076783576, "g_uuid": "4ef62361-a046-4721-8a87-1eb3d4814a4d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 449864.95550411764998, 484686.869739933870733 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1463",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1463", "JPT_NAZWA_": "powiat Radom", "id": 171, "ksiega": 391645, "id zoz": 480996, "id jednostki": "776324", "id komórki": 6822180, "regon": 67020935600020, "kod jednostki": "01", "kod komórki": 80, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Radom - gmina miejska", "ulica": "ul. Juliana Aleksandrowicza", "budynek": "5", "lokal": "NULL", "kod": "26-600", "miejscowosc": "Radom", "teryt": 1463011, "kod simc": 972750, "kod ulicy": "27262", "lozka": 8, "liczba łóżek iom": 5, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 8, "data rozpoczęcia działalności komórki": "2004-07-01" }, "geometry": { "type": "Point", "coordinates": [ 649978.149, 399058.737 ] } },
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1463", "JPT_NAZWA_": "powiat Radom", "id": 34, "ksiega": 383793, "id zoz": 465605, "id jednostki": "741124", "id komórki": 6413165, "regon": 31508600024, "kod jednostki": "01", "kod komórki": 106, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy z Izbą Przyjęć", "teryt opis": "Radom - gmina miejska", "ulica": "ul. Adolfa Tochtermana", "budynek": "1", "lokal": "NULL", "kod": "26-610", "miejscowosc": "Radom", "teryt": 1463011, "kod simc": 972750, "kod ulicy": "22818", "lozka": 10, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-01-01" }, "geometry": { "type": "Point", "coordinates": [ 649226.1143, 394774.054 ] } }
+]
+}

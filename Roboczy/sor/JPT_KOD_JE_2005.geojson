@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2005",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2005", "JPT_NAZWA_": "powiat hajnowski", "id": 213, "ksiega": 392250, "id zoz": 482379, "id jednostki": "NULL", "id komórki": 6859933, "regon": 5058250000024, "kod jednostki": "NULL", "kod komórki": 65, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Hajnówka - gmina miejska", "ulica": "ul. Doc. Adama Dowgirda", "budynek": "9", "lokal": "NULL", "kod": "17-200", "miejscowosc": "Hajnówka", "teryt": 2005011, "kod simc": 923035, "kod ulicy": "47947", "lozka": 7, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-01-01" }, "geometry": { "type": "Point", "coordinates": [ 810989.8945, 552243.1406 ] } }
+]
+}

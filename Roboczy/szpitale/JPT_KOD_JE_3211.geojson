@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3211",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 404, "JPT_KOD_JE": "3211", "JPT_NAZWA_": "powiat policki", "id": 344, "wojewodztwo": "zachodniopomorskie", "miasto": "Szczecin ", "powiat": "Szczecin ", "adres": "Siedlecka 2 ", "miejscowosc": "Police ", "kod": null, "nazwa": "Samodzielny Publiczny Szpital Kliniczny Nr 1 im. Prof. Tadeusza Sokołowskiego Pomorskiego Uniwersytetu Medycznego w Szczecinie ", "poziom": "Szpital ogólnopolski ", "www": "http:\/\/www.spsk1.szn.pl ", "telefon": "91 425 30 02 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 206076.3, 640480.2 ] } }
+]
+}

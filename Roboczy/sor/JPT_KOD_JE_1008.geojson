@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1008",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1008", "JPT_NAZWA_": "powiat pabianicki", "id": 138, "ksiega": 390891, "id zoz": 479448, "id jednostki": "772078", "id komórki": 6774413, "regon": 10068249100026, "kod jednostki": "01", "kod komórki": 14, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Pabianice - gmina miejska", "ulica": "ul. Jana Pawła II", "budynek": "68", "lokal": "NULL", "kod": "95-200", "miejscowosc": "Pabianice", "teryt": 1008021, "kod simc": 959079, "kod ulicy": "07123", "lozka": 6, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2009-11-01" }, "geometry": { "type": "Point", "coordinates": [ 522875.82, 420757.11 ] } }
+]
+}

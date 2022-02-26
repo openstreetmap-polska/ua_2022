@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2805",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 300, "JPT_KOD_JE": "2805", "JPT_NAZWA_": "powiat ełcki", "id": "104#447", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140001331", "swiadczeniodawca": "\"Pro-Medica\" w Ełku Sp. z o. o.", "miejscowosc": "Ełk", "ulica": "Baranki ", "numer_domu": "24", "adres_swiadczeniodawcy": "Baranki 24", "telefon": "87 621 97 32; \r\n87 620 95 90; \r\n87 621 69 01", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Baranki", "g_miejsc": "Ełk", "g_adr": "24", "g_teryt": "2805011", "g_gm": "Ełk", "g_pow": "ełcki", "g_woj": "warmińsko-mazurskie", "g_szer": 22.339868093711488, "g_dlug": 53.793533464341223, "g_uuid": "daf3b343-bf74-4d02-b3c0-165ba0892042", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 719905.220707013853826, 663935.368476114235818 ] } }
+]
+}

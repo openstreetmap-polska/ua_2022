@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3001",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 91, "JPT_KOD_JE": "3001", "JPT_NAZWA_": "powiat chodzieski", "id": "104#470", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150003546", "swiadczeniodawca": "Szpital Powiatowy im. Prof. Romana Drewsa", "miejscowosc": "Chodzież", "ulica": "Żeromskiego ", "numer_domu": "29", "adres_swiadczeniodawcy": "Żeromskiego 29", "telefon": "67 282 05 70\r\n67 282 67 12\r\n67 282 67 70", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Stefana Żeromskiego", "g_miejsc": "Chodzież", "g_adr": "29", "g_teryt": "3001011", "g_gm": "Chodzież", "g_pow": "chodzieski", "g_woj": "wielkopolskie", "g_szer": 16.914779255916063, "g_dlug": 52.98789534903171, "g_uuid": "8a0e478e-f006-468d-bef0-56b9ed817da8", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 360071.482960422174074, 571196.132879043929279 ] } }
+]
+}

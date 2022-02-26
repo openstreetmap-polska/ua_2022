@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2809",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 421, "JPT_KOD_JE": "2809", "JPT_NAZWA_": "powiat lidzbarski", "id": 416, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Lidzbark Warmiński", "powiat": "Lidzbarski", "adres": "Kard. Stefana Wyszyńskiego 37", "miejscowosc": "Lidzbark Warmiński", "kod": "11-100", "nazwa": "Zespół Opieki Zdrowotnej w Lidzbarku Warmińskim", "poziom": "I stopień", "www": "http:\/\/www.zozlw.pl", "telefon": "89 767 22 71 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 603789.9, 696846.9 ] } }
+]
+}

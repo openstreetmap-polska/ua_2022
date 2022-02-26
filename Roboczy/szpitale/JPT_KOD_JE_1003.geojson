@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1003",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 441, "JPT_KOD_JE": "1003", "JPT_NAZWA_": "powiat łaski", "id": 124, "wojewodztwo": "łódzkie", "miasto": "Łask", "powiat": "łaski", "adres": "Warszawska 62A", "miejscowosc": null, "kod": null, "nazwa": "Centrum Dializa Sp. z o.o.", "poziom": "II stopień", "www": "http:\/\/www.szpitalwlasku.pl", "telefon": "43 675 55 55", "e-mail": "sekretariat@szpitalwlasku.pl" }, "geometry": { "type": "Point", "coordinates": [ 510605.0, 413857.1 ] } }
+]
+}

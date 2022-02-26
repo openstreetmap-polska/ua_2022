@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2807",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2807", "JPT_NAZWA_": "powiat iławski", "id": 135, "ksiega": 390815, "id zoz": 479264, "id jednostki": "771625", "id komórki": 6769949, "regon": 51087919600039, "kod jednostki": "01", "kod komórki": 17, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "szpitalny oddział ratunkowy", "teryt opis": "Iława - gmina miejska", "ulica": "ul. gen. Władysława Andersa", "budynek": "3", "lokal": "NULL", "kod": "14-200", "miejscowosc": "Iława", "teryt": 2807011, "kod simc": 964650, "kod ulicy": "00285", "lozka": 2, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 8, "data rozpoczęcia działalności komórki": "2002-01-01" }, "geometry": { "type": "Point", "coordinates": [ 537512.502, 635884.431600000942126 ] } }
+]
+}

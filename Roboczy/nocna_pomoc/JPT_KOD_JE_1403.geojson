@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1403",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 241, "JPT_KOD_JE": "1403", "JPT_NAZWA_": "powiat garwoliński", "id": "104#188", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001663", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Garwolinie", "miejscowosc": "Garwolin", "ulica": "Staszica ", "numer_domu": "18", "adres_swiadczeniodawcy": "Staszica 18", "telefon": "25 682-30-25; \r\n783-294-126", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Staszica", "g_miejsc": "Garwolin", "g_adr": "18", "g_teryt": "1403011", "g_gm": "Garwolin", "g_pow": "garwoliński", "g_woj": "mazowieckie", "g_szer": 21.619622844185084, "g_dlug": 51.898937046207131, "g_uuid": "305eae20-acf2-4b56-8dac-f0f2e434cc8e", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 680173.999592035426758, 451314.731497881002724 ] } }
+]
+}

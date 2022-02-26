@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0807",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0807", "JPT_NAZWA_": "powiat sulęciński", "id": 42, "ksiega": 385067, "id zoz": 468269, "id jednostki": "747516", "id komórki": 6493293, "regon": 30073600049, "kod jednostki": "01", "kod komórki": 8, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Sulęcin - miasto", "ulica": "ul. Wincentego Witosa", "budynek": "4", "lokal": "NULL", "kod": "69-200", "miejscowosc": "Sulęcin", "teryt": 807044, "kod simc": 935759, "kod ulicy": "24459", "lozka": 8, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-03-31" }, "geometry": { "type": "Point", "coordinates": [ 236141.1513, 515014.7125 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3026",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 415, "JPT_KOD_JE": "3026", "JPT_NAZWA_": "powiat śremski", "id": "104#501", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150008893", "swiadczeniodawca": "Szpital Powiatowy im. Tadeusza Malińskiego w Śremie Sp. z o. o.", "miejscowosc": "Śrem", "ulica": "Chełmońskiego ", "numer_domu": "1", "adres_swiadczeniodawcy": "Chełmońskiego 1", "telefon": "61 281 56 40\r\n504 122 025", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Józefa Chełmońskiego", "g_miejsc": "Śrem", "g_adr": "1", "g_teryt": "3026043", "g_gm": "Śrem", "g_pow": "śremski", "g_woj": "wielkopolskie", "g_szer": 17.0062934292439, "g_dlug": 52.089395582665318, "g_uuid": "a39a01a2-9417-4cd1-813d-87ca167acb61", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 363451.26304270431865, 471124.337345219217241 ] } }
+]
+}

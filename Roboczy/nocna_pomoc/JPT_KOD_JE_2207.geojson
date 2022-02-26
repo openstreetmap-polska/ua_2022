@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2207",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 274, "JPT_KOD_JE": "2207", "JPT_NAZWA_": "powiat kwidzyński", "id": "104#342", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "000840", "swiadczeniodawca": "EMC Szpitale Szpital ZDROWIE w Kwidzynie", "miejscowosc": "Kwidzyn", "ulica": "Józefa Hallera ", "numer_domu": "31", "adres_swiadczeniodawcy": "Józefa Hallera 31", "telefon": "55 645 84 15, \r\n55 645 83 47", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Generała Hallera Józefa", "g_miejsc": "Kwidzyn", "g_adr": "31", "g_teryt": "2207011", "g_gm": "Kwidzyn", "g_pow": "kwidzyński", "g_woj": "pomorskie", "g_szer": 18.920478144067136, "g_dlug": 53.726987380935157, "g_uuid": "e99f11f0-98cf-479a-a0b2-d9efcb1f2ea8", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 494755.029339322180022, 651363.408360567875206 ] } }
+]
+}

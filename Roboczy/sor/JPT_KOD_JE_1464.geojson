@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1464",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1464", "JPT_NAZWA_": "powiat Siedlce", "id": 203, "ksiega": 391985, "id zoz": 481858, "id jednostki": "778114", "id komórki": 6846825, "regon": 14194475000020, "kod jednostki": "01", "kod komórki": 34, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Siedlce - gmina miejska", "ulica": "ul. Księcia Józefa Poniatowskiego", "budynek": "26", "lokal": "NULL", "kod": "08-110", "miejscowosc": "Siedlce", "teryt": 1464011, "kod simc": 975173, "kod ulicy": "17113", "lozka": 10, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2011-01-01" }, "geometry": { "type": "Point", "coordinates": [ 724957.617199999979, 484155.968800001021009 ] } }
+]
+}

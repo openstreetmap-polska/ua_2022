@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0808",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0808", "JPT_NAZWA_": "powiat świebodziński", "id": 103, "ksiega": 389038, "id zoz": 476623, "id jednostki": "766437", "id komórki": 6721839, "regon": 32042554200020, "kod jednostki": "01", "kod komórki": 5, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział  Ratunkowy", "teryt opis": "Świebodzin - miasto", "ulica": "ul. Młyńska", "budynek": "6", "lokal": "NULL", "kod": "66-200", "miejscowosc": "Świebodzin", "teryt": 808054, "kod simc": 988626, "kod ulicy": "13132", "lozka": 7, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2008-01-01" }, "geometry": { "type": "Point", "coordinates": [ 263554.0273, 493020.398399999015965 ] } }
+]
+}

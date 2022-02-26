@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2216",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 382, "JPT_KOD_JE": "2216", "JPT_NAZWA_": "powiat sztumski", "id": "104#354", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "001561", "swiadczeniodawca": "Szpitale Polskie Spółka Akcyjna w Sztumie", "miejscowosc": "Sztum", "ulica": " Reja ", "numer_domu": "12", "adres_swiadczeniodawcy": " Reja 12", "telefon": "55 640 61 58 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Reja", "g_miejsc": "Sztum", "g_adr": "12", "g_teryt": "2216053", "g_gm": "Sztum", "g_pow": "sztumski", "g_woj": "pomorskie", "g_szer": 19.025387900960901, "g_dlug": 53.922555799063325, "g_uuid": "28acd937-8618-42a6-8521-1b8e0f66e290", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 501666.889837583876215, 673112.815601238980889 ] } }
+]
+}

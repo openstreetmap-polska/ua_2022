@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1425",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 5, "JPT_KOD_JE": "1425", "JPT_NAZWA_": "powiat radomski", "id": 200, "wojewodztwo": "mazowieckie", "miasto": "IŁŻA", "powiat": "RADOMSKI", "adres": "DR ANKI 4", "miejscowosc": "IŁŻA ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ - SZPITAL W IŁŻY", "poziom": "I stopień", "www": "http:\/\/www.szpitalilza.com.pl", "telefon": "48-6163175", "e-mail": "szrilza@szpitalilza.com.pl" }, "geometry": { "type": "Point", "coordinates": [ 656103.0, 368891.8 ] } },
+{ "type": "Feature", "properties": { "_uid_": 6, "JPT_KOD_JE": "1425", "JPT_NAZWA_": "powiat radomski", "id": 201, "wojewodztwo": "mazowieckie", "miasto": "PIONKI", "powiat": "RADOMSKI", "adres": "15 - STYCZNIA 1", "miejscowosc": "PIONKI ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W PIONKACH", "poziom": "I stopień", "www": "http:\/\/www.spzzozpionki.pl\/", "telefon": "48 612-13-81", "e-mail": "spzzoz@spzzozpionki.pl" }, "geometry": { "type": "Point", "coordinates": [ 669727.7, 403790.2 ] } }
+]
+}

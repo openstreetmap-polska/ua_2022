@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1801",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 210, "JPT_KOD_JE": "1801", "JPT_NAZWA_": "powiat bieszczadzki", "id": 308, "wojewodztwo": "podkarpackie", "miasto": "Ustrzyki Dolne", "powiat": "bieszczadzki ", "adres": "29 Listopada 57", "miejscowosc": "Ustrzyki Dolne", "kod": "38-700 ", "nazwa": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Ustrzykach Dolnych", "poziom": "I stopień", "www": "http:\/\/spzoz-ustrzyki.pl", "telefon": "(013)461 10 11", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 761175.9, 180394.9 ] } }
+]
+}

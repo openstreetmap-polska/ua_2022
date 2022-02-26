@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1416",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1416", "JPT_NAZWA_": "powiat ostrowski", "id": 36, "ksiega": 384004, "id zoz": 465997, "id jednostki": "742040", "id komórki": 6424643, "regon": 30675600036, "kod jednostki": "01", "kod komórki": 77, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Ostrów Mazowiecka - gmina miejska", "ulica": "ul. Stanisława Duboisa", "budynek": "68", "lokal": "NULL", "kod": "07-300", "miejscowosc": "OSTRÓW MAZOWIECKA", "teryt": 1416011, "kod simc": 966330, "kod ulicy": "04339", "lozka": 5, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-01-01" }, "geometry": { "type": "Point", "coordinates": [ 696274.1, 552189.810000000987202 ] } }
+]
+}

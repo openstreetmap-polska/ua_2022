@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2411",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 217, "JPT_KOD_JE": "2411", "JPT_NAZWA_": "powiat raciborski", "id": 486, "wojewodztwo": "śląskie", "miasto": "raciborski", "powiat": "Racibórz", "adres": "Gamowska 3", "miejscowosc": "Racibórz", "kod": null, "nazwa": "Szpital Rejonowy im. dr. Józefa Rostka w Raciborzu", "poziom": "II stopień", "www": "http:\/\/www.szpital-raciborz.org", "telefon": "32 755 50 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 442962.6, 248531.1 ] } }
+]
+}

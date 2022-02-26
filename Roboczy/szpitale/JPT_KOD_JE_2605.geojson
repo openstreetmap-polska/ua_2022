@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2605",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 320, "JPT_KOD_JE": "2605", "JPT_NAZWA_": "powiat konecki", "id": 445, "wojewodztwo": "ŚWIĘTOKRZYSKIE", "miasto": "KOŃSKIE", "powiat": "KONECKI", "adres": "GIMNAZJALNA 41B", "miejscowosc": "KOŃSKIE", "kod": null, "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W KOŃSKICH", "poziom": "II stopień", "www": "http:\/\/zoz.konskie.pl", "telefon": "41 36 71 555 (444, 222)", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 597219.3, 370266.8 ] } }
+]
+}

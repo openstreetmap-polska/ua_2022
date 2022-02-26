@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2205",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 171, "JPT_KOD_JE": "2205", "JPT_NAZWA_": "powiat kartuski", "id": "104#350", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "001966", "swiadczeniodawca": "Powiatowe Centrum Zdrowia w Kartuzach NZOZ IM. DR ALEKSANDRA MAJKOWSKIEGO", "miejscowosc": "Sierakowice", "ulica": "Lęborska ", "numer_domu": "34", "adres_swiadczeniodawcy": "Lęborska 34", "telefon": "58 685 49 59 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Lęborska", "g_miejsc": "Sierakowice", "g_adr": "34", "g_teryt": "2205042", "g_gm": "Sierakowice", "g_pow": "kartuski", "g_woj": "pomorskie", "g_szer": 17.890432422926633, "g_dlug": 54.350054003380023, "g_uuid": "11f4c76b-d891-4232-a428-c0019ad55132", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 427902.831662372977007, 721229.373594024218619 ] } },
+{ "type": "Feature", "properties": { "gid": 378, "JPT_KOD_JE": "2205", "JPT_NAZWA_": "powiat kartuski", "id": "104#328", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "001966", "swiadczeniodawca": "Powiatowe Centrum Zdrowia w Kartuzach NZOZ IM. DR ALEKSANDRA MAJKOWSKIEGO", "miejscowosc": " Kartuzy", "ulica": "Floriana Ceynowy ", "numer_domu": "7", "adres_swiadczeniodawcy": "Floriana Ceynowy 7", "telefon": "58 685 49 59 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Floriana Ceynowy", "g_miejsc": "Kartuzy", "g_adr": "7", "g_teryt": "2205023", "g_gm": "Kartuzy", "g_pow": "kartuski", "g_woj": "pomorskie", "g_szer": 18.19799281650608, "g_dlug": 54.336785348473079, "g_uuid": "a8f5ac92-9840-4f94-abeb-a612c6826c08", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 447870.06111781776417, 719483.546770790591836 ] } }
+]
+}

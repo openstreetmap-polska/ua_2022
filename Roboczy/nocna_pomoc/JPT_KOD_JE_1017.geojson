@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1017",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 31, "JPT_KOD_JE": "1017", "JPT_NAZWA_": "powiat wieluński", "id": "104#132", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "120004", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Wieluniu", "miejscowosc": "Wieluń ", "ulica": "Szpitalna ", "numer_domu": "16", "adres_swiadczeniodawcy": "Szpitalna 16", "telefon": "43 840 67 63", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Wieluń", "g_adr": "16", "g_teryt": "1017093", "g_gm": "Wieluń", "g_pow": "wieluński", "g_woj": "łódzkie", "g_szer": 18.565502562581461, "g_dlug": 51.213501883682369, "g_uuid": "ebe2e11b-df93-4f0b-bf2e-a91c947dd774", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 469660.615628080093302, 371954.251141604036093 ] } }
+]
+}

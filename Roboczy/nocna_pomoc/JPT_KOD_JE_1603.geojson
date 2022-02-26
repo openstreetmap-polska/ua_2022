@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1603",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 484, "JPT_KOD_JE": "1603", "JPT_NAZWA_": "powiat kędzierzyńsko-kozielski", "id": "104#267", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/10032", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Kędzierzynie - Koźlu", "miejscowosc": "Kędzierzyn-Koźle\r\n\r\n ", "ulica": "Roosevelta   ", "numer_domu": "2", "adres_swiadczeniodawcy": "Roosevelta 2  ", "telefon": "Roosevelta: 77 403 41 53; 77 406 25 29; Mostowa: 77 405 41 50; 501 202 360; 510 202 313 (zespół wyjazdowy)", "dodatkowe_miejsce": "Mostowa 30B", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Roosevelta Franklina Delano", "g_miejsc": "Kędzierzyn-Koźle", "g_adr": "2", "g_teryt": "1603011", "g_gm": "Kędzierzyn-Koźle", "g_pow": "kędzierzyńsko-kozielski", "g_woj": "opolskie", "g_szer": 18.151337548144841, "g_dlug": 50.332435843489179, "g_uuid": "1453149b-d6ff-447e-8787-9b28a97e876d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 439617.978814912959933, 274264.856629310175776 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2612",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 186, "JPT_KOD_JE": "2612", "JPT_NAZWA_": "powiat staszowski", "id": "104#438", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130000200", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Staszowie", "miejscowosc": "Staszów", "ulica": "11 Listopada ", "numer_domu": "78", "adres_swiadczeniodawcy": "11 Listopada 78", "telefon": "15 864 85 46", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 21.19076541443216, "g_dlug": 50.561420035209991, "g_uuid": "1818c03b-2c4b-4594-a489-b8ec7f90bd50", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 655116.318329461268149, 301664.788786270655692 ] } }
+]
+}

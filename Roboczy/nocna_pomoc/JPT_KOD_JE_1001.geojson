@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1001",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 339, "JPT_KOD_JE": "1001", "JPT_NAZWA_": "powiat bełchatowski", "id": "104#112", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "140042", "swiadczeniodawca": "Szpital Wojewódzki im. Jana  Pawła II w Bełchatowie  ", "miejscowosc": "Bełchatów       ", "ulica": "Czapliniecka ", "numer_domu": "123", "adres_swiadczeniodawcy": "Czapliniecka 123", "telefon": "44 635 85 34; 44 635 83 01", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Czapliniecka", "g_miejsc": "Bełchatów", "g_adr": "123", "g_teryt": "1001011", "g_gm": "Bełchatów", "g_pow": "bełchatowski", "g_woj": "łódzkie", "g_szer": 19.350204656291773, "g_dlug": 51.374540299674301, "g_uuid": "aa83ae3f-acfd-4cca-9380-b30f154e7aa9", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 524367.676165092387237, 389826.545135957188904 ] } }
+]
+}

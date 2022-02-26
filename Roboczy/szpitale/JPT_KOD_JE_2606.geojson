@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2606",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 398, "JPT_KOD_JE": "2606", "JPT_NAZWA_": "powiat opatowski", "id": 446, "wojewodztwo": "ŚWIĘTOKRZYSKIE", "miasto": "OPATÓW", "powiat": "OPATOWSKI", "adres": "SZPITALNA 4", "miejscowosc": "OPATÓW", "kod": null, "nazwa": "\"CENTRUM DIALIZA\" SP. Z O.O.", "poziom": "I stopień", "www": "http:\/\/szpitalwopatowie.pl", "telefon": "15 867 04 01", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 670826.5, 329171.5 ] } }
+]
+}

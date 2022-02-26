@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2463",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 70, "JPT_KOD_JE": "2463", "JPT_NAZWA_": "powiat Chorzów", "id": "104#366", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/100010", "swiadczeniodawca": "SP ZOZ Zespół Szpitali Miejskich w Chorzowie", "miejscowosc": "Chorzów", "ulica": "Strzelców Bytomskich   ", "numer_domu": "11", "adres_swiadczeniodawcy": "Strzelców Bytomskich 11  ", "telefon": "32 349 91 40; \r\n32 349 91 38", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Strzelców Bytomskich", "g_miejsc": "Chorzów", "g_adr": "11", "g_teryt": "2463011", "g_gm": "Chorzów", "g_pow": "Chorzów", "g_woj": "śląskie", "g_szer": 18.944104686739024, "g_dlug": 50.292872206066455, "g_uuid": "cb44ec59-976c-4a26-b19e-fbe616517cd1", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 496019.395076149376109, 269523.621031136251986 ] } }
+]
+}

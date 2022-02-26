@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3061",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 409, "JPT_KOD_JE": "3061", "JPT_NAZWA_": "powiat Kalisz", "id": "104#476", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150006180", "swiadczeniodawca": "Wojewódzki Szpital Zespolony im. Ludwika Perzyny w Kaliszu", "miejscowosc": "Kalisz", "ulica": "Poznańska                                                                 ", "numer_domu": "79", "adres_swiadczeniodawcy": "Poznańska 79                                                                ", "telefon": "62 765 16 54", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Poznańska", "g_miejsc": "Kalisz", "g_adr": "79", "g_teryt": "3061011", "g_gm": "Kalisz", "g_pow": "Kalisz", "g_woj": "wielkopolskie", "g_szer": 18.065889055009571, "g_dlug": 51.762781842949039, "g_uuid": "15452871-ea46-43b8-a7e2-7d92a0c6baab", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 435554.444570754712913, 433346.023963197134435 ] } }
+]
+}

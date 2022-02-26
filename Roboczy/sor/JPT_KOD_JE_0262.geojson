@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0262",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0262", "JPT_NAZWA_": "powiat Legnica", "id": 187, "ksiega": 391796, "id zoz": 481307, "id jednostki": "777161", "id komórki": 6833957, "regon": 39099944100020, "kod jednostki": "01", "kod komórki": 17, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Legnica - gmina miejska", "ulica": "ul. Jarosława Iwaszkiewicza", "budynek": "5", "lokal": "NULL", "kod": "59-220", "miejscowosc": "Legnica", "teryt": 262011, "kod simc": 954047, "kod ulicy": "06944", "lozka": 12, "liczba łóżek iom": 5, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-09-01" }, "geometry": { "type": "Point", "coordinates": [ 305665.398412887006998, 374920.875843292975333 ] } }
+]
+}

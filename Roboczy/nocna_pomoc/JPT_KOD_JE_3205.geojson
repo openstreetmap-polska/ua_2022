@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3205",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 315, "JPT_KOD_JE": "3205", "JPT_NAZWA_": "powiat gryficki", "id": "104#516", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000726", "swiadczeniodawca": "SP Zespół Zakładów Opieki Zdrowotnej", "miejscowosc": "Gryfice", "ulica": "Niechorska ", "numer_domu": "27", "adres_swiadczeniodawcy": "Niechorska 27", "telefon": "91 384 47 14; \r\n91 384 20 61 wew. 423", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Niechorska", "g_miejsc": "Gryfice", "g_adr": "27", "g_teryt": "3205023", "g_gm": "Gryfice", "g_pow": "gryficki", "g_woj": "zachodniopomorskie", "g_szer": 15.174423495886511, "g_dlug": 53.92430159968022, "g_uuid": "9be3714d-dac2-4349-97d8-bc133c9e8ec5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 248912.810847822518554, 680085.330357854254544 ] } }
+]
+}

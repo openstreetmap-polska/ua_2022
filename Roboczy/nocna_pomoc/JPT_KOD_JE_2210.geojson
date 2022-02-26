@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2210",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 380, "JPT_KOD_JE": "2210", "JPT_NAZWA_": "powiat nowodworski", "id": "104#346", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "001444", "swiadczeniodawca": "Powiatowe Centrum Zdrowia w Malborku - Szpital im. dr Jadwigi Obodzińskiej-Król w Malborku", "miejscowosc": "Nowy Dwór Gdański", "ulica": " Dworcowa ", "numer_domu": "12", "adres_swiadczeniodawcy": " Dworcowa 12", "telefon": "55 247 22 47  ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Dworcowa", "g_miejsc": "Nowy Dwór Gdański", "g_adr": "12", "g_teryt": "2210023", "g_gm": "Nowy Dwór Gdański", "g_pow": "nowodworski", "g_woj": "pomorskie", "g_szer": 19.119991715116022, "g_dlug": 54.211559656253137, "g_uuid": "303dd708-5e8e-4f01-834c-65a151309fa4", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 507823.005314430338331, 705264.151345328427851 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2408",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 512, "JPT_KOD_JE": "2408", "JPT_NAZWA_": "powiat mikołowski", "id": 517, "wojewodztwo": "śląskie", "miasto": "mikołowski", "powiat": "Mikołów", "adres": "Waryńskiego 2", "miejscowosc": "Mikołów", "kod": null, "nazwa": "Centrum Zdrowia w Mikołowie Sp. z o.o.", "poziom": "I stopień", "www": "http:\/\/www.szpital-mikolow.com.pl\/index.php", "telefon": "32 325 75 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 493226.6, 256398.5 ] } },
+{ "type": "Feature", "properties": { "_uid_": 513, "JPT_KOD_JE": "2408", "JPT_NAZWA_": "powiat mikołowski", "id": 521, "wojewodztwo": "śląskie", "miasto": "mikołowski", "powiat": "Mikołów", "adres": "Okrzei 27", "miejscowosc": "Mikołów", "kod": null, "nazwa": "Szpital św. Józefa sp. z o. o.", "poziom": "I stopień", "www": "http:\/\/www.szpital.boromeuszki.org.pl\/Strona", "telefon": "32 226 59 77", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 493438.5, 255882.3 ] } },
+{ "type": "Feature", "properties": { "_uid_": 514, "JPT_KOD_JE": "2408", "JPT_NAZWA_": "powiat mikołowski", "id": 460, "wojewodztwo": "śląskie", "miasto": "mikołowski", "powiat": "Orzesze", "adres": "Gliwicka 20", "miejscowosc": "Orzesze", "kod": null, "nazwa": "Szpital Chorób Płuc", "poziom": "Szpital pulmonologiczny", "www": "http:\/\/www.szpitalorzesze.pl", "telefon": "32 221 36 61", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 483902.1, 253698.3 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0410",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 118, "JPT_KOD_JE": "0410", "JPT_NAZWA_": "powiat nakielski", "id": 41, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Nakło Nad Notecią", "powiat": "nakielski", "adres": "Mickiewicza 7", "miejscowosc": null, "kod": null, "nazwa": "Niepubliczny Zakład Opieki Zdrowotnej \"Nowy Szpital w Nakle i Szubinie sp. z o.o.", "poziom": "I stopień", "www": "http:\/\/www.nowyszpital.pl", "telefon": "SZUBIN: 41 240 1010, 41 240 1100; NAKŁO: 41 240 2010, 41 240 2050                                    ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 405986.1, 586997.0 ] } }
+]
+}

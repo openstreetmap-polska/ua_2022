@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0618",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 121, "JPT_KOD_JE": "0618", "JPT_NAZWA_": "powiat tomaszowski", "id": "104#88", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000603", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Tomaszowie Lubelskim", "miejscowosc": "Tomaszów Lubelski", "ulica": "Aleje Grunwaldzkie ", "numer_domu": "1", "adres_swiadczeniodawcy": "Aleje Grunwaldzkie 1", "telefon": "84 664 44 11\r\nw.328; 84 665 84 63", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Aleje Grunwaldzkie", "g_miejsc": "Tomaszów Lubelski", "g_adr": "1", "g_teryt": "0618011", "g_gm": "Tomaszów Lubelski", "g_pow": "tomaszowski", "g_woj": "lubelskie", "g_szer": 23.416073739123156, "g_dlug": 50.443138328269086, "g_uuid": "88458176-e09f-4d3e-9bb0-9e5e198288ed", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 813415.562966763274744, 295546.517350906506181 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1205",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1205", "JPT_NAZWA_": "powiat gorlicki", "id": 79, "ksiega": 388232, "id zoz": 474735, "id jednostki": "761987", "id komórki": 6664923, "regon": 30861400027, "kod jednostki": "01", "kod komórki": 87, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Gorlice - gmina miejska", "ulica": "ul. Węgierska", "budynek": "21", "lokal": "NULL", "kod": "38-300", "miejscowosc": "Gorlice", "teryt": 1205011, "kod simc": 959903, "kod ulicy": "23923", "lozka": 8, "liczba łóżek iom": 3, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-01-01" }, "geometry": { "type": "Point", "coordinates": [ 656048.229998457944021, 200455.789980505011044 ] } }
+]
+}

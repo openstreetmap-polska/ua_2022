@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2810",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2810", "JPT_NAZWA_": "powiat mrągowski", "id": 111, "ksiega": 389209, "id zoz": 476935, "id jednostki": "767435", "id komórki": 6733461, "regon": 51093834900023, "kod jednostki": "01", "kod komórki": 55, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "szpitalny oddział ratunkowy", "teryt opis": "Mrągowo - gmina miejska", "ulica": "ul. Wolności", "budynek": "3", "lokal": "NULL", "kod": "11-700", "miejscowosc": "Mrągowo", "teryt": 2810011, "kod simc": 964896, "kod ulicy": "24687", "lozka": 2, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 4, "data rozpoczęcia działalności komórki": "2002-05-10" }, "geometry": { "type": "Point", "coordinates": [ 651342.2628, 670740.957199999946 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0206",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 107, "JPT_KOD_JE": "0206", "JPT_NAZWA_": "powiat karkonoski", "id": "104#12", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3402008", "swiadczeniodawca": "Powiatowe Centrum Zdrowia w Kowarach", "miejscowosc": "Kowary\r\n", "ulica": "Sanatoryjna ", "numer_domu": "15", "adres_swiadczeniodawcy": "Sanatoryjna 15", "telefon": "72 37 23 300; 72 37 24 400 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sanatoryjna", "g_miejsc": "Kowary", "g_adr": "15", "g_teryt": "0206021", "g_gm": "Kowary", "g_pow": "jeleniogórski", "g_woj": "dolnośląskie", "g_szer": 15.838550446632043, "g_dlug": 50.80913436354686, "g_uuid": "8f3f2030-48ba-4e86-badf-4d8cc7d671b4", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 277342.934889833559282, 331673.688102921471 ] } }
+]
+}

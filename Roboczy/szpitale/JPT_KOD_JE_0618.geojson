@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0618",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 11, "JPT_KOD_JE": "0618", "JPT_NAZWA_": "powiat tomaszowski", "id": 86, "wojewodztwo": "lubelskie", "miasto": "TOMASZÓW LUBELSKI", "powiat": "TOMASZOWSKI", "adres": "ALEJE GRUNWALDZKIE 1", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W TOMASZOWIE LUBELSKIM", "poziom": "I stopień", "www": "http:\/\/www.szpital-tomaszow.pl", "telefon": "84 664 44 11", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 813415.8, 295546.3 ] } }
+]
+}

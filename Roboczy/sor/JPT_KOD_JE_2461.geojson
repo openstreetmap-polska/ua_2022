@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2461",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2461", "JPT_NAZWA_": "powiat Bielsko-Biała", "id": 165, "ksiega": 391468, "id zoz": 480692, "id jednostki": "775206", "id komórki": 6811421, "regon": 7062159000047, "kod jednostki": "01", "kod komórki": 18, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Oddział Ratunkowy", "teryt opis": "Bielsko-Biała - gmina miejska", "ulica": "Aleja Armii Krajowej", "budynek": "101", "lokal": "NULL", "kod": "43-316", "miejscowosc": "Bielsko-Biała", "teryt": 2461011, "kod simc": 923584, "kod ulicy": "38499", "lozka": 6, "liczba łóżek iom": 4, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-09-26" }, "geometry": { "type": "Point", "coordinates": [ 502784.1606, 213917.754799999005627 ] } }
+]
+}

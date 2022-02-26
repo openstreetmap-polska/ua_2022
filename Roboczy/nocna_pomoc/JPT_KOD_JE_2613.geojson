@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2613",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 518, "JPT_KOD_JE": "2613", "JPT_NAZWA_": "powiat włoszczowski", "id": "104#439", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130000115", "swiadczeniodawca": "Zespół Opieki Zdrowotnej we Włoszczowie", "miejscowosc": "Włoszczowa", "ulica": "Żeromskiego ", "numer_domu": "28", "adres_swiadczeniodawcy": "Żeromskiego 28", "telefon": "41 388 37 12", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Żeromskiego", "g_miejsc": "Włoszczowa", "g_adr": "28", "g_teryt": "2613063", "g_gm": "Włoszczowa", "g_pow": "włoszczowski", "g_woj": "świętokrzyskie", "g_szer": 19.973304215926799, "g_dlug": 50.846888465585039, "g_uuid": "2e45ab6b-1722-4f83-af20-08dbfddae56f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 568499.371048086439259, 331559.376663183793426 ] } }
+]
+}

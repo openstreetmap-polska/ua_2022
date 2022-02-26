@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1817",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1817", "JPT_NAZWA_": "powiat sanocki", "id": 139, "ksiega": 390924, "id zoz": 479493, "id jednostki": "772211", "id komórki": 6775558, "regon": 37044434500031, "kod jednostki": "01", "kod komórki": 17, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddzial Ratunkowy z Izbą Przyjęć", "teryt opis": "Sanok - gmina miejska", "ulica": "ul. 800-lecia", "budynek": "26", "lokal": "NULL", "kod": "38-500", "miejscowosc": "Sanok", "teryt": 1817011, "kod simc": 953510, "kod ulicy": "00081", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 4, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "1998-12-31" }, "geometry": { "type": "Point", "coordinates": [ 731288.39, 192081.39 ] } }
+]
+}

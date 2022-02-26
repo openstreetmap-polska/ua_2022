@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2806",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 402, "JPT_KOD_JE": "2806", "JPT_NAZWA_": "powiat giżycki", "id": "104#448", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140000505", "swiadczeniodawca": "\"Szpital Giżycki\" Sp. z o. o.", "miejscowosc": "Giżycko", "ulica": "Warszawska ", "numer_domu": "41", "adres_swiadczeniodawcy": "Warszawska 41", "telefon": "87 429 66 33; \r\n87 429 66 34", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Warszawska", "g_miejsc": "Giżycko", "g_adr": "41", "g_teryt": "2806011", "g_gm": "Giżycko", "g_pow": "giżycki", "g_woj": "warmińsko-mazurskie", "g_szer": 21.782169172165577, "g_dlug": 54.036814951444313, "g_uuid": "e314e8d8-3a41-4a19-996b-1c2130a75db6", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 682132.185635271132924, 689400.495489354245365 ] } }
+]
+}

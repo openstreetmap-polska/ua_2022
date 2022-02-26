@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1461",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1461", "JPT_NAZWA_": "powiat Ostrołęka", "id": 75, "ksiega": 387886, "id zoz": 473951, "id jednostki": "760585", "id komórki": 6648336, "regon": 30461600040, "kod jednostki": "01", "kod komórki": 101, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Ostrołęka - gmina miejska", "ulica": "Aleja Jana Pawła II", "budynek": "120A", "lokal": "NULL", "kod": "07-410", "miejscowosc": "Ostrołęka", "teryt": 1461011, "kod simc": 966079, "kod ulicy": "37675", "lozka": 7, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-09-06" }, "geometry": { "type": "Point", "coordinates": [ 673457.434241137001663, 580655.876475231023505 ] } }
+]
+}

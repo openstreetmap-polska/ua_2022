@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0806",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 224, "JPT_KOD_JE": "0806", "JPT_NAZWA_": "powiat strzelecko-drezdenecki", "id": 94, "wojewodztwo": "lubuskie", "miasto": "Drezdenko", "powiat": "strzelecko-drezdenecki", "adres": "Piłsudskiego 8", "miejscowosc": "Drezdenko", "kod": "66-530", "nazwa": "Powiatowe Centrum Zdrowia Spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.szpital-drezdenko.pl", "telefon": "95 762 05 10", "e-mail": "sekretariat@szpital-drezdenko.pl" }, "geometry": { "type": "Point", "coordinates": [ 286286.8, 556794.7 ] } }
+]
+}

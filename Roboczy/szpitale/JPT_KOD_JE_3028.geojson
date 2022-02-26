@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3028",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 100, "JPT_KOD_JE": "3028", "JPT_NAZWA_": "powiat wągrowiecki", "id": 383, "wojewodztwo": "wielkopolskie", "miasto": "WĄGROWIEC ", "powiat": "WĄGROWIECKI ", "adres": "KOŚCIUSZKI 74 ", "miejscowosc": null, "kod": "62-100 ", "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W WĄGROWCU ", "poziom": "I stopień", "www": "http:\/\/www.szpitalwagrowiec.pl\/ ", "telefon": "(067)26-81-500 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 379035.1, 551770.9 ] } }
+]
+}

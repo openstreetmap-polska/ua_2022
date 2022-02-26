@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0807",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 443, "JPT_KOD_JE": "0807", "JPT_NAZWA_": "powiat sulęciński", "id": "104#102", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "040217", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Sulęcin", "miejscowosc": "Sulęcin\r\n", "ulica": " Witosa ", "numer_domu": "7", "adres_swiadczeniodawcy": " Witosa 7", "telefon": "95 755 96 06", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Wincentego Witosa", "g_miejsc": "Sulęcin", "g_adr": "7", "g_teryt": "0807043", "g_gm": "Sulęcin", "g_pow": "sulęciński", "g_woj": "lubuskie", "g_szer": 15.117261178773179, "g_dlug": 52.437190674835414, "g_uuid": "02ded98b-5463-4475-b739-460c7f429745", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 236183.254703789600171, 515012.49337475001812 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1419",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 255, "JPT_KOD_JE": "1419", "JPT_NAZWA_": "powiat płocki", "id": "104#258", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70002256", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Wojewódzka Stacja Pogotowia Ratunkowego i Transportu Sanitarnego w Płocku", "miejscowosc": "Wyszogród", "ulica": "Płocka", "numer_domu": "29a", "adres_swiadczeniodawcy": "Płocka 29a", "telefon": "24 231 22 23", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 20.18924134780584, "g_dlug": 52.388228937465215, "g_uuid": "c63d762e-3913-4118-92e7-71c43e342bd6", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 580908.064014266827144, 503142.923643344081938 ] } },
+{ "type": "Feature", "properties": { "gid": 355, "JPT_KOD_JE": "1419", "JPT_NAZWA_": "powiat płocki", "id": "104#189", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70002256", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Wojewódzka Stacja Pogotowia Ratunkowego i Transportu Sanitarnego w Płocku", "miejscowosc": "Gąbin", "ulica": "Płocka", "numer_domu": "19", "adres_swiadczeniodawcy": "Płocka 19a", "telefon": "24 277-11-67;", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 19.731507979874809, "g_dlug": 52.403159387387475, "g_uuid": "eb6d457b-c564-44e5-820b-4c47182cea16", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 549750.898701659869403, 504389.536809886805713 ] } }
+]
+}

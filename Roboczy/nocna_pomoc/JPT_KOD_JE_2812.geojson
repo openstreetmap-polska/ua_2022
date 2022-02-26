@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2812",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 303, "JPT_KOD_JE": "2812", "JPT_NAZWA_": "powiat nowomiejski", "id": "104#456", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140002199", "swiadczeniodawca": "Szpital Powiatowy w Nowym Mieście Lubawskim Sp. z o. o.", "miejscowosc": "Nowe Miasto Lubawskie", "ulica": "Mickiewicza ", "numer_domu": "10", "adres_swiadczeniodawcy": "Mickiewicza 10", "telefon": "56 472 41 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Mickiewicza", "g_miejsc": "Nowe Miasto Lubawskie", "g_adr": "10", "g_teryt": "2812011", "g_gm": "Nowe Miasto Lubawskie", "g_pow": "nowomiejski", "g_woj": "warmińsko-mazurskie", "g_szer": 19.586663823567172, "g_dlug": 53.424198506716998, "g_uuid": "8bbe40fb-aae8-46db-988d-fc7472cc8f6f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 538972.108335495460778, 617844.653486296534538 ] } }
+]
+}

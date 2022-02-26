@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1424",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 471, "JPT_KOD_JE": "1424", "JPT_NAZWA_": "powiat pułtuski", "id": "104#218", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70605172", "swiadczeniodawca": "Szpital Powiatowy Gajda-Med Spółka z ograniczoną odpowiedzialnością", "miejscowosc": "Pułtusk", "ulica": "Teofila Kwiatkowskiego ", "numer_domu": "19", "adres_swiadczeniodawcy": "Teofila Kwiatkowskiego 19", "telefon": "23 691-99-99", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kwiatkowskiego Teofila", "g_miejsc": "Pułtusk", "g_adr": "19", "g_teryt": "1424043", "g_gm": "Pułtusk", "g_pow": "pułtuski", "g_woj": "mazowieckie", "g_szer": 21.114121992671855, "g_dlug": 52.693733646127207, "g_uuid": "89b7ec08-e6c8-47ef-9cee-23456c32f1cb", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 642829.853294729837216, 538545.623660854063928 ] } }
+]
+}

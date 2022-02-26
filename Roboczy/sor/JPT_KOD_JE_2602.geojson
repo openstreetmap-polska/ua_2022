@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2602",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2602", "JPT_NAZWA_": "powiat jędrzejowski", "id": 224, "ksiega": 392332, "id zoz": 482587, "id jednostki": "780138", "id komórki": 6869153, "regon": 26022129000104, "kod jednostki": "01", "kod komórki": 40, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Jędrzejów - miasto", "ulica": "ul. Małogoska", "budynek": "25", "lokal": "NULL", "kod": "28-300", "miejscowosc": "Jędrzejów", "teryt": 2602024, "kod simc": 947030, "kod ulicy": "12177", "lozka": 4, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2009-10-01" }, "geometry": { "type": "Point", "coordinates": [ 592079.827, 309942.457 ] } }
+]
+}

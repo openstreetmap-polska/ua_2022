@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3214",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 47, "JPT_KOD_JE": "3214", "JPT_NAZWA_": "powiat stargardzki", "id": 340, "wojewodztwo": "zachodniopomorskie", "miasto": "Stargard ", "powiat": "stargardzki ", "adres": "Wojska Polskiego 27 ", "miejscowosc": null, "kod": null, "nazwa": "Samodzielny Publiczny Wielospecjalistyczny Zakład Opieki Zdrowotnej w Stargardzie ", "poziom": "I stopień", "www": "http:\/\/zozstargard.pl\/ ", "telefon": "91 577 63 55 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 236238.4, 615957.4 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0804",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 336, "JPT_KOD_JE": "0804", "JPT_NAZWA_": "powiat nowosolski", "id": "104#97", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "040316", "swiadczeniodawca": "Wielospecjalistyczny Szpital Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowej Soli", "miejscowosc": "Nowa Sól\r\n", "ulica": " Chałubińskiego ", "numer_domu": "1", "adres_swiadczeniodawcy": " Chałubińskiego 1", "telefon": "68 388 21 19", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Chałubińskiego", "g_miejsc": "Nowa Sól", "g_adr": "1", "g_teryt": "0804011", "g_gm": "Nowa Sól", "g_pow": "nowosolski", "g_woj": "lubuskie", "g_szer": 15.690785957032228, "g_dlug": 51.807378779520135, "g_uuid": "d87fb569-3f39-4add-b7de-50cc13c30b57", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 271945.438611604389735, 443070.840774481184781 ] } }
+]
+}

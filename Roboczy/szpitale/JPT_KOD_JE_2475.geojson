@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2475",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 422, "JPT_KOD_JE": "2475", "JPT_NAZWA_": "powiat Sosnowiec", "id": 470, "wojewodztwo": "śląskie", "miasto": "Sosnowiec", "powiat": "Sosnowiec", "adres": "Kościelna 13", "miejscowosc": "Sosnowiec", "kod": null, "nazwa": "Instytut Medycyny Pracy i Zdrowia Środowiskowego w Sosnowcu", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.imp.sosnowiec.pl", "telefon": "32 266 08 85", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 509140.5, 267111.6 ] } },
+{ "type": "Feature", "properties": { "_uid_": 423, "JPT_KOD_JE": "2475", "JPT_NAZWA_": "powiat Sosnowiec", "id": 476, "wojewodztwo": "śląskie", "miasto": "Sosnowiec", "powiat": "Sosnowiec", "adres": "pl. Medyków 1", "miejscowosc": "Sosnowiec", "kod": null, "nazwa": "Wojewódzki Szpital Specjalistyczny nr 5 im. Św. Barbary w Sosnowcu", "poziom": "III stopień", "www": "http:\/\/www.wss5.pl", "telefon": "32 368 20 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 508765.4, 270837.3 ] } },
+{ "type": "Feature", "properties": { "_uid_": 424, "JPT_KOD_JE": "2475", "JPT_NAZWA_": "powiat Sosnowiec", "id": 501, "wojewodztwo": "śląskie", "miasto": "Sosnowiec", "powiat": "Sosnowiec", "adres": "Szpitalna 1", "miejscowosc": "Sosnowiec", "kod": null, "nazwa": "Sosnowiecki Szpital Miejski Spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.szpital.sosnowiec.pl", "telefon": "32 413 01 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 512943.9, 270069.3 ] } },
+{ "type": "Feature", "properties": { "_uid_": 425, "JPT_KOD_JE": "2475", "JPT_NAZWA_": "powiat Sosnowiec", "id": 463, "wojewodztwo": "śląskie", "miasto": "Sosnowiec", "powiat": "Sosnowiec", "adres": "Zapolskiej 3", "miejscowosc": "Sosnowiec", "kod": null, "nazwa": "Centrum Pediatrii im. Jana Pawła II w Sosnowcu Spółka z ograniczoną odpowiedzialnością", "poziom": "Szpital pediatryczny", "www": "http:\/\/www.centrum-pediatrii.com.pl", "telefon": "32 720 77 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 514138.4, 267401.6 ] } }
+]
+}

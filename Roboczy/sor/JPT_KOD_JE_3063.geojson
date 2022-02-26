@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3063",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "3063", "JPT_NAZWA_": "powiat Leszno", "id": 115, "ksiega": 390366, "id zoz": 478313, "id jednostki": "769133", "id komórki": 6742551, "regon": 31023200038, "kod jednostki": "01", "kod komórki": 18, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny  oddział ratunkowy", "teryt opis": "Leszno - gmina miejska", "ulica": "ul. Jana Kiepury", "budynek": "45", "lokal": "NULL", "kod": "64-100", "miejscowosc": "Leszno", "teryt": 3063011, "kod simc": 954225, "kod ulicy": "08396", "lozka": 12, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-04-11" }, "geometry": { "type": "Point", "coordinates": [ 335242.8445, 444034.238399998983368 ] } }
+]
+}

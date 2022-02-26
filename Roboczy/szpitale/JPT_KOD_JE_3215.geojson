@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3215",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 556, "JPT_KOD_JE": "3215", "JPT_NAZWA_": "powiat szczecinecki", "id": 349, "wojewodztwo": "zachodniopomorskie", "miasto": "Szczecinek ", "powiat": "szczecinecki ", "adres": "Kościuszki 38 ", "miejscowosc": null, "kod": null, "nazwa": "Szpital w Szczecinku Spółka z o.o. ", "poziom": "I stopień", "www": "http:\/\/www.szpital.szczecinek.pl ", "telefon": "94 374 33 33; 94 37 26 700 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 346850.9, 652270.2 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1862",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 80, "JPT_KOD_JE": "1862", "JPT_NAZWA_": "powiat Przemyśl", "id": 309, "wojewodztwo": "podkarpackie", "miasto": "Przemyśl", "powiat": "m. Przemyśl ", "adres": "Monte Cassino 18", "miejscowosc": "Przemyśl", "kod": "37-700 ", "nazwa": "WOJEWÓDZKI SZPITAL IM. ŚW.OJCA PIO W PRZEMYŚLU", "poziom": "III stopień", "www": "http:\/\/wszp.pl", "telefon": "+48 16 677 50 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 772126.9, 222636.5 ] } }
+]
+}

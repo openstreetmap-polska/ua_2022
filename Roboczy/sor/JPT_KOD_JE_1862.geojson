@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1862",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1862", "JPT_NAZWA_": "powiat Przemyśl", "id": 204, "ksiega": 392000, "id zoz": 481886, "id jednostki": "778309", "id komórki": 6848259, "regon": 31468400023, "kod jednostki": "01", "kod komórki": 20, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Przemyśl - gmina miejska", "ulica": "ul. Monte Cassino", "budynek": "18", "lokal": "NULL", "kod": "37-700", "miejscowosc": "Przemyśl", "teryt": 1862011, "kod simc": 971672, "kod ulicy": "13252", "lozka": 12, "liczba łóżek iom": 4, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-01-01" }, "geometry": { "type": "Point", "coordinates": [ 772004.57015300297644, 222569.202929316001246 ] } }
+]
+}

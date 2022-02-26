@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1063",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 30, "JPT_KOD_JE": "1063", "JPT_NAZWA_": "powiat Skierniewice", "id": "104#130", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "130001", "swiadczeniodawca": "Wojewódzki Szpital Zespolony im. S. Rybickiego w Skierniewicach  ", "miejscowosc": "Skierniewice ", "ulica": "Sobieskiego ", "numer_domu": "4", "adres_swiadczeniodawcy": "Sobieskiego 4", "telefon": "46 834 08 95", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Jana III Sobieskiego", "g_miejsc": "Skierniewice", "g_adr": "4", "g_teryt": "1063011", "g_gm": "Skierniewice", "g_pow": "Skierniewice", "g_woj": "łódzkie", "g_szer": 20.153805162148558, "g_dlug": 51.964243918135935, "g_uuid": "4a8ea93c-7fbd-48a4-b48b-0548c2433fc2", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 579247.709180287201889, 455961.599639229476452 ] } }
+]
+}

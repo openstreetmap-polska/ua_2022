@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2606",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 399, "JPT_KOD_JE": "2606", "JPT_NAZWA_": "powiat opatowski", "id": "104#431", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130002909", "swiadczeniodawca": "Centrum Dializa Sp.z o. o. Opatów", "miejscowosc": "Opatów", "ulica": "Szpitalna ", "numer_domu": "4", "adres_swiadczeniodawcy": "Szpitalna 4", "telefon": "41 344 26 47;\r\n41 344 65 03; \r\n41 344 26 21", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 21.424966517069926, "g_dlug": 50.804171314122378, "g_uuid": "f99609d8-6426-48fc-b314-94b205912afa", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 670812.94589157088194, 329161.257716569118202 ] } }
+]
+}

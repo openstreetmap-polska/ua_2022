@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1421",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 354, "JPT_KOD_JE": "1421", "JPT_NAZWA_": "powiat pruszkowski", "id": 196, "wojewodztwo": "mazowieckie", "miasto": "PRUSZKÓW", "powiat": "PRUSZKOWSKI", "adres": "ARMII KRAJOWEJ 2\/4", "miejscowosc": "PRUSZKÓW ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W PRUSZKOWIE", "poziom": "I stopień", "www": "http:\/\/www.szpitalnawrzesinie.pl", "telefon": "22 758-60-54\/55", "e-mail": "sekretariat@szpitalnawrzesinie.pl" }, "geometry": { "type": "Point", "coordinates": [ 624383.1, 478567.3 ] } },
+{ "type": "Feature", "properties": { "_uid_": 355, "JPT_KOD_JE": "1421", "JPT_NAZWA_": "powiat pruszkowski", "id": 237, "wojewodztwo": "mazowieckie", "miasto": "KAJETANY", "powiat": "PRUSZKOWSKI", "adres": "MOKRA 17", "miejscowosc": "KAJETANY ", "kod": null, "nazwa": "INSTYTUT FIZJOLOGII I PATOLOGII SŁUCHU", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.ifps.org.pl", "telefon": "223560366", "e-mail": "sekretariat.kajetany@ifps.org.pl" }, "geometry": { "type": "Point", "coordinates": [ 624869.0, 471609.8 ] } }
+]
+}

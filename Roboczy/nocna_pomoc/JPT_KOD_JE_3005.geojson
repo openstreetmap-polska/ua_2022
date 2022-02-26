@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3005",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 407, "JPT_KOD_JE": "3005", "JPT_NAZWA_": "powiat grodziski", "id": "104#474", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000016", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej", "miejscowosc": "Grodzisk Wielkopolski", "ulica": "Mossego ", "numer_domu": "3", "adres_swiadczeniodawcy": "Mossego 3", "telefon": "61 443 65 35", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Mossego", "g_miejsc": "Grodzisk Wielkopolski", "g_adr": "3", "g_teryt": "3005023", "g_gm": "Grodzisk Wielkopolski", "g_pow": "grodziski", "g_woj": "wielkopolskie", "g_szer": 16.366570196347059, "g_dlug": 52.228401774729996, "g_uuid": "70ffe97a-0b9c-4543-8afb-fdac0c887339", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 320204.862123661034275, 487972.464896718971431 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0406",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 348, "JPT_KOD_JE": "0406", "JPT_NAZWA_": "powiat grudziądzki", "id": 37, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Łasin", "powiat": "grudziądzki", "adres": "Łasinie,Radzyńska 4", "miejscowosc": null, "kod": null, "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej im. Macieja  z Miechowa w ", "poziom": "I stopień", "www": "http:\/\/www.spzozlasin.pl", "telefon": "56 466 42 51", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 505388.9, 628064.6 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0415",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 426, "JPT_KOD_JE": "0415", "JPT_NAZWA_": "powiat toruński", "id": "104#45", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20100024", "swiadczeniodawca": "\"Szpital Powiatowy\" Spółka z Ograniczoną Odpowiedzialnością", "miejscowosc": "Chełmża", "ulica": "Szewska ", "numer_domu": "23", "adres_swiadczeniodawcy": "Szewska 23", "telefon": "56 675-26-09", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szewska", "g_miejsc": "Chełmża", "g_adr": "23", "g_teryt": "0415011", "g_gm": "Chełmża", "g_pow": "toruński", "g_woj": "kujawsko-pomorskie", "g_szer": 18.610478343037251, "g_dlug": 53.18717060340289, "g_uuid": "4173dc79-17a9-4c95-9874-5ea72f8081f7", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 473980.223718706867658, 591394.151792422868311 ] } }
+]
+}

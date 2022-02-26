@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1437",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 256, "JPT_KOD_JE": "1437", "JPT_NAZWA_": "powiat żuromiński", "id": "104#263", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001180", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Żurominie", "miejscowosc": "Żuromin", "ulica": "Szpitalna ", "numer_domu": "56", "adres_swiadczeniodawcy": "Szpitalana 56", "telefon": "23 657-22-01 wew. 301", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 19.91913949278474, "g_dlug": 53.070236096557643, "g_uuid": "78a5b5cc-0e2e-47c0-be70-88dba73e980b", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 561564.459867877187207, 578714.215852945111692 ] } }
+]
+}

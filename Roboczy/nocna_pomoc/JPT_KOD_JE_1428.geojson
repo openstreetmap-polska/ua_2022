@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1428",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 251, "JPT_KOD_JE": "1428", "JPT_NAZWA_": "powiat sochaczewski", "id": "104#225", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70000983", "swiadczeniodawca": "Zespół Opieki Zdrowotnej \"Szpitala Powiatowego\" w Sochaczewie", "miejscowosc": "Sochaczew", "ulica": " Batalionów Chłopskich", "numer_domu": "3\/7", "adres_swiadczeniodawcy": " Batalionów Chłopskich 3\/7", "telefon": "468649552", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Batalionów Chłopskich", "g_miejsc": "Sochaczew", "g_adr": "3\/7", "g_teryt": "1428011", "g_gm": "Sochaczew", "g_pow": "sochaczewski", "g_woj": "mazowieckie", "g_szer": 20.226688508796538, "g_dlug": 52.239082960896951, "g_uuid": "5b78faa2-1fba-4f11-a23f-7ce069bb8da2", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 583736.841762450756505, 486601.64130793325603 ] } }
+]
+}

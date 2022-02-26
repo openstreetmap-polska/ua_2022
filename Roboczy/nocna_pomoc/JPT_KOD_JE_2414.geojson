@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2414",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 510, "JPT_KOD_JE": "2414", "JPT_NAZWA_": "powiat bieruńsko-lędziński", "id": "104#388", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/100532", "swiadczeniodawca": "Miejski Zespół Opieki Zdrowotnej w Lędzinach", "miejscowosc": "Lędziny", "ulica": "Pokoju ", "numer_domu": "17", "adres_swiadczeniodawcy": "Pokoju 17", "telefon": "32 326 62 53", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Pokoju", "g_miejsc": "Lędziny", "g_adr": "17", "g_teryt": "2414031", "g_gm": "Lędziny", "g_pow": "bieruńsko-lędziński", "g_woj": "śląskie", "g_szer": 19.125025730468828, "g_dlug": 50.121779805175315, "g_uuid": "65160066-022e-4d91-a587-78ca619554f0", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 508935.19608320761472, 250512.066566399298608 ] } }
+]
+}

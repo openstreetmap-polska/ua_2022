@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1605",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 487, "JPT_KOD_JE": "1605", "JPT_NAZWA_": "powiat krapkowicki", "id": 275, "wojewodztwo": "opolskie", "miasto": "Krapkowice", "powiat": "krpakowicki", "adres": "Oś. XXX-lecia 21", "miejscowosc": "Krapkowice", "kod": "47-303 ", "nazwa": "Krapkowickie Centrum Zdrowia Spółka z ograniczoną odpowiedzialnością ", "poziom": "I stopień", "www": "http:\/\/www.kcz.krapkowice.pl", "telefon": "77 446 72 28", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 427075.2, 292170.1 ] } }
+]
+}

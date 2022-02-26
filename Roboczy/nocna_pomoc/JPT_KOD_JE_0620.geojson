@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0620",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 334, "JPT_KOD_JE": "0620", "JPT_NAZWA_": "powiat zamojski", "id": "104#86", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000604", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Szczebrzeszynie", "miejscowosc": "Szczebrzeszyn", "ulica": "Klukowskiego ", "numer_domu": "3", "adres_swiadczeniodawcy": "Klukowskiego 3", "telefon": "84 682 35 21", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Doktora Zygmunta Klukowskiego", "g_miejsc": "Szczebrzeszyn", "g_adr": "3", "g_teryt": "0620133", "g_gm": "Szczebrzeszyn", "g_pow": "zamojski", "g_woj": "lubelskie", "g_szer": 22.97759794588757, "g_dlug": 50.693254212150251, "g_uuid": "d330dc6a-9332-47e6-a36f-953306d6a675", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 780814.13465417525731, 321576.308339206501842 ] } }
+]
+}

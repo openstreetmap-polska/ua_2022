@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3016",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 93, "JPT_KOD_JE": "3016", "JPT_NAZWA_": "powiat obornicki", "id": "104#485", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000007", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Obornikach", "miejscowosc": "Oborniki", "ulica": "Szpitalna ", "numer_domu": "2", "adres_swiadczeniodawcy": "Szpitalna 2", "telefon": "Lekarz POZ:\r\n662 290 702;\r\nPielęgniarka POZ: \r\n734 409 318", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Oborniki", "g_adr": "2", "g_teryt": "3016013", "g_gm": "Oborniki", "g_pow": "obornicki", "g_woj": "wielkopolskie", "g_szer": 16.815965750715701, "g_dlug": 52.653289117477406, "g_uuid": "135668a0-ba94-4865-af78-8e744de4d0e0", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 352311.27468349202536, 534190.429207505658269 ] } }
+]
+}

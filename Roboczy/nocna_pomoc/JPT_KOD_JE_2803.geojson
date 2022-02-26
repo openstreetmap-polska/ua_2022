@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2803",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 299, "JPT_KOD_JE": "2803", "JPT_NAZWA_": "powiat działdowski", "id": "104#444", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140000789", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Działdowie", "miejscowosc": "Działdowo", "ulica": " Leśna ", "numer_domu": "1", "adres_swiadczeniodawcy": " Leśna 1", "telefon": "23 697 21 24 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Leśna", "g_miejsc": "Działdowo", "g_adr": "1", "g_teryt": "2803011", "g_gm": "Działdowo", "g_pow": "działdowski", "g_woj": "warmińsko-mazurskie", "g_szer": 20.193424503107739, "g_dlug": 53.24184748540911, "g_uuid": "c88e3426-f80d-4aca-9381-790fe24fd3c9", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 579617.067427636357024, 598068.786823995411396 ] } }
+]
+}

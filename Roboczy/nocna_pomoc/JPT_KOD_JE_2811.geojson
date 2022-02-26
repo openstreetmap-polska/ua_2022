@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2811",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 302, "JPT_KOD_JE": "2811", "JPT_NAZWA_": "powiat nidzicki", "id": "104#455", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140000480", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Nidzicy", "miejscowosc": "Nidzica", "ulica": "Mickiewicza ", "numer_domu": "23", "adres_swiadczeniodawcy": "Mickiewicza 23", "telefon": "89 625 05 18", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Mickiewicza", "g_miejsc": "Nidzica", "g_adr": "23", "g_teryt": "2811043", "g_gm": "Nidzica", "g_pow": "nidzicki", "g_woj": "warmińsko-mazurskie", "g_szer": 20.432503861763443, "g_dlug": 53.359697861499399, "g_uuid": "0ed6d379-5995-4dc9-a0b3-11ff055af4cc", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 595303.270522978506051, 611467.052957217209041 ] } }
+]
+}

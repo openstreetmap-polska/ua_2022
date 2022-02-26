@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1609",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 366, "JPT_KOD_JE": "1609", "JPT_NAZWA_": "powiat opolski", "id": "104#271", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/20065", "swiadczeniodawca": "NZOZ \"Medyk\"", "miejscowosc": "Niemodlin\r\n\r\n", "ulica": "Zamkowa ", "numer_domu": "4", "adres_swiadczeniodawcy": "Zamkowa 4", "telefon": "664,092,998", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Zamkowa", "g_miejsc": "Niemodlin", "g_adr": "4", "g_teryt": "1609073", "g_gm": "Niemodlin", "g_pow": "opolski", "g_woj": "opolskie", "g_szer": 17.624400150134139, "g_dlug": 50.642877740872962, "g_uuid": "ad2e473b-e5a5-4b58-9a69-48519d42532c", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 402766.628550841589458, 309331.896615468896925 ] } },
+{ "type": "Feature", "properties": { "gid": 486, "JPT_KOD_JE": "1609", "JPT_NAZWA_": "powiat opolski", "id": "104#275", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/20352", "swiadczeniodawca": "EMC Instytut Medyczny SA Szpital w Ozimku", "miejscowosc": "Ozimek", "ulica": "Częstochowska ", "numer_domu": "31", "adres_swiadczeniodawcy": "Częstochowska 31", "telefon": "77 427 34 00; \r\n", "dodatkowe_miejsce": null, "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Częstochowska", "g_miejsc": "Ozimek", "g_adr": "31", "g_teryt": "1609083", "g_gm": "Ozimek", "g_pow": "opolski", "g_woj": "opolskie", "g_szer": 18.220527553406281, "g_dlug": 50.68180189882051, "g_uuid": "c0e882e8-8092-4c65-b50a-27d18c826702", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 444948.506471365864854, 313045.521504026837647 ] } }
+]
+}

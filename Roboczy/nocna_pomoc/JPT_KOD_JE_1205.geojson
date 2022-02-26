@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1205",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 446, "JPT_KOD_JE": "1205", "JPT_NAZWA_": "powiat gorlicki", "id": "104#141", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "063\/100008", "swiadczeniodawca": "Szpital Specjalistyczny im. Henryka Klimontowicza w Gorlicach  ", "miejscowosc": "Gorlice", "ulica": " Węgierska ", "numer_domu": "21", "adres_swiadczeniodawcy": " Węgierska 21", "telefon": "18 352 75 74", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 21.162578132529951, "g_dlug": 49.651266995180983, "g_uuid": "9021b459-3563-4b69-a22c-4ad367581d3f", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 656051.158071194076911, 200452.797305077314377 ] } }
+]
+}

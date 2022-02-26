@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2472",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 79, "JPT_KOD_JE": "2472", "JPT_NAZWA_": "powiat Ruda Śląska", "id": "104#400", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/212090", "swiadczeniodawca": "Szpital Miejski w Rudzie Śląskiej Sp. z o.o.", "miejscowosc": "Ruda Śląska", "ulica": "Lipa ", "numer_domu": "2", "adres_swiadczeniodawcy": "Lipa 2", "telefon": "32 344 07 96, \r\n32 344 07 97, \r\n32 344 07 57", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "Lipa Wincentego", "g_miejsc": "RUDA ŚLĄSKA", "g_adr": "2", "g_teryt": "2472011", "g_gm": "Ruda Śląska", "g_pow": "Ruda Śląska", "g_woj": "śląskie", "g_szer": 18.888184915169848, "g_dlug": 50.315207485494319, "g_uuid": "5534f5c4-b03c-4ae5-9957-485b6037cde4", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 492041.095677550940309, 272011.352530906908214 ] } }
+]
+}

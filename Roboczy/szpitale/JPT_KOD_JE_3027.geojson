@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3027",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 397, "JPT_KOD_JE": "3027", "JPT_NAZWA_": "powiat turecki", "id": 356, "wojewodztwo": "wielkopolskie", "miasto": "TUREK ", "powiat": "TURECKI ", "adres": "PODUCHOWNE 1 ", "miejscowosc": null, "kod": "62-700 ", "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ ", "poziom": "I stopień", "www": "http:\/\/www.szpital.turek.pl\/ ", "telefon": "(063)27-85-120 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 465071.3, 460554.0 ] } }
+]
+}

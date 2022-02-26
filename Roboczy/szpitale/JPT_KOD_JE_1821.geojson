@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1821",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 168, "JPT_KOD_JE": "1821", "JPT_NAZWA_": "powiat leski", "id": 296, "wojewodztwo": "podkarpackie", "miasto": "Lesko", "powiat": "leski ", "adres": "Kochanowskiego 2", "miejscowosc": "Lesko", "kod": "38-600 ", "nazwa": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Lesku", "poziom": "I stopień", "www": "http:\/\/spzozlesko.pl", "telefon": "(013)469 80 71", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 741286.6, 183799.1 ] } }
+]
+}

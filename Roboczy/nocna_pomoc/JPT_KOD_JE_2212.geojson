@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2212",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 64, "JPT_KOD_JE": "2212", "JPT_NAZWA_": "powiat słupski", "id": "104#340", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "000013", "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny im. Janusza Korczaka w Słupsku      ", "miejscowosc": "Kobylnica", "ulica": " Główna", "numer_domu": "54a", "adres_swiadczeniodawcy": " Główna 54a", "telefon": "59 842 90 49", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Główna", "g_miejsc": "Kobylnica", "g_adr": "54A", "g_teryt": "2212062", "g_gm": "Kobylnica", "g_pow": "słupski", "g_woj": "pomorskie", "g_szer": 16.996949878862861, "g_dlug": 54.437277719826085, "g_uuid": "2e78b0ac-515f-4cca-b398-437ab57c6c24", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 370128.401767703588121, 732212.077561448328197 ] } },
+{ "type": "Feature", "properties": { "gid": 68, "JPT_KOD_JE": "2212", "JPT_NAZWA_": "powiat słupski", "id": "104#356", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "000013", "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny im. Janusza Korczaka w Słupsku      ", "miejscowosc": "Ustka", "ulica": "Mickiewicza   ", "numer_domu": "12", "adres_swiadczeniodawcy": "Mickiewicza   12", "telefon": "59 815 42 28, \r\n59 815 42 29", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Adama Mickiewicza", "g_miejsc": "Ustka", "g_adr": "12", "g_teryt": "2212011", "g_gm": "Ustka", "g_pow": "słupski", "g_woj": "pomorskie", "g_szer": 16.86305939732534, "g_dlug": 54.586608283153993, "g_uuid": "fd96a2d6-5ffe-4739-b7f4-ade62abcf394", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 361953.212733291904442, 749074.482750105671585 ] } }
+]
+}

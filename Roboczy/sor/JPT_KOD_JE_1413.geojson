@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1413",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1413", "JPT_NAZWA_": "powiat mławski", "id": 73, "ksiega": 387719, "id zoz": 473572, "id jednostki": "759515", "id komórki": 6632339, "regon": 30247400021, "kod jednostki": "01", "kod komórki": 53, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Mława - gmina miejska", "ulica": "ul. Anny Dobrskiej", "budynek": "1", "lokal": "NULL", "kod": "06-500", "miejscowosc": "Mława", "teryt": 1413011, "kod simc": 930696, "kod ulicy": "03970", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2005-01-01" }, "geometry": { "type": "Point", "coordinates": [ 591727.1287, 585114.573100000969134 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2410",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 78, "JPT_KOD_JE": "2410", "JPT_NAZWA_": "powiat pszczyński", "id": "104#397", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/212358", "swiadczeniodawca": "Centrum Dializa Sp. z o.o. w Pszczynie", "miejscowosc": "Pszczyna", "ulica": "Antesa ", "numer_domu": "11", "adres_swiadczeniodawcy": "Antesa 11", "telefon": "32 210 50 02 wew. 307", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "dr. Antesa Witolda", "g_miejsc": "Pszczyna", "g_adr": "11", "g_teryt": "2410053", "g_gm": "Pszczyna", "g_pow": "pszczyński", "g_woj": "śląskie", "g_szer": 18.939693285463047, "g_dlug": 49.973273322343722, "g_uuid": "7add723a-5ceb-4421-a775-1ba8a5055371", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 495676.660783042549156, 233999.126209071837366 ] } }
+]
+}

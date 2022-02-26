@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1803",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1803", "JPT_NAZWA_": "powiat dębicki", "id": 145, "ksiega": 391119, "id zoz": 480007, "id jednostki": "773498", "id komórki": 6790460, "regon": 85164350300025, "kod jednostki": "01", "kod komórki": 208, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Dębica - gmina miejska", "ulica": "ul. Krakowska", "budynek": "91", "lokal": "NULL", "kod": "39-200", "miejscowosc": "Dębica", "teryt": 1803011, "kod simc": 982233, "kod ulicy": "09796", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2008-10-01" }, "geometry": { "type": "Point", "coordinates": [ 671300.9795, 244057.93029999898863 ] } }
+]
+}

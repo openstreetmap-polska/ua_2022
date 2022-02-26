@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1422",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 358, "JPT_KOD_JE": "1422", "JPT_NAZWA_": "powiat przasnyski", "id": "104#216", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001471", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Przasnyszu", "miejscowosc": "Przasnysz", "ulica": " Sadowa ", "numer_domu": "9", "adres_swiadczeniodawcy": " Sadowa 9", "telefon": "29 753-43-03; 29 753-41-94", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sadowa", "g_miejsc": "Przasnysz", "g_adr": "9", "g_teryt": "1422011", "g_gm": "Przasnysz", "g_pow": "przasnyski", "g_woj": "mazowieckie", "g_szer": 20.895377512584464, "g_dlug": 53.027947893463406, "g_uuid": "e680a33b-3bf2-4021-ade0-496d258092b6", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 627072.953255669446662, 575295.897438346408308 ] } }
+]
+}

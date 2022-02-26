@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1402",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 461, "JPT_KOD_JE": "1402", "JPT_NAZWA_": "powiat ciechanowski", "id": "104#186", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001992", "swiadczeniodawca": "Specjalistyczny Szpital Wojewódzki w Ciechanowie", "miejscowosc": "Ciechanów", "ulica": " Powstańców Wielkopolskich  ", "numer_domu": "2", "adres_swiadczeniodawcy": " Powstańców Wielkopolskich 2 ", "telefon": "23 672 44 88", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Powstańców Wielkopolskich", "g_miejsc": "Ciechanów", "g_adr": "2", "g_teryt": "1402011", "g_gm": "Ciechanów", "g_pow": "ciechanowski", "g_woj": "mazowieckie", "g_szer": 20.634207441256866, "g_dlug": 52.883443648455547, "g_uuid": "135b920e-dabd-460b-bded-89d26a80eeec", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 609930.528339112410322, 558796.098229262977839 ] } }
+]
+}

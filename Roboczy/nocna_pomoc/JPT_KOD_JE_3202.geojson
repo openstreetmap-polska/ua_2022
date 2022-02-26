@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3202",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 98, "JPT_KOD_JE": "3202", "JPT_NAZWA_": "powiat choszczeński", "id": "104#512", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000665", "swiadczeniodawca": " SP Zakład Opieki Zdrowotnej w Choszcznie", "miejscowosc": "Choszczno", "ulica": "Niedziałkowskiego", "numer_domu": "4", "adres_swiadczeniodawcy": "Niedziałkowskiego 4a", "telefon": "95 765 87 26;\r\n 539 321281 (lekarz);\r\n 539 362 478 (pielęgniarka) ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 15.413100592131579, "g_dlug": 53.165596462388677, "g_uuid": "8f67ebc9-009c-42d7-b65b-b74acce88bae", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 260319.809147899242816, 594932.57759500388056 ] } }
+]
+}

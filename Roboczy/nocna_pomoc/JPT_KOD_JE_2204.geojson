@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2204",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 504, "JPT_KOD_JE": "2204", "JPT_NAZWA_": "powiat gdański", "id": "104#347", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "000508", "swiadczeniodawca": "Samodzielne Publiczne Pogotowie Ratunkowe w Pruszczu Gdańskim                                                              ", "miejscowosc": "Pruszcz Gdański ", "ulica": "Raciborskiego", "numer_domu": "2a", "adres_swiadczeniodawcy": " Profesora Mariana Raciborskiego 2a", "telefon": "58 773 30 31", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.634113589276147, "g_dlug": 54.265417653921645, "g_uuid": "51e3f00f-b095-4733-ba30-17c3581f3f00", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 476176.107500805635937, 711310.184764720499516 ] } }
+]
+}

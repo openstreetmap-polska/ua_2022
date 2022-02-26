@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3018",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 95, "JPT_KOD_JE": "3018", "JPT_NAZWA_": "powiat ostrzeszowski", "id": "104#487", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000024", "swiadczeniodawca": "Ostrzeszowskie Centrum Zdrowia Sp. z o. o.", "miejscowosc": "Ostrzeszów ", "ulica": "Al. Wolności ", "numer_domu": "4", "adres_swiadczeniodawcy": "Al. Wolności 4", "telefon": "62 732 01 99", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "Aleja Wolności", "g_miejsc": "Ostrzeszów", "g_adr": "4", "g_teryt": "3018073", "g_gm": "Ostrzeszów", "g_pow": "ostrzeszowski", "g_woj": "wielkopolskie", "g_szer": 17.926919560007462, "g_dlug": 51.425653701075092, "g_uuid": "51e49ee6-0297-4784-97df-a330d18d89c7", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 425416.799454949563369, 395996.733988044783473 ] } }
+]
+}

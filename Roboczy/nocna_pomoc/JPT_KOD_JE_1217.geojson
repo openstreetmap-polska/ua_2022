@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1217",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 38, "JPT_KOD_JE": "1217", "JPT_NAZWA_": "powiat tatrzański", "id": "104#183", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "064\/100032", "swiadczeniodawca": "Szpital Powiatowy im.  dr. Tytusa Chałubińskiego w Zakopanem  ", "miejscowosc": "Zakopane", "ulica": "Kamieniec ", "numer_domu": "10", "adres_swiadczeniodawcy": "Kamieniec 10", "telefon": "18 20 120 21 w.100; 797 181 648", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 2, "g_ul": "Kamieniec", "g_miejsc": "Zakopane", "g_adr": "10", "g_teryt": "1217011", "g_gm": "Zakopane", "g_pow": "tatrzański", "g_woj": "małopolskie", "g_szer": 19.955501627680217, "g_dlug": 49.304394377337871, "g_uuid": "833f1c32-0fe3-448a-9e8f-0ea571b37f15", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 569439.484864073689096, 160094.239326663315296 ] } }
+]
+}

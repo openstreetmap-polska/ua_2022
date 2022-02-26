@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0408",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 115, "JPT_KOD_JE": "0408", "JPT_NAZWA_": "powiat lipnowski", "id": 39, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Lipno", "powiat": "lipnowski", "adres": "Nieszawska 6", "miejscowosc": null, "kod": null, "nazwa": "NZOZ \"Szpital Lipno\" Utworzony Przez Szpital Lipno sp z o.o.", "poziom": "I stopień", "www": "http:\/\/www.szpitallipno@pro.onet.pl", "telefon": "54 288 02 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 510608.6, 552956.8 ] } }
+]
+}

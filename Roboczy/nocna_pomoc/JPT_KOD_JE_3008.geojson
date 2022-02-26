@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3008",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 307, "JPT_KOD_JE": "3008", "JPT_NAZWA_": "powiat kępiński", "id": "104#477", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150003557", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kępnie", "miejscowosc": "Kępno", "ulica": "Szpitalna                                                                      ", "numer_domu": "7", "adres_swiadczeniodawcy": "Szpitalna 7                                                                     ", "telefon": "62 782 74 52", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Kępno", "g_adr": "7", "g_teryt": "3008033", "g_gm": "Kępno", "g_pow": "kępiński", "g_woj": "wielkopolskie", "g_szer": 17.983852038540405, "g_dlug": 51.27680297365179, "g_uuid": "228cba02-bd27-41c3-a412-6cd8ccde19ac", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 429144.327782079053577, 379392.185280416160822 ] } }
+]
+}

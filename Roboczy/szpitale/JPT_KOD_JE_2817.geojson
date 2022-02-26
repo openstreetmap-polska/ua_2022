@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2817",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 237, "JPT_KOD_JE": "2817", "JPT_NAZWA_": "powiat szczycieński", "id": 432, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Szczytno", "powiat": "Szczycieński", "adres": "Skłodowskiej 12", "miejscowosc": "Szczytno", "kod": "12-100", "nazwa": "Zespół Opieki Zdrowotnej w Szczytnie", "poziom": "I stopień", "www": "http:\/\/szpital.szczytno.pl", "telefon": "89 623 21 00 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 631513.8, 634347.0 ] } }
+]
+}

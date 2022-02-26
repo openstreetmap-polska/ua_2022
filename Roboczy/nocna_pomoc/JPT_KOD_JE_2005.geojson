@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2005",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 372, "JPT_KOD_JE": "2005", "JPT_NAZWA_": "powiat hajnowski", "id": "104#312", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000088", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Hajnówce", "miejscowosc": "Hajnówka", "ulica": " Dowgirda ", "numer_domu": "9", "adres_swiadczeniodawcy": " Dowgirda 9", "telefon": "85 682 91 11", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Doc. Adama Dowgirda", "g_miejsc": "Hajnówka", "g_adr": "9", "g_teryt": "2005011", "g_gm": "Hajnówka", "g_pow": "hajnowski", "g_woj": "podlaskie", "g_szer": 23.609740793716917, "g_dlug": 52.74612769085681, "g_uuid": "a7898cc6-ddf3-4f64-b3e1-1f7279112c56", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 810989.824504390358925, 552243.393624571152031 ] } }
+]
+}

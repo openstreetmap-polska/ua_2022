@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1806",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 488, "JPT_KOD_JE": "1806", "JPT_NAZWA_": "powiat kolbuszowski", "id": "104#284", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010005", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kolbuszowej", "miejscowosc": "Kolbuszowa ", "ulica": "Grunwaldzka ", "numer_domu": "4", "adres_swiadczeniodawcy": "Grunwaldzka 4", "telefon": "17 227 12 22 (wew. 307); 728 504 845; \r\n728 506 059", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Grunwaldzka", "g_miejsc": "Kolbuszowa", "g_adr": "4", "g_teryt": "1806023", "g_gm": "Kolbuszowa", "g_pow": "kolbuszowski", "g_woj": "podkarpackie", "g_szer": 21.762485313484557, "g_dlug": 50.242558018864301, "g_uuid": "52bc4b98-e129-4f0c-8c20-96f810f32b39", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 696908.763339197845198, 267580.388853375799954 ] } }
+]
+}

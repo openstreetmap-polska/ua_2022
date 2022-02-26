@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0201",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0201", "JPT_NAZWA_": "powiat bolesławiecki", "id": 210, "ksiega": 392221, "id zoz": 482332, "id jednostki": "779183", "id komórki": 6857974, "regon": 31033800020, "kod jednostki": "01", "kod komórki": 14, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Bolesławiec - gmina miejska", "ulica": "ul. Jeleniogórska", "budynek": "4", "lokal": "NULL", "kod": "59-700", "miejscowosc": "Bolesławiec", "teryt": 201011, "kod simc": 935989, "kod ulicy": "07459", "lozka": 8, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-06-21" }, "geometry": { "type": "Point", "coordinates": [ 260526.721978409012081, 382020.481628431996796 ] } }
+]
+}

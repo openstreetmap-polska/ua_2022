@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1422",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1422", "JPT_NAZWA_": "powiat przasnyski", "id": 116, "ksiega": 390399, "id zoz": 478396, "id jednostki": "769266", "id komórki": 6744765, "regon": 30248000030, "kod jednostki": "01", "kod komórki": 67, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Przasnysz - gmina miejska", "ulica": "ul. Sadowa", "budynek": "9", "lokal": "NULL", "kod": "06-300", "miejscowosc": "Przasnysz", "teryt": 1422011, "kod simc": 966398, "kod ulicy": "19404", "lozka": 7, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-01-01" }, "geometry": { "type": "Point", "coordinates": [ 627072.7927, 575295.658799999976 ] } }
+]
+}

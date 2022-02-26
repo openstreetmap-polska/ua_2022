@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2405",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 285, "JPT_KOD_JE": "2405", "JPT_NAZWA_": "powiat gliwicki", "id": "104#398", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "126\/100549", "swiadczeniodawca": "Szpital w Pyskowicach Sp. z o.o.", "miejscowosc": "Pyskowice", "ulica": "Szpitalna ", "numer_domu": "2", "adres_swiadczeniodawcy": "Szpitalna 2", "telefon": "32 230 54 15", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 5, "g_ul": "Szpitalna", "g_miejsc": "Pyskowice", "g_adr": "2", "g_teryt": "2405021", "g_gm": "Pyskowice", "g_pow": "gliwicki", "g_woj": "śląskie", "g_szer": 18.623397376902304, "g_dlug": 50.399119661618116, "g_uuid": "bcf1e449-4e3d-4f89-aaaf-7d823b1e2c1a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 473242.346562645921949, 281400.406670112162828 ] } },
+{ "type": "Feature", "properties": { "gid": 388, "JPT_KOD_JE": "2405", "JPT_NAZWA_": "powiat gliwicki", "id": "104#384", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "126\/212043", "swiadczeniodawca": "Szpital w Knurowie Sp. z o.o.", "miejscowosc": "Knurów", "ulica": "Niepodległości ", "numer_domu": "8", "adres_swiadczeniodawcy": "Niepodległości 8", "telefon": "32 331 92 66, \r\n722 227 725-728\r\n726 502 626, \r\n726 602 626", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Niepodległości", "g_miejsc": "Knurów", "g_adr": "8", "g_teryt": "2405011", "g_gm": "Knurów", "g_pow": "gliwicki", "g_woj": "śląskie", "g_szer": 18.667774689357966, "g_dlug": 50.221447405357608, "g_uuid": "db732153-3559-4d1e-875b-38bae0b0032f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 476306.731660300865769, 261636.146998110227287 ] } }
+]
+}

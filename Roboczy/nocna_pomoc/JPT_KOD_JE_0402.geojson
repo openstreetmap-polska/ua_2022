@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0402",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 325, "JPT_KOD_JE": "0402", "JPT_NAZWA_": "powiat brodnicki", "id": "104#39", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20000787", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Brodnicy", "miejscowosc": "Brodnica", "ulica": "Wiejska ", "numer_domu": "9", "adres_swiadczeniodawcy": "Wiejska 9", "telefon": "56 66-89-192", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Wiejska", "g_miejsc": "Brodnica", "g_adr": "9", "g_teryt": "0402011", "g_gm": "Brodnica", "g_pow": "brodnicki", "g_woj": "kujawsko-pomorskie", "g_szer": 19.395773514989216, "g_dlug": 53.261603187010849, "g_uuid": "0908ecb2-678a-47e7-b983-aab2b31d174c", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 526391.473370012361556, 599673.93946695048362 ] } }
+]
+}

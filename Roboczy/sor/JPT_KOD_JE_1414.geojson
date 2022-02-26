@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1414",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1414", "JPT_NAZWA_": "powiat nowodworski", "id": 122, "ksiega": 390496, "id zoz": 478594, "id jednostki": "769810", "id komórki": 6749883, "regon": 30673300027, "kod jednostki": "13", "kod komórki": 85, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy wraz z izbą przyjęć", "teryt opis": "Nowy Dwór Mazowiecki - gmina miejska", "ulica": "ul. Miodowa", "budynek": "2", "lokal": "NULL", "kod": "05-100", "miejscowosc": "Nowy Dwór Mazowiecki", "teryt": 1414011, "kod simc": 921148, "kod ulicy": "12991", "lozka": 3, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-05-23" }, "geometry": { "type": "Point", "coordinates": [ 617195.8652, 507406.20319999899948 ] } }
+]
+}

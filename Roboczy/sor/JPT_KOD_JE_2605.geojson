@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2605",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2605", "JPT_NAZWA_": "powiat konecki", "id": 24, "ksiega": 381697, "id zoz": 461599, "id jednostki": "732138", "id komórki": 6307894, "regon": 26007645000050, "kod jednostki": "01", "kod komórki": 21, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Końskie - miasto", "ulica": "ul. Gimnazjalna", "budynek": "41 B", "lokal": "NULL", "kod": "26-200", "miejscowosc": "Końskie", "teryt": 2605034, "kod simc": 947136, "kod ulicy": "05527", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-01-01" }, "geometry": { "type": "Point", "coordinates": [ 597219.319099999964, 370266.7916 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0405",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 193, "JPT_KOD_JE": "0405", "JPT_NAZWA_": "powiat golubsko-dobrzyński", "id": 35, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Golub-Dobrzyń", "powiat": "golubsko-dobrzyński", "adres": "Koppa 1E", "miejscowosc": null, "kod": null, "nazwa": "Zakład Opieki Zdrowotnej Szpital Powiatowy w Golubiu - Dobrzyniu Prow. Przez \"Szpital Powiatowy\"  sp. z  o.o.", "poziom": "I stopień", "www": "http:\/\/www.szpitalgolub.pl", "telefon": "56 683 22 91 do 93", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 504745.3, 582661.4 ] } }
+]
+}

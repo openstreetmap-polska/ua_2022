@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3014",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "3014", "JPT_NAZWA_": "powiat międzychodzki", "id": 29, "ksiega": 382443, "id zoz": 463172, "id jednostki": "735575", "id komórki": 6350168, "regon": 31024900078, "kod jednostki": "01", "kod komórki": 52, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Międzychód - miasto", "ulica": "ul. Szpitalna", "budynek": "10", "lokal": "NULL", "kod": "64-400", "miejscowosc": "Międzychód", "teryt": 3014034, "kod simc": 935506, "kod ulicy": "22073", "lozka": 7, "liczba łóżek iom": 3, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-12-01" }, "geometry": { "type": "Point", "coordinates": [ 289423.719941371004097, 530496.029524174984545 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1810",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 489, "JPT_KOD_JE": "1810", "JPT_NAZWA_": "powiat łańcucki", "id": "104#289", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/030868", "swiadczeniodawca": "Centrum Medyczne w Łańcucie ", "miejscowosc": "Łańcut ", "ulica": "Paderewskiego ", "numer_domu": "5", "adres_swiadczeniodawcy": "Paderewskiego 5", "telefon": "17 224 01 41", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Ignacego Paderewskiego", "g_miejsc": "Łańcut", "g_adr": "5", "g_teryt": "1810011", "g_gm": "Łańcut", "g_pow": "łańcucki", "g_woj": "podkarpackie", "g_szer": 22.232721380537338, "g_dlug": 50.066016987934432, "g_uuid": "531fe4c9-99be-4a2e-adb8-2967c2571691", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 731271.2231596915517, 249311.894516302272677 ] } }
+]
+}

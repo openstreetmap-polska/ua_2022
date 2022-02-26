@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1021",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1021", "JPT_NAZWA_": "powiat brzeziński", "id": 14, "ksiega": 378492, "id zoz": 455672, "id jednostki": "718953", "id komórki": 6151474, "regon": 10057636900030, "kod jednostki": "02", "kod komórki": 9, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy z Centralną Izbą Przyjęć", "teryt opis": "Brzeziny - gmina miejska", "ulica": "ul. Marii Skłodowskiej-Curie", "budynek": "6", "lokal": "NULL", "kod": "95-060", "miejscowosc": "Brzeziny", "teryt": 1021011, "kod simc": 977025, "kod ulicy": "20068", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2010-08-01" }, "geometry": { "type": "Point", "coordinates": [ 552040.37, 437932.53 ] } }
+]
+}

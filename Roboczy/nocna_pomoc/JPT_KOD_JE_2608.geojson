@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2608",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 296, "JPT_KOD_JE": "2608", "JPT_NAZWA_": "powiat pińczowski", "id": "104#433", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130000203", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Pińczowie", "miejscowosc": "Pińczów", "ulica": "Łąkowa", "numer_domu": "2a", "adres_swiadczeniodawcy": "Łąkowa 2a", "telefon": "41 344 26 47; \r\n41 344 65 03", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Łąkowa", "g_miejsc": "Pińczów", "g_adr": "2a", "g_teryt": "2608043", "g_gm": "Pińczów", "g_pow": "pińczowski", "g_woj": "świętokrzyskie", "g_szer": 20.515301855238594, "g_dlug": 50.524497488784078, "g_uuid": "863da84d-04b3-401e-b9a3-33fc54981f00", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 607376.458841249812394, 296366.026446970179677 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2806",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2806", "JPT_NAZWA_": "powiat giżycki", "id": 69, "ksiega": 387486, "id zoz": 473177, "id jednostki": "758702", "id komórki": 6622004, "regon": 30844200021, "kod jednostki": "01", "kod komórki": 1, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "szpitalny oddział ratunkowy", "teryt opis": "Giżycko - gmina miejska", "ulica": "ul. Warszawska", "budynek": "41", "lokal": "NULL", "kod": "11-500", "miejscowosc": "Giżycko", "teryt": 2806011, "kod simc": 977692, "kod ulicy": "23682", "lozka": 2, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 4, "data rozpoczęcia działalności komórki": "2000-01-01" }, "geometry": { "type": "Point", "coordinates": [ 682132.109800635022111, 689401.04393527098 ] } }
+]
+}

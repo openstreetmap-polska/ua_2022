@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1021",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 223, "JPT_KOD_JE": "1021", "JPT_NAZWA_": "powiat brzeziński", "id": 123, "wojewodztwo": "łódzkie", "miasto": "Brzeziny", "powiat": "brzeziński", "adres": "Skłodowskiej-Curie 6", "miejscowosc": null, "kod": null, "nazwa": "Szpital Powiatowy w Brzezinach", "poziom": "II stopień", "www": "http:\/\/www.szpital-brzeziny.pl", "telefon": "46 874 20 02", "e-mail": "sekretariat@szpital-brzeziny.pl" }, "geometry": { "type": "Point", "coordinates": [ 551992.5, 437962.9 ] } }
+]
+}

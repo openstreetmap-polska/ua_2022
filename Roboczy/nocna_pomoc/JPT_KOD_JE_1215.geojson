@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1215",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 33, "JPT_KOD_JE": "1215", "JPT_NAZWA_": "powiat suski", "id": "104#144", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "064\/100021", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Suchej Beskidzkiej", "miejscowosc": "Jordanów", "ulica": "Piłsudskiego ", "numer_domu": "79", "adres_swiadczeniodawcy": "Piłsudskiego 79", "telefon": "18 267 55 26", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Piłsudskiego", "g_miejsc": "Jordanów", "g_adr": "79", "g_teryt": "1215011", "g_gm": "Jordanów", "g_pow": "suski", "g_woj": "małopolskie", "g_szer": 19.839334537554006, "g_dlug": 49.64920021328124, "g_uuid": "2be99d1f-8bad-486e-aa2e-14a3d4ee0a9e", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 560570.346115311840549, 198315.906439469195902 ] } },
+{ "type": "Feature", "properties": { "gid": 239, "JPT_KOD_JE": "1215", "JPT_NAZWA_": "powiat suski", "id": "104#176", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "064\/100021", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Suchej Beskidzkiej", "miejscowosc": "Sucha Beskidzka", "ulica": "Szpitalna ", "numer_domu": "22", "adres_swiadczeniodawcy": "Szpitalna 22", "telefon": "33 872 33 12; 33 872 33 67; 668 312 938", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 19.604992580204222, "g_dlug": 49.73666868197347, "g_uuid": "4303bcbd-2cbb-429f-8c8f-5bc5e2863ba9", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 543581.00844902463723, 207875.248876616358757 ] } }
+]
+}

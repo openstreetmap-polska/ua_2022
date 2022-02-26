@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1014",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 29, "JPT_KOD_JE": "1014", "JPT_NAZWA_": "powiat sieradzki", "id": "104#129", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "120001", "swiadczeniodawca": "  Szpital Wojewódzki im. S. Wyszyńskiego w Sieradzu  ", "miejscowosc": "Sieradz ", "ulica": "Armii Krajowej                                                    ", "numer_domu": "7", "adres_swiadczeniodawcy": "Armii Krajowej 7                                                   ", "telefon": "43 827 82 51", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Armii Krajowej", "g_miejsc": "Sieradz", "g_adr": "7", "g_teryt": "1014011", "g_gm": "Sieradz", "g_pow": "sieradzki", "g_woj": "łódzkie", "g_szer": 18.710083180612347, "g_dlug": 51.582292131901831, "g_uuid": "404cf1b5-c2f7-413b-97b9-cd32d45c243f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 479918.16874987288611, 412905.723846036940813 ] } }
+]
+}

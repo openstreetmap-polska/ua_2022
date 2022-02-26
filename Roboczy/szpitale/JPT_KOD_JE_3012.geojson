@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3012",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 547, "JPT_KOD_JE": "3012", "JPT_NAZWA_": "powiat krotoszyński", "id": 390, "wojewodztwo": "wielkopolskie", "miasto": "KROTOSZYN ", "powiat": "KROTOSZYŃSKI ", "adres": "MŁYŃSKA 2 ", "miejscowosc": null, "kod": "63-700 ", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W KROTOSZYNI ", "poziom": "I stopień", "www": "http:\/\/www.spzoz.krotoszyn.pl\/ ", "telefon": "(062)58-80-390 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 392134.5, 426059.0 ] } }
+]
+}

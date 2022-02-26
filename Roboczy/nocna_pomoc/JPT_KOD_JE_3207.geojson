@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3207",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 533, "JPT_KOD_JE": "3207", "JPT_NAZWA_": "powiat kamieński", "id": "104#518", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160002979", "swiadczeniodawca": "Szpital Św. Jerzego (EMC Instytut Medyczny SA)", "miejscowosc": "Kamień Pomorski ", "ulica": "Szpitalna ", "numer_domu": "10", "adres_swiadczeniodawcy": "Szpitalna 10", "telefon": " 91 326 26 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Kamień Pomorski", "g_adr": "10", "g_teryt": "3207033", "g_gm": "Kamień Pomorski", "g_pow": "kamieński", "g_woj": "zachodniopomorskie", "g_szer": 14.777815535456273, "g_dlug": 53.96926222633379, "g_uuid": "c45b23bf-5313-4bed-81e4-a3479a6cce25", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 223194.481665016384795, 686561.086754849180579 ] } }
+]
+}

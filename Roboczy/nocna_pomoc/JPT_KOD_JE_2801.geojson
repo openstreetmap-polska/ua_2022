@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2801",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 519, "JPT_KOD_JE": "2801", "JPT_NAZWA_": "powiat bartoszycki", "id": "104#440", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140001759", "swiadczeniodawca": "Szpital Powiatowy im. Jana Pawła II w Bartoszycach", "miejscowosc": "Bartoszyce", "ulica": "Wyszyńskiego ", "numer_domu": "11", "adres_swiadczeniodawcy": "Wyszyńskiego 11", "telefon": "89 675 23 99", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "kard. Wyszyńskiego", "g_miejsc": "Bartoszyce", "g_adr": "11", "g_teryt": "2801011", "g_gm": "Bartoszyce", "g_pow": "bartoszycki", "g_woj": "warmińsko-mazurskie", "g_szer": 20.79226262881534, "g_dlug": 54.258917572926364, "g_uuid": "51d038c1-abea-45ab-b0cf-d1ad75fbcf6b", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 616710.516675894381478, 712007.2468784712255 ] } }
+]
+}

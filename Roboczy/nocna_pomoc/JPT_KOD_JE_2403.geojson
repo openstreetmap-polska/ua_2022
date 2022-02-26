@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2403",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 176, "JPT_KOD_JE": "2403", "JPT_NAZWA_": "powiat cieszyński", "id": "104#367", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "122\/100178", "swiadczeniodawca": "Zespół Zakładów Opieki Zdrowotnej w Cieszynie", "miejscowosc": "Cieszyn", "ulica": "Bielska ", "numer_domu": "4", "adres_swiadczeniodawcy": "Bielska 4", "telefon": "33 852 56 23; \r\n664 909 638", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Bielska", "g_miejsc": "Cieszyn", "g_adr": "4", "g_teryt": "2403011", "g_gm": "Cieszyn", "g_pow": "cieszyński", "g_woj": "śląskie", "g_szer": 18.639015114576853, "g_dlug": 49.745639555013753, "g_uuid": "58ad1479-0a93-4349-bf30-fac1c8d3f0c4", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 474001.217898796487134, 208759.156866535544395 ] } },
+{ "type": "Feature", "properties": { "gid": 182, "JPT_KOD_JE": "2403", "JPT_NAZWA_": "powiat cieszyński", "id": "104#406", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "122\/107670", "swiadczeniodawca": "Cieszyńskie Pogotowie Ratunkowe", "miejscowosc": "Skoczów", "ulica": "Krzywa ", "numer_domu": "4", "adres_swiadczeniodawcy": "Krzywa 4", "telefon": "33 857 95 50;\r\n33 857 95 46", "dodatkowe_miejsce": "Wisła, ul. Dziechcinka 4", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Krzywa", "g_miejsc": "Skoczów", "g_adr": "4", "g_teryt": "2403103", "g_gm": "Skoczów", "g_pow": "cieszyński", "g_woj": "śląskie", "g_szer": 18.793463363633574, "g_dlug": 49.793200398040739, "g_uuid": "6008c4f7-65c0-43d2-84b6-2e79f5e0aa28", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 485138.952756892016623, 214003.248425223864615 ] } }
+]
+}

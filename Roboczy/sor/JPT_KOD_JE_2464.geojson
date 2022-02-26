@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2464",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2464", "JPT_NAZWA_": "powiat Częstochowa", "id": 192, "ksiega": 391841, "id zoz": 481410, "id jednostki": "777431", "id komórki": 6837999, "regon": 128105300020, "kod jednostki": "01", "kod komórki": 71, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Częstochowa - gmina miejska", "ulica": "ul. Bialska", "budynek": "104", "lokal": "118", "kod": "42-200", "miejscowosc": "Częstochowa", "teryt": 2464011, "kod simc": 930868, "kod ulicy": "01131", "lozka": 4, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2005-02-24" }, "geometry": { "type": "Point", "coordinates": [ 506278.162325915996917, 329195.671916530001909 ] } },
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2464", "JPT_NAZWA_": "powiat Częstochowa", "id": 39, "ksiega": 384573, "id zoz": 467321, "id jednostki": "745034", "id komórki": 6463234, "regon": 15158624700072, "kod jednostki": "01", "kod komórki": 100, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Częstochowa - gmina miejska", "ulica": "ul. Mirowska", "budynek": "15", "lokal": "NULL", "kod": "42-200", "miejscowosc": "Częstochowa", "teryt": 2464011, "kod simc": 930868, "kod ulicy": "13017", "lozka": 4, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-01-01" }, "geometry": { "type": "Point", "coordinates": [ 509387.1118, 327226.3553 ] } }
+]
+}

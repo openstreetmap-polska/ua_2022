@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1821",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1821", "JPT_NAZWA_": "powiat leski", "id": 129, "ksiega": 390643, "id zoz": 478879, "id jednostki": "770708", "id komórki": 6761307, "regon": 37044507200032, "kod jednostki": "01", "kod komórki": 45, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Lesko - miasto", "ulica": "ul. Kochanowskiego", "budynek": "2", "lokal": "NULL", "kod": "38-600", "miejscowosc": "Lesko", "teryt": 1821034, "kod simc": 953409, "kod ulicy": "08725", "lozka": 10, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2004-06-01" }, "geometry": { "type": "Point", "coordinates": [ 741286.647, 183799.112600001011742 ] } }
+]
+}

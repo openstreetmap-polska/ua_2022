@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2465",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 504, "JPT_KOD_JE": "2465", "JPT_NAZWA_": "powiat Dąbrowa Górnicza", "id": 483, "wojewodztwo": "śląskie", "miasto": "Dąbrowa Górnicza", "powiat": "Dąbrowa Górnicza", "adres": "Szpitalna 13", "miejscowosc": "Dąbrowa Górnicza", "kod": null, "nazwa": "Zagłębiowskie Centrum Onkologii Szpital Specjalistyczny im. Sz. Starkiewicza w Dąbrowie Górniczej", "poziom": "II stopień", "www": "http:\/\/www.zco-dg.pl", "telefon": "32 262 32 75", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 512576.9, 272568.5 ] } }
+]
+}

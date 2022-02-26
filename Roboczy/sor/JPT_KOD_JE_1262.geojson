@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1262",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1262", "JPT_NAZWA_": "powiat Nowy Sącz", "id": 60, "ksiega": 386919, "id zoz": 472014, "id jednostki": "755813", "id komórki": 6589922, "regon": 30643700037, "kod jednostki": "01", "kod komórki": 58, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Nowy Sącz - gmina miejska", "ulica": "ul. Młyńska", "budynek": "5.", "lokal": "NULL", "kod": "33-300", "miejscowosc": "Nowy Sącz", "teryt": 1262011, "kod simc": 959435, "kod ulicy": "13132", "lozka": 12, "liczba łóżek iom": 3, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-08-01" }, "geometry": { "type": "Point", "coordinates": [ 622808.6199, 196000.0701 ] } }
+]
+}

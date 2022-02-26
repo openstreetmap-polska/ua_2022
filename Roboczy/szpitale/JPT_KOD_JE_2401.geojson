@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2401",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 414, "JPT_KOD_JE": "2401", "JPT_NAZWA_": "powiat będziński", "id": 502, "wojewodztwo": "śląskie", "miasto": "będziński", "powiat": "Będzin", "adres": "Małachowskiego 12", "miejscowosc": "Będzin", "kod": null, "nazwa": "Powiatowy Zespół Zakładów Opieki Zdrowotnej", "poziom": "I stopień", "www": "http:\/\/www.pzzoz.bedzin.pl", "telefon": "32 265 16 44", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 509445.8, 272997.2 ] } },
+{ "type": "Feature", "properties": { "_uid_": 415, "JPT_KOD_JE": "2401", "JPT_NAZWA_": "powiat będziński", "id": 456, "wojewodztwo": "śląskie", "miasto": "będziński", "powiat": "Siewierz", "adres": "Oleśnickiego 21", "miejscowosc": "Siewierz", "kod": null, "nazwa": "Szpital Chorób Płuc w Siewierzu Spółka z ograniczoną odpowiedzialnością", "poziom": "Szpital pulmonologiczny", "www": "http:\/\/www.szpital-siewierz.pl", "telefon": "32 674 11 11", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 517027.7, 289707.0 ] } }
+]
+}

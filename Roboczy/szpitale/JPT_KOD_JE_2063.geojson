@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2063",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 361, "JPT_KOD_JE": "2063", "JPT_NAZWA_": "powiat Suwałki", "id": 559, "wojewodztwo": "podlaskie", "miasto": "m. Suwałki", "powiat": "Suwałki", "adres": "Szpitalna 60", "miejscowosc": "Suwałki", "kod": "16-400", "nazwa": "SZPITAL WOJEWÓDZKI IM. DR. L. RYDYGIERA W SUWAŁKACH", "poziom": "II stopień", "www": "http:\/\/www.szpital.suwalki.pl", "telefon": "87 562 94 21 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 756397.2, 702062.9 ] } }
+]
+}

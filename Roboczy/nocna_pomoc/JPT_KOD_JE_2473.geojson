@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2473",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 511, "JPT_KOD_JE": "2473", "JPT_NAZWA_": "powiat Rybnik", "id": "104#401", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "124\/100443", "swiadczeniodawca": "SP ZOZ Wojewódzki Szpital Specjalistyczny nr 3 w Rybniku", "miejscowosc": "Rybnik", "ulica": "Energetyków ", "numer_domu": "46", "adres_swiadczeniodawcy": "Energetyków 46", "telefon": "32 429 25 11", "dodatkowe_miejsce": null, "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Energetyków", "g_miejsc": "Rybnik", "g_adr": "46", "g_teryt": "2473011", "g_gm": "Rybnik", "g_pow": "Rybnik", "g_woj": "śląskie", "g_szer": 18.522258269800759, "g_dlug": 50.113004863935842, "g_uuid": "dab46d37-5de9-45f8-8aed-1892e69be1d7", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 465852.410010480729397, 249637.89586915820837 ] } }
+]
+}

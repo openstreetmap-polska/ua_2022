@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0215",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0215", "JPT_NAZWA_": "powiat oławski", "id": 158, "ksiega": 391301, "id zoz": 480403, "id jednostki": "774427", "id komórki": 6801487, "regon": 30681600024, "kod jednostki": "01", "kod komórki": 53, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "SOR- szpitalny oddział ratunkowy", "teryt opis": "Oława - gmina miejska", "ulica": "ul. Krzysztofa Kamila Baczyńskiego", "budynek": "1", "lokal": "NULL", "kod": "55-200", "miejscowosc": "Oława", "teryt": 215011, "kod simc": 987259, "kod ulicy": "00569", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2012-04-27" }, "geometry": { "type": "Point", "coordinates": [ 379716.890599999984, 344241.215 ] } }
+]
+}

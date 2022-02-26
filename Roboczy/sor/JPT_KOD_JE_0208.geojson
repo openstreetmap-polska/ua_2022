@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0208",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0208", "JPT_NAZWA_": "powiat kłodzki", "id": 220, "ksiega": 392276, "id zoz": 482429, "id jednostki": "779690", "id komórki": 6865831, "regon": 2049396100031, "kod jednostki": "01", "kod komórki": 35, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Polanica-Zdrój - gmina miejska", "ulica": "ul. Jana Pawła II", "budynek": "2", "lokal": "NULL", "kod": "57-320", "miejscowosc": "Polanica-Zdrój", "teryt": 208051, "kod simc": 984522, "kod ulicy": "07123", "lozka": 12, "liczba łóżek iom": 8, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2005-10-21" }, "geometry": { "type": "Point", "coordinates": [ 322503.4157, 285264.381100000988226 ] } }
+]
+}

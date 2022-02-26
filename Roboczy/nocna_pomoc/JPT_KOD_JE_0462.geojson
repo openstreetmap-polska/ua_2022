@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0462",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 427, "JPT_KOD_JE": "0462", "JPT_NAZWA_": "powiat Grudziądz", "id": "104#47", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20000803", "swiadczeniodawca": "Regionalny Szpital Specjalistyczny im. dr. Władysława Biegańskiego w Grudziądzu", "miejscowosc": "Grudziądz", "ulica": "dr. Ludwika Rydygiera", "numer_domu": "15\/17", "adres_swiadczeniodawcy": "dr. Ludwika Rydygiera 15\/17", "telefon": "POZN dla Dorosłych tel: 56 641-40-19\r\nPOZN dla Dzieci tel: 56 641-47-01", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "dr. Rydygiera Ludwika", "g_miejsc": "Grudziądz", "g_adr": "15-17", "g_teryt": "0462011", "g_gm": "Grudziądz", "g_pow": "Grudziądz", "g_woj": "kujawsko-pomorskie", "g_szer": 18.786660056585067, "g_dlug": 53.45186148055398, "g_uuid": "58a4c5af-4848-4fc6-861b-7084feaffa4d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 485836.858550901059061, 620781.856249016709626 ] } }
+]
+}

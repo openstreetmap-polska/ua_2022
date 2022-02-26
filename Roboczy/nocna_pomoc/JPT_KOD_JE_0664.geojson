@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0664",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 441, "JPT_KOD_JE": "0664", "JPT_NAZWA_": "powiat Zamość", "id": "104#90", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000684", "swiadczeniodawca": "Samodzielny Publiczny Szpital Wojewódzki im. Papieża Jana Pawła II w Zamościu", "miejscowosc": "Zamość ", "ulica": "Jana Pawła II ", "numer_domu": "10", "adres_swiadczeniodawcy": "Aleje Jana Pawła II 10", "telefon": "84 677 33 46; 84 677 33 47; 519 310 956", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 23.2876428872482, "g_dlug": 50.712535958910443, "g_uuid": "03974772-b5ef-477d-bca7-33379fc52a6b", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 802570.467081330250949, 324942.778620265424252 ] } },
+{ "type": "Feature", "properties": { "gid": 442, "JPT_KOD_JE": "0664", "JPT_NAZWA_": "powiat Zamość", "id": "104#91", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30003271", "swiadczeniodawca": "Zamojski Szpital Niepubliczny Spółka z ograniczoną odpowiedzialnością", "miejscowosc": "Zamość ", "ulica": "Peowiaków ", "numer_domu": "1", "adres_swiadczeniodawcy": "Peowiaków 1", "telefon": "846,775,054", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 23.254451022976369, "g_dlug": 50.724551314313572, "g_uuid": "cb3d789e-16ab-4381-ab34-63558d61ab99", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 800152.336568208178505, 326141.805810630321503 ] } }
+]
+}

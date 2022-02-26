@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2479",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 292, "JPT_KOD_JE": "2479", "JPT_NAZWA_": "powiat Żory", "id": "104#420", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "124\/210531", "swiadczeniodawca": "Miejskie Zakłady Opieki Zdrowotnej w Żorach", "miejscowosc": "Żory", "ulica": "Dąbrowskiego ", "numer_domu": "20", "adres_swiadczeniodawcy": "Dąbrowskiego 20", "telefon": "32 434 12 40", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.683691719975318, "g_dlug": 50.035862964233921, "g_uuid": "82d018b7-4e3c-486a-bab2-6223bde2d7ba", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 477354.671845488366671, 241002.252810620702803 ] } }
+]
+}

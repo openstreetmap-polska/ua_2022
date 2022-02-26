@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1607",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1607", "JPT_NAZWA_": "powiat nyski", "id": 130, "ksiega": 390661, "id zoz": 478911, "id jednostki": "770820", "id komórki": 6762546, "regon": 31344300065, "kod jednostki": "01", "kod komórki": 15, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Oddział Ratunkowy", "teryt opis": "Nysa - miasto", "ulica": "ul. Bohaterów Warszawy", "budynek": "23", "lokal": "NULL", "kod": "48-300", "miejscowosc": "Nysa", "teryt": 1607054, "kod simc": 965789, "kod ulicy": "01679", "lozka": 0, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 7, "data rozpoczęcia działalności komórki": "2000-09-23" }, "geometry": { "type": "Point", "coordinates": [ 381475.7036, 290699.283299999020528 ] } }
+]
+}

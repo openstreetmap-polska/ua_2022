@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2803",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 500, "JPT_KOD_JE": "2803", "JPT_NAZWA_": "powiat działdowski", "id": 407, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Działdowo", "powiat": "Działdowski", "adres": "Leśna 1", "miejscowosc": "Działdowo", "kod": "13-200", "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Działdowie", "poziom": "I stopień", "www": "http:\/\/www.spzoz-dzialdowo.pl", "telefon": "23 697 22 11 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 579617.4, 598068.5 ] } }
+]
+}

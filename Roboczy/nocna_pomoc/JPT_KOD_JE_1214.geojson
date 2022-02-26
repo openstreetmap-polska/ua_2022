@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1214",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 455, "JPT_KOD_JE": "1214", "JPT_NAZWA_": "powiat proszowicki", "id": "104#171", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100025", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Proszowicach", "miejscowosc": "Proszowice", "ulica": " Kopernika ", "numer_domu": "13", "adres_swiadczeniodawcy": " Kopernika 13", "telefon": "12 386 51 23", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 20.296238403392483, "g_dlug": 50.189235762422172, "g_uuid": "288e5541-6165-4eb0-8e8e-e03639bc6db8", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 592503.386588001158088, 258806.902367206290364 ] } }
+]
+}

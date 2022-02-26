@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0803",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 97, "JPT_KOD_JE": "0803", "JPT_NAZWA_": "powiat międzyrzecki", "id": 95, "wojewodztwo": "lubuskie", "miasto": "Skwierzyna", "powiat": "międzyrzecki", "adres": "Szpitalna 5", "miejscowosc": "Skwierzyna", "kod": "66-440", "nazwa": "Niepubliczny Zakład Opieki Zdrowotnej Szpital im. dr nauk medycznych Radzimira Śmigielskiego sp. z o. o.", "poziom": "I stopień", "www": "http:\/\/www.nowyszpital.pl", "telefon": "95 717 00 39", "e-mail": "sekretariat.skwierzyna@nowyszpital.pl" }, "geometry": { "type": "Point", "coordinates": [ 263469.3, 531085.8 ] } },
+{ "type": "Feature", "properties": { "_uid_": 98, "JPT_KOD_JE": "0803", "JPT_NAZWA_": "powiat międzyrzecki", "id": 102, "wojewodztwo": "lubuskie", "miasto": "Międzyrzecz", "powiat": "międzyrzecki", "adres": "Konstytucji 3 Maja 35", "miejscowosc": "Międzyrzecz", "kod": "66-300", "nazwa": "Szpital Międzyrzecki Spółka z ograniczoną odpowiedzialnością", "poziom": "II stopień", "www": "http:\/\/www.spzoz-miedzyrzecz.pl", "telefon": "95 742 82 80", "e-mail": "sekretariat@spzoz-miedzyrzecz.pl" }, "geometry": { "type": "Point", "coordinates": [ 267914.8, 513761.4 ] } }
+]
+}

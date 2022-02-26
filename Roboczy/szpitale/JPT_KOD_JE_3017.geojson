@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3017",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 131, "JPT_KOD_JE": "3017", "JPT_NAZWA_": "powiat ostrowski", "id": 365, "wojewodztwo": "wielkopolskie", "miasto": "OSTRÓW WIELKOPOLSKI ", "powiat": "OSTROWSKI ", "adres": "LIMANOWSKIEGO 20\/22 ", "miejscowosc": null, "kod": "63-400 ", "nazwa": "ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ OSTRÓW WIELKOPOLSKI ", "poziom": "II stopień ", "www": "http:\/\/www.szpital.osw.pl ", "telefon": "(062)59-51-111 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 418694.0, 421555.4 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1213",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 135, "JPT_KOD_JE": "1213", "JPT_NAZWA_": "powiat oświęcimski", "id": "104#146", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100213", "swiadczeniodawca": "Szpital Powiatowy im. św. Maksymiliana w Oświęcimiu", "miejscowosc": "Kęty ", "ulica": "Sobieskiego ", "numer_domu": "45", "adres_swiadczeniodawcy": "Sobieskiego 45", "telefon": "33 845 21 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "JANA III SOBIESKIEGO", "g_miejsc": "KĘTY", "g_adr": "45", "g_teryt": "1213043", "g_gm": "Kęty", "g_pow": "oświęcimski", "g_woj": "małopolskie", "g_szer": 19.211911188845932, "g_dlug": 49.880833907502506, "g_uuid": "e51308a2-8f0d-4172-9062-911ff3b03a22", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 515219.90174257918261, 223744.21964436583221 ] } },
+{ "type": "Feature", "properties": { "gid": 237, "JPT_KOD_JE": "1213", "JPT_NAZWA_": "powiat oświęcimski", "id": "104#170", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100213", "swiadczeniodawca": "Szpital Powiatowy im. św. Maksymiliana w Oświęcimiu", "miejscowosc": "Oświęcim", "ulica": "Wysokie Brzegi ", "numer_domu": "4", "adres_swiadczeniodawcy": "Wysokie Brzegi 4", "telefon": "33  844 84 93", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 3, "g_ul": "Wysokie Brzegi", "g_miejsc": "Oświęcim", "g_adr": "4", "g_teryt": "1213011", "g_gm": "Oświęcim", "g_pow": "oświęcimski", "g_woj": "małopolskie", "g_szer": 19.235719565564377, "g_dlug": 50.040594475259766, "g_uuid": "96b81557-3e99-40f3-86f5-00a296ecd9fc", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 516874.061667763453443, 241506.697664794512093 ] } }
+]
+}

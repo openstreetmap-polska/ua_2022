@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0615",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 16, "JPT_KOD_JE": "0615", "JPT_NAZWA_": "powiat radzyński", "id": "104#84", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000418", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Radzyniu Podlaskim", "miejscowosc": "Radzyń Podlaski ", "ulica": "Wisznicka ", "numer_domu": "111", "adres_swiadczeniodawcy": "Wisznicka 111", "telefon": "83 413 23 18", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Wisznicka", "g_miejsc": "Radzyń Podlaski", "g_adr": "111", "g_teryt": "0615011", "g_gm": "Radzyń Podlaski", "g_pow": "radzyński", "g_woj": "lubelskie", "g_szer": 22.606243654983587, "g_dlug": 51.771958366157889, "g_uuid": "d20ceaed-f597-4c7c-a116-dfe06a982661", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 748713.242014818359166, 440106.269075069576502 ] } }
+]
+}

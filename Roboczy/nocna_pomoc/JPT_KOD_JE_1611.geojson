@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1611",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 259, "JPT_KOD_JE": "1611", "JPT_NAZWA_": "powiat strzelecki", "id": "104#277", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/10081", "swiadczeniodawca": "Szpital Powiatowy w Strzelcach Opolskich ", "miejscowosc": "Strzelce Opolskie", "ulica": "Opolska", "numer_domu": "36", "adres_swiadczeniodawcy": "Opolska 36a", "telefon": "77 407 02 44 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Opolska", "g_miejsc": "Strzelce Opolskie", "g_adr": "36", "g_teryt": "1611053", "g_gm": "Strzelce Opolskie", "g_pow": "strzelecki", "g_woj": "opolskie", "g_szer": 18.291527196710277, "g_dlug": 50.51476410416025, "g_uuid": "a25e1762-800f-4eed-9848-85eff930f613", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 449785.534333743329626, 294426.801887426525354 ] } }
+]
+}

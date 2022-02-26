@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2818",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 84, "JPT_KOD_JE": "2818", "JPT_NAZWA_": "powiat gołdapski", "id": "104#449", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140000364", "swiadczeniodawca": "Goldmedica Sp. z o. o.", "miejscowosc": "Gołdap", "ulica": "Słoneczna ", "numer_domu": "7", "adres_swiadczeniodawcy": "Słoneczna 7", "telefon": "87 615 02 99", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Słoneczna", "g_miejsc": "Gołdap", "g_adr": "7", "g_teryt": "2818033", "g_gm": "Gołdap", "g_pow": "gołdapski", "g_woj": "warmińsko-mazurskie", "g_szer": 22.306375686117999, "g_dlug": 54.309125977234117, "g_uuid": "1aac6df9-2a9c-4566-beae-29324f4b87d3", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 715020.160556818591431, 721151.59517034329474 ] } }
+]
+}

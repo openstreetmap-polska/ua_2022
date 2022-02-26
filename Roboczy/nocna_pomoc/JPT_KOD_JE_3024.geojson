@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3024",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 311, "JPT_KOD_JE": "3024", "JPT_NAZWA_": "powiat szamotulski", "id": "104#500", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150003604", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej", "miejscowosc": "Szamotuły", "ulica": "Sukiennicza                                                             ", "numer_domu": "13", "adres_swiadczeniodawcy": "Sukiennicza 13                                                            ", "telefon": "61 292 71 13", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sukiennicza", "g_miejsc": "Szamotuły", "g_adr": "13", "g_teryt": "3024073", "g_gm": "Szamotuły", "g_pow": "szamotulski", "g_woj": "wielkopolskie", "g_szer": 16.581229151300857, "g_dlug": 52.610752721534965, "g_uuid": "140ce711-1c5d-4ebe-9b7c-67bc23527151", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 336281.254281830857508, 529968.101803387515247 ] } }
+]
+}

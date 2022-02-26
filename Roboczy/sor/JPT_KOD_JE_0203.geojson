@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0203",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0203", "JPT_NAZWA_": "powiat głogowski", "id": 160, "ksiega": 391324, "id zoz": 480446, "id jednostki": "774546", "id komórki": 6803227, "regon": 30878400022, "kod jednostki": "02", "kod komórki": 61, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Głogów - gmina miejska", "ulica": "ul. Tadeusza Kościuszki", "budynek": "15", "lokal": "NULL", "kod": "67-200", "miejscowosc": "Głogów", "teryt": 203011, "kod simc": 954082, "kod ulicy": "09582", "lozka": 7, "liczba łóżek iom": 3, "liczba łóżek ink": 4, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "1993-02-09" }, "geometry": { "type": "Point", "coordinates": [ 297902.3633, 425078.1094 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0610",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 118, "JPT_KOD_JE": "0610", "JPT_NAZWA_": "powiat łęczyński", "id": "104#78", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000098", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Łęcznej", "miejscowosc": "Łęczna", "ulica": "Krasnystawska ", "numer_domu": "52", "adres_swiadczeniodawcy": "Krasnystawska 52", "telefon": "81 752 61 11; 81 752 62 91; 81 752 61 10; 81 752 62 90; 665 270 235", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Krasnystawska", "g_miejsc": "Łęczna", "g_adr": "52", "g_teryt": "0610033", "g_gm": "Łęczna", "g_pow": "łęczyński", "g_woj": "lubelskie", "g_szer": 22.877716333282574, "g_dlug": 51.290617822003973, "g_uuid": "fe9a3f56-4bc8-4dde-ab84-f182d473c435", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 770268.676877056248486, 387579.978596553206444 ] } }
+]
+}

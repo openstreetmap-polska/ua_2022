@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0809",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 125, "JPT_KOD_JE": "0809", "JPT_NAZWA_": "powiat zielonogórski", "id": "104#101", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "040299", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Sulechowie", "miejscowosc": "Sulechów\r\n", "ulica": "Zwycięstwa ", "numer_domu": "1", "adres_swiadczeniodawcy": "Zwycięstwa 1", "telefon": "797,606,204", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Zwycięstwa", "g_miejsc": "Sulechów", "g_adr": "1", "g_teryt": "0809063", "g_gm": "Sulechów", "g_pow": "zielonogórski", "g_woj": "lubuskie", "g_szer": 15.622261180186474, "g_dlug": 52.089534238215762, "g_uuid": "2ec2f219-4b4d-41ad-9d9e-aedb6042cc28", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 268681.410863693919964, 474646.37039509229362 ] } }
+]
+}

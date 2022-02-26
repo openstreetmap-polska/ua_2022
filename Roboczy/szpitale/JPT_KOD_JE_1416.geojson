@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1416",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 529, "JPT_KOD_JE": "1416", "JPT_NAZWA_": "powiat ostrowski", "id": 191, "wojewodztwo": "mazowieckie", "miasto": "OSTRÓW MAZOWIECKA", "powiat": "OSTROWSKI", "adres": "DUBOIS 68", "miejscowosc": "OSTRÓW MAZOWIECKA ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W OSTROWI MAZOWIECKIEJ", "poziom": "I stopień", "www": "http:\/\/www.szpitalostrowmaz.pl", "telefon": "29 74637 11", "e-mail": "spzzozom@wp.pl" }, "geometry": { "type": "Point", "coordinates": [ 696323.4, 552120.9 ] } }
+]
+}

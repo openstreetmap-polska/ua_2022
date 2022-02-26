@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0609",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 116, "JPT_KOD_JE": "0609", "JPT_NAZWA_": "powiat lubelski", "id": "104#65", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30003182", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Nr 1 w Bełżycach", "miejscowosc": "Bełżyce", "ulica": "Lubelska ", "numer_domu": "90", "adres_swiadczeniodawcy": "Lubelska 90", "telefon": "81 516 26 13", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Lubelska", "g_miejsc": "Bełżyce", "g_adr": "90", "g_teryt": "0609013", "g_gm": "Bełżyce", "g_pow": "lubelski", "g_woj": "lubelskie", "g_szer": 22.292637600641555, "g_dlug": 51.176913893437415, "g_uuid": "92d2f09b-6c29-4616-8b06-44bb6af037ef", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 730067.399206994916312, 372949.55170366819948 ] } },
+{ "type": "Feature", "properties": { "gid": 435, "JPT_KOD_JE": "0609", "JPT_NAZWA_": "powiat lubelski", "id": "104#68", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000103", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Bychawie", "miejscowosc": "Bychawa ", "ulica": "Piłsudskiego", "numer_domu": "26\/28\/30", "adres_swiadczeniodawcy": "Piłsudskiego 26\/28\/30", "telefon": "81 566 94 72", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 22.536590899235126, "g_dlug": 51.013336602767801, "g_uuid": "abfb8301-353d-496c-afbb-33968c7e2e9e", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 747982.731460981536657, 355564.595043941400945 ] } }
+]
+}

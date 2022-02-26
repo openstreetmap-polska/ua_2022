@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1417",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 246, "JPT_KOD_JE": "1417", "JPT_NAZWA_": "powiat otwocki", "id": "104#207", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70604278", "swiadczeniodawca": "Powiatowe Centrum Zdrowia Spółka z ograniczoną odpowiedzialnością w Otwocku", "miejscowosc": "Otwock", "ulica": "Armii Krajowej ", "numer_domu": "3", "adres_swiadczeniodawcy": "Armii Krajowej 3", "telefon": "22 778-12-00; 537-422-002", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Armii Krajowej", "g_miejsc": "Otwock", "g_adr": "3", "g_teryt": "1417021", "g_gm": "Otwock", "g_pow": "otwocki", "g_woj": "mazowieckie", "g_szer": 21.266707319389013, "g_dlug": 52.104988446661899, "g_uuid": "d94b0b68-ef17-42d7-8287-d96d806a97b3", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 655190.072610633680597, 473406.131515285931528 ] } }
+]
+}

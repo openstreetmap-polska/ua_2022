@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2466",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 73, "JPT_KOD_JE": "2466", "JPT_NAZWA_": "powiat Gliwice", "id": "104#374", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "126\/210944", "swiadczeniodawca": "Szpital Wielospecjalistyczny w Gliwicach", "miejscowosc": "Gliwice", "ulica": "Kościuszki ", "numer_domu": "1", "adres_swiadczeniodawcy": "Kościuszki 1", "telefon": "32 332 45 26", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Tadeusza Kościuszki", "g_miejsc": "Gliwice", "g_adr": "1", "g_teryt": "2466011", "g_gm": "Gliwice", "g_pow": "Gliwice", "g_woj": "śląskie", "g_szer": 18.660877538206673, "g_dlug": 50.288904536871577, "g_uuid": "00b238be-3e4d-42a5-a146-6e2b177359ff", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 475849.487219201866537, 269135.815509280189872 ] } },
+{ "type": "Feature", "properties": { "gid": 387, "JPT_KOD_JE": "2466", "JPT_NAZWA_": "powiat Gliwice", "id": "104#373", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "126\/112510", "swiadczeniodawca": "Szpital Miejski nr 4 w Gliwicach", "miejscowosc": "Gliwice", "ulica": "Zygmunta Starego ", "numer_domu": "20", "adres_swiadczeniodawcy": "Zygmunta Starego 20", "telefon": "centrala: 32 330 83 00, rejestracja: 32 330 84 13", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.657870969975992, "g_dlug": 50.290585658473482, "g_uuid": "0f3767d3-719a-4db8-be06-ae9ef5e19945", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 475635.992747808573768, 269324.650201562792063 ] } }
+]
+}

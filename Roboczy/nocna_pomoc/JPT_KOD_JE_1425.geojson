@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1425",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 247, "JPT_KOD_JE": "1425", "JPT_NAZWA_": "powiat radomski", "id": "104#210", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001793", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Pionkach", "miejscowosc": "Pionki", "ulica": " Sienkiewicza ", "numer_domu": "29", "adres_swiadczeniodawcy": " Sienkiewicza 29", "telefon": "48 612-42-09; 500-167-539", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sienkiewicza Henryka", "g_miejsc": "Pionki", "g_adr": "29", "g_teryt": "1425011", "g_gm": "Pionki", "g_pow": "radomski", "g_woj": "mazowieckie", "g_szer": 21.448021631098978, "g_dlug": 51.477205289914608, "g_uuid": "0c7302f2-e7ae-4ea8-b9b1-a75fd0244203", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 669945.93527029780671, 404024.240768955089152 ] } },
+{ "type": "Feature", "properties": { "gid": 463, "JPT_KOD_JE": "1425", "JPT_NAZWA_": "powiat radomski", "id": "104#193", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001798", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej - Szpital w Iłży", "miejscowosc": "Iłża", "ulica": "Dr Anki ", "numer_domu": "4", "adres_swiadczeniodawcy": "Dr Anki 4", "telefon": "48 385-69-64", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 21.23337574828869, "g_dlug": 51.165438472415318, "g_uuid": "27f2c9ba-184c-4cbc-bc49-8b8eb9746c50", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 656102.125020229490474, 368892.015169307589531 ] } }
+]
+}

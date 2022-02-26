@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2861",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 108, "JPT_KOD_JE": "2861", "JPT_NAZWA_": "powiat Elbląg", "id": 408, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Elbląg", "powiat": "Elbląg", "adres": "Królewiecka 146", "miejscowosc": "Elbląg", "kod": "82-300", "nazwa": "Wojewódzki Szpital Zespolony w Elblągu", "poziom": "III stopień", "www": "http:\/\/www.szpital.elblag.pl", "telefon": "55 234 41 11 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 527998.0, 701761.3 ] } },
+{ "type": "Feature", "properties": { "_uid_": 109, "JPT_KOD_JE": "2861", "JPT_NAZWA_": "powiat Elbląg", "id": 409, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Elbląg", "powiat": "Elbląg", "adres": "Jana Amosa Komeńskiego 35", "miejscowosc": "Elbląg", "kod": "82-300", "nazwa": "Szpital Miejski Św. Jana Pawła II w Elblągu", "poziom": "II stopień", "www": "http:\/\/szpitalmiejski.elblag.pl", "telefon": "55 239 44 02 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 527728.3, 699162.6 ] } }
+]
+}

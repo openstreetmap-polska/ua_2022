@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0409",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 12, "JPT_KOD_JE": "0409", "JPT_NAZWA_": "powiat mogileński", "id": "104#52", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20000779", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Mogilnie", "miejscowosc": "Mogilno", "ulica": "Kościuszki ", "numer_domu": "6", "adres_swiadczeniodawcy": "Kościuszki 6", "telefon": "52 31-52-303; 52 31-52-309", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kościuszki Tadeusza", "g_miejsc": "Mogilno", "g_adr": "6", "g_teryt": "0409033", "g_gm": "Mogilno", "g_pow": "mogileński", "g_woj": "kujawsko-pomorskie", "g_szer": 17.949419076145485, "g_dlug": 52.658392472027522, "g_uuid": "83a4809d-046d-4968-8e94-3b9d30e8dec3", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 428962.344759310362861, 533037.160807184875011 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2415",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 180, "JPT_KOD_JE": "2415", "JPT_NAZWA_": "powiat wodzisławski", "id": "104#402", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "124\/100310", "swiadczeniodawca": "PP ZOZ w Rydułtowach i Wodzisławiu Śląskim z siedzibą w Wodzisławiu Śląskim", "miejscowosc": "Rydułtowy", "ulica": "Plebiscytowa ", "numer_domu": "47", "adres_swiadczeniodawcy": "Plebiscytowa 47", "telefon": "32 459 24 07", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "PLEBISCYTOWA", "g_miejsc": "RYDUŁTOWY", "g_adr": "47", "g_teryt": "2415031", "g_gm": "Rydułtowy", "g_pow": "wodzisławski", "g_woj": "śląskie", "g_szer": 18.423082665469316, "g_dlug": 50.058966999825309, "g_uuid": "b70bc0b8-21b9-455a-a2bc-6b0808909261", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 458716.941840834100731, 243682.425246009603143 ] } },
+{ "type": "Feature", "properties": { "gid": 290, "JPT_KOD_JE": "2415", "JPT_NAZWA_": "powiat wodzisławski", "id": "104#416", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "124\/100310", "swiadczeniodawca": "PP ZOZ w Rydułtowach i Wodzisławiu Śląskim z siedzibą w Wodzisławiu Śląskim", "miejscowosc": "Wodzisław Śląski", "ulica": "26  Marca ", "numer_domu": "51", "adres_swiadczeniodawcy": "26 Marca 51", "telefon": "32 459 18 23", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.462507086429568, "g_dlug": 50.00964094818162, "g_uuid": "61d96809-2b7e-426e-adb9-283201b2d52e", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 461499.022607827093452, 238178.307154341600835 ] } }
+]
+}

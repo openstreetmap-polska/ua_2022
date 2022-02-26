@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1005",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 129, "JPT_KOD_JE": "1005", "JPT_NAZWA_": "powiat łowicki", "id": "104#117", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "130004", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Łowiczu  ", "miejscowosc": "Łowicz", "ulica": "Ułańska ", "numer_domu": "28", "adres_swiadczeniodawcy": "Ułańska 28", "telefon": "46 837 56 11 \r\n46 837 56 12 \r\n46 837 56 13  \r\nwew. 508\r\n509 056 091", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Ułańska", "g_miejsc": "Łowicz", "g_adr": "28", "g_teryt": "1005011", "g_gm": "Łowicz", "g_pow": "łowicki", "g_woj": "łódzkie", "g_szer": 19.928925815530004, "g_dlug": 52.099201923536519, "g_uuid": "d564ff7b-057e-4827-b082-68e3c7c85c1c", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 563610.715671869111247, 470746.205592258833349 ] } }
+]
+}

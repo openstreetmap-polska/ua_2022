@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2801",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 240, "JPT_KOD_JE": "2801", "JPT_NAZWA_": "powiat bartoszycki", "id": 403, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Bartoszyce", "powiat": "Bartoszycki", "adres": "Wyszyńskiego 11", "miejscowosc": "Bartoszyce", "kod": "11-200", "nazwa": "Szpital Powiatowy im. Jana Pawła II w Bartoszycach", "poziom": "I stopień", "www": "https:\/\/www.szpital.bartoszyce.pl", "telefon": "89 764 30 17 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 616710.7, 712007.0 ] } }
+]
+}

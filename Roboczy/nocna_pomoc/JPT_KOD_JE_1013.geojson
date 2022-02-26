@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1013",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 344, "JPT_KOD_JE": "1013", "JPT_NAZWA_": "powiat rawski", "id": "104#128", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "230170", "swiadczeniodawca": "Szpital Św. Ducha w Rawie Mazowieckiej  ", "miejscowosc": "Rawa Mazowiecka                                                 ", "ulica": "Warszawska    ", "numer_domu": "14", "adres_swiadczeniodawcy": "Warszawska 14   ", "telefon": "572 707 174; 572 707 175", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Warszawska", "g_miejsc": "Rawa Mazowiecka", "g_adr": "14", "g_teryt": "1013011", "g_gm": "Rawa Mazowiecka", "g_pow": "rawski", "g_woj": "łódzkie", "g_szer": 20.259027872167938, "g_dlug": 51.766485075595497, "g_uuid": "cd0d09b3-95e1-44a3-9092-c1ce34ad39d3", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 586854.38793182047084, 434095.509823171421885 ] } }
+]
+}

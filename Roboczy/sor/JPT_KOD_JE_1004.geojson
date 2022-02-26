@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1004",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1004", "JPT_NAZWA_": "powiat łęczycki", "id": 43, "ksiega": 385151, "id zoz": 468573, "id jednostki": "748123", "id komórki": 6501461, "regon": 61032054000026, "kod jednostki": "01", "kod komórki": 10, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Łęczyca - gmina miejska", "ulica": "ul. Zachodnia", "budynek": "6", "lokal": "NULL", "kod": "99-100", "miejscowosc": "Łęczyca", "teryt": 1004011, "kod simc": 969250, "kod ulicy": "25305", "lozka": 7, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-11-27" }, "geometry": { "type": "Point", "coordinates": [ 512929.683299999975, 465968.2772 ] } }
+]
+}

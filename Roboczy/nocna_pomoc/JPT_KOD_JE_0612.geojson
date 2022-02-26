@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0612",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 333, "JPT_KOD_JE": "0612", "JPT_NAZWA_": "powiat opolski", "id": "104#81", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30006006", "swiadczeniodawca": "Powiatowe Centrum Zdrowia Spółka z ograniczoną odpowiedzialnością", "miejscowosc": "Opole Lubelskie ", "ulica": "Szpitalna ", "numer_domu": "9", "adres_swiadczeniodawcy": "Szpitalna 9", "telefon": "81 458 21 58; 81 458 21 64; 81 827 20 17", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Opole Lubelskie", "g_adr": "9", "g_teryt": "0612053", "g_gm": "Opole Lubelskie", "g_pow": "opolski", "g_woj": "lubelskie", "g_szer": 21.975610726387529, "g_dlug": 51.151543648482622, "g_uuid": "804775f9-956a-4d1d-95d0-d2e9a89eebcc", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 708034.144542670692317, 369185.094639631919563 ] } }
+]
+}

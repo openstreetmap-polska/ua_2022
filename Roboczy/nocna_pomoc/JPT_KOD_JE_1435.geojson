@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1435",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 50, "JPT_KOD_JE": "1435", "JPT_NAZWA_": "powiat wyszkowski", "id": "104#259", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001439", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Wyszkowie", "miejscowosc": "Wyszków", "ulica": " Komisji Edukacji Narodowej ", "numer_domu": "1", "adres_swiadczeniodawcy": " Komisji Edukacji Narodowej 1", "telefon": "29 742-35-09", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Komisji Edukacji Narodowej", "g_miejsc": "Wyszków", "g_adr": "1", "g_teryt": "1435053", "g_gm": "Wyszków", "g_pow": "wyszkowski", "g_woj": "mazowieckie", "g_szer": 21.444838387526236, "g_dlug": 52.586819474509703, "g_uuid": "928dc651-aac5-414f-894c-21b842149a8d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 665573.296604318893515, 527367.232921413145959 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1430",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 472, "JPT_KOD_JE": "1430", "JPT_NAZWA_": "powiat szydłowiecki", "id": "104#228", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001804", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Szydłowcu", "miejscowosc": "Szydłowiec", "ulica": "Staszica ", "numer_domu": "4", "adres_swiadczeniodawcy": "Staszica 4", "telefon": "48 617 62 84, 885 990 992, 885 990 993 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Staszica Stanisława", "g_miejsc": "Szydłowiec", "g_adr": "4", "g_teryt": "1430053", "g_gm": "Szydłowiec", "g_pow": "szydłowiecki", "g_woj": "mazowieckie", "g_szer": 20.86852734782417, "g_dlug": 51.227386905505064, "g_uuid": "9092aabd-8890-4773-a6c1-f8f5a14b90b0", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 630427.964365134364925, 375067.158598230220377 ] } }
+]
+}

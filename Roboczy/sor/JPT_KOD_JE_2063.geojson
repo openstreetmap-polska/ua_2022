@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2063",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2063", "JPT_NAZWA_": "powiat Suwałki", "id": 63, "ksiega": 387130, "id zoz": 472573, "id jednostki": "756916", "id komórki": 6603909, "regon": 79031936200024, "kod jednostki": "01", "kod komórki": 56, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Suwałki - gmina miejska", "ulica": "ul. Szpitalna", "budynek": "60", "lokal": "NULL", "kod": "16-400", "miejscowosc": "Suwałki", "teryt": 2063011, "kod simc": 977456, "kod ulicy": "22073", "lozka": 7, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-01-01" }, "geometry": { "type": "Point", "coordinates": [ 756397.151915755006485, 702062.89090858399868 ] } }
+]
+}

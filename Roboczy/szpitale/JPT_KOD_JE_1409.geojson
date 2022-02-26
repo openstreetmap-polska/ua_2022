@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1409",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 303, "JPT_KOD_JE": "1409", "JPT_NAZWA_": "powiat lipski", "id": 185, "wojewodztwo": "mazowieckie", "miasto": "LIPSKO", "powiat": "LIPSKI", "adres": "JĘDRZEJA ŚNIADECKIEGO 2", "miejscowosc": "LIPSKO ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY  ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W LIPSKU", "poziom": "I stopień", "www": "http:\/\/www.spzzoz-lipsko.mazowsze.pl", "telefon": "48-3783600", "e-mail": "67099777300000@zoz.org.pl" }, "geometry": { "type": "Point", "coordinates": [ 685762.8, 369304.8 ] } }
+]
+}

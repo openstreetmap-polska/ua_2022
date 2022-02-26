@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3031",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 313, "JPT_KOD_JE": "3031", "JPT_NAZWA_": "powiat złotowski", "id": "104#509", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000011", "swiadczeniodawca": "Szpital Powiatowy im. Alfreda Sokołowskiego w Złotowie", "miejscowosc": "Złotów ", "ulica": "Szpitalna ", "numer_domu": "28", "adres_swiadczeniodawcy": "Szpitalna 28", "telefon": "Lekarz POZ:\r\n67 26 32 892, \r\npielęgniarka POZ:                                            67 26 33 257 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Złotów", "g_adr": "28", "g_teryt": "3031011", "g_gm": "Złotów", "g_pow": "złotowski", "g_woj": "wielkopolskie", "g_szer": 17.044934302834257, "g_dlug": 53.355455172147074, "g_uuid": "4ca9b17f-9855-4fe0-a5fa-4d2d3b12d9b2", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 369920.938449479872361, 611820.420679747126997 ] } }
+]
+}

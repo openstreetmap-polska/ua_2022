@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1601",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 53, "JPT_KOD_JE": "1601", "JPT_NAZWA_": "powiat brzeski", "id": "104#265", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/10006", "swiadczeniodawca": "Brzeskie Centrum Medyczne", "miejscowosc": "Brzeg   ", "ulica": "Mossora ", "numer_domu": "1", "adres_swiadczeniodawcy": "Mossora 1", "telefon": "Brzeg: 77 444 65 03; Grodków: 77415 52 43", "dodatkowe_miejsce": "Szpitalna 13; Grodków", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Mossora Sergiusza", "g_miejsc": "Brzeg", "g_adr": "1", "g_teryt": "1601011", "g_gm": "Brzeg", "g_pow": "brzeski", "g_woj": "opolskie", "g_szer": 17.477238006157481, "g_dlug": 50.857545910034389, "g_uuid": "e13bc3bd-ab39-48cc-a733-0ffcf318416c", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 392856.406156489043497, 333397.609247080050409 ] } }
+]
+}

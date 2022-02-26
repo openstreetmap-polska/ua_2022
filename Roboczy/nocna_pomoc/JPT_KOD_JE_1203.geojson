@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1203",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 345, "JPT_KOD_JE": "1203", "JPT_NAZWA_": "powiat chrzanowski", "id": "104#138", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100007", "swiadczeniodawca": "Szpital Powiatowy w Chrzanowie", "miejscowosc": "Chrzanów", "ulica": " Topolowa ", "numer_domu": "16", "adres_swiadczeniodawcy": " Topolowa 16", "telefon": "32 624 76 30", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Topolowa", "g_miejsc": "Chrzanów", "g_adr": "16", "g_teryt": "1203033", "g_gm": "Chrzanów", "g_pow": "chrzanowski", "g_woj": "małopolskie", "g_szer": 19.428536206275176, "g_dlug": 50.137122565856806, "g_uuid": "3690f623-a98b-4f6c-9383-b3e52fb08b83", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 530615.527065766858868, 252297.566352581605315 ] } }
+]
+}

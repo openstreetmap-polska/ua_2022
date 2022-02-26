@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0414",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 430, "JPT_KOD_JE": "0414", "JPT_NAZWA_": "powiat świecki", "id": "104#56", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20002603", "swiadczeniodawca": "NZOZ \"Nowy Szpital Sp. z o.o.\" prowadzony przez Nowy Szpital Sp. z o.o.", "miejscowosc": "Świecie", "ulica": "Wojska Polskiego ", "numer_domu": "126", "adres_swiadczeniodawcy": "Wojska Polskiego 126", "telefon": "41 240 16 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.466878887244352, "g_dlug": 53.413911505417246, "g_uuid": "ff7f7e4c-6200-4bdc-a2ee-16432de0df76", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 464575.997672409866937, 616672.340839503332973 ] } }
+]
+}

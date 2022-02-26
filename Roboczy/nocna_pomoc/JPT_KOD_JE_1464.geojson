@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1464",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 43, "JPT_KOD_JE": "1464", "JPT_NAZWA_": "powiat Siedlce", "id": "104#222", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001664", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Siedlcach", "miejscowosc": "Siedlce", "ulica": " Starowiejska ", "numer_domu": "15", "adres_swiadczeniodawcy": " Starowiejska 15", "telefon": "256446895", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 22.286270813164975, "g_dlug": 52.168852286260851, "g_uuid": "62662808-6c35-422d-b716-f25e5a288e25", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 724656.526097193360329, 483174.880806419998407 ] } },
+{ "type": "Feature", "properties": { "gid": 146, "JPT_KOD_JE": "1464", "JPT_NAZWA_": "powiat Siedlce", "id": "104#223", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70603563", "swiadczeniodawca": "Mazowiecki Szpital Wojewódzki w Siedlcach  Sp. z o.o.", "miejscowosc": "Siedlce", "ulica": "Poniatowskiego ", "numer_domu": "26", "adres_swiadczeniodawcy": "Poniatowskiego 26", "telefon": "256403332", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Księcia Józefa Poniatowskiego", "g_miejsc": "Siedlce", "g_adr": "26", "g_teryt": "1464011", "g_gm": "Siedlce", "g_pow": "Siedlce", "g_woj": "mazowieckie", "g_szer": 22.291317213520419, "g_dlug": 52.177536061236822, "g_uuid": "a6aa5383-eac0-418e-bb5e-67866fb9d67c", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 724957.787714903242886, 484156.415218760259449 ] } }
+]
+}

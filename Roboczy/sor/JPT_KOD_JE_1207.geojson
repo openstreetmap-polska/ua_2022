@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1207",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1207", "JPT_NAZWA_": "powiat limanowski", "id": 173, "ksiega": 391649, "id zoz": 481009, "id jednostki": "776351", "id komórki": 6822725, "regon": 30437800023, "kod jednostki": "01", "kod komórki": 59, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy z zespołami wyjazdowymi", "teryt opis": "Limanowa - gmina miejska", "ulica": "ul. Józefa Piłsudskiego", "budynek": "61", "lokal": "NULL", "kod": "34-600", "miejscowosc": "Limanowa", "teryt": 1207011, "kod simc": 960510, "kod ulicy": "16264", "lozka": 6, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-06-27" }, "geometry": { "type": "Point", "coordinates": [ 601862.152029147953726, 206408.3832127689966 ] } }
+]
+}

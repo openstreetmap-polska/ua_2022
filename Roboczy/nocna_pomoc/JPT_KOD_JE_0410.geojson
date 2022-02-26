@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0410",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 429, "JPT_KOD_JE": "0410", "JPT_NAZWA_": "powiat nakielski", "id": "104#53", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20002787", "swiadczeniodawca": "NZOZ \"Nowy Szpital w Nakle i Szubinie\" Spółka z o.o.", "miejscowosc": "Nakło nad Notecią", "ulica": "Mickiewicza ", "numer_domu": "7", "adres_swiadczeniodawcy": "Mickiewicza 7", "telefon": "Nakło: 41 240 20 97; 41 240 20 90; Szubin: 41 240 10 13; 41 24 10 14", "dodatkowe_miejsce": "Ogrodowa 9; 89-200 Szubin", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 17.594125945774785, "g_dlug": 53.13996733392473, "g_uuid": "a2d87387-3b27-470d-9966-95a2ef6a935b", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 405987.809725538711064, 586997.073309985920787 ] } }
+]
+}

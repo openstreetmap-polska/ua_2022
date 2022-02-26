@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0406",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 218, "JPT_KOD_JE": "0406", "JPT_NAZWA_": "powiat grudziądzki", "id": "104#51", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20000724", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej im. Macieja z Miechowa w Łasinie", "miejscowosc": "Łasin", "ulica": "Grudziądzka ", "numer_domu": "2", "adres_swiadczeniodawcy": "Grudziądzka 2", "telefon": "56 466-42-04", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Grudziądzka", "g_miejsc": "Łasin", "g_adr": "2", "g_teryt": "0406033", "g_gm": "Łasin", "g_pow": "grudziądzki", "g_woj": "kujawsko-pomorskie", "g_szer": 19.083134149979788, "g_dlug": 53.51856353122924, "g_uuid": "3b85fed2-fba4-478a-9c30-5519f2acfd98", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 505510.158282511052676, 628182.092942601069808 ] } }
+]
+}

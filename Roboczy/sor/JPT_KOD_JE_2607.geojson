@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2607",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2607", "JPT_NAZWA_": "powiat ostrowiecki", "id": 51, "ksiega": 386003, "id zoz": 470493, "id jednostki": "751951", "id komórki": 6545508, "regon": 31147300042, "kod jednostki": "01", "kod komórki": 17, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Ostrowiec Świętokrzyski - gmina miejska", "ulica": "ul. Karola Szymanowskiego", "budynek": "11", "lokal": "NULL", "kod": "27-400", "miejscowosc": "Ostrowiec Świętokrzyski", "teryt": 2607011, "kod simc": 947308, "kod ulicy": "22238", "lozka": 5, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-07-12" }, "geometry": { "type": "Point", "coordinates": [ 665796.254599999986, 345544.012700001010671 ] } }
+]
+}

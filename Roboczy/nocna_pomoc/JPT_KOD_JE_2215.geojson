@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2215",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 66, "JPT_KOD_JE": "2215", "JPT_NAZWA_": "powiat wejherowski", "id": "104#349", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "002148", "swiadczeniodawca": "Niepubliczny Zakład Opieki Zdrowotnej Nr 1 Katarzyna Szalewska w Rumi", "miejscowosc": "Rumia", "ulica": "Derdowskiego ", "numer_domu": "23", "adres_swiadczeniodawcy": "Derdowskiego 23", "telefon": "58 727 29 50", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Derdowskiego", "g_miejsc": "Rumia", "g_adr": "23", "g_teryt": "2215021", "g_gm": "Rumia", "g_pow": "wejherowski", "g_woj": "pomorskie", "g_szer": 18.400051435068161, "g_dlug": 54.573423881287404, "g_uuid": "4fe5567d-259f-4d32-80e5-ef32bcccb7f5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 461227.86537503649015, 745674.193153472617269 ] } },
+{ "type": "Feature", "properties": { "gid": 172, "JPT_KOD_JE": "2215", "JPT_NAZWA_": "powiat wejherowski", "id": "104#357", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "000120", "swiadczeniodawca": "Szpitale Pomorskie w Gdyni", "miejscowosc": "Wejherowo   ", "ulica": "Jagalskiego ", "numer_domu": "10", "adres_swiadczeniodawcy": " A. Jagalskiego 10", "telefon": "58 572 78 44", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.244349360522406, "g_dlug": 54.614105940460853, "g_uuid": "d1212f9c-0935-43d5-be18-7e9cfdcf169c", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 451214.486068976751994, 750297.341818206943572 ] } }
+]
+}

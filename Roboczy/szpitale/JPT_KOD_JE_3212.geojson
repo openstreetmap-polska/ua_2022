@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3212",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 180, "JPT_KOD_JE": "3212", "JPT_NAZWA_": "powiat pyrzycki", "id": 338, "wojewodztwo": "zachodniopomorskie", "miasto": "Pyrzyce ", "powiat": "pyrzycki ", "adres": "Jana Pawła II 2 ", "miejscowosc": null, "kod": null, "nazwa": "Szpital Powiatowy w Pyrzycach ", "poziom": "I stopień", "www": "http:\/\/szpital.pyrzyce.net.pl ", "telefon": "91 570 25 73 wew. 210 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 225589.7, 594700.3 ] } }
+]
+}

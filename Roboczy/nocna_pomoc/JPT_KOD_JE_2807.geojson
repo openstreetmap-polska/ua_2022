@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2807",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 85, "JPT_KOD_JE": "2807", "JPT_NAZWA_": "powiat iławski", "id": "104#450", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140000924", "swiadczeniodawca": "Powiatowy Szpital im. Władysława Biegańskiego w Iławie", "miejscowosc": "Iława", "ulica": "Gen. Wł. Andersa ", "numer_domu": "3", "adres_swiadczeniodawcy": "Gen. Wł. Andersa 3", "telefon": "89 644 96 72", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 19.566755002293846, "g_dlug": 53.586420086271694, "g_uuid": "88e8e03a-3112-4877-b38e-2ab71ad728ea", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 537506.680820852750912, 635875.469993297941983 ] } }
+]
+}

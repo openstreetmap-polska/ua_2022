@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0605",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 330, "JPT_KOD_JE": "0605", "JPT_NAZWA_": "powiat janowski", "id": "104#71", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000104", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Janowie Lubelskim", "miejscowosc": "Janów Lubelski ", "ulica": "Jana Zamojskiego ", "numer_domu": "149", "adres_swiadczeniodawcy": "Jana Zamoyskiego 149", "telefon": "15 843 63 43\r\n15 843 66 60", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 22.433344401235999, "g_dlug": 50.702587001063428, "g_uuid": "b7587e37-6648-4956-bbed-b9ae601719a9", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 742351.612800077768043, 320689.202812346629798 ] } }
+]
+}

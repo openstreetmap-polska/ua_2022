@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1012",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1012", "JPT_NAZWA_": "powiat radomszczański", "id": 21, "ksiega": 380477, "id zoz": 458670, "id jednostki": "725219", "id komórki": 6223163, "regon": 31342000056, "kod jednostki": "23", "kod komórki": 257, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy z Izbą Przyjęć i stanowiskiem do ostrej dializy", "teryt opis": "Radomsko - gmina miejska", "ulica": "ul. Jagiellońska", "budynek": "36", "lokal": "NULL", "kod": "97-500", "miejscowosc": "Radomsko", "teryt": 1012011, "kod simc": 968078, "kod ulicy": "07029", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2011-05-01" }, "geometry": { "type": "Point", "coordinates": [ 532121.34, 354598.58 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1062",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 541, "JPT_KOD_JE": "1062", "JPT_NAZWA_": "powiat Piotrków Trybunalski", "id": 127, "wojewodztwo": "łódzkie", "miasto": "Piotrków Trybunalski", "powiat": "piotrkowski", "adres": "Rakowska 15", "miejscowosc": null, "kod": null, "nazwa": "Samodzielny Szpital Wojewódzki im. M. Kopernika w Piotrkowie Trybunalskim", "poziom": "II stopień", "www": "http:\/\/www.szpital-piotrkow.pl", "telefon": "44 648 03 00", "e-mail": "eprzewodek@szpital-piotrkow.pl" }, "geometry": { "type": "Point", "coordinates": [ 549582.2, 394977.1 ] } },
+{ "type": "Feature", "properties": { "_uid_": 542, "JPT_KOD_JE": "1062", "JPT_NAZWA_": "powiat Piotrków Trybunalski", "id": 138, "wojewodztwo": "łódzkie", "miasto": "Piotrków Trybunalski", "powiat": "piotrkowski", "adres": "Roosevelta 3", "miejscowosc": null, "kod": null, "nazwa": "Powiatowy ZOZ w Piotrkowie Trybunalskim", "poziom": "I stopień", "www": "http:\/\/www.pzoz-piotrkow.pl", "telefon": "44 645 11 15", "e-mail": "sekretariat@szpital-piotrkow.internetdsl.pl" }, "geometry": { "type": "Point", "coordinates": [ 548048.1, 392884.8 ] } }
+]
+}

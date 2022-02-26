@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1201",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1201", "JPT_NAZWA_": "powiat bocheński", "id": 76, "ksiega": 388046, "id zoz": 474377, "id jednostki": "761275", "id komórki": 6656452, "regon": 30434900020, "kod jednostki": "01", "kod komórki": 48, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Oddział ratunkowy", "teryt opis": "Bochnia - gmina miejska", "ulica": "ul. Krakowska", "budynek": "31.", "lokal": "NULL", "kod": "32-700", "miejscowosc": "Bochnia", "teryt": 1201011, "kod simc": 981682, "kod ulicy": "09796", "lozka": 7, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-12-31" }, "geometry": { "type": "Point", "coordinates": [ 601893.134500761982054, 234189.839582698012237 ] } }
+]
+}

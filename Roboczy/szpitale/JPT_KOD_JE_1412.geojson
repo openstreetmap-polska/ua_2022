@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1412",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 433, "JPT_KOD_JE": "1412", "JPT_NAZWA_": "powiat miński", "id": 188, "wojewodztwo": "mazowieckie", "miasto": "MIŃSK MAZOWIECKI", "powiat": "MIŃSKI", "adres": "SZPITALNA 37", "miejscowosc": "MIŃSK MAZOWIECKI ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ", "poziom": "I stopień", "www": "http:\/\/www.spzozmm.pl", "telefon": "25 759-21-86", "e-mail": "spzozmm@spzozmm.pl" }, "geometry": { "type": "Point", "coordinates": [ 676217.7, 481773.5 ] } },
+{ "type": "Feature", "properties": { "_uid_": 434, "JPT_KOD_JE": "1412", "JPT_NAZWA_": "powiat miński", "id": 258, "wojewodztwo": "mazowieckie", "miasto": "RUDKA", "powiat": "MIŃSKI", "adres": "ALEJA TEODORA DUNINA 1", "miejscowosc": "RUDKA ", "kod": null, "nazwa": "SAMODZIELNY SPECJALISTYCZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ IM.DR.TEODORA DUNINA", "poziom": "Szpital onkologiczny lub pulmonologiczny", "www": "http:\/\/www.rudka.com.pl", "telefon": "25 7574170, 25 7574951", "e-mail": "szpital@rudka.com.pl" }, "geometry": { "type": "Point", "coordinates": [ 693344.5, 480167.7 ] } }
+]
+}

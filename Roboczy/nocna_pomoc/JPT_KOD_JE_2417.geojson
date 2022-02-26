@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2417",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 293, "JPT_KOD_JE": "2417", "JPT_NAZWA_": "powiat żywiecki", "id": "104#421", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "122\/100459", "swiadczeniodawca": "Zespół Zakładów Opieki Zdrowotnej w Żywcu", "miejscowosc": "Żywiec", "ulica": "Sienkiewicza ", "numer_domu": "52", "adres_swiadczeniodawcy": "Sienkiewicza 52", "telefon": "Żywiec: 33 480 20 21,\r\nlekarski dyżur ambulatoryjny - tel. 885 031 112,\r\nlekarski dyżur pediatryczny - tel. 885 033 112,\r\nlekarski dyżur wyjazdowy - tel. 885 034 112,\r\npielęgniarski dyżur ambulatoryjny - tel. 885 036 112,\r\npielęgniarski dyżur pediatryczny - tel. 885 037 112,\r\npielęgniarski dyżur wyjazdowy - tel. 885 038 112,;\r\nMilówka: 33 863 78 64, 33 863 76 89, lekaż dyżur ambulatoryjny: 603 929 601, 607 968 603", "dodatkowe_miejsce": "Milówka,\r\nul. Dworcowa 31\r\n(porady ambulatoryjne)", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sienkiewicza", "g_miejsc": "Żywiec", "g_adr": "52", "g_teryt": "2417011", "g_gm": "Żywiec", "g_pow": "żywiecki", "g_woj": "śląskie", "g_szer": 19.203403443237338, "g_dlug": 49.692963083870062, "g_uuid": "d60dded9-c553-473d-bbd0-1652a2e60c2f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 514665.300967960443813, 202861.342370637692511 ] } }
+]
+}

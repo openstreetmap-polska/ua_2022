@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0203",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 103, "JPT_KOD_JE": "0203", "JPT_NAZWA_": "powiat głogowski", "id": "104#5", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3301039", "swiadczeniodawca": "Głogowski Szpital Powiatowy", "miejscowosc": "Głogów\r\n", "ulica": "Kościuszki", "numer_domu": "15a", "adres_swiadczeniodawcy": "Kościuszki 15a", "telefon": "76 832 03 01; 76 832 23 23 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Tadeusza Kościuszki", "g_miejsc": "Głogów", "g_adr": "15a", "g_teryt": "0203011", "g_gm": "Głogów", "g_pow": "głogowski", "g_woj": "dolnośląskie", "g_szer": 16.081187790763948, "g_dlug": 51.65481213794434, "g_uuid": "e19314e1-e0d9-44bb-b624-0d00b4d8328d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 298165.201834092731588, 424962.435953710228205 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1418",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 3, "JPT_KOD_JE": "1418", "JPT_NAZWA_": "powiat piaseczyński", "id": 193, "wojewodztwo": "mazowieckie", "miasto": "PIASECZNO", "powiat": "PIASECZYŃSKI", "adres": "MICKIEWICZA 39", "miejscowosc": "PIASECZNO ", "kod": null, "nazwa": "NIEPUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ SZPITAL ŚW. ANNY W PIASECZNIE", "poziom": "I stopień", "www": "http:\/\/www.emc-sa.pl", "telefon": "22 735 41 01", "e-mail": "piaseczno@emc-sa.pl" }, "geometry": { "type": "Point", "coordinates": [ 638794.5, 468199.7 ] } },
+{ "type": "Feature", "properties": { "_uid_": 4, "JPT_KOD_JE": "1418", "JPT_NAZWA_": "powiat piaseczyński", "id": 220, "wojewodztwo": "mazowieckie", "miasto": "KONSTANCIN-JEZIORNA", "powiat": "PIASECZYŃSKI", "adres": "WIERZEJEWSKIEGO 12", "miejscowosc": "KONSTANCIN-JEZIORNA ", "kod": null, "nazwa": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "II stopień", "www": "http:\/\/www.stocer.pl", "telefon": "227119000", "e-mail": "stocer@stocer.pl" }, "geometry": { "type": "Point", "coordinates": [ 644764.2, 470591.0 ] } }
+]
+}

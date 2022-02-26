@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2208",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 65, "JPT_KOD_JE": "2208", "JPT_NAZWA_": "powiat lęborski", "id": "104#343", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "000099", "swiadczeniodawca": "Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej w Lęborku", "miejscowosc": "Lębork", "ulica": "Juliana Węgrzynowicza ", "numer_domu": "13", "adres_swiadczeniodawcy": "Juliana Węgrzynowicza 13", "telefon": "59 863 30 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Węgrzynowicza Juliana", "g_miejsc": "Lębork", "g_adr": "13", "g_teryt": "2208011", "g_gm": "Lębork", "g_pow": "lęborski", "g_woj": "pomorskie", "g_szer": 17.751188008441321, "g_dlug": 54.538728600865795, "g_uuid": "0c1243b7-e108-4eb0-8599-683bd06f4773", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 419227.975368956569582, 742366.969736479222775 ] } }
+]
+}

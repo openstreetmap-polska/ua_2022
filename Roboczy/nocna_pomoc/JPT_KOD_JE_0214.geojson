@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0214",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 2, "JPT_KOD_JE": "0214", "JPT_NAZWA_": "powiat oleśnicki", "id": "104#19", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3101021", "swiadczeniodawca": "Powiatowy Zespół Szpitali w Oleśnicy", "miejscowosc": "Oleśnica ", "ulica": "Armii Krajowej ", "numer_domu": "1", "adres_swiadczeniodawcy": "Armii Krajowej 1", "telefon": "Oleśnica: 71 77 67 337; Syców: 627 852 031 wew. 251", "dodatkowe_miejsce": "Oleśnicka 25; 56-500 Syców", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Armii Krajowej", "g_miejsc": "Oleśnica", "g_adr": "1", "g_teryt": "0214011", "g_gm": "Oleśnica", "g_pow": "oleśnicki", "g_woj": "dolnośląskie", "g_szer": 17.390771580705746, "g_dlug": 51.20877169116654, "g_uuid": "8c37fb62-7f76-4062-bf43-896f712db43a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 387625.373606776352972, 372568.891618221998215 ] } }
+]
+}

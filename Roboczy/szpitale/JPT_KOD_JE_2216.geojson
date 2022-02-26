@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2216",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 501, "JPT_KOD_JE": "2216", "JPT_NAZWA_": "powiat sztumski", "id": 552, "wojewodztwo": "pomorskie", "miasto": "sztumski", "powiat": "Sztum", "adres": "Mikołaja Reja 12", "miejscowosc": "Sztum", "kod": "82-400", "nazwa": "Szpital Polski w Sztumie", "poziom": "I stopień", "www": "http:\/\/www.szpitale-polskie.pl\/SPSA\/sztum\/", "telefon": "55 640-61-77", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 501666.8, 673112.3 ] } }
+]
+}

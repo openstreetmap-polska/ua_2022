@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2201",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 523, "JPT_KOD_JE": "2201", "JPT_NAZWA_": "powiat bytowski", "id": 529, "wojewodztwo": "pomorskie", "miasto": "bytowski", "powiat": "Bytów", "adres": "Lęborska 13", "miejscowosc": "Bytów", "kod": "77-100", "nazwa": "Szpital Powiatu Bytowskiego Sp. z o.o.", "poziom": "I stopień", "www": "http:\/\/www.szpital-bytow.com.pl", "telefon": "59 822-85-00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 401217.1, 702631.1 ] } },
+{ "type": "Feature", "properties": { "_uid_": 524, "JPT_KOD_JE": "2201", "JPT_NAZWA_": "powiat bytowski", "id": 546, "wojewodztwo": "pomorskie", "miasto": "bytowski", "powiat": "Miastko", "adres": "Generała Wybickiego 30", "miejscowosc": "Miastko", "kod": "77-200", "nazwa": "Szpital Miejski w Miastku Sp. z o.o.", "poziom": "I stopień", "www": "http:\/\/www.szpitalmiastko.pl", "telefon": "59 857-09-00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 367813.6, 684912.3 ] } }
+]
+}

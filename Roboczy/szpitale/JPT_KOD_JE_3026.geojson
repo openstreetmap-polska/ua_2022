@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3026",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 394, "JPT_KOD_JE": "3026", "JPT_NAZWA_": "powiat śremski", "id": 399, "wojewodztwo": "wielkopolskie", "miasto": "ŚREM ", "powiat": "ŚREMSKI ", "adres": "CHEŁMOŃSKIEGO 1 ", "miejscowosc": null, "kod": "63-100 ", "nazwa": "SZPITAL POWIATOWY IM. TADEUSZA MALIŃSKIEGO W ŚREMIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ ", "poziom": "II stopień ", "www": "http:\/\/www.szpitalwsremie.pl\/ ", "telefon": "(061)28-15-443 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 363451.5, 471123.8 ] } },
+{ "type": "Feature", "properties": { "_uid_": 395, "JPT_KOD_JE": "3026", "JPT_NAZWA_": "powiat śremski", "id": 400, "wojewodztwo": "wielkopolskie", "miasto": "ŚREM ", "powiat": "ŚREMSKI ", "adres": "MICKIEWICZA 95 ", "miejscowosc": null, "kod": "63-100 ", "nazwa": "WIELKOPOLSKI OŚRODEK REUMATOLOGICZNY SAMODZIELNY PUBLICZNY SPECJALISTYCZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W ŚREMIE ", "poziom": "II stopień ", "www": "http:\/\/www.reumatologia.srem.net ", "telefon": "(61)28-36-273, (61)28-36-289 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 364743.7, 470541.6 ] } }
+]
+}

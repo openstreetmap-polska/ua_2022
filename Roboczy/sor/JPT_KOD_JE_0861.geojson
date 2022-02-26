@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0861",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0861", "JPT_NAZWA_": "powiat Gorzów Wielkopolski", "id": 199, "ksiega": 391940, "id zoz": 481766, "id jednostki": "777948", "id komórki": 6845120, "regon": 21122838100084, "kod jednostki": "04", "kod komórki": 155, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział  Ratunkowy", "teryt opis": "Gorzów Wielkopolski - gmina miejska", "ulica": "ul. Jana Dekerta", "budynek": "1", "lokal": "NULL", "kod": "66-400", "miejscowosc": "Gorzów Wielkopolski", "teryt": 861011, "kod simc": 935140, "kod ulicy": "03730", "lozka": 24, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-09-02" }, "geometry": { "type": "Point", "coordinates": [ 246126.2507, 550711.3368 ] } }
+]
+}

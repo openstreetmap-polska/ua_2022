@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0463",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 66, "JPT_KOD_JE": "0463", "JPT_NAZWA_": "powiat Toruń", "id": 47, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Toruń", "powiat": "Toruń", "adres": "Św. Józefa 53-59", "miejscowosc": null, "kod": null, "nazwa": "Wojewódzki Szpital Zespolony im. L. Rydygiera w Toruniu ", "poziom": "III stopień", "www": "http:\/\/www.wszz.torun.pl", "telefon": "56 679 31 00, 679 32 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 471966.1, 573772.9 ] } },
+{ "type": "Feature", "properties": { "_uid_": 67, "JPT_KOD_JE": "0463", "JPT_NAZWA_": "powiat Toruń", "id": 46, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Toruń", "powiat": "Toruń", "adres": "Batorego 17\/19", "miejscowosc": null, "kod": null, "nazwa": "SPZOZ Specjalistyczny Szpital Miejski im. M. Kopernika w Toruniu", "poziom": "II stopień", "www": "http:\/\/www.med.torun.pl", "telefon": "56 61 00 209", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 474687.9, 573069.1 ] } }
+]
+}

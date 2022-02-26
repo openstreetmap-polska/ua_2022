@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1201",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 372, "JPT_KOD_JE": "1201", "JPT_NAZWA_": "powiat bocheński", "id": 156, "wojewodztwo": "małopolskie", "miasto": "Bochnia", "powiat": "bocheński", "adres": "Krakowska 31", "miejscowosc": "Bochnia", "kod": "32-700", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W BOCHNI  \"SZPITAL POWIATOWY\"  IM. BŁ. MARTY WIECKIEJ", "poziom": "I stopień", "www": "http:\/\/www.szpital-bochnia.pl", "telefon": "14 61 53 400", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 601893.1, 234189.8 ] } }
+]
+}

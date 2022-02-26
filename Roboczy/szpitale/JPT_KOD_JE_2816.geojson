@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2816",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 558, "JPT_KOD_JE": "2816", "JPT_NAZWA_": "powiat piski", "id": 431, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Pisz", "powiat": "Piski", "adres": "Sienkiewicza 2", "miejscowosc": "Pisz", "kod": "12-200", "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Powiatowy w Piszu", "poziom": "I stopień", "www": "http:\/\/www.szpitalpisz.pl", "telefon": "87 425 45 00 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 685060.2, 643814.1 ] } }
+]
+}

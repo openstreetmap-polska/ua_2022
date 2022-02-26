@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1416",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 41, "JPT_KOD_JE": "1416", "JPT_NAZWA_": "powiat ostrowski", "id": "104#206", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001479", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Ostrowi Mazowieckiej", "miejscowosc": "Ostrów Mazowiecka", "ulica": "Duboisa ", "numer_domu": "68", "adres_swiadczeniodawcy": "Duboisa 68", "telefon": "29 746-37-20; 505-172-813; 505-172-918", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 21.91248486889857, "g_dlug": 52.79952067333339, "g_uuid": "f0c1031d-1f53-475b-8f7f-287a32a43e98", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 696280.155042253900319, 552188.570367668755352 ] } }
+]
+}

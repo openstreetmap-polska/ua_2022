@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3201",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 314, "JPT_KOD_JE": "3201", "JPT_NAZWA_": "powiat białogardzki", "id": "104#511", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160004141", "swiadczeniodawca": " Centrum Dializa Szpital Białogard Sp. z o.o.", "miejscowosc": "Białogard", "ulica": "Szpitalna ", "numer_domu": "7", "adres_swiadczeniodawcy": "Szpitalna 7", "telefon": "94 312 02 88 (gabinet);\r\n512 644 091 (lekarz);\r\n512 644 241 (pielęgniarka) ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Białogard", "g_adr": "7", "g_teryt": "3201011", "g_gm": "Białogard", "g_pow": "białogardzki", "g_woj": "zachodniopomorskie", "g_szer": 15.971534772318332, "g_dlug": 54.006912557960689, "g_uuid": "73e093d1-16d3-427a-b37e-2f17d1a39d7d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 301606.15758323011687, 686738.375878439284861 ] } }
+]
+}

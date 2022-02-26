@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3015",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "3015", "JPT_NAZWA_": "powiat nowotomyski", "id": 62, "ksiega": 387127, "id zoz": 472567, "id jednostki": "756905", "id komórki": 6603735, "regon": 63982000400038, "kod jednostki": "02", "kod komórki": 9, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Nowy Tomyśl - miasto", "ulica": "ul. Henryka Sienkiewicza", "budynek": "3.", "lokal": "NULL", "kod": "64-300", "miejscowosc": "Nowy Tomyśl", "teryt": 3015044, "kod simc": 971175, "kod ulicy": "19834", "lozka": 9, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-04-01" }, "geometry": { "type": "Point", "coordinates": [ 305213.4844, 498214.324200001021381 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3028",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "3028", "JPT_NAZWA_": "powiat wągrowiecki", "id": 205, "ksiega": 392021, "id zoz": 481922, "id jednostki": "778364", "id komórki": 6848962, "regon": 30663800028, "kod jednostki": "01", "kod komórki": 15, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny  oddział ratunkowy", "teryt opis": "Wągrowiec - gmina miejska", "ulica": "ul. Kościuszki", "budynek": "74.", "lokal": "NULL", "kod": "62-100", "miejscowosc": "Wągrowiec", "teryt": 3028011, "kod simc": 967297, "kod ulicy": "09572", "lozka": 5, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-01-04" }, "geometry": { "type": "Point", "coordinates": [ 379035.0688, 551770.911800001049414 ] } }
+]
+}

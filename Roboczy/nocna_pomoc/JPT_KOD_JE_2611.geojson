@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2611",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 517, "JPT_KOD_JE": "2611", "JPT_NAZWA_": "powiat starachowicki", "id": "104#437", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130000124", "swiadczeniodawca": "Powiatowy Zakład Opieki Zdrowotnej", "miejscowosc": "Starachowice", "ulica": "Radomska ", "numer_domu": "70", "adres_swiadczeniodawcy": "Radomska 70", "telefon": "41 273 91 00- świadczenia ambulatoryjne;\r\n41 344 65 03, 41 344 26 47 - świadczenia wyjazdowe", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 21.072522472021181, "g_dlug": 51.064339659088908, "g_uuid": "b25af393-4dcb-446a-99c6-19776498fc33", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 645176.461975042708218, 357324.799353459849954 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3203",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 200, "JPT_KOD_JE": "3203", "JPT_NAZWA_": "powiat drawski", "id": "104#514", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160004693", "swiadczeniodawca": " Drawskie Centrum Specjalistyczne", "miejscowosc": "Drawsko Pomorskie", "ulica": "B. Chrobrego ", "numer_domu": "4", "adres_swiadczeniodawcy": "B. Chrobrego 4", "telefon": "Drawsko Pomorskie: 94 363 03 43;\r\n 515 732 997; \r\n500 390 517;\r\nZłocieniec: 94 713 76 11\r\n515 733 454; 782 312 997 ", "dodatkowe_miejsce": "78-520 Złocieniec ul. Plac 650-lecia 1", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Bolesława Chrobrego", "g_miejsc": "Drawsko Pomorskie", "g_adr": "4", "g_teryt": "3203023", "g_gm": "Drawsko Pomorskie", "g_pow": "drawski", "g_woj": "zachodniopomorskie", "g_szer": 15.811006523990461, "g_dlug": 53.524749282125661, "g_uuid": "be5086db-8a36-4e7e-a958-f35398a80c31", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 288684.905239034502301, 633598.18457692861557 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0412",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 220, "JPT_KOD_JE": "0412", "JPT_NAZWA_": "powiat rypiński", "id": "104#55", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20000732", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Rypinie", "miejscowosc": "Rypin", "ulica": "3 Maja ", "numer_domu": "2", "adres_swiadczeniodawcy": "3 Maja 2", "telefon": "54 23-08-701", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "3 Maja", "g_miejsc": "Rypin", "g_adr": "2", "g_teryt": "0412011", "g_gm": "Rypin", "g_pow": "rypiński", "g_woj": "kujawsko-pomorskie", "g_szer": 19.415902221333194, "g_dlug": 53.067228339563663, "g_uuid": "ab57ee1b-0bdd-4357-ae93-01c6c5ff4503", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 527859.39703148312401, 578065.547191790305078 ] } }
+]
+}

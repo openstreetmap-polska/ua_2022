@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1021",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 128, "JPT_KOD_JE": "1021", "JPT_NAZWA_": "powiat brzeziński", "id": "104#113", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "210540", "swiadczeniodawca": "Szpital Specjalistyczny Brzeziny Powiatowe Centrum Zdrowia Sp. z o.o. w Brzezinach  ", "miejscowosc": "Brzeziny                                                         ", "ulica": "Skłodowskiej-Curie ", "numer_domu": "6", "adres_swiadczeniodawcy": "M. Skłodowskie-Curie 6", "telefon": "46 874 20 11", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Skłodowskiej-Curie", "g_miejsc": "Brzeziny", "g_adr": "6", "g_teryt": "1021011", "g_gm": "Brzeziny", "g_pow": "brzeziński", "g_woj": "łódzkie", "g_szer": 19.75538374037156, "g_dlug": 51.806499682549145, "g_uuid": "6dd33470-808e-45f0-b89d-24c45ff03eb7", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 552064.554295617504977, 438064.145237304270267 ] } }
+]
+}

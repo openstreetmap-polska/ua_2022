@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0610",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 305, "JPT_KOD_JE": "0610", "JPT_NAZWA_": "powiat łęczyński", "id": 75, "wojewodztwo": "lubelskie", "miasto": "ŁĘCZNA", "powiat": "ŁĘCZYŃSKI", "adres": "KRASNYSTAWSKA 52", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W ŁĘCZNEJ", "poziom": "II stopień ", "www": "http:\/\/www.szpital.leczna.pl", "telefon": "81 752 63 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 770268.4, 387579.7 ] } }
+]
+}

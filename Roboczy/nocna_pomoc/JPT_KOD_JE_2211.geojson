@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2211",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 505, "JPT_KOD_JE": "2211", "JPT_NAZWA_": "powiat pucki", "id": "104#348", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "001943", "swiadczeniodawca": "Szpital Pucki w Pucku", "miejscowosc": "Puck", "ulica": "1 Maja", "numer_domu": "13a", "adres_swiadczeniodawcy": "1 Maja 13a ", "telefon": "58 673 48 38 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "1 Maja", "g_miejsc": "Puck", "g_adr": "13A", "g_teryt": "2211031", "g_gm": "Puck", "g_pow": "pucki", "g_woj": "pomorskie", "g_szer": 18.414105032649779, "g_dlug": 54.720855967131222, "g_uuid": "51ca344e-41fe-40bc-9488-45d495dbc291", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 462273.280599723744672, 762067.340440211817622 ] } }
+]
+}

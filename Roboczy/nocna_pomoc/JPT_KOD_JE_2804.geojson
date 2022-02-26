@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2804",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 404, "JPT_KOD_JE": "2804", "JPT_NAZWA_": "powiat elbląski", "id": "104#464", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140003162", "swiadczeniodawca": "\"Szpital Powiatowy Sp. z o. o. w Pasłęku\"", "miejscowosc": "Pasłęk", "ulica": "Kopernika", "numer_domu": "24a", "adres_swiadczeniodawcy": "Kopernika 24a", "telefon": "55 249 15 55", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kopernika", "g_miejsc": "Pasłęk", "g_adr": "24A", "g_teryt": "2804073", "g_gm": "Pasłęk", "g_pow": "elbląski", "g_woj": "warmińsko-mazurskie", "g_szer": 19.664845462555729, "g_dlug": 54.062333681043675, "g_uuid": "0ce811c6-30a0-44d9-9cdb-be134ec441f0", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 543502.122734342119657, 688863.065061912871897 ] } }
+]
+}

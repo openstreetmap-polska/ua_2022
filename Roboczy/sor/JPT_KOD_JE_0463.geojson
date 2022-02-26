@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0463",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0463", "JPT_NAZWA_": "powiat Toruń", "id": 155, "ksiega": 391275, "id zoz": 480357, "id jednostki": "774269", "id komórki": 6799877, "regon": 31606800050, "kod jednostki": "01", "kod komórki": 65, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Toruń - gmina miejska", "ulica": "ul. św. Józefa", "budynek": "53-59", "lokal": "NULL", "kod": "87-100", "miejscowosc": "Toruń", "teryt": 463011, "kod simc": 982724, "kod ulicy": "07626", "lozka": 8, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-04-15" }, "geometry": { "type": "Point", "coordinates": [ 472044.452887432009447, 573569.24059813702479 ] } }
+]
+}

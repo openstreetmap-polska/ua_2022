@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0222",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 7, "JPT_KOD_JE": "0222", "JPT_NAZWA_": "powiat wołowski", "id": "104#29", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3102923", "swiadczeniodawca": "NZOZ Powiatowe Centrum Medyczne", "miejscowosc": "Wołów\r\n", "ulica": "Inwalidów Wojennych ", "numer_domu": "26", "adres_swiadczeniodawcy": "Inwalidów Wojennych 26", "telefon": "71 380 58 11; 503 848 031", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Inwalidów Wojennych", "g_miejsc": "Wołów", "g_adr": "26", "g_teryt": "0222033", "g_gm": "Wołów", "g_pow": "wołowski", "g_woj": "dolnośląskie", "g_szer": 16.639686427868288, "g_dlug": 51.340511088784744, "g_uuid": "4bf9c103-ee3d-418c-834e-e80bc63a5459", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 335652.719199278741144, 388629.049268309026957 ] } }
+]
+}

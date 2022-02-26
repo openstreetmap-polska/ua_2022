@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2464",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 506, "JPT_KOD_JE": "2464", "JPT_NAZWA_": "powiat Częstochowa", "id": "104#370", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "123\/100147", "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny im. NMP", "miejscowosc": "Częstochowa", "ulica": "Polskiego Czerwonego Krzyża", "numer_domu": "7", "adres_swiadczeniodawcy": "PCK 7", "telefon": "34 325 74 10; \r\n609 348 811; \r\n607 929 022; \r\n605 497 117", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 19.111194048020906, "g_dlug": 50.830362474313731, "g_uuid": "fc943672-c760-4a6d-9e32-91792b771560", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 507828.222740621888079, 329276.479579635895789 ] } },
+{ "type": "Feature", "properties": { "gid": 507, "JPT_KOD_JE": "2464", "JPT_NAZWA_": "powiat Częstochowa", "id": "104#371", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "123\/108020", "swiadczeniodawca": "Miejski Szpital Zespolony", "miejscowosc": "Częstochowa", "ulica": "Mirowska ", "numer_domu": "15", "adres_swiadczeniodawcy": "Mirowska 15", "telefon": "34 370 21 57", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Mirowska", "g_miejsc": "Częstochowa", "g_adr": "15", "g_teryt": "2464011", "g_gm": "Częstochowa", "g_pow": "Częstochowa", "g_woj": "śląskie", "g_szer": 19.133279480311003, "g_dlug": 50.811895005446388, "g_uuid": "e4fc7bc1-a766-4b27-9afa-4e7b2cbc1195", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 509387.147401553636882, 327226.910594241693616 ] } }
+]
+}

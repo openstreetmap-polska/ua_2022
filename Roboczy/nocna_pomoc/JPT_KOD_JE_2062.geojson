@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2062",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 374, "JPT_KOD_JE": "2062", "JPT_NAZWA_": "powiat Łomża", "id": "104#316", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000065", "swiadczeniodawca": "Szpital Wojewódzki im. Kard. S. Wyszyńskiego   ", "miejscowosc": "Łomża  ", "ulica": "Piłsudskiego ", "numer_domu": "11", "adres_swiadczeniodawcy": "Piłsudskiego 11", "telefon": "86 473 36 66", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Aleja Józefa Piłsudskiego", "g_miejsc": "Łomża", "g_adr": "11", "g_teryt": "2062011", "g_gm": "Łomża", "g_pow": "Łomża", "g_woj": "podlaskie", "g_szer": 22.085214176236544, "g_dlug": 53.160411445688062, "g_uuid": "a786cccd-3274-4ab6-bd68-98c0efdbef42", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 706191.519452061736956, 592792.05567329749465 ] } }
+]
+}

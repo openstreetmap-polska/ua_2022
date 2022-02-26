@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1814",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 370, "JPT_KOD_JE": "1814", "JPT_NAZWA_": "powiat przeworski", "id": "104#294", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010014", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Przeworsku", "miejscowosc": "Przeworsk ", "ulica": "Szpitalna ", "numer_domu": "16", "adres_swiadczeniodawcy": "Szpitalna 16", "telefon": "16 649 15 18", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Przeworsk", "g_adr": "16", "g_teryt": "1814011", "g_gm": "Przeworsk", "g_pow": "przeworski", "g_woj": "podkarpackie", "g_szer": 22.478959514315829, "g_dlug": 50.064866963516963, "g_uuid": "06005860-f11e-4092-84ba-24bc49926a89", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 748889.701813088497147, 249976.015103908255696 ] } }
+]
+}

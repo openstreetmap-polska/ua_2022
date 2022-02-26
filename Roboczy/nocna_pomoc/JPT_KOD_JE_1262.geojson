@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1262",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 454, "JPT_KOD_JE": "1262", "JPT_NAZWA_": "powiat Nowy Sącz", "id": "104#167", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "063\/100009", "swiadczeniodawca": "Szpital Specjalistyczny im. Jędrzeja Śniadeckiego w Nowym Sączu    ", "miejscowosc": "Nowy Sącz", "ulica": "Młyńska ", "numer_domu": "5", "adres_swiadczeniodawcy": "Młyńska 5", "telefon": "18 442 56 05; 795 531 807", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Młyńska", "g_miejsc": "Nowy Sącz", "g_adr": "5", "g_teryt": "1262011", "g_gm": "Nowy Sącz", "g_pow": "Nowy Sącz", "g_woj": "małopolskie", "g_szer": 20.700747735785363, "g_dlug": 49.618911772353883, "g_uuid": "98bfecf5-3509-4699-b9d8-f52902a47ced", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 622808.787843380938284, 195999.876825167797506 ] } }
+]
+}

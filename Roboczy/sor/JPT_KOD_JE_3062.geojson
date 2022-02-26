@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3062",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "3062", "JPT_NAZWA_": "powiat Konin", "id": 212, "ksiega": 392246, "id zoz": 482369, "id jednostki": "779337", "id komórki": 6859756, "regon": 31159100029, "kod jednostki": "01", "kod komórki": 126, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Konin - gmina miejska", "ulica": "ul. Szpitalna", "budynek": "45", "lokal": "NULL", "kod": "62-504", "miejscowosc": "Konin", "teryt": 3062011, "kod simc": 948667, "kod ulicy": "22073", "lozka": 7, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2011-05-24" }, "geometry": { "type": "Point", "coordinates": [ 448012.582784586993512, 481277.947761307004839 ] } }
+]
+}

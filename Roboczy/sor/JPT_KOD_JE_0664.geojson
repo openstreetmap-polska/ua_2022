@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0664",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0664", "JPT_NAZWA_": "powiat Zamość", "id": 101, "ksiega": 389005, "id zoz": 476563, "id jednostki": "NULL", "id komórki": 6719865, "regon": 605013400025, "kod jednostki": "NULL", "kod komórki": 98, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Zamość - gmina miejska", "ulica": "al. Aleje Jana Pawła II", "budynek": "10", "lokal": "NULL", "kod": "22-400", "miejscowosc": "Zamość", "teryt": 664011, "kod simc": 987510, "kod ulicy": "35344", "lozka": 14, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-01-01" }, "geometry": { "type": "Point", "coordinates": [ 802564.912039187038317, 324926.29207814799156 ] } }
+]
+}

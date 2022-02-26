@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0862",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 225, "JPT_KOD_JE": "0862", "JPT_NAZWA_": "powiat Zielona Góra", "id": "104#106", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "070129", "swiadczeniodawca": "Wojewódzka Stacja Pogotowia Ratunkowego Samodzielny Publiczny Zakład Opieki Zdrowotnej w Zielonej Górze", "miejscowosc": "Zielona Góra\r\n", "ulica": "Chrobrego ", "numer_domu": "2", "adres_swiadczeniodawcy": "Chrobrego 2", "telefon": "68 320 20 49", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Bolesława Chrobrego", "g_miejsc": "Zielona Góra", "g_adr": "2", "g_teryt": "0862011", "g_gm": "Zielona Góra", "g_pow": "Zielona Góra", "g_woj": "lubuskie", "g_szer": 15.513755450429352, "g_dlug": 51.944639011958095, "g_uuid": "35550d94-a4a7-4bd9-ba43-84a98c7d4291", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 260479.952449249918573, 458894.786100775934756 ] } }
+]
+}

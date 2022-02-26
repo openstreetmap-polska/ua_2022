@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1864",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 266, "JPT_KOD_JE": "1864", "JPT_NAZWA_": "powiat Tarnobrzeg", "id": "104#304", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010038", "swiadczeniodawca": "Wojewódzki Szpital im. Zofii z Zamoyskich Tarnowskiej w Tarnobrzegu", "miejscowosc": "Tarnobrzeg ", "ulica": "Szpitalna ", "numer_domu": "1", "adres_swiadczeniodawcy": "Szpitalna 1", "telefon": "15 812 33 83", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "SZPITALNA", "g_miejsc": "TARNOBRZEG", "g_adr": "1", "g_teryt": "1864011", "g_gm": "Tarnobrzeg", "g_pow": "Tarnobrzeg", "g_woj": "podkarpackie", "g_szer": 21.670499285543105, "g_dlug": 50.566872552746155, "g_uuid": "771a056a-990f-4b77-bb11-857259503f24", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 689057.221394199645147, 303383.89880879316479 ] } }
+]
+}

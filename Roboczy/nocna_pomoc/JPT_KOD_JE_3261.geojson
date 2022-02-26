@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3261",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 99, "JPT_KOD_JE": "3261", "JPT_NAZWA_": "powiat Koszalin", "id": "104#520", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000907", "swiadczeniodawca": "Szpital Wojewódzki im. M. Kopernika w Koszalinie (tylko zgłaszanie domowych wizyt pielęgniarskich)", "miejscowosc": "Koszalin", "ulica": "Chałubińskiego ", "numer_domu": "7", "adres_swiadczeniodawcy": "Chałubińskiego 7", "telefon": "ul. Chałubińskiego: 94 348 85 36; \r\n94 348 85 37;\r\nul. Szpitalna 94 34 71 643;\r\nPolanów: 94 318 83 99", "dodatkowe_miejsce": "SP ZOZ MSW w Koszalinie (pełen zakres NiŚOZ) \r\nul. Szpitalna 2, 75-581 Koszalin;\r\n76-010 Polanów ul. Bobolicka 4", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "Chałubińskiego Tytusa", "g_miejsc": "Koszalin", "g_adr": "5-7", "g_teryt": "3261011", "g_gm": "Koszalin", "g_pow": "Koszalin", "g_woj": "zachodniopomorskie", "g_szer": 16.213304597199944, "g_dlug": 54.197935596627012, "g_uuid": "c2113ee0-f10d-4aac-b586-bd514510fb37", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 318277.893517098505981, 707327.910334875807166 ] } }
+]
+}

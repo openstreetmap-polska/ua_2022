@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2603",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 234, "JPT_KOD_JE": "2603", "JPT_NAZWA_": "powiat kazimierski", "id": 439, "wojewodztwo": "ŚWIĘTOKRZYSKIE", "miasto": "KAZIMIERZA WIELKA", "powiat": "KAZIMIERSKI", "adres": "PARTYZANTÓW 12", "miejscowosc": "KAZIMIERZA WIELKA", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W KAZIMIERZY WIELKIEJ", "poziom": "I stopień", "www": "http:\/\/zoz.kazimierzawielka.com", "telefon": "41 352 21 40", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 605881.7, 267881.0 ] } }
+]
+}

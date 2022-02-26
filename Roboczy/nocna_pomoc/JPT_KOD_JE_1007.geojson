@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1007",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 444, "JPT_KOD_JE": "1007", "JPT_NAZWA_": "powiat opoczyński", "id": "104#122", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "140045", "swiadczeniodawca": "  Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Powiatowy im. E. Biernackiego w Opocznie ", "miejscowosc": "Opoczno", "ulica": "Partyzantów ", "numer_domu": "30", "adres_swiadczeniodawcy": "Partyzantów 30", "telefon": "44 754 48 42", "dodatkowe_miejsce": null, "dodatkowe_informacje": null, "g_traf": 1.0, "g_ilosc": 3, "g_ul": "Partyzantów", "g_miejsc": "Opoczno", "g_adr": "30", "g_teryt": "1007043", "g_gm": "Opoczno", "g_pow": "opoczyński", "g_woj": "łódzkie", "g_szer": 20.277937027255639, "g_dlug": 51.378996081315378, "g_uuid": "1984690c-883f-400f-9992-71a308db9856", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 588911.699226014548913, 391038.969250896014273 ] } }
+]
+}

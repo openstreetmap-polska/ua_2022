@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1420",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1420", "JPT_NAZWA_": "powiat płoński", "id": 123, "ksiega": 390503, "id zoz": 478606, "id jednostki": "769916", "id komórki": 6751947, "regon": 30870300032, "kod jednostki": "01", "kod komórki": 47, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Płońsk - gmina miejska", "ulica": "ul. Henryka Sienkiewicza", "budynek": "7", "lokal": "NULL", "kod": "09-100", "miejscowosc": "Płońsk", "teryt": 1420011, "kod simc": 930800, "kod ulicy": "19834", "lozka": 10, "liczba łóżek iom": 3, "liczba łóżek ink": 2, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 5, "data rozpoczęcia działalności komórki": "2002-08-31" }, "geometry": { "type": "Point", "coordinates": [ 593156.603, 530263.51600000099279 ] } }
+]
+}

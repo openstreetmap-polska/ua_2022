@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2008",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 58, "JPT_KOD_JE": "2008", "JPT_NAZWA_": "powiat moniecki", "id": "104#313", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100001743", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej im. dr. E. Jelskiego", "miejscowosc": "Knyszyn ", "ulica": "Grodzieńska ", "numer_domu": "96", "adres_swiadczeniodawcy": "Grodzieńska 96", "telefon": "85 716 70 49", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Grodzieńska", "g_miejsc": "Knyszyn", "g_adr": "96", "g_teryt": "2008043", "g_gm": "Knyszyn", "g_pow": "moniecki", "g_woj": "podlaskie", "g_szer": 22.921776066255973, "g_dlug": 53.319606774921034, "g_uuid": "6af80a00-b47b-4208-9d50-d205f6231c6f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 761107.655179099878296, 613223.833688396960497 ] } },
+{ "type": "Feature", "properties": { "gid": 166, "JPT_KOD_JE": "2008", "JPT_NAZWA_": "powiat moniecki", "id": "104#317", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000359", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Mońkach", "miejscowosc": "Mońki", "ulica": "Niepodległości ", "numer_domu": "9", "adres_swiadczeniodawcy": "Niepodległości 9", "telefon": "85 727 81 60; \r\n668 877 540", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 2, "g_ul": "Aleja Niepodległości", "g_miejsc": "Mońki", "g_adr": "9", "g_teryt": "2008063", "g_gm": "Mońki", "g_pow": "moniecki", "g_woj": "podlaskie", "g_szer": 22.803106032694828, "g_dlug": 53.405531080532377, "g_uuid": "4fdaf498-6142-440a-89ef-78fcf11aa650", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 752700.739607913419604, 622345.760835005901754 ] } }
+]
+}

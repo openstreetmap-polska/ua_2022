@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0204",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 209, "JPT_KOD_JE": "0204", "JPT_NAZWA_": "powiat górowski", "id": "104#6", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "8501055", "swiadczeniodawca": "Nowy Szpital we Wschowie Spółka z ograniczoną odpowiedzialnością", "miejscowosc": "Góra", "ulica": "Amii Polskiej", "numer_domu": "8", "adres_swiadczeniodawcy": "Amii Polskiej 8", "telefon": "504 897 632; 510 106 578", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 16.541648369191481, "g_dlug": 51.663944142126425, "g_uuid": "6808cc62-5c9b-4ad6-9940-cca4d14d56b0", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 330035.128131880308501, 424804.823346482589841 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1202",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 297, "JPT_KOD_JE": "1202", "JPT_NAZWA_": "powiat brzeski", "id": 158, "wojewodztwo": "małopolskie", "miasto": "Brzesko", "powiat": "brzeski", "adres": "Tadeusza Kościuszki 68", "miejscowosc": "Brzesko", "kod": "32-800", "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W BRZESKU", "poziom": "I stopień", "www": "http:\/\/www.spzoz-brzesko.pl", "telefon": "14 66 21 000", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 614002.5, 234778.9 ] } }
+]
+}

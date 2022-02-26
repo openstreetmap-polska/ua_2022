@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1861",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 367, "JPT_KOD_JE": "1861", "JPT_NAZWA_": "powiat Krosno", "id": "104#285", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010040", "swiadczeniodawca": "Wojewódzki Szpital Podkarpacki im.  Jana Pawła II w Krośnie", "miejscowosc": "Krosno ", "ulica": "Korczyńska ", "numer_domu": "57", "adres_swiadczeniodawcy": "Korczyńska 57", "telefon": "Krosno: 13 437 85 64; Dukla: 13 433 17 02", "dodatkowe_miejsce": "Słowacka 11; Dukla", "dodatkowe_informacje": "Słowacka 11; Dukla", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 21.784881682969495, "g_dlug": 49.705654764586477, "g_uuid": "9cf300a2-83bd-4aa7-9ea2-3db6fd638b11", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 700726.974810742191039, 207974.038160325959325 ] } }
+]
+}

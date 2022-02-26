@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2203",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 426, "JPT_KOD_JE": "2203", "JPT_NAZWA_": "powiat człuchowski", "id": 531, "wojewodztwo": "pomorskie", "miasto": "człuchowski", "powiat": "Człuchów", "adres": "Szczecińska 16", "miejscowosc": "Człuchów", "kod": "77-300", "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital im. Jana Parnasa", "poziom": "I stopień", "www": "http:\/\/www. spzoz-czluchow.pl", "telefon": "59 834-22-81", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 391262.7, 645260.1 ] } }
+]
+}

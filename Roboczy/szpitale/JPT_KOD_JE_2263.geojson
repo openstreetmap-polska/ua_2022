@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2263",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 399, "JPT_KOD_JE": "2263", "JPT_NAZWA_": "powiat Słupsk", "id": 549, "wojewodztwo": "pomorskie", "miasto": "słupski", "powiat": "Słupsk", "adres": "Hubalczyków 1", "miejscowosc": "Słupsk", "kod": "76-200", "nazwa": "Wojewódzki Szpital Specjalistyczny im. Janusza Korczaka Sp. z o.o.", "poziom": "III stopień", "www": "http:\/\/www.szpital.slupsk.pl", "telefon": "59 846-01-00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 374292.8, 733677.6 ] } }
+]
+}

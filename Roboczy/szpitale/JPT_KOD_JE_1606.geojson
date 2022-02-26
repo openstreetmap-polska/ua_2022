@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1606",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 315, "JPT_KOD_JE": "1606", "JPT_NAZWA_": "powiat namysłowski", "id": 277, "wojewodztwo": "opolskie", "miasto": "Namysłów", "powiat": "namysłowki", "adres": "Oleśnicka 4", "miejscowosc": "Namysłów", "kod": "46-100 ", "nazwa": "Namysłowskie Centrum Zdrowia Spółka Akcyjna ", "poziom": "I stopień", "www": "http:\/\/www.zoznamyslow.pl", "telefon": "77 40 40 200", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 409581.4, 358167.5 ] } }
+]
+}

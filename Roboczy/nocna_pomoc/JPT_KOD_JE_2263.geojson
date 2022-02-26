@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2263",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 67, "JPT_KOD_JE": "2263", "JPT_NAZWA_": "powiat Słupsk", "id": "104#351", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "000013", "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny im. Janusza Korczaka w Słupsku      ", "miejscowosc": "Słupsk", "ulica": " Hubalczyków ", "numer_domu": "1", "adres_swiadczeniodawcy": " Hubalczyków 1", "telefon": "59 846 01 02", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Hubalczyków", "g_miejsc": "Słupsk", "g_adr": "1", "g_teryt": "2263011", "g_gm": "Słupsk", "g_pow": "Słupsk", "g_woj": "pomorskie", "g_szer": 17.060514893374524, "g_dlug": 54.451494598132669, "g_uuid": "75c1625f-eb0f-48ef-8145-0621c28d0767", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 374292.458086722414009, 733677.068856165744364 ] } }
+]
+}

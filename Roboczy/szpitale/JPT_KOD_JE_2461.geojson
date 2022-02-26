@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2461",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 164, "JPT_KOD_JE": "2461", "JPT_NAZWA_": "powiat Bielsko-Biała", "id": 464, "wojewodztwo": "śląskie", "miasto": "Bielsko-Biała", "powiat": "Bielsko-Biała", "adres": "Sobieskiego 83", "miejscowosc": "Bielsko-Biała", "kod": null, "nazwa": "Szpital Pediatryczny w Bielsku-Białej", "poziom": "Szpital pediatryczny", "www": "http:\/\/www.szpitalpediatryczny.pl", "telefon": "33 828 40 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 502070.7, 217073.0 ] } },
+{ "type": "Feature", "properties": { "_uid_": 165, "JPT_KOD_JE": "2461", "JPT_NAZWA_": "powiat Bielsko-Biała", "id": 465, "wojewodztwo": "śląskie", "miasto": "Bielsko-Biała", "powiat": "Bielsko-Biała", "adres": "Wyzwolenia 18", "miejscowosc": " Bielsko-Biała", "kod": null, "nazwa": "Beskidzkie Centrum Onkologii-Szpital Miejski im.Jana Pawła II w Bielsku-Białej", "poziom": "Szpital onkologiczny", "www": "http:\/\/www.szpital.bielsko.pl", "telefon": "33 498 40 01", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 504106.8, 217459.1 ] } },
+{ "type": "Feature", "properties": { "_uid_": 166, "JPT_KOD_JE": "2461", "JPT_NAZWA_": "powiat Bielsko-Biała", "id": 479, "wojewodztwo": "śląskie", "miasto": "Bielsko-Biała", "powiat": "Bielsko-Biała", "adres": "Al. Armii Krajowej 101", "miejscowosc": "Bielsko-Biała", "kod": null, "nazwa": "Szpital Wojewódzki w Bielsku-Białej", "poziom": "III stopień", "www": "http:\/\/www.hospital.com.pl", "telefon": "33 810 20 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 502803.9, 213937.5 ] } }
+]
+}

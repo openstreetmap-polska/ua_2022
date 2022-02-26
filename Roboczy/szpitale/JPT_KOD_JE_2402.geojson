@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2402",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 401, "JPT_KOD_JE": "2402", "JPT_NAZWA_": "powiat bielski", "id": 512, "wojewodztwo": "śląskie", "miasto": "bielski", "powiat": "Wilkowice", "adres": "Żywiecka 19", "miejscowosc": "Wilkowice", "kod": null, "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Kolejowy w Wilkowicach-Bystrej", "poziom": "I stopień", "www": "http:\/\/www.szpital-kolejowy.com", "telefon": "33 812 20 20", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 506459.7, 211711.8 ] } },
+{ "type": "Feature", "properties": { "_uid_": 402, "JPT_KOD_JE": "2402", "JPT_NAZWA_": "powiat bielski", "id": 458, "wojewodztwo": "śląskie", "miasto": "bielski", "powiat": "Wilkowice", "adres": "Fałata 2", "miejscowosc": "Bystra", "kod": null, "nazwa": "Centrum Pulmonologii i Torakochirurgii w Bystrej", "poziom": "Szpital pulmonologiczny", "www": "http:\/\/www.szpitalbystra.pl", "telefon": "33 499 18 01", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 505050.7, 210905.1 ] } }
+]
+}

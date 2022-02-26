@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0606",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0606", "JPT_NAZWA_": "powiat krasnostawski", "id": 96, "ksiega": 388791, "id zoz": 476142, "id jednostki": "765266", "id komórki": 6706742, "regon": 11019669900040, "kod jednostki": "01", "kod komórki": 64, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Krasnystaw - gmina miejska", "ulica": "ul. Głowackiego", "budynek": "3", "lokal": "NULL", "kod": "22-300", "miejscowosc": "Krasnystaw", "teryt": 606011, "kod simc": 930070, "kod ulicy": "05623", "lozka": 8, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2004-08-17" }, "geometry": { "type": "Point", "coordinates": [ 792027.802011740044691, 354590.97226850601146 ] } }
+]
+}

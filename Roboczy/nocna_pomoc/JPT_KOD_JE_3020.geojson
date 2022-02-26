@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3020",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 195, "JPT_KOD_JE": "3020", "JPT_NAZWA_": "powiat pleszewski", "id": "104#489", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150007443", "swiadczeniodawca": "Pleszewskie Centrum Medyczne w Pleszewie Sp. z o. o.", "miejscowosc": "Pleszew", "ulica": "Poznańska                                                   ", "numer_domu": "125a", "adres_swiadczeniodawcy": "Poznańska 125a                                                                ", "telefon": "Lekarz POZ:\r\n510 914 119\r\nPielęgniarka POZ:\r\n572 907 714", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 17.765595262834385, "g_dlug": 51.897632656319118, "g_uuid": "b9043c59-9e05-415f-9f54-e888f24df8dd", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 415091.655176065396518, 448646.637158306315541 ] } }
+]
+}

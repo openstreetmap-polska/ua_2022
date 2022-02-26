@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1208",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 234, "JPT_KOD_JE": "1208", "JPT_NAZWA_": "powiat miechowski", "id": "104#162", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100221", "swiadczeniodawca": "Szpital św. Anny w Miechowie", "miejscowosc": "Miechów", "ulica": "Szpitalna ", "numer_domu": "3", "adres_swiadczeniodawcy": "Szpitalna 3", "telefon": "41 38 20 238; 692 405 427", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Miechów", "g_adr": "3", "g_teryt": "1208053", "g_gm": "Miechów", "g_pow": "miechowski", "g_woj": "małopolskie", "g_szer": 20.034907781456933, "g_dlug": 50.354000757895783, "g_uuid": "b5278464-29ef-4865-92c9-3cfb85c1200a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 573600.107745653251186, 276829.029050924815238 ] } }
+]
+}

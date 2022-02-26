@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0606",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 331, "JPT_KOD_JE": "0606", "JPT_NAZWA_": "powiat krasnostawski", "id": "104#72", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000549", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Krasnymstawie", "miejscowosc": "Krasnystaw ", "ulica": "Głowackiego ", "numer_domu": "3", "adres_swiadczeniodawcy": "Głowackiego 3", "telefon": "82 543 16 17; 82 543 16 18; 82 543 16 19", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Głowackiego", "g_miejsc": "Krasnystaw", "g_adr": "3", "g_teryt": "0606011", "g_gm": "Krasnystaw", "g_pow": "krasnostawski", "g_woj": "lubelskie", "g_szer": 23.162257234696611, "g_dlug": 50.983993850080061, "g_uuid": "4699e482-4a64-4792-899b-cfc082814eb7", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 792023.714229888631962, 354597.317531477659941 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1002",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 340, "JPT_KOD_JE": "1002", "JPT_NAZWA_": "powiat kutnowski", "id": "104#115", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "230160", "swiadczeniodawca": "Kutnowski Szpital Samorządowy Sp. z o.o. w Kutnie  ", "miejscowosc": "Kutno ", "ulica": "Kościuszki                          ", "numer_domu": "52", "adres_swiadczeniodawcy": "Kościuszki 52                         ", "telefon": "24 388 03 71", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "KOŚCIUSZKI", "g_miejsc": "KUTNO", "g_adr": "52", "g_teryt": "1002011", "g_gm": "Kutno", "g_pow": "kutnowski", "g_woj": "łódzkie", "g_szer": 19.37153725087197, "g_dlug": 52.238909470952407, "g_uuid": "d16d4287-f44b-4c46-b7dc-2b13a564f6eb", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 525362.759063890669495, 485939.03818869125098 ] } }
+]
+}

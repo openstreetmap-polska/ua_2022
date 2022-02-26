@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3003",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 406, "JPT_KOD_JE": "3003", "JPT_NAZWA_": "powiat gnieźnieński", "id": "104#473", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000025", "swiadczeniodawca": "Szpital Pomnik Chrztu Polski", "miejscowosc": "Gniezno", "ulica": "3 Maja", "numer_domu": "37\/39", "adres_swiadczeniodawcy": "3 Maja 37\/39", "telefon": "61 426 12 13", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 17.599750079059756, "g_dlug": 52.540807958226047, "g_uuid": "ecfe5a04-a4fb-432e-8419-ae9c8bfe4981", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 405065.721676612040028, 520365.26776637416333 ] } }
+]
+}

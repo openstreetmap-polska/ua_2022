@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0605",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0605", "JPT_NAZWA_": "powiat janowski", "id": 80, "ksiega": 388250, "id zoz": 474944, "id jednostki": "762158", "id komórki": 6666716, "regon": 30838200033, "kod jednostki": "02", "kod komórki": 47, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Janów Lubelski - miasto", "ulica": "ul. Jana Zamoyskiego", "budynek": "149", "lokal": "NULL", "kod": "23-300", "miejscowosc": "Janów Lubelski", "teryt": 605054, "kod simc": 980493, "kod ulicy": "25579", "lozka": 7, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "1992-12-31" }, "geometry": { "type": "Point", "coordinates": [ 742282.766883383970708, 320660.949808461009525 ] } }
+]
+}

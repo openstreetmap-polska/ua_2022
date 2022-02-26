@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1606",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 54, "JPT_KOD_JE": "1606", "JPT_NAZWA_": "powiat namysłowski", "id": "104#270", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/20506", "swiadczeniodawca": "Namysłowskie Centrum Zdrowia", "miejscowosc": "Namysłów", "ulica": "Oleśnicka ", "numer_domu": "4", "adres_swiadczeniodawcy": "Oleśnicka 4", "telefon": "77 404 02 33", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Oleśnicka", "g_miejsc": "Namysłów", "g_adr": "4", "g_teryt": "1606023", "g_gm": "Namysłów", "g_pow": "namysłowski", "g_woj": "opolskie", "g_szer": 17.70870852062081, "g_dlug": 51.083163377506956, "g_uuid": "af22ff83-3f2f-4c1a-9c1c-20621bdd8eab", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 409581.517300124745816, 358167.077619070187211 ] } }
+]
+}

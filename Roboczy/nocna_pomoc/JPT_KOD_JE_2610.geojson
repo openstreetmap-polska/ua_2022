@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2610",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 298, "JPT_KOD_JE": "2610", "JPT_NAZWA_": "powiat skarżyski", "id": "104#436", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130000107", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Skarżysku Kamiennej Szpital Powiatowy im. Marii Skłodowskiej-Curie", "miejscowosc": "Skarżysko-Kamienna ", "ulica": "Szpitalna ", "numer_domu": "1", "adres_swiadczeniodawcy": "Szpitalna 1", "telefon": "41 39 56 360; 41 39 56- 62 - świadczenia ambulatoryjne\r\n41 344 65 03; 41 344 26 47 - świadczenia wyjazdowe", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Skarżysko-Kamienna", "g_adr": "1", "g_teryt": "2610011", "g_gm": "Skarżysko-Kamienna", "g_pow": "skarżyski", "g_woj": "świętokrzyskie", "g_szer": 20.870154902209705, "g_dlug": 51.126128114309992, "g_uuid": "1fed494f-a989-4b52-b404-6cfe6bb7bb64", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 630827.376760598504916, 363813.856896426528692 ] } }
+]
+}

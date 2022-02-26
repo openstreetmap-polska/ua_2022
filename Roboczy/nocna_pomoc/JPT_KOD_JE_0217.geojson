@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0217",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 3, "JPT_KOD_JE": "0217", "JPT_NAZWA_": "powiat strzeliński", "id": "104#22", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3102222", "swiadczeniodawca": "NZOZ Strzelińskie Centrum Medyczne", "miejscowosc": "Strzelin\r\n", "ulica": "Wrocławska ", "numer_domu": "46", "adres_swiadczeniodawcy": "Wrocławska 46", "telefon": "71 326 48 41", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Wrocławska", "g_miejsc": "Strzelin", "g_adr": "46", "g_teryt": "0217043", "g_gm": "Strzelin", "g_pow": "strzeliński", "g_woj": "dolnośląskie", "g_szer": 17.0693634273666, "g_dlug": 50.787753776376626, "g_uuid": "afb3c3c0-38a8-4512-b661-5e752fa70293", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 363956.606644043582492, 326309.989348402246833 ] } }
+]
+}

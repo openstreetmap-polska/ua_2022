@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2817",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 306, "JPT_KOD_JE": "2817", "JPT_NAZWA_": "powiat szczycieński", "id": "104#466", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140000421", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Szczytnie", "miejscowosc": "Szczytno", "ulica": "Skłodowskiej ", "numer_domu": "12", "adres_swiadczeniodawcy": "Skłodowskiej 12", "telefon": "89 624 10 53", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Curie-Skłodowskiej Marii", "g_miejsc": "Szczytno", "g_adr": "12", "g_teryt": "2817011", "g_gm": "Szczytno", "g_pow": "szczycieński", "g_woj": "warmińsko-mazurskie", "g_szer": 20.985052668704277, "g_dlug": 53.557396409600962, "g_uuid": "66e0115d-5062-41aa-9137-b9177ebbf5fc", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 631448.250066598760895, 634330.700458887964487 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1816",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 346, "JPT_KOD_JE": "1816", "JPT_NAZWA_": "powiat rzeszowski", "id": 315, "wojewodztwo": "podkarpackie", "miasto": "Górno", "powiat": "rzeszowski ", "adres": "RZESZOWSKA 5", "miejscowosc": "GÓRNO", "kod": "36-051 ", "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ \"SANATORIUM\" IM. JANA PAWŁA II W ", "poziom": "Szpital onkologiczny lub pulmonologiczny", "www": "http:\/\/gorno.eu", "telefon": "(017)772 89 33", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 723220.3, 273305.7 ] } },
+{ "type": "Feature", "properties": { "_uid_": 347, "JPT_KOD_JE": "1816", "JPT_NAZWA_": "powiat rzeszowski", "id": 320, "wojewodztwo": "podkarpackie", "miasto": "RUDNA MAŁA", "powiat": "rzeszowski ", "adres": "600", "miejscowosc": "Rudna Mała ", "kod": "36-060 ", "nazwa": "NOWE TECHNIKI MEDYCZNE SZPITAL SPECJALISTYCZNY IMIENIA ŚWIĘTEJ RODZINY SPÓŁKA Z OGRANICZONĄ ", "poziom": "II stopień", "www": "http:\/\/klinika-rzeszow.pl", "telefon": "+48 17 866 67 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 712934.4, 252868.0 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2815",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 143, "JPT_KOD_JE": "2815", "JPT_NAZWA_": "powiat ostródzki", "id": 417, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Morąg", "powiat": "Ostródzki", "adres": "Dąbrowskiego 16", "miejscowosc": "Morąg", "kod": "14-300", "nazwa": "Szpital Miejski w Morągu Spółka z Ograniczoną Odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/szpitalmorag.pl", "telefon": "89 757 42 31 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 560610.6, 672694.7 ] } },
+{ "type": "Feature", "properties": { "_uid_": 144, "JPT_KOD_JE": "2815", "JPT_NAZWA_": "powiat ostródzki", "id": 429, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Ostróda", "powiat": "Ostródzki", "adres": "Jagiełły 1", "miejscowosc": "Ostróda", "kod": "14-100", "nazwa": "Powiatowy Zespół Opieki Zdrowotnej w Ostródzie - Spółka Akcyjna", "poziom": "II stopień", "www": "http:\/\/szpital-ostroda.pl", "telefon": "89 646 06 40 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 564329.2, 648040.3 ] } }
+]
+}

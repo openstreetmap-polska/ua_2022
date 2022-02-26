@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1407",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1407", "JPT_NAZWA_": "powiat kozienicki", "id": 55, "ksiega": 386426, "id zoz": 471208, "id jednostki": "753995", "id komórki": 6568659, "regon": 67014645000031, "kod jednostki": "01", "kod komórki": 49, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Kozienice - miasto", "ulica": "ul. Al. Władysława Sikorskiego", "budynek": "10", "lokal": "NULL", "kod": "26-900", "miejscowosc": "Kozienice", "teryt": 1407054, "kod simc": 973524, "kod ulicy": "47314", "lozka": 6, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2004-06-30" }, "geometry": { "type": "Point", "coordinates": [ 674830.207223467994481, 416920.69218296802137 ] } }
+]
+}

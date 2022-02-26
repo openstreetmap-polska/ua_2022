@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1011",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 28, "JPT_KOD_JE": "1011", "JPT_NAZWA_": "powiat poddębicki", "id": "104#126", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "220338", "swiadczeniodawca": "Poddębickie Centrum Zdrowia Sp. z o.o. w Poddębicach ", "miejscowosc": "Poddębice ", "ulica": "Mickiewicza ", "numer_domu": "16", "adres_swiadczeniodawcy": "Mickiewicza 16", "telefon": "43 828 82 00; 505 948 552", "dodatkowe_miejsce": null, "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.953812826299671, "g_dlug": 51.889067655510189, "g_uuid": "98189317-33cf-4b07-926a-6f942f6684f2", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 496822.153528806346003, 446976.086646411567926 ] } }
+]
+}

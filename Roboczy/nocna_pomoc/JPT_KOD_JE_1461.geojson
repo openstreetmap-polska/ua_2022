@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1461",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 467, "JPT_KOD_JE": "1461", "JPT_NAZWA_": "powiat Ostrołęka", "id": "104#205", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001470", "swiadczeniodawca": "Mazowiecki Szpital Specjalistyczny im. dr. Józefa Psarskiego w Ostrołęce", "miejscowosc": "Ostrołęka", "ulica": "Al. Jana Pawła II", "numer_domu": "120a", "adres_swiadczeniodawcy": "Al. Jana Pawła II 120a", "telefon": "29 765-27-01", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.8, "g_ilosc": 1, "g_ul": "ALEJA  JANA PAWŁA II", "g_miejsc": "OSTROŁĘKA", "g_adr": "120A", "g_teryt": "1461011", "g_gm": "Ostrołęka", "g_pow": "Ostrołęka", "g_woj": "mazowieckie", "g_szer": 21.58942803499826, "g_dlug": 53.063095593219479, "g_uuid": "c67d2abe-0062-45a2-a189-5a6dfeb690db", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 673455.702292950474657, 580659.264891256578267 ] } }
+]
+}

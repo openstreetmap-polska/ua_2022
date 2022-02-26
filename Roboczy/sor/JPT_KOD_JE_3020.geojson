@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3020",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "3020", "JPT_NAZWA_": "powiat pleszewski", "id": 50, "ksiega": 385890, "id zoz": 470129, "id jednostki": "751356", "id komórki": 6539858, "regon": 30077008800035, "kod jednostki": "01", "kod komórki": 56, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny  Oddział Ratunkowy", "teryt opis": "Pleszew - miasto", "ulica": "ul. Poznańska", "budynek": "125a", "lokal": "NULL", "kod": "63-300", "miejscowosc": "Pleszew", "teryt": 3020064, "kod simc": 937280, "kod ulicy": "17394", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2008-05-01" }, "geometry": { "type": "Point", "coordinates": [ 415045.6, 448676.880000000994187 ] } }
+]
+}

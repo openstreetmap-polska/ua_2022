@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0808",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 127, "JPT_KOD_JE": "0808", "JPT_NAZWA_": "powiat świebodziński", "id": "104#104", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "102718", "swiadczeniodawca": "Nowy Szpital w Świebodzinie Sp. z o.o.", "miejscowosc": "Świebodzin\r\n", "ulica": "Młyńska ", "numer_domu": "6", "adres_swiadczeniodawcy": "Młyńska 6", "telefon": "68 456 40 42; 798 038 334; 516 098 719", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Młyńska", "g_miejsc": "Świebodzin", "g_adr": "6", "g_teryt": "0808053", "g_gm": "Świebodzin", "g_pow": "świebodziński", "g_woj": "lubuskie", "g_szer": 15.534728577090254, "g_dlug": 52.25230639690254, "g_uuid": "b8c0e68d-f201-4c2a-b72e-aa15a95f677c", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 263554.143533151247539, 493020.794194350019097 ] } }
+]
+}

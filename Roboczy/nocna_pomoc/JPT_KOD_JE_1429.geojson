@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1429",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 148, "JPT_KOD_JE": "1429", "JPT_NAZWA_": "powiat sokołowski", "id": "104#226", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001662", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Sokołowie Podlaskim", "miejscowosc": "Sokołów Podlaski", "ulica": "Bosco", "numer_domu": "5", "adres_swiadczeniodawcy": " Ks. J. Bosko 5", "telefon": "257817205", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "księdza Bosco", "g_miejsc": "Sokołów Podlaski", "g_adr": "5", "g_teryt": "1429011", "g_gm": "Sokołów Podlaski", "g_pow": "sokołowski", "g_woj": "mazowieckie", "g_szer": 22.242071831972449, "g_dlug": 52.403649392204379, "g_uuid": "6e3b23f6-f93f-403b-aca0-a61484ab1ef9", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 720466.246925727231428, 509136.85635535325855 ] } }
+]
+}

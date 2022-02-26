@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2003",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2003", "JPT_NAZWA_": "powiat bielski", "id": 118, "ksiega": 390423, "id zoz": 478466, "id jednostki": "769426", "id komórki": 6745861, "regon": 5058492400030, "kod jednostki": "01", "kod komórki": 8, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Bielsk Podlaski - gmina miejska", "ulica": "ul. Kleszczelowska", "budynek": "1", "lokal": "NULL", "kod": "17-100", "miejscowosc": "Bielsk Podlaski", "teryt": 2003011, "kod simc": 922685, "kod ulicy": "08523", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-09-01" }, "geometry": { "type": "Point", "coordinates": [ 783424.926899999962, 552064.456599998986349 ] } }
+]
+}

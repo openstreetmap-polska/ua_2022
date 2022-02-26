@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3030",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "3030", "JPT_NAZWA_": "powiat wrzesiński", "id": 82, "ksiega": 388422, "id zoz": 475259, "id jednostki": "763283", "id komórki": 6681346, "regon": 30070614000029, "kod jednostki": "01", "kod komórki": 75, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "SZPITALNY ODDZIAŁ RATUNKOWY", "teryt opis": "Września - miasto", "ulica": "ul. Słowackiego", "budynek": "2", "lokal": "NULL", "kod": "62-300", "miejscowosc": "Września", "teryt": 3030054, "kod simc": 971637, "kod ulicy": "20286", "lozka": 9, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2015-09-07" }, "geometry": { "type": "Point", "coordinates": [ 402808.891599999974, 496413.441899999976 ] } }
+]
+}

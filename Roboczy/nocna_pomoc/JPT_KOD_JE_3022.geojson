@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3022",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 414, "JPT_KOD_JE": "3022", "JPT_NAZWA_": "powiat rawicki", "id": "104#498", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150007789", "swiadczeniodawca": "Szpital Powiatowy w Rawiczu Sp. z o. o.", "miejscowosc": "Rawicz", "ulica": "Gen. Grota Roweckiego                                                           ", "numer_domu": "6", "adres_swiadczeniodawcy": "Gen. Grota Roweckiego 6                                                          ", "telefon": "65 546 24 13 wew. 308\r\n502 918 832", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 3, "g_ul": "gen. Grota Roweckiego", "g_miejsc": "Rawicz", "g_adr": "6", "g_teryt": "3022053", "g_gm": "Rawicz", "g_pow": "rawicki", "g_woj": "wielkopolskie", "g_szer": 16.842716666358392, "g_dlug": 51.614458727859422, "g_uuid": "891f5669-5f46-4c8a-8149-683fa98f7e72", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 350685.552185908309184, 418646.475103099830449 ] } }
+]
+}

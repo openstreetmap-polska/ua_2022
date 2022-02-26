@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3216",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 557, "JPT_KOD_JE": "3216", "JPT_NAZWA_": "powiat świdwiński", "id": 337, "wojewodztwo": "zachodniopomorskie", "miasto": "Połczyn-Zdrój ", "powiat": "świdwiński ", "adres": "Gwardii Ludowej 5 ", "miejscowosc": null, "kod": null, "nazwa": "Przyjazny Szpital w Połczynie Zdroju Sp. z.o.o. ", "poziom": "I stopień", "www": "https:\/\/www.szpitalpolczyn.pl\/strony\/2.dhtml ", "telefon": "94 36-62-524 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 308222.0, 659281.0 ] } }
+]
+}

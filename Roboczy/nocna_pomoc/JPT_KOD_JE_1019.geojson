@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1019",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 230, "JPT_KOD_JE": "1019", "JPT_NAZWA_": "powiat zduńskowolski", "id": "104#134", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "220003", "swiadczeniodawca": "Zduńskowolski Szpital Powiatowy Sp. z o.o. w Zduńskiej Woli", "miejscowosc": "Zduńska Wola                ", "ulica": "Królewska   ", "numer_domu": "29", "adres_swiadczeniodawcy": "Królewska 29  ", "telefon": "43 824 41 06", "dodatkowe_miejsce": null, "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.942469316741974, "g_dlug": 51.60429106827003, "g_uuid": "d4a15e96-849d-41d3-9035-a47c0fadb331", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 496017.001744672481436, 415313.481131328269839 ] } }
+]
+}

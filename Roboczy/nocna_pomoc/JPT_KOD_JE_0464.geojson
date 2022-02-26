@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0464",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 433, "JPT_KOD_JE": "0464", "JPT_NAZWA_": "powiat Włocławek", "id": "104#63", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20004500", "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny we Włocławku", "miejscowosc": "Włocławek", "ulica": "Lunewil ", "numer_domu": "15", "adres_swiadczeniodawcy": "Lunewil 15", "telefon": "54 232-98-85; 54 232-98-86", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "LUNEWIL", "g_miejsc": "WŁOCŁAWEK", "g_adr": "15", "g_teryt": "0464011", "g_gm": "Włocławek", "g_pow": "Włocławek", "g_woj": "kujawsko-pomorskie", "g_szer": 19.058263471775049, "g_dlug": 52.658872668011469, "g_uuid": "9909a696-001e-4e66-8caa-db0f24d294ab", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 503939.413786047371104, 532574.318722204305232 ] } }
+]
+}

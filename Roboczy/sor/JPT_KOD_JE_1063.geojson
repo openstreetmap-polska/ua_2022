@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1063",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1063", "JPT_NAZWA_": "powiat Skierniewice", "id": 27, "ksiega": 381954, "id zoz": 462059, "id jednostki": "733335", "id komórki": 6324594, "regon": 65711900028, "kod jednostki": "03", "kod komórki": 72, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Skierniewice - gmina miejska", "ulica": "ul. Jana III Sobieskiego", "budynek": "4", "lokal": "NULL", "kod": "96-100", "miejscowosc": "Skierniewice", "teryt": 1063011, "kod simc": 976942, "kod ulicy": "20431", "lozka": 4, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-10-21" }, "geometry": { "type": "Point", "coordinates": [ 579247.37, 455962.029999998980202 ] } }
+]
+}

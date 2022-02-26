@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0202",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 208, "JPT_KOD_JE": "0202", "JPT_NAZWA_": "powiat dzierżoniowski", "id": "104#4", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3202112", "swiadczeniodawca": "NZOZ Szpital Powiatowy w Dzierżoniowie", "miejscowosc": "Dzierżoniów\r\n", "ulica": "Cicha ", "numer_domu": "1", "adres_swiadczeniodawcy": "Cicha 1", "telefon": "74 834 41 29", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Cicha", "g_miejsc": "Dzierżoniów", "g_adr": "1", "g_teryt": "0202021", "g_gm": "Dzierżoniów", "g_pow": "dzierżoniowski", "g_woj": "dolnośląskie", "g_szer": 16.659009384575334, "g_dlug": 50.728583206239598, "g_uuid": "b609fd4a-b3ec-42a4-b92b-acf8b5fd9b78", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 334835.826236714434344, 320568.863360865041614 ] } }
+]
+}

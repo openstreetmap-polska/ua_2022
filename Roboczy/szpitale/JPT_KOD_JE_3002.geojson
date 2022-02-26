@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3002",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 369, "JPT_KOD_JE": "3002", "JPT_NAZWA_": "powiat czarnkowsko-trzcianecki", "id": 353, "wojewodztwo": "wielkopolskie", "miasto": "CZARNKÓW ", "powiat": "CZARNKOWSKO-TRZCIANECKI ", "adres": "KOŚCIUSZKI 96 ", "miejscowosc": null, "kod": "64-700 ", "nazwa": "ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ ", "poziom": "I stopień", "www": "http:\/\/www.zzozczarnkow.x.pl\/ ", "telefon": "(067)35-28-170 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 335662.3, 561880.6 ] } },
+{ "type": "Feature", "properties": { "_uid_": 370, "JPT_KOD_JE": "3002", "JPT_NAZWA_": "powiat czarnkowsko-trzcianecki", "id": 354, "wojewodztwo": "wielkopolskie", "miasto": "TRZCIANKA ", "powiat": "CZARNKOWSKO-TRZCIANECKI ", "adres": "GEN. WŁADYSŁAWA SIKORSKIEGO 9 ", "miejscowosc": null, "kod": "64-980 ", "nazwa": "SZPITAL POWIATOWY IM. JANA PAWŁA II W TRZCIANCE ", "poziom": "I stopień", "www": "http:\/\/www.szpital-trzcianka.pl\/ ", "telefon": "(067)35-23-100 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 329967.3, 577924.4 ] } }
+]
+}

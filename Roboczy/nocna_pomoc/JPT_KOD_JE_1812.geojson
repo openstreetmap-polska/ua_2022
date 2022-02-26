@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1812",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 491, "JPT_KOD_JE": "1812", "JPT_NAZWA_": "powiat niżański", "id": "104#291", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010011", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Nisku", "miejscowosc": "Nisko ", "ulica": "Kościuszki ", "numer_domu": "1", "adres_swiadczeniodawcy": "Kościuszki 1", "telefon": "15 841 67 92", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 22.143495001854021, "g_dlug": 50.519490026082657, "g_uuid": "2436ac3a-fd44-47ca-bc1f-7982f5e5da18", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 722760.387264020508155, 299431.706633383408189 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0613",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 119, "JPT_KOD_JE": "0613", "JPT_NAZWA_": "powiat parczewski", "id": "104#82", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000415", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Parczewie", "miejscowosc": "Parczew", "ulica": "Kościelna ", "numer_domu": "136", "adres_swiadczeniodawcy": "Kościelna 136", "telefon": "  83 355 12 03", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kościelna", "g_miejsc": "Parczew", "g_adr": "136", "g_teryt": "0613043", "g_gm": "Parczew", "g_pow": "parczewski", "g_woj": "lubelskie", "g_szer": 22.912694568590286, "g_dlug": 51.634807852864029, "g_uuid": "461d5f44-9485-421e-b533-1146042b01aa", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 770659.00288765586447, 425956.24041594658047 ] } }
+]
+}

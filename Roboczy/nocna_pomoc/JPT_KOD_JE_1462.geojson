@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1462",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 248, "JPT_KOD_JE": "1462", "JPT_NAZWA_": "powiat Płock", "id": "104#211", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70100223", "swiadczeniodawca": "Płocki Zakład Opieki Zdrowotnej Sp. z o.o., ", "miejscowosc": "Płock", "ulica": "Kościuszki ", "numer_domu": "28", "adres_swiadczeniodawcy": "Kościuszki 28", "telefon": "24 364-51-61", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kościuszki Tadeusza", "g_miejsc": "Płock", "g_adr": "28", "g_teryt": "1462011", "g_gm": "Płock", "g_pow": "Płock", "g_woj": "mazowieckie", "g_szer": 19.695990451439513, "g_dlug": 52.540169356635857, "g_uuid": "f22ebdfb-c409-4d92-b45f-e19231bcd62d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 547188.397702763671987, 519600.696245389059186 ] } },
+{ "type": "Feature", "properties": { "gid": 468, "JPT_KOD_JE": "1462", "JPT_NAZWA_": "powiat Płock", "id": "104#212", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70002166", "swiadczeniodawca": "Wojewódzki Szpital Zespolony w Płocku,", "miejscowosc": "Płock", "ulica": "Strzelecka ", "numer_domu": "3", "adres_swiadczeniodawcy": "Strzelecka 3", "telefon": "24 366 44 18", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Strzelecka", "g_miejsc": "Płock", "g_adr": "3", "g_teryt": "1462011", "g_gm": "Płock", "g_pow": "Płock", "g_woj": "mazowieckie", "g_szer": 19.710378441783597, "g_dlug": 52.540662427528154, "g_uuid": "f376389d-ff61-4d1f-97af-7eb117eeceee", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 548163.496301837963983, 519664.688104739412665 ] } }
+]
+}

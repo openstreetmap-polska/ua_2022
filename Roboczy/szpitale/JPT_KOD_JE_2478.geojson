@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2478",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 560, "JPT_KOD_JE": "2478", "JPT_NAZWA_": "powiat Zabrze", "id": 467, "wojewodztwo": "śląskie", "miasto": "Zabrze", "powiat": "Zabrze", "adres": "Curie-Skłodowskiej 9", "miejscowosc": "Zabrze", "kod": null, "nazwa": "Śląskie Centrum Chorób Serca w Zabrzu", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.sccs.pl", "telefon": "32 373 36 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 484492.4, 271846.9 ] } },
+{ "type": "Feature", "properties": { "_uid_": 561, "JPT_KOD_JE": "2478", "JPT_NAZWA_": "powiat Zabrze", "id": 500, "wojewodztwo": "śląskie", "miasto": "Zabrze", "powiat": "Zabrze", "adres": "Curie-Skłodowskiej 10", "miejscowosc": "Zabrze", "kod": null, "nazwa": "Szpital Specjalistyczny w Zabrzu Spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.klinika-zabrze.med.pl", "telefon": "32 373 23 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 484452.2, 271907.4 ] } },
+{ "type": "Feature", "properties": { "_uid_": 562, "JPT_KOD_JE": "2478", "JPT_NAZWA_": "powiat Zabrze", "id": 497, "wojewodztwo": "śląskie", "miasto": "Zabrze", "powiat": "Zabrze", "adres": "Zamkowa 4", "miejscowosc": "Zabrze", "kod": null, "nazwa": "Szpital Miejski w Zabrzu Spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.szpitalzabrze.pl", "telefon": "32 2776100", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 487820.2, 273200.0 ] } },
+{ "type": "Feature", "properties": { "_uid_": 563, "JPT_KOD_JE": "2478", "JPT_NAZWA_": "powiat Zabrze", "id": 468, "wojewodztwo": "śląskie", "miasto": "Zabrze", "powiat": "Zabrze", "adres": "3-go Maja 13-15", "miejscowosc": "Zabrze", "kod": null, "nazwa": "Samodzielny Publiczny Szpital Kliniczny Nr 1 im Prof. Stanisława Szyszko SUM w Katowicach", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.szpital.zabrze.pl", "telefon": "32 370 45 07", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 484709.8, 270513.8 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2463",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 326, "JPT_KOD_JE": "2463", "JPT_NAZWA_": "powiat Chorzów", "id": 494, "wojewodztwo": "śląskie", "miasto": "Chorzów", "powiat": "Chorzów", "adres": "Strzelców Bytomskich 11", "miejscowosc": "Chorzów", "kod": null, "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Zespół Szpitali Miejskich w Chorzowie", "poziom": "I stopień", "www": "http:\/\/www.zsm.com.pl", "telefon": "32 349 92 65", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 496019.7, 269523.9 ] } },
+{ "type": "Feature", "properties": { "_uid_": 327, "JPT_KOD_JE": "2463", "JPT_NAZWA_": "powiat Chorzów", "id": 461, "wojewodztwo": "śląskie", "miasto": "Chorzów", "powiat": "Chorzów", "adres": "Zjednoczenia 10", "miejscowosc": "Chorzów", "kod": null, "nazwa": "Szpital Specjalistyczny w Chorzowie", "poziom": "Szpital pulmonologiczny", "www": "http:\/\/www.szpitalspecjalistycznywchorzowie.pl", "telefon": "32 241 32 55", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 496650.0, 269475.3 ] } },
+{ "type": "Feature", "properties": { "_uid_": 328, "JPT_KOD_JE": "2463", "JPT_NAZWA_": "powiat Chorzów", "id": 462, "wojewodztwo": "śląskie", "miasto": "Chorzów", "powiat": "Chorzów", "adres": "Władysława Truchana 7", "miejscowosc": "Chorzów", "kod": null, "nazwa": "Chorzowskie Centrum Pediatrii i Onkologii im. dr Edwarda Hankego", "poziom": "Szpital pediatryczny", "www": "http:\/\/www.chcpio.pl", "telefon": "32 349 00 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 496327.1, 269961.4 ] } }
+]
+}

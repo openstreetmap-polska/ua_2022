@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2214",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 169, "JPT_KOD_JE": "2214", "JPT_NAZWA_": "powiat tczewski", "id": "104#339", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "001520", "swiadczeniodawca": "Szpitale Tczewskie w Tczewie", "miejscowosc": "Gniew", "ulica": " Witosa ", "numer_domu": "10", "adres_swiadczeniodawcy": " Witosa 10", "telefon": "58 535 22 90 wew. 38 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.828161561045551, "g_dlug": 53.838516625688762, "g_uuid": "157dead0-fd86-4acd-8986-f878bfeeb48e", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 488695.817276756744832, 663778.865585844963789 ] } },
+{ "type": "Feature", "properties": { "gid": 276, "JPT_KOD_JE": "2214", "JPT_NAZWA_": "powiat tczewski", "id": "104#355", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "001520", "swiadczeniodawca": "Szpitale Tczewskie w Tczewie", "miejscowosc": "Tczew", "ulica": "30 Stycznia", "numer_domu": "30  57\/58", "adres_swiadczeniodawcy": "30 Stycznia 57\/58", "telefon": "58 777 66 01", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.789926957052231, "g_dlug": 54.082605538916397, "g_uuid": "cfdcdae3-1f09-4d19-b6ca-1e9b5a33f39a", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 486261.418837663368322, 690934.817430249415338 ] } }
+]
+}

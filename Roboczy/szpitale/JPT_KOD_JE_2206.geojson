@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2206",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 45, "JPT_KOD_JE": "2206", "JPT_NAZWA_": "powiat kościerski", "id": 542, "wojewodztwo": "pomorskie", "miasto": "kościerski", "powiat": "Kościerzyna", "adres": "A. Piechowskiego 36", "miejscowosc": "Kościerzyna", "kod": "83-400", "nazwa": "Szpital Specjalistyczny w Kościerzynie Sp. z o.o.", "poziom": "II stopień", "www": "http:\/\/www.szpital-koscierzyna.pl", "telefon": "58 686-00-00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 431367.0, 695728.1 ] } }
+]
+}

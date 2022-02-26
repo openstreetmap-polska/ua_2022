@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2465",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 72, "JPT_KOD_JE": "2465", "JPT_NAZWA_": "powiat Dąbrowa Górnicza", "id": "104#372", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "125\/101002", "swiadczeniodawca": "Zagłębiowskie Centrum Onkologii Szpital Specjalistyczny im. Starkiewicza w Dąbrowie Górniczej", "miejscowosc": "Dąbrowa Górnicza", "ulica": "Szpitalna ", "numer_domu": "13", "adres_swiadczeniodawcy": "Szpitalna 13", "telefon": "32 764 24 82; \r\n32 621 20 75", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Dąbrowa Górnicza", "g_adr": "13", "g_teryt": "2465011", "g_gm": "Dąbrowa Górnicza", "g_pow": "Dąbrowa Górnicza", "g_woj": "śląskie", "g_szer": 19.176719109289959, "g_dlug": 50.320141733124224, "g_uuid": "8a9351ba-e936-400e-8080-477c2063ebf4", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 512576.926047913031653, 272568.308801123872399 ] } }
+]
+}

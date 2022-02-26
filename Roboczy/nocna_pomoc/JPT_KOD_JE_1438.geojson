@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1438",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 52, "JPT_KOD_JE": "1438", "JPT_NAZWA_": "powiat żyrardowski", "id": "104#264", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70603796", "swiadczeniodawca": "Centrum Zdrowia Mazowsza Zachodniego Spółka z ograniczoną odpowiedzialnością", "miejscowosc": "Żyrardów", "ulica": " Limanowskiego ", "numer_domu": "30", "adres_swiadczeniodawcy": " Limanowskiego 30", "telefon": "46 854 32 30", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Bolesława Limanowskiego", "g_miejsc": "Żyrardów", "g_adr": "30", "g_teryt": "1438011", "g_gm": "Żyrardów", "g_pow": "żyrardowski", "g_woj": "mazowieckie", "g_szer": 20.440143254119622, "g_dlug": 52.059182550726049, "g_uuid": "60c64422-1c69-46eb-baef-1cf265617037", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 598703.811904575210065, 466867.817483172751963 ] } }
+]
+}

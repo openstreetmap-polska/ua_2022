@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3210",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 291, "JPT_KOD_JE": "3210", "JPT_NAZWA_": "powiat myśliborski", "id": 322, "wojewodztwo": "zachodniopomorskie", "miasto": "Barlinek ", "powiat": "myśliborski ", "adres": "Szpitalna 10 ", "miejscowosc": null, "kod": null, "nazwa": "Szpital Barlinek Spółka z Ograniczoną Odpowiedzialnością ", "poziom": "I stopień", "www": "http:\/\/szpitalbarlinek.pl\/ ", "telefon": "95 756 18 10, 95 74 62 963 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 246736.8, 576933.0 ] } },
+{ "type": "Feature", "properties": { "_uid_": 292, "JPT_KOD_JE": "3210", "JPT_NAZWA_": "powiat myśliborski", "id": 325, "wojewodztwo": "zachodniopomorskie", "miasto": "Dębno ", "powiat": "myśliborski ", "adres": "Kościuszki 58 ", "miejscowosc": null, "kod": null, "nazwa": "Szpital w Dębnie Im. Świętej Matki Teresy z Kalkuty ", "poziom": "I stopień", "www": "http:\/\/szpital-debno.pl\/ ", "telefon": "95 760 20 63, 64, 65, 887 470 420 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 209983.8, 549359.4 ] } }
+]
+}

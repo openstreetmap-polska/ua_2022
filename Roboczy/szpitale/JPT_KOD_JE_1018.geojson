@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1018",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 312, "JPT_KOD_JE": "1018", "JPT_NAZWA_": "powiat wieruszowski", "id": 143, "wojewodztwo": "łódzkie", "miasto": "Wieruszów", "powiat": "wieruszowski", "adres": "os. Warszawska 104", "miejscowosc": null, "kod": null, "nazwa": "Powiatowe Centrum Medyczne Sp. z.o.o. NZOZ Szpital Powiatowy", "poziom": "I stopień", "www": "http:\/\/www.pcm-nzoz-wieruszow.pl", "telefon": "43 824 41 00", "e-mail": "dns.gorecka@pcm-nzoz-wieruszow.pl" }, "geometry": { "type": "Point", "coordinates": [ 441780.9, 381211.9 ] } }
+]
+}

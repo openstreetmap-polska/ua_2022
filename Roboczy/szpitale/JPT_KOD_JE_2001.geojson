@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2001",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 175, "JPT_KOD_JE": "2001", "JPT_NAZWA_": "powiat augustowski", "id": 574, "wojewodztwo": "podlaskie", "miasto": "augustowski", "powiat": "Augustów", "adres": "Szpitalna 12", "miejscowosc": "Augustów", "kod": "16-300", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W AUGUSTOWIE", "poziom": "I stopień", "www": "http:\/\/www.spzoz.augustow.pl", "telefon": "87 64 44 284", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 762566.2, 672580.3 ] } }
+]
+}

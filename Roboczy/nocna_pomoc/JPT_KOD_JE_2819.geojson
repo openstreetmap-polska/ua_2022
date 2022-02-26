@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2819",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 524, "JPT_KOD_JE": "2819", "JPT_NAZWA_": "powiat węgorzewski", "id": "104#467", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140001688", "swiadczeniodawca": "Mazurskie Centrum Zdrowia Szpital Powiatowy w Węgorzewie Publiczny Zakład Opieki Zdrowotnej", "miejscowosc": "Węgorzewo", "ulica": " 3 Maja ", "numer_domu": "17", "adres_swiadczeniodawcy": "3 Maja 17", "telefon": "87 427 32 52", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "3 Maja", "g_miejsc": "Węgorzewo", "g_adr": "17", "g_teryt": "2819033", "g_gm": "Węgorzewo", "g_pow": "węgorzewski", "g_woj": "warmińsko-mazurskie", "g_szer": 21.736564869101386, "g_dlug": 54.206893399430953, "g_uuid": "42fa0659-37ec-461b-b8a4-2e120b0319cb", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 678414.66258225555066, 708195.182904943823814 ] } }
+]
+}

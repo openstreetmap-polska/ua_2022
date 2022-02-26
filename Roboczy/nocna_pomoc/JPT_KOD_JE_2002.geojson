@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2002",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 60, "JPT_KOD_JE": "2002", "JPT_NAZWA_": "powiat białostocki", "id": "104#322", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000070", "swiadczeniodawca": "SP ZOZ Wojewódzka Stacja Pogotowia Ratunkowego w Białymstoku", "miejscowosc": "Wasilków", "ulica": "Kryńska ", "numer_domu": "32", "adres_swiadczeniodawcy": "Kryńska 32", "telefon": "85 745 35 58", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kryńska", "g_miejsc": "Wasilków", "g_adr": "32", "g_teryt": "2002133", "g_gm": "Wasilków", "g_pow": "białostocki", "g_woj": "podlaskie", "g_szer": 23.210455877227901, "g_dlug": 53.201764963871874, "g_uuid": "d9eddb83-4cdc-43c1-b708-59ba5ebea34d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 781090.683010462205857, 601222.623936221003532 ] } },
+{ "type": "Feature", "properties": { "gid": 373, "JPT_KOD_JE": "2002", "JPT_NAZWA_": "powiat białostocki", "id": "104#315", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000089", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Łapach", "miejscowosc": "Łapy ", "ulica": "Korczaka ", "numer_domu": "23", "adres_swiadczeniodawcy": "Korczaka 23", "telefon": "85 814 24 35", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Janusza Korczaka", "g_miejsc": "Łapy", "g_adr": "23", "g_teryt": "2002063", "g_gm": "Łapy", "g_pow": "białostocki", "g_woj": "podlaskie", "g_szer": 22.866998193291597, "g_dlug": 52.988353073088795, "g_uuid": "759668e0-7a8a-4482-abac-5ddadc02bbb5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 759453.555403276230209, 576208.546866330318153 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2603",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 396, "JPT_KOD_JE": "2603", "JPT_NAZWA_": "powiat kazimierski", "id": "104#425", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130000111", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Kazimierzy Wielkiej", "miejscowosc": "Kazimierza Wielka", "ulica": "Kościuszki ", "numer_domu": "14", "adres_swiadczeniodawcy": "Kościuszki 14", "telefon": "41 35 21 110;\r\n41 35 21 518 - iniekcje pielęgniarskie", "dodatkowe_miejsce": "Partyzantów 12 - iniekcje pielęgniarskie", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kościuszki Tadeusza", "g_miejsc": "Kazimierza Wielka", "g_adr": "14", "g_teryt": "2603033", "g_gm": "Kazimierza Wielka", "g_pow": "kazimierski", "g_woj": "świętokrzyskie", "g_szer": 20.48356789711255, "g_dlug": 50.266578228668365, "g_uuid": "11b6cdb5-5aaf-4fdb-be37-8a7a30834794", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 605700.172897432697937, 267652.307866551913321 ] } }
+]
+}

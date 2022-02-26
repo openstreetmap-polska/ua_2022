@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1820",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 369, "JPT_KOD_JE": "1820", "JPT_NAZWA_": "powiat tarnobrzeski", "id": "104#292", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010012", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Nowej Dębie", "miejscowosc": "Nowa Dęba", "ulica": "Curie-Skłodowskiej", "numer_domu": "1a", "adres_swiadczeniodawcy": " M.C. Skłodowskiej 1a ", "telefon": "15 846 26 51 (wew. 166); 517 081 133; \r\n517 081 469", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Curie-Skłodowskiej Marii", "g_miejsc": "Nowa Dęba", "g_adr": "1A", "g_teryt": "1820043", "g_gm": "Nowa Dęba", "g_pow": "tarnobrzeski", "g_woj": "podkarpackie", "g_szer": 21.755710511965596, "g_dlug": 50.420965904603712, "g_uuid": "826bf346-fead-4961-8254-a78068ee1c7f", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 695690.933980035828426, 287389.878898264840245 ] } }
+]
+}

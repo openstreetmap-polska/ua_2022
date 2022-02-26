@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1003",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 226, "JPT_KOD_JE": "1003", "JPT_NAZWA_": "powiat łaski", "id": "104#109", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "220350", "swiadczeniodawca": "  Centrum Dializa - Szpital w Łasku ", "miejscowosc": " Łask", "ulica": "Warszawska", "numer_domu": "62a", "adres_swiadczeniodawcy": "Warszawska 62a", "telefon": "43 677 36 35", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Warszawska", "g_miejsc": "Łask", "g_adr": "62A", "g_teryt": "1003023", "g_gm": "Łask", "g_pow": "łaski", "g_woj": "łódzkie", "g_szer": 19.153132739267154, "g_dlug": 51.591105479474102, "g_uuid": "3c49b147-ef36-4d3f-b66c-c86e4f5cf90a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 510604.779243834840599, 413857.642202005721629 ] } }
+]
+}

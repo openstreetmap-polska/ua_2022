@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1213",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1213", "JPT_NAZWA_": "powiat oświęcimski", "id": 186, "ksiega": 391779, "id zoz": 481286, "id jednostki": "777121", "id komórki": 6833582, "regon": 30440900040, "kod jednostki": "01", "kod komórki": 62, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Oświęcim - gmina miejska", "ulica": "ul. Wysokie Brzegi", "budynek": "4", "lokal": "NULL", "kod": "32-600", "miejscowosc": "Oświęcim", "teryt": 1213011, "kod simc": 924997, "kod ulicy": "25075", "lozka": 8, "liczba łóżek iom": 4, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-09-01" }, "geometry": { "type": "Point", "coordinates": [ 516874.029, 241507.19498 ] } }
+]
+}

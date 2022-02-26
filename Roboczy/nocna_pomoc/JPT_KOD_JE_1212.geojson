@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1212",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 236, "JPT_KOD_JE": "1212", "JPT_NAZWA_": "powiat olkuski", "id": "104#169", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/200330", "swiadczeniodawca": "Nowy Szpital w Olkuszu Sp. z o.o.", "miejscowosc": "Olkusz", "ulica": " al. 1000-lecia ", "numer_domu": "13", "adres_swiadczeniodawcy": " al. 1000-lecia 13", "telefon": "41 240 13 45", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "Al.   1000-lecia", "g_miejsc": "Olkusz", "g_adr": "13", "g_teryt": "1212053", "g_gm": "Olkusz", "g_pow": "olkuski", "g_woj": "małopolskie", "g_szer": 19.56862508280372, "g_dlug": 50.268952467191916, "g_uuid": "86b9ee9d-67eb-43ee-8f74-e6008558c763", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 540511.973116127075627, 267017.866032229736447 ] } },
+{ "type": "Feature", "properties": { "gid": 459, "JPT_KOD_JE": "1212", "JPT_NAZWA_": "powiat olkuski", "id": "104#182", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/200330", "swiadczeniodawca": "Nowy Szpital w Olkuszu Sp. z o.o.", "miejscowosc": "Wolbrom", "ulica": "Skalska ", "numer_domu": "22", "adres_swiadczeniodawcy": "Skalska 22", "telefon": "32 644 10 29, 32 644 12 74", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 2, "g_ul": "Skalska", "g_miejsc": "Wolbrom", "g_adr": "22", "g_teryt": "1212073", "g_gm": "Wolbrom", "g_pow": "olkuski", "g_woj": "małopolskie", "g_szer": 19.756478296835795, "g_dlug": 50.376401783663262, "g_uuid": "9d0166f7-bb08-4dd6-9a10-a9feea119f68", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 553773.823083281284198, 279080.56326524913311 ] } }
+]
+}

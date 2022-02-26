@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2412",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 71, "JPT_KOD_JE": "2412", "JPT_NAZWA_": "powiat rybnicki", "id": "104#369", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "124\/211040", "swiadczeniodawca": "NZOZ TRANSMED Sp. z o.o.", "miejscowosc": "Czerwionka-Leszczyny", "ulica": "Szkolna", "numer_domu": "13", "adres_swiadczeniodawcy": "Szkolna 13a", "telefon": "32 430 90 86", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szkolna", "g_miejsc": "Czerwionka-Leszczyny", "g_adr": "13", "g_teryt": "2412013", "g_gm": "Czerwionka-Leszczyny", "g_pow": "rybnicki", "g_woj": "śląskie", "g_szer": 18.673594948819769, "g_dlug": 50.152835466429266, "g_uuid": "0ffdd2bd-350e-450e-b591-51f81ea92ed1", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 476688.415769420214929, 254008.00446960516274 ] } }
+]
+}

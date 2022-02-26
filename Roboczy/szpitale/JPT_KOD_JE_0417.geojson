@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0417",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 239, "JPT_KOD_JE": "0417", "JPT_NAZWA_": "powiat wąbrzeski", "id": 50, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Wąbrzeźno", "powiat": "wąbrzeski", "adres": "Wolności 27", "miejscowosc": null, "kod": null, "nazwa": "Niepubliczny Zakład Opieki Zdrowotnej Nowy Szpital w Wąbrzeźnie ", "poziom": "I stopień", "www": "http:\/\/www.nowyszpital.pl", "telefon": "56 688 17 25", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 496471.0, 601154.4 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3215",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 318, "JPT_KOD_JE": "3215", "JPT_NAZWA_": "powiat szczecinecki", "id": "104#532", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160003874", "swiadczeniodawca": "Szpital w Szczecinku Sp. z o.o.", "miejscowosc": "Szczecinek", "ulica": "Kilińskiego ", "numer_domu": "7", "adres_swiadczeniodawcy": "Kilińskiego 7", "telefon": "94 366 19 50", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kilińskiego", "g_miejsc": "Szczecinek", "g_adr": "7", "g_teryt": "3215011", "g_gm": "Szczecinek", "g_pow": "szczecinecki", "g_woj": "zachodniopomorskie", "g_szer": 16.6778794235703, "g_dlug": 53.712872001711638, "g_uuid": "98bb78d0-c275-4026-90f7-fbea3720292e", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 346799.099547893623821, 652293.032676321454346 ] } }
+]
+}

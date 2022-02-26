@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3217",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 206, "JPT_KOD_JE": "3217", "JPT_NAZWA_": "powiat wałecki", "id": "104#534", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000760", "swiadczeniodawca": "107 Szpital Wojskowy z Przychodnią - Samodzielny Publiczny Zakład Opieki Zdrowotnej w Wałczu", "miejscowosc": "Wałcz", "ulica": "Kołobrzeska ", "numer_domu": "44", "adres_swiadczeniodawcy": "Kołobrzeska 44", "telefon": "26 147 24 18 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 16.45971164801248, "g_dlug": 53.281838552324686, "g_uuid": "dbe3eafc-2510-4972-880d-44096b37d8d3", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 330699.032308444031514, 604861.136103171855211 ] } }
+]
+}

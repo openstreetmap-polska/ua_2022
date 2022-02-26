@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0862",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0862", "JPT_NAZWA_": "powiat Zielona Góra", "id": 108, "ksiega": 389141, "id zoz": 476817, "id jednostki": "766867", "id komórki": 6726324, "regon": 97077323100020, "kod jednostki": "01", "kod komórki": 20, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny  Oddział Ratunkowy", "teryt opis": "Zielona Góra - gmina miejska", "ulica": "ul. Zyty", "budynek": "26", "lokal": "NULL", "kod": "65-046", "miejscowosc": "Zielona Góra", "teryt": 862011, "kod simc": 988313, "kod ulicy": "26354", "lozka": 14, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-07-12" }, "geometry": { "type": "Point", "coordinates": [ 260845.071919532987522, 458515.321998815983534 ] } }
+]
+}

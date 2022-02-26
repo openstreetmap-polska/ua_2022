@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0464",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0464", "JPT_NAZWA_": "powiat Włocławek", "id": 207, "ksiega": 392091, "id zoz": 482060, "id jednostki": "778710", "id komórki": 6852580, "regon": 34141172700027, "kod jednostki": "01", "kod komórki": 21, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Włocławek - gmina miejska", "ulica": "ul. Wieniecka", "budynek": "49", "lokal": "NULL", "kod": "87-800", "miejscowosc": "Włocławek", "teryt": 464011, "kod simc": 984752, "kod ulicy": "24126", "lozka": 6, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2013-04-04" }, "geometry": { "type": "Point", "coordinates": [ 502124.1483, 532713.7434 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3012",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 308, "JPT_KOD_JE": "3012", "JPT_NAZWA_": "powiat krotoszyński", "id": "104#481", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150003571", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Krotoszynie", "miejscowosc": "Krotoszyn", "ulica": "Mickiewicza                                                                        ", "numer_domu": "21", "adres_swiadczeniodawcy": "Mickiewicza 21                                                                       ", "telefon": "62 722 03 32;\r\n512 358 032", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Mickiewicza", "g_miejsc": "Krotoszyn", "g_adr": "21", "g_teryt": "3012043", "g_gm": "Krotoszyn", "g_pow": "krotoszyński", "g_woj": "wielkopolskie", "g_szer": 17.433226466740031, "g_dlug": 51.698739330310858, "g_uuid": "b39c3b04-b525-4466-bd93-ddc23035131c", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 391755.480088782845996, 426974.702012558467686 ] } }
+]
+}

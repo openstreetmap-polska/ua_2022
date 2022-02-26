@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3005",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 363, "JPT_KOD_JE": "3005", "JPT_NAZWA_": "powiat grodziski", "id": 359, "wojewodztwo": "wielkopolskie", "miasto": "GRODZISK WIELKOPOLSKI ", "powiat": "GRODZISKI ", "adres": "MOSSEGO 17 ", "miejscowosc": null, "kod": "62-065 ", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ ", "poziom": "I stopień", "www": "http:\/\/www.spzoz-grodzisk.home.pl ", "telefon": "(061)44-45-523 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 320335.2, 487933.6 ] } }
+]
+}

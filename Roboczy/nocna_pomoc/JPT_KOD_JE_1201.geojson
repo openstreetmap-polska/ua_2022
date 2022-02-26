@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1201",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 132, "JPT_KOD_JE": "1201", "JPT_NAZWA_": "powiat bocheński", "id": "104#136", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "065\/100012", "swiadczeniodawca": "Szpital Powiatowy im. bł. Marty Wieckiej w Bochni ", "miejscowosc": "Bochnia", "ulica": "Krakowska ", "numer_domu": "31", "adres_swiadczeniodawcy": "Krakowska 31", "telefon": "14 61 53 377", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Krakowska", "g_miejsc": "Bochnia", "g_adr": "31", "g_teryt": "1201011", "g_gm": "Bochnia", "g_pow": "bocheński", "g_woj": "małopolskie", "g_szer": 20.421215053034224, "g_dlug": 49.966295448448413, "g_uuid": "3ffbf275-45f0-4968-84f7-1c3361612b42", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 601893.479547379305586, 234190.352217841893435 ] } }
+]
+}

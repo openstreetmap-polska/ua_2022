@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0401",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 425, "JPT_KOD_JE": "0401", "JPT_NAZWA_": "powiat aleksandrowski", "id": "104#37", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20002410", "swiadczeniodawca": "Powiatowy Szpital w Aleksandrowie Kujawskim Sp. z o. o.", "miejscowosc": "Aleksandrów Kujawski", "ulica": "Słowackiego", "numer_domu": "20a", "adres_swiadczeniodawcy": "Słowackiego 20a", "telefon": "54 282-85-11", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Juliusza Słowackiego", "g_miejsc": "Aleksandrów Kujawski", "g_adr": "20a", "g_teryt": "0401011", "g_gm": "Aleksandrów Kujawski", "g_pow": "aleksandrowski", "g_woj": "kujawsko-pomorskie", "g_szer": 18.698344869685911, "g_dlug": 52.872885453889374, "g_uuid": "e74616ec-75b2-4fe7-87c4-df8c3055fb83", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 479702.199256360065192, 556415.200328233651817 ] } }
+]
+}

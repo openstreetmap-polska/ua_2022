@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2006",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 59, "JPT_KOD_JE": "2006", "JPT_NAZWA_": "powiat kolneński", "id": "104#314", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000489", "swiadczeniodawca": "Szpital Ogólny w Kolnie", "miejscowosc": "Kolno ", "ulica": "Wojska Polskiego ", "numer_domu": "69", "adres_swiadczeniodawcy": "Wojska Polskiego 69", "telefon": "86 273 93 21", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Wojska Polskiego", "g_miejsc": "Kolno", "g_adr": "69", "g_teryt": "2006011", "g_gm": "Kolno", "g_pow": "kolneński", "g_woj": "podlaskie", "g_szer": 21.921814250023075, "g_dlug": 53.412282880994965, "g_uuid": "5be4ad06-a099-4cb8-9fd8-4971721667c7", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 694128.203521624556743, 620334.62513139564544 ] } }
+]
+}

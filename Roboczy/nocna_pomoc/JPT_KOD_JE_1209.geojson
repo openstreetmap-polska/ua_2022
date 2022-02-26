@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1209",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 453, "JPT_KOD_JE": "1209", "JPT_NAZWA_": "powiat myślenicki", "id": "104#165", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100152", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Myślenicach", "miejscowosc": "Myślenice", "ulica": "Szpitalna ", "numer_domu": "2", "adres_swiadczeniodawcy": "Szpitalna 2", "telefon": "12 273 03 82", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Myślenice", "g_adr": "2", "g_teryt": "1209033", "g_gm": "Myślenice", "g_pow": "myślenicki", "g_woj": "małopolskie", "g_szer": 19.947443922082087, "g_dlug": 49.829451441180638, "g_uuid": "53334a7b-bf76-4991-b1e0-ac281a291b3b", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 568119.185837999568321, 218442.271656025201082 ] } }
+]
+}

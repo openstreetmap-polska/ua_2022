@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1861",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1861", "JPT_NAZWA_": "powiat Krosno", "id": 117, "ksiega": 390407, "id zoz": 478408, "id jednostki": "769323", "id komórki": 6745180, "regon": 30862000028, "kod jednostki": "30", "kod komórki": 124, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy z Izbą Przyjęć Planowych", "teryt opis": "Krosno - gmina miejska", "ulica": "ul. Korczyńska", "budynek": "57", "lokal": "NULL", "kod": "38-400", "miejscowosc": "Krosno", "teryt": 1861011, "kod simc": 952410, "kod ulicy": "09333", "lozka": 7, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-01-01" }, "geometry": { "type": "Point", "coordinates": [ 700609.810135898995213, 207500.103859852009919 ] } }
+]
+}

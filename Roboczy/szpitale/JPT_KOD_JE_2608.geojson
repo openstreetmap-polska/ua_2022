@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2608",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 400, "JPT_KOD_JE": "2608", "JPT_NAZWA_": "powiat pińczowski", "id": 448, "wojewodztwo": "ŚWIĘTOKRZYSKIE", "miasto": "PIŃCZÓW", "powiat": "PIŃCZOWSKI", "adres": "ARMII KRAJOWEJ 22", "miejscowosc": "PIŃCZÓW", "kod": null, "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W PIŃCZOWIE", "poziom": "I stopień", "www": "http:\/\/szpitalpinczow.pl", "telefon": "41 357 30 31(34)", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 608412.9, 295647.6 ] } }
+]
+}

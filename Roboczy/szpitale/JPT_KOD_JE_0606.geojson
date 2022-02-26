@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0606",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 438, "JPT_KOD_JE": "0606", "JPT_NAZWA_": "powiat krasnostawski", "id": 62, "wojewodztwo": "lubelskie", "miasto": "KRASNYSTAW", "powiat": "KRASNOSTAWSKI", "adres": "SOBIESKIEGO 4", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W KRASNYMSTAWIE", "poziom": "I stopień", "www": "http:\/\/www.spzozkrasnystaw.pl", "telefon": "82 576 21 70", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 792137.9, 354404.3 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0615",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 388, "JPT_KOD_JE": "0615", "JPT_NAZWA_": "powiat radzyński", "id": 82, "wojewodztwo": "lubelskie", "miasto": "RADZYŃ PODLASKI", "powiat": "RADZYŃSKI", "adres": "WISZNICKA 111", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W RADZYNIU PODLASKIM", "poziom": "I stopień", "www": "http:\/\/www.spzozrp.pl", "telefon": "83 413 22 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 748713.5, 440106.1 ] } }
+]
+}

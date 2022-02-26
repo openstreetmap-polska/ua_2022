@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2861",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2861", "JPT_NAZWA_": "powiat Elbląg", "id": 121, "ksiega": 390477, "id zoz": 478565, "id jednostki": "769676", "id komórki": 6748858, "regon": 17074593000020, "kod jednostki": "01", "kod komórki": 90, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "szpitalny oddział ratunkowy", "teryt opis": "Elbląg - gmina miejska", "ulica": "ul. Królewiecka", "budynek": "146", "lokal": "NULL", "kod": "82-300", "miejscowosc": "Elbląg", "teryt": 2861011, "kod simc": 932703, "kod ulicy": "09983", "lozka": 2, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 10, "data rozpoczęcia działalności komórki": "2000-08-21" }, "geometry": { "type": "Point", "coordinates": [ 527997.967799999984, 701761.3039 ] } }
+]
+}

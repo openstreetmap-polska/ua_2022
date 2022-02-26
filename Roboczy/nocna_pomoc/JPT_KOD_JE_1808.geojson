@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1808",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 368, "JPT_KOD_JE": "1808", "JPT_NAZWA_": "powiat leżajski", "id": "104#287", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010007", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Leżajsku", "miejscowosc": "Leżajsk", "ulica": " Leśna ", "numer_domu": "22", "adres_swiadczeniodawcy": " Leśna 22", "telefon": "17 240 47 95", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Leśna", "g_miejsc": "Leżajsk", "g_adr": "22", "g_teryt": "1808011", "g_gm": "Leżajsk", "g_pow": "leżajski", "g_woj": "podkarpackie", "g_szer": 22.401481824433972, "g_dlug": 50.271829136968456, "g_uuid": "81a5e81d-f1d3-4d4d-92d3-64863f56c601", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 742298.156585936900228, 272717.820244767703116 ] } }
+]
+}

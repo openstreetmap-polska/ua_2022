@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3003",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "3003", "JPT_NAZWA_": "powiat gnieźnieński", "id": 230, "ksiega": 392369, "id zoz": 482652, "id jednostki": "780249", "id komórki": 6870591, "regon": 31512300042, "kod jednostki": "01", "kod komórki": 7, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Gniezno - gmina miejska", "ulica": "ul. 3 Maja", "budynek": "37", "lokal": "NULL", "kod": "62-200", "miejscowosc": "Gniezno", "teryt": 3003011, "kod simc": 970632, "kod ulicy": "11937", "lozka": 13, "liczba łóżek iom": 3, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-04-26" }, "geometry": { "type": "Point", "coordinates": [ 405069.130000083008781, 520365.349999997997656 ] } }
+]
+}

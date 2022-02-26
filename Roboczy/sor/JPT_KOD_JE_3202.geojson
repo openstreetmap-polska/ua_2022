@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3202",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "3202", "JPT_NAZWA_": "powiat choszczeński", "id": 37, "ksiega": 384324, "id zoz": 466735, "id jednostki": "743838", "id komórki": 6448635, "regon": 21037354300020, "kod jednostki": "01", "kod komórki": 3, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Choszczno - miasto", "ulica": "ul. Niedziałkowskiego", "budynek": "4A", "lokal": "NULL", "kod": "73-200", "miejscowosc": "Choszczno", "teryt": 3202024, "kod simc": 935280, "kod ulicy": "14139", "lozka": 5, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 5, "data rozpoczęcia działalności komórki": "2001-09-18" }, "geometry": { "type": "Point", "coordinates": [ 260352.6758, 594940.125 ] } }
+]
+}

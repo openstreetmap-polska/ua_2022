@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0803",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "0803", "JPT_NAZWA_": "powiat międzyrzecki", "id": 105, "ksiega": 389059, "id zoz": 476679, "id jednostki": "766524", "id komórki": 6722812, "regon": 21036841800023, "kod jednostki": "01", "kod komórki": 7, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Międzyrzecz - miasto", "ulica": "ul. Konstytucji 3 Maja", "budynek": "35", "lokal": "NULL", "kod": "66-300", "miejscowosc": "Międzyrzecz", "teryt": 803024, "kod simc": 935529, "kod ulicy": "09213", "lozka": 7, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-05-01" }, "geometry": { "type": "Point", "coordinates": [ 267914.8, 513761.379999999015126 ] } }
+]
+}

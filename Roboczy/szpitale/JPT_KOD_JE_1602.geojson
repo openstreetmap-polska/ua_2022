@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1602",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 211, "JPT_KOD_JE": "1602", "JPT_NAZWA_": "powiat głubczycki", "id": 269, "wojewodztwo": "opolskie", "miasto": "Głubczyce", "powiat": "głubczycki", "adres": "M. Skłodowskiej-Curie 26", "miejscowosc": "Głubczyce", "kod": "48-100 ", "nazwa": "Szpital Powiatowy w Głubczycach", "poziom": "I stopień", "www": "http:\/\/www.szpitalglubczyce.pl", "telefon": "77 480 11 70", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 415244.6, 260291.3 ] } }
+]
+}

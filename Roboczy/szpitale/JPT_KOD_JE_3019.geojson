@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3019",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 77, "JPT_KOD_JE": "3019", "JPT_NAZWA_": "powiat pilski", "id": 366, "wojewodztwo": "wielkopolskie", "miasto": "PIŁA ", "powiat": "PIŁA ", "adres": "RYDYGIERA 1 ", "miejscowosc": null, "kod": "64-920 ", "nazwa": "SZPITAL SPECJALISTYCZNY W PILE IM. STANISŁAWA STASZICA ", "poziom": "III stopień ", "www": "http:\/\/www.szpitalpila.pl\/ ", "telefon": "(067)21-06-204 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 347448.3, 586493.5 ] } },
+{ "type": "Feature", "properties": { "_uid_": 78, "JPT_KOD_JE": "3019", "JPT_NAZWA_": "powiat pilski", "id": 397, "wojewodztwo": "wielkopolskie", "miasto": "WYRZYSK ", "powiat": "PILSKI ", "adres": "22 STYCZNIA 41 ", "miejscowosc": null, "kod": "89-300 ", "nazwa": "SZPITAL POWIATOWY W WYRZYSKU SPÓŁKA Z O.O. ", "poziom": "I stopień", "www": "http:\/\/www.szpitalwyrzysk.com\/ ", "telefon": "(067)28-62-622 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 384472.5, 588476.5 ] } }
+]
+}

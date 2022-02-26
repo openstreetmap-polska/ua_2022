@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3207",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 416, "JPT_KOD_JE": "3207", "JPT_NAZWA_": "powiat kamieński", "id": 330, "wojewodztwo": "zachodniopomorskie", "miasto": "Kamień Pomorski ", "powiat": "kamieński ", "adres": "Szpitalna 10 ", "miejscowosc": null, "kod": null, "nazwa": "EMC Instytut Medyczny Spółka Akcyjna ", "poziom": "I stopień", "www": "http:\/\/www.emc-sa.pl\/nasze-placowki\/kamien-pomorski-szpital-sw-jerzego ", "telefon": "91 326 26 91, 91 326 26 92, 91 326 26 93 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 223194.2, 686561.4 ] } }
+]
+}

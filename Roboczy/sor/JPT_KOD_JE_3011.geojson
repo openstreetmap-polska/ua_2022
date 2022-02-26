@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3011",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "3011", "JPT_NAZWA_": "powiat kościański", "id": 119, "ksiega": 390437, "id zoz": 478497, "id jednostki": "769505", "id komórki": 6746850, "regon": 41105199900030, "kod jednostki": "01", "kod komórki": 10, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Kościan - gmina miejska", "ulica": "ul. Szpitalna", "budynek": "7", "lokal": "NULL", "kod": "64-000", "miejscowosc": "Kościan", "teryt": 3011011, "kod simc": 954484, "kod ulicy": "22073", "lozka": 8, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-10-17" }, "geometry": { "type": "Point", "coordinates": [ 338857.4256, 471359.562000001023989 ] } }
+]
+}

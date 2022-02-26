@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0416",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 13, "JPT_KOD_JE": "0416", "JPT_NAZWA_": "powiat tucholski", "id": "104#60", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20002028", "swiadczeniodawca": "Szpital Tucholski Spółka z o.o.", "miejscowosc": "Tuchola", "ulica": "Nowodworskiego", "numer_domu": "14\/18", "adres_swiadczeniodawcy": "Nowodworskiego 14\/18", "telefon": "519-323-215", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 17.862862919416436, "g_dlug": 53.589557574744859, "g_uuid": "4b12fe45-0cfa-4cc3-971f-398a4e54bc42", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 424753.74814179725945, 636676.378476375713944 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2001",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "2001", "JPT_NAZWA_": "powiat augustowski", "id": 211, "ksiega": 392223, "id zoz": 482336, "id jednostki": "779196", "id komórki": 6858152, "regon": 79031703800023, "kod jednostki": "01", "kod komórki": 86, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Augustów - gmina miejska", "ulica": "ul. Szpitalna", "budynek": "12", "lokal": "NULL", "kod": "16-300", "miejscowosc": "Augustów", "teryt": 2001011, "kod simc": 977539, "kod ulicy": "22073", "lozka": 6, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2018-03-01" }, "geometry": { "type": "Point", "coordinates": [ 762566.206299999962, 672580.3475 ] } }
+]
+}

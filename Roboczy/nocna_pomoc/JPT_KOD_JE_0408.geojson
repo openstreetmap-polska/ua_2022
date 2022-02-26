@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0408",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 428, "JPT_KOD_JE": "0408", "JPT_NAZWA_": "powiat lipnowski", "id": "104#50", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20003719", "swiadczeniodawca": "NZOZ \"Szpital Lipno\" utworzony przez Szpital Lipno Spółka z o.o.", "miejscowosc": "Lipno", "ulica": "Dębowa ", "numer_domu": "21", "adres_swiadczeniodawcy": "Dębowa 21", "telefon": "54 288 68 10", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Dębowa", "g_miejsc": "Lipno", "g_adr": "21", "g_teryt": "0408011", "g_gm": "Lipno", "g_pow": "lipnowski", "g_woj": "kujawsko-pomorskie", "g_szer": 19.184550229997331, "g_dlug": 52.836785313952888, "g_uuid": "1623424f-7bfa-45e5-aa18-484e524a63bb", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 512428.135473685106263, 552374.024972770363092 ] } }
+]
+}

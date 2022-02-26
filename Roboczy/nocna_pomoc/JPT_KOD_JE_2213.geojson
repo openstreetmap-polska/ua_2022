@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2213",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 381, "JPT_KOD_JE": "2213", "JPT_NAZWA_": "powiat starogardzki", "id": "104#353", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "001596", "swiadczeniodawca": "Kociewskie Centrum Zdrowia W Starogardzie Gdańskim                                                                                                            ", "miejscowosc": "Starogard Gdański", "ulica": " Dr. Józefa Balewskiego ", "numer_domu": "1", "adres_swiadczeniodawcy": " Dr. Józefa Balewskiego 1", "telefon": "58 774 96 80 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "dra Józefa Balewskiego", "g_miejsc": "Starogard Gdański", "g_adr": "1", "g_teryt": "2213031", "g_gm": "Starogard Gdański", "g_pow": "starogardzki", "g_woj": "pomorskie", "g_szer": 18.507805693229638, "g_dlug": 53.967031456718942, "g_uuid": "5b7efdbd-a774-4835-a4e3-f37cdfc44cfd", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 467721.494516274076886, 678170.857713992707431 ] } }
+]
+}

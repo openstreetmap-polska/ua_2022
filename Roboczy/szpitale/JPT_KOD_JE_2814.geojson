@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_2814",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 496, "JPT_KOD_JE": "2814", "JPT_NAZWA_": "powiat olsztyński", "id": 404, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Biskupiec", "powiat": "Olsztyński", "adres": "Armii Krajowej 8", "miejscowosc": "Biskupiec", "kod": "11-300", "nazwa": "Szpital Powiatowy im. Jana Mikulicza w Biskupcu", "poziom": "I stopień", "www": "http:\/\/szpital-biskupiec.pl", "telefon": "89 715 62 07 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 628652.3, 668614.5 ] } },
+{ "type": "Feature", "properties": { "_uid_": 497, "JPT_KOD_JE": "2814", "JPT_NAZWA_": "powiat olsztyński", "id": 406, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Dobre Miasto", "powiat": "Olsztyński", "adres": "Grunwaldzka 10B", "miejscowosc": "Dobre Miasto", "kod": "11-040", "nazwa": "Zespół Zakładów Opieki Zdrowotnej w Dobrym Mieście", "poziom": "I stopień", "www": "http:\/\/www.szpitaldobremiasto.pl", "telefon": "89 616 82 28 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 591994.6, 680953.1 ] } },
+{ "type": "Feature", "properties": { "_uid_": 498, "JPT_KOD_JE": "2814", "JPT_NAZWA_": "powiat olsztyński", "id": 402, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Ameryka", "powiat": "Olsztyński", "adres": "21", "miejscowosc": "Ameryka", "kod": "11-015", "nazwa": "Wojewódzki Szpital Rehabilitacyjny dla Dzieci w Ameryce", "poziom": "Szpital pediatryczny", "www": "http:\/\/www.ameryka.com.pl", "telefon": "89 519 48 11 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 587078.0, 639947.8 ] } }
+]
+}

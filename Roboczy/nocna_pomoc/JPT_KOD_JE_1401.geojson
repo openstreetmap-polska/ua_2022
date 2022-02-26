@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1401",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 460, "JPT_KOD_JE": "1401", "JPT_NAZWA_": "powiat białobrzeski", "id": "104#184", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001806", "swiadczeniodawca": "Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej w Białobrzegach", "miejscowosc": "Białobrzegi", "ulica": " Spacerowa ", "numer_domu": "10", "adres_swiadczeniodawcy": " Spacerowa 10", "telefon": "48 613-27-09; 500-424-442", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 20.963155960251576, "g_dlug": 51.646655268349484, "g_uuid": "4a99527e-3d37-41a7-8f5b-09511940a2c7", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 635783.645148702780716, 421847.245480563491583 ] } }
+]
+}

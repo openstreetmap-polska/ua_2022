@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1426",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 51, "JPT_KOD_JE": "1426", "JPT_NAZWA_": "powiat siedlecki", "id": "104#260", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70060597", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej \"Rm-Meditrans\" Stacja Pogotowia Ratunkowego i Transportu Sanitarnego w Siedlcach", "miejscowosc": "Zbuczyn", "ulica": " Terespolska ", "numer_domu": "13", "adres_swiadczeniodawcy": " Terespolska 13", "telefon": "256416900", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Terespolska", "g_miejsc": "Zbuczyn", "g_adr": "13", "g_teryt": "1426132", "g_gm": "Zbuczyn", "g_pow": "siedlecki", "g_woj": "mazowieckie", "g_szer": 22.442788680311732, "g_dlug": 52.088283022557491, "g_uuid": "fb948111-506e-4a5f-8641-20bf26e84859", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 735778.71629792987369, 474716.828337670303881 ] } }
+]
+}

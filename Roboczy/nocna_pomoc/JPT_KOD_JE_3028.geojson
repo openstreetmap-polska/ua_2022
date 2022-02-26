@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3028",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 416, "JPT_KOD_JE": "3028", "JPT_NAZWA_": "powiat wągrowiecki", "id": "104#505", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150003183", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Wągrowcu", "miejscowosc": "Wągrowiec", "ulica": "Kościuszki ", "numer_domu": "74", "adres_swiadczeniodawcy": "Kościuszki 74", "telefon": "67 268 15 80", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kościuszki", "g_miejsc": "Wągrowiec", "g_adr": "74", "g_teryt": "3028011", "g_gm": "Wągrowiec", "g_pow": "wągrowiecki", "g_woj": "wielkopolskie", "g_szer": 17.204446370138722, "g_dlug": 52.817928516066331, "g_uuid": "a5e096ad-ed9d-4920-9cef-517babfd5d03", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 379035.317440088780131, 551771.070691495202482 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1464",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 38, "JPT_KOD_JE": "1464", "JPT_NAZWA_": "powiat Siedlce", "id": 221, "wojewodztwo": "mazowieckie", "miasto": "SIEDLCE", "powiat": "SIEDLCE", "adres": "PONIATOWSKIEGO 26", "miejscowosc": "SIEDLCE ", "kod": null, "nazwa": "MAZOWIECKI SZPITAL WOJEWÓDZKI W SIEDLCACH  SP. Z O.O.", "poziom": "II stopień", "www": "http:\/\/www.szpital.siedlce.pl", "telefon": "256403214", "e-mail": "sekretariat@szpital.siedlce.pl" }, "geometry": { "type": "Point", "coordinates": [ 724957.6, 484156.0 ] } },
+{ "type": "Feature", "properties": { "_uid_": 39, "JPT_KOD_JE": "1464", "JPT_NAZWA_": "powiat Siedlce", "id": 202, "wojewodztwo": "mazowieckie", "miasto": "SIEDLCE", "powiat": "SIEDLCE", "adres": "STAROWIEJSKA 15", "miejscowosc": "SIEDLCE ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W SIEDLCACH", "poziom": "I stopień", "www": "http:\/\/www.spzoz-siedlce.pl", "telefon": "256322797", "e-mail": "spzoz@spzoz-siedlce.pl" }, "geometry": { "type": "Point", "coordinates": [ 724632.4, 483142.2 ] } }
+]
+}

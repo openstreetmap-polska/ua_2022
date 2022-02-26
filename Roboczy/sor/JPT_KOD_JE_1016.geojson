@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1016",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1016", "JPT_NAZWA_": "powiat tomaszowski", "id": 208, "ksiega": 392162, "id zoz": 482193, "id jednostki": "778948", "id komórki": 6855405, "regon": 10055873300024, "kod jednostki": "01", "kod komórki": 14, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy z Izbą Przyjęć", "teryt opis": "Tomaszów Mazowiecki - gmina miejska", "ulica": "ul. Jana Pawła II", "budynek": "35", "lokal": "NULL", "kod": "97-200", "miejscowosc": "Tomaszów Mazowiecki", "teryt": 1016011, "kod simc": 968300, "kod ulicy": "07123", "lozka": 7, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2009-07-01" }, "geometry": { "type": "Point", "coordinates": [ 569644.56, 406669.470000001019798 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_0265",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "gid": 213, "JPT_KOD_JE": "0265", "JPT_NAZWA_": "powiat Wałbrzych", "id": "104#27", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3201034", "swiadczeniodawca": "Specjalistyczny Szpital Ginekologiczno-Położniczy im. E. Biernackiego ", "miejscowosc": "Wałbrzych\r\n", "ulica": "Paderewskiego ", "numer_domu": "10", "adres_swiadczeniodawcy": "Ignacego Paderewskiego 10", "telefon": "74 88 77 167", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 16.290531395160414, "g_dlug": 50.771658195762292, "g_uuid": "7e82034b-9de6-49a9-90b4-bc20d0487013", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 309017.456225921981968, 326244.297477899119258 ] } },
+{ "type": "Feature", "properties": { "gid": 324, "JPT_KOD_JE": "0265", "JPT_NAZWA_": "powiat Wałbrzych", "id": "104#28", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3201032", "swiadczeniodawca": "Specjalistyczny Szpital im. dra Alfreda Sokołowskiego", "miejscowosc": "Wałbrzych\r\n", "ulica": "Sokołowskiego ", "numer_domu": "4", "adres_swiadczeniodawcy": "Sokołowskiego 4", "telefon": "74 64 89 968 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sokołowskiego Alfreda", "g_miejsc": "Wałbrzych", "g_adr": "4", "g_teryt": "0265011", "g_gm": "Wałbrzych", "g_pow": "Wałbrzych", "g_woj": "dolnośląskie", "g_szer": 16.277360511235685, "g_dlug": 50.801656453092214, "g_uuid": "a86310dd-1696-41b3-a173-451a06090102", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 308212.132444405113347, 329612.642302400432527 ] } }
+]
+}

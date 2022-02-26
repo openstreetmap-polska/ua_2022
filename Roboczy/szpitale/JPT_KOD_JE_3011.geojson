@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_3011",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 362, "JPT_KOD_JE": "3011", "JPT_NAZWA_": "powiat kościański", "id": 376, "wojewodztwo": "wielkopolskie", "miasto": "KOŚCIAN ", "powiat": "KOŚCIAŃSKI ", "adres": "SZPITALNA 7 ", "miejscowosc": null, "kod": "64-000 ", "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W KOŚCIANIE ", "poziom": "I stopień", "www": "http:\/\/www.szpital.koscian.pl\/ ", "telefon": "(065)51-20-855 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 338857.4, 471359.6 ] } }
+]
+}

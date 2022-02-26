@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1610",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "_uid_": 169, "JPT_KOD_JE": "1610", "JPT_NAZWA_": "powiat prudnicki", "id": 267, "wojewodztwo": "opolskie", "miasto": "Biała", "powiat": "prudnicki", "adres": "Moniuszki 8", "miejscowosc": "Biała", "kod": "48-210 ", "nazwa": "Szpital w Białej", "poziom": "I stopień", "www": "http:\/\/www.szpitalbiała.pl", "telefon": "77 438 70 33", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 404903.0, 280846.5 ] } },
+{ "type": "Feature", "properties": { "_uid_": 170, "JPT_KOD_JE": "1610", "JPT_NAZWA_": "powiat prudnicki", "id": 289, "wojewodztwo": "opolskie", "miasto": "Prudnik", "powiat": "prudnicki", "adres": "Piastowska 64", "miejscowosc": "Prudnik", "kod": "48-200 ", "nazwa": "Prudnickie Centrum Medyczne Spółka Akcyjna - Niepubliczny Zakład Opieki Zdrowotnej w Prudniku", "poziom": "I stopień", "www": "http:\/\/www.pcm.prudnik.pl", "telefon": "77 406 78 90", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 398124.6, 273832.6 ] } }
+]
+}

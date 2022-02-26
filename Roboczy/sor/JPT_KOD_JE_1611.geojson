@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "JPT_KOD_JE_1611",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "JPT_KOD_JE": "1611", "JPT_NAZWA_": "powiat strzelecki", "id": 193, "ksiega": 391850, "id zoz": 481618, "id jednostki": "777572", "id komórki": 6840079, "regon": 31158500028, "kod jednostki": "01", "kod komórki": 36, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Strzelce Opolskie - miasto", "ulica": "ul. Opolska", "budynek": "36 A", "lokal": "NULL", "kod": "47-100", "miejscowosc": "Strzelce Opolskie", "teryt": 1611054, "kod simc": 965915, "kod ulicy": "15095", "lozka": 8, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-08-28" }, "geometry": { "type": "Point", "coordinates": [ 449779.34, 294481.04 ] } }
+]
+}
