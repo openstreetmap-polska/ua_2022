@@ -1,10 +1,129 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2474",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 181, "JPT_KOD_JE": "2474", "JPT_NAZWA_": "powiat Siemianowice Śląskie", "id": "104#405", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/100506", "swiadczeniodawca": "SP ZOZ Centrum Leczenia Oparzeń w Siemianowicach Śląskich", "miejscowosc": "Siemianowice Śląskie", "ulica": "Jana Pawła II ", "numer_domu": "2", "adres_swiadczeniodawcy": "Jana Pawła II 2", "telefon": "32 428 78 84", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "wizyta pielęgniarska ambulatoryjna", "g_traf": 0.8, "g_ilosc": 1, "g_ul": "JANA PAWŁA II", "g_miejsc": "SIEMIANOWICE ŚLĄSKIE", "g_adr": "2", "g_teryt": "2474011", "g_gm": "Siemianowice Śląskie", "g_pow": "Siemianowice Śląskie", "g_woj": "śląskie", "g_szer": 19.029520118739953, "g_dlug": 50.30509566999546, "g_uuid": "4099a3ff-763d-407c-9568-ee53225ee921", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 502101.56235595617909, 270881.993307275697589 ] } },
-{ "type": "Feature", "properties": { "gid": 287, "JPT_KOD_JE": "2474", "JPT_NAZWA_": "powiat Siemianowice Śląskie", "id": "104#404", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/100180", "swiadczeniodawca": "Wojewódzkie Pogotowie Ratunkowe w Katowicach ", "miejscowosc": "Siemianowice Śląskie", "ulica": "Dąbrowskiego ", "numer_domu": "13", "adres_swiadczeniodawcy": "Dąbrowskiego 13", "telefon": "32 428 78 84", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.8, "g_ilosc": 1, "g_ul": "JAROSŁAWA DĄBROWSKIEGO", "g_miejsc": "SIEMIANOWICE ŚLĄSKIE", "g_adr": "13", "g_teryt": "2474011", "g_gm": "Siemianowice Śląskie", "g_pow": "Siemianowice Śląskie", "g_woj": "śląskie", "g_szer": 19.023922807628558, "g_dlug": 50.305009646652003, "g_uuid": "8a62213b-ab76-4f23-bde3-ade534afcff9", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 501702.89520873723086, 270871.846112917177379 ] } },
-{ "type": "Feature", "properties": { "gid": 512, "JPT_KOD_JE": "2474", "JPT_NAZWA_": "powiat Siemianowice Śląskie", "id": "104#403", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/100474", "swiadczeniodawca": "Szpital Miejski w Siemianowicach Śląskich", "miejscowosc": "Siemianowice Śląskie", "ulica": " 1 Maja ", "numer_domu": "9", "adres_swiadczeniodawcy": "1 Maja 9", "telefon": "32 428 78 84", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "wizyta pielęgniarska ambulatoryjna", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "1 MAJA", "g_miejsc": "SIEMIANOWICE ŚLĄSKIE", "g_adr": "9", "g_teryt": "2474011", "g_gm": "Siemianowice Śląskie", "g_pow": "Siemianowice Śląskie", "g_woj": "śląskie", "g_szer": 19.033189493614021, "g_dlug": 50.304897607039358, "g_uuid": "4b072fec-b9b5-4c34-b6a8-9ea603519270", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 502362.843731785251293, 270859.871910556219518 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2474",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 181,
+                "JPT_KOD_JE": "2474",
+                "JPT_NAZWA_": "powiat Siemianowice Śląskie",
+                "id": "104#405",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/100506",
+                "swiadczeniodawca": "SP ZOZ Centrum Leczenia Oparzeń w Siemianowicach Śląskich",
+                "miejscowosc": "Siemianowice Śląskie",
+                "ulica": "Jana Pawła II ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Jana Pawła II 2",
+                "telefon": "32 428 78 84",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "wizyta pielęgniarska ambulatoryjna",
+                "g_traf": 0.8,
+                "g_ilosc": 1,
+                "g_ul": "JANA PAWŁA II",
+                "g_miejsc": "SIEMIANOWICE ŚLĄSKIE",
+                "g_adr": "2",
+                "g_teryt": "2474011",
+                "g_gm": "Siemianowice Śląskie",
+                "g_pow": "Siemianowice Śląskie",
+                "g_woj": "śląskie",
+                "g_szer": 19.029520118739953,
+                "g_dlug": 50.30509566999546,
+                "g_uuid": "4099a3ff-763d-407c-9568-ee53225ee921",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.02952000000001,
+                    50.30510000001295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 287,
+                "JPT_KOD_JE": "2474",
+                "JPT_NAZWA_": "powiat Siemianowice Śląskie",
+                "id": "104#404",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/100180",
+                "swiadczeniodawca": "Wojewódzkie Pogotowie Ratunkowe w Katowicach ",
+                "miejscowosc": "Siemianowice Śląskie",
+                "ulica": "Dąbrowskiego ",
+                "numer_domu": "13",
+                "adres_swiadczeniodawcy": "Dąbrowskiego 13",
+                "telefon": "32 428 78 84",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.8,
+                "g_ilosc": 1,
+                "g_ul": "JAROSŁAWA DĄBROWSKIEGO",
+                "g_miejsc": "SIEMIANOWICE ŚLĄSKIE",
+                "g_adr": "13",
+                "g_teryt": "2474011",
+                "g_gm": "Siemianowice Śląskie",
+                "g_pow": "Siemianowice Śląskie",
+                "g_woj": "śląskie",
+                "g_szer": 19.02392280762856,
+                "g_dlug": 50.305009646652,
+                "g_uuid": "8a62213b-ab76-4f23-bde3-ade534afcff9",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.023920000000007,
+                    50.30501000001294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 512,
+                "JPT_KOD_JE": "2474",
+                "JPT_NAZWA_": "powiat Siemianowice Śląskie",
+                "id": "104#403",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/100474",
+                "swiadczeniodawca": "Szpital Miejski w Siemianowicach Śląskich",
+                "miejscowosc": "Siemianowice Śląskie",
+                "ulica": " 1 Maja ",
+                "numer_domu": "9",
+                "adres_swiadczeniodawcy": "1 Maja 9",
+                "telefon": "32 428 78 84",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "wizyta pielęgniarska ambulatoryjna",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "1 MAJA",
+                "g_miejsc": "SIEMIANOWICE ŚLĄSKIE",
+                "g_adr": "9",
+                "g_teryt": "2474011",
+                "g_gm": "Siemianowice Śląskie",
+                "g_pow": "Siemianowice Śląskie",
+                "g_woj": "śląskie",
+                "g_szer": 19.03318949361402,
+                "g_dlug": 50.30489760703936,
+                "g_uuid": "4b072fec-b9b5-4c34-b6a8-9ea603519270",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.033190000000012,
+                    50.30490000001294
+                ]
+            }
+        }
+    ]
 }

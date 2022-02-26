@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1438",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 36, "JPT_KOD_JE": "1438", "JPT_NAZWA_": "powiat żyrardowski", "id": 217, "wojewodztwo": "mazowieckie", "miasto": "ŻYRARDÓW", "powiat": "ŻYRARDOWSKI", "adres": "LIMANOWSKIEGO 30", "miejscowosc": "ŻYRARDÓW ", "kod": null, "nazwa": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "I stopień", "www": "http:\/\/www.czmz.szpitalzyrardow.pl", "telefon": "468553527", "e-mail": "sekretariat@szpitalzyrardow.pl" }, "geometry": { "type": "Point", "coordinates": [ 598704.0, 466868.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1438",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 36,
+                "JPT_KOD_JE": "1438",
+                "JPT_NAZWA_": "powiat żyrardowski",
+                "id": 217,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "ŻYRARDÓW",
+                "powiat": "ŻYRARDOWSKI",
+                "adres": "LIMANOWSKIEGO 30",
+                "miejscowosc": "ŻYRARDÓW ",
+                "kod": null,
+                "nazwa": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+                "poziom": "I stopień",
+                "www": "http://www.czmz.szpitalzyrardow.pl",
+                "telefon": "468553527",
+                "e-mail": "sekretariat@szpitalzyrardow.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.44014282517343,
+                    52.0591825065165
+                ]
+            }
+        }
+    ]
 }

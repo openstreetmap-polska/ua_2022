@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0225",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 214, "JPT_KOD_JE": "0225", "JPT_NAZWA_": "powiat zgorzelecki", "id": "104#35", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3401029", "swiadczeniodawca": "Wielospecjalistyczny Szpital - SP ZOZ w Zgorzelcu", "miejscowosc": "Zgorzelec\r\n", "ulica": "Lubańska", "numer_domu": "11\/12", "adres_swiadczeniodawcy": "Lubańska 11\/12", "telefon": "75 775 22 22; 571 334 834", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 15.0113012191121, "g_dlug": 51.158171222326111, "g_uuid": "931877f1-8bb7-4a75-9825-7fae253875df", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 221198.895670399127994, 373277.449477543123066 ] } },
-{ "type": "Feature", "properties": { "gid": 319, "JPT_KOD_JE": "0225", "JPT_NAZWA_": "powiat zgorzelecki", "id": "104#1", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3401001", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Bogatyni", "miejscowosc": "Bogatynia\r\n", "ulica": "Szpitalna ", "numer_domu": "16", "adres_swiadczeniodawcy": "Szpitalna 16", "telefon": "75 77 39 324; 602 888 310\r\n Wizyty domowe 500 451 650; 500 451 697", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Bogatynia", "g_adr": "16", "g_teryt": "0225033", "g_gm": "Bogatynia", "g_pow": "zgorzelecki", "g_woj": "dolnośląskie", "g_szer": 14.970174265694896, "g_dlug": 50.907168029285458, "g_uuid": "0c25e683-44cc-4962-a9a5-241663655cfe", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 216797.351295209606178, 345544.855710804462433 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0225",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 214,
+                "JPT_KOD_JE": "0225",
+                "JPT_NAZWA_": "powiat zgorzelecki",
+                "id": "104#35",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3401029",
+                "swiadczeniodawca": "Wielospecjalistyczny Szpital - SP ZOZ w Zgorzelcu",
+                "miejscowosc": "Zgorzelec\r\n",
+                "ulica": "Lubańska",
+                "numer_domu": "11/12",
+                "adres_swiadczeniodawcy": "Lubańska 11/12",
+                "telefon": "75 775 22 22; 571 334 834",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 15.0113012191121,
+                "g_dlug": 51.15817122232611,
+                "g_uuid": "931877f1-8bb7-4a75-9825-7fae253875df",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.011299999919439,
+                    51.158170000015495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 319,
+                "JPT_KOD_JE": "0225",
+                "JPT_NAZWA_": "powiat zgorzelecki",
+                "id": "104#1",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3401001",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Bogatyni",
+                "miejscowosc": "Bogatynia\r\n",
+                "ulica": "Szpitalna ",
+                "numer_domu": "16",
+                "adres_swiadczeniodawcy": "Szpitalna 16",
+                "telefon": "75 77 39 324; 602 888 310\r\n Wizyty domowe 500 451 650; 500 451 697",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szpitalna",
+                "g_miejsc": "Bogatynia",
+                "g_adr": "16",
+                "g_teryt": "0225033",
+                "g_gm": "Bogatynia",
+                "g_pow": "zgorzelecki",
+                "g_woj": "dolnośląskie",
+                "g_szer": 14.970174265694896,
+                "g_dlug": 50.90716802928546,
+                "g_uuid": "0c25e683-44cc-4962-a9a5-241663655cfe",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.970169999912047,
+                    50.907170000015206
+                ]
+            }
+        }
+    ]
 }

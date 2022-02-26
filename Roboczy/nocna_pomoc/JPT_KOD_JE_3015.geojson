@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3015",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 309, "JPT_KOD_JE": "3015", "JPT_NAZWA_": "powiat nowotomyski", "id": "104#484", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000019", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej im. Doktora Kazimierza Hołogi", "miejscowosc": "Nowy Tomyśl ", "ulica": "Sienkiewicza ", "numer_domu": "3", "adres_swiadczeniodawcy": "Sienkiewicza 3", "telefon": "61 442 74 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Henryka Sienkiewicza", "g_miejsc": "Nowy Tomyśl", "g_adr": "3", "g_teryt": "3015043", "g_gm": "Nowy Tomyśl", "g_pow": "nowotomyski", "g_woj": "wielkopolskie", "g_szer": 16.141361571091881, "g_dlug": 52.315292992548287, "g_uuid": "f2731d34-7f24-4b3f-8af4-0cc8d3ea094a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 305213.364222520613112, 498213.995770512148738 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3015",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 309,
+                "JPT_KOD_JE": "3015",
+                "JPT_NAZWA_": "powiat nowotomyski",
+                "id": "104#484",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150000019",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej im. Doktora Kazimierza Hołogi",
+                "miejscowosc": "Nowy Tomyśl ",
+                "ulica": "Sienkiewicza ",
+                "numer_domu": "3",
+                "adres_swiadczeniodawcy": "Sienkiewicza 3",
+                "telefon": "61 442 74 00",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Henryka Sienkiewicza",
+                "g_miejsc": "Nowy Tomyśl",
+                "g_adr": "3",
+                "g_teryt": "3015043",
+                "g_gm": "Nowy Tomyśl",
+                "g_pow": "nowotomyski",
+                "g_woj": "wielkopolskie",
+                "g_szer": 16.14136157109188,
+                "g_dlug": 52.31529299254829,
+                "g_uuid": "f2731d34-7f24-4b3f-8af4-0cc8d3ea094a",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.141359999986456,
+                    52.31529000001608
+                ]
+            }
+        }
+    ]
 }

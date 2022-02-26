@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0801",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 122, "JPT_KOD_JE": "0801", "JPT_NAZWA_": "powiat gorzowski", "id": "104#94", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "102712", "swiadczeniodawca": "Nowy Szpital w Kostrzynie nad Odrą Sp. z o.o.", "miejscowosc": "Kostrzyn nad Odrą\r\n", "ulica": "Narutowicza ", "numer_domu": "6", "adres_swiadczeniodawcy": "Narutowicza 6", "telefon": "41 240 18 11; 41 240 19 80; 509 906 734", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Narutowicza Gabriela", "g_miejsc": "Kostrzyn nad Odrą", "g_adr": "6", "g_teryt": "0801011", "g_gm": "Kostrzyn nad Odrą", "g_pow": "gorzowski", "g_woj": "lubuskie", "g_szer": 14.641399798858671, "g_dlug": 52.608122321902762, "g_uuid": "d66959cb-826f-427d-ac78-34c6a250c1bb", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 205014.474588593293447, 535851.098601123318076 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0801",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 122,
+                "JPT_KOD_JE": "0801",
+                "JPT_NAZWA_": "powiat gorzowski",
+                "id": "104#94",
+                "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ",
+                "kod_swiadczeniodawcy": "102712",
+                "swiadczeniodawca": "Nowy Szpital w Kostrzynie nad Odrą Sp. z o.o.",
+                "miejscowosc": "Kostrzyn nad Odrą\r\n",
+                "ulica": "Narutowicza ",
+                "numer_domu": "6",
+                "adres_swiadczeniodawcy": "Narutowicza 6",
+                "telefon": "41 240 18 11; 41 240 19 80; 509 906 734",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Narutowicza Gabriela",
+                "g_miejsc": "Kostrzyn nad Odrą",
+                "g_adr": "6",
+                "g_teryt": "0801011",
+                "g_gm": "Kostrzyn nad Odrą",
+                "g_pow": "gorzowski",
+                "g_woj": "lubuskie",
+                "g_szer": 14.641399798858671,
+                "g_dlug": 52.60812232190276,
+                "g_uuid": "d66959cb-826f-427d-ac78-34c6a250c1bb",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.641399999900557,
+                    52.60812000001909
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1608",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 156, "JPT_KOD_JE": "1608", "JPT_NAZWA_": "powiat oleski", "id": "104#273", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/10051", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Oleśnie\r\n", "miejscowosc": "Olesno", "ulica": " Klonowa ", "numer_domu": "1", "adres_swiadczeniodawcy": " Klonowa 1", "telefon": "34 350 96 34", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Klonowa", "g_miejsc": "Olesno", "g_adr": "1", "g_teryt": "1608033", "g_gm": "Olesno", "g_pow": "oleski", "g_woj": "opolskie", "g_szer": 18.413528597153913, "g_dlug": 50.880602086145437, "g_uuid": "35953afe-f82b-48ca-9956-983fa0b54551", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 458754.633317172760144, 335019.426106094382703 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1608",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 156,
+                "JPT_KOD_JE": "1608",
+                "JPT_NAZWA_": "powiat oleski",
+                "id": "104#273",
+                "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "08R/10051",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Oleśnie\r\n",
+                "miejscowosc": "Olesno",
+                "ulica": " Klonowa ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": " Klonowa 1",
+                "telefon": "34 350 96 34",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Klonowa",
+                "g_miejsc": "Olesno",
+                "g_adr": "1",
+                "g_teryt": "1608033",
+                "g_gm": "Olesno",
+                "g_pow": "oleski",
+                "g_woj": "opolskie",
+                "g_szer": 18.413528597153913,
+                "g_dlug": 50.88060208614544,
+                "g_uuid": "35953afe-f82b-48ca-9956-983fa0b54551",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.413529999999824,
+                    50.88060000001377
+                ]
+            }
+        }
+    ]
 }

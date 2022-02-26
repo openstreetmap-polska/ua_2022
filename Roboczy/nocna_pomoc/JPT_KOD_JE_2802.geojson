@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2802",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 520, "JPT_KOD_JE": "2802", "JPT_NAZWA_": "powiat braniewski", "id": "104#442", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140003400", "swiadczeniodawca": "Powiatowe Centrum Medyczne Sp. z o. o. w Braniewie", "miejscowosc": "Braniewo", "ulica": "Moniuszki ", "numer_domu": "13", "adres_swiadczeniodawcy": "Moniuszki 13", "telefon": "55 620 84 73", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Moniuszki", "g_miejsc": "Braniewo", "g_adr": "13", "g_teryt": "2802011", "g_gm": "Braniewo", "g_pow": "braniewski", "g_woj": "warmińsko-mazurskie", "g_szer": 19.82900911636828, "g_dlug": 54.374716079675231, "g_uuid": "3204eedb-b9c4-40d9-9465-983d2bd6240e", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 553835.265652232104912, 723722.795133873820305 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2802",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 520,
+                "JPT_KOD_JE": "2802",
+                "JPT_NAZWA_": "powiat braniewski",
+                "id": "104#442",
+                "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ",
+                "kod_swiadczeniodawcy": "140003400",
+                "swiadczeniodawca": "Powiatowe Centrum Medyczne Sp. z o. o. w Braniewie",
+                "miejscowosc": "Braniewo",
+                "ulica": "Moniuszki ",
+                "numer_domu": "13",
+                "adres_swiadczeniodawcy": "Moniuszki 13",
+                "telefon": "55 620 84 73",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Moniuszki",
+                "g_miejsc": "Braniewo",
+                "g_adr": "13",
+                "g_teryt": "2802011",
+                "g_gm": "Braniewo",
+                "g_pow": "braniewski",
+                "g_woj": "warmińsko-mazurskie",
+                "g_szer": 19.82900911636828,
+                "g_dlug": 54.37471607967523,
+                "g_uuid": "3204eedb-b9c4-40d9-9465-983d2bd6240e",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.829010000000412,
+                    54.37472000001939
+                ]
+            }
+        }
+    ]
 }

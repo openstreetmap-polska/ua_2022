@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1017",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1017", "JPT_NAZWA_": "powiat wieluński", "id": 161, "ksiega": 391333, "id zoz": 480462, "id jednostki": "774566", "id komórki": 6803512, "regon": 31014300030, "kod jednostki": "01", "kod komórki": 24, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Wieluń - miasto", "ulica": "ul. Szpitalna", "budynek": "16", "lokal": "NULL", "kod": "98-300", "miejscowosc": "Wieluń", "teryt": 1017094, "kod simc": 976586, "kod ulicy": "22073", "lozka": 6, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-10-08" }, "geometry": { "type": "Point", "coordinates": [ 469660.7958, 371954.4595 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1017",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1017",
+                "JPT_NAZWA_": "powiat wieluński",
+                "id": 161,
+                "ksiega": 391333,
+                "id zoz": 480462,
+                "id jednostki": "774566",
+                "id komórki": 6803512,
+                "regon": 31014300030,
+                "kod jednostki": "01",
+                "kod komórki": 24,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Wieluń - miasto",
+                "ulica": "ul. Szpitalna",
+                "budynek": "16",
+                "lokal": "NULL",
+                "kod": "98-300",
+                "miejscowosc": "Wieluń",
+                "teryt": 1017094,
+                "kod simc": 976586,
+                "kod ulicy": "22073",
+                "lozka": 6,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-10-08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.565502562581326,
+                    51.21350188369663
+                ]
+            }
+        }
+    ]
 }

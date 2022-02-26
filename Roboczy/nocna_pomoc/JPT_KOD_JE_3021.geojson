@@ -1,10 +1,129 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3021",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 97, "JPT_KOD_JE": "3021", "JPT_NAZWA_": "powiat poznański", "id": "104#499", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150007611", "swiadczeniodawca": "Przychodnia  Lekarska Multi-Medic", "miejscowosc": "Swarzędz ", "ulica": "Cieszkowskiego", "numer_domu": "100\/102", "adres_swiadczeniodawcy": "Cieszkowskiego 100\/102", "telefon": "61 817 46 71", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 17.084121691824961, "g_dlug": 52.420056713654191, "g_uuid": "98ed9b8a-d53f-46de-8637-4a156041a0a4", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 369753.725856900739018, 507743.177619560621679 ] } },
-{ "type": "Feature", "properties": { "gid": 405, "JPT_KOD_JE": "3021", "JPT_NAZWA_": "powiat poznański", "id": "104#472", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150005092", "swiadczeniodawca": "Niepubliczny Zakład Opiekli Zdrowotnej \"Prima-Med\" Zespół Poradni Specjalistycznych", "miejscowosc": "Dopiewo", "ulica": "Łąkowa ", "numer_domu": "2", "adres_swiadczeniodawcy": "Łąkowa 2", "telefon": "61 863 87 60", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Łąkowa", "g_miejsc": "Dopiewo", "g_adr": "2", "g_teryt": "3021052", "g_gm": "Dopiewo", "g_pow": "poznański", "g_woj": "wielkopolskie", "g_szer": 16.683074058713657, "g_dlug": 52.357620336357122, "g_uuid": "8cd8348e-e451-49f4-88e6-7eae5f590969", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 342270.3319347796496, 501599.885555455461144 ] } },
-{ "type": "Feature", "properties": { "gid": 413, "JPT_KOD_JE": "3021", "JPT_NAZWA_": "powiat poznański", "id": "104#497", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150005403", "swiadczeniodawca": "Szpital w Puszczykowie im. Prof. S.T. Dąbrowskiego S.A.", "miejscowosc": "Puszczykowo", "ulica": "J.I. Kraszewskiego ", "numer_domu": "11", "adres_swiadczeniodawcy": "J.I. Kraszewskiego 11", "telefon": "61 898 42 40", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 16.869329621428591, "g_dlug": 52.263526591378657, "g_uuid": "cc382edd-da26-4f3b-a32c-5de6c8731e39", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 354640.837921842816286, 490749.488197376020253 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3021",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 97,
+                "JPT_KOD_JE": "3021",
+                "JPT_NAZWA_": "powiat poznański",
+                "id": "104#499",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150007611",
+                "swiadczeniodawca": "Przychodnia  Lekarska Multi-Medic",
+                "miejscowosc": "Swarzędz ",
+                "ulica": "Cieszkowskiego",
+                "numer_domu": "100/102",
+                "adres_swiadczeniodawcy": "Cieszkowskiego 100/102",
+                "telefon": "61 817 46 71",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 17.08412169182496,
+                "g_dlug": 52.42005671365419,
+                "g_uuid": "98ed9b8a-d53f-46de-8637-4a156041a0a4",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.08411999999764,
+                    52.420060000016136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 405,
+                "JPT_KOD_JE": "3021",
+                "JPT_NAZWA_": "powiat poznański",
+                "id": "104#472",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150005092",
+                "swiadczeniodawca": "Niepubliczny Zakład Opiekli Zdrowotnej \"Prima-Med\" Zespół Poradni Specjalistycznych",
+                "miejscowosc": "Dopiewo",
+                "ulica": "Łąkowa ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Łąkowa 2",
+                "telefon": "61 863 87 60",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Łąkowa",
+                "g_miejsc": "Dopiewo",
+                "g_adr": "2",
+                "g_teryt": "3021052",
+                "g_gm": "Dopiewo",
+                "g_pow": "poznański",
+                "g_woj": "wielkopolskie",
+                "g_szer": 16.683074058713657,
+                "g_dlug": 52.35762033635712,
+                "g_uuid": "8cd8348e-e451-49f4-88e6-7eae5f590969",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.683069999994824,
+                    52.357620000016055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 413,
+                "JPT_KOD_JE": "3021",
+                "JPT_NAZWA_": "powiat poznański",
+                "id": "104#497",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150005403",
+                "swiadczeniodawca": "Szpital w Puszczykowie im. Prof. S.T. Dąbrowskiego S.A.",
+                "miejscowosc": "Puszczykowo",
+                "ulica": "J.I. Kraszewskiego ",
+                "numer_domu": "11",
+                "adres_swiadczeniodawcy": "J.I. Kraszewskiego 11",
+                "telefon": "61 898 42 40",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 16.86932962142859,
+                "g_dlug": 52.26352659137866,
+                "g_uuid": "cc382edd-da26-4f3b-a32c-5de6c8731e39",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.869329999996356,
+                    52.2635300000159
+                ]
+            }
+        }
+    ]
 }

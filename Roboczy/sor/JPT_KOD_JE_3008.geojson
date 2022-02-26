@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3008",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3008", "JPT_NAZWA_": "powiat kępiński", "id": 202, "ksiega": 391972, "id zoz": 481834, "id jednostki": "778065", "id komórki": 6846434, "regon": 30854800020, "kod jednostki": "01", "kod komórki": 9, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny  Oddział Ratunkowy", "teryt opis": "Kępno - miasto", "ulica": "ul. Szpitalna", "budynek": "7.", "lokal": "NULL", "kod": "63-600", "miejscowosc": "Kępno", "teryt": 3008034, "kod simc": 936871, "kod ulicy": "22073", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-02-23" }, "geometry": { "type": "Point", "coordinates": [ 429144.4745, 379392.513900001009461 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3008",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3008",
+                "JPT_NAZWA_": "powiat kępiński",
+                "id": 202,
+                "ksiega": 391972,
+                "id zoz": 481834,
+                "id jednostki": "778065",
+                "id komórki": 6846434,
+                "regon": 30854800020,
+                "kod jednostki": "01",
+                "kod komórki": 9,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny  Oddział Ratunkowy",
+                "teryt opis": "Kępno - miasto",
+                "ulica": "ul. Szpitalna",
+                "budynek": "7.",
+                "lokal": "NULL",
+                "kod": "63-600",
+                "miejscowosc": "Kępno",
+                "teryt": 3008034,
+                "kod simc": 936871,
+                "kod ulicy": "22073",
+                "lozka": 6,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-02-23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.98385203854009,
+                    51.27680297366627
+                ]
+            }
+        }
+    ]
 }

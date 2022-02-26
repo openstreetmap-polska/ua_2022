@@ -1,10 +1,93 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2413",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 520, "JPT_KOD_JE": "2413", "JPT_NAZWA_": "powiat tarnogórski", "id": 495, "wojewodztwo": "śląskie", "miasto": "tarnogórski", "powiat": "Tarnowskie Góry", "adres": "Bytomska 22", "miejscowosc": "Tarnowskie Góry", "kod": null, "nazwa": "Zakon Posługujących Chorym Ojcowie Kamilianie", "poziom": "I stopień", "www": "http:\/\/www.podmiot.kamilianie.eu", "telefon": "32 384 97 56", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 490278.5, 285687.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 521, "JPT_KOD_JE": "2413", "JPT_NAZWA_": "powiat tarnogórski", "id": 454, "wojewodztwo": "śląskie", "miasto": "tarnogórski", "powiat": "Tarnowskie Góry", "adres": "Lipowa 3", "miejscowosc": "Tarnowskie Góry", "kod": null, "nazwa": "Niepubliczny Zakład Opieki Zdrowotnej Zakład Pulmonologii Spółka z o.o", "poziom": "Szpital pulmonologiczny", "www": "http:\/\/www.pulmo.pl", "telefon": "32 285 44 30", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 489872.8, 285818.9 ] } },
-{ "type": "Feature", "properties": { "_uid_": 522, "JPT_KOD_JE": "2413", "JPT_NAZWA_": "powiat tarnogórski", "id": 481, "wojewodztwo": "śląskie", "miasto": "tarnogórski", "powiat": "Tarnowskie Góry", "adres": "Pyskowicka 47-51", "miejscowosc": "Tarnowskie Góry", "kod": null, "nazwa": "Wielospecjalistyczny Szpital Powiatowy Spółka Akcyjna", "poziom": "II stopień", "www": "http:\/\/www.wspsa.pl", "telefon": "32 390 82 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 486218.2, 285873.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2413",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 520,
+                "JPT_KOD_JE": "2413",
+                "JPT_NAZWA_": "powiat tarnogórski",
+                "id": 495,
+                "wojewodztwo": "śląskie",
+                "miasto": "tarnogórski",
+                "powiat": "Tarnowskie Góry",
+                "adres": "Bytomska 22",
+                "miejscowosc": "Tarnowskie Góry",
+                "kod": null,
+                "nazwa": "Zakon Posługujących Chorym Ojcowie Kamilianie",
+                "poziom": "I stopień",
+                "www": "http://www.podmiot.kamilianie.eu",
+                "telefon": "32 384 97 56",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.86306246595119,
+                    50.438211607008164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 521,
+                "JPT_KOD_JE": "2413",
+                "JPT_NAZWA_": "powiat tarnogórski",
+                "id": 454,
+                "wojewodztwo": "śląskie",
+                "miasto": "tarnogórski",
+                "powiat": "Tarnowskie Góry",
+                "adres": "Lipowa 3",
+                "miejscowosc": "Tarnowskie Góry",
+                "kod": null,
+                "nazwa": "Niepubliczny Zakład Opieki Zdrowotnej Zakład Pulmonologii Spółka z o.o",
+                "poziom": "Szpital pulmonologiczny",
+                "www": "http://www.pulmo.pl",
+                "telefon": "32 285 44 30",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.857344207625474,
+                    50.439391319955305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 522,
+                "JPT_KOD_JE": "2413",
+                "JPT_NAZWA_": "powiat tarnogórski",
+                "id": 481,
+                "wojewodztwo": "śląskie",
+                "miasto": "tarnogórski",
+                "powiat": "Tarnowskie Góry",
+                "adres": "Pyskowicka 47-51",
+                "miejscowosc": "Tarnowskie Góry",
+                "kod": null,
+                "nazwa": "Wielospecjalistyczny Szpital Powiatowy Spółka Akcyjna",
+                "poziom": "II stopień",
+                "www": "http://www.wspsa.pl",
+                "telefon": "32 390 82 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.805862298162594,
+                    50.43981160590924
+                ]
+            }
+        }
+    ]
 }

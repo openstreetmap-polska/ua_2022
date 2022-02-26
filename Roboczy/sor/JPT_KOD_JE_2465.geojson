@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2465",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2465", "JPT_NAZWA_": "powiat Dąbrowa Górnicza", "id": 196, "ksiega": 391900, "id zoz": 481702, "id jednostki": "777749", "id komórki": 6841656, "regon": 31007700033, "kod jednostki": "01", "kod komórki": 67, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy (SOR)", "teryt opis": "Dąbrowa Górnicza - gmina miejska", "ulica": "ul. Szpitalna", "budynek": "13", "lokal": "NULL", "kod": "41-300", "miejscowosc": "Dąbrowa Górnicza", "teryt": 2465011, "kod simc": 939473, "kod ulicy": "22073", "lozka": 3, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-01-15" }, "geometry": { "type": "Point", "coordinates": [ 512576.862199999974, 272568.5013 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2465",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2465",
+                "JPT_NAZWA_": "powiat Dąbrowa Górnicza",
+                "id": 196,
+                "ksiega": 391900,
+                "id zoz": 481702,
+                "id jednostki": "777749",
+                "id komórki": 6841656,
+                "regon": 31007700033,
+                "kod jednostki": "01",
+                "kod komórki": 67,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy (SOR)",
+                "teryt opis": "Dąbrowa Górnicza - gmina miejska",
+                "ulica": "ul. Szpitalna",
+                "budynek": "13",
+                "lokal": "NULL",
+                "kod": "41-300",
+                "miejscowosc": "Dąbrowa Górnicza",
+                "teryt": 2465011,
+                "kod simc": 939473,
+                "kod ulicy": "22073",
+                "lozka": 3,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-01-15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.17671910929001,
+                    50.320141733137184
+                ]
+            }
+        }
+    ]
 }

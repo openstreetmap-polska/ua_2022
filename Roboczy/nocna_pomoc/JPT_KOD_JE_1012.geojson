@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1012",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 130, "JPT_KOD_JE": "1012", "JPT_NAZWA_": "powiat radomszczański", "id": "104#127", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "140043", "swiadczeniodawca": "  Szpital Powiatowy w Radomsku  ", "miejscowosc": "Radomsko \r\n                                          ", "ulica": "Jagiellońska ", "numer_domu": "36", "adres_swiadczeniodawcy": "Jagiellońska 36", "telefon": "44 681 08 22", "dodatkowe_miejsce": " Częstochowska 25; Przedbórz", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 19.458616413463751, "g_dlug": 51.05724916286384, "g_uuid": "1ad2e9bb-b017-4e91-bdef-3bc7cea23aa7", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 532131.844129259465262, 354593.820955133996904 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1012",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 130,
+                "JPT_KOD_JE": "1012",
+                "JPT_NAZWA_": "powiat radomszczański",
+                "id": "104#127",
+                "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ",
+                "kod_swiadczeniodawcy": "140043",
+                "swiadczeniodawca": "  Szpital Powiatowy w Radomsku  ",
+                "miejscowosc": "Radomsko \r\n                                          ",
+                "ulica": "Jagiellońska ",
+                "numer_domu": "36",
+                "adres_swiadczeniodawcy": "Jagiellońska 36",
+                "telefon": "44 681 08 22",
+                "dodatkowe_miejsce": " Częstochowska 25; Przedbórz",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 19.45861641346375,
+                "g_dlug": 51.05724916286384,
+                "g_uuid": "1ad2e9bb-b017-4e91-bdef-3bc7cea23aa7",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.45862000000014,
+                    51.05725000001404
+                ]
+            }
+        }
+    ]
 }

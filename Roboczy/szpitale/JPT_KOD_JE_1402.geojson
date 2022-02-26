@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1402",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 525, "JPT_KOD_JE": "1402", "JPT_NAZWA_": "powiat ciechanowski", "id": 226, "wojewodztwo": "mazowieckie", "miasto": "CIECHANÓW", "powiat": "CIECHANOWSKI", "adres": "POWST. WIELKOPOLSKICH 2", "miejscowosc": "CIECHANÓW ", "kod": null, "nazwa": "SPECJALISTYCZNY SZPITAL WOJEWÓDZKI W CIECHANOWIE", "poziom": "III stopień", "www": "http:\/\/www.szpitalciechanow.com.pl", "telefon": "23 672 31 27", "e-mail": "sekretariat@szpitalciechanow.com.pl" }, "geometry": { "type": "Point", "coordinates": [ 609934.1, 558805.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1402",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 525,
+                "JPT_KOD_JE": "1402",
+                "JPT_NAZWA_": "powiat ciechanowski",
+                "id": 226,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "CIECHANÓW",
+                "powiat": "CIECHANOWSKI",
+                "adres": "POWST. WIELKOPOLSKICH 2",
+                "miejscowosc": "CIECHANÓW ",
+                "kod": null,
+                "nazwa": "SPECJALISTYCZNY SZPITAL WOJEWÓDZKI W CIECHANOWIE",
+                "poziom": "III stopień",
+                "www": "http://www.szpitalciechanow.com.pl",
+                "telefon": "23 672 31 27",
+                "e-mail": "sekretariat@szpitalciechanow.com.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.634266081538417,
+                    52.8835192844846
+                ]
+            }
+        }
+    ]
 }

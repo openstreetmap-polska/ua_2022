@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0419",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0419", "JPT_NAZWA_": "powiat żniński", "id": 31, "ksiega": 382650, "id zoz": 463686, "id jednostki": "736654", "id komórki": 6362340, "regon": 9321330900021, "kod jednostki": "03", "kod komórki": 25, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy z Izbą Przyjęć", "teryt opis": "Żnin - miasto", "ulica": "ul. Szpitalna", "budynek": "30", "lokal": "NULL", "kod": "88-400", "miejscowosc": "Żnin", "teryt": 419064, "kod simc": 929865, "kod ulicy": "22073", "lozka": 8, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2005-01-01" }, "geometry": { "type": "Point", "coordinates": [ 413642.3703, 554241.642499999958 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0419",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0419",
+                "JPT_NAZWA_": "powiat żniński",
+                "id": 31,
+                "ksiega": 382650,
+                "id zoz": 463686,
+                "id jednostki": "736654",
+                "id komórki": 6362340,
+                "regon": 9321330900021,
+                "kod jednostki": "03",
+                "kod komórki": 25,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy z Izbą Przyjęć",
+                "teryt opis": "Żnin - miasto",
+                "ulica": "ul. Szpitalna",
+                "budynek": "30",
+                "lokal": "NULL",
+                "kod": "88-400",
+                "miejscowosc": "Żnin",
+                "teryt": 419064,
+                "kod simc": 929865,
+                "kod ulicy": "22073",
+                "lozka": 8,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2005-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.717320293000913,
+                    52.84679918130602
+                ]
+            }
+        }
+    ]
 }

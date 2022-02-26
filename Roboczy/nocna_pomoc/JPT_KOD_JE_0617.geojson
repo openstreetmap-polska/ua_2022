@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0617",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 120, "JPT_KOD_JE": "0617", "JPT_NAZWA_": "powiat świdnicki", "id": "104#87", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000086", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Świdniku", "miejscowosc": "Świdnik", "ulica": "Bolesława Leśmiana ", "numer_domu": "4", "adres_swiadczeniodawcy": "Bolesława Leśmiana 4", "telefon": "81 751 40 02; 81 751 56 29; 81 751 57 36; 885 105 755; 885 105 655", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Bolesława Leśmiana", "g_miejsc": "Świdnik", "g_adr": "4", "g_teryt": "0617011", "g_gm": "Świdnik", "g_pow": "świdnicki", "g_woj": "lubelskie", "g_szer": 22.698238408027002, "g_dlug": 51.220971584275013, "g_uuid": "081822f1-7111-4bf1-a829-6f45dd682b12", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 758153.383665973437019, 379194.017018476501107 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0617",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 120,
+                "JPT_KOD_JE": "0617",
+                "JPT_NAZWA_": "powiat świdnicki",
+                "id": "104#87",
+                "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ",
+                "kod_swiadczeniodawcy": "30000086",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Świdniku",
+                "miejscowosc": "Świdnik",
+                "ulica": "Bolesława Leśmiana ",
+                "numer_domu": "4",
+                "adres_swiadczeniodawcy": "Bolesława Leśmiana 4",
+                "telefon": "81 751 40 02; 81 751 56 29; 81 751 57 36; 885 105 755; 885 105 655",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Bolesława Leśmiana",
+                "g_miejsc": "Świdnik",
+                "g_adr": "4",
+                "g_teryt": "0617011",
+                "g_gm": "Świdnik",
+                "g_pow": "świdnicki",
+                "g_woj": "lubelskie",
+                "g_szer": 22.698238408027002,
+                "g_dlug": 51.22097158427501,
+                "g_uuid": "081822f1-7111-4bf1-a829-6f45dd682b12",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.69824000005453,
+                    51.220970000015015
+                ]
+            }
+        }
+    ]
 }

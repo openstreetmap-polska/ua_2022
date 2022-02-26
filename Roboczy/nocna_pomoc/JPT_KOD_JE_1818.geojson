@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1818",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 57, "JPT_KOD_JE": "1818", "JPT_NAZWA_": "powiat stalowowolski", "id": "104#302", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010021", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów  Opieki Zdrowotnej Powiotowy Szpital Specjalistyczny w Stalowej Woli", "miejscowosc": "Stalowa Wola", "ulica": "Staszica ", "numer_domu": "4", "adres_swiadczeniodawcy": "Staszica 4", "telefon": "15 843 32 40, \r\n501 847 549, \r\n501 847 546", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Staszica", "g_miejsc": "Stalowa Wola", "g_adr": "4", "g_teryt": "1818011", "g_gm": "Stalowa Wola", "g_pow": "stalowowolski", "g_woj": "podkarpackie", "g_szer": 22.068824898972021, "g_dlug": 50.563298190673784, "g_uuid": "fc80e6e7-089f-48dc-926c-418898a9c5fd", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 717267.728399940999225, 304078.738705241121352 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1818",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 57,
+                "JPT_KOD_JE": "1818",
+                "JPT_NAZWA_": "powiat stalowowolski",
+                "id": "104#302",
+                "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ",
+                "kod_swiadczeniodawcy": "09R/010021",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów  Opieki Zdrowotnej Powiotowy Szpital Specjalistyczny w Stalowej Woli",
+                "miejscowosc": "Stalowa Wola",
+                "ulica": "Staszica ",
+                "numer_domu": "4",
+                "adres_swiadczeniodawcy": "Staszica 4",
+                "telefon": "15 843 32 40, \r\n501 847 549, \r\n501 847 546",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Staszica",
+                "g_miejsc": "Stalowa Wola",
+                "g_adr": "4",
+                "g_teryt": "1818011",
+                "g_gm": "Stalowa Wola",
+                "g_pow": "stalowowolski",
+                "g_woj": "podkarpackie",
+                "g_szer": 22.06882489897202,
+                "g_dlug": 50.563298190673784,
+                "g_uuid": "fc80e6e7-089f-48dc-926c-418898a9c5fd",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.068820000023177,
+                    50.56330000001346
+                ]
+            }
+        }
+    ]
 }

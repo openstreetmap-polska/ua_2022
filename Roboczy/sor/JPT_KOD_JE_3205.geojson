@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3205",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3205", "JPT_NAZWA_": "powiat gryficki", "id": 209, "ksiega": 392163, "id zoz": 482198, "id jednostki": "778953", "id komórki": 6855481, "regon": 31028400129, "kod jednostki": "01", "kod komórki": 17, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Gryfice - miasto", "ulica": "ul. Niechorska", "budynek": "27", "lokal": "NULL", "kod": "72-300", "miejscowosc": "GRYFICE", "teryt": 3205024, "kod simc": 979053, "kod ulicy": "14118", "lozka": 10, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-01-01" }, "geometry": { "type": "Point", "coordinates": [ 248913.0498, 680085.4958 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3205",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3205",
+                "JPT_NAZWA_": "powiat gryficki",
+                "id": 209,
+                "ksiega": 392163,
+                "id zoz": 482198,
+                "id jednostki": "778953",
+                "id komórki": 6855481,
+                "regon": 31028400129,
+                "kod jednostki": "01",
+                "kod komórki": 17,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Gryfice - miasto",
+                "ulica": "ul. Niechorska",
+                "budynek": "27",
+                "lokal": "NULL",
+                "kod": "72-300",
+                "miejscowosc": "GRYFICE",
+                "teryt": 3205024,
+                "kod simc": 979053,
+                "kod ulicy": "14118",
+                "lozka": 10,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.174423495803985,
+                    53.92430159999884
+                ]
+            }
+        }
+    ]
 }

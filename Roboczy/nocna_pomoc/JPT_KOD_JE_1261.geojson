@@ -1,17 +1,402 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1261",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 35, "JPT_KOD_JE": "1261", "JPT_NAZWA_": "powiat Kraków", "id": "104#149", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100128", "swiadczeniodawca": "Szpital Specjalistyczny im.  Stefana Żeromskiego Samodzielny Publiczny Zakład Opieki Zdrowotnej w Krakowie ", "miejscowosc": "Kraków", "ulica": "Na Skarpie ", "numer_domu": "66", "adres_swiadczeniodawcy": "Na Skarpie 66", "telefon": "12 622 95 76; 12 622 95 45", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Osiedle  Na Skarpie", "g_miejsc": "Kraków", "g_adr": "66", "g_teryt": "1261011", "g_gm": "Kraków", "g_pow": "Kraków", "g_woj": "małopolskie", "g_szer": 20.046162529436117, "g_dlug": 50.065775728860679, "g_uuid": "2808540c-c290-4616-8ff3-0521a66c6c55", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 574849.681582457735203, 244804.01419985294342 ] } },
-{ "type": "Feature", "properties": { "gid": 136, "JPT_KOD_JE": "1261", "JPT_NAZWA_": "powiat Kraków", "id": "104#157", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100005", "swiadczeniodawca": "Specjalistyczny Szpital im. J. Dietla w Krakowie", "miejscowosc": "Kraków ", "ulica": "Ferdynanda Focha ", "numer_domu": "33", "adres_swiadczeniodawcy": "al. Marsz. Ferdynanda Focha 33", "telefon": "12 68 76 400; 12 68 76 442; 12 68 76 479; 12 68 76 492; ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 19.913736851419117, "g_dlug": 50.057491531648026, "g_uuid": "1cfda653-40c2-41dd-b665-ef338bd88e78", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 565386.837329298141412, 243758.32050116546452 ] } },
-{ "type": "Feature", "properties": { "gid": 231, "JPT_KOD_JE": "1261", "JPT_NAZWA_": "powiat Kraków", "id": "104#150", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/200324", "swiadczeniodawca": "Szpital Specjalistyczny im.  Ludwika Rydygiera w Krakowie Sp. z o.o. ", "miejscowosc": "Kraków", "ulica": "os. Złotej Jesieni ", "numer_domu": "1", "adres_swiadczeniodawcy": "os. Złotej Jesieni 1", "telefon": "12 64 68 792", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Osiedle  Złotej Jesieni", "g_miejsc": "Kraków", "g_adr": "1", "g_teryt": "1261011", "g_gm": "Kraków", "g_pow": "Kraków", "g_woj": "małopolskie", "g_szer": 20.01926599423351, "g_dlug": 50.09205533959576, "g_uuid": "fab900db-6f01-4634-8c47-f2528a9d58c4", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 572885.960169658064842, 247698.434712532907724 ] } },
-{ "type": "Feature", "properties": { "gid": 349, "JPT_KOD_JE": "1261", "JPT_NAZWA_": "powiat Kraków", "id": "104#155", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100009", "swiadczeniodawca": "Szpital Miejski Specjalistyczny im. Gabriela Narutowicza w Krakowie", "miejscowosc": "Kraków", "ulica": "Prądnicka ", "numer_domu": "35", "adres_swiadczeniodawcy": "Prądnicka 35", "telefon": "12 257 86 06", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Prądnicka", "g_miejsc": "Kraków", "g_adr": "35", "g_teryt": "1261011", "g_gm": "Kraków", "g_pow": "Kraków", "g_woj": "małopolskie", "g_szer": 19.938043817374282, "g_dlug": 50.083011247189042, "g_uuid": "5fcab0f3-dd4d-400a-af0b-66ecf126157e", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 567090.09342053940054, 246616.412946111522615 ] } },
-{ "type": "Feature", "properties": { "gid": 447, "JPT_KOD_JE": "1261", "JPT_NAZWA_": "powiat Kraków", "id": "104#148", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100001", "swiadczeniodawca": "Wojewódzki Specjalistyczny Szpital Dziecięcy im. św. Ludwika w Krakowie ", "miejscowosc": "Kraków", "ulica": "Strzelecka", "numer_domu": "2a", "adres_swiadczeniodawcy": "Strzelecka 2a", "telefon": "12 619 86 87; 12 619 86 61", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Strzelecka", "g_miejsc": "Kraków", "g_adr": "2A", "g_teryt": "1261011", "g_gm": "Kraków", "g_pow": "Kraków", "g_woj": "małopolskie", "g_szer": 19.950084475820933, "g_dlug": 50.063441936388216, "g_uuid": "3f167fb7-5d68-4cb1-aa85-8a34a32f8cb0", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 567978.86219390516635, 244452.091798848472536 ] } },
-{ "type": "Feature", "properties": { "gid": 448, "JPT_KOD_JE": "1261", "JPT_NAZWA_": "powiat Kraków", "id": "104#151", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/200028", "swiadczeniodawca": "SCANMED SA. - Szpital św. Rafała w Krakowie", "miejscowosc": "Kraków", "ulica": "Armii Krajowej ", "numer_domu": "5", "adres_swiadczeniodawcy": "Armii Krajowej 5", "telefon": "12 370 27 35", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Armii Krajowej", "g_miejsc": "Kraków", "g_adr": "5", "g_teryt": "1261011", "g_gm": "Kraków", "g_pow": "Kraków", "g_woj": "małopolskie", "g_szer": 19.90064277091399, "g_dlug": 50.070008507298681, "g_uuid": "8a996438-e0c2-4aab-b3d6-dd00098ba22a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 564432.646568944328465, 245138.538324311375618 ] } },
-{ "type": "Feature", "properties": { "gid": 449, "JPT_KOD_JE": "1261", "JPT_NAZWA_": "powiat Kraków", "id": "104#152", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/200028", "swiadczeniodawca": "SCANMED SA. - Szpital św. Rafała w Krakowie", "miejscowosc": "Kraków", "ulica": "Bochenka ", "numer_domu": "12", "adres_swiadczeniodawcy": "Bochenka 12", "telefon": "12 385 58 05", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Bochenka Adama", "g_miejsc": "Kraków", "g_adr": "12", "g_teryt": "1261011", "g_gm": "Kraków", "g_pow": "Kraków", "g_woj": "małopolskie", "g_szer": 19.975436574661217, "g_dlug": 50.010908105014046, "g_uuid": "82d7a616-b510-4696-9ce0-6f680e17f27b", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 569869.551501062815078, 238636.808825640939176 ] } },
-{ "type": "Feature", "properties": { "gid": 450, "JPT_KOD_JE": "1261", "JPT_NAZWA_": "powiat Kraków", "id": "104#153", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/200379", "swiadczeniodawca": "NZOZ Kraków - Południe", "miejscowosc": "Kraków", "ulica": "Kutrzeby ", "numer_domu": "4", "adres_swiadczeniodawcy": "Kutrzeby 4", "telefon": "12 656 10 07; 12 656 00 55; 12 265 46 02", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Generała Kutrzeby Tadeusza", "g_miejsc": "Kraków", "g_adr": "4", "g_teryt": "1261011", "g_gm": "Kraków", "g_pow": "Kraków", "g_woj": "małopolskie", "g_szer": 19.941164696177939, "g_dlug": 50.040750298156553, "g_uuid": "65f2ad98-b65f-4a0c-a23a-a84820959062", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 567372.402249341947027, 241922.030327057465911 ] } },
-{ "type": "Feature", "properties": { "gid": 451, "JPT_KOD_JE": "1261", "JPT_NAZWA_": "powiat Kraków", "id": "104#154", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/200379", "swiadczeniodawca": "NZOZ Kraków - Południe", "miejscowosc": "Kraków", "ulica": "Szwedzka ", "numer_domu": "27", "adres_swiadczeniodawcy": "Szwedzka 27", "telefon": "12 266 02 70; 12 265 49 52 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szwedzka", "g_miejsc": "Kraków", "g_adr": "27", "g_teryt": "1261011", "g_gm": "Kraków", "g_pow": "Kraków", "g_woj": "małopolskie", "g_szer": 19.924386047913316, "g_dlug": 50.045872412729224, "g_uuid": "2292a324-1982-4da4-be47-dd83981324ae", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 566164.911190473590977, 242476.13452488835901 ] } },
-{ "type": "Feature", "properties": { "gid": 452, "JPT_KOD_JE": "1261", "JPT_NAZWA_": "powiat Kraków", "id": "104#156", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100010", "swiadczeniodawca": "Krakowski Szpital Specjalistyczny im.  Jana Pawła II w Krakowie ", "miejscowosc": "Kraków", "ulica": "Prądnicka ", "numer_domu": "80", "adres_swiadczeniodawcy": "Prądnicka 80", "telefon": "12 614 28 88", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Prądnicka", "g_miejsc": "Kraków", "g_adr": "80", "g_teryt": "1261011", "g_gm": "Kraków", "g_pow": "Kraków", "g_woj": "małopolskie", "g_szer": 19.938799246959945, "g_dlug": 50.090192776892721, "g_uuid": "6444b262-e99a-4093-93e9-5b0f44a5ba2c", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 567134.418329305946827, 247415.154624340124428 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1261",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 35,
+                "JPT_KOD_JE": "1261",
+                "JPT_NAZWA_": "powiat Kraków",
+                "id": "104#149",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/100128",
+                "swiadczeniodawca": "Szpital Specjalistyczny im.  Stefana Żeromskiego Samodzielny Publiczny Zakład Opieki Zdrowotnej w Krakowie ",
+                "miejscowosc": "Kraków",
+                "ulica": "Na Skarpie ",
+                "numer_domu": "66",
+                "adres_swiadczeniodawcy": "Na Skarpie 66",
+                "telefon": "12 622 95 76; 12 622 95 45",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Osiedle  Na Skarpie",
+                "g_miejsc": "Kraków",
+                "g_adr": "66",
+                "g_teryt": "1261011",
+                "g_gm": "Kraków",
+                "g_pow": "Kraków",
+                "g_woj": "małopolskie",
+                "g_szer": 20.046162529436117,
+                "g_dlug": 50.06577572886068,
+                "g_uuid": "2808540c-c290-4616-8ff3-0521a66c6c55",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.046160000000377,
+                    50.06578000001259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 136,
+                "JPT_KOD_JE": "1261",
+                "JPT_NAZWA_": "powiat Kraków",
+                "id": "104#157",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/100005",
+                "swiadczeniodawca": "Specjalistyczny Szpital im. J. Dietla w Krakowie",
+                "miejscowosc": "Kraków ",
+                "ulica": "Ferdynanda Focha ",
+                "numer_domu": "33",
+                "adres_swiadczeniodawcy": "al. Marsz. Ferdynanda Focha 33",
+                "telefon": "12 68 76 400; 12 68 76 442; 12 68 76 479; 12 68 76 492; ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 19.913736851419117,
+                "g_dlug": 50.057491531648026,
+                "g_uuid": "1cfda653-40c2-41dd-b665-ef338bd88e78",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.91374000000029,
+                    50.0574900000126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 231,
+                "JPT_KOD_JE": "1261",
+                "JPT_NAZWA_": "powiat Kraków",
+                "id": "104#150",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/200324",
+                "swiadczeniodawca": "Szpital Specjalistyczny im.  Ludwika Rydygiera w Krakowie Sp. z o.o. ",
+                "miejscowosc": "Kraków",
+                "ulica": "os. Złotej Jesieni ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "os. Złotej Jesieni 1",
+                "telefon": "12 64 68 792",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Osiedle  Złotej Jesieni",
+                "g_miejsc": "Kraków",
+                "g_adr": "1",
+                "g_teryt": "1261011",
+                "g_gm": "Kraków",
+                "g_pow": "Kraków",
+                "g_woj": "małopolskie",
+                "g_szer": 20.01926599423351,
+                "g_dlug": 50.09205533959576,
+                "g_uuid": "fab900db-6f01-4634-8c47-f2528a9d58c4",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.019270000000358,
+                    50.09206000001264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 349,
+                "JPT_KOD_JE": "1261",
+                "JPT_NAZWA_": "powiat Kraków",
+                "id": "104#155",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/100009",
+                "swiadczeniodawca": "Szpital Miejski Specjalistyczny im. Gabriela Narutowicza w Krakowie",
+                "miejscowosc": "Kraków",
+                "ulica": "Prądnicka ",
+                "numer_domu": "35",
+                "adres_swiadczeniodawcy": "Prądnicka 35",
+                "telefon": "12 257 86 06",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Prądnicka",
+                "g_miejsc": "Kraków",
+                "g_adr": "35",
+                "g_teryt": "1261011",
+                "g_gm": "Kraków",
+                "g_pow": "Kraków",
+                "g_woj": "małopolskie",
+                "g_szer": 19.938043817374282,
+                "g_dlug": 50.08301124718904,
+                "g_uuid": "5fcab0f3-dd4d-400a-af0b-66ecf126157e",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.938040000000306,
+                    50.083010000012614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 447,
+                "JPT_KOD_JE": "1261",
+                "JPT_NAZWA_": "powiat Kraków",
+                "id": "104#148",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/100001",
+                "swiadczeniodawca": "Wojewódzki Specjalistyczny Szpital Dziecięcy im. św. Ludwika w Krakowie ",
+                "miejscowosc": "Kraków",
+                "ulica": "Strzelecka",
+                "numer_domu": "2a",
+                "adres_swiadczeniodawcy": "Strzelecka 2a",
+                "telefon": "12 619 86 87; 12 619 86 61",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Strzelecka",
+                "g_miejsc": "Kraków",
+                "g_adr": "2A",
+                "g_teryt": "1261011",
+                "g_gm": "Kraków",
+                "g_pow": "Kraków",
+                "g_woj": "małopolskie",
+                "g_szer": 19.950084475820933,
+                "g_dlug": 50.063441936388216,
+                "g_uuid": "3f167fb7-5d68-4cb1-aa85-8a34a32f8cb0",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.950080000000312,
+                    50.06344000001259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 448,
+                "JPT_KOD_JE": "1261",
+                "JPT_NAZWA_": "powiat Kraków",
+                "id": "104#151",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/200028",
+                "swiadczeniodawca": "SCANMED SA. - Szpital św. Rafała w Krakowie",
+                "miejscowosc": "Kraków",
+                "ulica": "Armii Krajowej ",
+                "numer_domu": "5",
+                "adres_swiadczeniodawcy": "Armii Krajowej 5",
+                "telefon": "12 370 27 35",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Armii Krajowej",
+                "g_miejsc": "Kraków",
+                "g_adr": "5",
+                "g_teryt": "1261011",
+                "g_gm": "Kraków",
+                "g_pow": "Kraków",
+                "g_woj": "małopolskie",
+                "g_szer": 19.90064277091399,
+                "g_dlug": 50.07000850729868,
+                "g_uuid": "8a996438-e0c2-4aab-b3d6-dd00098ba22a",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.90064000000028,
+                    50.07001000001261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 449,
+                "JPT_KOD_JE": "1261",
+                "JPT_NAZWA_": "powiat Kraków",
+                "id": "104#152",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/200028",
+                "swiadczeniodawca": "SCANMED SA. - Szpital św. Rafała w Krakowie",
+                "miejscowosc": "Kraków",
+                "ulica": "Bochenka ",
+                "numer_domu": "12",
+                "adres_swiadczeniodawcy": "Bochenka 12",
+                "telefon": "12 385 58 05",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Bochenka Adama",
+                "g_miejsc": "Kraków",
+                "g_adr": "12",
+                "g_teryt": "1261011",
+                "g_gm": "Kraków",
+                "g_pow": "Kraków",
+                "g_woj": "małopolskie",
+                "g_szer": 19.975436574661217,
+                "g_dlug": 50.010908105014046,
+                "g_uuid": "82d7a616-b510-4696-9ce0-6f680e17f27b",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.975440000000322,
+                    50.010910000012515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 450,
+                "JPT_KOD_JE": "1261",
+                "JPT_NAZWA_": "powiat Kraków",
+                "id": "104#153",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/200379",
+                "swiadczeniodawca": "NZOZ Kraków - Południe",
+                "miejscowosc": "Kraków",
+                "ulica": "Kutrzeby ",
+                "numer_domu": "4",
+                "adres_swiadczeniodawcy": "Kutrzeby 4",
+                "telefon": "12 656 10 07; 12 656 00 55; 12 265 46 02",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Generała Kutrzeby Tadeusza",
+                "g_miejsc": "Kraków",
+                "g_adr": "4",
+                "g_teryt": "1261011",
+                "g_gm": "Kraków",
+                "g_pow": "Kraków",
+                "g_woj": "małopolskie",
+                "g_szer": 19.94116469617794,
+                "g_dlug": 50.04075029815655,
+                "g_uuid": "65f2ad98-b65f-4a0c-a23a-a84820959062",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.941160000000306,
+                    50.04075000001257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 451,
+                "JPT_KOD_JE": "1261",
+                "JPT_NAZWA_": "powiat Kraków",
+                "id": "104#154",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/200379",
+                "swiadczeniodawca": "NZOZ Kraków - Południe",
+                "miejscowosc": "Kraków",
+                "ulica": "Szwedzka ",
+                "numer_domu": "27",
+                "adres_swiadczeniodawcy": "Szwedzka 27",
+                "telefon": "12 266 02 70; 12 265 49 52 ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szwedzka",
+                "g_miejsc": "Kraków",
+                "g_adr": "27",
+                "g_teryt": "1261011",
+                "g_gm": "Kraków",
+                "g_pow": "Kraków",
+                "g_woj": "małopolskie",
+                "g_szer": 19.924386047913316,
+                "g_dlug": 50.045872412729224,
+                "g_uuid": "2292a324-1982-4da4-be47-dd83981324ae",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.924390000000297,
+                    50.04587000001258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 452,
+                "JPT_KOD_JE": "1261",
+                "JPT_NAZWA_": "powiat Kraków",
+                "id": "104#156",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/100010",
+                "swiadczeniodawca": "Krakowski Szpital Specjalistyczny im.  Jana Pawła II w Krakowie ",
+                "miejscowosc": "Kraków",
+                "ulica": "Prądnicka ",
+                "numer_domu": "80",
+                "adres_swiadczeniodawcy": "Prądnicka 80",
+                "telefon": "12 614 28 88",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Prądnicka",
+                "g_miejsc": "Kraków",
+                "g_adr": "80",
+                "g_teryt": "1261011",
+                "g_gm": "Kraków",
+                "g_pow": "Kraków",
+                "g_woj": "małopolskie",
+                "g_szer": 19.938799246959945,
+                "g_dlug": 50.09019277689272,
+                "g_uuid": "6444b262-e99a-4093-93e9-5b0f44a5ba2c",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.938800000000306,
+                    50.09019000001262
+                ]
+            }
+        }
+    ]
 }

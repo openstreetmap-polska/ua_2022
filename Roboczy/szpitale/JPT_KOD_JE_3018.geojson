@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3018",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 32, "JPT_KOD_JE": "3018", "JPT_NAZWA_": "powiat ostrzeszowski", "id": 361, "wojewodztwo": "wielkopolskie", "miasto": "OSTRZESZÓW ", "powiat": "OSTRZESZOWSKI ", "adres": "ALEJA WOLNOŚCI 4 ", "miejscowosc": null, "kod": "63-500 ", "nazwa": "OSTRZESZOWSKIE CENTRUM ZDROWIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ ", "poziom": "I stopień", "www": "http:\/\/www.szpital.ostrzeszow.pl ", "telefon": "(062)50-32-236 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 425416.8, 395997.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3018",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 32,
+                "JPT_KOD_JE": "3018",
+                "JPT_NAZWA_": "powiat ostrzeszowski",
+                "id": 361,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "OSTRZESZÓW ",
+                "powiat": "OSTRZESZOWSKI ",
+                "adres": "ALEJA WOLNOŚCI 4 ",
+                "miejscowosc": null,
+                "kod": "63-500 ",
+                "nazwa": "OSTRZESZOWSKIE CENTRUM ZDROWIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ ",
+                "poziom": "I stopień",
+                "www": "http://www.szpital.ostrzeszow.pl ",
+                "telefon": "(062)50-32-236 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.92691993073902,
+                    51.425653291618296
+                ]
+            }
+        }
+    ]
 }

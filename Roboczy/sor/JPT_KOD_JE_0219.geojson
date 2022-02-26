@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0219",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0219", "JPT_NAZWA_": "powiat świdnicki", "id": 81, "ksiega": 388379, "id zoz": 475178, "id jednostki": "763036", "id komórki": 6678178, "regon": 31167400026, "kod jednostki": "01", "kod komórki": 115, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Świdnica - gmina miejska", "ulica": "ul. Leśna", "budynek": "27-29", "lokal": "NULL", "kod": "58-100", "miejscowosc": "Świdnica", "teryt": 219011, "kod simc": 984657, "kod ulicy": "10898", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-11-01" }, "geometry": { "type": "Point", "coordinates": [ 321758.993599999987, 332486.3738 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0219",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0219",
+                "JPT_NAZWA_": "powiat świdnicki",
+                "id": 81,
+                "ksiega": 388379,
+                "id zoz": 475178,
+                "id jednostki": "763036",
+                "id komórki": 6678178,
+                "regon": 31167400026,
+                "kod jednostki": "01",
+                "kod komórki": 115,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Świdnica - gmina miejska",
+                "ulica": "ul. Leśna",
+                "budynek": "27-29",
+                "lokal": "NULL",
+                "kod": "58-100",
+                "miejscowosc": "Świdnica",
+                "teryt": 219011,
+                "kod simc": 984657,
+                "kod ulicy": "10898",
+                "lozka": 6,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-11-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.468067748437758,
+                    50.83181323869653
+                ]
+            }
+        }
+    ]
 }

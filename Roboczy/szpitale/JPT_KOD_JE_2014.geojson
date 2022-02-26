@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2014",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 413, "JPT_KOD_JE": "2014", "JPT_NAZWA_": "powiat zambrowski", "id": 561, "wojewodztwo": "podlaskie", "miasto": "zambrowski", "powiat": "Zambrów", "adres": "Jana Pawła II 3", "miejscowosc": "Zambrów", "kod": "18-300", "nazwa": "SZPITAL POWIATOWY W ZAMBROWIE SP. Z O.O.", "poziom": "I stopień", "www": "http:\/\/www.szpital.powiatzambrowski.com", "telefon": "86 276 36 10", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 718271.0, 574129.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2014",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 413,
+                "JPT_KOD_JE": "2014",
+                "JPT_NAZWA_": "powiat zambrowski",
+                "id": 561,
+                "wojewodztwo": "podlaskie",
+                "miasto": "zambrowski",
+                "powiat": "Zambrów",
+                "adres": "Jana Pawła II 3",
+                "miejscowosc": "Zambrów",
+                "kod": "18-300",
+                "nazwa": "SZPITAL POWIATOWY W ZAMBROWIE SP. Z O.O.",
+                "poziom": "I stopień",
+                "www": "http://www.szpital.powiatzambrowski.com",
+                "telefon": "86 276 36 10",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.252976934179234,
+                    52.988048023132315
+                ]
+            }
+        }
+    ]
 }

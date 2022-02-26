@@ -1,9 +1,96 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2262",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2262", "JPT_NAZWA_": "powiat Gdynia", "id": 153, "ksiega": 391233, "id zoz": 480291, "id jednostki": "774177", "id komórki": 6798785, "regon": 19014161200031, "kod jednostki": "03", "kod komórki": 114, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Gdynia - gmina miejska", "ulica": "ul. Wójta Radtkego", "budynek": "1", "lokal": "NULL", "kod": "81-348", "miejscowosc": "Gdynia", "teryt": 2262011, "kod simc": 934100, "kod ulicy": "24786", "lozka": 14, "liczba łóżek iom": 3, "liczba łóżek ink": 2, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2015-01-02" }, "geometry": { "type": "Point", "coordinates": [ 470401.525, 739922.953199999057688 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2262", "JPT_NAZWA_": "powiat Gdynia", "id": 154, "ksiega": 391233, "id zoz": 480291, "id jednostki": "774180", "id komórki": 6798855, "regon": 19014161200031, "kod jednostki": "06", "kod komórki": 185, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Wejherowo - gmina miejska", "ulica": "ul. dr. Alojzego Jagalskiego", "budynek": "10", "lokal": "NULL", "kod": "84-200", "miejscowosc": "Wejherowo", "teryt": 2215031, "kod simc": 934984, "kod ulicy": "07021", "lozka": 14, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-06-16" }, "geometry": { "type": "Point", "coordinates": [ 470401.525, 739922.953199999057688 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2262",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2262",
+                "JPT_NAZWA_": "powiat Gdynia",
+                "id": 153,
+                "ksiega": 391233,
+                "id zoz": 480291,
+                "id jednostki": "774177",
+                "id komórki": 6798785,
+                "regon": 19014161200031,
+                "kod jednostki": "03",
+                "kod komórki": 114,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Gdynia - gmina miejska",
+                "ulica": "ul. Wójta Radtkego",
+                "budynek": "1",
+                "lokal": "NULL",
+                "kod": "81-348",
+                "miejscowosc": "Gdynia",
+                "teryt": 2262011,
+                "kod simc": 934100,
+                "kod ulicy": "24786",
+                "lozka": 14,
+                "liczba łóżek iom": 3,
+                "liczba łóżek ink": 2,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2015-01-02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.542573790262324,
+                    54.52233961039781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2262",
+                "JPT_NAZWA_": "powiat Gdynia",
+                "id": 154,
+                "ksiega": 391233,
+                "id zoz": 480291,
+                "id jednostki": "774180",
+                "id komórki": 6798855,
+                "regon": 19014161200031,
+                "kod jednostki": "06",
+                "kod komórki": 185,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Wejherowo - gmina miejska",
+                "ulica": "ul. dr. Alojzego Jagalskiego",
+                "budynek": "10",
+                "lokal": "NULL",
+                "kod": "84-200",
+                "miejscowosc": "Wejherowo",
+                "teryt": 2215031,
+                "kod simc": 934984,
+                "kod ulicy": "07021",
+                "lozka": 14,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-06-16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.542573790262324,
+                    54.52233961039781
+                ]
+            }
+        }
+    ]
 }

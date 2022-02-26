@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2010",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 375, "JPT_KOD_JE": "2010", "JPT_NAZWA_": "powiat siemiatycki", "id": "104#319", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000360", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej  w Siemiatyczach", "miejscowosc": "Siemiatycze", "ulica": "Szpitalna ", "numer_domu": "8", "adres_swiadczeniodawcy": "Szpitalna 8", "telefon": "85 655 22 00 wew. 360, 517 598 801; \r\n514 998 183", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Siemiatycze", "g_adr": "8", "g_teryt": "2010011", "g_gm": "Siemiatycze", "g_pow": "siemiatycki", "g_woj": "podlaskie", "g_szer": 22.863777296793874, "g_dlug": 52.421822561349728, "g_uuid": "8863c71a-4872-48af-8b93-05ed530bb309", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 762620.429401087691076, 513235.272045667283237 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2010",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 375,
+                "JPT_KOD_JE": "2010",
+                "JPT_NAZWA_": "powiat siemiatycki",
+                "id": "104#319",
+                "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ",
+                "kod_swiadczeniodawcy": "100000360",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej  w Siemiatyczach",
+                "miejscowosc": "Siemiatycze",
+                "ulica": "Szpitalna ",
+                "numer_domu": "8",
+                "adres_swiadczeniodawcy": "Szpitalna 8",
+                "telefon": "85 655 22 00 wew. 360, 517 598 801; \r\n514 998 183",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szpitalna",
+                "g_miejsc": "Siemiatycze",
+                "g_adr": "8",
+                "g_teryt": "2010011",
+                "g_gm": "Siemiatycze",
+                "g_pow": "siemiatycki",
+                "g_woj": "podlaskie",
+                "g_szer": 22.863777296793874,
+                "g_dlug": 52.42182256134973,
+                "g_uuid": "8863c71a-4872-48af-8b93-05ed530bb309",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.863780000057037,
+                    52.421820000017206
+                ]
+            }
+        }
+    ]
 }

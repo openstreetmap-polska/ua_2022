@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1815",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 1, "JPT_KOD_JE": "1815", "JPT_NAZWA_": "powiat ropczycko-sędziszowski", "id": 303, "wojewodztwo": "podkarpackie", "miasto": "Ropczyce", "powiat": "ropczycko-sędziszowski ", "adres": "Wyspiańskiego 14", "miejscowosc": "Sędziszów Małopolski", "kod": "39-120 ", "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W ROPCZYCACH", "poziom": "I stopień", "www": "http:\/\/zozropczyce.pl", "telefon": "+48 17 221 86 16", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 687215.7, 245945.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1815",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 1,
+                "JPT_KOD_JE": "1815",
+                "JPT_NAZWA_": "powiat ropczycko-sędziszowski",
+                "id": 303,
+                "wojewodztwo": "podkarpackie",
+                "miasto": "Ropczyce",
+                "powiat": "ropczycko-sędziszowski ",
+                "adres": "Wyspiańskiego 14",
+                "miejscowosc": "Sędziszów Małopolski",
+                "kod": "39-120 ",
+                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W ROPCZYCACH",
+                "poziom": "I stopień",
+                "www": "http://zozropczyce.pl",
+                "telefon": "+48 17 221 86 16",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.616023511870598,
+                    50.05127857770651
+                ]
+            }
+        }
+    ]
 }

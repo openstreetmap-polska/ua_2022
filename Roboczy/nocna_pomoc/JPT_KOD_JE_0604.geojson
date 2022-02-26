@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0604",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 117, "JPT_KOD_JE": "0604", "JPT_NAZWA_": "powiat hrubieszowski", "id": "104#70", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000686", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Hrubieszowie", "miejscowosc": "Hrubieszów", "ulica": "Piłsudskiego ", "numer_domu": "11", "adres_swiadczeniodawcy": "Piłsudskiego 11", "telefon": "84 696 22 09", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Józefa Piłsudskiego", "g_miejsc": "Hrubieszów", "g_adr": "11", "g_teryt": "0604011", "g_gm": "Hrubieszów", "g_pow": "hrubieszowski", "g_woj": "lubelskie", "g_szer": 23.892409527297065, "g_dlug": 50.802698948082501, "g_uuid": "29b52b0b-03e8-457b-adfb-6bef74ea8cb5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 844564.590002925484441, 337608.851312611252069 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0604",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 117,
+                "JPT_KOD_JE": "0604",
+                "JPT_NAZWA_": "powiat hrubieszowski",
+                "id": "104#70",
+                "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ",
+                "kod_swiadczeniodawcy": "30000686",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Hrubieszowie",
+                "miejscowosc": "Hrubieszów",
+                "ulica": "Piłsudskiego ",
+                "numer_domu": "11",
+                "adres_swiadczeniodawcy": "Piłsudskiego 11",
+                "telefon": "84 696 22 09",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Józefa Piłsudskiego",
+                "g_miejsc": "Hrubieszów",
+                "g_adr": "11",
+                "g_teryt": "0604011",
+                "g_gm": "Hrubieszów",
+                "g_pow": "hrubieszowski",
+                "g_woj": "lubelskie",
+                "g_szer": 23.892409527297065,
+                "g_dlug": 50.8026989480825,
+                "g_uuid": "29b52b0b-03e8-457b-adfb-6bef74ea8cb5",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.892410000242226,
+                    50.80270000001981
+                ]
+            }
+        }
+    ]
 }

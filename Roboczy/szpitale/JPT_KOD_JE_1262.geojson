@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1262",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 390, "JPT_KOD_JE": "1262", "JPT_NAZWA_": "powiat Nowy Sącz", "id": 167, "wojewodztwo": "małopolskie", "miasto": "Nowy Sącz", "powiat": "nowosądecki", "adres": "Młyńska 10", "miejscowosc": "Nowy Sącz", "kod": "33-300", "nazwa": "SZPITAL SPECJALISTYCZNY IM. JĘDRZEJA ŚNIADECKIEGO W NOWYM SĄCZU", "poziom": "III stopień", "www": "http:\/\/www.szpitalnowysacz.pl", "telefon": "18 44 38 877", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 622825.0, 195965.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1262",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 390,
+                "JPT_KOD_JE": "1262",
+                "JPT_NAZWA_": "powiat Nowy Sącz",
+                "id": 167,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Nowy Sącz",
+                "powiat": "nowosądecki",
+                "adres": "Młyńska 10",
+                "miejscowosc": "Nowy Sącz",
+                "kod": "33-300",
+                "nazwa": "SZPITAL SPECJALISTYCZNY IM. JĘDRZEJA ŚNIADECKIEGO W NOWYM SĄCZU",
+                "poziom": "III stopień",
+                "www": "http://www.szpitalnowysacz.pl",
+                "telefon": "18 44 38 877",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.700963774934955,
+                    49.618601135523065
+                ]
+            }
+        }
+    ]
 }

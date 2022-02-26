@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2011",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2011", "JPT_NAZWA_": "powiat sokólski", "id": 23, "ksiega": 380822, "id zoz": 459532, "id jednostki": "NULL", "id komórki": 6248449, "regon": 5065317000038, "kod jednostki": "NULL", "kod komórki": 11, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Sokółka - miasto", "ulica": "ul. gen. Władysława Sikorskiego", "budynek": "40", "lokal": "NULL", "kod": "16-100", "miejscowosc": "Sokółka", "teryt": 2011084, "kod simc": 923443, "kod ulicy": "19907", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-03-14" }, "geometry": { "type": "Point", "coordinates": [ 797970.1458, 625198.4673 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2011",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2011",
+                "JPT_NAZWA_": "powiat sokólski",
+                "id": 23,
+                "ksiega": 380822,
+                "id zoz": 459532,
+                "id jednostki": "NULL",
+                "id komórki": 6248449,
+                "regon": 5065317000038,
+                "kod jednostki": "NULL",
+                "kod komórki": 11,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Sokółka - miasto",
+                "ulica": "ul. gen. Władysława Sikorskiego",
+                "budynek": "40",
+                "lokal": "NULL",
+                "kod": "16-100",
+                "miejscowosc": "Sokółka",
+                "teryt": 2011084,
+                "kod simc": 923443,
+                "kod ulicy": "19907",
+                "lozka": 6,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-03-14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4849884445695,
+                    53.40749633656798
+                ]
+            }
+        }
+    ]
 }

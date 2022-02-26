@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0812",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 21, "JPT_KOD_JE": "0812", "JPT_NAZWA_": "powiat wschowski", "id": "104#105", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "020401", "swiadczeniodawca": "Nowy Szpital we Wschowie Sp. z o.o.", "miejscowosc": "Wschowa\r\n", "ulica": " Ks. A. Kostki ", "numer_domu": "33", "adres_swiadczeniodawcy": " Ks. A. Kostki 33", "telefon": "41 240 14 51; 516 098 642", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Ks. Andrzeja Kostki", "g_miejsc": "Wschowa", "g_adr": "33", "g_teryt": "0812033", "g_gm": "Wschowa", "g_pow": "wschowski", "g_woj": "lubuskie", "g_szer": 16.322049223398064, "g_dlug": 51.804653061459206, "g_uuid": "5c459974-b9b7-474e-ba5d-d64cf7868e6c", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 315429.301006111723837, 440979.679125529713929 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0812",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 21,
+                "JPT_KOD_JE": "0812",
+                "JPT_NAZWA_": "powiat wschowski",
+                "id": "104#105",
+                "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ",
+                "kod_swiadczeniodawcy": "020401",
+                "swiadczeniodawca": "Nowy Szpital we Wschowie Sp. z o.o.",
+                "miejscowosc": "Wschowa\r\n",
+                "ulica": " Ks. A. Kostki ",
+                "numer_domu": "33",
+                "adres_swiadczeniodawcy": " Ks. A. Kostki 33",
+                "telefon": "41 240 14 51; 516 098 642",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Ks. Andrzeja Kostki",
+                "g_miejsc": "Wschowa",
+                "g_adr": "33",
+                "g_teryt": "0812033",
+                "g_gm": "Wschowa",
+                "g_pow": "wschowski",
+                "g_woj": "lubuskie",
+                "g_szer": 16.322049223398064,
+                "g_dlug": 51.804653061459206,
+                "g_uuid": "5c459974-b9b7-474e-ba5d-d64cf7868e6c",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.322049999989492,
+                    51.804650000015236
+                ]
+            }
+        }
+    ]
 }

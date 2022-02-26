@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2004",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 165, "JPT_KOD_JE": "2004", "JPT_NAZWA_": "powiat grajewski", "id": "104#311", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000055", "swiadczeniodawca": "Szpital Ogólny im. dr. W. Ginela w Grajewie", "miejscowosc": "Grajewo ", "ulica": "Konstytucji 3 Maja ", "numer_domu": "34", "adres_swiadczeniodawcy": "Konstytucji 3 Maja 34", "telefon": "601 200 611; \r\n501 041 100 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "Konstytucji 3-go Maja", "g_miejsc": "Grajewo", "g_adr": "34", "g_teryt": "2004011", "g_gm": "Grajewo", "g_pow": "grajewski", "g_woj": "podlaskie", "g_szer": 22.469869524169887, "g_dlug": 53.646398480432815, "g_uuid": "96fab78e-3bf5-4f8c-8354-fe64952eed16", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 729261.068379380973056, 647991.06263099052012 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2004",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 165,
+                "JPT_KOD_JE": "2004",
+                "JPT_NAZWA_": "powiat grajewski",
+                "id": "104#311",
+                "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ",
+                "kod_swiadczeniodawcy": "100000055",
+                "swiadczeniodawca": "Szpital Ogólny im. dr. W. Ginela w Grajewie",
+                "miejscowosc": "Grajewo ",
+                "ulica": "Konstytucji 3 Maja ",
+                "numer_domu": "34",
+                "adres_swiadczeniodawcy": "Konstytucji 3 Maja 34",
+                "telefon": "601 200 611; \r\n501 041 100 ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "Konstytucji 3-go Maja",
+                "g_miejsc": "Grajewo",
+                "g_adr": "34",
+                "g_teryt": "2004011",
+                "g_gm": "Grajewo",
+                "g_pow": "grajewski",
+                "g_woj": "podlaskie",
+                "g_szer": 22.469869524169887,
+                "g_dlug": 53.646398480432815,
+                "g_uuid": "96fab78e-3bf5-4f8c-8354-fe64952eed16",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.46987000002837,
+                    53.64640000001862
+                ]
+            }
+        }
+    ]
 }

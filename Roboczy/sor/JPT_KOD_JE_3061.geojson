@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3061",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3061", "JPT_NAZWA_": "powiat Kalisz", "id": 227, "ksiega": 392360, "id zoz": 482632, "id jednostki": "780210", "id komórki": 6870038, "regon": 30022444000029, "kod jednostki": "01", "kod komórki": 18, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny  Oddział Ratunkowy", "teryt opis": "Kalisz - gmina miejska", "ulica": "ul. Poznańska", "budynek": "79", "lokal": "NULL", "kod": "62-800", "miejscowosc": "Kalisz", "teryt": 3061011, "kod simc": 936569, "kod ulicy": "17394", "lozka": 13, "liczba łóżek iom": 7, "liczba łóżek ink": 4, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2006-01-01" }, "geometry": { "type": "Point", "coordinates": [ 435554.382, 433346.229699998977594 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3061",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3061",
+                "JPT_NAZWA_": "powiat Kalisz",
+                "id": 227,
+                "ksiega": 392360,
+                "id zoz": 482632,
+                "id jednostki": "780210",
+                "id komórki": 6870038,
+                "regon": 30022444000029,
+                "kod jednostki": "01",
+                "kod komórki": 18,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny  Oddział Ratunkowy",
+                "teryt opis": "Kalisz - gmina miejska",
+                "ulica": "ul. Poznańska",
+                "budynek": "79",
+                "lokal": "NULL",
+                "kod": "62-800",
+                "miejscowosc": "Kalisz",
+                "teryt": 3061011,
+                "kod simc": 936569,
+                "kod ulicy": "17394",
+                "lozka": 13,
+                "liczba łóżek iom": 7,
+                "liczba łóżek ink": 4,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2006-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.065889055009258,
+                    51.76278184296421
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0615",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0615", "JPT_NAZWA_": "powiat radzyński", "id": 194, "ksiega": 391851, "id zoz": 481620, "id jednostki": "777579", "id komórki": 6840112, "regon": 30840700028, "kod jednostki": "01", "kod komórki": 1, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Radzyń Podlaski - gmina miejska", "ulica": "ul. Wisznicka", "budynek": "111", "lokal": "NULL", "kod": "21-300", "miejscowosc": "Radzyń Podlaski", "teryt": 615011, "kod simc": 922277, "kod ulicy": "24393", "lozka": 7, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-09-07" }, "geometry": { "type": "Point", "coordinates": [ 748713.503, 440106.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0615",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0615",
+                "JPT_NAZWA_": "powiat radzyński",
+                "id": 194,
+                "ksiega": 391851,
+                "id zoz": 481620,
+                "id jednostki": "777579",
+                "id komórki": 6840112,
+                "regon": 30840700028,
+                "kod jednostki": "01",
+                "kod komórki": 1,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Radzyń Podlaski - gmina miejska",
+                "ulica": "ul. Wisznicka",
+                "budynek": "111",
+                "lokal": "NULL",
+                "kod": "21-300",
+                "miejscowosc": "Radzyń Podlaski",
+                "teryt": 615011,
+                "kod simc": 922277,
+                "kod ulicy": "24393",
+                "lozka": 7,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2000-09-07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.606243655026105,
+                    51.77195836638497
+                ]
+            }
+        }
+    ]
 }

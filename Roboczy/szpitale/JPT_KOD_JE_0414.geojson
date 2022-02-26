@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0414",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 185, "JPT_KOD_JE": "0414", "JPT_NAZWA_": "powiat świecki", "id": 45, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Świecie", "powiat": "świecki", "adres": "Wojska Polskiego 126", "miejscowosc": null, "kod": null, "nazwa": "NZOZ \"Nowy Szpital Sp. Z O.O.\" Prowadzony Przez Nowy Szpital Sp. Z O.O. w Świeciu", "poziom": "I stopień", "www": "http:\/\/www.nowyszpital.pl", "telefon": "41 240 15 02, 42 240 16 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 464571.4, 616677.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0414",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 185,
+                "JPT_KOD_JE": "0414",
+                "JPT_NAZWA_": "powiat świecki",
+                "id": 45,
+                "wojewodztwo": "kujawsko-pomorskie",
+                "miasto": "Świecie",
+                "powiat": "świecki",
+                "adres": "Wojska Polskiego 126",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "NZOZ \"Nowy Szpital Sp. Z O.O.\" Prowadzony Przez Nowy Szpital Sp. Z O.O. w Świeciu",
+                "poziom": "I stopień",
+                "www": "http://www.nowyszpital.pl",
+                "telefon": "41 240 15 02, 42 240 16 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.466810218362866,
+                    53.413956976833134
+                ]
+            }
+        }
+    ]
 }

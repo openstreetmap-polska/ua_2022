@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0612",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 306, "JPT_KOD_JE": "0612", "JPT_NAZWA_": "powiat opolski", "id": 80, "wojewodztwo": "lubelskie", "miasto": "PONIATOWA", "powiat": "OPOLSKI", "adres": "FABRYCZNA 18", "miejscowosc": null, "kod": null, "nazwa": "POWIATOWE CENTRUM ZDROWIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "I stopień", "www": "http:\/\/www.pczol.pl", "telefon": "81 820 41 04, 81 820 40 41", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 714870.3, 372018.9 ] } },
-{ "type": "Feature", "properties": { "_uid_": 307, "JPT_KOD_JE": "0612", "JPT_NAZWA_": "powiat opolski", "id": 79, "wojewodztwo": "lubelskie", "miasto": "PONIATOWA", "powiat": "OPOLSKI", "adres": "FABRYCZNA 6", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNE PUBLICZNE SANATORIUM GRUŹLICY I CHORÓB PŁUC", "poziom": "Szpital pulmunologiczny", "www": "http:\/\/www.sanatoriumpg.com.pl", "telefon": "81 820 47 30", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 714478.4, 373224.5 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0612",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 306,
+                "JPT_KOD_JE": "0612",
+                "JPT_NAZWA_": "powiat opolski",
+                "id": 80,
+                "wojewodztwo": "lubelskie",
+                "miasto": "PONIATOWA",
+                "powiat": "OPOLSKI",
+                "adres": "FABRYCZNA 18",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "POWIATOWE CENTRUM ZDROWIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+                "poziom": "I stopień",
+                "www": "http://www.pczol.pl",
+                "telefon": "81 820 41 04, 81 820 40 41",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.074935753177147,
+                    51.17446652021184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 307,
+                "JPT_KOD_JE": "0612",
+                "JPT_NAZWA_": "powiat opolski",
+                "id": 79,
+                "wojewodztwo": "lubelskie",
+                "miasto": "PONIATOWA",
+                "powiat": "OPOLSKI",
+                "adres": "FABRYCZNA 6",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNE PUBLICZNE SANATORIUM GRUŹLICY I CHORÓB PŁUC",
+                "poziom": "Szpital pulmunologiczny",
+                "www": "http://www.sanatoriumpg.com.pl",
+                "telefon": "81 820 47 30",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.070055885739492,
+                    51.185442402886466
+                ]
+            }
+        }
+    ]
 }

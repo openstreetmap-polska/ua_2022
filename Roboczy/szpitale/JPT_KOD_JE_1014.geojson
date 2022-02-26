@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1014",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 222, "JPT_KOD_JE": "1014", "JPT_NAZWA_": "powiat sieradzki", "id": 122, "wojewodztwo": "łódzkie", "miasto": "Sieradz", "powiat": "sieradzki", "adres": "Armii Krajowej 7", "miejscowosc": null, "kod": null, "nazwa": "Szpital Wojewódzki im. Prym. Kard. S. Wyszyńskiego w Sieradzu", "poziom": "III stopień", "www": "http:\/\/www.spzozsieradz.pl", "telefon": "43 827 57 71", "e-mail": "sekretariat@szpitalsieradz.pl" }, "geometry": { "type": "Point", "coordinates": [ 479918.4, 412906.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1014",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 222,
+                "JPT_KOD_JE": "1014",
+                "JPT_NAZWA_": "powiat sieradzki",
+                "id": 122,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Sieradz",
+                "powiat": "sieradzki",
+                "adres": "Armii Krajowej 7",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Szpital Wojewódzki im. Prym. Kard. S. Wyszyńskiego w Sieradzu",
+                "poziom": "III stopień",
+                "www": "http://www.spzozsieradz.pl",
+                "telefon": "43 827 57 71",
+                "e-mail": "sekretariat@szpitalsieradz.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.710083322690167,
+                    51.582292492040644
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2613",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2613", "JPT_NAZWA_": "powiat włoszczowski", "id": 120, "ksiega": 390464, "id zoz": 478540, "id jednostki": "769577", "id komórki": 6747949, "regon": 30429500033, "kod jednostki": "01", "kod komórki": 76, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Włoszczowa - miasto", "ulica": "ul. Żeromskiego", "budynek": "28", "lokal": "NULL", "kod": "29-100", "miejscowosc": "Włoszczowa", "teryt": 2613064, "kod simc": 948472, "kod ulicy": "26464", "lozka": 4, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-03-31" }, "geometry": { "type": "Point", "coordinates": [ 568499.67, 331559.210000001010485 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2613",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2613",
+                "JPT_NAZWA_": "powiat włoszczowski",
+                "id": 120,
+                "ksiega": 390464,
+                "id zoz": 478540,
+                "id jednostki": "769577",
+                "id komórki": 6747949,
+                "regon": 30429500033,
+                "kod jednostki": "01",
+                "kod komórki": 76,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Włoszczowa - miasto",
+                "ulica": "ul. Żeromskiego",
+                "budynek": "28",
+                "lokal": "NULL",
+                "kod": "29-100",
+                "miejscowosc": "Włoszczowa",
+                "teryt": 2613064,
+                "kod simc": 948472,
+                "kod ulicy": "26464",
+                "lozka": 4,
+                "liczba łóżek iom": 1,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-03-31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.973304215927083,
+                    50.84688846559886
+                ]
+            }
+        }
+    ]
 }

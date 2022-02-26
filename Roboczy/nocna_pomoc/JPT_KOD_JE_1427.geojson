@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1427",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 147, "JPT_KOD_JE": "1427", "JPT_NAZWA_": "powiat sierpecki", "id": "104#224", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70002137", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Sierpcu", "miejscowosc": "Sierpc", "ulica": "Braci Tułodzieckich ", "numer_domu": "19", "adres_swiadczeniodawcy": "Braci Tułodzieckich 19", "telefon": "(24) 275 30 52", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Braci Tułodzieckich", "g_miejsc": "Sierpc", "g_adr": "19", "g_teryt": "1427011", "g_gm": "Sierpc", "g_pow": "sierpecki", "g_woj": "mazowieckie", "g_szer": 19.66601948603207, "g_dlug": 52.849471469540248, "g_uuid": "db86da89-d509-477c-8432-07c9c7b933e5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 544838.415115560172126, 553975.879602568224072 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1427",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 147,
+                "JPT_KOD_JE": "1427",
+                "JPT_NAZWA_": "powiat sierpecki",
+                "id": "104#224",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70002137",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Sierpcu",
+                "miejscowosc": "Sierpc",
+                "ulica": "Braci Tułodzieckich ",
+                "numer_domu": "19",
+                "adres_swiadczeniodawcy": "Braci Tułodzieckich 19",
+                "telefon": "(24) 275 30 52",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Braci Tułodzieckich",
+                "g_miejsc": "Sierpc",
+                "g_adr": "19",
+                "g_teryt": "1427011",
+                "g_gm": "Sierpc",
+                "g_pow": "sierpecki",
+                "g_woj": "mazowieckie",
+                "g_szer": 19.66601948603207,
+                "g_dlug": 52.84947146954025,
+                "g_uuid": "db86da89-d509-477c-8432-07c9c7b933e5",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.66602000000027,
+                    52.84947000001683
+                ]
+            }
+        }
+    ]
 }

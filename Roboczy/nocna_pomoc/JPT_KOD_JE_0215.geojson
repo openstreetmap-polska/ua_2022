@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0215",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 211, "JPT_KOD_JE": "0215", "JPT_NAZWA_": "powiat oławski", "id": "104#20", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3101074", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Oławie", "miejscowosc": "Oława\r\n", "ulica": " Baczyńskiego ", "numer_domu": "1", "adres_swiadczeniodawcy": " Baczyńskiego 1", "telefon": "71\/3011326; 663 191 191;  \r\n663 191 111; 663 191 637 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Krzysztofa Kamila Baczyńskiego", "g_miejsc": "Oława", "g_adr": "1", "g_teryt": "0215011", "g_gm": "Oława", "g_pow": "oławski", "g_woj": "dolnośląskie", "g_szer": 17.287005761805734, "g_dlug": 50.952463209123735, "g_uuid": "e1a4f0fb-5d31-4135-9ad3-d1e603bf5c97", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 379717.179894184111618, 344240.851364270783961 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0215",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 211,
+                "JPT_KOD_JE": "0215",
+                "JPT_NAZWA_": "powiat oławski",
+                "id": "104#20",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3101074",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Oławie",
+                "miejscowosc": "Oława\r\n",
+                "ulica": " Baczyńskiego ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": " Baczyńskiego 1",
+                "telefon": "71/3011326; 663 191 191;  \r\n663 191 111; 663 191 637 ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Krzysztofa Kamila Baczyńskiego",
+                "g_miejsc": "Oława",
+                "g_adr": "1",
+                "g_teryt": "0215011",
+                "g_gm": "Oława",
+                "g_pow": "oławski",
+                "g_woj": "dolnośląskie",
+                "g_szer": 17.287005761805734,
+                "g_dlug": 50.952463209123735,
+                "g_uuid": "e1a4f0fb-5d31-4135-9ad3-d1e603bf5c97",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.287009999998382,
+                    50.952460000013886
+                ]
+            }
+        }
+    ]
 }

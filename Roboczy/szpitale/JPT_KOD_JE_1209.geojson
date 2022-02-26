@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1209",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 538, "JPT_KOD_JE": "1209", "JPT_NAZWA_": "powiat myślenicki", "id": 157, "wojewodztwo": "małopolskie", "miasto": "Myślenice", "powiat": "myślenicki", "adres": "Szpitalna 2", "miejscowosc": "Myślenice", "kod": "32-400", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MYŚLENICACH", "poziom": "I stopień", "www": "http:\/\/www.szpitalmyślenice.pl", "telefon": "12 27 21 085", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 568119.5, 218442.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1209",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 538,
+                "JPT_KOD_JE": "1209",
+                "JPT_NAZWA_": "powiat myślenicki",
+                "id": 157,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Myślenice",
+                "powiat": "myślenicki",
+                "adres": "Szpitalna 2",
+                "miejscowosc": "Myślenice",
+                "kod": "32-400",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MYŚLENICACH",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalmyślenice.pl",
+                "telefon": "12 27 21 085",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.947444391465492,
+                    49.829451118854294
+                ]
+            }
+        }
+    ]
 }

@@ -1,10 +1,129 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2661",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 184, "JPT_KOD_JE": "2661", "JPT_NAZWA_": "powiat Kielce", "id": "104#427", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130002065", "swiadczeniodawca": "Szpital Kielecki Św. Aleksandra Sp. z o. o.", "miejscowosc": "Kielce", "ulica": "Robotnicza \r\n", "numer_domu": "1", "adres_swiadczeniodawcy": "Robotnicza 1\r\n", "telefon": "41 267 15 00, \r\n801 407 777,\r\n41 266 23 51 - iniekcje dożylne", "dodatkowe_miejsce": "ul. Kościuszki 25 - iniekcje dożylne", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Robotnicza", "g_miejsc": "Kielce", "g_adr": "1", "g_teryt": "2661011", "g_gm": "Kielce", "g_pow": "Kielce", "g_woj": "świętokrzyskie", "g_szer": 20.627190733239857, "g_dlug": 50.886383350480855, "g_uuid": "54a230fd-12dc-4ef7-8473-f3d4f4a0e63a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 614420.431452038232237, 336759.003126917406917 ] } },
-{ "type": "Feature", "properties": { "gid": 514, "JPT_KOD_JE": "2661", "JPT_NAZWA_": "powiat Kielce", "id": "104#426", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130000193", "swiadczeniodawca": "Świętokrzyskie Centrum Matki i Noworodka - Szpital Specjalistyczny w Kielcach", "miejscowosc": "Kielce", "ulica": "\r\nLeonarda ", "numer_domu": "10", "adres_swiadczeniodawcy": "\r\nLeonarda 10", "telefon": "30  41 201 38 90  -  wyłącznie iniekcje dożylne\r\n41 344 53 71", "dodatkowe_miejsce": "Prosta 30 - wyłacznie iniekcje dożylne", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Świętego Leonarda", "g_miejsc": "Kielce", "g_adr": "10", "g_teryt": "2661011", "g_gm": "Kielce", "g_pow": "Kielce", "g_woj": "świętokrzyskie", "g_szer": 20.63381811315136, "g_dlug": 50.870330167682873, "g_uuid": "9aa76103-84b5-4753-b720-993976c5da38", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 614926.092529812129214, 334985.198896888643503 ] } },
-{ "type": "Feature", "properties": { "gid": 515, "JPT_KOD_JE": "2661", "JPT_NAZWA_": "powiat Kielce", "id": "104#428", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130000233", "swiadczeniodawca": "Wojewódzki Szpital Zespolony w Kielcach", "miejscowosc": "Kielce ", "ulica": "Grunwaldzka ", "numer_domu": "45", "adres_swiadczeniodawcy": "Grunwaldzka 45", "telefon": "41 202 02 40", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Grunwaldzka", "g_miejsc": "Kielce", "g_adr": "45", "g_teryt": "2661011", "g_gm": "Kielce", "g_pow": "Kielce", "g_woj": "świętokrzyskie", "g_szer": 20.601021651737835, "g_dlug": 50.873822294751847, "g_uuid": "fbc07faa-5588-414e-9596-6d1d1d0d1451", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 612610.587859168183059, 335322.610098144970834 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2661",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 184,
+                "JPT_KOD_JE": "2661",
+                "JPT_NAZWA_": "powiat Kielce",
+                "id": "104#427",
+                "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ",
+                "kod_swiadczeniodawcy": "130002065",
+                "swiadczeniodawca": "Szpital Kielecki Św. Aleksandra Sp. z o. o.",
+                "miejscowosc": "Kielce",
+                "ulica": "Robotnicza \r\n",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Robotnicza 1\r\n",
+                "telefon": "41 267 15 00, \r\n801 407 777,\r\n41 266 23 51 - iniekcje dożylne",
+                "dodatkowe_miejsce": "ul. Kościuszki 25 - iniekcje dożylne",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Robotnicza",
+                "g_miejsc": "Kielce",
+                "g_adr": "1",
+                "g_teryt": "2661011",
+                "g_gm": "Kielce",
+                "g_pow": "Kielce",
+                "g_woj": "świętokrzyskie",
+                "g_szer": 20.627190733239857,
+                "g_dlug": 50.886383350480855,
+                "g_uuid": "54a230fd-12dc-4ef7-8473-f3d4f4a0e63a",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.62719000000134,
+                    50.88638000001377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 514,
+                "JPT_KOD_JE": "2661",
+                "JPT_NAZWA_": "powiat Kielce",
+                "id": "104#426",
+                "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ",
+                "kod_swiadczeniodawcy": "130000193",
+                "swiadczeniodawca": "Świętokrzyskie Centrum Matki i Noworodka - Szpital Specjalistyczny w Kielcach",
+                "miejscowosc": "Kielce",
+                "ulica": "\r\nLeonarda ",
+                "numer_domu": "10",
+                "adres_swiadczeniodawcy": "\r\nLeonarda 10",
+                "telefon": "30  41 201 38 90  -  wyłącznie iniekcje dożylne\r\n41 344 53 71",
+                "dodatkowe_miejsce": "Prosta 30 - wyłacznie iniekcje dożylne",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Świętego Leonarda",
+                "g_miejsc": "Kielce",
+                "g_adr": "10",
+                "g_teryt": "2661011",
+                "g_gm": "Kielce",
+                "g_pow": "Kielce",
+                "g_woj": "świętokrzyskie",
+                "g_szer": 20.63381811315136,
+                "g_dlug": 50.87033016768287,
+                "g_uuid": "9aa76103-84b5-4753-b720-993976c5da38",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.633820000001364,
+                    50.87033000001376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 515,
+                "JPT_KOD_JE": "2661",
+                "JPT_NAZWA_": "powiat Kielce",
+                "id": "104#428",
+                "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ",
+                "kod_swiadczeniodawcy": "130000233",
+                "swiadczeniodawca": "Wojewódzki Szpital Zespolony w Kielcach",
+                "miejscowosc": "Kielce ",
+                "ulica": "Grunwaldzka ",
+                "numer_domu": "45",
+                "adres_swiadczeniodawcy": "Grunwaldzka 45",
+                "telefon": "41 202 02 40",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Grunwaldzka",
+                "g_miejsc": "Kielce",
+                "g_adr": "45",
+                "g_teryt": "2661011",
+                "g_gm": "Kielce",
+                "g_pow": "Kielce",
+                "g_woj": "świętokrzyskie",
+                "g_szer": 20.601021651737835,
+                "g_dlug": 50.87382229475185,
+                "g_uuid": "fbc07faa-5588-414e-9596-6d1d1d0d1451",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.601020000001263,
+                    50.87382000001375
+                ]
+            }
+        }
+    ]
 }

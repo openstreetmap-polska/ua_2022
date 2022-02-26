@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2471",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 145, "JPT_KOD_JE": "2471", "JPT_NAZWA_": "powiat Piekary Śląskie", "id": 493, "wojewodztwo": "śląskie", "miasto": "Piekary Śląskie", "powiat": "Piekary Śląskie", "adres": "Bytomska 62", "miejscowosc": "Piekary Śląskie", "kod": null, "nazwa": "Samodzielny Publiczny Wojewódzki Szpital Chirurgii Urazowej im.dr J. Daaba", "poziom": "II stopień", "www": "http:\/\/www.urazowka.piekary.pl", "telefon": "32 393 41 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 496136.7, 278378.3 ] } },
-{ "type": "Feature", "properties": { "_uid_": 146, "JPT_KOD_JE": "2471", "JPT_NAZWA_": "powiat Piekary Śląskie", "id": 515, "wojewodztwo": "śląskie", "miasto": "Piekary Śląskie", "powiat": "Piekary Śląskie", "adres": "Szpitalna 11", "miejscowosc": "Piekary Śląskie", "kod": null, "nazwa": "Piekarskie Centrum Medyczne spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.szpital.piekary.pl", "telefon": "32 39 38 100", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 496662.5, 278591.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2471",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 145,
+                "JPT_KOD_JE": "2471",
+                "JPT_NAZWA_": "powiat Piekary Śląskie",
+                "id": 493,
+                "wojewodztwo": "śląskie",
+                "miasto": "Piekary Śląskie",
+                "powiat": "Piekary Śląskie",
+                "adres": "Bytomska 62",
+                "miejscowosc": "Piekary Śląskie",
+                "kod": null,
+                "nazwa": "Samodzielny Publiczny Wojewódzki Szpital Chirurgii Urazowej im.dr J. Daaba",
+                "poziom": "II stopień",
+                "www": "http://www.urazowka.piekary.pl",
+                "telefon": "32 393 41 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.94565653725132,
+                    50.37252952253662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 146,
+                "JPT_KOD_JE": "2471",
+                "JPT_NAZWA_": "powiat Piekary Śląskie",
+                "id": 515,
+                "wojewodztwo": "śląskie",
+                "miasto": "Piekary Śląskie",
+                "powiat": "Piekary Śląskie",
+                "adres": "Szpitalna 11",
+                "miejscowosc": "Piekary Śląskie",
+                "kod": null,
+                "nazwa": "Piekarskie Centrum Medyczne spółka z ograniczoną odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.szpital.piekary.pl",
+                "telefon": "32 39 38 100",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.953050859870807,
+                    50.37444622805508
+                ]
+            }
+        }
+    ]
 }

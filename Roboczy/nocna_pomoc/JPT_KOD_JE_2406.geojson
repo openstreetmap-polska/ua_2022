@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2406",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 77, "JPT_KOD_JE": "2406", "JPT_NAZWA_": "powiat kłobucki", "id": "104#387", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "123\/100404", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Kłobucku - Szpital Krzepice", "miejscowosc": "Krzepice", "ulica": "Szkolna ", "numer_domu": "1", "adres_swiadczeniodawcy": "Szkolna 1", "telefon": "34 317 52 20", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.729056713780434, "g_dlug": 50.970556022907914, "g_uuid": "501d1a98-9fe3-4587-a320-4d24486967ba", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 480981.944256372749805, 344891.344948458485305 ] } },
-{ "type": "Feature", "properties": { "gid": 509, "JPT_KOD_JE": "2406", "JPT_NAZWA_": "powiat kłobucki", "id": "104#382", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "123\/100404", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Kłobucku", "miejscowosc": "Kłobuck", "ulica": " 11 Listopada", "numer_domu": "5e", "adres_swiadczeniodawcy": "11 Listopada 5e", "telefon": "34 317 19 22", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.936897098945114, "g_dlug": 50.906321625672, "g_uuid": "2a675635-73de-4105-8da5-292336c81132", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 495564.719888766878285, 337716.798537191934884 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2406",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 77,
+                "JPT_KOD_JE": "2406",
+                "JPT_NAZWA_": "powiat kłobucki",
+                "id": "104#387",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "123/100404",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Kłobucku - Szpital Krzepice",
+                "miejscowosc": "Krzepice",
+                "ulica": "Szkolna ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Szkolna 1",
+                "telefon": "34 317 52 20",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 18.729056713780434,
+                "g_dlug": 50.970556022907914,
+                "g_uuid": "501d1a98-9fe3-4587-a320-4d24486967ba",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.729059999999922,
+                    50.97056000001389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 509,
+                "JPT_KOD_JE": "2406",
+                "JPT_NAZWA_": "powiat kłobucki",
+                "id": "104#382",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "123/100404",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Kłobucku",
+                "miejscowosc": "Kłobuck",
+                "ulica": " 11 Listopada",
+                "numer_domu": "5e",
+                "adres_swiadczeniodawcy": "11 Listopada 5e",
+                "telefon": "34 317 19 22",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 18.936897098945114,
+                "g_dlug": 50.906321625672,
+                "g_uuid": "2a675635-73de-4105-8da5-292336c81132",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.936899999999984,
+                    50.9063200000138
+                ]
+            }
+        }
+    ]
 }

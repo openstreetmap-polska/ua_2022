@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1420",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 249, "JPT_KOD_JE": "1420", "JPT_NAZWA_": "powiat płoński", "id": "104#213", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001994", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej im. Marszałka Józefa Piłsudskiego w Płońsku", "miejscowosc": "Płońsk", "ulica": " Sienkiewicza ", "numer_domu": "7", "adres_swiadczeniodawcy": " Sienkiewicza 7", "telefon": "23 661-77-89", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sienkiewicza Henryka", "g_miejsc": "Płońsk", "g_adr": "7", "g_teryt": "1420011", "g_gm": "Płońsk", "g_pow": "płoński", "g_woj": "mazowieckie", "g_szer": 20.376824327948803, "g_dlug": 52.630104099786479, "g_uuid": "d14084ef-662e-4702-a1c4-fa595d8b5d43", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 593156.318891298375092, 530263.05453934147954 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1420",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 249,
+                "JPT_KOD_JE": "1420",
+                "JPT_NAZWA_": "powiat płoński",
+                "id": "104#213",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70001994",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej im. Marszałka Józefa Piłsudskiego w Płońsku",
+                "miejscowosc": "Płońsk",
+                "ulica": " Sienkiewicza ",
+                "numer_domu": "7",
+                "adres_swiadczeniodawcy": " Sienkiewicza 7",
+                "telefon": "23 661-77-89",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Sienkiewicza Henryka",
+                "g_miejsc": "Płońsk",
+                "g_adr": "7",
+                "g_teryt": "1420011",
+                "g_gm": "Płońsk",
+                "g_pow": "płoński",
+                "g_woj": "mazowieckie",
+                "g_szer": 20.376824327948803,
+                "g_dlug": 52.63010409978648,
+                "g_uuid": "d14084ef-662e-4702-a1c4-fa595d8b5d43",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.376820000000826,
+                    52.63010000001647
+                ]
+            }
+        }
+    ]
 }

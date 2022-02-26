@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1212",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 539, "JPT_KOD_JE": "1212", "JPT_NAZWA_": "powiat olkuski", "id": 150, "wojewodztwo": "małopolskie", "miasto": "Olkusz", "powiat": "olkuski", "adres": "al. 1000-lecia 13", "miejscowosc": "Olkusz", "kod": "32-300", "nazwa": "NOWY SZPITAL W OLKUSZU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "II stopień", "www": "http:\/\/www.nowyszpital.pl\/olkusz", "telefon": "412401200", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 540511.6, 267018.1 ] } },
-{ "type": "Feature", "properties": { "_uid_": 540, "JPT_KOD_JE": "1212", "JPT_NAZWA_": "powiat olkuski", "id": 175, "wojewodztwo": "małopolskie", "miasto": "Jaroszowiec", "powiat": "olkuski", "adres": "Kolejowa 1A", "miejscowosc": "Jaroszowiec", "kod": "32-310", "nazwa": "WOJEWÓDZKI SZPITAL CHORÓB PŁUC I REHABILITACJI", "poziom": "Szpital pulmunologiczny", "www": "http:\/\/www.wschp.pl", "telefon": "32 642 80 90 wew. 58 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 543644.1, 275451.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1212",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 539,
+                "JPT_KOD_JE": "1212",
+                "JPT_NAZWA_": "powiat olkuski",
+                "id": 150,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Olkusz",
+                "powiat": "olkuski",
+                "adres": "al. 1000-lecia 13",
+                "miejscowosc": "Olkusz",
+                "kod": "32-300",
+                "nazwa": "NOWY SZPITAL W OLKUSZU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+                "poziom": "II stopień",
+                "www": "http://www.nowyszpital.pl/olkusz",
+                "telefon": "412401200",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.568624788243874,
+                    50.2689521303806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 540,
+                "JPT_KOD_JE": "1212",
+                "JPT_NAZWA_": "powiat olkuski",
+                "id": 175,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Jaroszowiec",
+                "powiat": "olkuski",
+                "adres": "Kolejowa 1A",
+                "miejscowosc": "Jaroszowiec",
+                "kod": "32-310",
+                "nazwa": "WOJEWÓDZKI SZPITAL CHORÓB PŁUC I REHABILITACJI",
+                "poziom": "Szpital pulmunologiczny",
+                "www": "http://www.wschp.pl",
+                "telefon": "32 642 80 90 wew. 58 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.61356561725988,
+                    50.344589979697766
+                ]
+            }
+        }
+    ]
 }

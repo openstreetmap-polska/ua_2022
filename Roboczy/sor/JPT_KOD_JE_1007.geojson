@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1007",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1007", "JPT_NAZWA_": "powiat opoczyński", "id": 182, "ksiega": 391742, "id zoz": 481192, "id jednostki": "776940", "id komórki": 6831885, "regon": 30427200135, "kod jednostki": "01", "kod komórki": 17, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Opoczno - miasto", "ulica": "ul. Partyzantów", "budynek": "30", "lokal": "NULL", "kod": "26-300", "miejscowosc": "Opoczno", "teryt": 1007044, "kod simc": 967943, "kod ulicy": "15733", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-09-11" }, "geometry": { "type": "Point", "coordinates": [ 588911.5, 391038.529999998980202 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1007",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1007",
+                "JPT_NAZWA_": "powiat opoczyński",
+                "id": 182,
+                "ksiega": 391742,
+                "id zoz": 481192,
+                "id jednostki": "776940",
+                "id komórki": 6831885,
+                "regon": 30427200135,
+                "kod jednostki": "01",
+                "kod komórki": 17,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Opoczno - miasto",
+                "ulica": "ul. Partyzantów",
+                "budynek": "30",
+                "lokal": "NULL",
+                "kod": "26-300",
+                "miejscowosc": "Opoczno",
+                "teryt": 1007044,
+                "kod simc": 967943,
+                "kod ulicy": "15733",
+                "lozka": 6,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-09-11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.277937027256048,
+                    51.378996081330314
+                ]
+            }
+        }
+    ]
 }

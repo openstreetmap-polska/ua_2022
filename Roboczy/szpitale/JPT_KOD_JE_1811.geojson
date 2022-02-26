@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1811",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 449, "JPT_KOD_JE": "1811", "JPT_NAZWA_": "powiat mielecki", "id": 299, "wojewodztwo": "podkarpackie", "miasto": "Mielec", "powiat": "mielecki ", "adres": "Żeromskiego 22", "miejscowosc": "Mielec", "kod": "39-300 ", "nazwa": "SZPITAL POWIATOWY IM.EDMUNDA BIERNACKIEGO W MIELCU", "poziom": "III stopień", "www": "http:\/\/szpital.mielec.pl", "telefon": "(017)780 01 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 673509.4, 271911.5 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1811",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 449,
+                "JPT_KOD_JE": "1811",
+                "JPT_NAZWA_": "powiat mielecki",
+                "id": 299,
+                "wojewodztwo": "podkarpackie",
+                "miasto": "Mielec",
+                "powiat": "mielecki ",
+                "adres": "Żeromskiego 22",
+                "miejscowosc": "Mielec",
+                "kod": "39-300 ",
+                "nazwa": "SZPITAL POWIATOWY IM.EDMUNDA BIERNACKIEGO W MIELCU",
+                "poziom": "III stopień",
+                "www": "http://szpital.mielec.pl",
+                "telefon": "(017)780 01 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.436536050917187,
+                    50.28882626313652
+                ]
+            }
+        }
+    ]
 }

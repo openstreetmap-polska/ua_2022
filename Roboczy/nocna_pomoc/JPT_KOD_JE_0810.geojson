@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0810",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 126, "JPT_KOD_JE": "0810", "JPT_NAZWA_": "powiat żagański", "id": "104#103", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "102778", "swiadczeniodawca": "Nowy Szpital w Szprotawie Sp. z o.o.", "miejscowosc": "Szprotawa\r\n", "ulica": "Henrykowska ", "numer_domu": "1", "adres_swiadczeniodawcy": "Henrykowska 1", "telefon": "68 376 26 00; 516 098 657; 516 142 464; ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 15.552559852421538, "g_dlug": 51.567488749651432, "g_uuid": "d913583b-cacb-47ec-a45b-d920a3fb1a2c", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 261161.751600851595867, 416852.034142304211855 ] } },
-{ "type": "Feature", "properties": { "gid": 337, "JPT_KOD_JE": "0810", "JPT_NAZWA_": "powiat żagański", "id": "104#107", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "020293", "swiadczeniodawca": "105. Kresowy Szpital Wojskowy z Przychodnią Samodzielny Publiczny Zakład Opieki Zdrowotnej Filia Żagań", "miejscowosc": "Żagań\r\n", "ulica": "Żelazna", "numer_domu": "1a", "adres_swiadczeniodawcy": "Żelazna 1a", "telefon": "68 477 12 79", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Żelazna", "g_miejsc": "Żagań", "g_adr": "1a", "g_teryt": "0810021", "g_gm": "Żagań", "g_pow": "żagański", "g_woj": "lubuskie", "g_szer": 15.331809083834397, "g_dlug": 51.612507925579536, "g_uuid": "21afdb44-f108-498e-82d1-c8d4ef5da8aa", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 246124.158771158778109, 422599.738018922507763 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0810",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 126,
+                "JPT_KOD_JE": "0810",
+                "JPT_NAZWA_": "powiat żagański",
+                "id": "104#103",
+                "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ",
+                "kod_swiadczeniodawcy": "102778",
+                "swiadczeniodawca": "Nowy Szpital w Szprotawie Sp. z o.o.",
+                "miejscowosc": "Szprotawa\r\n",
+                "ulica": "Henrykowska ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Henrykowska 1",
+                "telefon": "68 376 26 00; 516 098 657; 516 142 464; ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 15.552559852421538,
+                "g_dlug": 51.56748874965143,
+                "g_uuid": "d913583b-cacb-47ec-a45b-d920a3fb1a2c",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.552559999963307,
+                    51.56749000001525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 337,
+                "JPT_KOD_JE": "0810",
+                "JPT_NAZWA_": "powiat żagański",
+                "id": "104#107",
+                "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ",
+                "kod_swiadczeniodawcy": "020293",
+                "swiadczeniodawca": "105. Kresowy Szpital Wojskowy z Przychodnią Samodzielny Publiczny Zakład Opieki Zdrowotnej Filia Żagań",
+                "miejscowosc": "Żagań\r\n",
+                "ulica": "Żelazna",
+                "numer_domu": "1a",
+                "adres_swiadczeniodawcy": "Żelazna 1a",
+                "telefon": "68 477 12 79",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Żelazna",
+                "g_miejsc": "Żagań",
+                "g_adr": "1a",
+                "g_teryt": "0810021",
+                "g_gm": "Żagań",
+                "g_pow": "żagański",
+                "g_woj": "lubuskie",
+                "g_szer": 15.331809083834397,
+                "g_dlug": 51.612507925579536,
+                "g_uuid": "21afdb44-f108-498e-82d1-c8d4ef5da8aa",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.331809999950359,
+                    51.61251000001559
+                ]
+            }
+        }
+    ]
 }

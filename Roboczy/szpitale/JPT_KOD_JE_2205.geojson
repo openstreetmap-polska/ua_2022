@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2205",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 104, "JPT_KOD_JE": "2205", "JPT_NAZWA_": "powiat kartuski", "id": 541, "wojewodztwo": "pomorskie", "miasto": "kartuski", "powiat": "Kartuzy", "adres": "Floriana Ceynowy 7", "miejscowosc": "Kartuzy", "kod": "83-300", "nazwa": "Powiatowe Centrum Zdrowia Sp. z o.o. NZOZ im. dr. A.Majkowskiego", "poziom": "I stopień", "www": "http:\/\/www.pczkartuzy.pl", "telefon": "58 685-48-00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 447870.2, 719483.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2205",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 104,
+                "JPT_KOD_JE": "2205",
+                "JPT_NAZWA_": "powiat kartuski",
+                "id": 541,
+                "wojewodztwo": "pomorskie",
+                "miasto": "kartuski",
+                "powiat": "Kartuzy",
+                "adres": "Floriana Ceynowy 7",
+                "miejscowosc": "Kartuzy",
+                "kod": "83-300",
+                "nazwa": "Powiatowe Centrum Zdrowia Sp. z o.o. NZOZ im. dr. A.Majkowskiego",
+                "poziom": "I stopień",
+                "www": "http://www.pczkartuzy.pl",
+                "telefon": "58 685-48-00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.197992232107197,
+                    54.336785099170825
+                ]
+            }
+        }
+    ]
 }

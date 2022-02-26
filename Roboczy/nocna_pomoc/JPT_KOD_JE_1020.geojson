@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1020",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 131, "JPT_KOD_JE": "1020", "JPT_NAZWA_": "powiat zgierski", "id": "104#135", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "110013", "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny im. M. Skłodowskiej - Curie w Zgierzu", "miejscowosc": "Zgierz ", "ulica": "Parzęczewska ", "numer_domu": "35", "adres_swiadczeniodawcy": "Parzęczewska 35", "telefon": "Zgierz i Ozorków: 42 717 15 64; Aleksandrów Łódzki: 42 712 13 54 ", "dodatkowe_miejsce": "1. Spokojna 10; Ozorków; 2. M. Skłodowskiej-Curie 1; Aleksandrów Łódzki ", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 19.389354922275324, "g_dlug": 51.862960950064476, "g_uuid": "b0fc8242-7e87-4d70-af4a-b88d41c513ed", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 526802.536159461131319, 444143.611674326471984 ] } },
-{ "type": "Feature", "properties": { "gid": 227, "JPT_KOD_JE": "1020", "JPT_NAZWA_": "powiat zgierski", "id": "104#114", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "210843", "swiadczeniodawca": "Centrum Zdrowia ABIS Szpital w Głownie", "miejscowosc": "Głowno", "ulica": "Wojska Polskiego", "numer_domu": "32\/34", "adres_swiadczeniodawcy": "Wojska Polskiego 32\/34 ", "telefon": "22 749 10 80", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Wojska Polskiego", "g_miejsc": "Głowno", "g_adr": "32\/34", "g_teryt": "1020011", "g_gm": "Głowno", "g_pow": "zgierski", "g_woj": "łódzkie", "g_szer": 19.733014875176725, "g_dlug": 51.957210181722544, "g_uuid": "68be4109-2d0a-4535-bc41-9ba3df46c124", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 550354.055308144539595, 454805.106320481747389 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1020",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 131,
+                "JPT_KOD_JE": "1020",
+                "JPT_NAZWA_": "powiat zgierski",
+                "id": "104#135",
+                "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ",
+                "kod_swiadczeniodawcy": "110013",
+                "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny im. M. Skłodowskiej - Curie w Zgierzu",
+                "miejscowosc": "Zgierz ",
+                "ulica": "Parzęczewska ",
+                "numer_domu": "35",
+                "adres_swiadczeniodawcy": "Parzęczewska 35",
+                "telefon": "Zgierz i Ozorków: 42 717 15 64; Aleksandrów Łódzki: 42 712 13 54 ",
+                "dodatkowe_miejsce": "1. Spokojna 10; Ozorków; 2. M. Skłodowskiej-Curie 1; Aleksandrów Łódzki ",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 19.389354922275324,
+                "g_dlug": 51.862960950064476,
+                "g_uuid": "b0fc8242-7e87-4d70-af4a-b88d41c513ed",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.38935000000013,
+                    51.862960000015256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 227,
+                "JPT_KOD_JE": "1020",
+                "JPT_NAZWA_": "powiat zgierski",
+                "id": "104#114",
+                "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ",
+                "kod_swiadczeniodawcy": "210843",
+                "swiadczeniodawca": "Centrum Zdrowia ABIS Szpital w Głownie",
+                "miejscowosc": "Głowno",
+                "ulica": "Wojska Polskiego",
+                "numer_domu": "32/34",
+                "adres_swiadczeniodawcy": "Wojska Polskiego 32/34 ",
+                "telefon": "22 749 10 80",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Wojska Polskiego",
+                "g_miejsc": "Głowno",
+                "g_adr": "32/34",
+                "g_teryt": "1020011",
+                "g_gm": "Głowno",
+                "g_pow": "zgierski",
+                "g_woj": "łódzkie",
+                "g_szer": 19.733014875176725,
+                "g_dlug": 51.957210181722544,
+                "g_uuid": "68be4109-2d0a-4535-bc41-9ba3df46c124",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.733010000000267,
+                    51.95721000001541
+                ]
+            }
+        }
+    ]
 }

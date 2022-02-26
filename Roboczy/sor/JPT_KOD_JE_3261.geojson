@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3261",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3261", "JPT_NAZWA_": "powiat Koszalin", "id": 172, "ksiega": 391646, "id zoz": 480998, "id jednostki": "776327", "id komórki": 6822305, "regon": 33000629200036, "kod jednostki": "01", "kod komórki": 57, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Koszalin - gmina miejska", "ulica": "ul. Tytusa Chałubińskiego", "budynek": "7", "lokal": "NULL", "kod": "75-581", "miejscowosc": "Koszalin", "teryt": 3261011, "kod simc": 949448, "kod ulicy": "02663", "lozka": 16, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-01-01" }, "geometry": { "type": "Point", "coordinates": [ 318315.847390086972155, 707354.809591130004264 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3261",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3261",
+                "JPT_NAZWA_": "powiat Koszalin",
+                "id": 172,
+                "ksiega": 391646,
+                "id zoz": 480998,
+                "id jednostki": "776327",
+                "id komórki": 6822305,
+                "regon": 33000629200036,
+                "kod jednostki": "01",
+                "kod komórki": 57,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Koszalin - gmina miejska",
+                "ulica": "ul. Tytusa Chałubińskiego",
+                "budynek": "7",
+                "lokal": "NULL",
+                "kod": "75-581",
+                "miejscowosc": "Koszalin",
+                "teryt": 3261011,
+                "kod simc": 949448,
+                "kod ulicy": "02663",
+                "lozka": 16,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2000-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.213864999990246,
+                    54.19819500001917
+                ]
+            }
+        }
+    ]
 }

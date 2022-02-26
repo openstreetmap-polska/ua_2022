@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3002",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3002", "JPT_NAZWA_": "powiat czarnkowsko-trzcianecki", "id": 110, "ksiega": 389179, "id zoz": 476883, "id jednostki": "767322", "id komórki": 6732148, "regon": 30858300063, "kod jednostki": "01", "kod komórki": 40, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny  Oddział  Ratunkowy", "teryt opis": "Trzcianka - miasto", "ulica": "ul. gen. Władysława Sikorskiego", "budynek": "9", "lokal": "NULL", "kod": "64-980", "miejscowosc": "Trzcianka", "teryt": 3002074, "kod simc": 967162, "kod ulicy": "19907", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-07-22" }, "geometry": { "type": "Point", "coordinates": [ 329972.87051573197823, 577926.356622767052613 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3002",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3002",
+                "JPT_NAZWA_": "powiat czarnkowsko-trzcianecki",
+                "id": 110,
+                "ksiega": 389179,
+                "id zoz": 476883,
+                "id jednostki": "767322",
+                "id komórki": 6732148,
+                "regon": 30858300063,
+                "kod jednostki": "01",
+                "kod komórki": 40,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny  Oddział  Ratunkowy",
+                "teryt opis": "Trzcianka - miasto",
+                "ulica": "ul. gen. Władysława Sikorskiego",
+                "budynek": "9",
+                "lokal": "NULL",
+                "kod": "64-980",
+                "miejscowosc": "Trzcianka",
+                "teryt": 3002074,
+                "kod simc": 967162,
+                "kod ulicy": "19907",
+                "lozka": 6,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2002-07-22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.463140999992724,
+                    53.03965200001717
+                ]
+            }
+        }
+    ]
 }

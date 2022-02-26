@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0804",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0804", "JPT_NAZWA_": "powiat nowosolski", "id": 91, "ksiega": 388684, "id zoz": 475952, "id jednostki": "764822", "id komórki": 6701714, "regon": 97077473300020, "kod jednostki": "01", "kod komórki": 15, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Nowa Sól - gmina miejska", "ulica": "ul. Chałubińskiego", "budynek": "7", "lokal": "NULL", "kod": "67-100", "miejscowosc": "Nowa Sól", "teryt": 804011, "kod simc": 988520, "kod ulicy": "02661", "lozka": 9, "liczba łóżek iom": 4, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-11-30" }, "geometry": { "type": "Point", "coordinates": [ 271731.091399999976, 443036.9288 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0804",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0804",
+                "JPT_NAZWA_": "powiat nowosolski",
+                "id": 91,
+                "ksiega": 388684,
+                "id zoz": 475952,
+                "id jednostki": "764822",
+                "id komórki": 6701714,
+                "regon": 97077473300020,
+                "kod jednostki": "01",
+                "kod komórki": 15,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Nowa Sól - gmina miejska",
+                "ulica": "ul. Chałubińskiego",
+                "budynek": "7",
+                "lokal": "NULL",
+                "kod": "67-100",
+                "miejscowosc": "Nowa Sól",
+                "teryt": 804011,
+                "kod simc": 988520,
+                "kod ulicy": "02661",
+                "lozka": 9,
+                "liczba łóżek iom": 4,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2000-11-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.687707639280559,
+                    51.80698800487414
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1402",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1402", "JPT_NAZWA_": "powiat ciechanowski", "id": 147, "ksiega": 391156, "id zoz": 480106, "id jednostki": "773730", "id komórki": 6792769, "regon": 31162200039, "kod jednostki": "01", "kod komórki": 21, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Ciechanów - gmina miejska", "ulica": "ul. Powstańców Wielkopolskich", "budynek": "2", "lokal": "NULL", "kod": "06-400", "miejscowosc": "Ciechanów", "teryt": 1402011, "kod simc": 930414, "kod ulicy": "17377", "lozka": 3, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-12-01" }, "geometry": { "type": "Point", "coordinates": [ 609930.347, 558796.5 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1402",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1402",
+                "JPT_NAZWA_": "powiat ciechanowski",
+                "id": 147,
+                "ksiega": 391156,
+                "id zoz": 480106,
+                "id jednostki": "773730",
+                "id komórki": 6792769,
+                "regon": 31162200039,
+                "kod jednostki": "01",
+                "kod komórki": 21,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Ciechanów - gmina miejska",
+                "ulica": "ul. Powstańców Wielkopolskich",
+                "budynek": "2",
+                "lokal": "NULL",
+                "kod": "06-400",
+                "miejscowosc": "Ciechanów",
+                "teryt": 1402011,
+                "kod simc": 930414,
+                "kod ulicy": "17377",
+                "lozka": 3,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2002-12-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.634207441257534,
+                    52.88344364847427
+                ]
+            }
+        }
+    ]
 }

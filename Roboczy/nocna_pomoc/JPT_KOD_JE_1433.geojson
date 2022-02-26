@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1433",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 49, "JPT_KOD_JE": "1433", "JPT_NAZWA_": "powiat węgrowski", "id": "104#256", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001667", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Węgrowie", "miejscowosc": "Węgrów", "ulica": " Mickiewicza ", "numer_domu": "5", "adres_swiadczeniodawcy": " Mickiewicza 5", "telefon": "Węgrów: 25 792-44-88; \r\n502-361-438; Łochów: 25 675-11-09; 501-924-287", "dodatkowe_miejsce": "Aleja Pokoju 73; Łochów ", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Mickiewicza Adama", "g_miejsc": "Węgrów", "g_adr": "5", "g_teryt": "1433011", "g_gm": "Węgrów", "g_pow": "węgrowski", "g_woj": "mazowieckie", "g_szer": 22.020064422711005, "g_dlug": 52.39698667034002, "g_uuid": "8df620ef-b606-4a92-9f95-e1ab4bb569e7", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 705403.841799009591341, 507742.370538645423949 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1433",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 49,
+                "JPT_KOD_JE": "1433",
+                "JPT_NAZWA_": "powiat węgrowski",
+                "id": "104#256",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70001667",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Węgrowie",
+                "miejscowosc": "Węgrów",
+                "ulica": " Mickiewicza ",
+                "numer_domu": "5",
+                "adres_swiadczeniodawcy": " Mickiewicza 5",
+                "telefon": "Węgrów: 25 792-44-88; \r\n502-361-438; Łochów: 25 675-11-09; 501-924-287",
+                "dodatkowe_miejsce": "Aleja Pokoju 73; Łochów ",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Mickiewicza Adama",
+                "g_miejsc": "Węgrów",
+                "g_adr": "5",
+                "g_teryt": "1433011",
+                "g_gm": "Węgrów",
+                "g_pow": "węgrowski",
+                "g_woj": "mazowieckie",
+                "g_szer": 22.020064422711005,
+                "g_dlug": 52.39698667034002,
+                "g_uuid": "8df620ef-b606-4a92-9f95-e1ab4bb569e7",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.020060000017402,
+                    52.39699000001627
+                ]
+            }
+        }
+    ]
 }

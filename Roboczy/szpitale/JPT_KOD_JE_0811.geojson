@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0811",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 313, "JPT_KOD_JE": "0811", "JPT_NAZWA_": "powiat żarski", "id": 108, "wojewodztwo": "lubuskie", "miasto": "Żary", "powiat": "żarski", "adres": "Domańskiego 2", "miejscowosc": "Żary", "kod": "68-200", "nazwa": "105. Kresowy Szpital Wojskowy z Przychodnią Samodzilny Publiczny Zakład Opieki Zdrowotnej", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.105szpital.pl", "telefon": "68 470 78 87, 68 477 12 02 ", "e-mail": "sekretariat@105szpital.pl, sekretariat.zagan@105szpital.pl" }, "geometry": { "type": "Point", "coordinates": [ 233588.8, 426405.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 314, "JPT_KOD_JE": "0811", "JPT_NAZWA_": "powiat żarski", "id": 96, "wojewodztwo": "lubuskie", "miasto": "Żary", "powiat": "żarski", "adres": "Pszenna 2", "miejscowosc": "Żary", "kod": "68-200", "nazwa": "Szpital Na Wyspie Spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.szpitalnawyspie.pl", "telefon": "68 475 76 00", "e-mail": "info@szpitalnawyspie.pl" }, "geometry": { "type": "Point", "coordinates": [ 233906.6, 426763.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0811",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 313,
+                "JPT_KOD_JE": "0811",
+                "JPT_NAZWA_": "powiat żarski",
+                "id": 108,
+                "wojewodztwo": "lubuskie",
+                "miasto": "Żary",
+                "powiat": "żarski",
+                "adres": "Domańskiego 2",
+                "miejscowosc": "Żary",
+                "kod": "68-200",
+                "nazwa": "105. Kresowy Szpital Wojskowy z Przychodnią Samodzilny Publiczny Zakład Opieki Zdrowotnej",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.105szpital.pl",
+                "telefon": "68 470 78 87, 68 477 12 02 ",
+                "e-mail": "sekretariat@105szpital.pl, sekretariat.zagan@105szpital.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.148224667358578,
+                    51.64086525234954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 314,
+                "JPT_KOD_JE": "0811",
+                "JPT_NAZWA_": "powiat żarski",
+                "id": 96,
+                "wojewodztwo": "lubuskie",
+                "miasto": "Żary",
+                "powiat": "żarski",
+                "adres": "Pszenna 2",
+                "miejscowosc": "Żary",
+                "kod": "68-200",
+                "nazwa": "Szpital Na Wyspie Spółka z ograniczoną odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalnawyspie.pl",
+                "telefon": "68 475 76 00",
+                "e-mail": "info@szpitalnawyspie.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.152535657362163,
+                    51.644231978965415
+                ]
+            }
+        }
+    ]
 }

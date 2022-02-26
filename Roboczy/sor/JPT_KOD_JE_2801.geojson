@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2801",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2801", "JPT_NAZWA_": "powiat bartoszycki", "id": 78, "ksiega": 388118, "id zoz": 474517, "id jednostki": "761604", "id komórki": 6659802, "regon": 30843600045, "kod jednostki": "01", "kod komórki": 18, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "szpitalny oddział ratunkowy", "teryt opis": "Bartoszyce - gmina miejska", "ulica": "ul. Kardynała Wyszyńskiego", "budynek": "11", "lokal": "NULL", "kod": "11-200", "miejscowosc": "Bartoszyce", "teryt": 2801011, "kod simc": 964583, "kod ulicy": "33784", "lozka": 3, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 5, "data rozpoczęcia działalności komórki": "2003-04-25" }, "geometry": { "type": "Point", "coordinates": [ 616689.306643801974133, 712000.921346819959581 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2801",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2801",
+                "JPT_NAZWA_": "powiat bartoszycki",
+                "id": 78,
+                "ksiega": 388118,
+                "id zoz": 474517,
+                "id jednostki": "761604",
+                "id komórki": 6659802,
+                "regon": 30843600045,
+                "kod jednostki": "01",
+                "kod komórki": 18,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "szpitalny oddział ratunkowy",
+                "teryt opis": "Bartoszyce - gmina miejska",
+                "ulica": "ul. Kardynała Wyszyńskiego",
+                "budynek": "11",
+                "lokal": "NULL",
+                "kod": "11-200",
+                "miejscowosc": "Bartoszyce",
+                "teryt": 2801011,
+                "kod simc": 964583,
+                "kod ulicy": "33784",
+                "lozka": 3,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 5,
+                "data rozpoczęcia działalności komórki": "2003-04-25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.791932000001786,
+                    54.25886800001918
+                ]
+            }
+        }
+    ]
 }

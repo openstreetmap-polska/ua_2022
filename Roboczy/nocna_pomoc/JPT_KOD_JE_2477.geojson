@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2477",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 82, "JPT_KOD_JE": "2477", "JPT_NAZWA_": "powiat Tychy", "id": "104#415", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/212484", "swiadczeniodawca": "Megrez Sp. z o.o.", "miejscowosc": "Tychy", "ulica": "Edukacji ", "numer_domu": "102", "adres_swiadczeniodawcy": "Edukacji 102", "telefon": "32 325 52 98", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Edukacji", "g_miejsc": "Tychy", "g_adr": "102", "g_teryt": "2477011", "g_gm": "Tychy", "g_pow": "Tychy", "g_woj": "śląskie", "g_szer": 19.007550446573148, "g_dlug": 50.113883304000282, "g_uuid": "518ac93e-57b9-4e2e-b1c6-24cea41abd77", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 500539.645217789278831, 249626.499845922924578 ] } },
-{ "type": "Feature", "properties": { "gid": 289, "JPT_KOD_JE": "2477", "JPT_NAZWA_": "powiat Tychy", "id": "104#414", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/212114", "swiadczeniodawca": "Szpital Miejski w Tychach", "miejscowosc": "Tychy", "ulica": "Cicha ", "numer_domu": "27", "adres_swiadczeniodawcy": "Cicha 27", "telefon": "32 780 87 62;\r\n32 780 87 63", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Cicha", "g_miejsc": "Tychy", "g_adr": "27", "g_teryt": "2477011", "g_gm": "Tychy", "g_pow": "Tychy", "g_woj": "śląskie", "g_szer": 18.982456006118039, "g_dlug": 50.119091118921645, "g_uuid": "ed23bf58-8a49-4c78-a007-4886b3baa672", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 498746.443707254773472, 250205.729260885156691 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2477",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 82,
+                "JPT_KOD_JE": "2477",
+                "JPT_NAZWA_": "powiat Tychy",
+                "id": "104#415",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/212484",
+                "swiadczeniodawca": "Megrez Sp. z o.o.",
+                "miejscowosc": "Tychy",
+                "ulica": "Edukacji ",
+                "numer_domu": "102",
+                "adres_swiadczeniodawcy": "Edukacji 102",
+                "telefon": "32 325 52 98",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Edukacji",
+                "g_miejsc": "Tychy",
+                "g_adr": "102",
+                "g_teryt": "2477011",
+                "g_gm": "Tychy",
+                "g_pow": "Tychy",
+                "g_woj": "śląskie",
+                "g_szer": 19.00755044657315,
+                "g_dlug": 50.11388330400028,
+                "g_uuid": "518ac93e-57b9-4e2e-b1c6-24cea41abd77",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.007550000000002,
+                    50.11388000001269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 289,
+                "JPT_KOD_JE": "2477",
+                "JPT_NAZWA_": "powiat Tychy",
+                "id": "104#414",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/212114",
+                "swiadczeniodawca": "Szpital Miejski w Tychach",
+                "miejscowosc": "Tychy",
+                "ulica": "Cicha ",
+                "numer_domu": "27",
+                "adres_swiadczeniodawcy": "Cicha 27",
+                "telefon": "32 780 87 62;\r\n32 780 87 63",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Cicha",
+                "g_miejsc": "Tychy",
+                "g_adr": "27",
+                "g_teryt": "2477011",
+                "g_gm": "Tychy",
+                "g_pow": "Tychy",
+                "g_woj": "śląskie",
+                "g_szer": 18.98245600611804,
+                "g_dlug": 50.119091118921645,
+                "g_uuid": "ed23bf58-8a49-4c78-a007-4886b3baa672",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.982459999999996,
+                    50.119090000012676
+                ]
+            }
+        }
+    ]
 }

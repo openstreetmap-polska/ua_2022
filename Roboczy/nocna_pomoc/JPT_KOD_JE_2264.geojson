@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2264",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 275, "JPT_KOD_JE": "2264", "JPT_NAZWA_": "powiat Sopot", "id": "104#352", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "000119", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej Miejska Stacja Pogotowia Ratunkowego z Przychodnią w Sopocie                                                      ", "miejscowosc": "Sopot ", "ulica": " Bolesława Chrobrego ", "numer_domu": "10", "adres_swiadczeniodawcy": " Bolesława Chrobrego 10", "telefon": "58 555 81 14", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.568710822140392, "g_dlug": 54.440037230552221, "g_uuid": "f9b9b856-bfc5-4886-9281-7e48607ef2d6", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 472036.609321911702864, 730757.674678324721754 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2264",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 275,
+                "JPT_KOD_JE": "2264",
+                "JPT_NAZWA_": "powiat Sopot",
+                "id": "104#352",
+                "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "000119",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej Miejska Stacja Pogotowia Ratunkowego z Przychodnią w Sopocie                                                      ",
+                "miejscowosc": "Sopot ",
+                "ulica": " Bolesława Chrobrego ",
+                "numer_domu": "10",
+                "adres_swiadczeniodawcy": " Bolesława Chrobrego 10",
+                "telefon": "58 555 81 14",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 18.568710822140392,
+                "g_dlug": 54.44003723055222,
+                "g_uuid": "f9b9b856-bfc5-4886-9281-7e48607ef2d6",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.568709999999793,
+                    54.440040000019486
+                ]
+            }
+        }
+    ]
 }

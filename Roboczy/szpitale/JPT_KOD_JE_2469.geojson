@@ -1,18 +1,309 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2469",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 375, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": 466, "wojewodztwo": "śląskie", "miasto": "Katowice", "powiat": "Katowice", "adres": "Raciborska 26", "miejscowosc": "Katowice", "kod": null, "nazwa": "KATOWICKIE CENTRUM ONKOLOGII", "poziom": "Szpital onkologiczny", "www": "http:\/\/www.kco.katowice.pl", "telefon": "32 420 0 420", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 500421.5, 265247.8 ] } },
-{ "type": "Feature", "properties": { "_uid_": 376, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": 471, "wojewodztwo": "śląskie", "miasto": "Katowice", "powiat": "Katowice", "adres": "Głowackiego 10", "miejscowosc": "Katowice", "kod": null, "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji w Katowicach im. sierżanta Grzegorza Załogi", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.zozmsw.katowice.pl", "telefon": "32 782 72 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 500690.2, 264828.3 ] } },
-{ "type": "Feature", "properties": { "_uid_": 377, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": 472, "wojewodztwo": "śląskie", "miasto": "Katowice", "powiat": "Katowice", "adres": "Medyków 16", "miejscowosc": "Katowice", "kod": null, "nazwa": "Samodzielny Publiczny Szpital Kliniczny Nr 6 Śląskiego Uniwersytetu Medycznego w Katowicach Górnośląskie Centrum Zdrowia Dziecka", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.gczd.katowice.pl", "telefon": "32 207 18 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 496546.1, 261841.8 ] } },
-{ "type": "Feature", "properties": { "_uid_": 378, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": 474, "wojewodztwo": "śląskie", "miasto": "Katowice", "powiat": "Katowice", "adres": "Ceglana 35", "miejscowosc": "Katowice", "kod": null, "nazwa": "Uniwersyteckie Centrum Kliniczne im. prof. K. Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.uck.katowice.pl", "telefon": "32 358 12 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 501116.4, 264064.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 379, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": 510, "wojewodztwo": "śląskie", "miasto": "Katowice", "powiat": "Katowice", "adres": "Warszawska 52", "miejscowosc": "Katowice", "kod": null, "nazwa": "American Heart of Poland Spółka Akcyjna", "poziom": "I stopień", "www": "http:\/\/www.klinikiserca.pl", "telefon": "801502302", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 502401.4, 265596.5 ] } },
-{ "type": "Feature", "properties": { "_uid_": 380, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": 520, "wojewodztwo": "śląskie", "miasto": "Katowice", "powiat": "Katowice", "adres": "Morawa 31", "miejscowosc": "Katowice", "kod": null, "nazwa": "\"EMC Silesia\" Spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.emc-sa.pl\/nasze-placowki\/katowice-szpital-geriatryczny-im-jana-pawla-ii", "telefon": "32 256 81 49", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 506561.3, 266549.1 ] } },
-{ "type": "Feature", "properties": { "_uid_": 381, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": 523, "wojewodztwo": "śląskie", "miasto": "Katowice", "powiat": "Katowice", "adres": "Sokołowskiego 2", "miejscowosc": "Katowice", "kod": null, "nazwa": "Szpital Murcki Spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.szpitalmurcki.pl", "telefon": "32 255 61 62", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 502965.8, 258917.6 ] } },
-{ "type": "Feature", "properties": { "_uid_": 382, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": 527, "wojewodztwo": "śląskie", "miasto": "Katowice", "powiat": "Katowice", "adres": "Panewnicka 65", "miejscowosc": "Katowice", "kod": null, "nazwa": "Okręgowy Szpital Kolejowy w Katowicach SPZOZ", "poziom": "I stopień", "www": "http:\/\/www.kolejowy.katowice.pl", "telefon": "32 605 35 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 497111.4, 262194.1 ] } },
-{ "type": "Feature", "properties": { "_uid_": 383, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": 473, "wojewodztwo": "śląskie", "miasto": "Katowice", "powiat": "Katowice", "adres": "Francuska 20-24", "miejscowosc": "Katowice", "kod": null, "nazwa": "Samodzielny Publiczny Szpital Kliniczny im. Andrzeja Mielęckiego Śląskiego Uniwersytetu Medycznego w Katowicach", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.spskm.katowice.pl", "telefon": "32 259 12 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 501973.7, 265267.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 384, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": 475, "wojewodztwo": "śląskie", "miasto": "Katowice", "powiat": "Katowice", "adres": "Ziołowa 45\/47", "miejscowosc": "Katowice", "kod": null, "nazwa": "SP Szpital Kliniczny Nr 7 Śląskiego Uniwersytetu Medycznego w Katowicach Górnośląskie Centrum Medyczne im. prof. Leszka Gieca", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.gcm.pl", "telefon": "32 359 80 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 500058.0, 260513.9 ] } },
-{ "type": "Feature", "properties": { "_uid_": 385, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": 519, "wojewodztwo": "śląskie", "miasto": "Katowice", "powiat": "Katowice", "adres": "Ks. Markiefki 87", "miejscowosc": "Katowice", "kod": null, "nazwa": "Szpital Zakonu Bonifratrów w Katowicach spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.bonifratrzy.pl\/szpital-katowice", "telefon": "32 357 62 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 502836.1, 266831.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2469",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 375,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": 466,
+                "wojewodztwo": "śląskie",
+                "miasto": "Katowice",
+                "powiat": "Katowice",
+                "adres": "Raciborska 26",
+                "miejscowosc": "Katowice",
+                "kod": null,
+                "nazwa": "KATOWICKIE CENTRUM ONKOLOGII",
+                "poziom": "Szpital onkologiczny",
+                "www": "http://www.kco.katowice.pl",
+                "telefon": "32 420 0 420",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.005914397512182,
+                    50.254416602814096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 376,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": 471,
+                "wojewodztwo": "śląskie",
+                "miasto": "Katowice",
+                "powiat": "Katowice",
+                "adres": "Głowackiego 10",
+                "miejscowosc": "Katowice",
+                "kod": null,
+                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji w Katowicach im. sierżanta Grzegorza Załogi",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.zozmsw.katowice.pl",
+                "telefon": "32 782 72 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.009683973238996,
+                    50.25064237670027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 377,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": 472,
+                "wojewodztwo": "śląskie",
+                "miasto": "Katowice",
+                "powiat": "Katowice",
+                "adres": "Medyków 16",
+                "miejscowosc": "Katowice",
+                "kod": null,
+                "nazwa": "Samodzielny Publiczny Szpital Kliniczny Nr 6 Śląskiego Uniwersytetu Medycznego w Katowicach Górnośląskie Centrum Zdrowia Dziecka",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.gczd.katowice.pl",
+                "telefon": "32 207 18 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.951566681870954,
+                    50.22376498534175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 378,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": 474,
+                "wojewodztwo": "śląskie",
+                "miasto": "Katowice",
+                "powiat": "Katowice",
+                "adres": "Ceglana 35",
+                "miejscowosc": "Katowice",
+                "kod": null,
+                "nazwa": "Uniwersyteckie Centrum Kliniczne im. prof. K. Gibińskiego Śląskiego Uniwersytetu Medycznego w Katowicach",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.uck.katowice.pl",
+                "telefon": "32 358 12 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.01566159456635,
+                    50.24376759961493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 379,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": 510,
+                "wojewodztwo": "śląskie",
+                "miasto": "Katowice",
+                "powiat": "Katowice",
+                "adres": "Warszawska 52",
+                "miejscowosc": "Katowice",
+                "kod": null,
+                "nazwa": "American Heart of Poland Spółka Akcyjna",
+                "poziom": "I stopień",
+                "www": "http://www.klinikiserca.pl",
+                "telefon": "801502302",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.03369813897004,
+                    50.25754889721495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 380,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": 520,
+                "wojewodztwo": "śląskie",
+                "miasto": "Katowice",
+                "powiat": "Katowice",
+                "adres": "Morawa 31",
+                "miejscowosc": "Katowice",
+                "kod": null,
+                "nazwa": "\"EMC Silesia\" Spółka z ograniczoną odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.emc-sa.pl/nasze-placowki/katowice-szpital-geriatryczny-im-jana-pawla-ii",
+                "telefon": "32 256 81 49",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.092089257390764,
+                    50.266087221651176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 381,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": 523,
+                "wojewodztwo": "śląskie",
+                "miasto": "Katowice",
+                "powiat": "Katowice",
+                "adres": "Sokołowskiego 2",
+                "miejscowosc": "Katowice",
+                "kod": null,
+                "nazwa": "Szpital Murcki Spółka z ograniczoną odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalmurcki.pl",
+                "telefon": "32 255 61 62",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.041565937515134,
+                    50.19746029586688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 382,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": 527,
+                "wojewodztwo": "śląskie",
+                "miasto": "Katowice",
+                "powiat": "Katowice",
+                "adres": "Panewnicka 65",
+                "miejscowosc": "Katowice",
+                "kod": null,
+                "nazwa": "Okręgowy Szpital Kolejowy w Katowicach SPZOZ",
+                "poziom": "I stopień",
+                "www": "http://www.kolejowy.katowice.pl",
+                "telefon": "32 605 35 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.959491078904996,
+                    50.22693745081532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 383,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": 473,
+                "wojewodztwo": "śląskie",
+                "miasto": "Katowice",
+                "powiat": "Katowice",
+                "adres": "Francuska 20-24",
+                "miejscowosc": "Katowice",
+                "kod": null,
+                "nazwa": "Samodzielny Publiczny Szpital Kliniczny im. Andrzeja Mielęckiego Śląskiego Uniwersytetu Medycznego w Katowicach",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.spskm.katowice.pl",
+                "telefon": "32 259 12 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.02769463317358,
+                    50.25458618379056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 384,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": 475,
+                "wojewodztwo": "śląskie",
+                "miasto": "Katowice",
+                "powiat": "Katowice",
+                "adres": "Ziołowa 45/47",
+                "miejscowosc": "Katowice",
+                "kod": null,
+                "nazwa": "SP Szpital Kliniczny Nr 7 Śląskiego Uniwersytetu Medycznego w Katowicach Górnośląskie Centrum Medyczne im. prof. Leszka Gieca",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.gcm.pl",
+                "telefon": "32 359 80 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.000813118957957,
+                    50.21182873735562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 385,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": 519,
+                "wojewodztwo": "śląskie",
+                "miasto": "Katowice",
+                "powiat": "Katowice",
+                "adres": "Ks. Markiefki 87",
+                "miejscowosc": "Katowice",
+                "kod": null,
+                "nazwa": "Szpital Zakonu Bonifratrów w Katowicach spółka z ograniczoną odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.bonifratrzy.pl/szpital-katowice",
+                "telefon": "32 357 62 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.03980741671464,
+                    50.26866104908139
+                ]
+            }
+        }
+    ]
 }

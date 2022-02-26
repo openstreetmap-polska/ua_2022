@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3063",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 193, "JPT_KOD_JE": "3063", "JPT_NAZWA_": "powiat Leszno", "id": "104#482", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150003556", "swiadczeniodawca": "Wojewódzki Szpital Zespolony w Lesznie", "miejscowosc": "Leszno ", "ulica": "Jana Kiepury ", "numer_domu": "45", "adres_swiadczeniodawcy": "Jana Kiepury 45", "telefon": "65 525 36 70", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kiepury Jana", "g_miejsc": "Leszno", "g_adr": "45", "g_teryt": "3063011", "g_gm": "Leszno", "g_pow": "Leszno", "g_woj": "wielkopolskie", "g_szer": 16.607785630540423, "g_dlug": 51.838291618744741, "g_uuid": "7ae89dfd-a251-4870-bc10-d9f381dc22a2", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 335243.139482057304122, 444034.048569038510323 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3063",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 193,
+                "JPT_KOD_JE": "3063",
+                "JPT_NAZWA_": "powiat Leszno",
+                "id": "104#482",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150003556",
+                "swiadczeniodawca": "Wojewódzki Szpital Zespolony w Lesznie",
+                "miejscowosc": "Leszno ",
+                "ulica": "Jana Kiepury ",
+                "numer_domu": "45",
+                "adres_swiadczeniodawcy": "Jana Kiepury 45",
+                "telefon": "65 525 36 70",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Kiepury Jana",
+                "g_miejsc": "Leszno",
+                "g_adr": "45",
+                "g_teryt": "3063011",
+                "g_gm": "Leszno",
+                "g_pow": "Leszno",
+                "g_woj": "wielkopolskie",
+                "g_szer": 16.607785630540423,
+                "g_dlug": 51.83829161874474,
+                "g_uuid": "7ae89dfd-a251-4870-bc10-d9f381dc22a2",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.607789999993773,
+                    51.838290000015235
+                ]
+            }
+        }
+    ]
 }

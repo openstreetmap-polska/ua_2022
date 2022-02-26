@@ -1,12 +1,147 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1607",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 119, "JPT_KOD_JE": "1607", "JPT_NAZWA_": "powiat nyski", "id": 270, "wojewodztwo": "opolskie", "miasto": "Głuchołazy", "powiat": "nyski", "adres": "Marii Curie-Skłodowskiej 16", "miejscowosc": "Głuchołazy", "kod": "48-340 ", "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Zespół Opieki Zdrowotnej w Głuchołazach", "poziom": "Szpital pulmonologiczny", "www": "http:\/\/www.zozglucholazy.pl", "telefon": "77 451 12 72   ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 385090.6, 273342.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 120, "JPT_KOD_JE": "1607", "JPT_NAZWA_": "powiat nyski", "id": 274, "wojewodztwo": "opolskie", "miasto": "Korfantów", "powiat": "nyski", "adres": "Wyzwolenia 11", "miejscowosc": "Korfantów", "kod": "48-317 ", "nazwa": "Opolskie Centrum Rehabilitacji Spółka z Ograniczoną Odpowiedzialnością", "poziom": "II stopień", "www": "http:\/\/www.ocr.pl", "telefon": "77 434 40 38", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 400222.0, 292191.4 ] } },
-{ "type": "Feature", "properties": { "_uid_": 121, "JPT_KOD_JE": "1607", "JPT_NAZWA_": "powiat nyski", "id": 278, "wojewodztwo": "opolskie", "miasto": "Nysa", "powiat": "nyski", "adres": "Bohaterów Warszawy 23 ", "miejscowosc": "Nysa", "kod": "48-300 ", "nazwa": "Zespół Opieki Zdrowotnej w Nysie", "poziom": "II stopień", "www": "http:\/\/www.zoznysa.pl", "telefon": "77 408 78 30", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 381475.7, 290699.3 ] } },
-{ "type": "Feature", "properties": { "_uid_": 122, "JPT_KOD_JE": "1607", "JPT_NAZWA_": "powiat nyski", "id": 279, "wojewodztwo": "opolskie", "miasto": "Paczków", "powiat": "nyski", "adres": "ul.Staszica 3", "miejscowosc": "Paczków", "kod": "48-370 ", "nazwa": "Szpital w Paczkowie im.Jana Pawła II", "poziom": "II stopień", "www": "http:\/\/www.zoznysa.pl", "telefon": "77 439 03 08", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 358307.4, 290342.3 ] } },
-{ "type": "Feature", "properties": { "_uid_": 123, "JPT_KOD_JE": "1607", "JPT_NAZWA_": "powiat nyski", "id": 271, "wojewodztwo": "opolskie", "miasto": "Głuchołazy", "powiat": "nyski", "adres": "M.Karłowicza 40", "miejscowosc": "Głuchołazy", "kod": "48-340 ", "nazwa": "Samodzielny Publiczny ZOZ Szpital Specjalistyczny Ministerstwa Spraw Wewnętrznych i Administracji w ", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.szpitalmsw-glucholazy.pl", "telefon": " 77 408 01 55", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 385115.3, 271953.8 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1607",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 119,
+                "JPT_KOD_JE": "1607",
+                "JPT_NAZWA_": "powiat nyski",
+                "id": 270,
+                "wojewodztwo": "opolskie",
+                "miasto": "Głuchołazy",
+                "powiat": "nyski",
+                "adres": "Marii Curie-Skłodowskiej 16",
+                "miejscowosc": "Głuchołazy",
+                "kod": "48-340 ",
+                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Zespół Opieki Zdrowotnej w Głuchołazach",
+                "poziom": "Szpital pulmonologiczny",
+                "www": "http://www.zozglucholazy.pl",
+                "telefon": "77 451 12 72   ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.385493885853432,
+                    50.31602631135712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 120,
+                "JPT_KOD_JE": "1607",
+                "JPT_NAZWA_": "powiat nyski",
+                "id": 274,
+                "wojewodztwo": "opolskie",
+                "miasto": "Korfantów",
+                "powiat": "nyski",
+                "adres": "Wyzwolenia 11",
+                "miejscowosc": "Korfantów",
+                "kod": "48-317 ",
+                "nazwa": "Opolskie Centrum Rehabilitacji Spółka z Ograniczoną Odpowiedzialnością",
+                "poziom": "II stopień",
+                "www": "http://www.ocr.pl",
+                "telefon": "77 434 40 38",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.593010216840028,
+                    50.4883024904163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 121,
+                "JPT_KOD_JE": "1607",
+                "JPT_NAZWA_": "powiat nyski",
+                "id": 278,
+                "wojewodztwo": "opolskie",
+                "miasto": "Nysa",
+                "powiat": "nyski",
+                "adres": "Bohaterów Warszawy 23 ",
+                "miejscowosc": "Nysa",
+                "kod": "48-300 ",
+                "nazwa": "Zespół Opieki Zdrowotnej w Nysie",
+                "poziom": "II stopień",
+                "www": "http://www.zoznysa.pl",
+                "telefon": "77 408 78 30",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.329248212327588,
+                    50.47139078405746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 122,
+                "JPT_KOD_JE": "1607",
+                "JPT_NAZWA_": "powiat nyski",
+                "id": 279,
+                "wojewodztwo": "opolskie",
+                "miasto": "Paczków",
+                "powiat": "nyski",
+                "adres": "ul.Staszica 3",
+                "miejscowosc": "Paczków",
+                "kod": "48-370 ",
+                "nazwa": "Szpital w Paczkowie im.Jana Pawła II",
+                "poziom": "II stopień",
+                "www": "http://www.zoznysa.pl",
+                "telefon": "77 439 03 08",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.00299041826354,
+                    50.46303660024216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 123,
+                "JPT_KOD_JE": "1607",
+                "JPT_NAZWA_": "powiat nyski",
+                "id": 271,
+                "wojewodztwo": "opolskie",
+                "miasto": "Głuchołazy",
+                "powiat": "nyski",
+                "adres": "M.Karłowicza 40",
+                "miejscowosc": "Głuchołazy",
+                "kod": "48-340 ",
+                "nazwa": "Samodzielny Publiczny ZOZ Szpital Specjalistyczny Ministerstwa Spraw Wewnętrznych i Administracji w ",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.szpitalmsw-glucholazy.pl",
+                "telefon": " 77 408 01 55",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.38626350247116,
+                    50.30354566659104
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0810",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 351, "JPT_KOD_JE": "0810", "JPT_NAZWA_": "powiat żagański", "id": 99, "wojewodztwo": "lubuskie", "miasto": "Szprotawa", "powiat": "żagański", "adres": "Henrykowska 1", "miejscowosc": "Szprotawa", "kod": "67-300", "nazwa": "Nowy Szpital w Szprotawie Spółka z Ograniczoną Odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.nowyszpital.pl", "telefon": "41 240 23 11", "e-mail": "sekretariat.szprotawa@nowyszpital.pl" }, "geometry": { "type": "Point", "coordinates": [ 261212.4, 416818.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0810",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 351,
+                "JPT_KOD_JE": "0810",
+                "JPT_NAZWA_": "powiat żagański",
+                "id": 99,
+                "wojewodztwo": "lubuskie",
+                "miasto": "Szprotawa",
+                "powiat": "żagański",
+                "adres": "Henrykowska 1",
+                "miejscowosc": "Szprotawa",
+                "kod": "67-300",
+                "nazwa": "Nowy Szpital w Szprotawie Spółka z Ograniczoną Odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.nowyszpital.pl",
+                "telefon": "41 240 23 11",
+                "e-mail": "sekretariat.szprotawa@nowyszpital.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.553312505891666,
+                    51.567209487574665
+                ]
+            }
+        }
+    ]
 }

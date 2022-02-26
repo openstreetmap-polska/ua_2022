@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2002",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 174, "JPT_KOD_JE": "2002", "JPT_NAZWA_": "powiat białostocki", "id": 570, "wojewodztwo": "podlaskie", "miasto": "białostocki", "powiat": "Łapy", "adres": "Korczaka 23", "miejscowosc": "Łapy", "kod": "18-100", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W ŁAPACH", "poziom": "I stopień", "www": "http:\/\/www.szpitallapy.pl", "telefon": "85 814 24 21", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 759453.4, 576208.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2002",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 174,
+                "JPT_KOD_JE": "2002",
+                "JPT_NAZWA_": "powiat białostocki",
+                "id": 570,
+                "wojewodztwo": "podlaskie",
+                "miasto": "białostocki",
+                "powiat": "Łapy",
+                "adres": "Korczaka 23",
+                "miejscowosc": "Łapy",
+                "kod": "18-100",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W ŁAPACH",
+                "poziom": "I stopień",
+                "www": "http://www.szpitallapy.pl",
+                "telefon": "85 814 24 21",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.86699797299898,
+                    52.988353243465724
+                ]
+            }
+        }
+    ]
 }

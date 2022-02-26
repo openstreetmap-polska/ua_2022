@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3030",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 198, "JPT_KOD_JE": "3030", "JPT_NAZWA_": "powiat wrzesiński", "id": "104#507", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150007437", "swiadczeniodawca": "Szpital Powiatowy we Wrześni Sp. z o. o.", "miejscowosc": "Września ", "ulica": "Słowackiego ", "numer_domu": "2", "adres_swiadczeniodawcy": "Słowackiego 2", "telefon": "Internista:\r\n61 437 06 41\r\n508 313 126\r\nPediatra:\r\n61 437 06 42\r\n508 313 078", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Słowackiego", "g_miejsc": "Września", "g_adr": "2", "g_teryt": "3030053", "g_gm": "Września", "g_pow": "wrzesiński", "g_woj": "wielkopolskie", "g_szer": 17.573444791488949, "g_dlug": 52.325080161255237, "g_uuid": "8edfadf5-2eea-49ec-9c41-d9c687c9c855", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 402808.564819767256267, 496413.430404543876648 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3030",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 198,
+                "JPT_KOD_JE": "3030",
+                "JPT_NAZWA_": "powiat wrzesiński",
+                "id": "104#507",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150007437",
+                "swiadczeniodawca": "Szpital Powiatowy we Wrześni Sp. z o. o.",
+                "miejscowosc": "Września ",
+                "ulica": "Słowackiego ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Słowackiego 2",
+                "telefon": "Internista:\r\n61 437 06 41\r\n508 313 126\r\nPediatra:\r\n61 437 06 42\r\n508 313 078",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Słowackiego",
+                "g_miejsc": "Września",
+                "g_adr": "2",
+                "g_teryt": "3030053",
+                "g_gm": "Września",
+                "g_pow": "wrzesiński",
+                "g_woj": "wielkopolskie",
+                "g_szer": 17.57344479148895,
+                "g_dlug": 52.32508016125524,
+                "g_uuid": "8edfadf5-2eea-49ec-9c41-d9c687c9c855",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.573439999999106,
+                    52.32508000001598
+                ]
+            }
+        }
+    ]
 }

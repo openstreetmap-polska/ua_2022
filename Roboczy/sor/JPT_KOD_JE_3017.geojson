@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3017",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3017", "JPT_NAZWA_": "powiat ostrowski", "id": 175, "ksiega": 391664, "id zoz": 481042, "id jednostki": "776566", "id komórki": 6827091, "regon": 31418700028, "kod jednostki": "01", "kod komórki": 16, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział  Ratunkowy", "teryt opis": "Ostrów Wielkopolski - gmina miejska", "ulica": "ul. Bolesława Limanowskiego", "budynek": "20\/22", "lokal": "NULL", "kod": "63-400", "miejscowosc": "Ostrów Wielkopolski", "teryt": 3017011, "kod simc": 937132, "kod ulicy": "11074", "lozka": 18, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-01-01" }, "geometry": { "type": "Point", "coordinates": [ 418794.410497463017236, 421632.232005261001177 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3017",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3017",
+                "JPT_NAZWA_": "powiat ostrowski",
+                "id": 175,
+                "ksiega": 391664,
+                "id zoz": 481042,
+                "id jednostki": "776566",
+                "id komórki": 6827091,
+                "regon": 31418700028,
+                "kod jednostki": "01",
+                "kod komórki": 16,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział  Ratunkowy",
+                "teryt opis": "Ostrów Wielkopolski - gmina miejska",
+                "ulica": "ul. Bolesława Limanowskiego",
+                "budynek": "20/22",
+                "lokal": "NULL",
+                "kod": "63-400",
+                "miejscowosc": "Ostrów Wielkopolski",
+                "teryt": 3017011,
+                "kod simc": 937132,
+                "kod ulicy": "11074",
+                "lozka": 18,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.825740999999454,
+                    51.65526600001493
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0409",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 198, "JPT_KOD_JE": "0409", "JPT_NAZWA_": "powiat mogileński", "id": 40, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Mogilno", "powiat": "mogileński", "adres": "Kościuszki 10", "miejscowosc": null, "kod": null, "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Mogilnie", "poziom": "I stopień", "www": "http:\/\/www.spzoz-mogilno.pl", "telefon": "52 315 23 03", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 428941.7, 533027.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0409",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 198,
+                "JPT_KOD_JE": "0409",
+                "JPT_NAZWA_": "powiat mogileński",
+                "id": 40,
+                "wojewodztwo": "kujawsko-pomorskie",
+                "miasto": "Mogilno",
+                "powiat": "mogileński",
+                "adres": "Kościuszki 10",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Mogilnie",
+                "poziom": "I stopień",
+                "www": "http://www.spzoz-mogilno.pl",
+                "telefon": "52 315 23 03",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.949116930419187,
+                    52.658295936195294
+                ]
+            }
+        }
+    ]
 }

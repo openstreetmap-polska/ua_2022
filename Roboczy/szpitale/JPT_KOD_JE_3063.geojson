@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3063",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 40, "JPT_KOD_JE": "3063", "JPT_NAZWA_": "powiat Leszno", "id": 386, "wojewodztwo": "wielkopolskie", "miasto": "LESZNO ", "powiat": "LESZNO ", "adres": "KIEPURY 45 ", "miejscowosc": null, "kod": "64-100 ", "nazwa": "WOJEWÓDZKI SZPITAL ZESPOLONY W LESZNIE ", "poziom": "II stopień ", "www": "http:\/\/www.wsz.leszno.pl\/ ", "telefon": "(065)52-53-100 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 335242.8, 444034.2 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3063",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 40,
+                "JPT_KOD_JE": "3063",
+                "JPT_NAZWA_": "powiat Leszno",
+                "id": 386,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "LESZNO ",
+                "powiat": "LESZNO ",
+                "adres": "KIEPURY 45 ",
+                "miejscowosc": null,
+                "kod": "64-100 ",
+                "nazwa": "WOJEWÓDZKI SZPITAL ZESPOLONY W LESZNIE ",
+                "poziom": "II stopień ",
+                "www": "http://www.wsz.leszno.pl/ ",
+                "telefon": "(065)52-53-100 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.607785003319734,
+                    51.838291260578295
+                ]
+            }
+        }
+    ]
 }

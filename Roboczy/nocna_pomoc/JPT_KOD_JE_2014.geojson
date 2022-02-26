@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2014",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 167, "JPT_KOD_JE": "2014", "JPT_NAZWA_": "powiat zambrowski", "id": "104#324", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100002129", "swiadczeniodawca": "Szpital Powiatowy w Zambrowie", "miejscowosc": "Zambrów", "ulica": "Jana Pawła II ", "numer_domu": "3", "adres_swiadczeniodawcy": "Jana Pawła II 3", "telefon": "86 276 36 59; \r\n504 547 537; \r\n789 105 235", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Papieża Jana Pawła II", "g_miejsc": "Zambrów", "g_adr": "3", "g_teryt": "2014011", "g_gm": "Zambrów", "g_pow": "zambrowski", "g_woj": "podlaskie", "g_szer": 22.252976775161002, "g_dlug": 52.988047593741868, "g_uuid": "43156a8a-1214-411c-9d6c-7fe91bcf0d5f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 718271.195680549135432, 574129.229081688448787 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2014",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 167,
+                "JPT_KOD_JE": "2014",
+                "JPT_NAZWA_": "powiat zambrowski",
+                "id": "104#324",
+                "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ",
+                "kod_swiadczeniodawcy": "100002129",
+                "swiadczeniodawca": "Szpital Powiatowy w Zambrowie",
+                "miejscowosc": "Zambrów",
+                "ulica": "Jana Pawła II ",
+                "numer_domu": "3",
+                "adres_swiadczeniodawcy": "Jana Pawła II 3",
+                "telefon": "86 276 36 59; \r\n504 547 537; \r\n789 105 235",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Papieża Jana Pawła II",
+                "g_miejsc": "Zambrów",
+                "g_adr": "3",
+                "g_teryt": "2014011",
+                "g_gm": "Zambrów",
+                "g_pow": "zambrowski",
+                "g_woj": "podlaskie",
+                "g_szer": 22.252976775161002,
+                "g_dlug": 52.98804759374187,
+                "g_uuid": "43156a8a-1214-411c-9d6c-7fe91bcf0d5f",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.252980000022987,
+                    52.98805000001735
+                ]
+            }
+        }
+    ]
 }

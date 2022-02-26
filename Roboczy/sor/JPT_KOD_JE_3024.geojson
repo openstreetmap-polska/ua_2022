@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3024",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3024", "JPT_NAZWA_": "powiat szamotulski", "id": 56, "ksiega": 386442, "id zoz": 471233, "id jednostki": "754079", "id komórki": 6569632, "regon": 55382200037, "kod jednostki": "01", "kod komórki": 9, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny  Oddział Ratunkowy", "teryt opis": "Szamotuły - miasto", "ulica": "ul. Sukiennicza", "budynek": "13.", "lokal": "NULL", "kod": "64-500", "miejscowosc": "Szamotuły", "teryt": 3024074, "kod simc": 971531, "kod ulicy": "21541", "lozka": 8, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-12-01" }, "geometry": { "type": "Point", "coordinates": [ 336281.207, 529968.406300000962801 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3024",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3024",
+                "JPT_NAZWA_": "powiat szamotulski",
+                "id": 56,
+                "ksiega": 386442,
+                "id zoz": 471233,
+                "id jednostki": "754079",
+                "id komórki": 6569632,
+                "regon": 55382200037,
+                "kod jednostki": "01",
+                "kod komórki": 9,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny  Oddział Ratunkowy",
+                "teryt opis": "Szamotuły - miasto",
+                "ulica": "ul. Sukiennicza",
+                "budynek": "13.",
+                "lokal": "NULL",
+                "kod": "64-500",
+                "miejscowosc": "Szamotuły",
+                "teryt": 3024074,
+                "kod simc": 971531,
+                "kod ulicy": "21541",
+                "lozka": 8,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-12-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.581229151298935,
+                    52.61075272157077
+                ]
+            }
+        }
+    ]
 }

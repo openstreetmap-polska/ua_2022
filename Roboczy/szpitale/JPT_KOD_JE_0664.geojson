@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0664",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 310, "JPT_KOD_JE": "0664", "JPT_NAZWA_": "powiat Zamość", "id": 88, "wojewodztwo": "lubelskie", "miasto": "ZAMOŚĆ", "powiat": "ZAMOŚĆ", "adres": "ALEJE JANA PAWŁA II 10", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY SZPITAL WOJEWÓDZKI IM. PAPIEŻA JANA PAWŁA II W ZAMOŚCIU", "poziom": "III stopień ", "www": "http:\/\/szpitaljp2.zam.pl", "telefon": "84 677 33 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 802577.6, 324958.5 ] } },
-{ "type": "Feature", "properties": { "_uid_": 311, "JPT_KOD_JE": "0664", "JPT_NAZWA_": "powiat Zamość", "id": 89, "wojewodztwo": "lubelskie", "miasto": "ZAMOŚĆ", "powiat": "ZAMOŚĆ", "adres": "PEOWIAKÓW 1", "miejscowosc": null, "kod": null, "nazwa": "ZAMOJSKI SZPITAL NIEPUBLICZNY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "I stopień", "www": "http:\/\/www.szpital.com.pl", "telefon": "84 677 50 10", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 800155.4, 326048.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0664",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 310,
+                "JPT_KOD_JE": "0664",
+                "JPT_NAZWA_": "powiat Zamość",
+                "id": 88,
+                "wojewodztwo": "lubelskie",
+                "miasto": "ZAMOŚĆ",
+                "powiat": "ZAMOŚĆ",
+                "adres": "ALEJE JANA PAWŁA II 10",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY SZPITAL WOJEWÓDZKI IM. PAPIEŻA JANA PAWŁA II W ZAMOŚCIU",
+                "poziom": "III stopień ",
+                "www": "http://szpitaljp2.zam.pl",
+                "telefon": "84 677 33 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.287753666321706,
+                    50.71267731471567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 311,
+                "JPT_KOD_JE": "0664",
+                "JPT_NAZWA_": "powiat Zamość",
+                "id": 89,
+                "wojewodztwo": "lubelskie",
+                "miasto": "ZAMOŚĆ",
+                "powiat": "ZAMOŚĆ",
+                "adres": "PEOWIAKÓW 1",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "ZAMOJSKI SZPITAL NIEPUBLICZNY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+                "poziom": "I stopień",
+                "www": "http://www.szpital.com.pl",
+                "telefon": "84 677 50 10",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.254417276364315,
+                    50.72371049141097
+                ]
+            }
+        }
+    ]
 }

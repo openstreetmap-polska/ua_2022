@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2208",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 349, "JPT_KOD_JE": "2208", "JPT_NAZWA_": "powiat lęborski", "id": 544, "wojewodztwo": "pomorskie", "miasto": "lęborski", "powiat": "Lębork", "adres": "Juliana Węgrzynowicza 13", "miejscowosc": "Lębork", "kod": "84-300", "nazwa": "Samodzielny Publiczny Specjalistyczny Zespół Opieki Zdrowotnej Lębork", "poziom": "I stopień", "www": "http:\/\/www.szpital-lebork.com.pl", "telefon": "59 863-52-83", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 419227.8, 742366.8 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2208",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 349,
+                "JPT_KOD_JE": "2208",
+                "JPT_NAZWA_": "powiat lęborski",
+                "id": 544,
+                "wojewodztwo": "pomorskie",
+                "miasto": "lęborski",
+                "powiat": "Lębork",
+                "adres": "Juliana Węgrzynowicza 13",
+                "miejscowosc": "Lębork",
+                "kod": "84-300",
+                "nazwa": "Samodzielny Publiczny Specjalistyczny Zespół Opieki Zdrowotnej Lębork",
+                "poziom": "I stopień",
+                "www": "http://www.szpital-lebork.com.pl",
+                "telefon": "59 863-52-83",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.751187335931736,
+                    54.53872844649832
+                ]
+            }
+        }
+    ]
 }

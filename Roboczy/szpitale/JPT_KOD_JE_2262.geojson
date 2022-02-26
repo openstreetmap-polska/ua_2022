@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2262",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 128, "JPT_KOD_JE": "2262", "JPT_NAZWA_": "powiat Gdynia", "id": 538, "wojewodztwo": "pomorskie", "miasto": "Gdynia", "powiat": "Gdynia", "adres": "Powstania Styczniowego 9B", "miejscowosc": "Gdynia", "kod": "81-519", "nazwa": "Uniwersyteckie Centrum Medycyny Morskiej i Tropikalnej", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.ucmmit.gdynia.pl", "telefon": "58 699-85-06", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 470784.1, 736043.8 ] } },
-{ "type": "Feature", "properties": { "_uid_": 129, "JPT_KOD_JE": "2262", "JPT_NAZWA_": "powiat Gdynia", "id": 539, "wojewodztwo": "pomorskie", "miasto": "Gdynia", "powiat": "Gdynia", "adres": "Powstania Styczniowego 1", "miejscowosc": "Gdynia", "kod": "81-519", "nazwa": "Szpitale Pomorskie Sp. z o.o.", "poziom": "III stopień", "www": "http:\/\/www.szpitalepomorskie.eu", "telefon": "224-800-800", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 471053.6, 736280.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2262",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 128,
+                "JPT_KOD_JE": "2262",
+                "JPT_NAZWA_": "powiat Gdynia",
+                "id": 538,
+                "wojewodztwo": "pomorskie",
+                "miasto": "Gdynia",
+                "powiat": "Gdynia",
+                "adres": "Powstania Styczniowego 9B",
+                "miejscowosc": "Gdynia",
+                "kod": "81-519",
+                "nazwa": "Uniwersyteckie Centrum Medycyny Morskiej i Tropikalnej",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.ucmmit.gdynia.pl",
+                "telefon": "58 699-85-06",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.54887034984809,
+                    54.48748987289382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 129,
+                "JPT_KOD_JE": "2262",
+                "JPT_NAZWA_": "powiat Gdynia",
+                "id": 539,
+                "wojewodztwo": "pomorskie",
+                "miasto": "Gdynia",
+                "powiat": "Gdynia",
+                "adres": "Powstania Styczniowego 1",
+                "miejscowosc": "Gdynia",
+                "kod": "81-519",
+                "nazwa": "Szpitale Pomorskie Sp. z o.o.",
+                "poziom": "III stopień",
+                "www": "http://www.szpitalepomorskie.eu",
+                "telefon": "224-800-800",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.553008461289128,
+                    54.48962867444876
+                ]
+            }
+        }
+    ]
 }

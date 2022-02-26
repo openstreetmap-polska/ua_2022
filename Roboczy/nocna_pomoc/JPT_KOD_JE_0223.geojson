@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0223",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 108, "JPT_KOD_JE": "0223", "JPT_NAZWA_": "powiat wrocławski", "id": "104#21", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3101063", "swiadczeniodawca": "Pogotowie Ratunkowe", "miejscowosc": "Sobótka\r\n", "ulica": "Strzelców", "numer_domu": "2", "adres_swiadczeniodawcy": "Strzelców 2", "telefon": "71 390 39 99; 509-754-556", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 16.734921276520154, "g_dlug": 50.89855692766546, "g_uuid": "2cabf714-019f-4d4c-aacb-7b0a4fdf2816", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 340770.17729538178537, 339295.306507657282054 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0223",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 108,
+                "JPT_KOD_JE": "0223",
+                "JPT_NAZWA_": "powiat wrocławski",
+                "id": "104#21",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3101063",
+                "swiadczeniodawca": "Pogotowie Ratunkowe",
+                "miejscowosc": "Sobótka\r\n",
+                "ulica": "Strzelców",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Strzelców 2",
+                "telefon": "71 390 39 99; 509-754-556",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 16.734921276520154,
+                "g_dlug": 50.89855692766546,
+                "g_uuid": "2cabf714-019f-4d4c-aacb-7b0a4fdf2816",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.734919999994755,
+                    50.898560000013816
+                ]
+            }
+        }
+    ]
 }

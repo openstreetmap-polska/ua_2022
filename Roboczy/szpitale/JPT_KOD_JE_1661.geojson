@@ -1,14 +1,201 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1661",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 136, "JPT_KOD_JE": "1661", "JPT_NAZWA_": "powiat Opole", "id": 281, "wojewodztwo": "opolskie", "miasto": "Opole", "powiat": "Misto Opole", "adres": "Reymonta 8", "miejscowosc": "Opole", "kod": "45-066 ", "nazwa": "Centrum Ginekologii, Położnictwa i Neonatologii w Opolu", "poziom": "I stopień", "www": "http:\/\/www.ginekologia.opole.pl", "telefon": "77 454 54 01  ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 424318.0, 311649.5 ] } },
-{ "type": "Feature", "properties": { "_uid_": 137, "JPT_KOD_JE": "1661", "JPT_NAZWA_": "powiat Opole", "id": 282, "wojewodztwo": "opolskie", "miasto": "Opole", "powiat": "Misasto Opole", "adres": "Katowicka 64", "miejscowosc": "Opole", "kod": "45-061 ", "nazwa": "Szpital Wojewódzki w Opolu spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.szpital.opole.pl", "telefon": "77 443 31 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 424824.1, 312072.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 138, "JPT_KOD_JE": "1661", "JPT_NAZWA_": "powiat Opole", "id": 283, "wojewodztwo": "opolskie", "miasto": "Opole", "powiat": "Miasto Opole", "adres": "Wodociągowa 4", "miejscowosc": "Opole", "kod": "45-221 ", "nazwa": "Wojewódzki Specjalistyczny Zespół Neuropsychiatryczny im. Św. Jadwigi", "poziom": "II stopień", "www": "http:\/\/www.wszn.opole.pl", "telefon": "77 541 42 21", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 425165.0, 312659.6 ] } },
-{ "type": "Feature", "properties": { "_uid_": 139, "JPT_KOD_JE": "1661", "JPT_NAZWA_": "powiat Opole", "id": 284, "wojewodztwo": "opolskie", "miasto": "Opole", "powiat": "Miasto Opole", "adres": "Katowicka 66A", "miejscowosc": "OPOLE", "kod": "46-060 ", "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Opolskie Centrum Onkologii im.prof.T.Koszarowskiego", "poziom": "Szpital onkologicznych", "www": "http:\/\/www.nowa.onkologia.opole.pl", "telefon": "77 441 60 01", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 424927.9, 312204.6 ] } },
-{ "type": "Feature", "properties": { "_uid_": 140, "JPT_KOD_JE": "1661", "JPT_NAZWA_": "powiat Opole", "id": 285, "wojewodztwo": "opolskie", "miasto": "Opole", "powiat": "Miasto Opole", "adres": "Wróblewskiego 46", "miejscowosc": "Opole", "kod": "45-759 ", "nazwa": "116 Szpital Wojskowy z Przychodnią Samodzielny Publiczny Zakład Opieki Zdrowotnej", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.116szpital.opole.pl", "telefon": "261-62-51-29 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 421881.5, 310891.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 141, "JPT_KOD_JE": "1661", "JPT_NAZWA_": "powiat Opole", "id": 286, "wojewodztwo": "opolskie", "miasto": "Opole", "powiat": "Miasto Opole", "adres": "Krakowska 44", "miejscowosc": "Opole", "kod": "45-075 ", "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji w Opolu", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.spzozmswia.opole.pl", "telefon": "77 401 11 00 w.5", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 424078.3, 311261.7 ] } },
-{ "type": "Feature", "properties": { "_uid_": 142, "JPT_KOD_JE": "1661", "JPT_NAZWA_": "powiat Opole", "id": 287, "wojewodztwo": "opolskie", "miasto": "Opole", "powiat": "Miasto Opole", "adres": "Aleja Wincentego Witosa 26", "miejscowosc": "Opole", "kod": "45-401 ", "nazwa": "Uniwersytecki Szpital Kliniczny w Opolu", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.wcm.opole.pl", "telefon": "77 452 07 40", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 427651.7, 312679.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1661",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 136,
+                "JPT_KOD_JE": "1661",
+                "JPT_NAZWA_": "powiat Opole",
+                "id": 281,
+                "wojewodztwo": "opolskie",
+                "miasto": "Opole",
+                "powiat": "Misto Opole",
+                "adres": "Reymonta 8",
+                "miejscowosc": "Opole",
+                "kod": "45-066 ",
+                "nazwa": "Centrum Ginekologii, Położnictwa i Neonatologii w Opolu",
+                "poziom": "I stopień",
+                "www": "http://www.ginekologia.opole.pl",
+                "telefon": "77 454 54 01  ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.92875708399253,
+                    50.66692494096696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 137,
+                "JPT_KOD_JE": "1661",
+                "JPT_NAZWA_": "powiat Opole",
+                "id": 282,
+                "wojewodztwo": "opolskie",
+                "miasto": "Opole",
+                "powiat": "Misasto Opole",
+                "adres": "Katowicka 64",
+                "miejscowosc": "Opole",
+                "kod": "45-061 ",
+                "nazwa": "Szpital Wojewódzki w Opolu spółka z ograniczoną odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.szpital.opole.pl",
+                "telefon": "77 443 31 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.935833418967192,
+                    50.670792387599356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 138,
+                "JPT_KOD_JE": "1661",
+                "JPT_NAZWA_": "powiat Opole",
+                "id": 283,
+                "wojewodztwo": "opolskie",
+                "miasto": "Opole",
+                "powiat": "Miasto Opole",
+                "adres": "Wodociągowa 4",
+                "miejscowosc": "Opole",
+                "kod": "45-221 ",
+                "nazwa": "Wojewódzki Specjalistyczny Zespół Neuropsychiatryczny im. Św. Jadwigi",
+                "poziom": "II stopień",
+                "www": "http://www.wszn.opole.pl",
+                "telefon": "77 541 42 21",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.94053928337043,
+                    50.676119516210996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 139,
+                "JPT_KOD_JE": "1661",
+                "JPT_NAZWA_": "powiat Opole",
+                "id": 284,
+                "wojewodztwo": "opolskie",
+                "miasto": "Opole",
+                "powiat": "Miasto Opole",
+                "adres": "Katowicka 66A",
+                "miejscowosc": "OPOLE",
+                "kod": "46-060 ",
+                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Opolskie Centrum Onkologii im.prof.T.Koszarowskiego",
+                "poziom": "Szpital onkologicznych",
+                "www": "http://www.nowa.onkologia.opole.pl",
+                "telefon": "77 441 60 01",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.937275621539392,
+                    50.671996619369324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 140,
+                "JPT_KOD_JE": "1661",
+                "JPT_NAZWA_": "powiat Opole",
+                "id": 285,
+                "wojewodztwo": "opolskie",
+                "miasto": "Opole",
+                "powiat": "Miasto Opole",
+                "adres": "Wróblewskiego 46",
+                "miejscowosc": "Opole",
+                "kod": "45-759 ",
+                "nazwa": "116 Szpital Wojskowy z Przychodnią Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.116szpital.opole.pl",
+                "telefon": "261-62-51-29 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.894436533249607,
+                    50.65978090982369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 141,
+                "JPT_KOD_JE": "1661",
+                "JPT_NAZWA_": "powiat Opole",
+                "id": 286,
+                "wojewodztwo": "opolskie",
+                "miasto": "Opole",
+                "powiat": "Miasto Opole",
+                "adres": "Krakowska 44",
+                "miejscowosc": "Opole",
+                "kod": "45-075 ",
+                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji w Opolu",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.spzozmswia.opole.pl",
+                "telefon": "77 401 11 00 w.5",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.92544449759325,
+                    50.66340578500928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 142,
+                "JPT_KOD_JE": "1661",
+                "JPT_NAZWA_": "powiat Opole",
+                "id": 287,
+                "wojewodztwo": "opolskie",
+                "miasto": "Opole",
+                "powiat": "Miasto Opole",
+                "adres": "Aleja Wincentego Witosa 26",
+                "miejscowosc": "Opole",
+                "kod": "45-401 ",
+                "nazwa": "Uniwersytecki Szpital Kliniczny w Opolu",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.wcm.opole.pl",
+                "telefon": "77 452 07 40",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.97573423595636,
+                    50.67661225129519
+                ]
+            }
+        }
+    ]
 }

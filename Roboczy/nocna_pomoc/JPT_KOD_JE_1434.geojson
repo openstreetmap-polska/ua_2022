@@ -1,10 +1,129 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1434",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 145, "JPT_KOD_JE": "1434", "JPT_NAZWA_": "powiat wołomiński", "id": "104#221", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70000980", "swiadczeniodawca": "Centrum Medyczne im. Bitwy Warszawskiej 1920 R. W Radzyminie - Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej,", "miejscowosc": "Radzymin", "ulica": "Konstytucji 3 Maja ", "numer_domu": "17", "adres_swiadczeniodawcy": "Konstytucji 3 Maja 17", "telefon": "22 760-72-29; 22 760-72-30", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Konstytucji 3 Maja", "g_miejsc": "Radzymin", "g_adr": "17", "g_teryt": "1434093", "g_gm": "Radzymin", "g_pow": "wołomiński", "g_woj": "mazowieckie", "g_szer": 21.188912534063718, "g_dlug": 52.414401493868283, "g_uuid": "ee73a0f2-484a-4b0a-a887-fa62028b4baf", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 648824.426860650070012, 507641.005697737447917 ] } },
-{ "type": "Feature", "properties": { "gid": 363, "JPT_KOD_JE": "1434", "JPT_NAZWA_": "powiat wołomiński", "id": "104#261", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70602441", "swiadczeniodawca": "Benessa S.C.  Joanna Wójcik, Władysław Wójcik", "miejscowosc": "Zielonka", "ulica": " Dziennikarska ", "numer_domu": "4", "adres_swiadczeniodawcy": " Dziennikarska 4", "telefon": "22 781 91 61", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Dziennikarska", "g_miejsc": "Zielonka", "g_adr": "4", "g_teryt": "1434041", "g_gm": "Zielonka", "g_pow": "wołomiński", "g_woj": "mazowieckie", "g_szer": 21.160105619650849, "g_dlug": 52.310977893495107, "g_uuid": "89af5321-415f-4b1b-b138-2bff12699ca3", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 647209.980992038268596, 496084.241099809296429 ] } },
-{ "type": "Feature", "properties": { "gid": 483, "JPT_KOD_JE": "1434", "JPT_NAZWA_": "powiat wołomiński", "id": "104#257", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70000970", "swiadczeniodawca": "Szpital Matki Bożej Nieustającej Pomocy w Wołominie", "miejscowosc": "Wołomin", "ulica": "Sasina ", "numer_domu": "15", "adres_swiadczeniodawcy": "Sasina 15", "telefon": "22 773 56 89", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sasina", "g_miejsc": "Wołomin", "g_adr": "15", "g_teryt": "1434123", "g_gm": "Wołomin", "g_pow": "wołomiński", "g_woj": "mazowieckie", "g_szer": 21.227238413888077, "g_dlug": 52.347359284962891, "g_uuid": "a73d3523-ea09-4da7-b21c-9c646f6130e6", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 651659.76224202173762, 500267.42871802393347 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1434",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 145,
+                "JPT_KOD_JE": "1434",
+                "JPT_NAZWA_": "powiat wołomiński",
+                "id": "104#221",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70000980",
+                "swiadczeniodawca": "Centrum Medyczne im. Bitwy Warszawskiej 1920 R. W Radzyminie - Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej,",
+                "miejscowosc": "Radzymin",
+                "ulica": "Konstytucji 3 Maja ",
+                "numer_domu": "17",
+                "adres_swiadczeniodawcy": "Konstytucji 3 Maja 17",
+                "telefon": "22 760-72-29; 22 760-72-30",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Konstytucji 3 Maja",
+                "g_miejsc": "Radzymin",
+                "g_adr": "17",
+                "g_teryt": "1434093",
+                "g_gm": "Radzymin",
+                "g_pow": "wołomiński",
+                "g_woj": "mazowieckie",
+                "g_szer": 21.188912534063718,
+                "g_dlug": 52.41440149386828,
+                "g_uuid": "ee73a0f2-484a-4b0a-a887-fa62028b4baf",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.18891000000404,
+                    52.41440000001614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 363,
+                "JPT_KOD_JE": "1434",
+                "JPT_NAZWA_": "powiat wołomiński",
+                "id": "104#261",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70602441",
+                "swiadczeniodawca": "Benessa S.C.  Joanna Wójcik, Władysław Wójcik",
+                "miejscowosc": "Zielonka",
+                "ulica": " Dziennikarska ",
+                "numer_domu": "4",
+                "adres_swiadczeniodawcy": " Dziennikarska 4",
+                "telefon": "22 781 91 61",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Dziennikarska",
+                "g_miejsc": "Zielonka",
+                "g_adr": "4",
+                "g_teryt": "1434041",
+                "g_gm": "Zielonka",
+                "g_pow": "wołomiński",
+                "g_woj": "mazowieckie",
+                "g_szer": 21.16010561965085,
+                "g_dlug": 52.31097789349511,
+                "g_uuid": "89af5321-415f-4b1b-b138-2bff12699ca3",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.160110000003847,
+                    52.310980000015974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 483,
+                "JPT_KOD_JE": "1434",
+                "JPT_NAZWA_": "powiat wołomiński",
+                "id": "104#257",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70000970",
+                "swiadczeniodawca": "Szpital Matki Bożej Nieustającej Pomocy w Wołominie",
+                "miejscowosc": "Wołomin",
+                "ulica": "Sasina ",
+                "numer_domu": "15",
+                "adres_swiadczeniodawcy": "Sasina 15",
+                "telefon": "22 773 56 89",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Sasina",
+                "g_miejsc": "Wołomin",
+                "g_adr": "15",
+                "g_teryt": "1434123",
+                "g_gm": "Wołomin",
+                "g_pow": "wołomiński",
+                "g_woj": "mazowieckie",
+                "g_szer": 21.227238413888077,
+                "g_dlug": 52.34735928496289,
+                "g_uuid": "a73d3523-ea09-4da7-b21c-9c646f6130e6",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.227240000004368,
+                    52.34736000001603
+                ]
+            }
+        }
+    ]
 }

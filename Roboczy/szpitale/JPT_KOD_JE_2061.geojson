@@ -1,14 +1,201 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2061",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 548, "JPT_KOD_JE": "2061", "JPT_NAZWA_": "powiat Białystok", "id": 554, "wojewodztwo": "podlaskie", "miasto": "m. Białystok", "powiat": "Białystok", "adres": "Ogrodowa 12", "miejscowosc": "Białystok", "kod": "15-027", "nazwa": "BIAŁOSTOCKIE CENTRUM ONKOLOGII IM. MARII SKŁODOWSKIEJ-CURIE", "poziom": "Szpital onkologiczny", "www": "http:\/\/www.onkologia.bialystok.pl", "telefon": "85 664 67 11", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 778787.0, 593671.6 ] } },
-{ "type": "Feature", "properties": { "_uid_": 549, "JPT_KOD_JE": "2061", "JPT_NAZWA_": "powiat Białystok", "id": 556, "wojewodztwo": "podlaskie", "miasto": "m. Białystok", "powiat": "Białystok", "adres": "Waszyngtona 17", "miejscowosc": "Białystok", "kod": "15-274", "nazwa": "UNIWERSYTECKI DZIECIĘCY SZPITAL KLINICZNY IM. L. ZAMENHOFA W BIAŁYMSTOKU", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.udsk.pl", "telefon": "85 745 05 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 777918.8, 592344.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 550, "JPT_KOD_JE": "2061", "JPT_NAZWA_": "powiat Białystok", "id": 557, "wojewodztwo": "podlaskie", "miasto": "m. Białystok", "powiat": "Białystok", "adres": "Fabryczna 27", "miejscowosc": "Białystok", "kod": "15-471", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ MINISTERSTWA SPRAW WEWNĘTRZNYCH W BIAŁYMSTOKU", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.zozmswia.bialystok.pl", "telefon": "85 869 45 77", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 778546.1, 594076.6 ] } },
-{ "type": "Feature", "properties": { "_uid_": 551, "JPT_KOD_JE": "2061", "JPT_NAZWA_": "powiat Białystok", "id": 565, "wojewodztwo": "podlaskie", "miasto": "m. Białystok", "powiat": "Białystok", "adres": "Sienkiewicza 79", "miejscowosc": "Białystok", "kod": "15-003", "nazwa": "SAMODZIELNY SZPITAL MIEJSKI IM. PCK", "poziom": "I stopień", "www": "http:\/\/www.szpitalpck.pl", "telefon": "85 664 85 19", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 778885.7, 594247.9 ] } },
-{ "type": "Feature", "properties": { "_uid_": 552, "JPT_KOD_JE": "2061", "JPT_NAZWA_": "powiat Białystok", "id": 576, "wojewodztwo": "podlaskie", "miasto": "m. Białystok", "powiat": "Białystok", "adres": "Zamenhofa 19", "miejscowosc": "Białystok", "kod": "15-435", "nazwa": "POLIKLINIKA GINEKOLOGICZNO-POŁOŻNICZA SZPITAL", "poziom": "I stopień", "www": "http:\/\/www.arciszewski.pl", "telefon": "85 732 32 02, 85 740 40 41", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 778150.6, 593526.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 553, "JPT_KOD_JE": "2061", "JPT_NAZWA_": "powiat Białystok", "id": 555, "wojewodztwo": "podlaskie", "miasto": "m. Białystok", "powiat": "Białystok", "adres": "M. Skłodowskiej-Curie 24a", "miejscowosc": "Białystok", "kod": "15-276", "nazwa": "UNIWERSYTECKI SZPITAL KLINICZNY W BIAŁYMSTOKU", "poziom": "Szpital ogólnopolski", "www": "http:\/\/usk.onestepcloud.pl", "telefon": "85 831 80 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 778212.5, 592439.3 ] } },
-{ "type": "Feature", "properties": { "_uid_": 554, "JPT_KOD_JE": "2061", "JPT_NAZWA_": "powiat Białystok", "id": 560, "wojewodztwo": "podlaskie", "miasto": "m. Białystok", "powiat": "Białystok", "adres": "M. Skłodowskiej-Curie 26", "miejscowosc": "Białystok", "kod": "15-950", "nazwa": "SP ZOZ WOJEWÓDZKI SZPITAL ZESPOLONY IM. J. ŚNIADECKIEGO", "poziom": "II stopień", "www": "http:\/\/www.sniadecja.pl", "telefon": "85 748 81 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 778385.9, 592494.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2061",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 548,
+                "JPT_KOD_JE": "2061",
+                "JPT_NAZWA_": "powiat Białystok",
+                "id": 554,
+                "wojewodztwo": "podlaskie",
+                "miasto": "m. Białystok",
+                "powiat": "Białystok",
+                "adres": "Ogrodowa 12",
+                "miejscowosc": "Białystok",
+                "kod": "15-027",
+                "nazwa": "BIAŁOSTOCKIE CENTRUM ONKOLOGII IM. MARII SKŁODOWSKIEJ-CURIE",
+                "poziom": "Szpital onkologiczny",
+                "www": "http://www.onkologia.bialystok.pl",
+                "telefon": "85 664 67 11",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.16947302484032,
+                    53.13525516695442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 549,
+                "JPT_KOD_JE": "2061",
+                "JPT_NAZWA_": "powiat Białystok",
+                "id": 556,
+                "wojewodztwo": "podlaskie",
+                "miasto": "m. Białystok",
+                "powiat": "Białystok",
+                "adres": "Waszyngtona 17",
+                "miejscowosc": "Białystok",
+                "kod": "15-274",
+                "nazwa": "UNIWERSYTECKI DZIECIĘCY SZPITAL KLINICZNY IM. L. ZAMENHOFA W BIAŁYMSTOKU",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.udsk.pl",
+                "telefon": "85 745 05 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1553751336659,
+                    53.123802310647626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 550,
+                "JPT_KOD_JE": "2061",
+                "JPT_NAZWA_": "powiat Białystok",
+                "id": 557,
+                "wojewodztwo": "podlaskie",
+                "miasto": "m. Białystok",
+                "powiat": "Białystok",
+                "adres": "Fabryczna 27",
+                "miejscowosc": "Białystok",
+                "kod": "15-471",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ MINISTERSTWA SPRAW WEWNĘTRZNYCH W BIAŁYMSTOKU",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.zozmswia.bialystok.pl",
+                "telefon": "85 869 45 77",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.166232586877726,
+                    53.13901321381967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 551,
+                "JPT_KOD_JE": "2061",
+                "JPT_NAZWA_": "powiat Białystok",
+                "id": 565,
+                "wojewodztwo": "podlaskie",
+                "miasto": "m. Białystok",
+                "powiat": "Białystok",
+                "adres": "Sienkiewicza 79",
+                "miejscowosc": "Białystok",
+                "kod": "15-003",
+                "nazwa": "SAMODZIELNY SZPITAL MIEJSKI IM. PCK",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalpck.pl",
+                "telefon": "85 664 85 19",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.171446374818984,
+                    53.14037183716341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 552,
+                "JPT_KOD_JE": "2061",
+                "JPT_NAZWA_": "powiat Białystok",
+                "id": 576,
+                "wojewodztwo": "podlaskie",
+                "miasto": "m. Białystok",
+                "powiat": "Białystok",
+                "adres": "Zamenhofa 19",
+                "miejscowosc": "Białystok",
+                "kod": "15-435",
+                "nazwa": "POLIKLINIKA GINEKOLOGICZNO-POŁOŻNICZA SZPITAL",
+                "poziom": "I stopień",
+                "www": "http://www.arciszewski.pl",
+                "telefon": "85 732 32 02, 85 740 40 41",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.159856469320733,
+                    53.13428368395812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 553,
+                "JPT_KOD_JE": "2061",
+                "JPT_NAZWA_": "powiat Białystok",
+                "id": 555,
+                "wojewodztwo": "podlaskie",
+                "miasto": "m. Białystok",
+                "powiat": "Białystok",
+                "adres": "M. Skłodowskiej-Curie 24a",
+                "miejscowosc": "Białystok",
+                "kod": "15-276",
+                "nazwa": "UNIWERSYTECKI SZPITAL KLINICZNY W BIAŁYMSTOKU",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://usk.onestepcloud.pl",
+                "telefon": "85 831 80 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.159836479581443,
+                    53.124503822427606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 554,
+                "JPT_KOD_JE": "2061",
+                "JPT_NAZWA_": "powiat Białystok",
+                "id": 560,
+                "wojewodztwo": "podlaskie",
+                "miasto": "m. Białystok",
+                "powiat": "Białystok",
+                "adres": "M. Skłodowskiej-Curie 26",
+                "miejscowosc": "Białystok",
+                "kod": "15-950",
+                "nazwa": "SP ZOZ WOJEWÓDZKI SZPITAL ZESPOLONY IM. J. ŚNIADECKIEGO",
+                "poziom": "II stopień",
+                "www": "http://www.sniadecja.pl",
+                "telefon": "85 748 81 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.162469504120754,
+                    53.12490746620345
+                ]
+            }
+        }
+    ]
 }

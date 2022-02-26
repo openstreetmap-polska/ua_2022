@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0211",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 114, "JPT_KOD_JE": "0211", "JPT_NAZWA_": "powiat lubiński", "id": 4, "wojewodztwo": "dolnośląskie", "miasto": "Lubin", "powiat": "lubiński", "adres": "MARII SKŁODOWSKIEJ-CURIE 66", "miejscowosc": null, "kod": null, "nazwa": "MIEDZIOWE CENTRUM ZDROWIA S.A.", "poziom": "II stopień", "www": "http:\/\/www.mcz.pl", "telefon": "76 846 03 00", "e-mail": "mcz@mcz.pl" }, "geometry": { "type": "Point", "coordinates": [ 304946.6, 397392.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0211",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 114,
+                "JPT_KOD_JE": "0211",
+                "JPT_NAZWA_": "powiat lubiński",
+                "id": 4,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Lubin",
+                "powiat": "lubiński",
+                "adres": "MARII SKŁODOWSKIEJ-CURIE 66",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "MIEDZIOWE CENTRUM ZDROWIA S.A.",
+                "poziom": "II stopień",
+                "www": "http://www.mcz.pl",
+                "telefon": "76 846 03 00",
+                "e-mail": "mcz@mcz.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19440755692409,
+                    51.409525359941725
+                ]
+            }
+        }
+    ]
 }

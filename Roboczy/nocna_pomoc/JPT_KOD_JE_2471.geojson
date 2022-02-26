@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2471",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 179, "JPT_KOD_JE": "2471", "JPT_NAZWA_": "powiat Piekary Śląskie", "id": "104#396", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/100358", "swiadczeniodawca": "SP Wojewódzki Szpital Chirurgii Urazowej im. dr. Daaba", "miejscowosc": "Piekary Śląskie", "ulica": "Bytomska ", "numer_domu": "62", "adres_swiadczeniodawcy": "Bytomska 62", "telefon": "ul. Bytomska: 32 393 42 14;\r\nul. Szpitalna: 32 284 50 40", "dodatkowe_miejsce": "Piekarskie Centrum Medyczne Sp. z o.o. ul. Szpitalna 11", "dodatkowe_informacje": "wizyta pielęgniarska ambulatoryjna", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.94485047102755, "g_dlug": 50.372528486413735, "g_uuid": "f884c2fb-3d8c-4e9a-b05c-1a3d04d03a76", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 496079.362964593397919, 278378.395272244699299 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2471",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 179,
+                "JPT_KOD_JE": "2471",
+                "JPT_NAZWA_": "powiat Piekary Śląskie",
+                "id": "104#396",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/100358",
+                "swiadczeniodawca": "SP Wojewódzki Szpital Chirurgii Urazowej im. dr. Daaba",
+                "miejscowosc": "Piekary Śląskie",
+                "ulica": "Bytomska ",
+                "numer_domu": "62",
+                "adres_swiadczeniodawcy": "Bytomska 62",
+                "telefon": "ul. Bytomska: 32 393 42 14;\r\nul. Szpitalna: 32 284 50 40",
+                "dodatkowe_miejsce": "Piekarskie Centrum Medyczne Sp. z o.o. ul. Szpitalna 11",
+                "dodatkowe_informacje": "wizyta pielęgniarska ambulatoryjna",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 18.94485047102755,
+                "g_dlug": 50.372528486413735,
+                "g_uuid": "f884c2fb-3d8c-4e9a-b05c-1a3d04d03a76",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.944849999999985,
+                    50.37253000001302
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0419",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 116, "JPT_KOD_JE": "0419", "JPT_NAZWA_": "powiat żniński", "id": 52, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Żnin", "powiat": "żniński", "adres": "Szpitalna 30", "miejscowosc": null, "kod": null, "nazwa": "Pałuckie Centrum Zdrowia sp. z o.o. w Żninie", "poziom": "I stopień", "www": "http:\/\/www.szpitalznin.p", "telefon": "52 303 13 41", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 413642.4, 554241.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0419",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 116,
+                "JPT_KOD_JE": "0419",
+                "JPT_NAZWA_": "powiat żniński",
+                "id": 52,
+                "wojewodztwo": "kujawsko-pomorskie",
+                "miasto": "Żnin",
+                "powiat": "żniński",
+                "adres": "Szpitalna 30",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Pałuckie Centrum Zdrowia sp. z o.o. w Żninie",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalznin.p",
+                "telefon": "52 303 13 41",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.717320745280123,
+                    52.846798803991454
+                ]
+            }
+        }
+    ]
 }

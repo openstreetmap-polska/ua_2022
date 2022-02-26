@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1011",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1011", "JPT_NAZWA_": "powiat poddębicki", "id": 40, "ksiega": 384795, "id zoz": 467708, "id jednostki": "745997", "id komórki": 6474271, "regon": 10107597100027, "kod jednostki": "01", "kod komórki": 79, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy z Izbą Przyjęć", "teryt opis": "Poddębice - miasto", "ulica": "ul. Mickiewicza", "budynek": "16", "lokal": "NULL", "kod": "99-200", "miejscowosc": "Poddębice", "teryt": 1011034, "kod simc": 976400, "kod ulicy": "12734", "lozka": 5, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2012-02-07" }, "geometry": { "type": "Point", "coordinates": [ 496826.460989311977755, 446933.610332506999839 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1011",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1011",
+                "JPT_NAZWA_": "powiat poddębicki",
+                "id": 40,
+                "ksiega": 384795,
+                "id zoz": 467708,
+                "id jednostki": "745997",
+                "id komórki": 6474271,
+                "regon": 10107597100027,
+                "kod jednostki": "01",
+                "kod komórki": 79,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy z Izbą Przyjęć",
+                "teryt opis": "Poddębice - miasto",
+                "ulica": "ul. Mickiewicza",
+                "budynek": "16",
+                "lokal": "NULL",
+                "kod": "99-200",
+                "miejscowosc": "Poddębice",
+                "teryt": 1011034,
+                "kod simc": 976400,
+                "kod ulicy": "12734",
+                "lozka": 5,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2012-02-07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.95387299999999,
+                    51.88868800001531
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3014",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 230, "JPT_KOD_JE": "3014", "JPT_NAZWA_": "powiat międzychodzki", "id": 375, "wojewodztwo": "wielkopolskie", "miasto": "MIĘDZYCHÓD ", "powiat": "MIĘDZYCHODZKI ", "adres": "SZPITALNA 10 ", "miejscowosc": null, "kod": "64-400 ", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MIĘDZYCHODZIE", "poziom": "I stopień", "www": "http:\/\/www.spzoz-miedzychod.com.pl\/ ", "telefon": "(095)74-82-011 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 289467.8, 530534.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3014",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 230,
+                "JPT_KOD_JE": "3014",
+                "JPT_NAZWA_": "powiat międzychodzki",
+                "id": 375,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "MIĘDZYCHÓD ",
+                "powiat": "MIĘDZYCHODZKI ",
+                "adres": "SZPITALNA 10 ",
+                "miejscowosc": null,
+                "kod": "64-400 ",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MIĘDZYCHODZIE",
+                "poziom": "I stopień",
+                "www": "http://www.spzoz-miedzychod.com.pl/ ",
+                "telefon": "(095)74-82-011 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.89023550705157,
+                    52.599708427902996
+                ]
+            }
+        }
+    ]
 }

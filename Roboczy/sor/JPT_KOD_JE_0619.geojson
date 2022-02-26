@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0619",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0619", "JPT_NAZWA_": "powiat włodawski", "id": 95, "ksiega": 388790, "id zoz": 476138, "id jednostki": "765255", "id komórki": 6706609, "regon": 11019766400029, "kod jednostki": "01", "kod komórki": 57, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Włodawa - gmina miejska", "ulica": "al. Józefa Piłsudskiego", "budynek": "64", "lokal": "NULL", "kod": "22-200", "miejscowosc": "Włodawa", "teryt": 619011, "kod simc": 930294, "kod ulicy": "16259", "lozka": 9, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-07-01" }, "geometry": { "type": "Point", "coordinates": [ 815502.234399999958, 419923.5273 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0619",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0619",
+                "JPT_NAZWA_": "powiat włodawski",
+                "id": 95,
+                "ksiega": 388790,
+                "id zoz": 476138,
+                "id jednostki": "765255",
+                "id komórki": 6706609,
+                "regon": 11019766400029,
+                "kod jednostki": "01",
+                "kod komórki": 57,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Włodawa - gmina miejska",
+                "ulica": "al. Józefa Piłsudskiego",
+                "budynek": "64",
+                "lokal": "NULL",
+                "kod": "22-200",
+                "miejscowosc": "Włodawa",
+                "teryt": 619011,
+                "kod simc": 930294,
+                "kod ulicy": "16259",
+                "lozka": 9,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2002-07-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.553477061910105,
+                    51.55736719534282
+                ]
+            }
+        }
+    ]
 }

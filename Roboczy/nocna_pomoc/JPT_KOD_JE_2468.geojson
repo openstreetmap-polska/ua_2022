@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2468",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 257, "JPT_KOD_JE": "2468", "JPT_NAZWA_": "powiat Jaworzno", "id": "104#377", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "125\/100178", "swiadczeniodawca": "Szpital Wielospecjalistyczny w Jaworznie", "miejscowosc": "Jaworzno", "ulica": "Grunwaldzka ", "numer_domu": "235", "adres_swiadczeniodawcy": "Grunwaldzka 235", "telefon": "32 616 35 79", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Grunwaldzka", "g_miejsc": "Jaworzno", "g_adr": "235", "g_teryt": "2468011", "g_gm": "Jaworzno", "g_pow": "Jaworzno", "g_woj": "śląskie", "g_szer": 19.252560447598935, "g_dlug": 50.217224569992169, "g_uuid": "4532c4cf-a409-4659-8fa3-55140c2212d1", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 518013.134197060251608, 261143.676613510586321 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2468",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 257,
+                "JPT_KOD_JE": "2468",
+                "JPT_NAZWA_": "powiat Jaworzno",
+                "id": "104#377",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "125/100178",
+                "swiadczeniodawca": "Szpital Wielospecjalistyczny w Jaworznie",
+                "miejscowosc": "Jaworzno",
+                "ulica": "Grunwaldzka ",
+                "numer_domu": "235",
+                "adres_swiadczeniodawcy": "Grunwaldzka 235",
+                "telefon": "32 616 35 79",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Grunwaldzka",
+                "g_miejsc": "Jaworzno",
+                "g_adr": "235",
+                "g_teryt": "2468011",
+                "g_gm": "Jaworzno",
+                "g_pow": "Jaworzno",
+                "g_woj": "śląskie",
+                "g_szer": 19.252560447598935,
+                "g_dlug": 50.21722456999217,
+                "g_uuid": "4532c4cf-a409-4659-8fa3-55140c2212d1",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.252560000000067,
+                    50.21722000001281
+                ]
+            }
+        }
+    ]
 }

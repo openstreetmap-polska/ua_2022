@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1428",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 436, "JPT_KOD_JE": "1428", "JPT_NAZWA_": "powiat sochaczewski", "id": 204, "wojewodztwo": "mazowieckie", "miasto": "SOCHACZEW", "powiat": "SOCHACZEWSKI", "adres": "BATALIONÓW CHLOPSKICH 3\/7", "miejscowosc": "SOCHACZEW ", "kod": null, "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ \"SZPITALA POWIATOWEGO\"  W SOCHACZEWIE ", "poziom": "I stopień", "www": "http:\/\/www.szpitalsochaczew.pl", "telefon": "46 864-95-00", "e-mail": "kancelaria@szpitalsochaczew.pl" }, "geometry": { "type": "Point", "coordinates": [ 583736.7, 486602.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1428",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 436,
+                "JPT_KOD_JE": "1428",
+                "JPT_NAZWA_": "powiat sochaczewski",
+                "id": 204,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "SOCHACZEW",
+                "powiat": "SOCHACZEWSKI",
+                "adres": "BATALIONÓW CHLOPSKICH 3/7",
+                "miejscowosc": "SOCHACZEW ",
+                "kod": null,
+                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ \"SZPITALA POWIATOWEGO\"  W SOCHACZEWIE ",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalsochaczew.pl",
+                "telefon": "46 864-95-00",
+                "e-mail": "kancelaria@szpitalsochaczew.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.22668801272006,
+                    52.23908324667542
+                ]
+            }
+        }
+    ]
 }

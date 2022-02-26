@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0207",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 134, "JPT_KOD_JE": "0207", "JPT_NAZWA_": "powiat kamiennogórski", "id": 8, "wojewodztwo": "dolnośląskie", "miasto": "Kamienna Góra", "powiat": "kamiennogórski", "adres": "JANUSZA KORCZAKA 1", "miejscowosc": null, "kod": null, "nazwa": "DOLNOŚLĄSKIE CENTRUM REHABILITACJI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "II stopień", "www": "http:\/\/www.dcr.org.pl", "telefon": "75 64 59 600", "e-mail": "dcr@dcr.org.pl" }, "geometry": { "type": "Point", "coordinates": [ 292517.2, 327559.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0207",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 134,
+                "JPT_KOD_JE": "0207",
+                "JPT_NAZWA_": "powiat kamiennogórski",
+                "id": 8,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Kamienna Góra",
+                "powiat": "kamiennogórski",
+                "adres": "JANUSZA KORCZAKA 1",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "DOLNOŚLĄSKIE CENTRUM REHABILITACJI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+                "poziom": "II stopień",
+                "www": "http://www.dcr.org.pl",
+                "telefon": "75 64 59 600",
+                "e-mail": "dcr@dcr.org.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.05601492173462,
+                    50.77780968654006
+                ]
+            }
+        }
+    ]
 }

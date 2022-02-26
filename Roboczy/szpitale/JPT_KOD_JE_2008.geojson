@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2008",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 488, "JPT_KOD_JE": "2008", "JPT_NAZWA_": "powiat moniecki", "id": 569, "wojewodztwo": "podlaskie", "miasto": "moniecki", "powiat": "Mońki", "adres": "al. Niepodległości 9", "miejscowosc": "Mońki", "kod": "19-100", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MOŃKACH", "poziom": "I stopień", "www": "http:\/\/www.spzoz.monki.pl", "telefon": "85 727 81 30", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 752700.5, 622345.9 ] } },
-{ "type": "Feature", "properties": { "_uid_": 489, "JPT_KOD_JE": "2008", "JPT_NAZWA_": "powiat moniecki", "id": 575, "wojewodztwo": "podlaskie", "miasto": "moniecki", "powiat": "Knyszyn", "adres": "Grodzieńska 96  ", "miejscowosc": "Knyszyn", "kod": "19-120", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ IM. DR E. JELSKIEGO", "poziom": "I stopień", "www": null, "telefon": "85 727 91 70", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 761107.4, 613223.5 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2008",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 488,
+                "JPT_KOD_JE": "2008",
+                "JPT_NAZWA_": "powiat moniecki",
+                "id": 569,
+                "wojewodztwo": "podlaskie",
+                "miasto": "moniecki",
+                "powiat": "Mońki",
+                "adres": "al. Niepodległości 9",
+                "miejscowosc": "Mońki",
+                "kod": "19-100",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MOŃKACH",
+                "poziom": "I stopień",
+                "www": "http://www.spzoz.monki.pl",
+                "telefon": "85 727 81 30",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.80310651420242,
+                    53.40553136329547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 489,
+                "JPT_KOD_JE": "2008",
+                "JPT_NAZWA_": "powiat moniecki",
+                "id": 575,
+                "wojewodztwo": "podlaskie",
+                "miasto": "moniecki",
+                "powiat": "Knyszyn",
+                "adres": "Grodzieńska 96  ",
+                "miejscowosc": "Knyszyn",
+                "kod": "19-120",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ IM. DR E. JELSKIEGO",
+                "poziom": "I stopień",
+                "www": null,
+                "telefon": "85 727 91 70",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.921775902307502,
+                    53.31960713249841
+                ]
+            }
+        }
+    ]
 }

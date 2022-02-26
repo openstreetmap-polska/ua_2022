@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0601",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 437, "JPT_KOD_JE": "0601", "JPT_NAZWA_": "powiat bialski", "id": 77, "wojewodztwo": "lubelskie", "miasto": "MIĘDZYRZEC PODLASKI", "powiat": "BIALSKI", "adres": "WARSZAWSKA 2-4", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MIĘDZYRZECU PODLASKIM", "poziom": "I stopień", "www": "http:\/\/spzozmc.pl", "telefon": "83 371 83 17", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 759982.5, 464392.3 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0601",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 437,
+                "JPT_KOD_JE": "0601",
+                "JPT_NAZWA_": "powiat bialski",
+                "id": 77,
+                "wojewodztwo": "lubelskie",
+                "miasto": "MIĘDZYRZEC PODLASKI",
+                "powiat": "BIALSKI",
+                "adres": "WARSZAWSKA 2-4",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MIĘDZYRZECU PODLASKIM",
+                "poziom": "I stopień",
+                "www": "http://spzozmc.pl",
+                "telefon": "83 371 83 17",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.787560718522073,
+                    51.98478870271574
+                ]
+            }
+        }
+    ]
 }

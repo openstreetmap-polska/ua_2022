@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1208",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 537, "JPT_KOD_JE": "1208", "JPT_NAZWA_": "powiat miechowski", "id": 161, "wojewodztwo": "małopolskie", "miasto": "MIECHÓW", "powiat": "miechowski", "adres": "Szpitalna 3", "miejscowosc": "Miechów", "kod": "32-200", "nazwa": "SZPITAL  ŚW.ANNY  W MIECHOWIE", "poziom": "I stopień", "www": "http:\/\/www.szpital.miechow.pl", "telefon": "41 38 20 100", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 573599.9, 276829.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1208",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 537,
+                "JPT_KOD_JE": "1208",
+                "JPT_NAZWA_": "powiat miechowski",
+                "id": 161,
+                "wojewodztwo": "małopolskie",
+                "miasto": "MIECHÓW",
+                "powiat": "miechowski",
+                "adres": "Szpitalna 3",
+                "miejscowosc": "Miechów",
+                "kod": "32-200",
+                "nazwa": "SZPITAL  ŚW.ANNY  W MIECHOWIE",
+                "poziom": "I stopień",
+                "www": "http://www.szpital.miechow.pl",
+                "telefon": "41 38 20 100",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.034907093216187,
+                    50.354000664172936
+                ]
+            }
+        }
+    ]
 }

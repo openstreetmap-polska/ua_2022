@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0661",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0661", "JPT_NAZWA_": "powiat Biała Podlaska", "id": 106, "ksiega": 389124, "id zoz": 476788, "id jednostki": "766810", "id komórki": 6725748, "regon": 67670800037, "kod jednostki": "06", "kod komórki": 1, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Biała Podlaska - gmina miejska", "ulica": "ul. Terebelska", "budynek": "57-65", "lokal": "NULL", "kod": "21-500", "miejscowosc": "Biała Podlaska", "teryt": 661011, "kod simc": 922018, "kod ulicy": "22756", "lozka": 11, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "1998-04-01" }, "geometry": { "type": "Point", "coordinates": [ 781768.484885882004164, 472455.39562056097202 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0661",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0661",
+                "JPT_NAZWA_": "powiat Biała Podlaska",
+                "id": 106,
+                "ksiega": 389124,
+                "id zoz": 476788,
+                "id jednostki": "766810",
+                "id komórki": 6725748,
+                "regon": 67670800037,
+                "kod jednostki": "06",
+                "kod komórki": 1,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Biała Podlaska - gmina miejska",
+                "ulica": "ul. Terebelska",
+                "budynek": "57-65",
+                "lokal": "NULL",
+                "kod": "21-500",
+                "miejscowosc": "Biała Podlaska",
+                "teryt": 661011,
+                "kod simc": 922018,
+                "kod ulicy": "22756",
+                "lozka": 11,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "1998-04-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.110738000082005,
+                    52.04649700001724
+                ]
+            }
+        }
+    ]
 }

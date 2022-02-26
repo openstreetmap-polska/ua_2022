@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2811",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 321, "JPT_KOD_JE": "2811", "JPT_NAZWA_": "powiat nidzicki", "id": 419, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Nidzica", "powiat": "Nidzicki", "adres": "Mickiewicza 23", "miejscowosc": "Nidzica", "kod": "13-100", "nazwa": "Zespół Opieki Zdrowotnej w Nidzicy", "poziom": "I stopień", "www": "https:\/\/www.zoz.nidzica.pl", "telefon": "89 625 05 35 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 595303.5, 611466.8 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2811",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 321,
+                "JPT_KOD_JE": "2811",
+                "JPT_NAZWA_": "powiat nidzicki",
+                "id": 419,
+                "wojewodztwo": "warmińsko-mazurskie",
+                "miasto": "Nidzica",
+                "powiat": "Nidzicki",
+                "adres": "Mickiewicza 23",
+                "miejscowosc": "Nidzica",
+                "kod": "13-100",
+                "nazwa": "Zespół Opieki Zdrowotnej w Nidzicy",
+                "poziom": "I stopień",
+                "www": "https://www.zoz.nidzica.pl",
+                "telefon": "89 625 05 35 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.432503371812388,
+                    53.35969768485364
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0411",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 219, "JPT_KOD_JE": "0411", "JPT_NAZWA_": "powiat radziejowski", "id": "104#54", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20000731", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Radziejowie", "miejscowosc": "Radziejów", "ulica": "Szpitalna ", "numer_domu": "3", "adres_swiadczeniodawcy": "Szpitalna 3", "telefon": "54 285-62-10; 54 285-63-64; 54 285-62-99;54 285-64-10", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Radziejów", "g_adr": "3", "g_teryt": "0411011", "g_gm": "Radziejów", "g_pow": "radziejowski", "g_woj": "kujawsko-pomorskie", "g_szer": 18.51689700325235, "g_dlug": 52.619369951928284, "g_uuid": "1543f72e-e4c4-4029-8114-7265d5630794", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 467304.497350062767509, 528289.795286692678928 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0411",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 219,
+                "JPT_KOD_JE": "0411",
+                "JPT_NAZWA_": "powiat radziejowski",
+                "id": "104#54",
+                "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "20000731",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Radziejowie",
+                "miejscowosc": "Radziejów",
+                "ulica": "Szpitalna ",
+                "numer_domu": "3",
+                "adres_swiadczeniodawcy": "Szpitalna 3",
+                "telefon": "54 285-62-10; 54 285-63-64; 54 285-62-99;54 285-64-10",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szpitalna",
+                "g_miejsc": "Radziejów",
+                "g_adr": "3",
+                "g_teryt": "0411011",
+                "g_gm": "Radziejów",
+                "g_pow": "radziejowski",
+                "g_woj": "kujawsko-pomorskie",
+                "g_szer": 18.51689700325235,
+                "g_dlug": 52.619369951928284,
+                "g_uuid": "1543f72e-e4c4-4029-8114-7265d5630794",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.516899999999815,
+                    52.61937000001646
+                ]
+            }
+        }
+    ]
 }

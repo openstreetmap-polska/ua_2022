@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1603",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 546, "JPT_KOD_JE": "1603", "JPT_NAZWA_": "powiat kędzierzyńsko-kozielski", "id": 272, "wojewodztwo": "opolskie", "miasto": "Kędzierzyn-Koźle", "powiat": "kędzierzyńsko - kozielski", "adres": "Roosevelta 2", "miejscowosc": "Kędzierzyn-Koźle", "kod": "47-200 ", "nazwa": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Kędzierzynie-Koźlu", "poziom": "II stopień", "www": "http:\/\/www.e-szpital.eu", "telefon": "77 406 25 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 439617.8, 274264.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1603",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 546,
+                "JPT_KOD_JE": "1603",
+                "JPT_NAZWA_": "powiat kędzierzyńsko-kozielski",
+                "id": 272,
+                "wojewodztwo": "opolskie",
+                "miasto": "Kędzierzyn-Koźle",
+                "powiat": "kędzierzyńsko - kozielski",
+                "adres": "Roosevelta 2",
+                "miejscowosc": "Kędzierzyn-Koźle",
+                "kod": "47-200 ",
+                "nazwa": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Kędzierzynie-Koźlu",
+                "poziom": "II stopień",
+                "www": "http://www.e-szpital.eu",
+                "telefon": "77 406 25 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.151337560247672,
+                    50.33243587417834
+                ]
+            }
+        }
+    ]
 }

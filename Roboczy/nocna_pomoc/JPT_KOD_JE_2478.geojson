@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2478",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 291, "JPT_KOD_JE": "2478", "JPT_NAZWA_": "powiat Zabrze", "id": "104#418", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "126\/100372", "swiadczeniodawca": "Szpital Specjalistyczny w Zabrzu Sp. z o.o.", "miejscowosc": "Zabrze", "ulica": "Marii Curie-Skłodowskiej ", "numer_domu": "10", "adres_swiadczeniodawcy": "Marii Curie-Skłodowskiej 10", "telefon": "32 373 23 54", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "wizyty pielęgniarskie ambulatoryjne", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Curie-Skłodowskiej Marii", "g_miejsc": "Zabrze", "g_adr": "10", "g_teryt": "2478011", "g_gm": "Zabrze", "g_pow": "Zabrze", "g_woj": "śląskie", "g_szer": 18.781563073257367, "g_dlug": 50.314123369982745, "g_uuid": "daaf26bd-f9e1-458e-821b-d4caaf2f0374", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 484451.956353954155929, 271907.02284428011626 ] } },
-{ "type": "Feature", "properties": { "gid": 394, "JPT_KOD_JE": "2478", "JPT_NAZWA_": "powiat Zabrze", "id": "104#417", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "126\/212018", "swiadczeniodawca": "Szpital Miejski w Zabrzu Sp. z o.o.", "miejscowosc": "Zabrze", "ulica": "Zamkowa ", "numer_domu": "4", "adres_swiadczeniodawcy": "Zamkowa 4", "telefon": "32 277 61 90, \r\n32 277 61 91", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Zamkowa", "g_miejsc": "Zabrze", "g_adr": "4", "g_teryt": "2478011", "g_gm": "Zabrze", "g_pow": "Zabrze", "g_woj": "śląskie", "g_szer": 18.828839888972297, "g_dlug": 50.325830751341016, "g_uuid": "7ea945c5-d5ab-47fc-9d02-8701507c0aef", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 487820.225708714802749, 273199.869464734569192 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2478",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 291,
+                "JPT_KOD_JE": "2478",
+                "JPT_NAZWA_": "powiat Zabrze",
+                "id": "104#418",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "126/100372",
+                "swiadczeniodawca": "Szpital Specjalistyczny w Zabrzu Sp. z o.o.",
+                "miejscowosc": "Zabrze",
+                "ulica": "Marii Curie-Skłodowskiej ",
+                "numer_domu": "10",
+                "adres_swiadczeniodawcy": "Marii Curie-Skłodowskiej 10",
+                "telefon": "32 373 23 54",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "wizyty pielęgniarskie ambulatoryjne",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Curie-Skłodowskiej Marii",
+                "g_miejsc": "Zabrze",
+                "g_adr": "10",
+                "g_teryt": "2478011",
+                "g_gm": "Zabrze",
+                "g_pow": "Zabrze",
+                "g_woj": "śląskie",
+                "g_szer": 18.781563073257367,
+                "g_dlug": 50.314123369982745,
+                "g_uuid": "daaf26bd-f9e1-458e-821b-d4caaf2f0374",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.78155999999994,
+                    50.31412000001295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 394,
+                "JPT_KOD_JE": "2478",
+                "JPT_NAZWA_": "powiat Zabrze",
+                "id": "104#417",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "126/212018",
+                "swiadczeniodawca": "Szpital Miejski w Zabrzu Sp. z o.o.",
+                "miejscowosc": "Zabrze",
+                "ulica": "Zamkowa ",
+                "numer_domu": "4",
+                "adres_swiadczeniodawcy": "Zamkowa 4",
+                "telefon": "32 277 61 90, \r\n32 277 61 91",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Zamkowa",
+                "g_miejsc": "Zabrze",
+                "g_adr": "4",
+                "g_teryt": "2478011",
+                "g_gm": "Zabrze",
+                "g_pow": "Zabrze",
+                "g_woj": "śląskie",
+                "g_szer": 18.828839888972297,
+                "g_dlug": 50.325830751341016,
+                "g_uuid": "7ea945c5-d5ab-47fc-9d02-8701507c0aef",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.82883999999995,
+                    50.325830000012985
+                ]
+            }
+        }
+    ]
 }

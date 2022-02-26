@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2610",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 103, "JPT_KOD_JE": "2610", "JPT_NAZWA_": "powiat skarżyski", "id": 450, "wojewodztwo": "ŚWIĘTOKRZYSKIE", "miasto": "SKARŻYSKO-KAMIENNA", "powiat": "SKARŻYSKI", "adres": "SZPITALNA 1", "miejscowosc": "SKARŻYSKO-KAMIENNA", "kod": null, "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W SKARŻYSKU KAMIENNEJ SZPITAL POWIATOWY IM. MARII SKŁODOWSKIEJ-CURIE", "poziom": "II stopień", "www": "http:\/\/zoz.com.pl", "telefon": "516209218", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 630827.7, 363813.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2610",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 103,
+                "JPT_KOD_JE": "2610",
+                "JPT_NAZWA_": "powiat skarżyski",
+                "id": 450,
+                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
+                "miasto": "SKARŻYSKO-KAMIENNA",
+                "powiat": "SKARŻYSKI",
+                "adres": "SZPITALNA 1",
+                "miejscowosc": "SKARŻYSKO-KAMIENNA",
+                "kod": null,
+                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W SKARŻYSKU KAMIENNEJ SZPITAL POWIATOWY IM. MARII SKŁODOWSKIEJ-CURIE",
+                "poziom": "II stopień",
+                "www": "http://zoz.com.pl",
+                "telefon": "516209218",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8701545610242,
+                    51.12612851561083
+                ]
+            }
+        }
+    ]
 }

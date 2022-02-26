@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3017",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 94, "JPT_KOD_JE": "3017", "JPT_NAZWA_": "powiat ostrowski", "id": "104#486", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000028", "swiadczeniodawca": "Zespół Zakładów Opieki Zdrowotnej Ostrów Wielkopolski", "miejscowosc": "Ostrów Wielkopolski", "ulica": "Limanowskiego", "numer_domu": "20\/22", "adres_swiadczeniodawcy": "Limanowskiego 20\/22", "telefon": "62 595 13 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "Bolesława Limanowskiego", "g_miejsc": "Ostrów Wielkopolski", "g_adr": "20-22", "g_teryt": "3017011", "g_gm": "Ostrów Wielkopolski", "g_pow": "ostrowski", "g_woj": "wielkopolskie", "g_szer": 17.825697512823975, "g_dlug": 51.655110324233888, "g_uuid": "e615d79c-501f-40a7-bdc2-cdb31e94b712", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 418791.296415572694968, 421614.933887341059744 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3017",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 94,
+                "JPT_KOD_JE": "3017",
+                "JPT_NAZWA_": "powiat ostrowski",
+                "id": "104#486",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150000028",
+                "swiadczeniodawca": "Zespół Zakładów Opieki Zdrowotnej Ostrów Wielkopolski",
+                "miejscowosc": "Ostrów Wielkopolski",
+                "ulica": "Limanowskiego",
+                "numer_domu": "20/22",
+                "adres_swiadczeniodawcy": "Limanowskiego 20/22",
+                "telefon": "62 595 13 00",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "Bolesława Limanowskiego",
+                "g_miejsc": "Ostrów Wielkopolski",
+                "g_adr": "20-22",
+                "g_teryt": "3017011",
+                "g_gm": "Ostrów Wielkopolski",
+                "g_pow": "ostrowski",
+                "g_woj": "wielkopolskie",
+                "g_szer": 17.825697512823975,
+                "g_dlug": 51.65511032423389,
+                "g_uuid": "e615d79c-501f-40a7-bdc2-cdb31e94b712",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.82569999999946,
+                    51.655110000014936
+                ]
+            }
+        }
+    ]
 }

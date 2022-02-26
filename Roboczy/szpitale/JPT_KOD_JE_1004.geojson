@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1004",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 442, "JPT_KOD_JE": "1004", "JPT_NAZWA_": "powiat łęczycki", "id": 132, "wojewodztwo": "łódzkie", "miasto": "Łęczyca", "powiat": "łęczycki", "adres": "Zachodnia 6", "miejscowosc": null, "kod": null, "nazwa": "ZOZ w Łęczycy", "poziom": "I stopień", "www": "http:\/\/www.zozleczyca.pl", "telefon": "24 388 26 01", "e-mail": "zozleczyca@zozleczyca.pl" }, "geometry": { "type": "Point", "coordinates": [ 512929.7, 465968.3 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1004",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 442,
+                "JPT_KOD_JE": "1004",
+                "JPT_NAZWA_": "powiat łęczycki",
+                "id": 132,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łęczyca",
+                "powiat": "łęczycki",
+                "adres": "Zachodnia 6",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "ZOZ w Łęczycy",
+                "poziom": "I stopień",
+                "www": "http://www.zozleczyca.pl",
+                "telefon": "24 388 26 01",
+                "e-mail": "zozleczyca@zozleczyca.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.188648660502977,
+                    52.059738299422776
+                ]
+            }
+        }
+    ]
 }

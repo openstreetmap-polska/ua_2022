@@ -1,11 +1,180 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1061",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 4, "ksiega": 391515, "id zoz": 480775, "id jednostki": "775768", "id komórki": 6816195, "regon": 47214755900090, "kod jednostki": "37", "kod komórki": 156, "specjalnosc": "Szpitalny oddział ratunkowy dla dzieci", "kodresortviii": 4903, "nazwa": "Szpitalny Oddział Ratownictwa Medycznego", "teryt opis": "Łódź-Bałuty - delegatura", "ulica": "ul. Sporna", "budynek": "36\/50", "lokal": "NULL", "kod": "91-738", "miejscowosc": "Łódź", "teryt": 1061029, "kod simc": 957666, "kod ulicy": "20679", "lozka": 8, "liczba łóżek iom": 2, "liczba łóżek ink": 2, "liczba łóżek now": 3, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2016-02-01" }, "geometry": { "type": "Point", "coordinates": [ 533004.042891465942375, 435675.668171506025828 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 162, "ksiega": 391365, "id zoz": 480515, "id jednostki": "774697", "id komórki": 6805082, "regon": 47223718500024, "kod jednostki": "01", "kod komórki": 16, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Łódź-Widzew - delegatura", "ulica": "ul. Milionowa", "budynek": "14", "lokal": "NULL", "kod": "93-113", "miejscowosc": "Łódź", "teryt": 1061069, "kod simc": 958453, "kod ulicy": "12938", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-12-04" }, "geometry": { "type": "Point", "coordinates": [ 533388.679899999988, 431757.047900000994559 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 188, "ksiega": 391801, "id zoz": 481314, "id jednostki": "777186", "id komórki": 6834468, "regon": 29540300041, "kod jednostki": "01", "kod komórki": 96, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Łódź-Górna - delegatura", "ulica": "ul. Pabianicka", "budynek": "62", "lokal": "NULL", "kod": "93-513", "miejscowosc": "Łódź", "teryt": 1061039, "kod simc": 957985, "kod ulicy": "15498", "lozka": 8, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-09-10" }, "geometry": { "type": "Point", "coordinates": [ 531454.159499999951, 429616.9082 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 134, "ksiega": 390788, "id zoz": 479204, "id jednostki": "771534", "id komórki": 6768694, "regon": 28877400025, "kod jednostki": "36", "kod komórki": 142, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Łódź-Śródmieście - delegatura", "ulica": "ul. dr. Stefana Kopcińskiego", "budynek": "22", "lokal": "NULL", "kod": "90-153", "miejscowosc": "Łódź", "teryt": 1061059, "kod simc": 958430, "kod ulicy": "09257", "lozka": 5, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2018-07-01" }, "geometry": { "type": "Point", "coordinates": [ 533312.138599999947, 434280.3018 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1061",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 4,
+                "ksiega": 391515,
+                "id zoz": 480775,
+                "id jednostki": "775768",
+                "id komórki": 6816195,
+                "regon": 47214755900090,
+                "kod jednostki": "37",
+                "kod komórki": 156,
+                "specjalnosc": "Szpitalny oddział ratunkowy dla dzieci",
+                "kodresortviii": 4903,
+                "nazwa": "Szpitalny Oddział Ratownictwa Medycznego",
+                "teryt opis": "Łódź-Bałuty - delegatura",
+                "ulica": "ul. Sporna",
+                "budynek": "36/50",
+                "lokal": "NULL",
+                "kod": "91-738",
+                "miejscowosc": "Łódź",
+                "teryt": 1061029,
+                "kod simc": 957666,
+                "kod ulicy": "20679",
+                "lozka": 8,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 2,
+                "liczba łóżek now": 3,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2016-02-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.478626000000155,
+                    51.78647000001515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 162,
+                "ksiega": 391365,
+                "id zoz": 480515,
+                "id jednostki": "774697",
+                "id komórki": 6805082,
+                "regon": 47223718500024,
+                "kod jednostki": "01",
+                "kod komórki": 16,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Łódź-Widzew - delegatura",
+                "ulica": "ul. Milionowa",
+                "budynek": "14",
+                "lokal": "NULL",
+                "kod": "93-113",
+                "miejscowosc": "Łódź",
+                "teryt": 1061069,
+                "kod simc": 958453,
+                "kod ulicy": "12938",
+                "lozka": 6,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-12-04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.483826860994583,
+                    51.75120429875999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 188,
+                "ksiega": 391801,
+                "id zoz": 481314,
+                "id jednostki": "777186",
+                "id komórki": 6834468,
+                "regon": 29540300041,
+                "kod jednostki": "01",
+                "kod komórki": 96,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Łódź-Górna - delegatura",
+                "ulica": "ul. Pabianicka",
+                "budynek": "62",
+                "lokal": "NULL",
+                "kod": "93-513",
+                "miejscowosc": "Łódź",
+                "teryt": 1061039,
+                "kod simc": 957985,
+                "kod ulicy": "15498",
+                "lozka": 8,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-09-10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.455601568397096,
+                    51.732068415131934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 134,
+                "ksiega": 390788,
+                "id zoz": 479204,
+                "id jednostki": "771534",
+                "id komórki": 6768694,
+                "regon": 28877400025,
+                "kod jednostki": "36",
+                "kod komórki": 142,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Łódź-Śródmieście - delegatura",
+                "ulica": "ul. dr. Stefana Kopcińskiego",
+                "budynek": "22",
+                "lokal": "NULL",
+                "kod": "90-153",
+                "miejscowosc": "Łódź",
+                "teryt": 1061059,
+                "kod simc": 958430,
+                "kod ulicy": "09257",
+                "lozka": 5,
+                "liczba łóżek iom": 1,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2018-07-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.482959840125922,
+                    51.77390225514541
+                ]
+            }
+        }
+    ]
 }

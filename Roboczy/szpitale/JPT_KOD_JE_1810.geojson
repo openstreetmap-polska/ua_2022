@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1810",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 30, "JPT_KOD_JE": "1810", "JPT_NAZWA_": "powiat łańcucki", "id": 318, "wojewodztwo": "podkarpackie", "miasto": "Łańcut", "powiat": "łańcucki ", "adres": "Ignacego Paderewskiego 5", "miejscowosc": "Łańcut", "kod": "37-100 ", "nazwa": "CENTRUM MEDYCZNE W ŁAŃCUCIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "I stopień", "www": "http:\/\/cm-lancut.pl", "telefon": "(017)224 01 21", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 731271.3, 249311.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1810",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 30,
+                "JPT_KOD_JE": "1810",
+                "JPT_NAZWA_": "powiat łańcucki",
+                "id": 318,
+                "wojewodztwo": "podkarpackie",
+                "miasto": "Łańcut",
+                "powiat": "łańcucki ",
+                "adres": "Ignacego Paderewskiego 5",
+                "miejscowosc": "Łańcut",
+                "kod": "37-100 ",
+                "nazwa": "CENTRUM MEDYCZNE W ŁAŃCUCIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+                "poziom": "I stopień",
+                "www": "http://cm-lancut.pl",
+                "telefon": "(017)224 01 21",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.232720894304645,
+                    50.066017324681404
+                ]
+            }
+        }
+    ]
 }

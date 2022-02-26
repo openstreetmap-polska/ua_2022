@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1435",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1435", "JPT_NAZWA_": "powiat wyszkowski", "id": 64, "ksiega": 387168, "id zoz": 472643, "id jednostki": "757126", "id komórki": 6606166, "regon": 30872600034, "kod jednostki": "01", "kod komórki": 100, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Wyszków - miasto", "ulica": "ul. Komisji Edukacji Narodowej", "budynek": "1", "lokal": "NULL", "kod": "07-200", "miejscowosc": "Wyszków", "teryt": 1435054, "kod simc": 966470, "kod ulicy": "09066", "lozka": 6, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 6, "data rozpoczęcia działalności komórki": "2002-03-01" }, "geometry": { "type": "Point", "coordinates": [ 665573.1894, 527367.170799999963 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1435",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1435",
+                "JPT_NAZWA_": "powiat wyszkowski",
+                "id": 64,
+                "ksiega": 387168,
+                "id zoz": 472643,
+                "id jednostki": "757126",
+                "id komórki": 6606166,
+                "regon": 30872600034,
+                "kod jednostki": "01",
+                "kod komórki": 100,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Wyszków - miasto",
+                "ulica": "ul. Komisji Edukacji Narodowej",
+                "budynek": "1",
+                "lokal": "NULL",
+                "kod": "07-200",
+                "miejscowosc": "Wyszków",
+                "teryt": 1435054,
+                "kod simc": 966470,
+                "kod ulicy": "09066",
+                "lozka": 6,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 6,
+                "data rozpoczęcia działalności komórki": "2002-03-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.444838387528264,
+                    52.58681947454674
+                ]
+            }
+        }
+    ]
 }

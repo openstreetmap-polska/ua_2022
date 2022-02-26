@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1605",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 365, "JPT_KOD_JE": "1605", "JPT_NAZWA_": "powiat krapkowicki", "id": "104#269", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/20497", "swiadczeniodawca": "Krapkowickie Centrum Zdrowia Sp. z o.o", "miejscowosc": "Krapkowice\r\n", "ulica": "XXX-lecia ", "numer_domu": "21", "adres_swiadczeniodawcy": "Oś. XXX-lecia 21", "telefon": "Krapkowice: 77 440 31 00; 01; Zdzieszowice: 77 484 24 00", "dodatkowe_miejsce": " Filarskiego 19; Zdzieszowice", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 17.971714627063843, "g_dlug": 50.492071624143122, "g_uuid": "8fd80d95-161e-48ca-8a68-376af0165460", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 427083.002730480860919, 292169.809069904498756 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1605",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 365,
+                "JPT_KOD_JE": "1605",
+                "JPT_NAZWA_": "powiat krapkowicki",
+                "id": "104#269",
+                "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "08R/20497",
+                "swiadczeniodawca": "Krapkowickie Centrum Zdrowia Sp. z o.o",
+                "miejscowosc": "Krapkowice\r\n",
+                "ulica": "XXX-lecia ",
+                "numer_domu": "21",
+                "adres_swiadczeniodawcy": "Oś. XXX-lecia 21",
+                "telefon": "Krapkowice: 77 440 31 00; 01; Zdzieszowice: 77 484 24 00",
+                "dodatkowe_miejsce": " Filarskiego 19; Zdzieszowice",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 17.971714627063843,
+                "g_dlug": 50.49207162414312,
+                "g_uuid": "8fd80d95-161e-48ca-8a68-376af0165460",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.971709999999625,
+                    50.4920700000132
+                ]
+            }
+        }
+    ]
 }

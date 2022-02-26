@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1609",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 517, "JPT_KOD_JE": "1609", "JPT_NAZWA_": "powiat opolski", "id": 288, "wojewodztwo": "opolskie", "miasto": "Ozimek", "powiat": "opolski", "adres": "Częstochowska 31", "miejscowosc": "Ozimek", "kod": "46-040 ", "nazwa": "EMC Instytut Medyczny Spółka Akcyjna Szpital Świętego Rocha w Ozimku", "poziom": "I stopień", "www": "http:\/\/www.emc-sa.pl", "telefon": "77 427 34 23", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 444948.3, 313045.7 ] } },
-{ "type": "Feature", "properties": { "_uid_": 518, "JPT_KOD_JE": "1609", "JPT_NAZWA_": "powiat opolski", "id": 276, "wojewodztwo": "opolskie", "miasto": "Kup", "powiat": "opolski", "adres": "Karola Miarki 14\/-", "miejscowosc": "Kup", "kod": "46-082 ", "nazwa": "STOBRAWSKIE CENTRUM MEDYCZNE spółka z ograniczoną odpowiedzialnością z siedzibą w Kup", "poziom": "Szpital pulmonologiczny", "www": "http:\/\/www.szpital-kup.eu", "telefon": "77 403 28 50  ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 421479.7, 326947.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1609",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 517,
+                "JPT_KOD_JE": "1609",
+                "JPT_NAZWA_": "powiat opolski",
+                "id": 288,
+                "wojewodztwo": "opolskie",
+                "miasto": "Ozimek",
+                "powiat": "opolski",
+                "adres": "Częstochowska 31",
+                "miejscowosc": "Ozimek",
+                "kod": "46-040 ",
+                "nazwa": "EMC Instytut Medyczny Spółka Akcyjna Szpital Świętego Rocha w Ozimku",
+                "poziom": "I stopień",
+                "www": "http://www.emc-sa.pl",
+                "telefon": "77 427 34 23",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.220527050276896,
+                    50.68180158601198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 518,
+                "JPT_KOD_JE": "1609",
+                "JPT_NAZWA_": "powiat opolski",
+                "id": 276,
+                "wojewodztwo": "opolskie",
+                "miasto": "Kup",
+                "powiat": "opolski",
+                "adres": "Karola Miarki 14/-",
+                "miejscowosc": "Kup",
+                "kod": "46-082 ",
+                "nazwa": "STOBRAWSKIE CENTRUM MEDYCZNE spółka z ograniczoną odpowiedzialnością z siedzibą w Kup",
+                "poziom": "Szpital pulmonologiczny",
+                "www": "http://www.szpital-kup.eu",
+                "telefon": "77 403 28 50  ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.885329025275578,
+                    50.8041331576793
+                ]
+            }
+        }
+    ]
 }

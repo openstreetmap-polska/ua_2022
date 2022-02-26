@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1818",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 189, "JPT_KOD_JE": "1818", "JPT_NAZWA_": "powiat stalowowolski", "id": 306, "wojewodztwo": "podkarpackie", "miasto": "Stalowa Wola", "powiat": "stalowowolski ", "adres": "Stanisława Staszica 4", "miejscowosc": "Stalowa Wola", "kod": "37-450 ", "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ POWIATOWY SZPITAL SPECJALISTYCZNY ", "poziom": "II stopień", "www": "http:\/\/szpital-stw.com", "telefon": "(015)843 32 05", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 717276.5, 304077.5 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1818",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 189,
+                "JPT_KOD_JE": "1818",
+                "JPT_NAZWA_": "powiat stalowowolski",
+                "id": 306,
+                "wojewodztwo": "podkarpackie",
+                "miasto": "Stalowa Wola",
+                "powiat": "stalowowolski ",
+                "adres": "Stanisława Staszica 4",
+                "miejscowosc": "Stalowa Wola",
+                "kod": "37-450 ",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ POWIATOWY SZPITAL SPECJALISTYCZNY ",
+                "poziom": "II stopień",
+                "www": "http://szpital-stw.com",
+                "telefon": "(015)843 32 05",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.068942982743064,
+                    50.56328561009564
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1432",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 81, "JPT_KOD_JE": "1432", "JPT_NAZWA_": "powiat warszawski zachodni", "id": 265, "wojewodztwo": "mazowieckie", "miasto": "DZIEKANÓW LEŚNY", "powiat": "WARSZAWSKI ZACHODNI", "adres": "MARII KONOPNICKIEJ 65", "miejscowosc": "DZIEKANÓW LEŚNY ", "kod": null, "nazwa": "SAMODZIELNY ZESPÓŁ PUBLICZNYCH ZAKŁADÓW OPIEKI ZDROWOTNEJ IM. \"DZIECI WARSZAWY\" W DZIEKANOWIE LEŚNYM", "poziom": "Szpital pediatryczny", "www": "http:\/\/www.szpitaldziekanow.pl", "telefon": "227657100", "e-mail": "szpital@szpitaldziekanow.pl" }, "geometry": { "type": "Point", "coordinates": [ 626021.5, 498906.2 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1432",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 81,
+                "JPT_KOD_JE": "1432",
+                "JPT_NAZWA_": "powiat warszawski zachodni",
+                "id": 265,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "DZIEKANÓW LEŚNY",
+                "powiat": "WARSZAWSKI ZACHODNI",
+                "adres": "MARII KONOPNICKIEJ 65",
+                "miejscowosc": "DZIEKANÓW LEŚNY ",
+                "kod": null,
+                "nazwa": "SAMODZIELNY ZESPÓŁ PUBLICZNYCH ZAKŁADÓW OPIEKI ZDROWOTNEJ IM. \"DZIECI WARSZAWY\" W DZIEKANOWIE LEŚNYM",
+                "poziom": "Szpital pediatryczny",
+                "www": "http://www.szpitaldziekanow.pl",
+                "telefon": "227657100",
+                "e-mail": "szpital@szpitaldziekanow.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.850446194730317,
+                    52.341620308080756
+                ]
+            }
+        }
+    ]
 }

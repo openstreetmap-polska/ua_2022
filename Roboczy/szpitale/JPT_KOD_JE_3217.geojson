@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3217",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 296, "JPT_KOD_JE": "3217", "JPT_NAZWA_": "powiat wałecki", "id": 351, "wojewodztwo": "zachodniopomorskie", "miasto": "Wałcz ", "powiat": "wałecki ", "adres": "Kołobrzeska 44 ", "miejscowosc": null, "kod": null, "nazwa": "107 Szpital Wojskowy Z Przychodnią Samodzielny Publiczny Zakład Opieki Zdrowotnej w Wałczu ", "poziom": "Szpital ogólnopolski ", "www": "http:\/\/107sw.mil.pl\/ ", "telefon": "261 47 28 80 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 330847.8, 604978.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3217",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 296,
+                "JPT_KOD_JE": "3217",
+                "JPT_NAZWA_": "powiat wałecki",
+                "id": 351,
+                "wojewodztwo": "zachodniopomorskie",
+                "miasto": "Wałcz ",
+                "powiat": "wałecki ",
+                "adres": "Kołobrzeska 44 ",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "107 Szpital Wojskowy Z Przychodnią Samodzielny Publiczny Zakład Opieki Zdrowotnej w Wałczu ",
+                "poziom": "Szpital ogólnopolski ",
+                "www": "http://107sw.mil.pl/ ",
+                "telefon": "261 47 28 80 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.46187750388832,
+                    53.28293817554887
+                ]
+            }
+        }
+    ]
 }

@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1263",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 212, "JPT_KOD_JE": "1263", "JPT_NAZWA_": "powiat Tarnów", "id": "104#178", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "065\/100185", "swiadczeniodawca": "Specjalistyczny Szpital im.  E. Szczeklika w Tarnowie", "miejscowosc": "Tarnów", "ulica": "Szpitalna ", "numer_domu": "13", "adres_swiadczeniodawcy": "Szpitalna 13", "telefon": "14 63 10 430", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 20.995699958237807, "g_dlug": 50.017517460010126, "g_uuid": "5e38e730-5a9e-4393-a273-bb1c1dcf625a", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 642926.081305670319125, 240823.476424990221858 ] } },
-{ "type": "Feature", "properties": { "gid": 458, "JPT_KOD_JE": "1263", "JPT_NAZWA_": "powiat Tarnów", "id": "104#177", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "065\/100186", "swiadczeniodawca": "Szpital Wojewódzki im. św. Łukasza Samodzielny Publiczny Zakład Opieki Zdrowotnej w Tarnowie", "miejscowosc": "Tarnów", "ulica": "Lwowska", "numer_domu": "178a", "adres_swiadczeniodawcy": "Lwowska 178a", "telefon": "14  631 56 25", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 21.032420335442477, "g_dlug": 50.013199367467841, "g_uuid": "4b4c4f39-cf1a-44ea-aaf1-f593c15b42c8", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 645568.723535767639987, 240414.211241560988128 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1263",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 212,
+                "JPT_KOD_JE": "1263",
+                "JPT_NAZWA_": "powiat Tarnów",
+                "id": "104#178",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "065/100185",
+                "swiadczeniodawca": "Specjalistyczny Szpital im.  E. Szczeklika w Tarnowie",
+                "miejscowosc": "Tarnów",
+                "ulica": "Szpitalna ",
+                "numer_domu": "13",
+                "adres_swiadczeniodawcy": "Szpitalna 13",
+                "telefon": "14 63 10 430",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 20.995699958237807,
+                "g_dlug": 50.017517460010126,
+                "g_uuid": "5e38e730-5a9e-4393-a273-bb1c1dcf625a",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.995700000003147,
+                    50.01752000001252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 458,
+                "JPT_KOD_JE": "1263",
+                "JPT_NAZWA_": "powiat Tarnów",
+                "id": "104#177",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "065/100186",
+                "swiadczeniodawca": "Szpital Wojewódzki im. św. Łukasza Samodzielny Publiczny Zakład Opieki Zdrowotnej w Tarnowie",
+                "miejscowosc": "Tarnów",
+                "ulica": "Lwowska",
+                "numer_domu": "178a",
+                "adres_swiadczeniodawcy": "Lwowska 178a",
+                "telefon": "14  631 56 25",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 21.032420335442477,
+                "g_dlug": 50.01319936746784,
+                "g_uuid": "4b4c4f39-cf1a-44ea-aaf1-f593c15b42c8",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.03242000000341,
+                    50.013200000012525
+                ]
+            }
+        }
+    ]
 }

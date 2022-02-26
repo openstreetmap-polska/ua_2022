@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0402",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 65, "JPT_KOD_JE": "0402", "JPT_NAZWA_": "powiat brodnicki", "id": 24, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Brodnica", "powiat": "brodnicki", "adres": "Wiejska 9", "miejscowosc": null, "kod": null, "nazwa": "Zespół Opieki Zdrowotnej w Brodnicy", "poziom": "I stopień", "www": "http:\/\/www.zozbrodnica.pl", "telefon": "56 66 89 100", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 526391.7, 599674.3 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0402",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 65,
+                "JPT_KOD_JE": "0402",
+                "JPT_NAZWA_": "powiat brodnicki",
+                "id": 24,
+                "wojewodztwo": "kujawsko-pomorskie",
+                "miasto": "Brodnica",
+                "powiat": "brodnicki",
+                "adres": "Wiejska 9",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Zespół Opieki Zdrowotnej w Brodnicy",
+                "poziom": "I stopień",
+                "www": "http://www.zozbrodnica.pl",
+                "telefon": "56 66 89 100",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.395773428412536,
+                    53.261603230476325
+                ]
+            }
+        }
+    ]
 }

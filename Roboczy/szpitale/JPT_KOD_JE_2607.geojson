@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2607",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 102, "JPT_KOD_JE": "2607", "JPT_NAZWA_": "powiat ostrowiecki", "id": 447, "wojewodztwo": "ŚWIĘTOKRZYSKIE", "miasto": "OSTROWIEC ŚWIĘTOKRZYSKI", "powiat": "OSTROWIECKI", "adres": "SZYMANOWSKIEGO 11", "miejscowosc": "OSTROWIEC ŚWIĘTOKRZYSKI", "kod": null, "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W OSTROWCU ŚWIĘTOKRZYSKIM", "poziom": "II stopień", "www": "http:\/\/zoz.ostrowiec.pl", "telefon": "41 247 80 00 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 665796.3, 345544.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2607",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 102,
+                "JPT_KOD_JE": "2607",
+                "JPT_NAZWA_": "powiat ostrowiecki",
+                "id": 447,
+                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
+                "miasto": "OSTROWIEC ŚWIĘTOKRZYSKI",
+                "powiat": "OSTROWIECKI",
+                "adres": "SZYMANOWSKIEGO 11",
+                "miejscowosc": "OSTROWIEC ŚWIĘTOKRZYSKI",
+                "kod": null,
+                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W OSTROWCU ŚWIĘTOKRZYSKIM",
+                "poziom": "II stopień",
+                "www": "http://zoz.ostrowiec.pl",
+                "telefon": "41 247 80 00 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.361249508285944,
+                    50.952872312342215
+                ]
+            }
+        }
+    ]
 }

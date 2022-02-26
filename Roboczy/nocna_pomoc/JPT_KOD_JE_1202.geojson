@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1202",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 133, "JPT_KOD_JE": "1202", "JPT_NAZWA_": "powiat brzeski", "id": "104#137", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "065\/100181", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Brzesku ", "miejscowosc": "Brzesko", "ulica": "Kościuszki ", "numer_domu": "68", "adres_swiadczeniodawcy": "Kościuszki 68", "telefon": "14 66 21 372; 14 66 21 148", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Tadeusza Kościuszki", "g_miejsc": "Brzesko", "g_adr": "68", "g_teryt": "1202023", "g_gm": "Brzesko", "g_pow": "brzeski", "g_woj": "małopolskie", "g_szer": 20.590227076044048, "g_dlug": 49.969401274170998, "g_uuid": "9358b62d-0abb-4f43-9f33-937b626b652f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 614002.716517980094068, 234778.757339994423091 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1202",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 133,
+                "JPT_KOD_JE": "1202",
+                "JPT_NAZWA_": "powiat brzeski",
+                "id": "104#137",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "065/100181",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Brzesku ",
+                "miejscowosc": "Brzesko",
+                "ulica": "Kościuszki ",
+                "numer_domu": "68",
+                "adres_swiadczeniodawcy": "Kościuszki 68",
+                "telefon": "14 66 21 372; 14 66 21 148",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Tadeusza Kościuszki",
+                "g_miejsc": "Brzesko",
+                "g_adr": "68",
+                "g_teryt": "1202023",
+                "g_gm": "Brzesko",
+                "g_pow": "brzeski",
+                "g_woj": "małopolskie",
+                "g_szer": 20.590227076044048,
+                "g_dlug": 49.969401274171,
+                "g_uuid": "9358b62d-0abb-4f43-9f33-937b626b652f",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.590230000001245,
+                    49.96940000001246
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3214",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 317, "JPT_KOD_JE": "3214", "JPT_NAZWA_": "powiat stargardzki", "id": "104#527", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000725", "swiadczeniodawca": "SP Wielospecjalistyczny Zakład Opieki Zdrowotnej w Stargardzie", "miejscowosc": "Stargard Szczeciński", "ulica": "Wojska Polskiego ", "numer_domu": "27", "adres_swiadczeniodawcy": "Wojska Polskiego 27", "telefon": "91 578 92 96 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 15.036236006958433, "g_dlug": 53.342803988765397, "g_uuid": "a3727194-2a41-4d7b-9ce9-a49d23fb8387", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 236241.880093806248624, 615955.550883616320789 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3214",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 317,
+                "JPT_KOD_JE": "3214",
+                "JPT_NAZWA_": "powiat stargardzki",
+                "id": "104#527",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160000725",
+                "swiadczeniodawca": "SP Wielospecjalistyczny Zakład Opieki Zdrowotnej w Stargardzie",
+                "miejscowosc": "Stargard Szczeciński",
+                "ulica": "Wojska Polskiego ",
+                "numer_domu": "27",
+                "adres_swiadczeniodawcy": "Wojska Polskiego 27",
+                "telefon": "91 578 92 96 ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 15.036236006958433,
+                "g_dlug": 53.3428039887654,
+                "g_uuid": "a3727194-2a41-4d7b-9ce9-a49d23fb8387",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.036239999944415,
+                    53.34280000001893
+                ]
+            }
+        }
+    ]
 }

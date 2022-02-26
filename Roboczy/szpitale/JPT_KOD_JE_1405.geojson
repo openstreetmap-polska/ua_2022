@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1405",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 9, "JPT_KOD_JE": "1405", "JPT_NAZWA_": "powiat grodziski", "id": 218, "wojewodztwo": "mazowieckie", "miasto": "GRODZISK MAZOWIECKI", "powiat": "GRODZISKI", "adres": "DALEKA 11", "miejscowosc": "GRODZISK MAZOWIECKI ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY SPECJALISTYCZNY SZPITAL ZACHODNI IM.ŚW. JANA PAWŁA II", "poziom": "II stopień", "www": "http:\/\/www.szpitalzachodni.pl", "telefon": "22 75 59 111", "e-mail": "szpitalzachodni@szpitalzachodni.pl" }, "geometry": { "type": "Point", "coordinates": [ 610697.4, 471089.8 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1405",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 9,
+                "JPT_KOD_JE": "1405",
+                "JPT_NAZWA_": "powiat grodziski",
+                "id": 218,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "GRODZISK MAZOWIECKI",
+                "powiat": "GRODZISKI",
+                "adres": "DALEKA 11",
+                "miejscowosc": "GRODZISK MAZOWIECKI ",
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY SPECJALISTYCZNY SZPITAL ZACHODNI IM.ŚW. JANA PAWŁA II",
+                "poziom": "II stopień",
+                "www": "http://www.szpitalzachodni.pl",
+                "telefon": "22 75 59 111",
+                "e-mail": "szpitalzachodni@szpitalzachodni.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.61643215755347,
+                    52.09486772346695
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2612",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2612", "JPT_NAZWA_": "powiat staszowski", "id": 16, "ksiega": 378898, "id zoz": 456636, "id jednostki": "721587", "id komórki": 6185958, "regon": 30239100024, "kod jednostki": "01", "kod komórki": 12, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Staszów - miasto", "ulica": "ul. 11 Listopada", "budynek": "78", "lokal": "NULL", "kod": "28-200", "miejscowosc": "Staszów", "teryt": 2612074, "kod simc": 981274, "kod ulicy": "11205", "lozka": 5, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "1992-12-31" }, "geometry": { "type": "Point", "coordinates": [ 655115.052, 301677.109 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2612",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2612",
+                "JPT_NAZWA_": "powiat staszowski",
+                "id": 16,
+                "ksiega": 378898,
+                "id zoz": 456636,
+                "id jednostki": "721587",
+                "id komórki": 6185958,
+                "regon": 30239100024,
+                "kod jednostki": "01",
+                "kod komórki": 12,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Staszów - miasto",
+                "ulica": "ul. 11 Listopada",
+                "budynek": "78",
+                "lokal": "NULL",
+                "kod": "28-200",
+                "miejscowosc": "Staszów",
+                "teryt": 2612074,
+                "kod simc": 981274,
+                "kod ulicy": "11205",
+                "lozka": 5,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "1992-12-31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.190757265853897,
+                    50.561531086396826
+                ]
+            }
+        }
+    ]
 }

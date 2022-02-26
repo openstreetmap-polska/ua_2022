@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2816",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 305, "JPT_KOD_JE": "2816", "JPT_NAZWA_": "powiat piski", "id": "104#465", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140000530", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Powiatowy w Piszu", "miejscowosc": "Pisz", "ulica": "Sienkiewicza ", "numer_domu": "2", "adres_swiadczeniodawcy": "Sienkiewicza 2", "telefon": "87 307 09 99", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sienkiewicza Henryka", "g_miejsc": "Pisz", "g_adr": "2", "g_teryt": "2816033", "g_gm": "Pisz", "g_pow": "piski", "g_woj": "warmińsko-mazurskie", "g_szer": 21.799385889632241, "g_dlug": 53.626400801590869, "g_uuid": "b4139180-6726-4ba6-b783-75ab2461dde3", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 685060.445170998224057, 643814.06156889628619 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2816",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 305,
+                "JPT_KOD_JE": "2816",
+                "JPT_NAZWA_": "powiat piski",
+                "id": "104#465",
+                "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ",
+                "kod_swiadczeniodawcy": "140000530",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Powiatowy w Piszu",
+                "miejscowosc": "Pisz",
+                "ulica": "Sienkiewicza ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Sienkiewicza 2",
+                "telefon": "87 307 09 99",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Sienkiewicza Henryka",
+                "g_miejsc": "Pisz",
+                "g_adr": "2",
+                "g_teryt": "2816033",
+                "g_gm": "Pisz",
+                "g_pow": "piski",
+                "g_woj": "warmińsko-mazurskie",
+                "g_szer": 21.79938588963224,
+                "g_dlug": 53.62640080159087,
+                "g_uuid": "b4139180-6726-4ba6-b783-75ab2461dde3",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.79939000001062,
+                    53.62640000001821
+                ]
+            }
+        }
+    ]
 }

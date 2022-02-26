@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1803",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 487, "JPT_KOD_JE": "1803", "JPT_NAZWA_": "powiat dębicki", "id": "104#279", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010002", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Dębicy", "miejscowosc": "Dębica", "ulica": "Krakowska ", "numer_domu": "91", "adres_swiadczeniodawcy": "Krakowska 91", "telefon": "14 680 84 44", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Krakowska", "g_miejsc": "Dębica", "g_adr": "91", "g_teryt": "1803011", "g_gm": "Dębica", "g_pow": "dębicki", "g_woj": "podkarpackie", "g_szer": 21.393012922076956, "g_dlug": 50.039107233539582, "g_uuid": "eff7b162-8743-4584-b32f-8e3980dbf595", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 671300.760500178905204, 244058.231049288995564 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1803",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 487,
+                "JPT_KOD_JE": "1803",
+                "JPT_NAZWA_": "powiat dębicki",
+                "id": "104#279",
+                "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ",
+                "kod_swiadczeniodawcy": "09R/010002",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Dębicy",
+                "miejscowosc": "Dębica",
+                "ulica": "Krakowska ",
+                "numer_domu": "91",
+                "adres_swiadczeniodawcy": "Krakowska 91",
+                "telefon": "14 680 84 44",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Krakowska",
+                "g_miejsc": "Dębica",
+                "g_adr": "91",
+                "g_teryt": "1803011",
+                "g_gm": "Dębica",
+                "g_pow": "dębicki",
+                "g_woj": "podkarpackie",
+                "g_szer": 21.393012922076956,
+                "g_dlug": 50.03910723353958,
+                "g_uuid": "eff7b162-8743-4584-b32f-8e3980dbf595",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.393010000007237,
+                    50.03911000001256
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3009",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 92, "JPT_KOD_JE": "3009", "JPT_NAZWA_": "powiat kolski", "id": "104#478", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150002160", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kole", "miejscowosc": "Koło", "ulica": "Ks. Józefa Poniatowskiego                                                    ", "numer_domu": "25", "adres_swiadczeniodawcy": "Ks. Józefa Poniatowskiego 25                                                   ", "telefon": "63 262 62 05\r\n63 272 04 06", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Józefa Poniatowskiego", "g_miejsc": "Koło", "g_adr": "25", "g_teryt": "3009011", "g_gm": "Koło", "g_pow": "kolski", "g_woj": "wielkopolskie", "g_szer": 18.619785200431355, "g_dlug": 52.184710205424437, "g_uuid": "e36b4e66-dc28-4bd5-9c48-0e67bccbc60a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 474013.789615149958991, 479915.453838672488928 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3009",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 92,
+                "JPT_KOD_JE": "3009",
+                "JPT_NAZWA_": "powiat kolski",
+                "id": "104#478",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150002160",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kole",
+                "miejscowosc": "Koło",
+                "ulica": "Ks. Józefa Poniatowskiego                                                    ",
+                "numer_domu": "25",
+                "adres_swiadczeniodawcy": "Ks. Józefa Poniatowskiego 25                                                   ",
+                "telefon": "63 262 62 05\r\n63 272 04 06",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Józefa Poniatowskiego",
+                "g_miejsc": "Koło",
+                "g_adr": "25",
+                "g_teryt": "3009011",
+                "g_gm": "Koło",
+                "g_pow": "kolski",
+                "g_woj": "wielkopolskie",
+                "g_szer": 18.619785200431355,
+                "g_dlug": 52.18471020542444,
+                "g_uuid": "e36b4e66-dc28-4bd5-9c48-0e67bccbc60a",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.619789999999867,
+                    52.18471000001576
+                ]
+            }
+        }
+    ]
 }

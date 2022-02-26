@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2473",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 179, "JPT_KOD_JE": "2473", "JPT_NAZWA_": "powiat Rybnik", "id": 488, "wojewodztwo": "śląskie", "miasto": "Rybnik", "powiat": "Rybnik", "adres": "Energetyków 46", "miejscowosc": "Rybnik", "kod": null, "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Wojewódzki Szpital Specjalistyczny nr 3 w Rybniku", "poziom": "II stopień", "www": "http:\/\/www.szpital.rybnik.pl", "telefon": "32 429 12 51", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 465852.3, 249638.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2473",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 179,
+                "JPT_KOD_JE": "2473",
+                "JPT_NAZWA_": "powiat Rybnik",
+                "id": 488,
+                "wojewodztwo": "śląskie",
+                "miasto": "Rybnik",
+                "powiat": "Rybnik",
+                "adres": "Energetyków 46",
+                "miejscowosc": "Rybnik",
+                "kod": null,
+                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Wojewódzki Szpital Specjalistyczny nr 3 w Rybniku",
+                "poziom": "II stopień",
+                "www": "http://www.szpital.rybnik.pl",
+                "telefon": "32 429 12 51",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.522258415836625,
+                    50.11300452897495
+                ]
+            }
+        }
+    ]
 }

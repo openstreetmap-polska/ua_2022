@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1209",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1209", "JPT_NAZWA_": "powiat myślenicki", "id": 20, "ksiega": 380345, "id zoz": 458388, "id jednostki": "724489", "id komórki": 6210841, "regon": 30057000044, "kod jednostki": "01", "kod komórki": 43, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Myślenice - miasto", "ulica": "ul. Szpitalna", "budynek": "2", "lokal": "NULL", "kod": "32-400", "miejscowosc": "Myślenice", "teryt": 1209034, "kod simc": 951617, "kod ulicy": "22073", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-06-01" }, "geometry": { "type": "Point", "coordinates": [ 568119.465812860988081, 218442.435352812986821 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1209",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1209",
+                "JPT_NAZWA_": "powiat myślenicki",
+                "id": 20,
+                "ksiega": 380345,
+                "id zoz": 458388,
+                "id jednostki": "724489",
+                "id komórki": 6210841,
+                "regon": 30057000044,
+                "kod jednostki": "01",
+                "kod komórki": 43,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Myślenice - miasto",
+                "ulica": "ul. Szpitalna",
+                "budynek": "2",
+                "lokal": "NULL",
+                "kod": "32-400",
+                "miejscowosc": "Myślenice",
+                "teryt": 1209034,
+                "kod simc": 951617,
+                "kod ulicy": "22073",
+                "lozka": 6,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-06-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.947443922252887,
+                    49.82945144076704
+                ]
+            }
+        }
+    ]
 }

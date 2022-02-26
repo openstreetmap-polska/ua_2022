@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2411",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 286, "JPT_KOD_JE": "2411", "JPT_NAZWA_": "powiat raciborski", "id": "104#399", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "124\/100582", "swiadczeniodawca": "Szpital Rejonowy im. dr. Rostka w Raciborzu", "miejscowosc": "Racibórz", "ulica": "Gamowska ", "numer_domu": "3", "adres_swiadczeniodawcy": "Gamowska 3", "telefon": "32 755 37 57, 538 169 530, 538 169 529", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Gamowska", "g_miejsc": "Racibórz", "g_adr": "3", "g_teryt": "2411011", "g_gm": "Racibórz", "g_pow": "raciborski", "g_woj": "śląskie", "g_szer": 18.202212410106338, "g_dlug": 50.101284940141177, "g_uuid": "05da6e3c-49c4-48ba-ab93-4954a1218c53", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 442962.374326504999772, 248530.595537844114006 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2411",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 286,
+                "JPT_KOD_JE": "2411",
+                "JPT_NAZWA_": "powiat raciborski",
+                "id": "104#399",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "124/100582",
+                "swiadczeniodawca": "Szpital Rejonowy im. dr. Rostka w Raciborzu",
+                "miejscowosc": "Racibórz",
+                "ulica": "Gamowska ",
+                "numer_domu": "3",
+                "adres_swiadczeniodawcy": "Gamowska 3",
+                "telefon": "32 755 37 57, 538 169 530, 538 169 529",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Gamowska",
+                "g_miejsc": "Racibórz",
+                "g_adr": "3",
+                "g_teryt": "2411011",
+                "g_gm": "Racibórz",
+                "g_pow": "raciborski",
+                "g_woj": "śląskie",
+                "g_szer": 18.202212410106338,
+                "g_dlug": 50.10128494014118,
+                "g_uuid": "05da6e3c-49c4-48ba-ab93-4954a1218c53",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.202209999999766,
+                    50.10128000001264
+                ]
+            }
+        }
+    ]
 }

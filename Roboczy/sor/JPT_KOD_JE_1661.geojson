@@ -1,9 +1,96 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1661",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1661", "JPT_NAZWA_": "powiat Opole", "id": 195, "ksiega": 391882, "id zoz": 481665, "id jednostki": "777666", "id komórki": 6840956, "regon": 53141815100021, "kod jednostki": "01", "kod komórki": 28, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Opole - gmina miejska", "ulica": "ul. Katowicka", "budynek": "64", "lokal": "NULL", "kod": "45-061", "miejscowosc": "Opole", "teryt": 1661011, "kod simc": 965016, "kod ulicy": "08206", "lozka": 8, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-08-28" }, "geometry": { "type": "Point", "coordinates": [ 424824.119799999986, 312072.191899999976 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1661", "JPT_NAZWA_": "powiat Opole", "id": 30, "ksiega": 382601, "id zoz": 463607, "id jednostki": "736394", "id komórki": 6359777, "regon": 53051239100023, "kod jednostki": "01", "kod komórki": 22, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Opole - gmina miejska", "ulica": "ul. Aleja Wincentego Witosa", "budynek": "26", "lokal": "NULL", "kod": "45-401", "miejscowosc": "Opole", "teryt": 1661011, "kod simc": 965016, "kod ulicy": "40020", "lozka": 7, "liczba łóżek iom": 3, "liczba łóżek ink": 4, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-10-16" }, "geometry": { "type": "Point", "coordinates": [ 427651.7245, 312679.387499999022111 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1661",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1661",
+                "JPT_NAZWA_": "powiat Opole",
+                "id": 195,
+                "ksiega": 391882,
+                "id zoz": 481665,
+                "id jednostki": "777666",
+                "id komórki": 6840956,
+                "regon": 53141815100021,
+                "kod jednostki": "01",
+                "kod komórki": 28,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Opole - gmina miejska",
+                "ulica": "ul. Katowicka",
+                "budynek": "64",
+                "lokal": "NULL",
+                "kod": "45-061",
+                "miejscowosc": "Opole",
+                "teryt": 1661011,
+                "kod simc": 965016,
+                "kod ulicy": "08206",
+                "lozka": 8,
+                "liczba łóżek iom": 1,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-08-28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.935833700845453,
+                    50.67079231730546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1661",
+                "JPT_NAZWA_": "powiat Opole",
+                "id": 30,
+                "ksiega": 382601,
+                "id zoz": 463607,
+                "id jednostki": "736394",
+                "id komórki": 6359777,
+                "regon": 53051239100023,
+                "kod jednostki": "01",
+                "kod komórki": 22,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Opole - gmina miejska",
+                "ulica": "ul. Aleja Wincentego Witosa",
+                "budynek": "26",
+                "lokal": "NULL",
+                "kod": "45-401",
+                "miejscowosc": "Opole",
+                "teryt": 1661011,
+                "kod simc": 965016,
+                "kod ulicy": "40020",
+                "lozka": 7,
+                "liczba łóżek iom": 3,
+                "liczba łóżek ink": 4,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-10-16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.97573458520138,
+                    50.67661214191462
+                ]
+            }
+        }
+    ]
 }

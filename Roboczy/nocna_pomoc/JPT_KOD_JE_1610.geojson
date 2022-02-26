@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1610",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 158, "JPT_KOD_JE": "1610", "JPT_NAZWA_": "powiat prudnicki", "id": "104#276", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/20360", "swiadczeniodawca": "Prudnickie Centrum Medyczne ", "miejscowosc": "Prudnik", "ulica": "Nyska ", "numer_domu": "1", "adres_swiadczeniodawcy": "Nyska 1", "telefon": "77 547 01 40", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Nyska", "g_miejsc": "Prudnik", "g_adr": "1", "g_teryt": "1610043", "g_gm": "Prudnik", "g_pow": "prudnicki", "g_woj": "opolskie", "g_szer": 17.573845386167907, "g_dlug": 50.323553817964829, "g_uuid": "75f28317-afa1-4cec-a853-0dab4cd2ad20", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 398511.969386463344563, 273904.656537793576717 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1610",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 158,
+                "JPT_KOD_JE": "1610",
+                "JPT_NAZWA_": "powiat prudnicki",
+                "id": "104#276",
+                "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "08R/20360",
+                "swiadczeniodawca": "Prudnickie Centrum Medyczne ",
+                "miejscowosc": "Prudnik",
+                "ulica": "Nyska ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Nyska 1",
+                "telefon": "77 547 01 40",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Nyska",
+                "g_miejsc": "Prudnik",
+                "g_adr": "1",
+                "g_teryt": "1610043",
+                "g_gm": "Prudnik",
+                "g_pow": "prudnicki",
+                "g_woj": "opolskie",
+                "g_szer": 17.573845386167907,
+                "g_dlug": 50.32355381796483,
+                "g_uuid": "75f28317-afa1-4cec-a853-0dab4cd2ad20",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.573849999999148,
+                    50.32355000001294
+                ]
+            }
+        }
+    ]
 }

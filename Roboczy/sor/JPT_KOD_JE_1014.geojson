@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1014",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1014", "JPT_NAZWA_": "powiat sieradzki", "id": 148, "ksiega": 391168, "id zoz": 480128, "id jednostki": "773767", "id komórki": 6793249, "regon": 112964100025, "kod jednostki": "01", "kod komórki": 19, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Sieradz - gmina miejska", "ulica": "ul. Armii Krajowej", "budynek": "7", "lokal": "NULL", "kod": "98-200", "miejscowosc": "Sieradz", "teryt": 1014011, "kod simc": 976050, "kod ulicy": "00432", "lozka": 5, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-01-01" }, "geometry": { "type": "Point", "coordinates": [ 479918.39, 412905.96 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1014",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1014",
+                "JPT_NAZWA_": "powiat sieradzki",
+                "id": 148,
+                "ksiega": 391168,
+                "id zoz": 480128,
+                "id jednostki": "773767",
+                "id komórki": 6793249,
+                "regon": 112964100025,
+                "kod jednostki": "01",
+                "kod komórki": 19,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Sieradz - gmina miejska",
+                "ulica": "ul. Armii Krajowej",
+                "budynek": "7",
+                "lokal": "NULL",
+                "kod": "98-200",
+                "miejscowosc": "Sieradz",
+                "teryt": 1014011,
+                "kod simc": 976050,
+                "kod ulicy": "00432",
+                "lozka": 5,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.71008318061225,
+                    51.58229213191665
+                ]
+            }
+        }
+    ]
 }

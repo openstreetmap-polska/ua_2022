@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1802",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 159, "JPT_KOD_JE": "1802", "JPT_NAZWA_": "powiat brzozowski", "id": "104#278", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010001", "swiadczeniodawca": "Szpital Specjalistyczny w Brzozowie Podkarpacki Ośrodek Onkologiczny im. Ks. B. Markiewicza w Brzozowie", "miejscowosc": "Brzozów ", "ulica": "Bielawskiego ", "numer_domu": "18", "adres_swiadczeniodawcy": "ks. J. Bielewskiego 18", "telefon": "13 430 95 99", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 22.024634297130376, "g_dlug": 49.692503899568415, "g_uuid": "c858bf48-393b-423e-98a3-8efc666f3e64", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 718063.906330805271864, 207181.502201715484262 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1802",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 159,
+                "JPT_KOD_JE": "1802",
+                "JPT_NAZWA_": "powiat brzozowski",
+                "id": "104#278",
+                "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ",
+                "kod_swiadczeniodawcy": "09R/010001",
+                "swiadczeniodawca": "Szpital Specjalistyczny w Brzozowie Podkarpacki Ośrodek Onkologiczny im. Ks. B. Markiewicza w Brzozowie",
+                "miejscowosc": "Brzozów ",
+                "ulica": "Bielawskiego ",
+                "numer_domu": "18",
+                "adres_swiadczeniodawcy": "ks. J. Bielewskiego 18",
+                "telefon": "13 430 95 99",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 22.024634297130376,
+                "g_dlug": 49.692503899568415,
+                "g_uuid": "c858bf48-393b-423e-98a3-8efc666f3e64",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.02463000002362,
+                    49.6925000000122
+                ]
+            }
+        }
+    ]
 }

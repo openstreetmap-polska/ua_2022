@@ -1,10 +1,138 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2061",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2061", "JPT_NAZWA_": "powiat Białystok", "id": 174, "ksiega": 391654, "id zoz": 481019, "id jednostki": "776528", "id komórki": 6826661, "regon": 28861000038, "kod jednostki": "01", "kod komórki": 24, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Białystok - gmina miejska", "ulica": "ul. M. Curie-Skłodowskiej", "budynek": "24A", "lokal": "NULL", "kod": "15-276", "miejscowosc": "Białystok", "teryt": 2061011, "kod simc": 922410, "kod ulicy": "42841", "lozka": 9, "liczba łóżek iom": 5, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "1998-12-31" }, "geometry": { "type": "Point", "coordinates": [ 778182.238699999987, 592443.442399999010377 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2061", "JPT_NAZWA_": "powiat Białystok", "id": 233, "ksiega": 392424, "id zoz": 482765, "id jednostki": "780497", "id komórki": 6873345, "regon": 5065772900027, "kod jednostki": "01", "kod komórki": 4, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Białystok - gmina miejska", "ulica": "ul. M. Curie-Skłodowskiej", "budynek": "25", "lokal": "NULL", "kod": "15-950", "miejscowosc": "Białystok", "teryt": 2061011, "kod simc": 922410, "kod ulicy": "42841", "lozka": 10, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-06-26" }, "geometry": { "type": "Point", "coordinates": [ 778439.4444, 592546.147399998968467 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2061", "JPT_NAZWA_": "powiat Białystok", "id": 3, "ksiega": 390992, "id zoz": 479619, "id jednostki": "772856", "id komórki": 6783501, "regon": 140639400025, "kod jednostki": "02", "kod komórki": 11, "specjalnosc": "Szpitalny oddział ratunkowy dla dzieci", "kodresortviii": 4903, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Białystok - gmina miejska", "ulica": "ul. Jerzego Waszyngtona", "budynek": "17", "lokal": "NULL", "kod": "15-274", "miejscowosc": "Białystok", "teryt": 2061011, "kod simc": 922410, "kod ulicy": "23740", "lozka": 5, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 2, "liczba dializ": 0, "liczba łóżek": 4, "data rozpoczęcia działalności komórki": "2001-02-23" }, "geometry": { "type": "Point", "coordinates": [ 777918.756, 592344.038899998995475 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2061",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2061",
+                "JPT_NAZWA_": "powiat Białystok",
+                "id": 174,
+                "ksiega": 391654,
+                "id zoz": 481019,
+                "id jednostki": "776528",
+                "id komórki": 6826661,
+                "regon": 28861000038,
+                "kod jednostki": "01",
+                "kod komórki": 24,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Białystok - gmina miejska",
+                "ulica": "ul. M. Curie-Skłodowskiej",
+                "budynek": "24A",
+                "lokal": "NULL",
+                "kod": "15-276",
+                "miejscowosc": "Białystok",
+                "teryt": 2061011,
+                "kod simc": 922410,
+                "kod ulicy": "42841",
+                "lozka": 9,
+                "liczba łóżek iom": 5,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "1998-12-31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.159388908784724,
+                    53.124556761230004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2061",
+                "JPT_NAZWA_": "powiat Białystok",
+                "id": 233,
+                "ksiega": 392424,
+                "id zoz": 482765,
+                "id jednostki": "780497",
+                "id komórki": 6873345,
+                "regon": 5065772900027,
+                "kod jednostki": "01",
+                "kod komórki": 4,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Białystok - gmina miejska",
+                "ulica": "ul. M. Curie-Skłodowskiej",
+                "budynek": "25",
+                "lokal": "NULL",
+                "kod": "15-950",
+                "miejscowosc": "Białystok",
+                "teryt": 2061011,
+                "kod simc": 922410,
+                "kod ulicy": "42841",
+                "lozka": 10,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2000-06-26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.163312721907687,
+                    53.12534358804143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2061",
+                "JPT_NAZWA_": "powiat Białystok",
+                "id": 3,
+                "ksiega": 390992,
+                "id zoz": 479619,
+                "id jednostki": "772856",
+                "id komórki": 6783501,
+                "regon": 140639400025,
+                "kod jednostki": "02",
+                "kod komórki": 11,
+                "specjalnosc": "Szpitalny oddział ratunkowy dla dzieci",
+                "kodresortviii": 4903,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Białystok - gmina miejska",
+                "ulica": "ul. Jerzego Waszyngtona",
+                "budynek": "17",
+                "lokal": "NULL",
+                "kod": "15-274",
+                "miejscowosc": "Białystok",
+                "teryt": 2061011,
+                "kod simc": 922410,
+                "kod ulicy": "23740",
+                "lozka": 5,
+                "liczba łóżek iom": 1,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 2,
+                "liczba dializ": 0,
+                "liczba łóżek": 4,
+                "data rozpoczęcia działalności komórki": "2001-02-23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.155374511385535,
+                    53.12380268244718
+                ]
+            }
+        }
+    ]
 }

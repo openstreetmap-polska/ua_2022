@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2211",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 339, "JPT_KOD_JE": "2211", "JPT_NAZWA_": "powiat pucki", "id": 548, "wojewodztwo": "pomorskie", "miasto": "pucki", "powiat": "Puck", "adres": "1 Maja 13 A", "miejscowosc": "Puck", "kod": "84-100", "nazwa": "Szpital Pucki Sp. z o.o.", "poziom": "I stopień", "www": "http:\/\/www.szpitalpuck.pl", "telefon": "58 673-48-51", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 462273.0, 762066.9 ] } },
-{ "type": "Feature", "properties": { "_uid_": 340, "JPT_KOD_JE": "2211", "JPT_NAZWA_": "powiat pucki", "id": 540, "wojewodztwo": "pomorskie", "miasto": "pucki", "powiat": "Hel", "adres": "Boczna 10", "miejscowosc": "Hel", "kod": "84-150", "nazwa": "115 Szpital Wojskowy z Przychodnią SPZOZ", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.szpitalhel.pl", "telefon": "58 690-42-60", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 487072.6, 749660.2 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2211",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 339,
+                "JPT_KOD_JE": "2211",
+                "JPT_NAZWA_": "powiat pucki",
+                "id": 548,
+                "wojewodztwo": "pomorskie",
+                "miasto": "pucki",
+                "powiat": "Puck",
+                "adres": "1 Maja 13 A",
+                "miejscowosc": "Puck",
+                "kod": "84-100",
+                "nazwa": "Szpital Pucki Sp. z o.o.",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalpuck.pl",
+                "telefon": "58 673-48-51",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.41410569968083,
+                    54.72085601981786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 340,
+                "JPT_KOD_JE": "2211",
+                "JPT_NAZWA_": "powiat pucki",
+                "id": 540,
+                "wojewodztwo": "pomorskie",
+                "miasto": "pucki",
+                "powiat": "Hel",
+                "adres": "Boczna 10",
+                "miejscowosc": "Hel",
+                "kod": "84-150",
+                "nazwa": "115 Szpital Wojskowy z Przychodnią SPZOZ",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.szpitalhel.pl",
+                "telefon": "58 690-42-60",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.79978366739676,
+                    54.61057460468039
+                ]
+            }
+        }
+    ]
 }

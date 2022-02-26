@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1427",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 7, "JPT_KOD_JE": "1427", "JPT_NAZWA_": "powiat sierpecki", "id": 203, "wojewodztwo": "mazowieckie", "miasto": "SIERPC", "powiat": "SIERPECKI", "adres": "SŁOWACKIEGO 32", "miejscowosc": "SIERPC ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W SIERPCU", "poziom": "I stopień", "www": "http:\/\/www.spzzozsierpc.pl", "telefon": "24 275-85-00", "e-mail": "sekretariat@spzzozsierpc.pl" }, "geometry": { "type": "Point", "coordinates": [ 545460.1, 554307.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1427",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 7,
+                "JPT_KOD_JE": "1427",
+                "JPT_NAZWA_": "powiat sierpecki",
+                "id": 203,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "SIERPC",
+                "powiat": "SIERPECKI",
+                "adres": "SŁOWACKIEGO 32",
+                "miejscowosc": "SIERPC ",
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W SIERPCU",
+                "poziom": "I stopień",
+                "www": "http://www.spzzozsierpc.pl",
+                "telefon": "24 275-85-00",
+                "e-mail": "sekretariat@spzzozsierpc.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.67529989424498,
+                    52.852396090994446
+                ]
+            }
+        }
+    ]
 }

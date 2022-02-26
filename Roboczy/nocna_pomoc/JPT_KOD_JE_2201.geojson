@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2201",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 500, "JPT_KOD_JE": "2201", "JPT_NAZWA_": "powiat bytowski", "id": "104#329", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "001555", "swiadczeniodawca": "Szpital Powiatu Bytowskiego w Bytowie                                                                                             ", "miejscowosc": "Bytów", "ulica": "Lęborska ", "numer_domu": "13", "adres_swiadczeniodawcy": "Lęborska 13", "telefon": "59 822 87 09", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Lęborska", "g_miejsc": "Bytów", "g_adr": "13", "g_teryt": "2201023", "g_gm": "Bytów", "g_pow": "bytowski", "g_woj": "pomorskie", "g_szer": 17.486014296360459, "g_dlug": 54.178432481316527, "g_uuid": "953977e8-b479-46ba-b806-2fded593dd96", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 401216.793581938196439, 702630.79253943823278 ] } },
-{ "type": "Feature", "properties": { "gid": 503, "JPT_KOD_JE": "2201", "JPT_NAZWA_": "powiat bytowski", "id": "104#345", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "001963", "swiadczeniodawca": "Szpital Miejski w Miastku                                                                                      ", "miejscowosc": "Miastko", "ulica": "Wybickiego ", "numer_domu": "30", "adres_swiadczeniodawcy": "Generała Wybickiego 30", "telefon": "59 857 09 17", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "gen. Wybickiego", "g_miejsc": "Miastko", "g_adr": "30", "g_teryt": "2201063", "g_gm": "Miastko", "g_pow": "bytowski", "g_woj": "pomorskie", "g_szer": 16.980566031726806, "g_dlug": 54.010938337469163, "g_uuid": "f164e42e-cfda-40ab-b09c-a04409a6e352", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 367710.170197004219517, 684829.386166969314218 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2201",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 500,
+                "JPT_KOD_JE": "2201",
+                "JPT_NAZWA_": "powiat bytowski",
+                "id": "104#329",
+                "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "001555",
+                "swiadczeniodawca": "Szpital Powiatu Bytowskiego w Bytowie                                                                                             ",
+                "miejscowosc": "Bytów",
+                "ulica": "Lęborska ",
+                "numer_domu": "13",
+                "adres_swiadczeniodawcy": "Lęborska 13",
+                "telefon": "59 822 87 09",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Lęborska",
+                "g_miejsc": "Bytów",
+                "g_adr": "13",
+                "g_teryt": "2201023",
+                "g_gm": "Bytów",
+                "g_pow": "bytowski",
+                "g_woj": "pomorskie",
+                "g_szer": 17.48601429636046,
+                "g_dlug": 54.17843248131653,
+                "g_uuid": "953977e8-b479-46ba-b806-2fded593dd96",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.48600999999889,
+                    54.178430000019056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 503,
+                "JPT_KOD_JE": "2201",
+                "JPT_NAZWA_": "powiat bytowski",
+                "id": "104#345",
+                "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "001963",
+                "swiadczeniodawca": "Szpital Miejski w Miastku                                                                                      ",
+                "miejscowosc": "Miastko",
+                "ulica": "Wybickiego ",
+                "numer_domu": "30",
+                "adres_swiadczeniodawcy": "Generała Wybickiego 30",
+                "telefon": "59 857 09 17",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "gen. Wybickiego",
+                "g_miejsc": "Miastko",
+                "g_adr": "30",
+                "g_teryt": "2201063",
+                "g_gm": "Miastko",
+                "g_pow": "bytowski",
+                "g_woj": "pomorskie",
+                "g_szer": 16.980566031726806,
+                "g_dlug": 54.01093833746916,
+                "g_uuid": "f164e42e-cfda-40ab-b09c-a04409a6e352",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.98056999999731,
+                    54.01094000001876
+                ]
+            }
+        }
+    ]
 }

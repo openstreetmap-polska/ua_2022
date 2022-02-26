@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3215",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3215", "JPT_NAZWA_": "powiat szczecinecki", "id": 68, "ksiega": 387428, "id zoz": 473078, "id jednostki": "758313", "id komórki": 6618847, "regon": 32052419000024, "kod jednostki": "01", "kod komórki": 34, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Szczecinek - gmina miejska", "ulica": "ul. Kościuszki", "budynek": "38", "lokal": "NULL", "kod": "78-400", "miejscowosc": "Szczecinek", "teryt": 3215011, "kod simc": 950262, "kod ulicy": "09572", "lozka": 10, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2010-10-01" }, "geometry": { "type": "Point", "coordinates": [ 346850.9099, 652270.179699999979 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3215",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3215",
+                "JPT_NAZWA_": "powiat szczecinecki",
+                "id": 68,
+                "ksiega": 387428,
+                "id zoz": 473078,
+                "id jednostki": "758313",
+                "id komórki": 6618847,
+                "regon": 32052419000024,
+                "kod jednostki": "01",
+                "kod komórki": 34,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Szczecinek - gmina miejska",
+                "ulica": "ul. Kościuszki",
+                "budynek": "38",
+                "lokal": "NULL",
+                "kod": "78-400",
+                "miejscowosc": "Szczecinek",
+                "teryt": 3215011,
+                "kod simc": 950262,
+                "kod ulicy": "09572",
+                "lozka": 10,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2010-10-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.678675906680095,
+                    53.7126799078064
+                ]
+            }
+        }
+    ]
 }

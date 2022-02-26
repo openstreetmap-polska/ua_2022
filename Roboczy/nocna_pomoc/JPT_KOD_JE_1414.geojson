@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1414",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 40, "JPT_KOD_JE": "1414", "JPT_NAZWA_": "powiat nowodworski", "id": "104#204", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70000974", "swiadczeniodawca": "Nowodworskie Centrum Medyczne w Nowym Dworze Mazowieckim", "miejscowosc": "Nowy Dwór Mazowiecki", "ulica": "  Miodowa ", "numer_domu": "2", "adres_swiadczeniodawcy": "  Miodowa 2", "telefon": "Nowy Dwór Mazowiecki: 22 765-83-43; 22 765-83-22; Nasielsk: 725-112-999", "dodatkowe_miejsce": "Sportowa 2; Nasielsk", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Miodowa", "g_miejsc": "Nowy Dwór Mazowiecki", "g_adr": "2", "g_teryt": "1414011", "g_gm": "Nowy Dwór Mazowiecki", "g_pow": "nowodworski", "g_woj": "mazowieckie", "g_szer": 20.723894205391737, "g_dlug": 52.419984903478216, "g_uuid": "3c08c018-bb14-499b-bcd8-51ee6099e562", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 617195.59232979582157, 507405.651190019212663 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1414",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 40,
+                "JPT_KOD_JE": "1414",
+                "JPT_NAZWA_": "powiat nowodworski",
+                "id": "104#204",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70000974",
+                "swiadczeniodawca": "Nowodworskie Centrum Medyczne w Nowym Dworze Mazowieckim",
+                "miejscowosc": "Nowy Dwór Mazowiecki",
+                "ulica": "  Miodowa ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "  Miodowa 2",
+                "telefon": "Nowy Dwór Mazowiecki: 22 765-83-43; 22 765-83-22; Nasielsk: 725-112-999",
+                "dodatkowe_miejsce": "Sportowa 2; Nasielsk",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Miodowa",
+                "g_miejsc": "Nowy Dwór Mazowiecki",
+                "g_adr": "2",
+                "g_teryt": "1414011",
+                "g_gm": "Nowy Dwór Mazowiecki",
+                "g_pow": "nowodworski",
+                "g_woj": "mazowieckie",
+                "g_szer": 20.723894205391737,
+                "g_dlug": 52.419984903478216,
+                "g_uuid": "3c08c018-bb14-499b-bcd8-51ee6099e562",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.72389000000161,
+                    52.41998000001614
+                ]
+            }
+        }
+    ]
 }

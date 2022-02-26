@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0211",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 210, "JPT_KOD_JE": "0211", "JPT_NAZWA_": "powiat lubiński", "id": "104#15", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3302673", "swiadczeniodawca": "Regionalne Centrum Zdrowia w Lubinie", "miejscowosc": "Lubin\r\n", "ulica": "Bema", "numer_domu": "5\/6", "adres_swiadczeniodawcy": " Bema 5\/6", "telefon": "76 840 16 90", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 16.198060452027445, "g_dlug": 51.40059820820953, "g_uuid": "f98d7c70-f69d-4706-a5b4-c0ff110a560e", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 305162.53651496686507, 396390.239153859205544 ] } },
-{ "type": "Feature", "properties": { "gid": 322, "JPT_KOD_JE": "0211", "JPT_NAZWA_": "powiat lubiński", "id": "104#16", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3302028", "swiadczeniodawca": "Miedziowe Centrum Zdrowia", "miejscowosc": "Lubin\r\n", "ulica": "Skłodowskiej-Curie ", "numer_domu": "54", "adres_swiadczeniodawcy": "Skłodowskiej-Curie 54", "telefon": "Lubin: 76 8460 406; 76 8460 300; Polkowice: 76 746 08 65; 76 746 08 53", "dodatkowe_miejsce": "Kardynała B.Kominka 7;\r\n59-101 Polkowice", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Skłodowskiej-Curie Marii", "g_miejsc": "Lubin", "g_adr": "54", "g_teryt": "0211011", "g_gm": "Lubin", "g_pow": "lubiński", "g_woj": "dolnośląskie", "g_szer": 16.195260378600491, "g_dlug": 51.408726005165036, "g_uuid": "2ea7ef27-3294-4de5-bebd-c05b95a876bd", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 305002.468784474534914, 397301.327423328533769 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0211",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 210,
+                "JPT_KOD_JE": "0211",
+                "JPT_NAZWA_": "powiat lubiński",
+                "id": "104#15",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3302673",
+                "swiadczeniodawca": "Regionalne Centrum Zdrowia w Lubinie",
+                "miejscowosc": "Lubin\r\n",
+                "ulica": "Bema",
+                "numer_domu": "5/6",
+                "adres_swiadczeniodawcy": " Bema 5/6",
+                "telefon": "76 840 16 90",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 16.198060452027445,
+                "g_dlug": 51.40059820820953,
+                "g_uuid": "f98d7c70-f69d-4706-a5b4-c0ff110a560e",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.198059999986416,
+                    51.40060000001465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 322,
+                "JPT_KOD_JE": "0211",
+                "JPT_NAZWA_": "powiat lubiński",
+                "id": "104#16",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3302028",
+                "swiadczeniodawca": "Miedziowe Centrum Zdrowia",
+                "miejscowosc": "Lubin\r\n",
+                "ulica": "Skłodowskiej-Curie ",
+                "numer_domu": "54",
+                "adres_swiadczeniodawcy": "Skłodowskiej-Curie 54",
+                "telefon": "Lubin: 76 8460 406; 76 8460 300; Polkowice: 76 746 08 65; 76 746 08 53",
+                "dodatkowe_miejsce": "Kardynała B.Kominka 7;\r\n59-101 Polkowice",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Skłodowskiej-Curie Marii",
+                "g_miejsc": "Lubin",
+                "g_adr": "54",
+                "g_teryt": "0211011",
+                "g_gm": "Lubin",
+                "g_pow": "lubiński",
+                "g_woj": "dolnośląskie",
+                "g_szer": 16.19526037860049,
+                "g_dlug": 51.408726005165036,
+                "g_uuid": "2ea7ef27-3294-4de5-bebd-c05b95a876bd",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.195259999986366,
+                    51.40873000001465
+                ]
+            }
+        }
+    ]
 }

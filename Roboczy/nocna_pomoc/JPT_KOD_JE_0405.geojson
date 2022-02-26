@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0405",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 326, "JPT_KOD_JE": "0405", "JPT_NAZWA_": "powiat golubsko-dobrzyński", "id": "104#46", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20100026", "swiadczeniodawca": "\"Szpital Powiatowy\" Spółka z Ograniczoną Odpowiedzialnością", "miejscowosc": "Golub-Dobrzyń", "ulica": "Koppa", "numer_domu": "1e", "adres_swiadczeniodawcy": "dr. J.G.Koppa 1e", "telefon": "56 474-53-49", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 19.070960824972353, "g_dlug": 53.109255952482158, "g_uuid": "db921e29-4d3d-4aa1-befd-207532a55dd9", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 504748.69551050424343, 582661.231964912265539 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0405",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 326,
+                "JPT_KOD_JE": "0405",
+                "JPT_NAZWA_": "powiat golubsko-dobrzyński",
+                "id": "104#46",
+                "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "20100026",
+                "swiadczeniodawca": "\"Szpital Powiatowy\" Spółka z Ograniczoną Odpowiedzialnością",
+                "miejscowosc": "Golub-Dobrzyń",
+                "ulica": "Koppa",
+                "numer_domu": "1e",
+                "adres_swiadczeniodawcy": "dr. J.G.Koppa 1e",
+                "telefon": "56 474-53-49",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 19.070960824972353,
+                "g_dlug": 53.10925595248216,
+                "g_uuid": "db921e29-4d3d-4aa1-befd-207532a55dd9",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.070960000000028,
+                    53.10926000001725
+                ]
+            }
+        }
+    ]
 }

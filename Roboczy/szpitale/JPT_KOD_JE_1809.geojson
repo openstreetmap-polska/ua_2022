@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1809",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 228, "JPT_KOD_JE": "1809", "JPT_NAZWA_": "powiat lubaczowski", "id": 298, "wojewodztwo": "podkarpackie", "miasto": "Lubaczów", "powiat": "lubaczowski ", "adres": "Adama Mickiewicza 168", "miejscowosc": "Lubaczów", "kod": "37-600 ", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W LUBACZOWIE", "poziom": "I stopień", "www": "http:\/\/szpital.lubaczowski.com", "telefon": "(016)632 81 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 794316.7, 264129.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1809",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 228,
+                "JPT_KOD_JE": "1809",
+                "JPT_NAZWA_": "powiat lubaczowski",
+                "id": 298,
+                "wojewodztwo": "podkarpackie",
+                "miasto": "Lubaczów",
+                "powiat": "lubaczowski ",
+                "adres": "Adama Mickiewicza 168",
+                "miejscowosc": "Lubaczów",
+                "kod": "37-600 ",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W LUBACZOWIE",
+                "poziom": "I stopień",
+                "www": "http://szpital.lubaczowski.com",
+                "telefon": "(016)632 81 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12324468144288,
+                    50.17113570074126
+                ]
+            }
+        }
+    ]
 }

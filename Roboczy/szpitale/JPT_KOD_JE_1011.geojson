@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1011",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 543, "JPT_KOD_JE": "1011", "JPT_NAZWA_": "powiat poddębicki", "id": 139, "wojewodztwo": "łódzkie", "miasto": "Poddębice", "powiat": "poddębicki", "adres": "Mickiewicza 16", "miejscowosc": null, "kod": null, "nazwa": "Poddębickie Centrum Zdrowia", "poziom": "I stopień", "www": "http:\/\/www.nzozpcz.pl", "telefon": "43 828 82 50", "e-mail": "sekretariataa@nzozpcz.pl" }, "geometry": { "type": "Point", "coordinates": [ 496794.2, 446935.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1011",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 543,
+                "JPT_KOD_JE": "1011",
+                "JPT_NAZWA_": "powiat poddębicki",
+                "id": 139,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Poddębice",
+                "powiat": "poddębicki",
+                "adres": "Mickiewicza 16",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Poddębickie Centrum Zdrowia",
+                "poziom": "I stopień",
+                "www": "http://www.nzozpcz.pl",
+                "telefon": "43 828 82 50",
+                "e-mail": "sekretariataa@nzozpcz.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.953404074001806,
+                    51.888703911246786
+                ]
+            }
+        }
+    ]
 }

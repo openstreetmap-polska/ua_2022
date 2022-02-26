@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3006",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 408, "JPT_KOD_JE": "3006", "JPT_NAZWA_": "powiat jarociński", "id": "104#475", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150008350", "swiadczeniodawca": "Szpital Powiatowy w Jarocinie ", "miejscowosc": "Jarocin", "ulica": "Szpitalna ", "numer_domu": "1", "adres_swiadczeniodawcy": "Szpitalna 1", "telefon": "62 332 21 73", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Jarocin", "g_adr": "1", "g_teryt": "3006023", "g_gm": "Jarocin", "g_pow": "jarociński", "g_woj": "wielkopolskie", "g_szer": 17.504618459191772, "g_dlug": 51.969579672823308, "g_uuid": "43735ded-1563-4361-b688-13b51e11ae05", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 397305.407356528856326, 456982.53809960745275 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3006",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 408,
+                "JPT_KOD_JE": "3006",
+                "JPT_NAZWA_": "powiat jarociński",
+                "id": "104#475",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150008350",
+                "swiadczeniodawca": "Szpital Powiatowy w Jarocinie ",
+                "miejscowosc": "Jarocin",
+                "ulica": "Szpitalna ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Szpitalna 1",
+                "telefon": "62 332 21 73",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szpitalna",
+                "g_miejsc": "Jarocin",
+                "g_adr": "1",
+                "g_teryt": "3006023",
+                "g_gm": "Jarocin",
+                "g_pow": "jarociński",
+                "g_woj": "wielkopolskie",
+                "g_szer": 17.50461845919177,
+                "g_dlug": 51.96957967282331,
+                "g_uuid": "43735ded-1563-4361-b688-13b51e11ae05",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.504619999998983,
+                    51.96958000001541
+                ]
+            }
+        }
+    ]
 }

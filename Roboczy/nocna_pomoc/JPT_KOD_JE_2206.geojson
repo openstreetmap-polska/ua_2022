@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2206",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 502, "JPT_KOD_JE": "2206", "JPT_NAZWA_": "powiat kościerski", "id": "104#341", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "001948", "swiadczeniodawca": "Szpital Specjalistyczny w Kościerzynie                                                                         ", "miejscowosc": "Kościerzyna", "ulica": " Alojzego Piechowskiego ", "numer_domu": "36", "adres_swiadczeniodawcy": " Alojzego Piechowskiego 36", "telefon": "58 680 00 35", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Piechowskiego Alojzego", "g_miejsc": "Kościerzyna", "g_adr": "36", "g_teryt": "2206011", "g_gm": "Kościerzyna", "g_pow": "kościerski", "g_woj": "pomorskie", "g_szer": 17.949795382541588, "g_dlug": 54.121189746119967, "g_uuid": "9a0e09c1-4795-492a-aad1-99abc8caa0b4", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 431381.772105504060164, 695715.203756380826235 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2206",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 502,
+                "JPT_KOD_JE": "2206",
+                "JPT_NAZWA_": "powiat kościerski",
+                "id": "104#341",
+                "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "001948",
+                "swiadczeniodawca": "Szpital Specjalistyczny w Kościerzynie                                                                         ",
+                "miejscowosc": "Kościerzyna",
+                "ulica": " Alojzego Piechowskiego ",
+                "numer_domu": "36",
+                "adres_swiadczeniodawcy": " Alojzego Piechowskiego 36",
+                "telefon": "58 680 00 35",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Piechowskiego Alojzego",
+                "g_miejsc": "Kościerzyna",
+                "g_adr": "36",
+                "g_teryt": "2206011",
+                "g_gm": "Kościerzyna",
+                "g_pow": "kościerski",
+                "g_woj": "pomorskie",
+                "g_szer": 17.949795382541588,
+                "g_dlug": 54.12118974611997,
+                "g_uuid": "9a0e09c1-4795-492a-aad1-99abc8caa0b4",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.949799999999453,
+                    54.12119000001895
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3211",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 203, "JPT_KOD_JE": "3211", "JPT_NAZWA_": "powiat policki", "id": "104#523", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160004945", "swiadczeniodawca": "Mediklinika Sp. z o.o.", "miejscowosc": "Police", "ulica": "Siedlecka ", "numer_domu": "2", "adres_swiadczeniodawcy": "Siedlecka 2", "telefon": "500,204,590", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Siedlecka", "g_miejsc": "Police", "g_adr": "2", "g_teryt": "3211043", "g_gm": "Police", "g_pow": "policki", "g_woj": "zachodniopomorskie", "g_szer": 14.561487294344953, "g_dlug": 53.546700448608682, "g_uuid": "c18751bc-c508-4ed0-b128-c91e65668e09", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 206080.841860830318183, 640473.402588712051511 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3211",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 203,
+                "JPT_KOD_JE": "3211",
+                "JPT_NAZWA_": "powiat policki",
+                "id": "104#523",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160004945",
+                "swiadczeniodawca": "Mediklinika Sp. z o.o.",
+                "miejscowosc": "Police",
+                "ulica": "Siedlecka ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Siedlecka 2",
+                "telefon": "500,204,590",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Siedlecka",
+                "g_miejsc": "Police",
+                "g_adr": "2",
+                "g_teryt": "3211043",
+                "g_gm": "Police",
+                "g_pow": "policki",
+                "g_woj": "zachodniopomorskie",
+                "g_szer": 14.561487294344953,
+                "g_dlug": 53.54670044860868,
+                "g_uuid": "c18751bc-c508-4ed0-b128-c91e65668e09",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56148999990913,
+                    53.54670000002099
+                ]
+            }
+        }
+    ]
 }

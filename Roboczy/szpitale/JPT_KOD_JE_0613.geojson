@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0613",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 357, "JPT_KOD_JE": "0613", "JPT_NAZWA_": "powiat parczewski", "id": 78, "wojewodztwo": "lubelskie", "miasto": "PARCZEW", "powiat": "PARCZEWSKI", "adres": "KOŚCIELNA 136", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W PARCZEWIE", "poziom": "I stopień", "www": "http:\/\/www.spzozparczew.pl", "telefon": "83 355 21 02", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 770659.3, 425956.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0613",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 357,
+                "JPT_KOD_JE": "0613",
+                "JPT_NAZWA_": "powiat parczewski",
+                "id": 78,
+                "wojewodztwo": "lubelskie",
+                "miasto": "PARCZEW",
+                "powiat": "PARCZEWSKI",
+                "adres": "KOŚCIELNA 136",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W PARCZEWIE",
+                "poziom": "I stopień",
+                "www": "http://www.spzozparczew.pl",
+                "telefon": "83 355 21 02",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.912694098473928,
+                    51.634807699733756
+                ]
+            }
+        }
+    ]
 }

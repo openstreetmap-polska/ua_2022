@@ -1,10 +1,129 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2262",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 377, "JPT_KOD_JE": "2262", "JPT_NAZWA_": "powiat Gdynia", "id": "104#327", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "000120", "swiadczeniodawca": "Szpitale Pomorskie w Gdyni", "miejscowosc": " Gdynia", "ulica": "Białowieska ", "numer_domu": "1", "adres_swiadczeniodawcy": "Białowieska 1", "telefon": "58 660 32 49", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Białowieska", "g_miejsc": "Gdynia", "g_adr": "1", "g_teryt": "2262011", "g_gm": "Gdynia", "g_pow": "Gdynia", "g_woj": "pomorskie", "g_szer": 18.516673098224942, "g_dlug": 54.552953468664867, "g_uuid": "c421548e-684d-4be5-9c42-09cb8bab00ce", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 468748.788124530226924, 743339.129736067727208 ] } },
-{ "type": "Feature", "properties": { "gid": 498, "JPT_KOD_JE": "2262", "JPT_NAZWA_": "powiat Gdynia", "id": "104#325", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "000120", "swiadczeniodawca": "Szpitale Pomorskie w Gdyni", "miejscowosc": " Gdynia", "ulica": "Powstania Styczniowego ", "numer_domu": "1", "adres_swiadczeniodawcy": "Powstania Styczniowego 1", "telefon": "58 660 32 49", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Powstania Styczniowego", "g_miejsc": "Gdynia", "g_adr": "1", "g_teryt": "2262011", "g_gm": "Gdynia", "g_pow": "Gdynia", "g_woj": "pomorskie", "g_szer": 18.553008979491619, "g_dlug": 54.489628875922349, "g_uuid": "92aa5821-485a-4afa-a391-0c32812d6f4f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 471053.700579982541967, 736280.146817185916007 ] } },
-{ "type": "Feature", "properties": { "gid": 499, "JPT_KOD_JE": "2262", "JPT_NAZWA_": "powiat Gdynia", "id": "104#326", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "000120", "swiadczeniodawca": "Szpitale Pomorskie w Gdyni", "miejscowosc": " Gdynia", "ulica": "Wójta Radtkego  ", "numer_domu": "1", "adres_swiadczeniodawcy": "Wójta Radtkego 1 ", "telefon": "58 660 32 49", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Wójta Radtkego", "g_miejsc": "Gdynia", "g_adr": "1", "g_teryt": "2262011", "g_gm": "Gdynia", "g_pow": "Gdynia", "g_woj": "pomorskie", "g_szer": 18.542573790262544, "g_dlug": 54.522339610378161, "g_uuid": "44f06f06-b976-419b-b7bb-47da1f192db1", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 470401.280028634879272, 739922.998134354129434 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2262",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 377,
+                "JPT_KOD_JE": "2262",
+                "JPT_NAZWA_": "powiat Gdynia",
+                "id": "104#327",
+                "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "000120",
+                "swiadczeniodawca": "Szpitale Pomorskie w Gdyni",
+                "miejscowosc": " Gdynia",
+                "ulica": "Białowieska ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Białowieska 1",
+                "telefon": "58 660 32 49",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Białowieska",
+                "g_miejsc": "Gdynia",
+                "g_adr": "1",
+                "g_teryt": "2262011",
+                "g_gm": "Gdynia",
+                "g_pow": "Gdynia",
+                "g_woj": "pomorskie",
+                "g_szer": 18.516673098224942,
+                "g_dlug": 54.55295346866487,
+                "g_uuid": "c421548e-684d-4be5-9c42-09cb8bab00ce",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.516669999999763,
+                    54.5529500000197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 498,
+                "JPT_KOD_JE": "2262",
+                "JPT_NAZWA_": "powiat Gdynia",
+                "id": "104#325",
+                "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "000120",
+                "swiadczeniodawca": "Szpitale Pomorskie w Gdyni",
+                "miejscowosc": " Gdynia",
+                "ulica": "Powstania Styczniowego ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Powstania Styczniowego 1",
+                "telefon": "58 660 32 49",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Powstania Styczniowego",
+                "g_miejsc": "Gdynia",
+                "g_adr": "1",
+                "g_teryt": "2262011",
+                "g_gm": "Gdynia",
+                "g_pow": "Gdynia",
+                "g_woj": "pomorskie",
+                "g_szer": 18.55300897949162,
+                "g_dlug": 54.48962887592235,
+                "g_uuid": "92aa5821-485a-4afa-a391-0c32812d6f4f",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.553009999999784,
+                    54.489630000019595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 499,
+                "JPT_KOD_JE": "2262",
+                "JPT_NAZWA_": "powiat Gdynia",
+                "id": "104#326",
+                "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "000120",
+                "swiadczeniodawca": "Szpitale Pomorskie w Gdyni",
+                "miejscowosc": " Gdynia",
+                "ulica": "Wójta Radtkego  ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Wójta Radtkego 1 ",
+                "telefon": "58 660 32 49",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Wójta Radtkego",
+                "g_miejsc": "Gdynia",
+                "g_adr": "1",
+                "g_teryt": "2262011",
+                "g_gm": "Gdynia",
+                "g_pow": "Gdynia",
+                "g_woj": "pomorskie",
+                "g_szer": 18.542573790262544,
+                "g_dlug": 54.52233961037816,
+                "g_uuid": "44f06f06-b976-419b-b7bb-47da1f192db1",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.54256999999978,
+                    54.52234000001964
+                ]
+            }
+        }
+    ]
 }

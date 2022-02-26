@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2063",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 270, "JPT_KOD_JE": "2063", "JPT_NAZWA_": "powiat Suwałki", "id": "104#321", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000077", "swiadczeniodawca": "Szpital Wojewódzki im. dr. L. Rydygiera", "miejscowosc": "Suwałki ", "ulica": "Szpitalna ", "numer_domu": "60", "adres_swiadczeniodawcy": "Szpitalna 60", "telefon": "87 562 95 79", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Suwałki", "g_adr": "60", "g_teryt": "2063011", "g_gm": "Suwałki", "g_pow": "Suwałki", "g_woj": "podlaskie", "g_szer": 22.924819670154218, "g_dlug": 54.118828051834001, "g_uuid": "1255947f-3d1a-4179-b06f-2161ad2e0208", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 756397.161398692056537, 702063.108592175878584 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2063",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 270,
+                "JPT_KOD_JE": "2063",
+                "JPT_NAZWA_": "powiat Suwałki",
+                "id": "104#321",
+                "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ",
+                "kod_swiadczeniodawcy": "100000077",
+                "swiadczeniodawca": "Szpital Wojewódzki im. dr. L. Rydygiera",
+                "miejscowosc": "Suwałki ",
+                "ulica": "Szpitalna ",
+                "numer_domu": "60",
+                "adres_swiadczeniodawcy": "Szpitalna 60",
+                "telefon": "87 562 95 79",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szpitalna",
+                "g_miejsc": "Suwałki",
+                "g_adr": "60",
+                "g_teryt": "2063011",
+                "g_gm": "Suwałki",
+                "g_pow": "Suwałki",
+                "g_woj": "podlaskie",
+                "g_szer": 22.924819670154218,
+                "g_dlug": 54.118828051834,
+                "g_uuid": "1255947f-3d1a-4179-b06f-2161ad2e0208",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.924820000046367,
+                    54.11883000002014
+                ]
+            }
+        }
+    ]
 }

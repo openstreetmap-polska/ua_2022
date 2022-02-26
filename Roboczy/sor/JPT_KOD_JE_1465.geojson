@@ -1,18 +1,474 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1465",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1465", "JPT_NAZWA_": "powiat Warszawa", "id": 15, "ksiega": 378647, "id zoz": 455961, "id jednostki": "719854", "id komórki": 6163339, "regon": 1229882300038, "kod jednostki": "05", "kod komórki": 49, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Praga-Północ - dzielnica", "ulica": "Aleja \"Solidarności\"", "budynek": "67", "lokal": "NULL", "kod": "03-401", "miejscowosc": "Warszawa", "teryt": 1465088, "kod simc": 919298, "kod ulicy": "45206", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2011-03-01" }, "geometry": { "type": "Point", "coordinates": [ 638476.983108261949383, 489222.85578132700175 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1465", "JPT_NAZWA_": "powiat Warszawa", "id": 6, "ksiega": 392087, "id zoz": 482051, "id jednostki": "778683", "id komórki": 6852278, "regon": 28896900061, "kod jednostki": "05", "kod komórki": 237, "specjalnosc": "Szpitalny oddział ratunkowy dla dzieci", "kodresortviii": 4903, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Ochota - dzielnica", "ulica": "ul. Żwirki i Wigury", "budynek": "63A", "lokal": "NULL", "kod": "02-091", "miejscowosc": "Warszawa", "teryt": 1465068, "kod simc": 918643, "kod ulicy": "26608", "lozka": 10, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2016-12-01" }, "geometry": { "type": "Point", "coordinates": [ 635571.656906049000099, 484203.452603304991499 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1465", "JPT_NAZWA_": "powiat Warszawa", "id": 89, "ksiega": 388607, "id zoz": 475793, "id jednostki": "NULL", "id komórki": 6695837, "regon": 14262895500034, "kod jednostki": "NULL", "kod komórki": 8, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Śródmieście - dzielnica", "ulica": "ul. Solec", "budynek": "93", "lokal": "NULL", "kod": "00-382", "miejscowosc": "Warszawa", "teryt": 1465108, "kod simc": 919810, "kod ulicy": "20522", "lozka": 4, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2011-01-01" }, "geometry": { "type": "Point", "coordinates": [ 638664.091299999971, 487455.585100001015235 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1465", "JPT_NAZWA_": "powiat Warszawa", "id": 142, "ksiega": 390985, "id zoz": 479607, "id jednostki": "772811", "id komórki": 6783236, "regon": 14198346000026, "kod jednostki": "03", "kod komórki": 39, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Targówek - dzielnica", "ulica": "ul. Ludwika Kondratowicza", "budynek": "8", "lokal": "NULL", "kod": "03-242", "miejscowosc": "Warszawa", "teryt": 1465118, "kod simc": 988827, "kod ulicy": "09123", "lozka": 6, "liczba łóżek iom": 6, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2011-01-01" }, "geometry": { "type": "Point", "coordinates": [ 639404.5058, 493671.636399999028072 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1465", "JPT_NAZWA_": "powiat Warszawa", "id": 45, "ksiega": 385381, "id zoz": 468982, "id jednostki": "749135", "id komórki": 6511426, "regon": 1229869700029, "kod jednostki": "01", "kod komórki": 83, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Bielany - dzielnica", "ulica": "ul. Cegłowska", "budynek": "80", "lokal": "NULL", "kod": "01-809", "miejscowosc": "Warszawa", "teryt": 1465048, "kod simc": 988804, "kod ulicy": "02592", "lozka": 14, "liczba łóżek iom": 4, "liczba łóżek ink": 3, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-07-01" }, "geometry": { "type": "Point", "coordinates": [ 633094.030099999974, 492944.472799999989 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1465", "JPT_NAZWA_": "powiat Warszawa", "id": 70, "ksiega": 387498, "id zoz": 473199, "id jednostki": "758765", "id komórki": 6622514, "regon": 647265100038, "kod jednostki": "01", "kod komórki": 18, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Mokotów - dzielnica", "ulica": "ul. Wołoska", "budynek": "137", "lokal": "NULL", "kod": "02-507", "miejscowosc": "Warszawa", "teryt": 1465058, "kod simc": 918130, "kod ulicy": "24723", "lozka": 16, "liczba łóżek iom": 3, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "1998-10-01" }, "geometry": { "type": "Point", "coordinates": [ 636682.0055, 483307.166300000972115 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1465", "JPT_NAZWA_": "powiat Warszawa", "id": 35, "ksiega": 383985, "id zoz": 465957, "id jednostki": "NULL", "id komórki": 6423030, "regon": 28893000025, "kod jednostki": "NULL", "kod komórki": 131, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Ochota - dzielnica", "ulica": "ul. Williama Heerleina Lindleya", "budynek": "4", "lokal": "NULL", "kod": "02-005", "miejscowosc": "Warszawa", "teryt": 1465068, "kod simc": 918643, "kod ulicy": "44894", "lozka": 10, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-11-14" }, "geometry": { "type": "Point", "coordinates": [ 636394.429699999979, 486122.356000001018401 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1465", "JPT_NAZWA_": "powiat Warszawa", "id": 144, "ksiega": 391079, "id zoz": 479779, "id jednostki": "773258", "id komórki": 6787444, "regon": 1103538100023, "kod jednostki": "01", "kod komórki": 59, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Wola - dzielnica", "ulica": "ul. Marcina Kasprzaka", "budynek": "17", "lokal": "NULL", "kod": "01-211", "miejscowosc": "Warszawa", "teryt": 1465188, "kod simc": 919884, "kod ulicy": "08157", "lozka": 11, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2010-01-26" }, "geometry": { "type": "Point", "coordinates": [ 634704.217799999984, 486397.7059 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1465", "JPT_NAZWA_": "powiat Warszawa", "id": 19, "ksiega": 380275, "id zoz": 458264, "id jednostki": "724177", "id komórki": 6207685, "regon": 1102681500033, "kod jednostki": "01", "kod komórki": 147, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Mokotów - dzielnica", "ulica": "ul. Stępińska", "budynek": "19\/25", "lokal": "NULL", "kod": "00-739", "miejscowosc": "Warszawa", "teryt": 1465058, "kod simc": 918130, "kod ulicy": "21165", "lozka": 4, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2009-11-30" }, "geometry": { "type": "Point", "coordinates": [ 639186.971499999985, 484053.804500001017004 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1465", "JPT_NAZWA_": "powiat Warszawa", "id": 152, "ksiega": 391229, "id zoz": 480285, "id jednostki": "774167", "id komórki": 6798411, "regon": 1529448700030, "kod jednostki": "01", "kod komórki": 1, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Praga-Południe - dzielnica", "ulica": "ul. Szaserów", "budynek": "128", "lokal": "NULL", "kod": "04-141", "miejscowosc": "Warszawa", "teryt": 1465078, "kod simc": 918838, "kod ulicy": "21789", "lozka": 15, "liczba łóżek iom": 5, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-12-10" }, "geometry": { "type": "Point", "coordinates": [ 642527.257899999968, 489199.3773 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1465", "JPT_NAZWA_": "powiat Warszawa", "id": 5, "ksiega": 391700, "id zoz": 481120, "id jednostki": "776714", "id komórki": 6829418, "regon": 29735900030, "kod jednostki": "01", "kod komórki": 11, "specjalnosc": "Szpitalny oddział ratunkowy dla dzieci", "kodresortviii": 4903, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Praga-Południe - dzielnica", "ulica": "ul. Niekłańska", "budynek": "4\/24", "lokal": "NULL", "kod": "03-924", "miejscowosc": "Warszawa", "teryt": 1465078, "kod simc": 918838, "kod ulicy": "14174", "lozka": 5, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-03-01" }, "geometry": { "type": "Point", "coordinates": [ 640760.003299999982, 487352.785 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1465",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1465",
+                "JPT_NAZWA_": "powiat Warszawa",
+                "id": 15,
+                "ksiega": 378647,
+                "id zoz": 455961,
+                "id jednostki": "719854",
+                "id komórki": 6163339,
+                "regon": 1229882300038,
+                "kod jednostki": "05",
+                "kod komórki": 49,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Praga-Północ - dzielnica",
+                "ulica": "Aleja \"Solidarności\"",
+                "budynek": "67",
+                "lokal": "NULL",
+                "kod": "03-401",
+                "miejscowosc": "Warszawa",
+                "teryt": 1465088,
+                "kod simc": 919298,
+                "kod ulicy": "45206",
+                "lozka": 6,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2011-03-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02923500000298,
+                    52.25158600001589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1465",
+                "JPT_NAZWA_": "powiat Warszawa",
+                "id": 6,
+                "ksiega": 392087,
+                "id zoz": 482051,
+                "id jednostki": "778683",
+                "id komórki": 6852278,
+                "regon": 28896900061,
+                "kod jednostki": "05",
+                "kod komórki": 237,
+                "specjalnosc": "Szpitalny oddział ratunkowy dla dzieci",
+                "kodresortviii": 4903,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Ochota - dzielnica",
+                "ulica": "ul. Żwirki i Wigury",
+                "budynek": "63A",
+                "lokal": "NULL",
+                "kod": "02-091",
+                "miejscowosc": "Warszawa",
+                "teryt": 1465068,
+                "kod simc": 918643,
+                "kod ulicy": "26608",
+                "lozka": 10,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2016-12-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.984675000002742,
+                    52.20719600001579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1465",
+                "JPT_NAZWA_": "powiat Warszawa",
+                "id": 89,
+                "ksiega": 388607,
+                "id zoz": 475793,
+                "id jednostki": "NULL",
+                "id komórki": 6695837,
+                "regon": 14262895500034,
+                "kod jednostki": "NULL",
+                "kod komórki": 8,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Śródmieście - dzielnica",
+                "ulica": "ul. Solec",
+                "budynek": "93",
+                "lokal": "NULL",
+                "kod": "00-382",
+                "miejscowosc": "Warszawa",
+                "teryt": 1465108,
+                "kod simc": 919810,
+                "kod ulicy": "20522",
+                "lozka": 4,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2011-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.03124931336881,
+                    52.23565528746371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1465",
+                "JPT_NAZWA_": "powiat Warszawa",
+                "id": 142,
+                "ksiega": 390985,
+                "id zoz": 479607,
+                "id jednostki": "772811",
+                "id komórki": 6783236,
+                "regon": 14198346000026,
+                "kod jednostki": "03",
+                "kod komórki": 39,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Targówek - dzielnica",
+                "ulica": "ul. Ludwika Kondratowicza",
+                "budynek": "8",
+                "lokal": "NULL",
+                "kod": "03-242",
+                "miejscowosc": "Warszawa",
+                "teryt": 1465118,
+                "kod simc": 988827,
+                "kod ulicy": "09123",
+                "lozka": 6,
+                "liczba łóżek iom": 6,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2011-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.044657073368615,
+                    52.29133515529144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1465",
+                "JPT_NAZWA_": "powiat Warszawa",
+                "id": 45,
+                "ksiega": 385381,
+                "id zoz": 468982,
+                "id jednostki": "749135",
+                "id komórki": 6511426,
+                "regon": 1229869700029,
+                "kod jednostki": "01",
+                "kod komórki": 83,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Bielany - dzielnica",
+                "ulica": "ul. Cegłowska",
+                "budynek": "80",
+                "lokal": "NULL",
+                "kod": "01-809",
+                "miejscowosc": "Warszawa",
+                "teryt": 1465048,
+                "kod simc": 988804,
+                "kod ulicy": "02592",
+                "lozka": 14,
+                "liczba łóżek iom": 4,
+                "liczba łóżek ink": 3,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-07-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.951873084810394,
+                    52.286365099203366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1465",
+                "JPT_NAZWA_": "powiat Warszawa",
+                "id": 70,
+                "ksiega": 387498,
+                "id zoz": 473199,
+                "id jednostki": "758765",
+                "id komórki": 6622514,
+                "regon": 647265100038,
+                "kod jednostki": "01",
+                "kod komórki": 18,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Mokotów - dzielnica",
+                "ulica": "ul. Wołoska",
+                "budynek": "137",
+                "lokal": "NULL",
+                "kod": "02-507",
+                "miejscowosc": "Warszawa",
+                "teryt": 1465058,
+                "kod simc": 918130,
+                "kod ulicy": "24723",
+                "lozka": 16,
+                "liczba łóżek iom": 3,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "1998-10-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.000557116678188,
+                    52.19886590342054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1465",
+                "JPT_NAZWA_": "powiat Warszawa",
+                "id": 35,
+                "ksiega": 383985,
+                "id zoz": 465957,
+                "id jednostki": "NULL",
+                "id komórki": 6423030,
+                "regon": 28893000025,
+                "kod jednostki": "NULL",
+                "kod komórki": 131,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Ochota - dzielnica",
+                "ulica": "ul. Williama Heerleina Lindleya",
+                "budynek": "4",
+                "lokal": "NULL",
+                "kod": "02-005",
+                "miejscowosc": "Warszawa",
+                "teryt": 1465068,
+                "kod simc": 918643,
+                "kod ulicy": "44894",
+                "lozka": 10,
+                "liczba łóżek iom": 1,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-11-14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.997485719656535,
+                    52.22423971482294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1465",
+                "JPT_NAZWA_": "powiat Warszawa",
+                "id": 144,
+                "ksiega": 391079,
+                "id zoz": 479779,
+                "id jednostki": "773258",
+                "id komórki": 6787444,
+                "regon": 1103538100023,
+                "kod jednostki": "01",
+                "kod komórki": 59,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Wola - dzielnica",
+                "ulica": "ul. Marcina Kasprzaka",
+                "budynek": "17",
+                "lokal": "NULL",
+                "kod": "01-211",
+                "miejscowosc": "Warszawa",
+                "teryt": 1465188,
+                "kod simc": 919884,
+                "kod ulicy": "08157",
+                "lozka": 11,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2010-01-26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.97285842446164,
+                    52.227130745013795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1465",
+                "JPT_NAZWA_": "powiat Warszawa",
+                "id": 19,
+                "ksiega": 380275,
+                "id zoz": 458264,
+                "id jednostki": "724177",
+                "id komórki": 6207685,
+                "regon": 1102681500033,
+                "kod jednostki": "01",
+                "kod komórki": 147,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Mokotów - dzielnica",
+                "ulica": "ul. Stępińska",
+                "budynek": "19/25",
+                "lokal": "NULL",
+                "kod": "00-739",
+                "miejscowosc": "Warszawa",
+                "teryt": 1465058,
+                "kod simc": 918130,
+                "kod ulicy": "21165",
+                "lozka": 4,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2009-11-30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.03750336143277,
+                    52.204949349458154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1465",
+                "JPT_NAZWA_": "powiat Warszawa",
+                "id": 152,
+                "ksiega": 391229,
+                "id zoz": 480285,
+                "id jednostki": "774167",
+                "id komórki": 6798411,
+                "regon": 1529448700030,
+                "kod jednostki": "01",
+                "kod komórki": 1,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Praga-Południe - dzielnica",
+                "ulica": "ul. Szaserów",
+                "budynek": "128",
+                "lokal": "NULL",
+                "kod": "04-141",
+                "miejscowosc": "Warszawa",
+                "teryt": 1465078,
+                "kod simc": 918838,
+                "kod ulicy": "21789",
+                "lozka": 15,
+                "liczba łóżek iom": 5,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2002-12-10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.088535479084317,
+                    52.25034025038074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1465",
+                "JPT_NAZWA_": "powiat Warszawa",
+                "id": 5,
+                "ksiega": 391700,
+                "id zoz": 481120,
+                "id jednostki": "776714",
+                "id komórki": 6829418,
+                "regon": 29735900030,
+                "kod jednostki": "01",
+                "kod komórki": 11,
+                "specjalnosc": "Szpitalny oddział ratunkowy dla dzieci",
+                "kodresortviii": 4903,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Praga-Południe - dzielnica",
+                "ulica": "ul. Niekłańska",
+                "budynek": "4/24",
+                "lokal": "NULL",
+                "kod": "03-924",
+                "miejscowosc": "Warszawa",
+                "teryt": 1465078,
+                "kod simc": 918838,
+                "kod ulicy": "14174",
+                "lozka": 5,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-03-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.06188749321723,
+                    52.2341992317897
+                ]
+            }
+        }
+    ]
 }

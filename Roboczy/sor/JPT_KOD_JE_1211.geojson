@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1211",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1211", "JPT_NAZWA_": "powiat nowotarski", "id": 166, "ksiega": 391506, "id zoz": 480755, "id jednostki": "775449", "id komórki": 6814949, "regon": 30832400020, "kod jednostki": "01", "kod komórki": 12, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddzial Ratunkowy", "teryt opis": "Nowy Targ - gmina miejska", "ulica": "ul. Szpitalna", "budynek": "14", "lokal": "NULL", "kod": "34-400", "miejscowosc": "Nowy Targ", "teryt": 1211011, "kod simc": 961538, "kod ulicy": "22073", "lozka": 10, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "1998-07-29" }, "geometry": { "type": "Point", "coordinates": [ 574382.043, 180764.4453 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1211",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1211",
+                "JPT_NAZWA_": "powiat nowotarski",
+                "id": 166,
+                "ksiega": 391506,
+                "id zoz": 480755,
+                "id jednostki": "775449",
+                "id komórki": 6814949,
+                "regon": 30832400020,
+                "kod jednostki": "01",
+                "kod komórki": 12,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddzial Ratunkowy",
+                "teryt opis": "Nowy Targ - gmina miejska",
+                "ulica": "ul. Szpitalna",
+                "budynek": "14",
+                "lokal": "NULL",
+                "kod": "34-400",
+                "miejscowosc": "Nowy Targ",
+                "teryt": 1211011,
+                "kod simc": 961538,
+                "kod ulicy": "22073",
+                "lozka": 10,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "1998-07-29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.02737132981259,
+                    49.48976211937792
+                ]
+            }
+        }
+    ]
 }

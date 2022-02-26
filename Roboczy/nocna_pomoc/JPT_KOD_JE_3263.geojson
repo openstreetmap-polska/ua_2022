@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3263",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 102, "JPT_KOD_JE": "3263", "JPT_NAZWA_": "powiat Świnoujście", "id": "104#533", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000736", "swiadczeniodawca": "Szpital Miejski im. Jana Garduły Sp. z o.o.", "miejscowosc": "Świnoujście", "ulica": " Mieszka I ", "numer_domu": "7", "adres_swiadczeniodawcy": " Mieszka I 7", "telefon": "91 326 74 11 (gabinet lekarza); 91 326 74 35 (gabinet pielęgniarki)", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Mieszka I", "g_miejsc": "Świnoujście", "g_adr": "7", "g_teryt": "3263011", "g_gm": "Świnoujście", "g_pow": "Świnoujście", "g_woj": "zachodniopomorskie", "g_szer": 14.258482419591344, "g_dlug": 53.910022967536307, "g_uuid": "3bf4e432-56f1-4291-ba04-6574061ef94a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 188727.993992812524084, 682135.830198801122606 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3263",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 102,
+                "JPT_KOD_JE": "3263",
+                "JPT_NAZWA_": "powiat Świnoujście",
+                "id": "104#533",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160000736",
+                "swiadczeniodawca": "Szpital Miejski im. Jana Garduły Sp. z o.o.",
+                "miejscowosc": "Świnoujście",
+                "ulica": " Mieszka I ",
+                "numer_domu": "7",
+                "adres_swiadczeniodawcy": " Mieszka I 7",
+                "telefon": "91 326 74 11 (gabinet lekarza); 91 326 74 35 (gabinet pielęgniarki)",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Mieszka I",
+                "g_miejsc": "Świnoujście",
+                "g_adr": "7",
+                "g_teryt": "3263011",
+                "g_gm": "Świnoujście",
+                "g_pow": "Świnoujście",
+                "g_woj": "zachodniopomorskie",
+                "g_szer": 14.258482419591344,
+                "g_dlug": 53.91002296753631,
+                "g_uuid": "3bf4e432-56f1-4291-ba04-6574061ef94a",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.258479999886534,
+                    53.91002000002352
+                ]
+            }
+        }
+    ]
 }

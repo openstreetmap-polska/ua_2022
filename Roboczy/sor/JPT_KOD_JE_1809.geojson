@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1809",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1809", "JPT_NAZWA_": "powiat lubaczowski", "id": 72, "ksiega": 387554, "id zoz": 473308, "id jednostki": "759050", "id komórki": 6626673, "regon": 30666700020, "kod jednostki": "01", "kod komórki": 33, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Lubaczów - gmina miejska", "ulica": "ul. Adama Mickiewicza", "budynek": "168", "lokal": "NULL", "kod": "37-600", "miejscowosc": "Lubaczów", "teryt": 1809011, "kod simc": 972447, "kod ulicy": "12740", "lozka": 12, "liczba łóżek iom": 4, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-01-29" }, "geometry": { "type": "Point", "coordinates": [ 794316.737, 264129.943 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1809",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1809",
+                "JPT_NAZWA_": "powiat lubaczowski",
+                "id": 72,
+                "ksiega": 387554,
+                "id zoz": 473308,
+                "id jednostki": "759050",
+                "id komórki": 6626673,
+                "regon": 30666700020,
+                "kod jednostki": "01",
+                "kod komórki": 33,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Lubaczów - gmina miejska",
+                "ulica": "ul. Adama Mickiewicza",
+                "budynek": "168",
+                "lokal": "NULL",
+                "kod": "37-600",
+                "miejscowosc": "Lubaczów",
+                "teryt": 1809011,
+                "kod simc": 972447,
+                "kod ulicy": "12740",
+                "lozka": 12,
+                "liczba łóżek iom": 4,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2002-01-29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.123245231631966,
+                    50.171136068207296
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1804",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 161, "JPT_KOD_JE": "1804", "JPT_NAZWA_": "powiat jarosławski", "id": "104#282", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010003", "swiadczeniodawca": "Centrum Opieki Medycznej w Jarosławiu ", "miejscowosc": "Jarosław", "ulica": "3 Maja ", "numer_domu": " 3", "adres_swiadczeniodawcy": " 3  Maja 70", "telefon": "16 624 50 50", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 134, "g_ul": "3-go Maja", "g_miejsc": "Jarosław", "g_adr": "3", "g_teryt": "1804011", "g_gm": "Jarosław", "g_pow": "jarosławski", "g_woj": "podkarpackie", "g_szer": 22.684808048726694, "g_dlug": 50.016786189991628, "g_uuid": "94300dde-b3a3-4d4d-829a-6da08346e466", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 763876.740413479856215, 245340.452703072689474 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1804",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 161,
+                "JPT_KOD_JE": "1804",
+                "JPT_NAZWA_": "powiat jarosławski",
+                "id": "104#282",
+                "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ",
+                "kod_swiadczeniodawcy": "09R/010003",
+                "swiadczeniodawca": "Centrum Opieki Medycznej w Jarosławiu ",
+                "miejscowosc": "Jarosław",
+                "ulica": "3 Maja ",
+                "numer_domu": " 3",
+                "adres_swiadczeniodawcy": " 3  Maja 70",
+                "telefon": "16 624 50 50",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 134,
+                "g_ul": "3-go Maja",
+                "g_miejsc": "Jarosław",
+                "g_adr": "3",
+                "g_teryt": "1804011",
+                "g_gm": "Jarosław",
+                "g_pow": "jarosławski",
+                "g_woj": "podkarpackie",
+                "g_szer": 22.684808048726694,
+                "g_dlug": 50.01678618999163,
+                "g_uuid": "94300dde-b3a3-4d4d-829a-6da08346e466",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.68481000006243,
+                    50.01679000001318
+                ]
+            }
+        }
+    ]
 }

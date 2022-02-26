@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1423",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 192, "JPT_KOD_JE": "1423", "JPT_NAZWA_": "powiat przysuski", "id": 198, "wojewodztwo": "mazowieckie", "miasto": "PRZYSUCHA", "powiat": "PRZYSUSKI", "adres": "PARTYZANTÓW 8", "miejscowosc": "PRZYSUCHA ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W PRZYSUSZE", "poziom": "I stopień", "www": "http:\/\/www.spzzozprzysucha.pl\/", "telefon": "48 38 33 500", "e-mail": "sekretariat@spzzozprzysucha.pl" }, "geometry": { "type": "Point", "coordinates": [ 613477.1, 389352.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1423",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 192,
+                "JPT_KOD_JE": "1423",
+                "JPT_NAZWA_": "powiat przysuski",
+                "id": 198,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "PRZYSUCHA",
+                "powiat": "PRZYSUSKI",
+                "adres": "PARTYZANTÓW 8",
+                "miejscowosc": "PRZYSUCHA ",
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W PRZYSUSZE",
+                "poziom": "I stopień",
+                "www": "http://www.spzzozprzysucha.pl/",
+                "telefon": "48 38 33 500",
+                "e-mail": "sekretariat@spzzozprzysucha.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.630346007416524,
+                    51.359450945428016
+                ]
+            }
+        }
+    ]
 }

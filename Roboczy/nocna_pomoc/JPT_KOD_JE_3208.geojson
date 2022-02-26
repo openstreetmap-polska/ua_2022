@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3208",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 201, "JPT_KOD_JE": "3208", "JPT_NAZWA_": "powiat kołobrzeski", "id": "104#519", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000735", "swiadczeniodawca": "Regionalny Szpital w Kołobrzegu", "miejscowosc": "Kołobrzeg", "ulica": "Łopuskiego", "numer_domu": "31-33", "adres_swiadczeniodawcy": "Łopuskiego 31-33", "telefon": "94 353 03 56; \r\n94 353 02 72", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "ppor. Łopuskiego Edmunda", "g_miejsc": "Kołobrzeg", "g_adr": "31-33", "g_teryt": "3208011", "g_gm": "Kołobrzeg", "g_pow": "kołobrzeski", "g_woj": "zachodniopomorskie", "g_szer": 15.567636744949704, "g_dlug": 54.174638346254056, "g_uuid": "f8210a8b-2dd8-4fc8-9b7b-39eae6d57d4a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 276062.50652914494276, 706592.173601712100208 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3208",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 201,
+                "JPT_KOD_JE": "3208",
+                "JPT_NAZWA_": "powiat kołobrzeski",
+                "id": "104#519",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160000735",
+                "swiadczeniodawca": "Regionalny Szpital w Kołobrzegu",
+                "miejscowosc": "Kołobrzeg",
+                "ulica": "Łopuskiego",
+                "numer_domu": "31-33",
+                "adres_swiadczeniodawcy": "Łopuskiego 31-33",
+                "telefon": "94 353 03 56; \r\n94 353 02 72",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "ppor. Łopuskiego Edmunda",
+                "g_miejsc": "Kołobrzeg",
+                "g_adr": "31-33",
+                "g_teryt": "3208011",
+                "g_gm": "Kołobrzeg",
+                "g_pow": "kołobrzeski",
+                "g_woj": "zachodniopomorskie",
+                "g_szer": 15.567636744949704,
+                "g_dlug": 54.174638346254056,
+                "g_uuid": "f8210a8b-2dd8-4fc8-9b7b-39eae6d57d4a",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.567639999975077,
+                    54.17464000001947
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1004",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 24, "JPT_KOD_JE": "1004", "JPT_NAZWA_": "powiat łęczycki", "id": "104#116", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "130002", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Łęczycy  ", "miejscowosc": "Łęczyca                         ", "ulica": "Zachodnia ", "numer_domu": "6", "adres_swiadczeniodawcy": "Zachodnia 6", "telefon": "24 721 21 87", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Zachodnia", "g_miejsc": "Łęczyca", "g_adr": "6", "g_teryt": "1004011", "g_gm": "Łęczyca", "g_pow": "łęczycki", "g_woj": "łódzkie", "g_szer": 19.188648415981934, "g_dlug": 52.059738094745015, "g_uuid": "75721912-db76-44a9-a1c0-4a749c1e7013", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 512929.791316058544908, 465968.489328077062964 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1004",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 24,
+                "JPT_KOD_JE": "1004",
+                "JPT_NAZWA_": "powiat łęczycki",
+                "id": "104#116",
+                "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ",
+                "kod_swiadczeniodawcy": "130002",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Łęczycy  ",
+                "miejscowosc": "Łęczyca                         ",
+                "ulica": "Zachodnia ",
+                "numer_domu": "6",
+                "adres_swiadczeniodawcy": "Zachodnia 6",
+                "telefon": "24 721 21 87",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Zachodnia",
+                "g_miejsc": "Łęczyca",
+                "g_adr": "6",
+                "g_teryt": "1004011",
+                "g_gm": "Łęczyca",
+                "g_pow": "łęczycki",
+                "g_woj": "łódzkie",
+                "g_szer": 19.188648415981934,
+                "g_dlug": 52.059738094745015,
+                "g_uuid": "75721912-db76-44a9-a1c0-4a749c1e7013",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.188650000000067,
+                    52.05974000001555
+                ]
+            }
+        }
+    ]
 }

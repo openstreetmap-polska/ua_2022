@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1429",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 420, "JPT_KOD_JE": "1429", "JPT_NAZWA_": "powiat sokołowski", "id": 205, "wojewodztwo": "mazowieckie", "miasto": "SOKOŁÓW  PODLASKI", "powiat": "SOKOŁOWSKI", "adres": "KSIĘDZA JANA BOSKO 5", "miejscowosc": "SOKOŁÓW PODLASKI ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W SOKOŁOWIE PODLASKIM", "poziom": "I stopień", "www": "http:\/\/www.spzozsokolow.pl", "telefon": "025 781 72 00", "e-mail": "sekretariat@spzozsokolow.pl" }, "geometry": { "type": "Point", "coordinates": [ 720471.4, 509130.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1429",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 420,
+                "JPT_KOD_JE": "1429",
+                "JPT_NAZWA_": "powiat sokołowski",
+                "id": 205,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "SOKOŁÓW  PODLASKI",
+                "powiat": "SOKOŁOWSKI",
+                "adres": "KSIĘDZA JANA BOSKO 5",
+                "miejscowosc": "SOKOŁÓW PODLASKI ",
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W SOKOŁOWIE PODLASKIM",
+                "poziom": "I stopień",
+                "www": "http://www.spzozsokolow.pl",
+                "telefon": "025 781 72 00",
+                "e-mail": "sekretariat@spzozsokolow.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.242141590658868,
+                    52.403592647774566
+                ]
+            }
+        }
+    ]
 }

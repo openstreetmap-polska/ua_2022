@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0411",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 117, "JPT_KOD_JE": "0411", "JPT_NAZWA_": "powiat radziejowski", "id": 42, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Radziejów", "powiat": "radziejowski", "adres": "Szpitalna 3", "miejscowosc": null, "kod": null, "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Radziejowie ", "poziom": "I stopień", "www": "http:\/\/www.szpitalradziejow.pl", "telefon": "54 285 62 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 467304.3, 528289.8 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0411",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 117,
+                "JPT_KOD_JE": "0411",
+                "JPT_NAZWA_": "powiat radziejowski",
+                "id": 42,
+                "wojewodztwo": "kujawsko-pomorskie",
+                "miasto": "Radziejów",
+                "powiat": "radziejowski",
+                "adres": "Szpitalna 3",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Radziejowie ",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalradziejow.pl",
+                "telefon": "54 285 62 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.516897083654285,
+                    52.61937003050991
+                ]
+            }
+        }
+    ]
 }

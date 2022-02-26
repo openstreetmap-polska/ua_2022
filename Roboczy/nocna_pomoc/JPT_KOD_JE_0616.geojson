@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0616",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 223, "JPT_KOD_JE": "0616", "JPT_NAZWA_": "powiat rycki", "id": "104#85", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30005854", "swiadczeniodawca": "AMG Centrum Medyczne Sp. z o.o.", "miejscowosc": "Ryki", "ulica": "Żytnia ", "numer_domu": "23", "adres_swiadczeniodawcy": "Żytnia 23", "telefon": "519 047 979; \r\n519047994", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Żytnia", "g_miejsc": "Ryki", "g_adr": "23", "g_teryt": "0616043", "g_gm": "Ryki", "g_pow": "rycki", "g_woj": "lubelskie", "g_szer": 21.93045622005836, "g_dlug": 51.621647935441665, "g_uuid": "532ff5ea-bbc1-4cf4-b7f9-1d1ad73e1ea2", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 702788.172212358796969, 421308.999761656858027 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0616",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 223,
+                "JPT_KOD_JE": "0616",
+                "JPT_NAZWA_": "powiat rycki",
+                "id": "104#85",
+                "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ",
+                "kod_swiadczeniodawcy": "30005854",
+                "swiadczeniodawca": "AMG Centrum Medyczne Sp. z o.o.",
+                "miejscowosc": "Ryki",
+                "ulica": "Żytnia ",
+                "numer_domu": "23",
+                "adres_swiadczeniodawcy": "Żytnia 23",
+                "telefon": "519 047 979; \r\n519047994",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Żytnia",
+                "g_miejsc": "Ryki",
+                "g_adr": "23",
+                "g_teryt": "0616043",
+                "g_gm": "Ryki",
+                "g_pow": "rycki",
+                "g_woj": "lubelskie",
+                "g_szer": 21.93045622005836,
+                "g_dlug": 51.621647935441665,
+                "g_uuid": "532ff5ea-bbc1-4cf4-b7f9-1d1ad73e1ea2",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.93046000001646,
+                    51.62165000001502
+                ]
+            }
+        }
+    ]
 }

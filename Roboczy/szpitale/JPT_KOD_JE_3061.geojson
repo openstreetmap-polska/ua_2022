@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3061",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 132, "JPT_KOD_JE": "3061", "JPT_NAZWA_": "powiat Kalisz", "id": 393, "wojewodztwo": "wielkopolskie", "miasto": "KALISZ ", "powiat": "KALISZ ", "adres": "POZNAŃSKA 79 ", "miejscowosc": null, "kod": "62-800 ", "nazwa": "WOJEWÓDZKI SZPITAL ZESPOLONY IM. LUDWIKA PERZYNY W KALISZU ", "poziom": "III stopień ", "www": "http:\/\/www.szpital.kalisz.pl\/ ", "telefon": "(062)76-51-356 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 435554.4, 433346.2 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3061",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 132,
+                "JPT_KOD_JE": "3061",
+                "JPT_NAZWA_": "powiat Kalisz",
+                "id": 393,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "KALISZ ",
+                "powiat": "KALISZ ",
+                "adres": "POZNAŃSKA 79 ",
+                "miejscowosc": null,
+                "kod": "62-800 ",
+                "nazwa": "WOJEWÓDZKI SZPITAL ZESPOLONY IM. LUDWIKA PERZYNY W KALISZU ",
+                "poziom": "III stopień ",
+                "www": "http://www.szpital.kalisz.pl/ ",
+                "telefon": "(062)76-51-356 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.065889321386283,
+                    51.76278157795031
+                ]
+            }
+        }
+    ]
 }

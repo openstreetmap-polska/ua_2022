@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1805",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 162, "JPT_KOD_JE": "1805", "JPT_NAZWA_": "powiat jasielski", "id": "104#283", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010004", "swiadczeniodawca": "Szpital Specjalistyczny w Jaśle", "miejscowosc": "Jasło", "ulica": "Lwowska ", "numer_domu": "22", "adres_swiadczeniodawcy": "Lwowska 22", "telefon": "Jasło: 13 44 37 723; Nowy Żmigród: 13 44 15 674", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Lwowska", "g_miejsc": "Jasło", "g_adr": "22", "g_teryt": "1805011", "g_gm": "Jasło", "g_pow": "jasielski", "g_woj": "podkarpackie", "g_szer": 21.480498944111751, "g_dlug": 49.75212763045225, "g_uuid": "f5eb2f44-246f-44f5-b0c9-806238e5a82d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 678619.692820127937011, 212369.958637488074601 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1805",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 162,
+                "JPT_KOD_JE": "1805",
+                "JPT_NAZWA_": "powiat jasielski",
+                "id": "104#283",
+                "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ",
+                "kod_swiadczeniodawcy": "09R/010004",
+                "swiadczeniodawca": "Szpital Specjalistyczny w Jaśle",
+                "miejscowosc": "Jasło",
+                "ulica": "Lwowska ",
+                "numer_domu": "22",
+                "adres_swiadczeniodawcy": "Lwowska 22",
+                "telefon": "Jasło: 13 44 37 723; Nowy Żmigród: 13 44 15 674",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Lwowska",
+                "g_miejsc": "Jasło",
+                "g_adr": "22",
+                "g_teryt": "1805011",
+                "g_gm": "Jasło",
+                "g_pow": "jasielski",
+                "g_woj": "podkarpackie",
+                "g_szer": 21.48049894411175,
+                "g_dlug": 49.75212763045225,
+                "g_uuid": "f5eb2f44-246f-44f5-b0c9-806238e5a82d",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.480500000008803,
+                    49.75213000001219
+                ]
+            }
+        }
+    ]
 }

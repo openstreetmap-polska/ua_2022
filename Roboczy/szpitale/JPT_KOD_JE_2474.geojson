@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2474",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 106, "JPT_KOD_JE": "2474", "JPT_NAZWA_": "powiat Siemianowice Śląskie", "id": 492, "wojewodztwo": "śląskie", "miasto": "Siemianowice Śląskie ", "powiat": "Siemianowice Śląskie", "adres": "Jana Pawła II 2", "miejscowosc": "Siemianowice Śląskie", "kod": null, "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Centrum Leczenia Oparzeń", "poziom": "II stopień", "www": "http:\/\/www.clo.com.pl", "telefon": "32 229 20 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 502101.6, 270881.5 ] } },
-{ "type": "Feature", "properties": { "_uid_": 107, "JPT_KOD_JE": "2474", "JPT_NAZWA_": "powiat Siemianowice Śląskie", "id": 524, "wojewodztwo": "śląskie", "miasto": "Siemianowice Śląskie ", "powiat": "Siemianowice Śląskie", "adres": "1 maja 9", "miejscowosc": "Siemianowice Śląskie", "kod": null, "nazwa": "Szpital Miejski w Siemianowicach Śląskich Spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.zozsiemianowice.pl", "telefon": "32 228 30 30", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 502362.8, 270859.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2474",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 106,
+                "JPT_KOD_JE": "2474",
+                "JPT_NAZWA_": "powiat Siemianowice Śląskie",
+                "id": 492,
+                "wojewodztwo": "śląskie",
+                "miasto": "Siemianowice Śląskie ",
+                "powiat": "Siemianowice Śląskie",
+                "adres": "Jana Pawła II 2",
+                "miejscowosc": "Siemianowice Śląskie",
+                "kod": null,
+                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Centrum Leczenia Oparzeń",
+                "poziom": "II stopień",
+                "www": "http://www.clo.com.pl",
+                "telefon": "32 229 20 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.029520526027124,
+                    50.305095561949635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 107,
+                "JPT_KOD_JE": "2474",
+                "JPT_NAZWA_": "powiat Siemianowice Śląskie",
+                "id": 524,
+                "wojewodztwo": "śląskie",
+                "miasto": "Siemianowice Śląskie ",
+                "powiat": "Siemianowice Śląskie",
+                "adres": "1 maja 9",
+                "miejscowosc": "Siemianowice Śląskie",
+                "kod": null,
+                "nazwa": "Szpital Miejski w Siemianowicach Śląskich Spółka z ograniczoną odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.zozsiemianowice.pl",
+                "telefon": "32 228 30 30",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.033189384013372,
+                    50.304897554005535
+                ]
+            }
+        }
+    ]
 }

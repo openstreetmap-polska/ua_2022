@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0661",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 389, "JPT_KOD_JE": "0661", "JPT_NAZWA_": "powiat Biała Podlaska", "id": 55, "wojewodztwo": "lubelskie", "miasto": "BIAŁA PODLASKA", "powiat": "BIAŁA PODLASKA", "adres": "TEREBELSKA 57-65", "miejscowosc": null, "kod": null, "nazwa": "WOJEWÓDZKI SZPITAL SPECJALISTYCZNY W BIAŁEJ PODLASKIEJ", "poziom": "III stopień ", "www": "http:\/\/www.szpitalbp.pl", "telefon": "83 414 72 11", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 781767.8, 472455.3 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0661",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 389,
+                "JPT_KOD_JE": "0661",
+                "JPT_NAZWA_": "powiat Biała Podlaska",
+                "id": 55,
+                "wojewodztwo": "lubelskie",
+                "miasto": "BIAŁA PODLASKA",
+                "powiat": "BIAŁA PODLASKA",
+                "adres": "TEREBELSKA 57-65",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "WOJEWÓDZKI SZPITAL SPECJALISTYCZNY W BIAŁEJ PODLASKIEJ",
+                "poziom": "III stopień ",
+                "www": "http://www.szpitalbp.pl",
+                "telefon": "83 414 72 11",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.110727957214642,
+                    52.046496490423664
+                ]
+            }
+        }
+    ]
 }

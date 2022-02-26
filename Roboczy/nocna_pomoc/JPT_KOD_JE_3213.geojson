@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3213",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 100, "JPT_KOD_JE": "3213", "JPT_NAZWA_": "powiat sławieński", "id": "104#526", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160002270", "swiadczeniodawca": "Szpital Powiatowy w Sławnie", "miejscowosc": "Sławno", "ulica": "I Pułku Ułanów ", "numer_domu": "9", "adres_swiadczeniodawcy": "I Pułku Ułanów 9", "telefon": "Sławno: 59 810 63 50; \r\n512 617 031 - lekarz;\r\n505 725 836 - pielęgniarka;\r\nDarłowo: 94 314 47 33;\r\n505 725 624 - lekarz;\r\n609 572 999 - pielęgniarka", "dodatkowe_miejsce": "76-150 Darłowo, \r\nul. Marii Skłodowskiej - Curie 32", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "I Pułku Ułanów", "g_miejsc": "Sławno", "g_adr": "9", "g_teryt": "3213021", "g_gm": "Sławno", "g_pow": "sławieński", "g_woj": "zachodniopomorskie", "g_szer": 16.679030887315143, "g_dlug": 54.369202791404291, "g_uuid": "7ea7bcc1-d2b4-4e98-8b9a-8eb835978123", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 349269.329458972555585, 725274.161079165525734 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3213",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 100,
+                "JPT_KOD_JE": "3213",
+                "JPT_NAZWA_": "powiat sławieński",
+                "id": "104#526",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160002270",
+                "swiadczeniodawca": "Szpital Powiatowy w Sławnie",
+                "miejscowosc": "Sławno",
+                "ulica": "I Pułku Ułanów ",
+                "numer_domu": "9",
+                "adres_swiadczeniodawcy": "I Pułku Ułanów 9",
+                "telefon": "Sławno: 59 810 63 50; \r\n512 617 031 - lekarz;\r\n505 725 836 - pielęgniarka;\r\nDarłowo: 94 314 47 33;\r\n505 725 624 - lekarz;\r\n609 572 999 - pielęgniarka",
+                "dodatkowe_miejsce": "76-150 Darłowo, \r\nul. Marii Skłodowskiej - Curie 32",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "I Pułku Ułanów",
+                "g_miejsc": "Sławno",
+                "g_adr": "9",
+                "g_teryt": "3213021",
+                "g_gm": "Sławno",
+                "g_pow": "sławieński",
+                "g_woj": "zachodniopomorskie",
+                "g_szer": 16.679030887315143,
+                "g_dlug": 54.36920279140429,
+                "g_uuid": "7ea7bcc1-d2b4-4e98-8b9a-8eb835978123",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.67902999999553,
+                    54.3692000000194
+                ]
+            }
+        }
+    ]
 }

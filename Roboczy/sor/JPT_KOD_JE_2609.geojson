@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2609",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2609", "JPT_NAZWA_": "powiat sandomierski", "id": 104, "ksiega": 389041, "id zoz": 476633, "id jednostki": "766451", "id komórki": 6721965, "regon": 30238500048, "kod jednostki": "01", "kod komórki": 16, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Sandomierz - gmina miejska", "ulica": "ul. dr. Zygmunta Schinzla", "budynek": "13", "lokal": "NULL", "kod": "27-600", "miejscowosc": "Sandomierz", "teryt": 2609011, "kod simc": 980926, "kod ulicy": "34347", "lozka": 2, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-03-21" }, "geometry": { "type": "Point", "coordinates": [ 694242.8351, 318116.7773 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2609",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2609",
+                "JPT_NAZWA_": "powiat sandomierski",
+                "id": 104,
+                "ksiega": 389041,
+                "id zoz": 476633,
+                "id jednostki": "766451",
+                "id komórki": 6721965,
+                "regon": 30238500048,
+                "kod jednostki": "01",
+                "kod komórki": 16,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Sandomierz - gmina miejska",
+                "ulica": "ul. dr. Zygmunta Schinzla",
+                "budynek": "13",
+                "lokal": "NULL",
+                "kod": "27-600",
+                "miejscowosc": "Sandomierz",
+                "teryt": 2609011,
+                "kod simc": 980926,
+                "kod ulicy": "34347",
+                "lozka": 2,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2000-03-21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.751382344880344,
+                    50.697549405031786
+                ]
+            }
+        }
+    ]
 }

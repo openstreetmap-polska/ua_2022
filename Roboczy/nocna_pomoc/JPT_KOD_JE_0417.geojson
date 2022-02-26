@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0417",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 432, "JPT_KOD_JE": "0417", "JPT_NAZWA_": "powiat wąbrzeski", "id": "104#61", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20003629", "swiadczeniodawca": "Nowy Szpital w Wąbrzeźnie Spółka z o.o.", "miejscowosc": "Wąbrzeźno", "ulica": "Wolności", "numer_domu": "27", "adres_swiadczeniodawcy": "Wolności 27", "telefon": "56 689-17-37", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.946941371053523, "g_dlug": 53.276201615132429, "g_uuid": "8e4e0f0c-02e4-4e95-86fb-e440e7ed7be2", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 496462.95139650569763, 601225.922800725325942 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0417",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 432,
+                "JPT_KOD_JE": "0417",
+                "JPT_NAZWA_": "powiat wąbrzeski",
+                "id": "104#61",
+                "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "20003629",
+                "swiadczeniodawca": "Nowy Szpital w Wąbrzeźnie Spółka z o.o.",
+                "miejscowosc": "Wąbrzeźno",
+                "ulica": "Wolności",
+                "numer_domu": "27",
+                "adres_swiadczeniodawcy": "Wolności 27",
+                "telefon": "56 689-17-37",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 18.946941371053523,
+                "g_dlug": 53.27620161513243,
+                "g_uuid": "8e4e0f0c-02e4-4e95-86fb-e440e7ed7be2",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.94693999999998,
+                    53.27620000001753
+                ]
+            }
+        }
+    ]
 }

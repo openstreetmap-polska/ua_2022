@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3206",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 417, "JPT_KOD_JE": "3206", "JPT_NAZWA_": "powiat gryfiński", "id": "104#517", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160003837", "swiadczeniodawca": "Szpital Powiatowy w Gryfinie Sp. z o.o.", "miejscowosc": "Gryfino", "ulica": "Niepodległości ", "numer_domu": "39", "adres_swiadczeniodawcy": "Niepodległości 39", "telefon": "519 096 702 (lekarz); \r\n 519 096 703 (pielęgniarka) ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Niepodległości", "g_miejsc": "Gryfino", "g_adr": "39", "g_teryt": "3206043", "g_gm": "Gryfino", "g_pow": "gryfiński", "g_woj": "zachodniopomorskie", "g_szer": 14.489868329515193, "g_dlug": 53.254802166274111, "g_uuid": "e63ae3fd-d66c-4329-b52d-2a5b4e3f21bb", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 199287.025811180763412, 608336.95916829444468 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3206",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 417,
+                "JPT_KOD_JE": "3206",
+                "JPT_NAZWA_": "powiat gryfiński",
+                "id": "104#517",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160003837",
+                "swiadczeniodawca": "Szpital Powiatowy w Gryfinie Sp. z o.o.",
+                "miejscowosc": "Gryfino",
+                "ulica": "Niepodległości ",
+                "numer_domu": "39",
+                "adres_swiadczeniodawcy": "Niepodległości 39",
+                "telefon": "519 096 702 (lekarz); \r\n 519 096 703 (pielęgniarka) ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Niepodległości",
+                "g_miejsc": "Gryfino",
+                "g_adr": "39",
+                "g_teryt": "3206043",
+                "g_gm": "Gryfino",
+                "g_pow": "gryfiński",
+                "g_woj": "zachodniopomorskie",
+                "g_szer": 14.489868329515193,
+                "g_dlug": 53.25480216627411,
+                "g_uuid": "e63ae3fd-d66c-4329-b52d-2a5b4e3f21bb",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.489869999896273,
+                    53.25480000002093
+                ]
+            }
+        }
+    ]
 }

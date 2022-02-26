@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1205",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 574, "JPT_KOD_JE": "1205", "JPT_NAZWA_": "powiat gorlicki", "id": 166, "wojewodztwo": "małopolskie", "miasto": "Gorlice", "powiat": "gorlicki", "adres": "Węgierska 21", "miejscowosc": "Gorlice", "kod": "38-300", "nazwa": "SZPITAL SPECJALISTYCZNY IM. HENRYKA KLIMONTOWICZA W GORLICACH", "poziom": "II stopień", "www": "http:\/\/www.szpital.gorlice.pl", "telefon": "18 35 53 200, 18 35 53 534", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 656083.7, 200420.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1205",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 574,
+                "JPT_KOD_JE": "1205",
+                "JPT_NAZWA_": "powiat gorlicki",
+                "id": 166,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Gorlice",
+                "powiat": "gorlicki",
+                "adres": "Węgierska 21",
+                "miejscowosc": "Gorlice",
+                "kod": "38-300",
+                "nazwa": "SZPITAL SPECJALISTYCZNY IM. HENRYKA KLIMONTOWICZA W GORLICACH",
+                "poziom": "II stopień",
+                "www": "http://www.szpital.gorlice.pl",
+                "telefon": "18 35 53 200, 18 35 53 534",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.163017917512708,
+                    49.65097479406126
+                ]
+            }
+        }
+    ]
 }

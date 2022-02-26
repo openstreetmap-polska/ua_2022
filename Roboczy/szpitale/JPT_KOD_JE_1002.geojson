@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1002",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 359, "JPT_KOD_JE": "1002", "JPT_NAZWA_": "powiat kutnowski", "id": 131, "wojewodztwo": "łódzkie", "miasto": "Kutno", "powiat": "kutnowski", "adres": "Kościuszki 52", "miejscowosc": null, "kod": null, "nazwa": "NZOZ Kutnowski Szpital Samorządowy", "poziom": "I stopień", "www": "http:\/\/www.szpital.kutno.pl", "telefon": "24 388 02 00", "e-mail": "nzoz.kss@szpital.kutno.pl" }, "geometry": { "type": "Point", "coordinates": [ 525362.6, 485939.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1002",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 359,
+                "JPT_KOD_JE": "1002",
+                "JPT_NAZWA_": "powiat kutnowski",
+                "id": 131,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Kutno",
+                "powiat": "kutnowski",
+                "adres": "Kościuszki 52",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "NZOZ Kutnowski Szpital Samorządowy",
+                "poziom": "I stopień",
+                "www": "http://www.szpital.kutno.pl",
+                "telefon": "24 388 02 00",
+                "e-mail": "nzoz.kss@szpital.kutno.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.37153766705251,
+                    52.23890966391453
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0605",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 191, "JPT_KOD_JE": "0605", "JPT_NAZWA_": "powiat janowski", "id": 61, "wojewodztwo": "lubelskie", "miasto": "JANÓW LUBELSKI", "powiat": "JANOWSKI", "adres": "JANA ZAMOYSKIEGO 149", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W JANOWIE LUBELSKIM", "poziom": "I stopień", "www": "http:\/\/www.szpitaljanowlubelski.pl", "telefon": "15 843 66 11", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 742409.4, 320632.2 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0605",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 191,
+                "JPT_KOD_JE": "0605",
+                "JPT_NAZWA_": "powiat janowski",
+                "id": 61,
+                "wojewodztwo": "lubelskie",
+                "miasto": "JANÓW LUBELSKI",
+                "powiat": "JANOWSKI",
+                "adres": "JANA ZAMOYSKIEGO 149",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W JANOWIE LUBELSKIM",
+                "poziom": "I stopień",
+                "www": "http://www.szpitaljanowlubelski.pl",
+                "telefon": "15 843 66 11",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.434119660561592,
+                    50.702054049260575
+                ]
+            }
+        }
+    ]
 }

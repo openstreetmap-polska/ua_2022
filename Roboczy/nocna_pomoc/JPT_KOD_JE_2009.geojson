@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2009",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 496, "JPT_KOD_JE": "2009", "JPT_NAZWA_": "powiat sejneński", "id": "104#318", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000079", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Sejnach", "miejscowosc": "Sejny", "ulica": " Rittlera ", "numer_domu": "1", "adres_swiadczeniodawcy": " Rittlera 1", "telefon": "87 517 23 01", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "dr. Edwarda Rittlera", "g_miejsc": "Sejny", "g_adr": "1", "g_teryt": "2009011", "g_gm": "Sejny", "g_pow": "sejneński", "g_woj": "podlaskie", "g_szer": 23.351307650201068, "g_dlug": 54.115010025128029, "g_uuid": "7fe73fd1-33a7-42ce-83c0-84e1bcb53258", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 784268.706282186903991, 703270.887993177399039 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2009",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 496,
+                "JPT_KOD_JE": "2009",
+                "JPT_NAZWA_": "powiat sejneński",
+                "id": "104#318",
+                "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ",
+                "kod_swiadczeniodawcy": "100000079",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Sejnach",
+                "miejscowosc": "Sejny",
+                "ulica": " Rittlera ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": " Rittlera 1",
+                "telefon": "87 517 23 01",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "dr. Edwarda Rittlera",
+                "g_miejsc": "Sejny",
+                "g_adr": "1",
+                "g_teryt": "2009011",
+                "g_gm": "Sejny",
+                "g_pow": "sejneński",
+                "g_woj": "podlaskie",
+                "g_szer": 23.35130765020107,
+                "g_dlug": 54.11501002512803,
+                "g_uuid": "7fe73fd1-33a7-42ce-83c0-84e1bcb53258",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.351310000073997,
+                    54.11501000002149
+                ]
+            }
+        }
+    ]
 }

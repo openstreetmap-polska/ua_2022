@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2472",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 323, "JPT_KOD_JE": "2472", "JPT_NAZWA_": "powiat Ruda Śląska", "id": 516, "wojewodztwo": "śląskie", "miasto": "Ruda Śląska", "powiat": "Ruda Śląska", "adres": "Lipa 2", "miejscowosc": "Ruda Śląska", "kod": null, "nazwa": "Szpital Miejski w Rudzie Śląskiej Spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.szpitalruda.pl", "telefon": "32 344 07 24", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 492041.4, 272011.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2472",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 323,
+                "JPT_KOD_JE": "2472",
+                "JPT_NAZWA_": "powiat Ruda Śląska",
+                "id": 516,
+                "wojewodztwo": "śląskie",
+                "miasto": "Ruda Śląska",
+                "powiat": "Ruda Śląska",
+                "adres": "Lipa 2",
+                "miejscowosc": "Ruda Śląska",
+                "kod": null,
+                "nazwa": "Szpital Miejski w Rudzie Śląskiej Spółka z ograniczoną odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalruda.pl",
+                "telefon": "32 344 07 24",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.888184280950636,
+                    50.315207732294674
+                ]
+            }
+        }
+    ]
 }

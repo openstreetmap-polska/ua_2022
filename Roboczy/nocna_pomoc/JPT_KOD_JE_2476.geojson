@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2476",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 513, "JPT_KOD_JE": "2476", "JPT_NAZWA_": "powiat Świętochłowice", "id": "104#411", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/100027", "swiadczeniodawca": "ZOZ w Świętochłowicach", "miejscowosc": "Świętochłowice", "ulica": "Chorzowska ", "numer_domu": "36", "adres_swiadczeniodawcy": "Chorzowska 36", "telefon": "32 245 50 41-5 wew. 212, 668 893 902, \r\n660 740 573", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "CHORZOWSKA", "g_miejsc": "ŚWIĘTOCHŁOWICE", "g_adr": "36", "g_teryt": "2476011", "g_gm": "Świętochłowice", "g_pow": "Świętochłowice", "g_woj": "śląskie", "g_szer": 18.915929631431073, "g_dlug": 50.30588532405897, "g_uuid": "5fb4258f-a3e2-46cc-ac2e-f869d1284dd8", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 494015.060625235899352, 270972.76943426951766 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2476",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 513,
+                "JPT_KOD_JE": "2476",
+                "JPT_NAZWA_": "powiat Świętochłowice",
+                "id": "104#411",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/100027",
+                "swiadczeniodawca": "ZOZ w Świętochłowicach",
+                "miejscowosc": "Świętochłowice",
+                "ulica": "Chorzowska ",
+                "numer_domu": "36",
+                "adres_swiadczeniodawcy": "Chorzowska 36",
+                "telefon": "32 245 50 41-5 wew. 212, 668 893 902, \r\n660 740 573",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "CHORZOWSKA",
+                "g_miejsc": "ŚWIĘTOCHŁOWICE",
+                "g_adr": "36",
+                "g_teryt": "2476011",
+                "g_gm": "Świętochłowice",
+                "g_pow": "Świętochłowice",
+                "g_woj": "śląskie",
+                "g_szer": 18.915929631431073,
+                "g_dlug": 50.30588532405897,
+                "g_uuid": "5fb4258f-a3e2-46cc-ac2e-f869d1284dd8",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.915929999999978,
+                    50.30589000001295
+                ]
+            }
+        }
+    ]
 }

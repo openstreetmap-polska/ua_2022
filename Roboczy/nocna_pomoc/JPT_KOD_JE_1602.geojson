@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1602",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 364, "JPT_KOD_JE": "1602", "JPT_NAZWA_": "powiat głubczycki", "id": "104#266", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/10017", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Głubczycach", "miejscowosc": "Głubczyce", "ulica": "Skłodowskiej ", "numer_domu": "26", "adres_swiadczeniodawcy": "Skłodowskiej 26", "telefon": "Głubczyce: 77 480 11 00;077 480 11 01; Kietrz: 77 485 42 91 wew. 101 lub 77 485 52 30 wew. 101", "dodatkowe_miejsce": " Kościelna 1; Kietrz", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Skłodowskiej", "g_miejsc": "Głubczyce", "g_adr": "26", "g_teryt": "1602033", "g_gm": "Głubczyce", "g_pow": "głubczycki", "g_woj": "opolskie", "g_szer": 17.812545942994763, "g_dlug": 50.203889666119153, "g_uuid": "dbca7ae8-de05-4166-9d84-3e752d3c856d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 415285.900215162255336, 260305.984701787121594 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1602",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 364,
+                "JPT_KOD_JE": "1602",
+                "JPT_NAZWA_": "powiat głubczycki",
+                "id": "104#266",
+                "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "08R/10017",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Głubczycach",
+                "miejscowosc": "Głubczyce",
+                "ulica": "Skłodowskiej ",
+                "numer_domu": "26",
+                "adres_swiadczeniodawcy": "Skłodowskiej 26",
+                "telefon": "Głubczyce: 77 480 11 00;077 480 11 01; Kietrz: 77 485 42 91 wew. 101 lub 77 485 52 30 wew. 101",
+                "dodatkowe_miejsce": " Kościelna 1; Kietrz",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Skłodowskiej",
+                "g_miejsc": "Głubczyce",
+                "g_adr": "26",
+                "g_teryt": "1602033",
+                "g_gm": "Głubczyce",
+                "g_pow": "głubczycki",
+                "g_woj": "opolskie",
+                "g_szer": 17.812545942994763,
+                "g_dlug": 50.20388966611915,
+                "g_uuid": "dbca7ae8-de05-4166-9d84-3e752d3c856d",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.812549999999497,
+                    50.203890000012784
+                ]
+            }
+        }
+    ]
 }

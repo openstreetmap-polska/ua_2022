@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2810",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 301, "JPT_KOD_JE": "2810", "JPT_NAZWA_": "powiat mrągowski", "id": "104#454", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140001219", "swiadczeniodawca": "Szpital Mrągowski im. Michała Kajki Sp. z o. o.", "miejscowosc": "Mrągowo", "ulica": "Wolności ", "numer_domu": "12", "adres_swiadczeniodawcy": "Wolności 12", "telefon": "89 741 94 54", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Wolności", "g_miejsc": "Mrągowo", "g_adr": "12", "g_teryt": "2810011", "g_gm": "Mrągowo", "g_pow": "mrągowski", "g_woj": "warmińsko-mazurskie", "g_szer": 21.30367715878495, "g_dlug": 53.879393865379789, "g_uuid": "87fb2419-9969-4792-ab21-81775af241c5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 651383.461743790772744, 670769.815144184976816 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2810",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 301,
+                "JPT_KOD_JE": "2810",
+                "JPT_NAZWA_": "powiat mrągowski",
+                "id": "104#454",
+                "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ",
+                "kod_swiadczeniodawcy": "140001219",
+                "swiadczeniodawca": "Szpital Mrągowski im. Michała Kajki Sp. z o. o.",
+                "miejscowosc": "Mrągowo",
+                "ulica": "Wolności ",
+                "numer_domu": "12",
+                "adres_swiadczeniodawcy": "Wolności 12",
+                "telefon": "89 741 94 54",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Wolności",
+                "g_miejsc": "Mrągowo",
+                "g_adr": "12",
+                "g_teryt": "2810011",
+                "g_gm": "Mrągowo",
+                "g_pow": "mrągowski",
+                "g_woj": "warmińsko-mazurskie",
+                "g_szer": 21.30367715878495,
+                "g_dlug": 53.87939386537979,
+                "g_uuid": "87fb2419-9969-4792-ab21-81775af241c5",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.303680000004498,
+                    53.87939000001855
+                ]
+            }
+        }
+    ]
 }

@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3003",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 493, "JPT_KOD_JE": "3003", "JPT_NAZWA_": "powiat gnieźnieński", "id": 401, "wojewodztwo": "wielkopolskie", "miasto": "GNIEZNO ", "powiat": "GNIEŹNIEŃSKI ", "adres": "POZNAŃSKA 15 ", "miejscowosc": null, "kod": "62-200 ", "nazwa": "SPZOZ WOJEWÓDZKI SZPITAL DLA NERWOWO I PSYCHICZNIE CHORYCH \"DZIEKANKA\" IM. ALEKSANDRA PIOTROWSKIEGO ", "poziom": "I stopień", "www": "http:\/\/www.dziekanka.net\/ ", "telefon": "(061) 423-85-00 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 403519.2, 519555.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 494, "JPT_KOD_JE": "3003", "JPT_NAZWA_": "powiat gnieźnieński", "id": 363, "wojewodztwo": "wielkopolskie", "miasto": "GNIEZNO ", "powiat": "GNIEŹNIEŃSKI ", "adres": "ŚW.JANA 9 ", "miejscowosc": null, "kod": "62-200 ", "nazwa": "SZPITAL POMNIK CHRZTU POLSKI ", "poziom": "II stopień ", "www": "http:\/\/www.zoz.gniezno.pl ", "telefon": "(061)42-64-461 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 404865.4, 520098.2 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3003",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 493,
+                "JPT_KOD_JE": "3003",
+                "JPT_NAZWA_": "powiat gnieźnieński",
+                "id": 401,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "GNIEZNO ",
+                "powiat": "GNIEŹNIEŃSKI ",
+                "adres": "POZNAŃSKA 15 ",
+                "miejscowosc": null,
+                "kod": "62-200 ",
+                "nazwa": "SPZOZ WOJEWÓDZKI SZPITAL DLA NERWOWO I PSYCHICZNIE CHORYCH \"DZIEKANKA\" IM. ALEKSANDRA PIOTROWSKIEGO ",
+                "poziom": "I stopień",
+                "www": "http://www.dziekanka.net/ ",
+                "telefon": "(061) 423-85-00 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.577182430102642,
+                    52.53325367744205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 494,
+                "JPT_KOD_JE": "3003",
+                "JPT_NAZWA_": "powiat gnieźnieński",
+                "id": 363,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "GNIEZNO ",
+                "powiat": "GNIEŹNIEŃSKI ",
+                "adres": "ŚW.JANA 9 ",
+                "miejscowosc": null,
+                "kod": "62-200 ",
+                "nazwa": "SZPITAL POMNIK CHRZTU POLSKI ",
+                "poziom": "II stopień ",
+                "www": "http://www.zoz.gniezno.pl ",
+                "telefon": "(061)42-64-461 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.59687284550461,
+                    52.53837404508727
+                ]
+            }
+        }
+    ]
 }

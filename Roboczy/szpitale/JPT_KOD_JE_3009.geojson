@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3009",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 41, "JPT_KOD_JE": "3009", "JPT_NAZWA_": "powiat kolski", "id": 379, "wojewodztwo": "wielkopolskie", "miasto": "KOŁO ", "powiat": "KOLSKI ", "adres": "KS. JÓZEFA PONIATOWSKIEGO 25 ", "miejscowosc": null, "kod": "62-600 ", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W KOLE ", "poziom": "I stopień", "www": "http:\/\/www.spzozkolo.pl\/ ", "telefon": "(063)26-26-140 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 473947.3, 479949.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3009",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 41,
+                "JPT_KOD_JE": "3009",
+                "JPT_NAZWA_": "powiat kolski",
+                "id": 379,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "KOŁO ",
+                "powiat": "KOLSKI ",
+                "adres": "KS. JÓZEFA PONIATOWSKIEGO 25 ",
+                "miejscowosc": null,
+                "kod": "62-600 ",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W KOLE ",
+                "poziom": "I stopień",
+                "www": "http://www.spzozkolo.pl/ ",
+                "telefon": "(063)26-26-140 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.618814565555336,
+                    52.18501484301716
+                ]
+            }
+        }
+    ]
 }

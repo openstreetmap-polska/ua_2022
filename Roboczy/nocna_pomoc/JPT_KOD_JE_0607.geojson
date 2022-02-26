@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0607",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 14, "JPT_KOD_JE": "0607", "JPT_NAZWA_": "powiat kraśnicki", "id": "104#73", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000106", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kraśniku", "miejscowosc": "Kraśnik ", "ulica": "Chopina ", "numer_domu": "13", "adres_swiadczeniodawcy": "Chopina 13", "telefon": "ul. Chopina 81 825 13 38; ul. Niepodległości: 81 825 48 13; 81 825 48 66", "dodatkowe_miejsce": "Niepodległości 25", "dodatkowe_informacje": null, "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Chopina", "g_miejsc": "Kraśnik", "g_adr": "13", "g_teryt": "0607011", "g_gm": "Kraśnik", "g_pow": "kraśnicki", "g_woj": "lubelskie", "g_szer": 22.223743173390833, "g_dlug": 50.931832290572324, "g_uuid": "05f42552-74bb-4ab4-8df2-50bdda9a1669", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 726447.368671072646976, 345499.220484186895192 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0607",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 14,
+                "JPT_KOD_JE": "0607",
+                "JPT_NAZWA_": "powiat kraśnicki",
+                "id": "104#73",
+                "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ",
+                "kod_swiadczeniodawcy": "30000106",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kraśniku",
+                "miejscowosc": "Kraśnik ",
+                "ulica": "Chopina ",
+                "numer_domu": "13",
+                "adres_swiadczeniodawcy": "Chopina 13",
+                "telefon": "ul. Chopina 81 825 13 38; ul. Niepodległości: 81 825 48 13; 81 825 48 66",
+                "dodatkowe_miejsce": "Niepodległości 25",
+                "dodatkowe_informacje": null,
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Chopina",
+                "g_miejsc": "Kraśnik",
+                "g_adr": "13",
+                "g_teryt": "0607011",
+                "g_gm": "Kraśnik",
+                "g_pow": "kraśnicki",
+                "g_woj": "lubelskie",
+                "g_szer": 22.223743173390833,
+                "g_dlug": 50.93183229057232,
+                "g_uuid": "05f42552-74bb-4ab4-8df2-50bdda9a1669",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.22374000002842,
+                    50.93183000001409
+                ]
+            }
+        }
+    ]
 }

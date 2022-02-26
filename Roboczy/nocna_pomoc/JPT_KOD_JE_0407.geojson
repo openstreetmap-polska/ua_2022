@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0407",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 11, "JPT_KOD_JE": "0407", "JPT_NAZWA_": "powiat inowrocławski", "id": "104#48", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20000777", "swiadczeniodawca": "Szpital Wielospecjalistyczny im. dr. L. Błażka w Inowrocławiu", "miejscowosc": "Inowrocław", "ulica": "Poznańska ", "numer_domu": "97", "adres_swiadczeniodawcy": "Poznańska 97", "telefon": "52 355-02-80", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.263015278368474, "g_dlug": 52.780815259366207, "g_uuid": "54234672-8a43-4cd3-a084-bf42a507dadb", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 450306.182715231087059, 546388.454884141683578 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0407",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 11,
+                "JPT_KOD_JE": "0407",
+                "JPT_NAZWA_": "powiat inowrocławski",
+                "id": "104#48",
+                "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "20000777",
+                "swiadczeniodawca": "Szpital Wielospecjalistyczny im. dr. L. Błażka w Inowrocławiu",
+                "miejscowosc": "Inowrocław",
+                "ulica": "Poznańska ",
+                "numer_domu": "97",
+                "adres_swiadczeniodawcy": "Poznańska 97",
+                "telefon": "52 355-02-80",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 18.263015278368474,
+                "g_dlug": 52.78081525936621,
+                "g_uuid": "54234672-8a43-4cd3-a084-bf42a507dadb",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.263019999999706,
+                    52.78082000001672
+                ]
+            }
+        }
+    ]
 }

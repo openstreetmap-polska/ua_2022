@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0611",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 15, "JPT_KOD_JE": "0611", "JPT_NAZWA_": "powiat łukowski", "id": "104#79", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000351", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Łukowie", "miejscowosc": "Łuków", "ulica": "Partyzantów ", "numer_domu": "10", "adres_swiadczeniodawcy": "Partyzantów 10", "telefon": "Łuków: 25 798 20 01; Stoczek Łukowski: 25 797 00 14; Wojcieszków: 25 755 41 17", "dodatkowe_miejsce": "1. Piłsudskiego 32; Stoczek Łukowski; 2. Parkowa 1; Wojcieszków", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Partyzantów", "g_miejsc": "Łuków", "g_adr": "10", "g_teryt": "0611011", "g_gm": "Łuków", "g_pow": "łukowski", "g_woj": "lubelskie", "g_szer": 22.382820254749848, "g_dlug": 51.924168520868356, "g_uuid": "620a8147-b28a-4a9b-9afa-21afedaac81b", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 732522.528646172489971, 456284.025062575936317 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0611",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 15,
+                "JPT_KOD_JE": "0611",
+                "JPT_NAZWA_": "powiat łukowski",
+                "id": "104#79",
+                "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ",
+                "kod_swiadczeniodawcy": "30000351",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Łukowie",
+                "miejscowosc": "Łuków",
+                "ulica": "Partyzantów ",
+                "numer_domu": "10",
+                "adres_swiadczeniodawcy": "Partyzantów 10",
+                "telefon": "Łuków: 25 798 20 01; Stoczek Łukowski: 25 797 00 14; Wojcieszków: 25 755 41 17",
+                "dodatkowe_miejsce": "1. Piłsudskiego 32; Stoczek Łukowski; 2. Parkowa 1; Wojcieszków",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Partyzantów",
+                "g_miejsc": "Łuków",
+                "g_adr": "10",
+                "g_teryt": "0611011",
+                "g_gm": "Łuków",
+                "g_pow": "łukowski",
+                "g_woj": "lubelskie",
+                "g_szer": 22.38282025474985,
+                "g_dlug": 51.924168520868356,
+                "g_uuid": "620a8147-b28a-4a9b-9afa-21afedaac81b",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.38282000003192,
+                    51.924170000015735
+                ]
+            }
+        }
+    ]
 }

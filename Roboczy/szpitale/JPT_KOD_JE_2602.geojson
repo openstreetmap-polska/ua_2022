@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2602",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 232, "JPT_KOD_JE": "2602", "JPT_NAZWA_": "powiat jędrzejowski", "id": 438, "wojewodztwo": "ŚWIĘTOKRZYSKIE", "miasto": "JĘDRZEJÓW", "powiat": "JĘDRZEJOWSKI", "adres": "MAŁOGOSKA 25", "miejscowosc": "JĘDRZEJÓW", "kod": null, "nazwa": "ARTMEDIK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "I stopień", "www": "http:\/\/szpital-jedrzejow.pl", "telefon": "41 386 17 21", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 592084.1, 309941.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2602",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 232,
+                "JPT_KOD_JE": "2602",
+                "JPT_NAZWA_": "powiat jędrzejowski",
+                "id": 438,
+                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
+                "miasto": "JĘDRZEJÓW",
+                "powiat": "JĘDRZEJOWSKI",
+                "adres": "MAŁOGOSKA 25",
+                "miejscowosc": "JĘDRZEJÓW",
+                "kod": null,
+                "nazwa": "ARTMEDIK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+                "poziom": "I stopień",
+                "www": "http://szpital-jedrzejow.pl",
+                "telefon": "41 386 17 21",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.30292348488111,
+                    50.64920128707711
+                ]
+            }
+        }
+    ]
 }

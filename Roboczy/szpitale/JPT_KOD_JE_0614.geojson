@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0614",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 387, "JPT_KOD_JE": "0614", "JPT_NAZWA_": "powiat puławski", "id": 81, "wojewodztwo": "lubelskie", "miasto": "PUŁAWY", "powiat": "PUŁAWSKI", "adres": "BEMA 1", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W PUŁAWACH", "poziom": "III stopień ", "www": "http:\/\/www.szpitalpulawy.pl", "telefon": "81 450 22 74, 450 22 77", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 706778.1, 399232.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0614",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 387,
+                "JPT_KOD_JE": "0614",
+                "JPT_NAZWA_": "powiat puławski",
+                "id": 81,
+                "wojewodztwo": "lubelskie",
+                "miasto": "PUŁAWY",
+                "powiat": "PUŁAWSKI",
+                "adres": "BEMA 1",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W PUŁAWACH",
+                "poziom": "III stopień ",
+                "www": "http://www.szpitalpulawy.pl",
+                "telefon": "81 450 22 74, 450 22 77",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.97507376006144,
+                    51.42190106971029
+                ]
+            }
+        }
+    ]
 }

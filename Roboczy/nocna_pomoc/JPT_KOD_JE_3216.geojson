@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3216",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 204, "JPT_KOD_JE": "3216", "JPT_NAZWA_": "powiat świdwiński", "id": "104#524", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160005185", "swiadczeniodawca": "Przyjazny Szpital Połczyn-Zdrój Sp. z o.o.", "miejscowosc": "Połczyn-Zdrój", "ulica": "Szpitalna ", "numer_domu": "5", "adres_swiadczeniodawcy": "Szpitalna 5", "telefon": "Połczyn-Zdrój: 94 366 18 29;\r\nŚwidwin: 94 364 96 14", "dodatkowe_miejsce": "78-300 Świdwin,\r\nUL. Kościuszki 23A", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Połczyn-Zdrój", "g_adr": "5", "g_teryt": "3216033", "g_gm": "Połczyn-Zdrój", "g_pow": "świdwiński", "g_woj": "zachodniopomorskie", "g_szer": 16.089601493585093, "g_dlug": 53.762825909930214, "g_uuid": "c2f22ae7-4bd5-4039-8e85-6e9286eabfac", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 308224.250254566315562, 659276.738760053180158 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3216",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 204,
+                "JPT_KOD_JE": "3216",
+                "JPT_NAZWA_": "powiat świdwiński",
+                "id": "104#524",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160005185",
+                "swiadczeniodawca": "Przyjazny Szpital Połczyn-Zdrój Sp. z o.o.",
+                "miejscowosc": "Połczyn-Zdrój",
+                "ulica": "Szpitalna ",
+                "numer_domu": "5",
+                "adres_swiadczeniodawcy": "Szpitalna 5",
+                "telefon": "Połczyn-Zdrój: 94 366 18 29;\r\nŚwidwin: 94 364 96 14",
+                "dodatkowe_miejsce": "78-300 Świdwin,\r\nUL. Kościuszki 23A",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szpitalna",
+                "g_miejsc": "Połczyn-Zdrój",
+                "g_adr": "5",
+                "g_teryt": "3216033",
+                "g_gm": "Połczyn-Zdrój",
+                "g_pow": "świdwiński",
+                "g_woj": "zachodniopomorskie",
+                "g_szer": 16.089601493585093,
+                "g_dlug": 53.762825909930214,
+                "g_uuid": "c2f22ae7-4bd5-4039-8e85-6e9286eabfac",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.089599999987545,
+                    53.76283000001847
+                ]
+            }
+        }
+    ]
 }

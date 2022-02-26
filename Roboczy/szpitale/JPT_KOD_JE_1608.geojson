@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1608",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 528, "JPT_KOD_JE": "1608", "JPT_NAZWA_": "powiat oleski", "id": 280, "wojewodztwo": "opolskie", "miasto": "Olesno", "powiat": "oleski", "adres": "Klonowa 1", "miejscowosc": "Olesno", "kod": "46-300 ", "nazwa": "Zespół Opieki Zdrowotnej w Oleśnie", "poziom": "I stopień", "www": "http:\/\/www.szpitalolesno.pl", "telefon": "34 350 96 65", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 458754.5, 335019.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1608",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 528,
+                "JPT_KOD_JE": "1608",
+                "JPT_NAZWA_": "powiat oleski",
+                "id": 280,
+                "wojewodztwo": "opolskie",
+                "miasto": "Olesno",
+                "powiat": "oleski",
+                "adres": "Klonowa 1",
+                "miejscowosc": "Olesno",
+                "kod": "46-300 ",
+                "nazwa": "Zespół Opieki Zdrowotnej w Oleśnie",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalolesno.pl",
+                "telefon": "34 350 96 65",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.41352807353526,
+                    50.880602454142284
+                ]
+            }
+        }
+    ]
 }

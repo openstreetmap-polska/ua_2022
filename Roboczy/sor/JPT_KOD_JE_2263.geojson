@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2263",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2263", "JPT_NAZWA_": "powiat Słupsk", "id": 58, "ksiega": 386659, "id zoz": 471578, "id jednostki": "754825", "id komórki": 6577290, "regon": 77090151100022, "kod jednostki": "01", "kod komórki": 16, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Słupsk - gmina miejska", "ulica": "ul. Hubalczyków", "budynek": "1", "lokal": "NULL", "kod": "76-200", "miejscowosc": "Słupsk", "teryt": 2263011, "kod simc": 977278, "kod ulicy": "06776", "lozka": 13, "liczba łóżek iom": 5, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-01-01" }, "geometry": { "type": "Point", "coordinates": [ 374292.7893, 733677.571499999962 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2263",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2263",
+                "JPT_NAZWA_": "powiat Słupsk",
+                "id": 58,
+                "ksiega": 386659,
+                "id zoz": 471578,
+                "id jednostki": "754825",
+                "id komórki": 6577290,
+                "regon": 77090151100022,
+                "kod jednostki": "01",
+                "kod komórki": 16,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Słupsk - gmina miejska",
+                "ulica": "ul. Hubalczyków",
+                "budynek": "1",
+                "lokal": "NULL",
+                "kod": "76-200",
+                "miejscowosc": "Słupsk",
+                "teryt": 2263011,
+                "kod simc": 977278,
+                "kod ulicy": "06776",
+                "lozka": 13,
+                "liczba łóżek iom": 5,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2000-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.060514893373444,
+                    54.451494598157296
+                ]
+            }
+        }
+    ]
 }

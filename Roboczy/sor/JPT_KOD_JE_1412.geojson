@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1412",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1412", "JPT_NAZWA_": "powiat miński", "id": 52, "ksiega": 386139, "id zoz": 470701, "id jednostki": "752567", "id komórki": 6552785, "regon": 71235110000024, "kod jednostki": "01", "kod komórki": 6, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Mińsk Mazowiecki - gmina miejska", "ulica": "ul. Szpitalna", "budynek": "37", "lokal": "NULL", "kod": "05-300", "miejscowosc": "Mińsk Mazowiecki", "teryt": 1412011, "kod simc": 975687, "kod ulicy": "22073", "lozka": 10, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-12-01" }, "geometry": { "type": "Point", "coordinates": [ 676217.6576, 481773.494200001005083 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1412",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1412",
+                "JPT_NAZWA_": "powiat miński",
+                "id": 52,
+                "ksiega": 386139,
+                "id zoz": 470701,
+                "id jednostki": "752567",
+                "id komórki": 6552785,
+                "regon": 71235110000024,
+                "kod jednostki": "01",
+                "kod komórki": 6,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Mińsk Mazowiecki - gmina miejska",
+                "ulica": "ul. Szpitalna",
+                "budynek": "37",
+                "lokal": "NULL",
+                "kod": "05-300",
+                "miejscowosc": "Mińsk Mazowiecki",
+                "teryt": 1412011,
+                "kod simc": 975687,
+                "kod ulicy": "22073",
+                "lozka": 10,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-12-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.577862797609047,
+                    52.173863927913466
+                ]
+            }
+        }
+    ]
 }

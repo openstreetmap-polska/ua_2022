@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0402",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0402", "JPT_NAZWA_": "powiat brodnicki", "id": 200, "ksiega": 391945, "id zoz": 481780, "id jednostki": "777966", "id komórki": 6845301, "regon": 30232700042, "kod jednostki": "01", "kod komórki": 7, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Brodnica - gmina miejska", "ulica": "ul. Wiejska", "budynek": "9", "lokal": "NULL", "kod": "87-300", "miejscowosc": "Brodnica", "teryt": 402011, "kod simc": 982954, "kod ulicy": "24048", "lozka": 6, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-07-01" }, "geometry": { "type": "Point", "coordinates": [ 526391.705810185987502, 599674.2952435730258 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0402",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0402",
+                "JPT_NAZWA_": "powiat brodnicki",
+                "id": 200,
+                "ksiega": 391945,
+                "id zoz": 481780,
+                "id jednostki": "777966",
+                "id komórki": 6845301,
+                "regon": 30232700042,
+                "kod jednostki": "01",
+                "kod komórki": 7,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Brodnica - gmina miejska",
+                "ulica": "ul. Wiejska",
+                "budynek": "9",
+                "lokal": "NULL",
+                "kod": "87-300",
+                "miejscowosc": "Brodnica",
+                "teryt": 402011,
+                "kod simc": 982954,
+                "kod ulicy": "24048",
+                "lozka": 6,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2002-07-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.39577351514574,
+                    53.26160318741965
+                ]
+            }
+        }
+    ]
 }

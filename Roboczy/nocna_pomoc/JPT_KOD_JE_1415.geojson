@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1415",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 354, "JPT_KOD_JE": "1415", "JPT_NAZWA_": "powiat ostrołęcki", "id": "104#187", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70061746", "swiadczeniodawca": "Petra Medica Sp. z o. o.w Warszawie; ul. Grochowska 166 ", "miejscowosc": "Drężewo", "ulica": "Cisowa ", "numer_domu": "7", "adres_swiadczeniodawcy": "Cisowa 7", "telefon": "22 113-97-93", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Cisowa", "g_miejsc": "Drężewo", "g_adr": "7", "g_teryt": "1415092", "g_gm": "Olszewo-Borki", "g_pow": "ostrołęcki", "g_woj": "mazowieckie", "g_szer": 21.540768028447982, "g_dlug": 53.081963299886446, "g_uuid": "6b2c8a09-78ff-46ed-ba64-1c64a031b8d5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 670122.379401291138493, 582639.411199779249728 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1415",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 354,
+                "JPT_KOD_JE": "1415",
+                "JPT_NAZWA_": "powiat ostrołęcki",
+                "id": "104#187",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70061746",
+                "swiadczeniodawca": "Petra Medica Sp. z o. o.w Warszawie; ul. Grochowska 166 ",
+                "miejscowosc": "Drężewo",
+                "ulica": "Cisowa ",
+                "numer_domu": "7",
+                "adres_swiadczeniodawcy": "Cisowa 7",
+                "telefon": "22 113-97-93",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Cisowa",
+                "g_miejsc": "Drężewo",
+                "g_adr": "7",
+                "g_teryt": "1415092",
+                "g_gm": "Olszewo-Borki",
+                "g_pow": "ostrołęcki",
+                "g_woj": "mazowieckie",
+                "g_szer": 21.54076802844798,
+                "g_dlug": 53.081963299886446,
+                "g_uuid": "6b2c8a09-78ff-46ed-ba64-1c64a031b8d5",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.540770000007296,
+                    53.081960000017254
+                ]
+            }
+        }
+    ]
 }

@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0616",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 308, "JPT_KOD_JE": "0616", "JPT_NAZWA_": "powiat rycki", "id": 59, "wojewodztwo": "lubelskie", "miasto": "DĘBLIN", "powiat": "RYCKI", "adres": "SZPITALNA 2", "miejscowosc": null, "kod": null, "nazwa": "6 SZPITAL WOJSKOWY Z PRZYCHODNIĄ SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W DĘBLINIE", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.szpitaldeblin.pl", "telefon": "81 551 85 03", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 697941.1, 413646.1 ] } },
-{ "type": "Feature", "properties": { "_uid_": 309, "JPT_KOD_JE": "0616", "JPT_NAZWA_": "powiat rycki", "id": 83, "wojewodztwo": "lubelskie", "miasto": "RYKI", "powiat": "RYCKI", "adres": "ŻYTNIA 23 ", "miejscowosc": null, "kod": null, "nazwa": "AMG CENTRUM MEDYCZNE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "I stopień", "www": "http:\/\/www.amgfinanse.pl\/amg_centrum_medyczne_sp_z_oo_ryki.html", "telefon": "81 465 32 54", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 702787.9, 421308.8 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0616",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 308,
+                "JPT_KOD_JE": "0616",
+                "JPT_NAZWA_": "powiat rycki",
+                "id": 59,
+                "wojewodztwo": "lubelskie",
+                "miasto": "DĘBLIN",
+                "powiat": "RYCKI",
+                "adres": "SZPITALNA 2",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "6 SZPITAL WOJSKOWY Z PRZYCHODNIĄ SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W DĘBLINIE",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.szpitaldeblin.pl",
+                "telefon": "81 551 85 03",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.856187487443506,
+                    51.55453988429884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 309,
+                "JPT_KOD_JE": "0616",
+                "JPT_NAZWA_": "powiat rycki",
+                "id": 83,
+                "wojewodztwo": "lubelskie",
+                "miasto": "RYKI",
+                "powiat": "RYCKI",
+                "adres": "ŻYTNIA 23 ",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "AMG CENTRUM MEDYCZNE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+                "poziom": "I stopień",
+                "www": "http://www.amgfinanse.pl/amg_centrum_medyczne_sp_z_oo_ryki.html",
+                "telefon": "81 465 32 54",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.93045595617798,
+                    51.62164830378605
+                ]
+            }
+        }
+    ]
 }

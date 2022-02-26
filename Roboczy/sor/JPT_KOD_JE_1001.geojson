@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1001",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1001", "JPT_NAZWA_": "powiat bełchatowski", "id": 214, "ksiega": 392253, "id zoz": 482390, "id jednostki": "779551", "id komórki": 6864066, "regon": 30650300040, "kod jednostki": "01", "kod komórki": 115, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Bełchatów - gmina miejska", "ulica": "ul. Czapliniecka", "budynek": "123", "lokal": "NULL", "kod": "97-400", "miejscowosc": "Bełchatów", "teryt": 1001011, "kod simc": 967647, "kod ulicy": "03252", "lozka": 8, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-12-02" }, "geometry": { "type": "Point", "coordinates": [ 524368.0, 389826.58 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1001",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1001",
+                "JPT_NAZWA_": "powiat bełchatowski",
+                "id": 214,
+                "ksiega": 392253,
+                "id zoz": 482390,
+                "id jednostki": "779551",
+                "id komórki": 6864066,
+                "regon": 30650300040,
+                "kod jednostki": "01",
+                "kod komórki": 115,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Bełchatów - gmina miejska",
+                "ulica": "ul. Czapliniecka",
+                "budynek": "123",
+                "lokal": "NULL",
+                "kod": "97-400",
+                "miejscowosc": "Bełchatów",
+                "teryt": 1001011,
+                "kod simc": 967647,
+                "kod ulicy": "03252",
+                "lozka": 8,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-12-02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.35020465629188,
+                    51.3745402996888
+                ]
+            }
+        }
+    ]
 }

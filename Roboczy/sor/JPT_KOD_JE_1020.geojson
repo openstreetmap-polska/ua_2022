@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1020",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1020", "JPT_NAZWA_": "powiat zgierski", "id": 156, "ksiega": 391280, "id zoz": 480369, "id jednostki": "774308", "id komórki": 6800367, "regon": 67763600029, "kod jednostki": "01", "kod komórki": 88, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Zgierz - gmina miejska", "ulica": "ul. Parzęczewska", "budynek": "35", "lokal": "NULL", "kod": "95-100", "miejscowosc": "Zgierz", "teryt": 1020031, "kod simc": 959263, "kod ulicy": "15746", "lozka": 5, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-11-04" }, "geometry": { "type": "Point", "coordinates": [ 526788.9, 444104.95 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1020",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1020",
+                "JPT_NAZWA_": "powiat zgierski",
+                "id": 156,
+                "ksiega": 391280,
+                "id zoz": 480369,
+                "id jednostki": "774308",
+                "id komórki": 6800367,
+                "regon": 67763600029,
+                "kod jednostki": "01",
+                "kod komórki": 88,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Zgierz - gmina miejska",
+                "ulica": "ul. Parzęczewska",
+                "budynek": "35",
+                "lokal": "NULL",
+                "kod": "95-100",
+                "miejscowosc": "Zgierz",
+                "teryt": 1020031,
+                "kod simc": 959263,
+                "kod ulicy": "15746",
+                "lozka": 5,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-11-04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.38914891754963,
+                    51.86261294535705
+                ]
+            }
+        }
+    ]
 }

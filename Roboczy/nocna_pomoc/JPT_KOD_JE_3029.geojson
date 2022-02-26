@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3029",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 529, "JPT_KOD_JE": "3029", "JPT_NAZWA_": "powiat wolsztyński", "id": "104#506", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150003539", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Wolsztynie", "miejscowosc": "Wolsztyn", "ulica": "Wschowska ", "numer_domu": "3", "adres_swiadczeniodawcy": "Wschowska 3", "telefon": "68 347 73 39\r\n68 347 73 02", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Wschowska", "g_miejsc": "Wolsztyn", "g_adr": "3", "g_teryt": "3029033", "g_gm": "Wolsztyn", "g_pow": "wolsztyński", "g_woj": "wielkopolskie", "g_szer": 16.117287838383469, "g_dlug": 52.116686524136782, "g_uuid": "f41fb293-0629-43a8-b19d-2523df3a156e", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 302695.02607441629516, 476202.984881950542331 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3029",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 529,
+                "JPT_KOD_JE": "3029",
+                "JPT_NAZWA_": "powiat wolsztyński",
+                "id": "104#506",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150003539",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Wolsztynie",
+                "miejscowosc": "Wolsztyn",
+                "ulica": "Wschowska ",
+                "numer_domu": "3",
+                "adres_swiadczeniodawcy": "Wschowska 3",
+                "telefon": "68 347 73 39\r\n68 347 73 02",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Wschowska",
+                "g_miejsc": "Wolsztyn",
+                "g_adr": "3",
+                "g_teryt": "3029033",
+                "g_gm": "Wolsztyn",
+                "g_pow": "wolsztyński",
+                "g_woj": "wielkopolskie",
+                "g_szer": 16.11728783838347,
+                "g_dlug": 52.11668652413678,
+                "g_uuid": "f41fb293-0629-43a8-b19d-2523df3a156e",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.117289999985598,
+                    52.116690000015765
+                ]
+            }
+        }
+    ]
 }

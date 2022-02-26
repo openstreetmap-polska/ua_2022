@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2061",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 494, "JPT_KOD_JE": "2061", "JPT_NAZWA_": "powiat Białystok", "id": "104#307", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100001652", "swiadczeniodawca": "Samodzielny Szpital Miejski im. PCK ", "miejscowosc": " Białystok ", "ulica": "Sienkiewicza  ", "numer_domu": "79", "adres_swiadczeniodawcy": "Sienkiewicza 79 ", "telefon": " 85 652 25 05; NiŚOZ wyjazdowa: 85 663 73 10 – lekarz; 85 663 73 09 – pielęgniarka", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sienkiewicza", "g_miejsc": "Białystok", "g_adr": "79", "g_teryt": "2061011", "g_gm": "Białystok", "g_pow": "Białystok", "g_woj": "podlaskie", "g_szer": 23.171446392283979, "g_dlug": 53.140371941304679, "g_uuid": "1cedcb44-b911-4f43-a470-202bd24fed57", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 778885.954162945505232, 594247.709978021681309 ] } },
-{ "type": "Feature", "properties": { "gid": 495, "JPT_KOD_JE": "2061", "JPT_NAZWA_": "powiat Białystok", "id": "104#308", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000087", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Wojewódzki Szpital Zespolony im. J. Śniadeckiego", "miejscowosc": "Białystok", "ulica": " Skłodowskiej ", "numer_domu": "26", "adres_swiadczeniodawcy": " Skłodowskiej 26", "telefon": "85 748 81 26; 748 81 27;  NiŚOZ wyjazdowa: 85 66 37 310", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "M. Curie-Skłodowskiej", "g_miejsc": "Białystok", "g_adr": "26", "g_teryt": "2061011", "g_gm": "Białystok", "g_pow": "Białystok", "g_woj": "podlaskie", "g_szer": 23.162637665467848, "g_dlug": 53.125024760187088, "g_uuid": "dbdbbb5d-5786-4d8b-a134-b1b50e7bba0d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 778396.569050653022714, 592507.569237709976733 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2061",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 494,
+                "JPT_KOD_JE": "2061",
+                "JPT_NAZWA_": "powiat Białystok",
+                "id": "104#307",
+                "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ",
+                "kod_swiadczeniodawcy": "100001652",
+                "swiadczeniodawca": "Samodzielny Szpital Miejski im. PCK ",
+                "miejscowosc": " Białystok ",
+                "ulica": "Sienkiewicza  ",
+                "numer_domu": "79",
+                "adres_swiadczeniodawcy": "Sienkiewicza 79 ",
+                "telefon": " 85 652 25 05; NiŚOZ wyjazdowa: 85 663 73 10 – lekarz; 85 663 73 09 – pielęgniarka",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Sienkiewicza",
+                "g_miejsc": "Białystok",
+                "g_adr": "79",
+                "g_teryt": "2061011",
+                "g_gm": "Białystok",
+                "g_pow": "Białystok",
+                "g_woj": "podlaskie",
+                "g_szer": 23.17144639228398,
+                "g_dlug": 53.14037194130468,
+                "g_uuid": "1cedcb44-b911-4f43-a470-202bd24fed57",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.171450000073317,
+                    53.1403700000192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 495,
+                "JPT_KOD_JE": "2061",
+                "JPT_NAZWA_": "powiat Białystok",
+                "id": "104#308",
+                "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ",
+                "kod_swiadczeniodawcy": "100000087",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Wojewódzki Szpital Zespolony im. J. Śniadeckiego",
+                "miejscowosc": "Białystok",
+                "ulica": " Skłodowskiej ",
+                "numer_domu": "26",
+                "adres_swiadczeniodawcy": " Skłodowskiej 26",
+                "telefon": "85 748 81 26; 748 81 27;  NiŚOZ wyjazdowa: 85 66 37 310",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "M. Curie-Skłodowskiej",
+                "g_miejsc": "Białystok",
+                "g_adr": "26",
+                "g_teryt": "2061011",
+                "g_gm": "Białystok",
+                "g_pow": "Białystok",
+                "g_woj": "podlaskie",
+                "g_szer": 23.162637665467848,
+                "g_dlug": 53.12502476018709,
+                "g_uuid": "dbdbbb5d-5786-4d8b-a134-b1b50e7bba0d",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.162640000072777,
+                    53.12502000001915
+                ]
+            }
+        }
+    ]
 }

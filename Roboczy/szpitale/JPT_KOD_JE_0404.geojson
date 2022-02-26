@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0404",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 294, "JPT_KOD_JE": "0404", "JPT_NAZWA_": "powiat chełmiński", "id": 34, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Chełmno", "powiat": "chełmiński", "adres": "Plac Dr Rydygiera 1", "miejscowosc": null, "kod": null, "nazwa": "Zespół Opieki Zdrowotnej w Chełmnie", "poziom": "I stopień", "www": "http:\/\/www.zozchelmno.pl", "telefon": "56 677 26 56", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 461444.2, 608942.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0404",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 294,
+                "JPT_KOD_JE": "0404",
+                "JPT_NAZWA_": "powiat chełmiński",
+                "id": 34,
+                "wojewodztwo": "kujawsko-pomorskie",
+                "miasto": "Chełmno",
+                "powiat": "chełmiński",
+                "adres": "Plac Dr Rydygiera 1",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Zespół Opieki Zdrowotnej w Chełmnie",
+                "poziom": "I stopień",
+                "www": "http://www.zozchelmno.pl",
+                "telefon": "56 677 26 56",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.42069395366501,
+                    53.34419239656422
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3025",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 126, "JPT_KOD_JE": "3025", "JPT_NAZWA_": "powiat średzki", "id": 384, "wojewodztwo": "wielkopolskie", "miasto": "ŚRODA WIELKOPOLSKA ", "powiat": "ŚREDZKI ", "adres": "ŻWIRKI I WIGURY 10 ", "miejscowosc": null, "kod": "63-000 ", "nazwa": "SZPITAL ŚREDZKI SERCA JEZUSOWEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ ", "poziom": "I stopień", "www": "http:\/\/www.szpitalsredzki.pl\/ ", "telefon": "(061)28-54-031 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 382901.9, 485981.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3025",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 126,
+                "JPT_KOD_JE": "3025",
+                "JPT_NAZWA_": "powiat średzki",
+                "id": 384,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "ŚRODA WIELKOPOLSKA ",
+                "powiat": "ŚREDZKI ",
+                "adres": "ŻWIRKI I WIGURY 10 ",
+                "miejscowosc": null,
+                "kod": "63-000 ",
+                "nazwa": "SZPITAL ŚREDZKI SERCA JEZUSOWEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ ",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalsredzki.pl/ ",
+                "telefon": "(061)28-54-031 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.285007676092228,
+                    52.2274204033028
+                ]
+            }
+        }
+    ]
 }

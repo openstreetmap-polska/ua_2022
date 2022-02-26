@@ -1,10 +1,93 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2415",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 428, "JPT_KOD_JE": "2415", "JPT_NAZWA_": "powiat wodzisławski", "id": 505, "wojewodztwo": "śląskie", "miasto": "wodzisławski", "powiat": "Rydułtowy", "adres": "Plebiscytowa 47", "miejscowosc": "Rydułtowy ", "kod": null, "nazwa": "Powiatowy Publiczny Zakład Opieki Zdrowotnej w Rydułtowach i Wodzisławiu Śląskim z siedzibą w Wodzisławiu Śląskim", "poziom": "I stopień", "www": "http:\/\/www.zoz.wodzislaw.pl", "telefon": "32 459 24 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 458717.1, 243682.1 ] } },
-{ "type": "Feature", "properties": { "_uid_": 429, "JPT_KOD_JE": "2415", "JPT_NAZWA_": "powiat wodzisławski", "id": 457, "wojewodztwo": "śląskie", "miasto": "wodzisławski", "powiat": "Wodzisław Śląski", "adres": "Bracka 13", "miejscowosc": "Wodzisław Śląski", "kod": null, "nazwa": "Wojewódzki Szpital Chorób Płuc im. dr Alojzego Pawelca", "poziom": "Szpital pulmonologiczny", "www": "http:\/\/www.wscp.wodzislaw.pl", "telefon": "32 453 71 10", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 463418.4, 236885.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 430, "JPT_KOD_JE": "2415", "JPT_NAZWA_": "powiat wodzisławski", "id": 504, "wojewodztwo": "śląskie", "miasto": "wodzisławski", "powiat": "Wodzisław Śląski", "adres": "26 Marca 51", "miejscowosc": "Wodzisław Śląski", "kod": null, "nazwa": "Powiatowy Publiczny Zakład Opieki Zdrowotnej w Rydułtowach i Wodzisławiu Śląskim z siedzibą w Wodzisławiu Śląskim", "poziom": "I stopień", "www": "http:\/\/www.zoz.wodzislaw.pl", "telefon": "32 459 18 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 461457.4, 238185.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2415",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 428,
+                "JPT_KOD_JE": "2415",
+                "JPT_NAZWA_": "powiat wodzisławski",
+                "id": 505,
+                "wojewodztwo": "śląskie",
+                "miasto": "wodzisławski",
+                "powiat": "Rydułtowy",
+                "adres": "Plebiscytowa 47",
+                "miejscowosc": "Rydułtowy ",
+                "kod": null,
+                "nazwa": "Powiatowy Publiczny Zakład Opieki Zdrowotnej w Rydułtowach i Wodzisławiu Śląskim z siedzibą w Wodzisławiu Śląskim",
+                "poziom": "I stopień",
+                "www": "http://www.zoz.wodzislaw.pl",
+                "telefon": "32 459 24 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.423082245203037,
+                    50.05896708501748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 429,
+                "JPT_KOD_JE": "2415",
+                "JPT_NAZWA_": "powiat wodzisławski",
+                "id": 457,
+                "wojewodztwo": "śląskie",
+                "miasto": "wodzisławski",
+                "powiat": "Wodzisław Śląski",
+                "adres": "Bracka 13",
+                "miejscowosc": "Wodzisław Śląski",
+                "kod": null,
+                "nazwa": "Wojewódzki Szpital Chorób Płuc im. dr Alojzego Pawelca",
+                "poziom": "Szpital pulmonologiczny",
+                "www": "http://www.wscp.wodzislaw.pl",
+                "telefon": "32 453 71 10",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.489427404314252,
+                    49.99812771940454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 430,
+                "JPT_KOD_JE": "2415",
+                "JPT_NAZWA_": "powiat wodzisławski",
+                "id": 504,
+                "wojewodztwo": "śląskie",
+                "miasto": "wodzisławski",
+                "powiat": "Wodzisław Śląski",
+                "adres": "26 Marca 51",
+                "miejscowosc": "Wodzisław Śląski",
+                "kod": null,
+                "nazwa": "Powiatowy Publiczny Zakład Opieki Zdrowotnej w Rydułtowach i Wodzisławiu Śląskim z siedzibą w Wodzisławiu Śląskim",
+                "poziom": "I stopień",
+                "www": "http://www.zoz.wodzislaw.pl",
+                "telefon": "32 459 18 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.461928285570448,
+                    50.00969751832706
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0210",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 1, "JPT_KOD_JE": "0210", "JPT_NAZWA_": "powiat lubański", "id": "104#14", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3402018", "swiadczeniodawca": "NZOZ Łużyckie Centrum Medyczne w Lubaniu", "miejscowosc": "Lubań\r\n", "ulica": "Zawidowska ", "numer_domu": "4", "adres_swiadczeniodawcy": "Zawidowska 4", "telefon": "75 721 37 18;\r\n75 721 39 20 wew. 231 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Zawidowska", "g_miejsc": "Lubań", "g_adr": "4", "g_teryt": "0210011", "g_gm": "Lubań", "g_pow": "lubański", "g_woj": "dolnośląskie", "g_szer": 15.272202277796671, "g_dlug": 51.116559715237102, "g_uuid": "050459e2-ae61-4cdf-bd4d-00c9875dbe1a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 239194.94279136849218, 367695.98739505186677 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0210",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 1,
+                "JPT_KOD_JE": "0210",
+                "JPT_NAZWA_": "powiat lubański",
+                "id": "104#14",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3402018",
+                "swiadczeniodawca": "NZOZ Łużyckie Centrum Medyczne w Lubaniu",
+                "miejscowosc": "Lubań\r\n",
+                "ulica": "Zawidowska ",
+                "numer_domu": "4",
+                "adres_swiadczeniodawcy": "Zawidowska 4",
+                "telefon": "75 721 37 18;\r\n75 721 39 20 wew. 231 ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Zawidowska",
+                "g_miejsc": "Lubań",
+                "g_adr": "4",
+                "g_teryt": "0210011",
+                "g_gm": "Lubań",
+                "g_pow": "lubański",
+                "g_woj": "dolnośląskie",
+                "g_szer": 15.272202277796671,
+                "g_dlug": 51.1165597152371,
+                "g_uuid": "050459e2-ae61-4cdf-bd4d-00c9875dbe1a",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.272199999942446,
+                    51.11656000001489
+                ]
+            }
+        }
+    ]
 }

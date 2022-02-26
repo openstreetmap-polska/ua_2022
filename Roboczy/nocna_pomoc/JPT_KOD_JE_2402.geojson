@@ -1,11 +1,168 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2402",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 75, "JPT_KOD_JE": "2402", "JPT_NAZWA_": "powiat bielski", "id": "104#385", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "122\/100160", "swiadczeniodawca": "Bielskie Pogotowie Ratunkowe w Bielsku-Białej", "miejscowosc": "Kobiernice", "ulica": "Żywiecka ", "numer_domu": "10", "adres_swiadczeniodawcy": "Żywiecka 10", "telefon": "33 810 03 95, \r\n533 355 112", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Żywiecka", "g_miejsc": "Kobiernice", "g_adr": "10", "g_teryt": "2402082", "g_gm": "Porąbka", "g_pow": "bielski", "g_woj": "śląskie", "g_szer": 19.216230518021334, "g_dlug": 49.846565132378444, "g_uuid": "773ca524-c19e-4888-bd13-d4be421c7f72", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 515541.161407535197213, 219937.160419565625489 ] } },
-{ "type": "Feature", "properties": { "gid": 177, "JPT_KOD_JE": "2402", "JPT_NAZWA_": "powiat bielski", "id": "104#368", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "122\/100160", "swiadczeniodawca": "Bielskie Pogotowie Ratunkowe w Bielsku-Białej", "miejscowosc": "Czechowice-Dziedzice", "ulica": "Żwirki i Wigury ", "numer_domu": "1", "adres_swiadczeniodawcy": "Żwirki i Wigury 1", "telefon": "32 215 20 00;\r\nlekarz: 533 358 112;\r\npielęgniarka: 533 359 112", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 19.012002566087066, "g_dlug": 49.912797952910537, "g_uuid": "ecd722d2-7913-45de-bc1a-833d9ac27df1", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 500861.300838708761148, 227276.205917815677822 ] } },
-{ "type": "Feature", "properties": { "gid": 277, "JPT_KOD_JE": "2402", "JPT_NAZWA_": "powiat bielski", "id": "104#375", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "122\/100160", "swiadczeniodawca": "Bielskie Pogotowie Ratunkowe w Bielsku-Białej", "miejscowosc": "Jasienica", "ulica": "Jasienica ", "numer_domu": "845", "adres_swiadczeniodawcy": "Jasienica 845", "telefon": "33 812 34 12; \r\n506 534 773", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.918751297994756, "g_dlug": 49.813476661809666, "g_uuid": "21fe4304-86e0-470c-a614-e61ddc0edc21", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 494156.307859857275616, 216240.026625254191458 ] } },
-{ "type": "Feature", "properties": { "gid": 288, "JPT_KOD_JE": "2402", "JPT_NAZWA_": "powiat bielski", "id": "104#410", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "122\/100149", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Kolejowy w Wilkowicach-Bystrej", "miejscowosc": "Wilkowice", "ulica": "Żywiecka ", "numer_domu": "19", "adres_swiadczeniodawcy": "Żywiecka 19", "telefon": "Wilkowice: 33 812 20 20 ub 28 wew. 136; 600 429 203\r\nSzczyrk: 33 817 86 90;\r\nlekarz: 533 356 112, pielęgniarka: 533 357 112", "dodatkowe_miejsce": "Bielskie Pogotowie Ratunkowe\r\nSzczyrk,\r\nul. Zdrowia 1", "dodatkowe_informacje": "wizyty pielęgniarskie ambulatoryjne", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Żywiecka", "g_miejsc": "Wilkowice", "g_adr": "19", "g_teryt": "2402102", "g_gm": "Wilkowice", "g_pow": "bielski", "g_woj": "śląskie", "g_szer": 19.089740094858364, "g_dlug": 49.772732771541655, "g_uuid": "ca45614e-9053-4bb8-8227-30f2b0510807", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 506459.730740207247436, 211711.474543845281005 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2402",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 75,
+                "JPT_KOD_JE": "2402",
+                "JPT_NAZWA_": "powiat bielski",
+                "id": "104#385",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "122/100160",
+                "swiadczeniodawca": "Bielskie Pogotowie Ratunkowe w Bielsku-Białej",
+                "miejscowosc": "Kobiernice",
+                "ulica": "Żywiecka ",
+                "numer_domu": "10",
+                "adres_swiadczeniodawcy": "Żywiecka 10",
+                "telefon": "33 810 03 95, \r\n533 355 112",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Żywiecka",
+                "g_miejsc": "Kobiernice",
+                "g_adr": "10",
+                "g_teryt": "2402082",
+                "g_gm": "Porąbka",
+                "g_pow": "bielski",
+                "g_woj": "śląskie",
+                "g_szer": 19.216230518021334,
+                "g_dlug": 49.846565132378444,
+                "g_uuid": "773ca524-c19e-4888-bd13-d4be421c7f72",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.216230000000056,
+                    49.8465700000123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 177,
+                "JPT_KOD_JE": "2402",
+                "JPT_NAZWA_": "powiat bielski",
+                "id": "104#368",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "122/100160",
+                "swiadczeniodawca": "Bielskie Pogotowie Ratunkowe w Bielsku-Białej",
+                "miejscowosc": "Czechowice-Dziedzice",
+                "ulica": "Żwirki i Wigury ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Żwirki i Wigury 1",
+                "telefon": "32 215 20 00;\r\nlekarz: 533 358 112;\r\npielęgniarka: 533 359 112",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 19.012002566087066,
+                "g_dlug": 49.91279795291054,
+                "g_uuid": "ecd722d2-7913-45de-bc1a-833d9ac27df1",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.012000000000004,
+                    49.91280000001238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 277,
+                "JPT_KOD_JE": "2402",
+                "JPT_NAZWA_": "powiat bielski",
+                "id": "104#375",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "122/100160",
+                "swiadczeniodawca": "Bielskie Pogotowie Ratunkowe w Bielsku-Białej",
+                "miejscowosc": "Jasienica",
+                "ulica": "Jasienica ",
+                "numer_domu": "845",
+                "adres_swiadczeniodawcy": "Jasienica 845",
+                "telefon": "33 812 34 12; \r\n506 534 773",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 18.918751297994756,
+                "g_dlug": 49.813476661809666,
+                "g_uuid": "21fe4304-86e0-470c-a614-e61ddc0edc21",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.91874999999998,
+                    49.81348000001225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 288,
+                "JPT_KOD_JE": "2402",
+                "JPT_NAZWA_": "powiat bielski",
+                "id": "104#410",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "122/100149",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Kolejowy w Wilkowicach-Bystrej",
+                "miejscowosc": "Wilkowice",
+                "ulica": "Żywiecka ",
+                "numer_domu": "19",
+                "adres_swiadczeniodawcy": "Żywiecka 19",
+                "telefon": "Wilkowice: 33 812 20 20 ub 28 wew. 136; 600 429 203\r\nSzczyrk: 33 817 86 90;\r\nlekarz: 533 356 112, pielęgniarka: 533 357 112",
+                "dodatkowe_miejsce": "Bielskie Pogotowie Ratunkowe\r\nSzczyrk,\r\nul. Zdrowia 1",
+                "dodatkowe_informacje": "wizyty pielęgniarskie ambulatoryjne",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Żywiecka",
+                "g_miejsc": "Wilkowice",
+                "g_adr": "19",
+                "g_teryt": "2402102",
+                "g_gm": "Wilkowice",
+                "g_pow": "bielski",
+                "g_woj": "śląskie",
+                "g_szer": 19.089740094858364,
+                "g_dlug": 49.772732771541655,
+                "g_uuid": "ca45614e-9053-4bb8-8227-30f2b0510807",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.08974000000002,
+                    49.772730000012196
+                ]
+            }
+        }
+    ]
 }

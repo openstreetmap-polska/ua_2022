@@ -1,11 +1,180 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0461",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0461", "JPT_NAZWA_": "powiat Bydgoszcz", "id": 231, "ksiega": 392384, "id zoz": 482675, "id jednostki": "780317", "id komórki": 6871004, "regon": 112607400059, "kod jednostki": "01", "kod komórki": 18, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Klinika Medycyny Ratunkowej", "teryt opis": "Bydgoszcz - gmina miejska", "ulica": "ul. Marii Curie Skłodowskiej", "budynek": "9", "lokal": "NULL", "kod": "85-094", "miejscowosc": "Bydgoszcz", "teryt": 461011, "kod simc": 928363, "kod ulicy": "48034", "lozka": 0, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 5, "data rozpoczęcia działalności komórki": "2001-02-15" }, "geometry": { "type": "Point", "coordinates": [ 435221.32, 585096.69 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0461", "JPT_NAZWA_": "powiat Bydgoszcz", "id": 235, "ksiega": 392431, "id zoz": 482778, "id jednostki": "780569", "id komórki": 6873950, "regon": 9053831800039, "kod jednostki": "09", "kod komórki": 29, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Kliniczny Szpitalny Oddział Ratunkowy", "teryt opis": "Bydgoszcz - gmina miejska", "ulica": "ul. Powstańców Warszawy", "budynek": "5", "lokal": "NULL", "kod": "85-681", "miejscowosc": "Bydgoszcz", "teryt": 461011, "kod simc": 928363, "kod ulicy": "17372", "lozka": 10, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-07-01" }, "geometry": { "type": "Point", "coordinates": [ 433725.95000006002374, 586880.1 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0461", "JPT_NAZWA_": "powiat Bydgoszcz", "id": 146, "ksiega": 391134, "id zoz": 480079, "id jednostki": "773687", "id komórki": 6792158, "regon": 34051714500020, "kod jednostki": "01", "kod komórki": 21, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Oddział Kliniczny Medycyny Ratunkowej", "teryt opis": "Bydgoszcz - gmina miejska", "ulica": "ul. Kornela Ujejskiego", "budynek": "75", "lokal": "NULL", "kod": "85-168", "miejscowosc": "Bydgoszcz", "teryt": 461011, "kod simc": 928363, "kod ulicy": "23317", "lozka": 0, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 12, "data rozpoczęcia działalności komórki": "2008-09-01" }, "geometry": { "type": "Point", "coordinates": [ 434852.270000058982987, 583731.279999998048879 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0461", "JPT_NAZWA_": "powiat Bydgoszcz", "id": 12, "ksiega": 368587, "id zoz": 437594, "id jednostki": "678976", "id komórki": 5711492, "regon": 9296525000052, "kod jednostki": "03", "kod komórki": 39, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Oddział Medycyny Ratunkowej", "teryt opis": "Bydgoszcz - gmina miejska", "ulica": "ul. Kornela Ujejskiego", "budynek": "75", "lokal": "NULL", "kod": "85-168", "miejscowosc": "Bydgoszcz", "teryt": 461011, "kod simc": 928363, "kod ulicy": "23317", "lozka": 1, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2012-11-13" }, "geometry": { "type": "Point", "coordinates": [ 434852.270000058982987, 583731.279999998048879 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0461",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0461",
+                "JPT_NAZWA_": "powiat Bydgoszcz",
+                "id": 231,
+                "ksiega": 392384,
+                "id zoz": 482675,
+                "id jednostki": "780317",
+                "id komórki": 6871004,
+                "regon": 112607400059,
+                "kod jednostki": "01",
+                "kod komórki": 18,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Klinika Medycyny Ratunkowej",
+                "teryt opis": "Bydgoszcz - gmina miejska",
+                "ulica": "ul. Marii Curie Skłodowskiej",
+                "budynek": "9",
+                "lokal": "NULL",
+                "kod": "85-094",
+                "miejscowosc": "Bydgoszcz",
+                "teryt": 461011,
+                "kod simc": 928363,
+                "kod ulicy": "48034",
+                "lozka": 0,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 5,
+                "data rozpoczęcia działalności komórki": "2001-02-15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.031592063029738,
+                    53.12724259433194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0461",
+                "JPT_NAZWA_": "powiat Bydgoszcz",
+                "id": 235,
+                "ksiega": 392431,
+                "id zoz": 482778,
+                "id jednostki": "780569",
+                "id komórki": 6873950,
+                "regon": 9053831800039,
+                "kod jednostki": "09",
+                "kod komórki": 29,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Kliniczny Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Bydgoszcz - gmina miejska",
+                "ulica": "ul. Powstańców Warszawy",
+                "budynek": "5",
+                "lokal": "NULL",
+                "kod": "85-681",
+                "miejscowosc": "Bydgoszcz",
+                "teryt": 461011,
+                "kod simc": 928363,
+                "kod ulicy": "17372",
+                "lozka": 10,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-07-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.008871710332926,
+                    53.1430925841171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0461",
+                "JPT_NAZWA_": "powiat Bydgoszcz",
+                "id": 146,
+                "ksiega": 391134,
+                "id zoz": 480079,
+                "id jednostki": "773687",
+                "id komórki": 6792158,
+                "regon": 34051714500020,
+                "kod jednostki": "01",
+                "kod komórki": 21,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Oddział Kliniczny Medycyny Ratunkowej",
+                "teryt opis": "Bydgoszcz - gmina miejska",
+                "ulica": "ul. Kornela Ujejskiego",
+                "budynek": "75",
+                "lokal": "NULL",
+                "kod": "85-168",
+                "miejscowosc": "Bydgoszcz",
+                "teryt": 461011,
+                "kod simc": 928363,
+                "kod ulicy": "23317",
+                "lozka": 0,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 12,
+                "data rozpoczęcia działalności komórki": "2008-09-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.02635327152776,
+                    53.114921682806695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0461",
+                "JPT_NAZWA_": "powiat Bydgoszcz",
+                "id": 12,
+                "ksiega": 368587,
+                "id zoz": 437594,
+                "id jednostki": "678976",
+                "id komórki": 5711492,
+                "regon": 9296525000052,
+                "kod jednostki": "03",
+                "kod komórki": 39,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Oddział Medycyny Ratunkowej",
+                "teryt opis": "Bydgoszcz - gmina miejska",
+                "ulica": "ul. Kornela Ujejskiego",
+                "budynek": "75",
+                "lokal": "NULL",
+                "kod": "85-168",
+                "miejscowosc": "Bydgoszcz",
+                "teryt": 461011,
+                "kod simc": 928363,
+                "kod ulicy": "23317",
+                "lozka": 1,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2012-11-13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.02635327152776,
+                    53.114921682806695
+                ]
+            }
+        }
+    ]
 }

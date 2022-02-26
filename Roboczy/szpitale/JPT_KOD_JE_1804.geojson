@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1804",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 448, "JPT_KOD_JE": "1804", "JPT_NAZWA_": "powiat jarosławski", "id": 293, "wojewodztwo": "podkarpackie", "miasto": "Jarosław", "powiat": "jarosławski ", "adres": "3 Maja 70", "miejscowosc": "Jarosław", "kod": "37-500 ", "nazwa": "CENTRUM OPIEKI MEDYCZNEJ", "poziom": "II stopień", "www": "http:\/\/comjar.pl", "telefon": "(016)621 54 21", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 764541.5, 244931.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1804",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 448,
+                "JPT_KOD_JE": "1804",
+                "JPT_NAZWA_": "powiat jarosławski",
+                "id": 293,
+                "wojewodztwo": "podkarpackie",
+                "miasto": "Jarosław",
+                "powiat": "jarosławski ",
+                "adres": "3 Maja 70",
+                "miejscowosc": "Jarosław",
+                "kod": "37-500 ",
+                "nazwa": "CENTRUM OPIEKI MEDYCZNEJ",
+                "poziom": "II stopień",
+                "www": "http://comjar.pl",
+                "telefon": "(016)621 54 21",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.693790604653856,
+                    50.01282443131865
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3212",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 316, "JPT_KOD_JE": "3212", "JPT_NAZWA_": "powiat pyrzycki", "id": "104#525", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160002713", "swiadczeniodawca": "Szpital Powiatowy", "miejscowosc": "Pyrzyce", "ulica": "Jana Pawła II ", "numer_domu": "2", "adres_swiadczeniodawcy": "Jana Pawła II 2", "telefon": "91 570 25 73 wew. 242 (gabinet); \r\n519 144 998 (lekarz); \r\n519 144 997 (pielęgniarka)", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Jana Pawła II", "g_miejsc": "Pyrzyce", "g_adr": "2", "g_teryt": "3212053", "g_gm": "Pyrzyce", "g_pow": "pyrzycki", "g_woj": "zachodniopomorskie", "g_szer": 14.894917583875205, "g_dlug": 53.146753184290326, "g_uuid": "a2759d2e-e2ff-4110-a1de-116cd94aa66d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 225589.834611814119853, 594699.979504839517176 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3212",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 316,
+                "JPT_KOD_JE": "3212",
+                "JPT_NAZWA_": "powiat pyrzycki",
+                "id": "104#525",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160002713",
+                "swiadczeniodawca": "Szpital Powiatowy",
+                "miejscowosc": "Pyrzyce",
+                "ulica": "Jana Pawła II ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Jana Pawła II 2",
+                "telefon": "91 570 25 73 wew. 242 (gabinet); \r\n519 144 998 (lekarz); \r\n519 144 997 (pielęgniarka)",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Jana Pawła II",
+                "g_miejsc": "Pyrzyce",
+                "g_adr": "2",
+                "g_teryt": "3212053",
+                "g_gm": "Pyrzyce",
+                "g_pow": "pyrzycki",
+                "g_woj": "zachodniopomorskie",
+                "g_szer": 14.894917583875205,
+                "g_dlug": 53.146753184290326,
+                "g_uuid": "a2759d2e-e2ff-4110-a1de-116cd94aa66d",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.894919999932144,
+                    53.146750000019004
+                ]
+            }
+        }
+    ]
 }

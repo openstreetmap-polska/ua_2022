@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1204",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 346, "JPT_KOD_JE": "1204", "JPT_NAZWA_": "powiat dąbrowski", "id": "104#139", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "065\/100019", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Dąbrowie Tarnowskiej  ", "miejscowosc": "Dąbrowa Tarnowska", "ulica": "Szpitalna ", "numer_domu": "1", "adres_swiadczeniodawcy": "Szpitalna 1", "telefon": "14 644 33 22", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 20.97674262451217, "g_dlug": 50.178190050467393, "g_uuid": "87391daf-a9fc-4793-8ceb-d1d21cc66389", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 641095.507521389401518, 258644.490155398845673 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1204",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 346,
+                "JPT_KOD_JE": "1204",
+                "JPT_NAZWA_": "powiat dąbrowski",
+                "id": "104#139",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "065/100019",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Dąbrowie Tarnowskiej  ",
+                "miejscowosc": "Dąbrowa Tarnowska",
+                "ulica": "Szpitalna ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Szpitalna 1",
+                "telefon": "14 644 33 22",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 20.97674262451217,
+                "g_dlug": 50.17819005046739,
+                "g_uuid": "87391daf-a9fc-4793-8ceb-d1d21cc66389",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.976740000002994,
+                    50.17819000001277
+                ]
+            }
+        }
+    ]
 }

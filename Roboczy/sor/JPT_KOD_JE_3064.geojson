@@ -1,10 +1,138 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3064",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 184, "ksiega": 391765, "id zoz": 481251, "id jednostki": "777066", "id komórki": 6832833, "regon": 29220900047, "kod jednostki": "01", "kod komórki": 15, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Poznań-Jeżyce - delegatura", "ulica": "ul. Juraszów", "budynek": "7-19", "lokal": "NULL", "kod": "60-479", "miejscowosc": "Poznań", "teryt": 3064039, "kod simc": 969586, "kod ulicy": "07674", "lozka": 7, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-10-26" }, "geometry": { "type": "Point", "coordinates": [ 357734.368194685026538, 510414.794478163996246 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 132, "ksiega": 390748, "id zoz": 479134, "id jednostki": "771357", "id komórki": 6766687, "regon": 63963536000026, "kod jednostki": "01", "kod komórki": 5, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "SZPITALNY ODDZIAŁ RATUNKOWY", "teryt opis": "Poznań-Wilda - delegatura", "ulica": "ul. 28 Czerwca 1956 r.", "budynek": "194", "lokal": "NULL", "kod": "61-485", "miejscowosc": "Poznań", "teryt": 3064069, "kod simc": 970448, "kod ulicy": "03410", "lozka": 10, "liczba łóżek iom": 4, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-03-12" }, "geometry": { "type": "Point", "coordinates": [ 357965.5991, 503963.4154 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 99, "ksiega": 388900, "id zoz": 476359, "id jednostki": "765836", "id komórki": 6714243, "regon": 30633100020, "kod jednostki": "01", "kod komórki": 62, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział  Ratunkowy", "teryt opis": "Poznań-Nowe Miasto - delegatura", "ulica": "ul. Szwajcarska", "budynek": "3", "lokal": "NULL", "kod": "61-285", "miejscowosc": "Poznań", "teryt": 3064049, "kod simc": 969770, "kod ulicy": "22169", "lozka": 11, "liczba łóżek iom": 3, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2009-01-01" }, "geometry": { "type": "Point", "coordinates": [ 363615.8003, 504531.463899999973 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3064",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 184,
+                "ksiega": 391765,
+                "id zoz": 481251,
+                "id jednostki": "777066",
+                "id komórki": 6832833,
+                "regon": 29220900047,
+                "kod jednostki": "01",
+                "kod komórki": 15,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Poznań-Jeżyce - delegatura",
+                "ulica": "ul. Juraszów",
+                "budynek": "7-19",
+                "lokal": "NULL",
+                "kod": "60-479",
+                "miejscowosc": "Poznań",
+                "teryt": 3064039,
+                "kod simc": 969586,
+                "kod ulicy": "07674",
+                "lozka": 7,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2000-10-26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90630399999665,
+                    52.44107400001617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 132,
+                "ksiega": 390748,
+                "id zoz": 479134,
+                "id jednostki": "771357",
+                "id komórki": 6766687,
+                "regon": 63963536000026,
+                "kod jednostki": "01",
+                "kod komórki": 5,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "SZPITALNY ODDZIAŁ RATUNKOWY",
+                "teryt opis": "Poznań-Wilda - delegatura",
+                "ulica": "ul. 28 Czerwca 1956 r.",
+                "budynek": "194",
+                "lokal": "NULL",
+                "kod": "61-485",
+                "miejscowosc": "Poznań",
+                "teryt": 3064069,
+                "kod simc": 970448,
+                "kod ulicy": "03410",
+                "lozka": 10,
+                "liczba łóżek iom": 4,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-03-12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.912444934238835,
+                    52.383155346584914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 99,
+                "ksiega": 388900,
+                "id zoz": 476359,
+                "id jednostki": "765836",
+                "id komórki": 6714243,
+                "regon": 30633100020,
+                "kod jednostki": "01",
+                "kod komórki": 62,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział  Ratunkowy",
+                "teryt opis": "Poznań-Nowe Miasto - delegatura",
+                "ulica": "ul. Szwajcarska",
+                "budynek": "3",
+                "lokal": "NULL",
+                "kod": "61-285",
+                "miejscowosc": "Poznań",
+                "teryt": 3064049,
+                "kod simc": 969770,
+                "kod ulicy": "22169",
+                "lozka": 11,
+                "liczba łóżek iom": 3,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2009-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99520127178003,
+                    52.38969774326218
+                ]
+            }
+        }
+    ]
 }

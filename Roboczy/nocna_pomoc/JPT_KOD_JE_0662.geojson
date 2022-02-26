@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0662",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 436, "JPT_KOD_JE": "0662", "JPT_NAZWA_": "powiat Chełm", "id": "104#69", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000512", "swiadczeniodawca": "  Samodzielny Publiczny Wojewódzki Szpital Specjalistyczny w Chełmie", "miejscowosc": "Chełm ", "ulica": "Szpitalna", "numer_domu": "53", "adres_swiadczeniodawcy": "Szpitalna 53b", "telefon": "82 562 34 71; 781 193 999; 781 212 999; 781 192 999", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 23.455789285432374, "g_dlug": 51.149282146821434, "g_uuid": "0af84f23-5e81-4c04-b22c-9d628df613e8", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 811496.233227718621492, 374166.345932663418353 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0662",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 436,
+                "JPT_KOD_JE": "0662",
+                "JPT_NAZWA_": "powiat Chełm",
+                "id": "104#69",
+                "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ",
+                "kod_swiadczeniodawcy": "30000512",
+                "swiadczeniodawca": "  Samodzielny Publiczny Wojewódzki Szpital Specjalistyczny w Chełmie",
+                "miejscowosc": "Chełm ",
+                "ulica": "Szpitalna",
+                "numer_domu": "53",
+                "adres_swiadczeniodawcy": "Szpitalna 53b",
+                "telefon": "82 562 34 71; 781 193 999; 781 212 999; 781 192 999",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 23.455789285432374,
+                "g_dlug": 51.149282146821434,
+                "g_uuid": "0af84f23-5e81-4c04-b22c-9d628df613e8",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.455790000141665,
+                    51.1492800000172
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1821",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 261, "JPT_KOD_JE": "1821", "JPT_NAZWA_": "powiat leski", "id": "104#286", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010006", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Lesku", "miejscowosc": "Lesko ", "ulica": "Kochanowskiego ", "numer_domu": "2", "adres_swiadczeniodawcy": "Kochanowskiego 2", "telefon": "13 460 82 20; \r\n13 460 82 33 (wew. 72); 608 616 227; \r\n13 469 63 99; \r\n666 263 415 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kochanowskiego", "g_miejsc": "Lesko", "g_adr": "2", "g_teryt": "1821033", "g_gm": "Lesko", "g_pow": "leski", "g_woj": "podkarpackie", "g_szer": 22.33184046645853, "g_dlug": 49.473623341455394, "g_uuid": "4395f482-3698-446a-af66-edea053f8c67", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 741286.629657454090193, 183798.739815750159323 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1821",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 261,
+                "JPT_KOD_JE": "1821",
+                "JPT_NAZWA_": "powiat leski",
+                "id": "104#286",
+                "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ",
+                "kod_swiadczeniodawcy": "09R/010006",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Lesku",
+                "miejscowosc": "Lesko ",
+                "ulica": "Kochanowskiego ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Kochanowskiego 2",
+                "telefon": "13 460 82 20; \r\n13 460 82 33 (wew. 72); 608 616 227; \r\n13 469 63 99; \r\n666 263 415 ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Kochanowskiego",
+                "g_miejsc": "Lesko",
+                "g_adr": "2",
+                "g_teryt": "1821033",
+                "g_gm": "Lesko",
+                "g_pow": "leski",
+                "g_woj": "podkarpackie",
+                "g_szer": 22.33184046645853,
+                "g_dlug": 49.473623341455394,
+                "g_uuid": "4395f482-3698-446a-af66-edea053f8c67",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.331840000039566,
+                    49.47362000001205
+                ]
+            }
+        }
+    ]
 }

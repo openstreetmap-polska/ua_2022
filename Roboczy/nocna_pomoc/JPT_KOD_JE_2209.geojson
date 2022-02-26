@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2209",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 170, "JPT_KOD_JE": "2209", "JPT_NAZWA_": "powiat malborski", "id": "104#344", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "001444", "swiadczeniodawca": "Powiatowe Centrum Zdrowia w Malborku - Szpital im. dr Jadwigi Obodzińskiej-Król w Malborku", "miejscowosc": "Malbork", "ulica": "Armii Krajowej", "numer_domu": "105\/106", "adres_swiadczeniodawcy": "Armii Krajowej 105\/106", "telefon": "55 646 03 20 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "Aleja  Armii Krajowej", "g_miejsc": "Malbork", "g_adr": "105-106", "g_teryt": "2209011", "g_gm": "Malbork", "g_pow": "malborski", "g_woj": "pomorskie", "g_szer": 19.021906753824869, "g_dlug": 54.031208103552281, "g_uuid": "c978a484-7a81-4d81-b7fa-5af7a69f53ea", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 501434.685297011048533, 685197.515603239648044 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2209",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 170,
+                "JPT_KOD_JE": "2209",
+                "JPT_NAZWA_": "powiat malborski",
+                "id": "104#344",
+                "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "001444",
+                "swiadczeniodawca": "Powiatowe Centrum Zdrowia w Malborku - Szpital im. dr Jadwigi Obodzińskiej-Król w Malborku",
+                "miejscowosc": "Malbork",
+                "ulica": "Armii Krajowej",
+                "numer_domu": "105/106",
+                "adres_swiadczeniodawcy": "Armii Krajowej 105/106",
+                "telefon": "55 646 03 20 ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "Aleja  Armii Krajowej",
+                "g_miejsc": "Malbork",
+                "g_adr": "105-106",
+                "g_teryt": "2209011",
+                "g_gm": "Malbork",
+                "g_pow": "malborski",
+                "g_woj": "pomorskie",
+                "g_szer": 19.02190675382487,
+                "g_dlug": 54.03120810355228,
+                "g_uuid": "c978a484-7a81-4d81-b7fa-5af7a69f53ea",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.02191000000001,
+                    54.031210000018795
+                ]
+            }
+        }
+    ]
 }

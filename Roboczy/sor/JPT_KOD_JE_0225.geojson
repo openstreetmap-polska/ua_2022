@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0225",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0225", "JPT_NAZWA_": "powiat zgorzelecki", "id": 163, "ksiega": 391420, "id zoz": 480623, "id jednostki": "775018", "id komórki": 6808426, "regon": 23116144800109, "kod jednostki": "01", "kod komórki": 69, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Zgorzelec - gmina miejska", "ulica": "ul. Lubańska", "budynek": "11\/12", "lokal": "NULL", "kod": "59-900", "miejscowosc": "Zgorzelec", "teryt": 225021, "kod simc": 936546, "kod ulicy": "11293", "lozka": 7, "liczba łóżek iom": 5, "liczba łóżek ink": 1, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-05-01" }, "geometry": { "type": "Point", "coordinates": [ 221195.490622268000152, 373284.432471697975416 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0225",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0225",
+                "JPT_NAZWA_": "powiat zgorzelecki",
+                "id": 163,
+                "ksiega": 391420,
+                "id zoz": 480623,
+                "id jednostki": "775018",
+                "id komórki": 6808426,
+                "regon": 23116144800109,
+                "kod jednostki": "01",
+                "kod komórki": 69,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Zgorzelec - gmina miejska",
+                "ulica": "ul. Lubańska",
+                "budynek": "11/12",
+                "lokal": "NULL",
+                "kod": "59-900",
+                "miejscowosc": "Zgorzelec",
+                "teryt": 225021,
+                "kod simc": 936546,
+                "kod ulicy": "11293",
+                "lozka": 7,
+                "liczba łóżek iom": 5,
+                "liczba łóżek ink": 1,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-05-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.011245999919431,
+                    51.15823100001548
+                ]
+            }
+        }
+    ]
 }

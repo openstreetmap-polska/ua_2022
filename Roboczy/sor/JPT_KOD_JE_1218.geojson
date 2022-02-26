@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1218",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1218", "JPT_NAZWA_": "powiat wadowicki", "id": 71, "ksiega": 387522, "id zoz": 473249, "id jednostki": "758913", "id komórki": 6624083, "regon": 30646600030, "kod jednostki": "01", "kod komórki": 76, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Wadowice - miasto", "ulica": "ul. Karmelicka", "budynek": "7a", "lokal": "NULL", "kod": "34-100", "miejscowosc": "Wadowice", "teryt": 1218094, "kod simc": 926921, "kod ulicy": "08061", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2007-01-01" }, "geometry": { "type": "Point", "coordinates": [ 535412.589799999958, 223841.808599998999853 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1218",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1218",
+                "JPT_NAZWA_": "powiat wadowicki",
+                "id": 71,
+                "ksiega": 387522,
+                "id zoz": 473249,
+                "id jednostki": "758913",
+                "id komórki": 6624083,
+                "regon": 30646600030,
+                "kod jednostki": "01",
+                "kod komórki": 76,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Wadowice - miasto",
+                "ulica": "ul. Karmelicka",
+                "budynek": "7a",
+                "lokal": "NULL",
+                "kod": "34-100",
+                "miejscowosc": "Wadowice",
+                "teryt": 1218094,
+                "kod simc": 926921,
+                "kod ulicy": "08061",
+                "lozka": 6,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2007-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.493058257657342,
+                    49.88085331552762
+                ]
+            }
+        }
+    ]
 }

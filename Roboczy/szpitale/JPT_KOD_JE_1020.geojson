@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1020",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 26, "JPT_KOD_JE": "1020", "JPT_NAZWA_": "powiat zgierski", "id": 145, "wojewodztwo": "łódzkie", "miasto": "Głowno", "powiat": "zgierski", "adres": "Wojska Polskiego 32\/34", "miejscowosc": null, "kod": null, "nazwa": "Centrum Zdrowia \"ABiS\" przy WSInf w Łodzi", "poziom": "I stopień", "www": "http:\/\/www.szpitalglowno.pl", "telefon": "42 719 64 60", "e-mail": "szpital-glowno@wsinf.edu.pl" }, "geometry": { "type": "Point", "coordinates": [ 550354.4, 454805.1 ] } },
-{ "type": "Feature", "properties": { "_uid_": 27, "JPT_KOD_JE": "1020", "JPT_NAZWA_": "powiat zgierski", "id": 130, "wojewodztwo": "łódzkie", "miasto": "Zgierz", "powiat": "zgierski", "adres": "Parzęczewska 35", "miejscowosc": null, "kod": null, "nazwa": "Wojewódzki Szpital Specjalistyczny im. M. Skłodowskiej - Curie w Zgierzu", "poziom": "II stopień", "www": "http:\/\/www.wss.zgierz.pl", "telefon": "42 714 45 00", "e-mail": "szpital@wss.zgierz.pl" }, "geometry": { "type": "Point", "coordinates": [ 526808.2, 444145.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1020",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 26,
+                "JPT_KOD_JE": "1020",
+                "JPT_NAZWA_": "powiat zgierski",
+                "id": 145,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Głowno",
+                "powiat": "zgierski",
+                "adres": "Wojska Polskiego 32/34",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Centrum Zdrowia \"ABiS\" przy WSInf w Łodzi",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalglowno.pl",
+                "telefon": "42 719 64 60",
+                "e-mail": "szpital-glowno@wsinf.edu.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.733015016349984,
+                    51.95720991194151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 27,
+                "JPT_KOD_JE": "1020",
+                "JPT_NAZWA_": "powiat zgierski",
+                "id": 130,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Zgierz",
+                "powiat": "zgierski",
+                "adres": "Parzęczewska 35",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Wojewódzki Szpital Specjalistyczny im. M. Skłodowskiej - Curie w Zgierzu",
+                "poziom": "II stopień",
+                "www": "http://www.wss.zgierz.pl",
+                "telefon": "42 714 45 00",
+                "e-mail": "szpital@wss.zgierz.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.389432413231532,
+                    51.86297581131611
+                ]
+            }
+        }
+    ]
 }

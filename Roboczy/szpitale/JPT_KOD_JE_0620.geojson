@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0620",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 439, "JPT_KOD_JE": "0620", "JPT_NAZWA_": "powiat zamojski", "id": 84, "wojewodztwo": "lubelskie", "miasto": "SZCZEBRZESZYN", "powiat": "ZAMOJSKI", "adres": "KLUKOWSKIEGO 3", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W SZCZEBRZESZYNIE", "poziom": "I stopień", "www": "http:\/\/www.zoz-szczebrzeszyn.pl", "telefon": "84 682 35 20", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 780814.0, 321576.8 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0620",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 439,
+                "JPT_KOD_JE": "0620",
+                "JPT_NAZWA_": "powiat zamojski",
+                "id": 84,
+                "wojewodztwo": "lubelskie",
+                "miasto": "SZCZEBRZESZYN",
+                "powiat": "ZAMOJSKI",
+                "adres": "KLUKOWSKIEGO 3",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W SZCZEBRZESZYNIE",
+                "poziom": "I stopień",
+                "www": "http://www.zoz-szczebrzeszyn.pl",
+                "telefon": "84 682 35 20",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.977598471403073,
+                    50.69325447718562
+                ]
+            }
+        }
+    ]
 }

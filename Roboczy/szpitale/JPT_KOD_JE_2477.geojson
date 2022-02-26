@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2477",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 298, "JPT_KOD_JE": "2477", "JPT_NAZWA_": "powiat Tychy", "id": 514, "wojewodztwo": "śląskie", "miasto": "Tychy", "powiat": "Tychy", "adres": "Cicha 27", "miejscowosc": "Tychy", "kod": null, "nazwa": "Szpital Miejski w Tychach", "poziom": "I stopień", "www": "http:\/\/www.szpitalmiejskitychy.pl", "telefon": "32 780 87 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 498746.2, 250205.9 ] } },
-{ "type": "Feature", "properties": { "_uid_": 299, "JPT_KOD_JE": "2477", "JPT_NAZWA_": "powiat Tychy", "id": 491, "wojewodztwo": "śląskie", "miasto": "Tychy", "powiat": "Tychy", "adres": "Edukacji 102", "miejscowosc": "Tychy", "kod": null, "nazwa": "Megrez Spółka z ograniczoną odpowiedzialnością", "poziom": "II stopień", "www": "http:\/\/www.szpitalmegrez.pl", "telefon": "32 325 51 48", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 500539.7, 249626.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2477",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 298,
+                "JPT_KOD_JE": "2477",
+                "JPT_NAZWA_": "powiat Tychy",
+                "id": 514,
+                "wojewodztwo": "śląskie",
+                "miasto": "Tychy",
+                "powiat": "Tychy",
+                "adres": "Cicha 27",
+                "miejscowosc": "Tychy",
+                "kod": null,
+                "nazwa": "Szpital Miejski w Tychach",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalmiejskitychy.pl",
+                "telefon": "32 780 87 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.982456589440197,
+                    50.11909153556355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 299,
+                "JPT_KOD_JE": "2477",
+                "JPT_NAZWA_": "powiat Tychy",
+                "id": 491,
+                "wojewodztwo": "śląskie",
+                "miasto": "Tychy",
+                "powiat": "Tychy",
+                "adres": "Edukacji 102",
+                "miejscowosc": "Tychy",
+                "kod": null,
+                "nazwa": "Megrez Spółka z ograniczoną odpowiedzialnością",
+                "poziom": "II stopień",
+                "www": "http://www.szpitalmegrez.pl",
+                "telefon": "32 325 51 48",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.007550767006133,
+                    50.113883599979474
+                ]
+            }
+        }
+    ]
 }

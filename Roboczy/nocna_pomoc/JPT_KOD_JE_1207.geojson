@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1207",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 138, "JPT_KOD_JE": "1207", "JPT_NAZWA_": "powiat limanowski", "id": "104#164", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "063\/100006", "swiadczeniodawca": "Szpital Powiatowy w Limanowej Imienia Miłosierdzia Bożego", "miejscowosc": "Mszana Dolna", "ulica": "Marka ", "numer_domu": "2", "adres_swiadczeniodawcy": "Marka 2", "telefon": "608  135 590", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Marka Józefa", "g_miejsc": "Mszana Dolna", "g_adr": "2", "g_teryt": "1207021", "g_gm": "Mszana Dolna", "g_pow": "limanowski", "g_woj": "małopolskie", "g_szer": 20.079800927347662, "g_dlug": 49.668557876066885, "g_uuid": "0ce24b76-1837-4142-bad8-1af1b21fadf1", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 577892.686514184111729, 200689.109596221707761 ] } },
-{ "type": "Feature", "properties": { "gid": 233, "JPT_KOD_JE": "1207", "JPT_NAZWA_": "powiat limanowski", "id": "104#161", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "063\/100006", "swiadczeniodawca": "Szpital Powiatowy w Limanowej Imienia Miłosierdzia Bożego", "miejscowosc": "Limanowa", "ulica": "Piłsudskiego ", "numer_domu": "61", "adres_swiadczeniodawcy": "Piłsudskiego 61", "telefon": "18 33 72 075; 664 487 351", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Piłsudskiego Józefa", "g_miejsc": "Limanowa", "g_adr": "61", "g_teryt": "1207011", "g_gm": "Limanowa", "g_pow": "limanowski", "g_woj": "małopolskie", "g_szer": 20.41347793907579, "g_dlug": 49.716427484609724, "g_uuid": "3d6262bc-7faf-4951-89da-d816c727757e", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 601862.295253158314154, 206408.665556520223618 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1207",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 138,
+                "JPT_KOD_JE": "1207",
+                "JPT_NAZWA_": "powiat limanowski",
+                "id": "104#164",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "063/100006",
+                "swiadczeniodawca": "Szpital Powiatowy w Limanowej Imienia Miłosierdzia Bożego",
+                "miejscowosc": "Mszana Dolna",
+                "ulica": "Marka ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Marka 2",
+                "telefon": "608  135 590",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Marka Józefa",
+                "g_miejsc": "Mszana Dolna",
+                "g_adr": "2",
+                "g_teryt": "1207021",
+                "g_gm": "Mszana Dolna",
+                "g_pow": "limanowski",
+                "g_woj": "małopolskie",
+                "g_szer": 20.079800927347662,
+                "g_dlug": 49.668557876066885,
+                "g_uuid": "0ce24b76-1837-4142-bad8-1af1b21fadf1",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.079800000000386,
+                    49.66856000001204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 233,
+                "JPT_KOD_JE": "1207",
+                "JPT_NAZWA_": "powiat limanowski",
+                "id": "104#161",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "063/100006",
+                "swiadczeniodawca": "Szpital Powiatowy w Limanowej Imienia Miłosierdzia Bożego",
+                "miejscowosc": "Limanowa",
+                "ulica": "Piłsudskiego ",
+                "numer_domu": "61",
+                "adres_swiadczeniodawcy": "Piłsudskiego 61",
+                "telefon": "18 33 72 075; 664 487 351",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Piłsudskiego Józefa",
+                "g_miejsc": "Limanowa",
+                "g_adr": "61",
+                "g_teryt": "1207011",
+                "g_gm": "Limanowa",
+                "g_pow": "limanowski",
+                "g_woj": "małopolskie",
+                "g_szer": 20.41347793907579,
+                "g_dlug": 49.716427484609724,
+                "g_uuid": "3d6262bc-7faf-4951-89da-d816c727757e",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.413480000000824,
+                    49.71643000001212
+                ]
+            }
+        }
+    ]
 }

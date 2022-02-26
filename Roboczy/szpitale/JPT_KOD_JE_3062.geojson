@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3062",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 267, "JPT_KOD_JE": "3062", "JPT_NAZWA_": "powiat Konin", "id": 367, "wojewodztwo": "wielkopolskie", "miasto": "KONIN ", "powiat": "KONIN ", "adres": "SZPITALNA 45 ", "miejscowosc": null, "kod": "62-504 ", "nazwa": "WOJEWÓDZKI SZPITAL ZESPOLONY W KONINIE ", "poziom": "III stopień ", "www": "http:\/\/www.szpital-konin.pl ", "telefon": "(063)24-04-000 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 448012.6, 481277.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3062",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 267,
+                "JPT_KOD_JE": "3062",
+                "JPT_NAZWA_": "powiat Konin",
+                "id": 367,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "KONIN ",
+                "powiat": "KONIN ",
+                "adres": "SZPITALNA 45 ",
+                "miejscowosc": null,
+                "kod": "62-504 ",
+                "nazwa": "WOJEWÓDZKI SZPITAL ZESPOLONY W KONINIE ",
+                "poziom": "III stopień ",
+                "www": "http://www.szpital-konin.pl ",
+                "telefon": "(063)24-04-000 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.239178959363148,
+                    52.19512285146419
+                ]
+            }
+        }
+    ]
 }

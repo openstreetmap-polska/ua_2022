@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0262",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 321, "JPT_KOD_JE": "0262", "JPT_NAZWA_": "powiat Legnica", "id": "104#13", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3301161", "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny w Legnicy", "miejscowosc": "Legnica\r\n", "ulica": " Iwaszkiewicza ", "numer_domu": "5", "adres_swiadczeniodawcy": " Iwaszkiewicza 5", "telefon": "76 72 11 410; 76 72 11 411 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Iwaszkiewicza Jarosława", "g_miejsc": "Legnica", "g_adr": "5", "g_teryt": "0262011", "g_gm": "Legnica", "g_pow": "Legnica", "g_woj": "dolnośląskie", "g_szer": 16.21698145604314, "g_dlug": 51.207890416774539, "g_uuid": "0ac9c00e-0c9a-4e60-90d1-e57b5dbaad24", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 305665.294987608096562, 374920.833323774859309 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0262",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 321,
+                "JPT_KOD_JE": "0262",
+                "JPT_NAZWA_": "powiat Legnica",
+                "id": "104#13",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3301161",
+                "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny w Legnicy",
+                "miejscowosc": "Legnica\r\n",
+                "ulica": " Iwaszkiewicza ",
+                "numer_domu": "5",
+                "adres_swiadczeniodawcy": " Iwaszkiewicza 5",
+                "telefon": "76 72 11 410; 76 72 11 411 ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Iwaszkiewicza Jarosława",
+                "g_miejsc": "Legnica",
+                "g_adr": "5",
+                "g_teryt": "0262011",
+                "g_gm": "Legnica",
+                "g_pow": "Legnica",
+                "g_woj": "dolnośląskie",
+                "g_szer": 16.21698145604314,
+                "g_dlug": 51.20789041677454,
+                "g_uuid": "0ac9c00e-0c9a-4e60-90d1-e57b5dbaad24",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.21697999998659,
+                    51.207890000014345
+                ]
+            }
+        }
+    ]
 }

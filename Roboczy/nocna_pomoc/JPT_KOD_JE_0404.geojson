@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0404",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 10, "JPT_KOD_JE": "0404", "JPT_NAZWA_": "powiat chełmiński", "id": "104#44", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20000788", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Chełmnie", "miejscowosc": "Chełmno", "ulica": "Plac dr. Rydygiera ", "numer_domu": "1", "adres_swiadczeniodawcy": "Plac dr. Rydygiera 1", "telefon": "Lekarz: 56 677 26 87; 668 229 615\r\nPielęgniarka: 539 945 940", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "plac Dr Rydygiera", "g_miejsc": "Chełmno", "g_adr": "1", "g_teryt": "0404011", "g_gm": "Chełmno", "g_pow": "chełmiński", "g_woj": "kujawsko-pomorskie", "g_szer": 18.420694236344726, "g_dlug": 53.344192492332013, "g_uuid": "1ec0897e-a8d6-4247-8493-23a100b8e572", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 461443.934703828592319, 608942.435606798157096 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0404",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 10,
+                "JPT_KOD_JE": "0404",
+                "JPT_NAZWA_": "powiat chełmiński",
+                "id": "104#44",
+                "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "20000788",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Chełmnie",
+                "miejscowosc": "Chełmno",
+                "ulica": "Plac dr. Rydygiera ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Plac dr. Rydygiera 1",
+                "telefon": "Lekarz: 56 677 26 87; 668 229 615\r\nPielęgniarka: 539 945 940",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "plac Dr Rydygiera",
+                "g_miejsc": "Chełmno",
+                "g_adr": "1",
+                "g_teryt": "0404011",
+                "g_gm": "Chełmno",
+                "g_pow": "chełmiński",
+                "g_woj": "kujawsko-pomorskie",
+                "g_szer": 18.420694236344726,
+                "g_dlug": 53.34419249233201,
+                "g_uuid": "1ec0897e-a8d6-4247-8493-23a100b8e572",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.42068999999976,
+                    53.34419000001764
+                ]
+            }
+        }
+    ]
 }

@@ -1,10 +1,93 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2405",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 160, "JPT_KOD_JE": "2405", "JPT_NAZWA_": "powiat gliwicki", "id": 499, "wojewodztwo": "śląskie", "miasto": "gliwicki", "powiat": "Pyskowice", "adres": "Szpitalna 2", "miejscowosc": "Pyskowice", "kod": null, "nazwa": "Szpital w Pyskowicach Spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.szpitalpyskowice.webd.pl", "telefon": "32 233 24 24", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 473242.2, 281400.4 ] } },
-{ "type": "Feature", "properties": { "_uid_": 161, "JPT_KOD_JE": "2405", "JPT_NAZWA_": "powiat gliwicki", "id": 455, "wojewodztwo": "śląskie", "miasto": "gliwicki", "powiat": "Pilchowice", "adres": "Dworcowa 31", "miejscowosc": "Pilchowice", "kod": null, "nazwa": "Szpital Chorób Płuc im.Św. Józefa w Pilchowicach", "poziom": "Szpital pulmonologiczny", "www": "http:\/\/www.szpital-pilchowice.pl", "telefon": "32 331 99 10", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 468855.6, 260907.7 ] } },
-{ "type": "Feature", "properties": { "_uid_": 162, "JPT_KOD_JE": "2405", "JPT_NAZWA_": "powiat gliwicki", "id": 496, "wojewodztwo": "śląskie", "miasto": "gliwicki", "powiat": "Knurów", "adres": "Niepodległości 8", "miejscowosc": "Knurów", "kod": null, "nazwa": "Szpital w Knurowie", "poziom": "I stopień", "www": "http:\/\/www.szpitalknurow.pl", "telefon": "32 331 92 02", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 476307.1, 261635.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2405",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 160,
+                "JPT_KOD_JE": "2405",
+                "JPT_NAZWA_": "powiat gliwicki",
+                "id": 499,
+                "wojewodztwo": "śląskie",
+                "miasto": "gliwicki",
+                "powiat": "Pyskowice",
+                "adres": "Szpitalna 2",
+                "miejscowosc": "Pyskowice",
+                "kod": null,
+                "nazwa": "Szpital w Pyskowicach Spółka z ograniczoną odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalpyskowice.webd.pl",
+                "telefon": "32 233 24 24",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.62339793773,
+                    50.399119933331725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 161,
+                "JPT_KOD_JE": "2405",
+                "JPT_NAZWA_": "powiat gliwicki",
+                "id": 455,
+                "wojewodztwo": "śląskie",
+                "miasto": "gliwicki",
+                "powiat": "Pilchowice",
+                "adres": "Dworcowa 31",
+                "miejscowosc": "Pilchowice",
+                "kod": null,
+                "nazwa": "Szpital Chorób Płuc im.Św. Józefa w Pilchowicach",
+                "poziom": "Szpital pulmonologiczny",
+                "www": "http://www.szpital-pilchowice.pl",
+                "telefon": "32 331 99 10",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.563351946505414,
+                    50.2145510927632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 162,
+                "JPT_KOD_JE": "2405",
+                "JPT_NAZWA_": "powiat gliwicki",
+                "id": 496,
+                "wojewodztwo": "śląskie",
+                "miasto": "gliwicki",
+                "powiat": "Knurów",
+                "adres": "Niepodległości 8",
+                "miejscowosc": "Knurów",
+                "kod": null,
+                "nazwa": "Szpital w Knurowie",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalknurow.pl",
+                "telefon": "32 331 92 02",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.667775180247272,
+                    50.22144779272103
+                ]
+            }
+        }
+    ]
 }

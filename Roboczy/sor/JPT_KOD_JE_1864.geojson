@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1864",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1864", "JPT_NAZWA_": "powiat Tarnobrzeg", "id": 77, "ksiega": 388112, "id zoz": 474506, "id jednostki": "761579", "id komórki": 6659515, "regon": 31257300022, "kod jednostki": "01", "kod komórki": 74, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Tarnobrzeg - gmina miejska", "ulica": "ul. Szpitalna", "budynek": "1", "lokal": "NULL", "kod": "39-400", "miejscowosc": "Tarnobrzeg", "teryt": 1864011, "kod simc": 980085, "kod ulicy": "22073", "lozka": 7, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-08-15" }, "geometry": { "type": "Point", "coordinates": [ 689057.160599999945, 303384.1807 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1864",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1864",
+                "JPT_NAZWA_": "powiat Tarnobrzeg",
+                "id": 77,
+                "ksiega": 388112,
+                "id zoz": 474506,
+                "id jednostki": "761579",
+                "id komórki": 6659515,
+                "regon": 31257300022,
+                "kod jednostki": "01",
+                "kod komórki": 74,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Tarnobrzeg - gmina miejska",
+                "ulica": "ul. Szpitalna",
+                "budynek": "1",
+                "lokal": "NULL",
+                "kod": "39-400",
+                "miejscowosc": "Tarnobrzeg",
+                "teryt": 1864011,
+                "kod simc": 980085,
+                "kod ulicy": "22073",
+                "lozka": 7,
+                "liczba łóżek iom": 1,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-08-15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.670499285546022,
+                    50.56687255279425
+                ]
+            }
+        }
+    ]
 }

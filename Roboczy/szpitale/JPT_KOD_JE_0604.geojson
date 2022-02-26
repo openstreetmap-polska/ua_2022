@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0604",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 304, "JPT_KOD_JE": "0604", "JPT_NAZWA_": "powiat hrubieszowski", "id": 60, "wojewodztwo": "lubelskie", "miasto": "HRUBIESZÓW", "powiat": "HRUBIESZOWSKI", "adres": "PIŁSUDSKIEGO 11", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W HRUBIESZOWIE", "poziom": "I stopień", "www": "http:\/\/www.spzozhrubieszow.pl", "telefon": "84 696 26 11", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 844564.6, 337608.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0604",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 304,
+                "JPT_KOD_JE": "0604",
+                "JPT_NAZWA_": "powiat hrubieszowski",
+                "id": 60,
+                "wojewodztwo": "lubelskie",
+                "miasto": "HRUBIESZÓW",
+                "powiat": "HRUBIESZOWSKI",
+                "adres": "PIŁSUDSKIEGO 11",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W HRUBIESZOWIE",
+                "poziom": "I stopień",
+                "www": "http://www.spzozhrubieszow.pl",
+                "telefon": "84 696 26 11",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.89240999967119,
+                    50.80269863790709
+                ]
+            }
+        }
+    ]
 }

@@ -1,10 +1,138 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0462",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0462", "JPT_NAZWA_": "powiat Grudziądz", "id": 9, "ksiega": 392287, "id zoz": 482447, "id jednostki": "779743", "id komórki": 6866495, "regon": 87029873800026, "kod jednostki": "04", "kod komórki": 233, "specjalnosc": "Szpitalny oddział ratunkowy dla dzieci", "kodresortviii": 4903, "nazwa": "Szpitalny Oddział Ratunkowy Dziecięcy", "teryt opis": "Grudziądz - gmina miejska", "ulica": "ul. dr. Ludwika Rydygiera", "budynek": "15\/17", "lokal": "NULL", "kod": "86-300", "miejscowosc": "Grudziądz", "teryt": 462011, "kod simc": 983333, "kod ulicy": "19214", "lozka": 5, "liczba łóżek iom": 4, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2011-11-11" }, "geometry": { "type": "Point", "coordinates": [ 485826.796605504991021, 620791.56229146302212 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0462", "JPT_NAZWA_": "powiat Grudziądz", "id": 221, "ksiega": 392287, "id zoz": 482447, "id jednostki": "779743", "id komórki": 6866444, "regon": 87029873800026, "kod jednostki": "04", "kod komórki": 182, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy Dorosłych", "teryt opis": "Grudziądz - gmina miejska", "ulica": "ul. dr. Ludwika Rydygiera", "budynek": "15\/17", "lokal": "NULL", "kod": "86-300", "miejscowosc": "Grudziądz", "teryt": 462011, "kod simc": 983333, "kod ulicy": "19214", "lozka": 13, "liczba łóżek iom": 8, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2010-08-20" }, "geometry": { "type": "Point", "coordinates": [ 485826.796605504991021, 620791.56229146302212 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0462", "JPT_NAZWA_": "powiat Grudziądz", "id": 222, "ksiega": 392287, "id zoz": 482447, "id jednostki": "779743", "id komórki": 6866562, "regon": 87029873800026, "kod jednostki": "04", "kod komórki": 300, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy Położniczo-Ginekologiczny", "teryt opis": "Grudziądz - gmina miejska", "ulica": "ul. dr. Ludwika Rydygiera", "budynek": "15\/17", "lokal": "NULL", "kod": "86-300", "miejscowosc": "Grudziądz", "teryt": 462011, "kod simc": 983333, "kod ulicy": "19214", "lozka": 0, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2017-07-03" }, "geometry": { "type": "Point", "coordinates": [ 485826.796605504991021, 620791.56229146302212 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0462",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0462",
+                "JPT_NAZWA_": "powiat Grudziądz",
+                "id": 9,
+                "ksiega": 392287,
+                "id zoz": 482447,
+                "id jednostki": "779743",
+                "id komórki": 6866495,
+                "regon": 87029873800026,
+                "kod jednostki": "04",
+                "kod komórki": 233,
+                "specjalnosc": "Szpitalny oddział ratunkowy dla dzieci",
+                "kodresortviii": 4903,
+                "nazwa": "Szpitalny Oddział Ratunkowy Dziecięcy",
+                "teryt opis": "Grudziądz - gmina miejska",
+                "ulica": "ul. dr. Ludwika Rydygiera",
+                "budynek": "15/17",
+                "lokal": "NULL",
+                "kod": "86-300",
+                "miejscowosc": "Grudziądz",
+                "teryt": 462011,
+                "kod simc": 983333,
+                "kod ulicy": "19214",
+                "lozka": 5,
+                "liczba łóżek iom": 4,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2011-11-11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.786507999999912,
+                    53.451947000017825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0462",
+                "JPT_NAZWA_": "powiat Grudziądz",
+                "id": 221,
+                "ksiega": 392287,
+                "id zoz": 482447,
+                "id jednostki": "779743",
+                "id komórki": 6866444,
+                "regon": 87029873800026,
+                "kod jednostki": "04",
+                "kod komórki": 182,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy Dorosłych",
+                "teryt opis": "Grudziądz - gmina miejska",
+                "ulica": "ul. dr. Ludwika Rydygiera",
+                "budynek": "15/17",
+                "lokal": "NULL",
+                "kod": "86-300",
+                "miejscowosc": "Grudziądz",
+                "teryt": 462011,
+                "kod simc": 983333,
+                "kod ulicy": "19214",
+                "lozka": 13,
+                "liczba łóżek iom": 8,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2010-08-20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.786507999999912,
+                    53.451947000017825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0462",
+                "JPT_NAZWA_": "powiat Grudziądz",
+                "id": 222,
+                "ksiega": 392287,
+                "id zoz": 482447,
+                "id jednostki": "779743",
+                "id komórki": 6866562,
+                "regon": 87029873800026,
+                "kod jednostki": "04",
+                "kod komórki": 300,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy Położniczo-Ginekologiczny",
+                "teryt opis": "Grudziądz - gmina miejska",
+                "ulica": "ul. dr. Ludwika Rydygiera",
+                "budynek": "15/17",
+                "lokal": "NULL",
+                "kod": "86-300",
+                "miejscowosc": "Grudziądz",
+                "teryt": 462011,
+                "kod simc": 983333,
+                "kod ulicy": "19214",
+                "lozka": 0,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2017-07-03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.786507999999912,
+                    53.451947000017825
+                ]
+            }
+        }
+    ]
 }

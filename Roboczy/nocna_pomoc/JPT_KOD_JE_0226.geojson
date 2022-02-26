@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0226",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 215, "JPT_KOD_JE": "0226", "JPT_NAZWA_": "powiat złotoryjski", "id": "104#36", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3302695", "swiadczeniodawca": "Szpital Powiatowy im.A.Wolańczyka w Złotoryi", "miejscowosc": "Złotoryja\r\n", "ulica": "Hoża ", "numer_domu": "11", "adres_swiadczeniodawcy": "Hoża 11", "telefon": "76 87 72 286; 531 951 429", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Hoża", "g_miejsc": "Złotoryja", "g_adr": "11", "g_teryt": "0226021", "g_gm": "Złotoryja", "g_pow": "złotoryjski", "g_woj": "dolnośląskie", "g_szer": 15.909291008063818, "g_dlug": 51.116396189518824, "g_uuid": "fc843c80-0e76-4ae9-80d2-1154c63b21f8", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 283756.297283244552091, 365611.696645386517048 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0226",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 215,
+                "JPT_KOD_JE": "0226",
+                "JPT_NAZWA_": "powiat złotoryjski",
+                "id": "104#36",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3302695",
+                "swiadczeniodawca": "Szpital Powiatowy im.A.Wolańczyka w Złotoryi",
+                "miejscowosc": "Złotoryja\r\n",
+                "ulica": "Hoża ",
+                "numer_domu": "11",
+                "adres_swiadczeniodawcy": "Hoża 11",
+                "telefon": "76 87 72 286; 531 951 429",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Hoża",
+                "g_miejsc": "Złotoryja",
+                "g_adr": "11",
+                "g_teryt": "0226021",
+                "g_gm": "Złotoryja",
+                "g_pow": "złotoryjski",
+                "g_woj": "dolnośląskie",
+                "g_szer": 15.909291008063818,
+                "g_dlug": 51.116396189518824,
+                "g_uuid": "fc843c80-0e76-4ae9-80d2-1154c63b21f8",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.90928999997742,
+                    51.1164000000143
+                ]
+            }
+        }
+    ]
 }

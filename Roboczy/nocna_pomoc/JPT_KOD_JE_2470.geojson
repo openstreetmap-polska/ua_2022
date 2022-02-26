@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2470",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 283, "JPT_KOD_JE": "2470", "JPT_NAZWA_": "powiat Mysłowice", "id": "104#392", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/107024", "swiadczeniodawca": "SP ZOZ Szpital im. Boczonia w Mysłowicach", "miejscowosc": "Mysłowice", "ulica": "Bytomska ", "numer_domu": "41", "adres_swiadczeniodawcy": "Bytomska 41", "telefon": "723 183 332, \r\n723 183 358, centrala szpitala: 723 183 348", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Bytomska", "g_miejsc": "Mysłowice", "g_adr": "41", "g_teryt": "2470011", "g_gm": "Mysłowice", "g_pow": "Mysłowice", "g_woj": "śląskie", "g_szer": 19.132995055689037, "g_dlug": 50.24722542016147, "g_uuid": "ad105526-82f5-4fa4-b8b6-3a9272d7817f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 509479.904409414040856, 264457.408105034381151 ] } },
-{ "type": "Feature", "properties": { "gid": 284, "JPT_KOD_JE": "2470", "JPT_NAZWA_": "powiat Mysłowice", "id": "104#393", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/211946", "swiadczeniodawca": "Mysłowickie Centrum Zdrowia Sp. z o.o.", "miejscowosc": "Mysłowice", "ulica": "Mikołowska ", "numer_domu": "1", "adres_swiadczeniodawcy": "Mikołowska 1", "telefon": "32 317 44 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Mikołowska", "g_miejsc": "Mysłowice", "g_adr": "1", "g_teryt": "2470011", "g_gm": "Mysłowice", "g_pow": "Mysłowice", "g_woj": "śląskie", "g_szer": 19.137419283393392, "g_dlug": 50.239755460151756, "g_uuid": "322d54dc-4282-4d98-bcd6-9acd29695fee", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 509796.4817554721958, 263627.645624470897019 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2470",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 283,
+                "JPT_KOD_JE": "2470",
+                "JPT_NAZWA_": "powiat Mysłowice",
+                "id": "104#392",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/107024",
+                "swiadczeniodawca": "SP ZOZ Szpital im. Boczonia w Mysłowicach",
+                "miejscowosc": "Mysłowice",
+                "ulica": "Bytomska ",
+                "numer_domu": "41",
+                "adres_swiadczeniodawcy": "Bytomska 41",
+                "telefon": "723 183 332, \r\n723 183 358, centrala szpitala: 723 183 348",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Bytomska",
+                "g_miejsc": "Mysłowice",
+                "g_adr": "41",
+                "g_teryt": "2470011",
+                "g_gm": "Mysłowice",
+                "g_pow": "Mysłowice",
+                "g_woj": "śląskie",
+                "g_szer": 19.132995055689037,
+                "g_dlug": 50.24722542016147,
+                "g_uuid": "ad105526-82f5-4fa4-b8b6-3a9272d7817f",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.133000000000035,
+                    50.247230000012856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 284,
+                "JPT_KOD_JE": "2470",
+                "JPT_NAZWA_": "powiat Mysłowice",
+                "id": "104#393",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/211946",
+                "swiadczeniodawca": "Mysłowickie Centrum Zdrowia Sp. z o.o.",
+                "miejscowosc": "Mysłowice",
+                "ulica": "Mikołowska ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Mikołowska 1",
+                "telefon": "32 317 44 00",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Mikołowska",
+                "g_miejsc": "Mysłowice",
+                "g_adr": "1",
+                "g_teryt": "2470011",
+                "g_gm": "Mysłowice",
+                "g_pow": "Mysłowice",
+                "g_woj": "śląskie",
+                "g_szer": 19.137419283393392,
+                "g_dlug": 50.239755460151756,
+                "g_uuid": "322d54dc-4282-4d98-bcd6-9acd29695fee",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.137420000000034,
+                    50.23976000001284
+                ]
+            }
+        }
+    ]
 }

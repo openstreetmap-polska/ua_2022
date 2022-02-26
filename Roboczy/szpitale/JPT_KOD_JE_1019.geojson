@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1019",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 445, "JPT_KOD_JE": "1019", "JPT_NAZWA_": "powiat zduńskowolski", "id": 144, "wojewodztwo": "łódzkie", "miasto": "Zduńska Wola", "powiat": "zduńskowolski", "adres": "Królewska 29", "miejscowosc": null, "kod": null, "nazwa": "Zduńskowolski Szpital Powiatowy Sp. z o.o.", "poziom": "I stopień", "www": "http:\/\/www.szpital-zdwola.info", "telefon": "43 824 41 00", "e-mail": "sekretariat@szpital-zdwola.info" }, "geometry": { "type": "Point", "coordinates": [ 495926.0, 415346.3 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1019",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 445,
+                "JPT_KOD_JE": "1019",
+                "JPT_NAZWA_": "powiat zduńskowolski",
+                "id": 144,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Zduńska Wola",
+                "powiat": "zduńskowolski",
+                "adres": "Królewska 29",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Zduńskowolski Szpital Powiatowy Sp. z o.o.",
+                "poziom": "I stopień",
+                "www": "http://www.szpital-zdwola.info",
+                "telefon": "43 824 41 00",
+                "e-mail": "sekretariat@szpital-zdwola.info"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.94115519972654,
+                    51.60458453003492
+                ]
+            }
+        }
+    ]
 }

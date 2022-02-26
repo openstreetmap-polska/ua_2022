@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1812",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 212, "JPT_KOD_JE": "1812", "JPT_NAZWA_": "powiat niżański", "id": 300, "wojewodztwo": "podkarpackie", "miasto": "Nisko", "powiat": "niżański ", "adres": "Tadeusza Kościuszki 1", "miejscowosc": "Nisko", "kod": "37-400 ", "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W NISKU", "poziom": "I stopień", "www": "http:\/\/szpital-nisko.pl", "telefon": "(015)841 67 03", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 722703.2, 299435.5 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1812",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 212,
+                "JPT_KOD_JE": "1812",
+                "JPT_NAZWA_": "powiat niżański",
+                "id": 300,
+                "wojewodztwo": "podkarpackie",
+                "miasto": "Nisko",
+                "powiat": "niżański ",
+                "adres": "Tadeusza Kościuszki 1",
+                "miejscowosc": "Nisko",
+                "kod": "37-400 ",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W NISKU",
+                "poziom": "I stopień",
+                "www": "http://szpital-nisko.pl",
+                "telefon": "(015)841 67 03",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.142696554811373,
+                    50.519545845238646
+                ]
+            }
+        }
+    ]
 }

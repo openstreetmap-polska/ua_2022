@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2207",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 502, "JPT_KOD_JE": "2207", "JPT_NAZWA_": "powiat kwidzyński", "id": 543, "wojewodztwo": "pomorskie", "miasto": "kwidzyński", "powiat": "Kwidzyn", "adres": "Hallera 31", "miejscowosc": " Kwidzyn", "kod": "82-500", "nazwa": "EMC Szpitale Szpital Zdrowie w Kwidzynie", "poziom": "I stopień", "www": "http:\/\/www.emc-sa.pl\/nasze-placowki\/kwidzyn-szpital-zdrowie", "telefon": "55 645-83-00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 494754.9, 651363.1 ] } },
-{ "type": "Feature", "properties": { "_uid_": 503, "JPT_KOD_JE": "2207", "JPT_NAZWA_": "powiat kwidzyński", "id": 547, "wojewodztwo": "pomorskie", "miasto": "kwidzyński", "powiat": "Prabuty", "adres": "Kuracyjna 30", "miejscowosc": "Prabuty", "kod": "82-550", "nazwa": "Szpital Specjalistyczny w Prabutach Sp. z o.o.", "poziom": "Szpital pulmonologiczny", "www": "http:\/\/www.szpitalprabuty.pl", "telefon": "55 262-43-28", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 513720.0, 652607.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2207",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 502,
+                "JPT_KOD_JE": "2207",
+                "JPT_NAZWA_": "powiat kwidzyński",
+                "id": 543,
+                "wojewodztwo": "pomorskie",
+                "miasto": "kwidzyński",
+                "powiat": "Kwidzyn",
+                "adres": "Hallera 31",
+                "miejscowosc": " Kwidzyn",
+                "kod": "82-500",
+                "nazwa": "EMC Szpitale Szpital Zdrowie w Kwidzynie",
+                "poziom": "I stopień",
+                "www": "http://www.emc-sa.pl/nasze-placowki/kwidzyn-szpital-zdrowie",
+                "telefon": "55 645-83-00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.920478044295148,
+                    53.72698722624153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 503,
+                "JPT_KOD_JE": "2207",
+                "JPT_NAZWA_": "powiat kwidzyński",
+                "id": 547,
+                "wojewodztwo": "pomorskie",
+                "miasto": "kwidzyński",
+                "powiat": "Prabuty",
+                "adres": "Kuracyjna 30",
+                "miejscowosc": "Prabuty",
+                "kod": "82-550",
+                "nazwa": "Szpital Specjalistyczny w Prabutach Sp. z o.o.",
+                "poziom": "Szpital pulmonologiczny",
+                "www": "http://www.szpitalprabuty.pl",
+                "telefon": "55 262-43-28",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.208066134406206,
+                    53.738025029428286
+                ]
+            }
+        }
+    ]
 }

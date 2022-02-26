@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3021",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3021", "JPT_NAZWA_": "powiat poznański", "id": 177, "ksiega": 391669, "id zoz": 481052, "id jednostki": "776581", "id komórki": 6827434, "regon": 63455243800030, "kod jednostki": "01", "kod komórki": 13, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny  oddział ratunkowy", "teryt opis": "Puszczykowo - gmina miejska", "ulica": "ul. Józefa Ignacego Kraszewskiego", "budynek": "11", "lokal": "NULL", "kod": "62-041", "miejscowosc": "Puszczykowo", "teryt": 3021021, "kod simc": 971376, "kod ulicy": "09871", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2004-02-20" }, "geometry": { "type": "Point", "coordinates": [ 354571.882676118984818, 490809.823805395979434 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3021",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3021",
+                "JPT_NAZWA_": "powiat poznański",
+                "id": 177,
+                "ksiega": 391669,
+                "id zoz": 481052,
+                "id jednostki": "776581",
+                "id komórki": 6827434,
+                "regon": 63455243800030,
+                "kod jednostki": "01",
+                "kod komórki": 13,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny  oddział ratunkowy",
+                "teryt opis": "Puszczykowo - gmina miejska",
+                "ulica": "ul. Józefa Ignacego Kraszewskiego",
+                "budynek": "11",
+                "lokal": "NULL",
+                "kod": "62-041",
+                "miejscowosc": "Puszczykowo",
+                "teryt": 3021021,
+                "kod simc": 971376,
+                "kod ulicy": "09871",
+                "lozka": 6,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2004-02-20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.868293999996354,
+                    52.26405400001587
+                ]
+            }
+        }
+    ]
 }

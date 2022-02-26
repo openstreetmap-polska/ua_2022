@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2203",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 61, "JPT_KOD_JE": "2203", "JPT_NAZWA_": "powiat człuchowski", "id": "104#332", "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ", "kod_swiadczeniodawcy": "000012", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Człuchowie", "miejscowosc": "Człuchów", "ulica": "Szczecińska ", "numer_domu": "31", "adres_swiadczeniodawcy": "Szczecińska 31", "telefon": "59 834 22 81  wew. 316, 324", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szczecińska", "g_miejsc": "Człuchów", "g_adr": "31", "g_teryt": "2203011", "g_gm": "Człuchów", "g_pow": "człuchowski", "g_woj": "pomorskie", "g_szer": 17.354020832754518, "g_dlug": 53.659400493063877, "g_uuid": "6dc81186-87f4-4067-930d-7388d57a90d2", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 391265.046522727410775, 645101.258340844884515 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2203",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 61,
+                "JPT_KOD_JE": "2203",
+                "JPT_NAZWA_": "powiat człuchowski",
+                "id": "104#332",
+                "krotka_nazwa_oddz_nfz": "POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "000012",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Człuchowie",
+                "miejscowosc": "Człuchów",
+                "ulica": "Szczecińska ",
+                "numer_domu": "31",
+                "adres_swiadczeniodawcy": "Szczecińska 31",
+                "telefon": "59 834 22 81  wew. 316, 324",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szczecińska",
+                "g_miejsc": "Człuchów",
+                "g_adr": "31",
+                "g_teryt": "2203011",
+                "g_gm": "Człuchów",
+                "g_pow": "człuchowski",
+                "g_woj": "pomorskie",
+                "g_szer": 17.354020832754518,
+                "g_dlug": 53.65940049306388,
+                "g_uuid": "6dc81186-87f4-4067-930d-7388d57a90d2",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.354019999998616,
+                    53.65940000001817
+                ]
+            }
+        }
+    ]
 }

@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1218",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 34, "JPT_KOD_JE": "1218", "JPT_NAZWA_": "powiat wadowicki", "id": "104#145", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100031", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kalwarii Zebrzydowskiej", "miejscowosc": "Kalwaria Zebrzydowska", "ulica": "Jana Pawła II ", "numer_domu": "7", "adres_swiadczeniodawcy": "Jana Pawła II 7", "telefon": "33 876 64 37", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Al.  Jana Pawła II", "g_miejsc": "Kalwaria Zebrzydowska", "g_adr": "7", "g_teryt": "1218033", "g_gm": "Kalwaria Zebrzydowska", "g_pow": "wadowicki", "g_woj": "małopolskie", "g_szer": 19.684688662653926, "g_dlug": 49.869207565098009, "g_uuid": "71d7e03c-eae7-408e-9f1d-1fec8707dd43", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 549187.757600630517118, 222655.860410743393004 ] } },
-{ "type": "Feature", "properties": { "gid": 240, "JPT_KOD_JE": "1218", "JPT_NAZWA_": "powiat wadowicki", "id": "104#180", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/100026", "swiadczeniodawca": "Zespół Zakładów Opieki Zdrowotnej w Wadowicach", "miejscowosc": "Wadowice", "ulica": "Karmelicka ", "numer_domu": "5", "adres_swiadczeniodawcy": "Karmelicka 5", "telefon": "33 872 12 12", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Karmelicka", "g_miejsc": "Wadowice", "g_adr": "5", "g_teryt": "1218093", "g_gm": "Wadowice", "g_pow": "wadowicki", "g_woj": "małopolskie", "g_szer": 19.491889652784245, "g_dlug": 49.880735502425594, "g_uuid": "683bddb8-30b9-4e99-b411-39058b857188", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 535328.765855859499425, 223828.66226109303534 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1218",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 34,
+                "JPT_KOD_JE": "1218",
+                "JPT_NAZWA_": "powiat wadowicki",
+                "id": "104#145",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/100031",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Kalwarii Zebrzydowskiej",
+                "miejscowosc": "Kalwaria Zebrzydowska",
+                "ulica": "Jana Pawła II ",
+                "numer_domu": "7",
+                "adres_swiadczeniodawcy": "Jana Pawła II 7",
+                "telefon": "33 876 64 37",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Al.  Jana Pawła II",
+                "g_miejsc": "Kalwaria Zebrzydowska",
+                "g_adr": "7",
+                "g_teryt": "1218033",
+                "g_gm": "Kalwaria Zebrzydowska",
+                "g_pow": "wadowicki",
+                "g_woj": "małopolskie",
+                "g_szer": 19.684688662653926,
+                "g_dlug": 49.86920756509801,
+                "g_uuid": "71d7e03c-eae7-408e-9f1d-1fec8707dd43",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.684690000000188,
+                    49.86921000001233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 240,
+                "JPT_KOD_JE": "1218",
+                "JPT_NAZWA_": "powiat wadowicki",
+                "id": "104#180",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/100026",
+                "swiadczeniodawca": "Zespół Zakładów Opieki Zdrowotnej w Wadowicach",
+                "miejscowosc": "Wadowice",
+                "ulica": "Karmelicka ",
+                "numer_domu": "5",
+                "adres_swiadczeniodawcy": "Karmelicka 5",
+                "telefon": "33 872 12 12",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Karmelicka",
+                "g_miejsc": "Wadowice",
+                "g_adr": "5",
+                "g_teryt": "1218093",
+                "g_gm": "Wadowice",
+                "g_pow": "wadowicki",
+                "g_woj": "małopolskie",
+                "g_szer": 19.491889652784245,
+                "g_dlug": 49.880735502425594,
+                "g_uuid": "683bddb8-30b9-4e99-b411-39058b857188",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.49189000000013,
+                    49.88074000001234
+                ]
+            }
+        }
+    ]
 }

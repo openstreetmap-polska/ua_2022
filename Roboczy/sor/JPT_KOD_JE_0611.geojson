@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0611",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0611", "JPT_NAZWA_": "powiat łukowski", "id": 113, "ksiega": 390346, "id zoz": 478273, "id jednostki": "769003", "id komórki": 6741034, "regon": 30647200023, "kod jednostki": "01", "kod komórki": 82, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Łuków - gmina miejska", "ulica": "ul. Doktora Andrzeja Rogalińskiego", "budynek": "3", "lokal": "NULL", "kod": "21-400", "miejscowosc": "Łuków", "teryt": 611011, "kod simc": 975530, "kod ulicy": "45325", "lozka": 6, "liczba łóżek iom": 0, "liczba łóżek ink": 1, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-01-01" }, "geometry": { "type": "Point", "coordinates": [ 732237.000829710043035, 456346.486898567003664 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0611",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0611",
+                "JPT_NAZWA_": "powiat łukowski",
+                "id": 113,
+                "ksiega": 390346,
+                "id zoz": 478273,
+                "id jednostki": "769003",
+                "id komórki": 6741034,
+                "regon": 30647200023,
+                "kod jednostki": "01",
+                "kod komórki": 82,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Łuków - gmina miejska",
+                "ulica": "ul. Doktora Andrzeja Rogalińskiego",
+                "budynek": "3",
+                "lokal": "NULL",
+                "kod": "21-400",
+                "miejscowosc": "Łuków",
+                "teryt": 611011,
+                "kod simc": 975530,
+                "kod ulicy": "45325",
+                "lozka": 6,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 1,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.378716000031726,
+                    51.924850000015745
+                ]
+            }
+        }
+    ]
 }

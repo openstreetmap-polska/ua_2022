@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1817",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 56, "JPT_KOD_JE": "1817", "JPT_NAZWA_": "powiat sanocki", "id": "104#300", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010019", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Sanoku", "miejscowosc": "Sanok ", "ulica": "800-lecia ", "numer_domu": "26", "adres_swiadczeniodawcy": "800 lecia 26", "telefon": "13 465 61 62", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "800-lecia", "g_miejsc": "Sanok", "g_adr": "26", "g_teryt": "1817011", "g_gm": "Sanok", "g_pow": "sanocki", "g_woj": "podkarpackie", "g_szer": 22.198862633233695, "g_dlug": 49.551919284772794, "g_uuid": "675e79b4-1f68-4f15-bce1-17bd86434bd6", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 731288.196261571720243, 192081.461365178227425 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1817",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 56,
+                "JPT_KOD_JE": "1817",
+                "JPT_NAZWA_": "powiat sanocki",
+                "id": "104#300",
+                "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ",
+                "kod_swiadczeniodawcy": "09R/010019",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Sanoku",
+                "miejscowosc": "Sanok ",
+                "ulica": "800-lecia ",
+                "numer_domu": "26",
+                "adres_swiadczeniodawcy": "800 lecia 26",
+                "telefon": "13 465 61 62",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "800-lecia",
+                "g_miejsc": "Sanok",
+                "g_adr": "26",
+                "g_teryt": "1817011",
+                "g_gm": "Sanok",
+                "g_pow": "sanocki",
+                "g_woj": "podkarpackie",
+                "g_szer": 22.198862633233695,
+                "g_dlug": 49.551919284772794,
+                "g_uuid": "675e79b4-1f68-4f15-bce1-17bd86434bd6",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.19886000003185,
+                    49.551920000012096
+                ]
+            }
+        }
+    ]
 }

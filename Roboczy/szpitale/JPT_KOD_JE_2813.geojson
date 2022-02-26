@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2813",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 412, "JPT_KOD_JE": "2813", "JPT_NAZWA_": "powiat olecki", "id": 421, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Olecko", "powiat": "Olecki", "adres": "Gołdapska 1", "miejscowosc": "Olecko", "kod": "19-400", "nazwa": "\"Olmedica w Olecku - Spółka z Ograniczoną Odpowiedzialnością\"", "poziom": "I stopień", "www": "http:\/\/www.olmedica.pl", "telefon": "87 520 22 95 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 728899.0, 692098.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2813",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 412,
+                "JPT_KOD_JE": "2813",
+                "JPT_NAZWA_": "powiat olecki",
+                "id": 421,
+                "wojewodztwo": "warmińsko-mazurskie",
+                "miasto": "Olecko",
+                "powiat": "Olecki",
+                "adres": "Gołdapska 1",
+                "miejscowosc": "Olecko",
+                "kod": "19-400",
+                "nazwa": "\"Olmedica w Olecku - Spółka z Ograniczoną Odpowiedzialnością\"",
+                "poziom": "I stopień",
+                "www": "http://www.olmedica.pl",
+                "telefon": "87 520 22 95 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.497274879751,
+                    54.042386148881214
+                ]
+            }
+        }
+    ]
 }

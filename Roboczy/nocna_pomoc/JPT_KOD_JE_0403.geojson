@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0403",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 327, "JPT_KOD_JE": "0403", "JPT_NAZWA_": "powiat bydgoski", "id": "104#49", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20000736", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Koronowie", "miejscowosc": " Koronowo", "ulica": "Paderewskiego ", "numer_domu": "33", "adres_swiadczeniodawcy": "Paderewskiego 33", "telefon": "52 382-22-52", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Paderewskiego", "g_miejsc": "Koronowo", "g_adr": "33", "g_teryt": "0403043", "g_gm": "Koronowo", "g_pow": "bydgoski", "g_woj": "kujawsko-pomorskie", "g_szer": 17.939370635669128, "g_dlug": 53.310937707206882, "g_uuid": "e57acd9c-a787-4ebb-8ad0-67959781d2f0", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 429355.51144727517385, 605612.535607242956758 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0403",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 327,
+                "JPT_KOD_JE": "0403",
+                "JPT_NAZWA_": "powiat bydgoski",
+                "id": "104#49",
+                "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "20000736",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Koronowie",
+                "miejscowosc": " Koronowo",
+                "ulica": "Paderewskiego ",
+                "numer_domu": "33",
+                "adres_swiadczeniodawcy": "Paderewskiego 33",
+                "telefon": "52 382-22-52",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Paderewskiego",
+                "g_miejsc": "Koronowo",
+                "g_adr": "33",
+                "g_teryt": "0403043",
+                "g_gm": "Koronowo",
+                "g_pow": "bydgoski",
+                "g_woj": "kujawsko-pomorskie",
+                "g_szer": 17.93937063566913,
+                "g_dlug": 53.31093770720688,
+                "g_uuid": "e57acd9c-a787-4ebb-8ad0-67959781d2f0",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.939369999999485,
+                    53.31094000001759
+                ]
+            }
+        }
+    ]
 }

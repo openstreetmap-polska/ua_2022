@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1801",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 267, "JPT_KOD_JE": "1801", "JPT_NAZWA_": "powiat bieszczadzki", "id": "104#305", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010024", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Ustrzykach Dolnych", "miejscowosc": "Ustrzyki Dolne ", "ulica": "29 Listopada ", "numer_domu": "57", "adres_swiadczeniodawcy": "29 Listopada 57", "telefon": " 13 476 91 28, 13 476 91 00, 663 848 998, 663 848 969    ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "29 Listopada", "g_miejsc": "Ustrzyki Dolne", "g_adr": "57", "g_teryt": "1801083", "g_gm": "Ustrzyki Dolne", "g_pow": "bieszczadzki", "g_woj": "podkarpackie", "g_szer": 22.603688333448716, "g_dlug": 49.434823923894477, "g_uuid": "606e2563-57e8-407b-8b58-269f62697867", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 761176.005919215967879, 180394.426384668797255 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1801",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 267,
+                "JPT_KOD_JE": "1801",
+                "JPT_NAZWA_": "powiat bieszczadzki",
+                "id": "104#305",
+                "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ",
+                "kod_swiadczeniodawcy": "09R/010024",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Ustrzykach Dolnych",
+                "miejscowosc": "Ustrzyki Dolne ",
+                "ulica": "29 Listopada ",
+                "numer_domu": "57",
+                "adres_swiadczeniodawcy": "29 Listopada 57",
+                "telefon": " 13 476 91 28, 13 476 91 00, 663 848 998, 663 848 969    ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "29 Listopada",
+                "g_miejsc": "Ustrzyki Dolne",
+                "g_adr": "57",
+                "g_teryt": "1801083",
+                "g_gm": "Ustrzyki Dolne",
+                "g_pow": "bieszczadzki",
+                "g_woj": "podkarpackie",
+                "g_szer": 22.603688333448716,
+                "g_dlug": 49.43482392389448,
+                "g_uuid": "606e2563-57e8-407b-8b58-269f62697867",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.603690000059594,
+                    49.43482000001224
+                ]
+            }
+        }
+    ]
 }

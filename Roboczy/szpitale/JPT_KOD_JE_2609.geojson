@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2609",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 72, "JPT_KOD_JE": "2609", "JPT_NAZWA_": "powiat sandomierski", "id": 449, "wojewodztwo": "ŚWIĘTOKRZYSKIE", "miasto": "SANDOMIERZ", "powiat": "SANDOMIERSKI", "adres": "SCHINZLA 13", "miejscowosc": "SANDOMIERZ", "kod": null, "nazwa": "SZPITAL SPECJALISTYCZNY DUCHA ŚWIĘTEGO W SANDOMIERZU", "poziom": "III stopień", "www": "http:\/\/sand.pl", "telefon": "15 83 30 502(574)", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 694242.8, 318116.8 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2609",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 72,
+                "JPT_KOD_JE": "2609",
+                "JPT_NAZWA_": "powiat sandomierski",
+                "id": 449,
+                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
+                "miasto": "SANDOMIERZ",
+                "powiat": "SANDOMIERSKI",
+                "adres": "SCHINZLA 13",
+                "miejscowosc": "SANDOMIERZ",
+                "kod": null,
+                "nazwa": "SZPITAL SPECJALISTYCZNY DUCHA ŚWIĘTEGO W SANDOMIERZU",
+                "poziom": "III stopień",
+                "www": "http://sand.pl",
+                "telefon": "15 83 30 502(574)",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7513818602549,
+                    50.69754962072621
+                ]
+            }
+        }
+    ]
 }

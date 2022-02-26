@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1211",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 409, "JPT_KOD_JE": "1211", "JPT_NAZWA_": "powiat nowotarski", "id": 151, "wojewodztwo": "małopolskie", "miasto": "Nowy Targ", "powiat": "nowotarski", "adres": "Szpitalna 14", "miejscowosc": "Nowy Targ", "kod": "34-400", "nazwa": "PODHALAŃSKI SZPITAL SPECJALISTYCZNY IM. JANA PAWŁA II W NOWYM TARGU", "poziom": "I stopień", "www": "http:\/\/www.pszs.eu", "telefon": "18 26 33 000", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 574382.0, 180764.4 ] } },
-{ "type": "Feature", "properties": { "_uid_": 410, "JPT_KOD_JE": "1211", "JPT_NAZWA_": "powiat nowotarski", "id": 148, "wojewodztwo": "małopolskie", "miasto": "Rabka-Zdrój", "powiat": "nowotarski", "adres": "prof. Jana Rudnika 3B", "miejscowosc": "Rabka-Zdrój", "kod": "34-700", "nazwa": "INSTYTUT GRUŹLICY I CHORÓB PŁUC", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.zpigichp.edu.pl", "telefon": "18 267 60 60", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 569880.9, 193482.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1211",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 409,
+                "JPT_KOD_JE": "1211",
+                "JPT_NAZWA_": "powiat nowotarski",
+                "id": 151,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Nowy Targ",
+                "powiat": "nowotarski",
+                "adres": "Szpitalna 14",
+                "miejscowosc": "Nowy Targ",
+                "kod": "34-400",
+                "nazwa": "PODHALAŃSKI SZPITAL SPECJALISTYCZNY IM. JANA PAWŁA II W NOWYM TARGU",
+                "poziom": "I stopień",
+                "www": "http://www.pszs.eu",
+                "telefon": "18 26 33 000",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.027370727464,
+                    49.48976171712866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 410,
+                "JPT_KOD_JE": "1211",
+                "JPT_NAZWA_": "powiat nowotarski",
+                "id": 148,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Rabka-Zdrój",
+                "powiat": "nowotarski",
+                "adres": "prof. Jana Rudnika 3B",
+                "miejscowosc": "Rabka-Zdrój",
+                "kod": "34-700",
+                "nazwa": "INSTYTUT GRUŹLICY I CHORÓB PŁUC",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.zpigichp.edu.pl",
+                "telefon": "18 267 60 60",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.967467692211642,
+                    49.60471050421543
+                ]
+            }
+        }
+    ]
 }

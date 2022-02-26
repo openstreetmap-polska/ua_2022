@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1414",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 353, "JPT_KOD_JE": "1414", "JPT_NAZWA_": "powiat nowodworski", "id": 190, "wojewodztwo": "mazowieckie", "miasto": "NOWY DWÓR MAZOWIECKI", "powiat": "NOWODWORSKI", "adres": "MIODOWA 2", "miejscowosc": "NOWY DWÓR MAZOWIECKI ", "kod": null, "nazwa": "NOWODWORSKIE CENTRUM MEDYCZNE W NOWYM DWORZE MAZOWIECKIM", "poziom": "I stopień", "www": "http:\/\/www.bip.ncm.med.pl", "telefon": "022 765-83-08", "e-mail": "sekretariat@ncm.med.pl" }, "geometry": { "type": "Point", "coordinates": [ 617195.9, 507406.2 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1414",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 353,
+                "JPT_KOD_JE": "1414",
+                "JPT_NAZWA_": "powiat nowodworski",
+                "id": 190,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "NOWY DWÓR MAZOWIECKI",
+                "powiat": "NOWODWORSKI",
+                "adres": "MIODOWA 2",
+                "miejscowosc": "NOWY DWÓR MAZOWIECKI ",
+                "kod": null,
+                "nazwa": "NOWODWORSKIE CENTRUM MEDYCZNE W NOWYM DWORZE MAZOWIECKIM",
+                "poziom": "I stopień",
+                "www": "http://www.bip.ncm.med.pl",
+                "telefon": "022 765-83-08",
+                "e-mail": "sekretariat@ncm.med.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.723894715909733,
+                    52.41998486727111
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2406",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 159, "JPT_KOD_JE": "2406", "JPT_NAZWA_": "powiat kłobucki", "id": 507, "wojewodztwo": "śląskie", "miasto": "kłobucki", "powiat": "Kłobuck", "adres": "11 Listopada 5C", "miejscowosc": "Kłobuck", "kod": null, "nazwa": "Zespół Opieki Zdrowotnej w Kłobucku", "poziom": "I stopień", "www": "http:\/\/www.zozklobuck.com.pl", "telefon": "34 317 28 61", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 495613.1, 337748.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2406",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 159,
+                "JPT_KOD_JE": "2406",
+                "JPT_NAZWA_": "powiat kłobucki",
+                "id": 507,
+                "wojewodztwo": "śląskie",
+                "miasto": "kłobucki",
+                "powiat": "Kłobuck",
+                "adres": "11 Listopada 5C",
+                "miejscowosc": "Kłobuck",
+                "kod": null,
+                "nazwa": "Zespół Opieki Zdrowotnej w Kłobucku",
+                "poziom": "I stopień",
+                "www": "http://www.zozklobuck.com.pl",
+                "telefon": "34 317 28 61",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.937587912941435,
+                    50.906606434916206
+                ]
+            }
+        }
+    ]
 }

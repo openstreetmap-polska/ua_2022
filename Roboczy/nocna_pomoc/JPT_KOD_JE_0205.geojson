@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0205",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 320, "JPT_KOD_JE": "0205", "JPT_NAZWA_": "powiat jaworski", "id": "104#7", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3302043", "swiadczeniodawca": "Jaworskie Centrum Medyczne", "miejscowosc": "Jawor\r\n", "ulica": "Szpitalna ", "numer_domu": "3", "adres_swiadczeniodawcy": "Szpitalna 3", "telefon": "76 870 21 65; 76 870 30 14 wew. 7", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Jawor", "g_adr": "3", "g_teryt": "0205011", "g_gm": "Jawor", "g_pow": "jaworski", "g_woj": "dolnośląskie", "g_szer": 16.199186719175138, "g_dlug": 51.046950899597455, "g_uuid": "a6020ab1-aeca-4fbc-ba93-069888d11da5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 303741.945550493896008, 357080.415265565738082 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0205",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 320,
+                "JPT_KOD_JE": "0205",
+                "JPT_NAZWA_": "powiat jaworski",
+                "id": "104#7",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3302043",
+                "swiadczeniodawca": "Jaworskie Centrum Medyczne",
+                "miejscowosc": "Jawor\r\n",
+                "ulica": "Szpitalna ",
+                "numer_domu": "3",
+                "adres_swiadczeniodawcy": "Szpitalna 3",
+                "telefon": "76 870 21 65; 76 870 30 14 wew. 7",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szpitalna",
+                "g_miejsc": "Jawor",
+                "g_adr": "3",
+                "g_teryt": "0205011",
+                "g_gm": "Jawor",
+                "g_pow": "jaworski",
+                "g_woj": "dolnośląskie",
+                "g_szer": 16.199186719175138,
+                "g_dlug": 51.046950899597455,
+                "g_uuid": "a6020ab1-aeca-4fbc-ba93-069888d11da5",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.199189999985943,
+                    51.04695000001411
+                ]
+            }
+        }
+    ]
 }

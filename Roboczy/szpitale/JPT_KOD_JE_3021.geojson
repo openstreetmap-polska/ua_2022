@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3021",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 526, "JPT_KOD_JE": "3021", "JPT_NAZWA_": "powiat poznański", "id": 392, "wojewodztwo": "wielkopolskie", "miasto": "PUSZCZYKOWO ", "powiat": "POZNAŃSKI ", "adres": "KRASZEWSKIEGO 11 ", "miejscowosc": null, "kod": "62-041 ", "nazwa": "SZPITAL W PUSZCZYKOWIE IM. PROF. S.T. DĄBROWSKIEGO SPÓŁKA AKCYJNA ", "poziom": "II stopień ", "www": "http:\/\/szpitalwpuszczykowie.com.pl\/ ", "telefon": "(061)89-84-000 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 354649.3, 490745.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3021",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 526,
+                "JPT_KOD_JE": "3021",
+                "JPT_NAZWA_": "powiat poznański",
+                "id": 392,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "PUSZCZYKOWO ",
+                "powiat": "POZNAŃSKI ",
+                "adres": "KRASZEWSKIEGO 11 ",
+                "miejscowosc": null,
+                "kod": "62-041 ",
+                "nazwa": "SZPITAL W PUSZCZYKOWIE IM. PROF. S.T. DĄBROWSKIEGO SPÓŁKA AKCYJNA ",
+                "poziom": "II stopień ",
+                "www": "http://szpitalwpuszczykowie.com.pl/ ",
+                "telefon": "(061)89-84-000 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.86945561942098,
+                    52.263497294152934
+                ]
+            }
+        }
+    ]
 }

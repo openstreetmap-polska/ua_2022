@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1805",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 244, "JPT_KOD_JE": "1805", "JPT_NAZWA_": "powiat jasielski", "id": 294, "wojewodztwo": "podkarpackie", "miasto": "Jasło", "powiat": "jasielski ", "adres": "Lwowska 22", "miejscowosc": "Jasło", "kod": "38-200 ", "nazwa": "Szpital Specjalistyczny w Jaśle", "poziom": "II stopień", "www": "http:\/\/szpital.jaslo.pl", "telefon": "(013)443 75 03", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 678619.6, 212369.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1805",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 244,
+                "JPT_KOD_JE": "1805",
+                "JPT_NAZWA_": "powiat jasielski",
+                "id": 294,
+                "wojewodztwo": "podkarpackie",
+                "miasto": "Jasło",
+                "powiat": "jasielski ",
+                "adres": "Lwowska 22",
+                "miejscowosc": "Jasło",
+                "kod": "38-200 ",
+                "nazwa": "Szpital Specjalistyczny w Jaśle",
+                "poziom": "II stopień",
+                "www": "http://szpital.jaslo.pl",
+                "telefon": "(013)443 75 03",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.480498593646733,
+                    49.75212770278396
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1607",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 485, "JPT_KOD_JE": "1607", "JPT_NAZWA_": "powiat nyski", "id": "104#272", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/10049", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Nysie", "miejscowosc": "Nysa", "ulica": "Ogrodowa ", "numer_domu": "1", "adres_swiadczeniodawcy": "Ogrodowa 1", "telefon": "Nysa: 77 887 21 26", "dodatkowe_miejsce": null, "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Ogrodowa", "g_miejsc": "Nysa", "g_adr": "1", "g_teryt": "1607053", "g_gm": "Nysa", "g_pow": "nyski", "g_woj": "opolskie", "g_szer": 17.335491744093837, "g_dlug": 50.479150428072352, "g_uuid": "dd9d0b6e-edc2-4f2d-b90d-adac32b0b149", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 381937.804932925326284, 291551.805491765029728 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1607",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 485,
+                "JPT_KOD_JE": "1607",
+                "JPT_NAZWA_": "powiat nyski",
+                "id": "104#272",
+                "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "08R/10049",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Nysie",
+                "miejscowosc": "Nysa",
+                "ulica": "Ogrodowa ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Ogrodowa 1",
+                "telefon": "Nysa: 77 887 21 26",
+                "dodatkowe_miejsce": null,
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Ogrodowa",
+                "g_miejsc": "Nysa",
+                "g_adr": "1",
+                "g_teryt": "1607053",
+                "g_gm": "Nysa",
+                "g_pow": "nyski",
+                "g_woj": "opolskie",
+                "g_szer": 17.335491744093837,
+                "g_dlug": 50.47915042807235,
+                "g_uuid": "dd9d0b6e-edc2-4f2d-b90d-adac32b0b149",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.335489999998533,
+                    50.47915000001319
+                ]
+            }
+        }
+    ]
 }

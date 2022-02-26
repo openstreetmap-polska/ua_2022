@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3025",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3025", "JPT_NAZWA_": "powiat średzki", "id": 170, "ksiega": 391594, "id zoz": 480925, "id jednostki": "776124", "id komórki": 6820107, "regon": 30856000022, "kod jednostki": "01", "kod komórki": 7, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Środa Wielkopolska - miasto", "ulica": "ul. Żwirki i Wigury", "budynek": "10", "lokal": "NULL", "kod": "63-000", "miejscowosc": "Środa Wielkopolska", "teryt": 3025044, "kod simc": 971614, "kod ulicy": "26608", "lozka": 8, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "1998-12-01" }, "geometry": { "type": "Point", "coordinates": [ 382901.918, 485981.933700000983663 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3025",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3025",
+                "JPT_NAZWA_": "powiat średzki",
+                "id": 170,
+                "ksiega": 391594,
+                "id zoz": 480925,
+                "id jednostki": "776124",
+                "id komórki": 6820107,
+                "regon": 30856000022,
+                "kod jednostki": "01",
+                "kod komórki": 7,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Środa Wielkopolska - miasto",
+                "ulica": "ul. Żwirki i Wigury",
+                "budynek": "10",
+                "lokal": "NULL",
+                "kod": "63-000",
+                "miejscowosc": "Środa Wielkopolska",
+                "teryt": 3025044,
+                "kod simc": 971614,
+                "kod ulicy": "26608",
+                "lozka": 8,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "1998-12-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2850079279127,
+                    52.227420710070916
+                ]
+            }
+        }
+    ]
 }

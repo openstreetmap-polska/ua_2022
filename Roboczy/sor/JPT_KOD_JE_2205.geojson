@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2205",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2205", "JPT_NAZWA_": "powiat kartuski", "id": 102, "ksiega": 389035, "id zoz": 476619, "id jednostki": "766431", "id komórki": 6721756, "regon": 22063828700021, "kod jednostki": "01", "kod komórki": 7, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Kartuzy - miasto", "ulica": "ul. Floriana Ceynowy", "budynek": "7", "lokal": "NULL", "kod": "83-300", "miejscowosc": "Kartuzy", "teryt": 2205024, "kod simc": 934547, "kod ulicy": "02648", "lozka": 8, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2009-01-01" }, "geometry": { "type": "Point", "coordinates": [ 447870.2383, 719483.027299999958 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2205",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2205",
+                "JPT_NAZWA_": "powiat kartuski",
+                "id": 102,
+                "ksiega": 389035,
+                "id zoz": 476619,
+                "id jednostki": "766431",
+                "id komórki": 6721756,
+                "regon": 22063828700021,
+                "kod jednostki": "01",
+                "kod komórki": 7,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Kartuzy - miasto",
+                "ulica": "ul. Floriana Ceynowy",
+                "budynek": "7",
+                "lokal": "NULL",
+                "kod": "83-300",
+                "miejscowosc": "Kartuzy",
+                "teryt": 2205024,
+                "kod simc": 934547,
+                "kod ulicy": "02648",
+                "lozka": 8,
+                "liczba łóżek iom": 1,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2009-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1979928165057,
+                    54.336785348492434
+                ]
+            }
+        }
+    ]
 }

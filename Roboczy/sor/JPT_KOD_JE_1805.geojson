@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1805",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1805", "JPT_NAZWA_": "powiat jasielski", "id": 67, "ksiega": 387292, "id zoz": 472849, "id jednostki": "757787", "id komórki": 6613246, "regon": 37044448600027, "kod jednostki": "01", "kod komórki": 70, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy wraz z Izbą Przyjęć", "teryt opis": "Jasło - gmina miejska", "ulica": "ul. Lwowska", "budynek": "22", "lokal": "NULL", "kod": "38-200", "miejscowosc": "Jasło", "teryt": 1805011, "kod simc": 953059, "kod ulicy": "11467", "lozka": 7, "liczba łóżek iom": 3, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2004-01-01" }, "geometry": { "type": "Point", "coordinates": [ 678619.625468753976747, 212369.692760426987661 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1805",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1805",
+                "JPT_NAZWA_": "powiat jasielski",
+                "id": 67,
+                "ksiega": 387292,
+                "id zoz": 472849,
+                "id jednostki": "757787",
+                "id komórki": 6613246,
+                "regon": 37044448600027,
+                "kod jednostki": "01",
+                "kod komórki": 70,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy wraz z Izbą Przyjęć",
+                "teryt opis": "Jasło - gmina miejska",
+                "ulica": "ul. Lwowska",
+                "budynek": "22",
+                "lokal": "NULL",
+                "kod": "38-200",
+                "miejscowosc": "Jasło",
+                "teryt": 1805011,
+                "kod simc": 953059,
+                "kod ulicy": "11467",
+                "lozka": 7,
+                "liczba łóżek iom": 3,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2004-01-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4804989436617,
+                    49.75212763014015
+                ]
+            }
+        }
+    ]
 }

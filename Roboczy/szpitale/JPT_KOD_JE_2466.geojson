@@ -1,10 +1,93 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2466",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 62, "JPT_KOD_JE": "2466", "JPT_NAZWA_": "powiat Gliwice", "id": 469, "wojewodztwo": "śląskie", "miasto": "Gliwice", "powiat": "Gliwice", "adres": "Wybrzeże Armii Krajowej 15", "miejscowosc": "Gliwice", "kod": null, "nazwa": "Centrum Onkologii - Instytut im. Marii Skłodowskiej-Curie", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.io.gliwice.pl", "telefon": "32 278 86 66", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 476161.9, 270501.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 63, "JPT_KOD_JE": "2466", "JPT_NAZWA_": "powiat Gliwice", "id": 498, "wojewodztwo": "śląskie", "miasto": "Gliwice", "powiat": "Gliwice", "adres": "Kościuszki 1", "miejscowosc": "Gliwice", "kod": null, "nazwa": "Szpital Wielospecjalistyczny w Gliwicach", "poziom": "I stopień", "www": "http:\/\/www.szwg.pl", "telefon": "32 238 20 91", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 475843.2, 269146.7 ] } },
-{ "type": "Feature", "properties": { "_uid_": 64, "JPT_KOD_JE": "2466", "JPT_NAZWA_": "powiat Gliwice", "id": 482, "wojewodztwo": "śląskie", "miasto": "Gliwice", "powiat": "Gliwice", "adres": "Zygmunta Starego 20", "miejscowosc": "Gliwice", "kod": null, "nazwa": "Szpital Miejski Nr 4 w Gliwicach Spółka z ograniczoną odpowiedzialnością", "poziom": "II stopień", "www": "http:\/\/www.szpital4.gliwice.pl", "telefon": "32 330 83 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 475639.5, 269327.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2466",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 62,
+                "JPT_KOD_JE": "2466",
+                "JPT_NAZWA_": "powiat Gliwice",
+                "id": 469,
+                "wojewodztwo": "śląskie",
+                "miasto": "Gliwice",
+                "powiat": "Gliwice",
+                "adres": "Wybrzeże Armii Krajowej 15",
+                "miejscowosc": "Gliwice",
+                "kod": null,
+                "nazwa": "Centrum Onkologii - Instytut im. Marii Skłodowskiej-Curie",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.io.gliwice.pl",
+                "telefon": "32 278 86 66",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.66518060466242,
+                    50.30119590467712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 63,
+                "JPT_KOD_JE": "2466",
+                "JPT_NAZWA_": "powiat Gliwice",
+                "id": 498,
+                "wojewodztwo": "śląskie",
+                "miasto": "Gliwice",
+                "powiat": "Gliwice",
+                "adres": "Kościuszki 1",
+                "miejscowosc": "Gliwice",
+                "kod": null,
+                "nazwa": "Szpital Wielospecjalistyczny w Gliwicach",
+                "poziom": "I stopień",
+                "www": "http://www.szwg.pl",
+                "telefon": "32 238 20 91",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.660791020821154,
+                    50.2889976609118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 64,
+                "JPT_KOD_JE": "2466",
+                "JPT_NAZWA_": "powiat Gliwice",
+                "id": 482,
+                "wojewodztwo": "śląskie",
+                "miasto": "Gliwice",
+                "powiat": "Gliwice",
+                "adres": "Zygmunta Starego 20",
+                "miejscowosc": "Gliwice",
+                "kod": null,
+                "nazwa": "Szpital Miejski Nr 4 w Gliwicach Spółka z ograniczoną odpowiedzialnością",
+                "poziom": "II stopień",
+                "www": "http://www.szpital4.gliwice.pl",
+                "telefon": "32 330 83 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.65791905272793,
+                    50.29061758135832
+                ]
+            }
+        }
+    ]
 }

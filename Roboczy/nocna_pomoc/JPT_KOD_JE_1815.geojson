@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1815",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 55, "JPT_KOD_JE": "1815", "JPT_NAZWA_": "powiat ropczycko-sędziszowski", "id": "104#295", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010015", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Ropczycach", "miejscowosc": "Ropczyce ", "ulica": "Wyszyńskiego  ", "numer_domu": "54", "adres_swiadczeniodawcy": "ks. Kard. St. Wyszyńskiego 54 ", "telefon": "Ropczyce: 17 223 17 42; Sędziszów: 17 222 08 58", "dodatkowe_miejsce": " Wyspańskiego 14; Sędziszów", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Księdza Kardynała Stefana Wyszyńskiego", "g_miejsc": "Ropczyce", "g_adr": "54", "g_teryt": "1815033", "g_gm": "Ropczyce", "g_pow": "ropczycko-sędziszowski", "g_woj": "podkarpackie", "g_szer": 21.615437760405079, "g_dlug": 50.057778834927404, "g_uuid": "65c12308-efdb-4c7c-a9af-f9caa1a47173", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 687148.643001584219746, 246666.753685358911753 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1815",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 55,
+                "JPT_KOD_JE": "1815",
+                "JPT_NAZWA_": "powiat ropczycko-sędziszowski",
+                "id": "104#295",
+                "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ",
+                "kod_swiadczeniodawcy": "09R/010015",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Ropczycach",
+                "miejscowosc": "Ropczyce ",
+                "ulica": "Wyszyńskiego  ",
+                "numer_domu": "54",
+                "adres_swiadczeniodawcy": "ks. Kard. St. Wyszyńskiego 54 ",
+                "telefon": "Ropczyce: 17 223 17 42; Sędziszów: 17 222 08 58",
+                "dodatkowe_miejsce": " Wyspańskiego 14; Sędziszów",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Księdza Kardynała Stefana Wyszyńskiego",
+                "g_miejsc": "Ropczyce",
+                "g_adr": "54",
+                "g_teryt": "1815033",
+                "g_gm": "Ropczyce",
+                "g_pow": "ropczycko-sędziszowski",
+                "g_woj": "podkarpackie",
+                "g_szer": 21.61543776040508,
+                "g_dlug": 50.057778834927404,
+                "g_uuid": "65c12308-efdb-4c7c-a9af-f9caa1a47173",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.615440000011084,
+                    50.05778000001263
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1433",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 366, "JPT_KOD_JE": "1433", "JPT_NAZWA_": "powiat węgrowski", "id": 212, "wojewodztwo": "mazowieckie", "miasto": "WĘGRÓW", "powiat": "WĘGROWSKI", "adres": "KOŚCIUSZKI 201", "miejscowosc": "WĘGRÓW ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W WĘGROWIE", "poziom": "I stopień", "www": "http:\/\/www.spzoz.wegrow.pl", "telefon": "257922041, 257922042", "e-mail": "zozweg@se.onet.pl" }, "geometry": { "type": "Point", "coordinates": [ 708329.9, 508823.2 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1433",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 366,
+                "JPT_KOD_JE": "1433",
+                "JPT_NAZWA_": "powiat węgrowski",
+                "id": 212,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "WĘGRÓW",
+                "powiat": "WĘGROWSKI",
+                "adres": "KOŚCIUSZKI 201",
+                "miejscowosc": "WĘGRÓW ",
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W WĘGROWIE",
+                "poziom": "I stopień",
+                "www": "http://www.spzoz.wegrow.pl",
+                "telefon": "257922041, 257922042",
+                "e-mail": "zozweg@se.onet.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.063688501978795,
+                    52.40558987794002
+                ]
+            }
+        }
+    ]
 }

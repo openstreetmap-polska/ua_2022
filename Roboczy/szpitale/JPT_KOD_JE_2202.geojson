@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2202",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 519, "JPT_KOD_JE": "2202", "JPT_NAZWA_": "powiat chojnicki", "id": 530, "wojewodztwo": "pomorskie", "miasto": "chojnicki", "powiat": "Chojnice", "adres": "Leśna 10", "miejscowosc": "Chojnice", "kod": "89-600", "nazwa": "Szpital Specjalistyczny im. J.K. Łukowicza", "poziom": "II stopień", "www": "http:\/\/www.szpital.chojnice.pl", "telefon": "52 395-65-00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 404225.8, 650737.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2202",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 519,
+                "JPT_KOD_JE": "2202",
+                "JPT_NAZWA_": "powiat chojnicki",
+                "id": 530,
+                "wojewodztwo": "pomorskie",
+                "miasto": "chojnicki",
+                "powiat": "Chojnice",
+                "adres": "Leśna 10",
+                "miejscowosc": "Chojnice",
+                "kod": "89-600",
+                "nazwa": "Szpital Specjalistyczny im. J.K. Łukowicza",
+                "poziom": "II stopień",
+                "www": "http://www.szpital.chojnice.pl",
+                "telefon": "52 395-65-00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.54839872649079,
+                    53.71259087354238
+                ]
+            }
+        }
+    ]
 }

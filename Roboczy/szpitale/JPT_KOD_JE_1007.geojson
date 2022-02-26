@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1007",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 295, "JPT_KOD_JE": "1007", "JPT_NAZWA_": "powiat opoczyński", "id": 136, "wojewodztwo": "łódzkie", "miasto": "Opoczno", "powiat": "opoczyński", "adres": "Partyzantów 30", "miejscowosc": null, "kod": null, "nazwa": "SP ZOZ Szpital Powiatowy im. E. Biernackiego w Opocznie", "poziom": "I stopień", "www": "http:\/\/www.szpitalopoczno.pl", "telefon": "44 754 48 16", "e-mail": "sekretariat@szpitalopoczno.pl" }, "geometry": { "type": "Point", "coordinates": [ 588911.5, 391038.5 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1007",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 295,
+                "JPT_KOD_JE": "1007",
+                "JPT_NAZWA_": "powiat opoczyński",
+                "id": 136,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Opoczno",
+                "powiat": "opoczyński",
+                "adres": "Partyzantów 30",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SP ZOZ Szpital Powiatowy im. E. Biernackiego w Opocznie",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalopoczno.pl",
+                "telefon": "44 754 48 16",
+                "e-mail": "sekretariat@szpitalopoczno.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.27793701974278,
+                    51.37899581155908
+                ]
+            }
+        }
+    ]
 }

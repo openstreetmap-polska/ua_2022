@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3008",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 396, "JPT_KOD_JE": "3008", "JPT_NAZWA_": "powiat kępiński", "id": 388, "wojewodztwo": "wielkopolskie", "miasto": "KĘPNO ", "powiat": "KĘPIŃSKI ", "adres": "SZPITALNA 7 ", "miejscowosc": null, "kod": "63-600 ", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W KĘPNIE ", "poziom": "I stopień", "www": "http:\/\/www.szpital.kepno.pl\/ ", "telefon": "(062)78-27-300 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 429144.5, 379392.5 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3008",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 396,
+                "JPT_KOD_JE": "3008",
+                "JPT_NAZWA_": "powiat kępiński",
+                "id": 388,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "KĘPNO ",
+                "powiat": "KĘPIŃSKI ",
+                "adres": "SZPITALNA 7 ",
+                "miejscowosc": null,
+                "kod": "63-600 ",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W KĘPNIE ",
+                "poziom": "I stopień",
+                "www": "http://www.szpital.kepno.pl/ ",
+                "telefon": "(062)78-27-300 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.983852406935085,
+                    51.27680285183209
+                ]
+            }
+        }
+    ]
 }

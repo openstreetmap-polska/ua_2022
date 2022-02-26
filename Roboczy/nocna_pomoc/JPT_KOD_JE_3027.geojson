@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3027",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 528, "JPT_KOD_JE": "3027", "JPT_NAZWA_": "powiat turecki", "id": "104#504", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000009", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej", "miejscowosc": "Turek ", "ulica": "Poduchowne ", "numer_domu": "1", "adres_swiadczeniodawcy": "Poduchowne 1", "telefon": "63 280 55 00\r\n789 448 545", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.490783286347746, "g_dlug": 52.010330292491602, "g_uuid": "10465f60-2b47-4186-bde6-392e3b771989", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 465060.416905650461558, 460580.165892644785345 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3027",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 528,
+                "JPT_KOD_JE": "3027",
+                "JPT_NAZWA_": "powiat turecki",
+                "id": "104#504",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150000009",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej",
+                "miejscowosc": "Turek ",
+                "ulica": "Poduchowne ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Poduchowne 1",
+                "telefon": "63 280 55 00\r\n789 448 545",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 18.490783286347746,
+                "g_dlug": 52.0103302924916,
+                "g_uuid": "10465f60-2b47-4186-bde6-392e3b771989",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.490779999999823,
+                    52.01033000001548
+                ]
+            }
+        }
+    ]
 }

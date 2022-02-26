@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3025",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 527, "JPT_KOD_JE": "3025", "JPT_NAZWA_": "powiat średzki", "id": "104#502", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150003530", "swiadczeniodawca": "Szpital Średzki Serca Jezusowego Sp. z o. o.", "miejscowosc": "Środa Wielkopolska", "ulica": "Żwirki i Wigury                                                              ", "numer_domu": "10", "adres_swiadczeniodawcy": "Żwirki i Wigury 10                                                             ", "telefon": "Lekarz POZ: 698 085 234\r\nPielęgniarka POZ: 698 085 274", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Żwirki i Wigury", "g_miejsc": "Środa Wielkopolska", "g_adr": "10", "g_teryt": "3025043", "g_gm": "Środa Wielkopolska", "g_pow": "średzki", "g_woj": "wielkopolskie", "g_szer": 17.285007927913362, "g_dlug": 52.227420710052606, "g_uuid": "35c61ab5-5603-46be-8ef3-e0f396760af5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 382902.057601202279329, 485981.851406937465072 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3025",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 527,
+                "JPT_KOD_JE": "3025",
+                "JPT_NAZWA_": "powiat średzki",
+                "id": "104#502",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150003530",
+                "swiadczeniodawca": "Szpital Średzki Serca Jezusowego Sp. z o. o.",
+                "miejscowosc": "Środa Wielkopolska",
+                "ulica": "Żwirki i Wigury                                                              ",
+                "numer_domu": "10",
+                "adres_swiadczeniodawcy": "Żwirki i Wigury 10                                                             ",
+                "telefon": "Lekarz POZ: 698 085 234\r\nPielęgniarka POZ: 698 085 274",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Żwirki i Wigury",
+                "g_miejsc": "Środa Wielkopolska",
+                "g_adr": "10",
+                "g_teryt": "3025043",
+                "g_gm": "Środa Wielkopolska",
+                "g_pow": "średzki",
+                "g_woj": "wielkopolskie",
+                "g_szer": 17.285007927913362,
+                "g_dlug": 52.227420710052606,
+                "g_uuid": "35c61ab5-5603-46be-8ef3-e0f396760af5",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.28500999999842,
+                    52.22742000001583
+                ]
+            }
+        }
+    ]
 }

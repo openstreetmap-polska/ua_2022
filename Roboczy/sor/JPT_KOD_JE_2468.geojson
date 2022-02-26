@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2468",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2468", "JPT_NAZWA_": "powiat Jaworzno", "id": 133, "ksiega": 390754, "id zoz": 479143, "id jednostki": "771377", "id komórki": 6766957, "regon": 27064118400037, "kod jednostki": "01", "kod komórki": 59, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Jaworzno - gmina miejska", "ulica": "ul. Józefa Chełmońskiego", "budynek": "28", "lokal": "NULL", "kod": "43-600", "miejscowosc": "Jaworzno", "teryt": 2468011, "kod simc": 940335, "kod ulicy": "02706", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2005-11-02" }, "geometry": { "type": "Point", "coordinates": [ 520272.902, 259855.996300000988413 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2468",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2468",
+                "JPT_NAZWA_": "powiat Jaworzno",
+                "id": 133,
+                "ksiega": 390754,
+                "id zoz": 479143,
+                "id jednostki": "771377",
+                "id komórki": 6766957,
+                "regon": 27064118400037,
+                "kod jednostki": "01",
+                "kod komórki": 59,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Jaworzno - gmina miejska",
+                "ulica": "ul. Józefa Chełmońskiego",
+                "budynek": "28",
+                "lokal": "NULL",
+                "kod": "43-600",
+                "miejscowosc": "Jaworzno",
+                "teryt": 2468011,
+                "kod simc": 940335,
+                "kod ulicy": "02706",
+                "lozka": 6,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2005-11-02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.28417473576069,
+                    50.20556243868364
+                ]
+            }
+        }
+    ]
 }

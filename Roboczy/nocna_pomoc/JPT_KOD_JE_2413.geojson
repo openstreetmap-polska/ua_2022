@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2413",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 183, "JPT_KOD_JE": "2413", "JPT_NAZWA_": "powiat tarnogórski", "id": "104#413", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "126\/212540", "swiadczeniodawca": "Zakon Posługujących Chorym Ojcowie Kamilianie w Tarnowskich Górach", "miejscowosc": "Tarnowskie Góry", "ulica": "Bytomska ", "numer_domu": "22", "adres_swiadczeniodawcy": "Bytomska 22", "telefon": "32 307 32 35", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Bytomska", "g_miejsc": "Tarnowskie Góry", "g_adr": "22", "g_teryt": "2413041", "g_gm": "Tarnowskie Góry", "g_pow": "tarnogórski", "g_woj": "śląskie", "g_szer": 18.863062889569608, "g_dlug": 50.438211247650479, "g_uuid": "a5ffc9a9-9f30-4d3f-8b62-d630e29a6984", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 490278.32460755557986, 285686.821689684875309 ] } },
-{ "type": "Feature", "properties": { "gid": 393, "JPT_KOD_JE": "2413", "JPT_NAZWA_": "powiat tarnogórski", "id": "104#412", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "126\/212109", "swiadczeniodawca": "Wielospecjalistyczny Szpital Powiatowy SA w Tarnowskich Górach", "miejscowosc": "Tarnowskie Góry", "ulica": "Pyskowicka", "numer_domu": "47-51", "adres_swiadczeniodawcy": "Pyskowicka 47-51", "telefon": "ul Pyskowicka: 606 890 610,  \r\n510 788 210;\r\nul. Mickiewicza: 32 285 80 80, \r\n32 381 75 80", "dodatkowe_miejsce": "NZOZ \"BI-MED\" APTEKA \"LEŚNA\" Sp. z o.o. ul. Mickiewicza 8", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.807347470391502, "g_dlug": 50.43990918025186, "g_uuid": "ff2e8024-ab02-43d0-9b90-dbb1895412fd", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 486323.839959435688797, 285884.562614711001515 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2413",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 183,
+                "JPT_KOD_JE": "2413",
+                "JPT_NAZWA_": "powiat tarnogórski",
+                "id": "104#413",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "126/212540",
+                "swiadczeniodawca": "Zakon Posługujących Chorym Ojcowie Kamilianie w Tarnowskich Górach",
+                "miejscowosc": "Tarnowskie Góry",
+                "ulica": "Bytomska ",
+                "numer_domu": "22",
+                "adres_swiadczeniodawcy": "Bytomska 22",
+                "telefon": "32 307 32 35",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Bytomska",
+                "g_miejsc": "Tarnowskie Góry",
+                "g_adr": "22",
+                "g_teryt": "2413041",
+                "g_gm": "Tarnowskie Góry",
+                "g_pow": "tarnogórski",
+                "g_woj": "śląskie",
+                "g_szer": 18.86306288956961,
+                "g_dlug": 50.43821124765048,
+                "g_uuid": "a5ffc9a9-9f30-4d3f-8b62-d630e29a6984",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.86305999999996,
+                    50.438210000013136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 393,
+                "JPT_KOD_JE": "2413",
+                "JPT_NAZWA_": "powiat tarnogórski",
+                "id": "104#412",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "126/212109",
+                "swiadczeniodawca": "Wielospecjalistyczny Szpital Powiatowy SA w Tarnowskich Górach",
+                "miejscowosc": "Tarnowskie Góry",
+                "ulica": "Pyskowicka",
+                "numer_domu": "47-51",
+                "adres_swiadczeniodawcy": "Pyskowicka 47-51",
+                "telefon": "ul Pyskowicka: 606 890 610,  \r\n510 788 210;\r\nul. Mickiewicza: 32 285 80 80, \r\n32 381 75 80",
+                "dodatkowe_miejsce": "NZOZ \"BI-MED\" APTEKA \"LEŚNA\" Sp. z o.o. ul. Mickiewicza 8",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 18.807347470391502,
+                "g_dlug": 50.43990918025186,
+                "g_uuid": "ff2e8024-ab02-43d0-9b90-dbb1895412fd",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.807349999999946,
+                    50.43991000001314
+                ]
+            }
+        }
+    ]
 }

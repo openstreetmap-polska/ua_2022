@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3011",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 192, "JPT_KOD_JE": "3011", "JPT_NAZWA_": "powiat kościański", "id": "104#480", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150001592", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Kościanie ", "miejscowosc": "Kościan", "ulica": "Szpitalna ", "numer_domu": "7", "adres_swiadczeniodawcy": "Szpitalna 7", "telefon": "65 525 04 83", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Kościan", "g_adr": "7", "g_teryt": "3011011", "g_gm": "Kościan", "g_pow": "kościański", "g_woj": "wielkopolskie", "g_szer": 16.647393611720585, "g_dlug": 52.084896841536661, "g_uuid": "5d5bedbe-54d7-4890-ac48-83d9e66e833f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 338857.189628143038135, 471359.921135989017785 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3011",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 192,
+                "JPT_KOD_JE": "3011",
+                "JPT_NAZWA_": "powiat kościański",
+                "id": "104#480",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150001592",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Kościanie ",
+                "miejscowosc": "Kościan",
+                "ulica": "Szpitalna ",
+                "numer_domu": "7",
+                "adres_swiadczeniodawcy": "Szpitalna 7",
+                "telefon": "65 525 04 83",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szpitalna",
+                "g_miejsc": "Kościan",
+                "g_adr": "7",
+                "g_teryt": "3011011",
+                "g_gm": "Kościan",
+                "g_pow": "kościański",
+                "g_woj": "wielkopolskie",
+                "g_szer": 16.647393611720585,
+                "g_dlug": 52.08489684153666,
+                "g_uuid": "5d5bedbe-54d7-4890-ac48-83d9e66e833f",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.647389999994342,
+                    52.08490000001563
+                ]
+            }
+        }
+    ]
 }

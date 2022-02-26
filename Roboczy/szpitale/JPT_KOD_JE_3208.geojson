@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3208",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 79, "JPT_KOD_JE": "3208", "JPT_NAZWA_": "powiat kołobrzeski", "id": 331, "wojewodztwo": "zachodniopomorskie", "miasto": "Kołobrzeg ", "powiat": "kołobrzeski ", "adres": "Łopuskiego 31 ", "miejscowosc": null, "kod": null, "nazwa": "Regionalny Szpital w Kołobrzegu ", "poziom": "II stopień ", "www": "http:\/\/szpital.kolobrzeg.pl\/ ", "telefon": "94 35 30 200 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 276068.9, 706585.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3208",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 79,
+                "JPT_KOD_JE": "3208",
+                "JPT_NAZWA_": "powiat kołobrzeski",
+                "id": 331,
+                "wojewodztwo": "zachodniopomorskie",
+                "miasto": "Kołobrzeg ",
+                "powiat": "kołobrzeski ",
+                "adres": "Łopuskiego 31 ",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Regionalny Szpital w Kołobrzegu ",
+                "poziom": "II stopień ",
+                "www": "http://szpital.kolobrzeg.pl/ ",
+                "telefon": "94 35 30 200 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.567742615916806,
+                    54.174584694727365
+                ]
+            }
+        }
+    ]
 }

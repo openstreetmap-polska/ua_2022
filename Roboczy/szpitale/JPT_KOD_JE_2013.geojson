@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2013",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 391, "JPT_KOD_JE": "2013", "JPT_NAZWA_": "powiat wysokomazowiecki", "id": 562, "wojewodztwo": "podlaskie", "miasto": "wysokomazowiecki", "powiat": "Wysokie Mazowieckie", "adres": "Szpitalna 5", "miejscowosc": "Wysokie Mazowieckie", "kod": "18-200", "nazwa": "SZPITAL OGÓLNY W WYSOKIEM MAZOWIECKIEM", "poziom": "I stopień", "www": "http:\/\/www.szpitalwysmaz.pl", "telefon": "86 477 55 01", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 736725.8, 566916.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2013",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 391,
+                "JPT_KOD_JE": "2013",
+                "JPT_NAZWA_": "powiat wysokomazowiecki",
+                "id": 562,
+                "wojewodztwo": "podlaskie",
+                "miasto": "wysokomazowiecki",
+                "powiat": "Wysokie Mazowieckie",
+                "adres": "Szpitalna 5",
+                "miejscowosc": "Wysokie Mazowieckie",
+                "kod": "18-200",
+                "nazwa": "SZPITAL OGÓLNY W WYSOKIEM MAZOWIECKIEM",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalwysmaz.pl",
+                "telefon": "86 477 55 01",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.52220032088093,
+                    52.91547959326013
+                ]
+            }
+        }
+    ]
 }

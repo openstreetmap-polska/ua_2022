@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0208",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 177, "JPT_KOD_JE": "0208", "JPT_NAZWA_": "powiat kłodzki", "id": 7, "wojewodztwo": "dolnośląskie", "miasto": "Kłodzko", "powiat": "kłodzki", "adres": "SZPITALNA 1A", "miejscowosc": null, "kod": null, "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W KŁODZKU", "poziom": "II stopień", "www": "http:\/\/www.zoz.klodzko.pl", "telefon": "74 86 51 200", "e-mail": "sekretariat@zoz.klodzko.pl" }, "geometry": { "type": "Point", "coordinates": [ 333935.3, 290168.8 ] } },
-{ "type": "Feature", "properties": { "_uid_": 178, "JPT_KOD_JE": "0208", "JPT_NAZWA_": "powiat kłodzki", "id": 1, "wojewodztwo": "dolnośląskie", "miasto": "Polanica-Zdrój", "powiat": "kłodzki", "adres": "JANA PAWŁA II 2", "miejscowosc": null, "kod": null, "nazwa": "SPECJALISTYCZNE CENTRUM MEDYCZNE SPÓŁKA AKCYJNA", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.scm.pl", "telefon": "74 86 21 100", "e-mail": "sekretariat@scm.pl" }, "geometry": { "type": "Point", "coordinates": [ 322503.4, 285264.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0208",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 177,
+                "JPT_KOD_JE": "0208",
+                "JPT_NAZWA_": "powiat kłodzki",
+                "id": 7,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Kłodzko",
+                "powiat": "kłodzki",
+                "adres": "SZPITALNA 1A",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W KŁODZKU",
+                "poziom": "II stopień",
+                "www": "http://www.zoz.klodzko.pl",
+                "telefon": "74 86 51 200",
+                "e-mail": "sekretariat@zoz.klodzko.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.659850497350128,
+                    50.45507889203241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 178,
+                "JPT_KOD_JE": "0208",
+                "JPT_NAZWA_": "powiat kłodzki",
+                "id": 1,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Polanica-Zdrój",
+                "powiat": "kłodzki",
+                "adres": "JANA PAWŁA II 2",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SPECJALISTYCZNE CENTRUM MEDYCZNE SPÓŁKA AKCYJNA",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.scm.pl",
+                "telefon": "74 86 21 100",
+                "e-mail": "sekretariat@scm.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50123489510028,
+                    50.407651184308286
+                ]
+            }
+        }
+    ]
 }

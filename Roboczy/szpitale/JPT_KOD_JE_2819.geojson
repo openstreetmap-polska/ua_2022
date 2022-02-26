@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2819",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 403, "JPT_KOD_JE": "2819", "JPT_NAZWA_": "powiat węgorzewski", "id": 433, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Węgorzewo", "powiat": "Węgorzewski", "adres": "3 Maja 17", "miejscowosc": "Węgorzewo", "kod": "11-600", "nazwa": "Mazurskie Centrum Zdrowia Szpital Powiatowy w Węgorzewie Publiczny Zakład Opieki Zdrowotnej", "poziom": "I stopień", "www": "http:\/\/www.mazurskiecentrumzdrowia.pl", "telefon": "87 427 32 52 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 678415.0, 708195.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2819",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 403,
+                "JPT_KOD_JE": "2819",
+                "JPT_NAZWA_": "powiat węgorzewski",
+                "id": 433,
+                "wojewodztwo": "warmińsko-mazurskie",
+                "miasto": "Węgorzewo",
+                "powiat": "Węgorzewski",
+                "adres": "3 Maja 17",
+                "miejscowosc": "Węgorzewo",
+                "kod": "11-600",
+                "nazwa": "Mazurskie Centrum Zdrowia Szpital Powiatowy w Węgorzewie Publiczny Zakład Opieki Zdrowotnej",
+                "poziom": "I stopień",
+                "www": "http://www.mazurskiecentrumzdrowia.pl",
+                "telefon": "87 427 32 52 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.736565416587965,
+                    54.20689362807407
+                ]
+            }
+        }
+    ]
 }

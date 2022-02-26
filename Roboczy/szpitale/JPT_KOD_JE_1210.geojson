@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1210",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 245, "JPT_KOD_JE": "1210", "JPT_NAZWA_": "powiat nowosądecki", "id": 153, "wojewodztwo": "małopolskie", "miasto": "KRYNICA-ZDRÓJ", "powiat": "nowosądecki", "adres": "Józefa Ignacego Kraszewskiego 142", "miejscowosc": "Krynica-Zdrój", "kod": "33-380", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ - SZPITAL IM.DR. JÓZEFA DIETLA W KRYNICY-ZDROJU", "poziom": "I stopień", "www": "http:\/\/www.szpital-krynica.pl", "telefon": "18 47 32 400", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 641754.8, 172214.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1210",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 245,
+                "JPT_KOD_JE": "1210",
+                "JPT_NAZWA_": "powiat nowosądecki",
+                "id": 153,
+                "wojewodztwo": "małopolskie",
+                "miasto": "KRYNICA-ZDRÓJ",
+                "powiat": "nowosądecki",
+                "adres": "Józefa Ignacego Kraszewskiego 142",
+                "miejscowosc": "Krynica-Zdrój",
+                "kod": "33-380",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ - SZPITAL IM.DR. JÓZEFA DIETLA W KRYNICY-ZDROJU",
+                "poziom": "I stopień",
+                "www": "http://www.szpital-krynica.pl",
+                "telefon": "18 47 32 400",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.954434914365965,
+                    49.40087584886768
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0619",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 17, "JPT_KOD_JE": "0619", "JPT_NAZWA_": "powiat włodawski", "id": "104#89", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000550", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej we Włodawie", "miejscowosc": "Włodawa ", "ulica": "Al. Józefa Piłsudskiego ", "numer_domu": "64", "adres_swiadczeniodawcy": "Al. Józefa Piłsudskiego 64", "telefon": "82 572 76 36; 535 325 338; 535 325 343", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "Józefa Piłsudskiego", "g_miejsc": "Włodawa", "g_adr": "64", "g_teryt": "0619011", "g_gm": "Włodawa", "g_pow": "włodawski", "g_woj": "lubelskie", "g_szer": 23.553477061548488, "g_dlug": 51.557367194472356, "g_uuid": "4bd26572-b585-471d-bbec-21baaa3b59b2", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 815502.418450461467728, 419923.851595745421946 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0619",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 17,
+                "JPT_KOD_JE": "0619",
+                "JPT_NAZWA_": "powiat włodawski",
+                "id": "104#89",
+                "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ",
+                "kod_swiadczeniodawcy": "30000550",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej we Włodawie",
+                "miejscowosc": "Włodawa ",
+                "ulica": "Al. Józefa Piłsudskiego ",
+                "numer_domu": "64",
+                "adres_swiadczeniodawcy": "Al. Józefa Piłsudskiego 64",
+                "telefon": "82 572 76 36; 535 325 338; 535 325 343",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "Józefa Piłsudskiego",
+                "g_miejsc": "Włodawa",
+                "g_adr": "64",
+                "g_teryt": "0619011",
+                "g_gm": "Włodawa",
+                "g_pow": "włodawski",
+                "g_woj": "lubelskie",
+                "g_szer": 23.553477061548488,
+                "g_dlug": 51.557367194472356,
+                "g_uuid": "4bd26572-b585-471d-bbec-21baaa3b59b2",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55348000014797,
+                    51.55737000001843
+                ]
+            }
+        }
+    ]
 }

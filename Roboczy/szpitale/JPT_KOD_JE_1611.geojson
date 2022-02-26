@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1611",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 293, "JPT_KOD_JE": "1611", "JPT_NAZWA_": "powiat strzelecki", "id": 290, "wojewodztwo": "opolskie", "miasto": "Strzelce Opolskie", "powiat": "strzelecki", "adres": "Opolska  36", "miejscowosc": "Strzelce Opolskie", "kod": "47-100 ", "nazwa": "Szpital Powiatowy im. Prałata J. Glowatzkiego w Strzelcach Opolskich", "poziom": "I stopień", "www": "http:\/\/www.szpital.strzelce-op.pl", "telefon": "77 407 01 03", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 449785.3, 294427.3 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1611",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 293,
+                "JPT_KOD_JE": "1611",
+                "JPT_NAZWA_": "powiat strzelecki",
+                "id": 290,
+                "wojewodztwo": "opolskie",
+                "miasto": "Strzelce Opolskie",
+                "powiat": "strzelecki",
+                "adres": "Opolska  36",
+                "miejscowosc": "Strzelce Opolskie",
+                "kod": "47-100 ",
+                "nazwa": "Szpital Powiatowy im. Prałata J. Glowatzkiego w Strzelcach Opolskich",
+                "poziom": "I stopień",
+                "www": "http://www.szpital.strzelce-op.pl",
+                "telefon": "77 407 01 03",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.291526627014996,
+                    50.5147644605501
+                ]
+            }
+        }
+    ]
 }

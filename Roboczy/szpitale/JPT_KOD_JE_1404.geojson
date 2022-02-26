@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1404",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 8, "JPT_KOD_JE": "1404", "JPT_NAZWA_": "powiat gostyniński", "id": 182, "wojewodztwo": "mazowieckie", "miasto": "GORZEWO", "powiat": "GOSTYNIŃSKI", "adres": "KRUK 5", "miejscowosc": "GORZEWO ", "kod": null, "nazwa": "ARION MED SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "I stopień", "www": "http:\/\/www.arion-szpitale.pl", "telefon": "24 2360950, 24 2352041 do 44, 24 2352091 do 93", "e-mail": "sekretariatgostynin@arion-szpitale.pl" }, "geometry": { "type": "Point", "coordinates": [ 533823.0, 511608.8 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1404",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 8,
+                "JPT_KOD_JE": "1404",
+                "JPT_NAZWA_": "powiat gostyniński",
+                "id": 182,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "GORZEWO",
+                "powiat": "GOSTYNIŃSKI",
+                "adres": "KRUK 5",
+                "miejscowosc": "GORZEWO ",
+                "kod": null,
+                "nazwa": "ARION MED SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+                "poziom": "I stopień",
+                "www": "http://www.arion-szpitale.pl",
+                "telefon": "24 2360950, 24 2352041 do 44, 24 2352091 do 93",
+                "e-mail": "sekretariatgostynin@arion-szpitale.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.498058153757015,
+                    52.46929733672927
+                ]
+            }
+        }
+    ]
 }

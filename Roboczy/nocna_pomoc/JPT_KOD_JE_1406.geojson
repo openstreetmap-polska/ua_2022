@@ -1,10 +1,129 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1406",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 45, "JPT_KOD_JE": "1406", "JPT_NAZWA_": "powiat grójecki", "id": "104#229", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001823", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Warce", "miejscowosc": "Warka", "ulica": "Piotra Wysockiego ", "numer_domu": "12", "adres_swiadczeniodawcy": "Piotra Wysockiego 12", "telefon": "48 670-29-53", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Piotra Wysockiego", "g_miejsc": "Warka", "g_adr": "12", "g_teryt": "1406113", "g_gm": "Warka", "g_pow": "grójecki", "g_woj": "mazowieckie", "g_szer": 21.188842502533696, "g_dlug": 51.785124485075997, "g_uuid": "5ad3568c-e6d4-403b-8501-f7dd488f6b5e", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 650929.561232627485879, 437682.85952767636627 ] } },
-{ "type": "Feature", "properties": { "gid": 245, "JPT_KOD_JE": "1406", "JPT_NAZWA_": "powiat grójecki", "id": "104#203", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001799", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowym Mieście nad Pilicą", "miejscowosc": "Nowe Miasto nad Pilicą", "ulica": "Tomaszowska ", "numer_domu": "43", "adres_swiadczeniodawcy": "Tomaszowska 43", "telefon": "505-137-079; \r\n505-137-081", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Tomaszowska", "g_miejsc": "Nowe Miasto nad Pilicą", "g_adr": "43", "g_teryt": "1406083", "g_gm": "Nowe Miasto nad Pilicą", "g_pow": "grójecki", "g_woj": "mazowieckie", "g_szer": 20.564400817433654, "g_dlug": 51.617028972477875, "g_uuid": "c884845f-56ac-4dd9-ba1c-20a0e0b5b85d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 608275.373781451489776, 417887.207721147686243 ] } },
-{ "type": "Feature", "properties": { "gid": 462, "JPT_KOD_JE": "1406", "JPT_NAZWA_": "powiat grójecki", "id": "104#192", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70603339", "swiadczeniodawca": "Powiatowe Centrum Medyczne w Grójcu Spółka z o.o.", "miejscowosc": "Grójec", "ulica": " Ks. Piotra Skargi ", "numer_domu": "10", "adres_swiadczeniodawcy": " Ks. Piotra Skargi 10", "telefon": "48 664 93 60", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Księdza Piotra Skargi", "g_miejsc": "Grójec", "g_adr": "10", "g_teryt": "1406053", "g_gm": "Grójec", "g_pow": "grójecki", "g_woj": "mazowieckie", "g_szer": 20.867967619282297, "g_dlug": 51.86781223963817, "g_uuid": "d497836d-00ac-45d9-b339-c684b404e880", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 628570.545436253771186, 446260.06371564231813 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1406",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 45,
+                "JPT_KOD_JE": "1406",
+                "JPT_NAZWA_": "powiat grójecki",
+                "id": "104#229",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70001823",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Warce",
+                "miejscowosc": "Warka",
+                "ulica": "Piotra Wysockiego ",
+                "numer_domu": "12",
+                "adres_swiadczeniodawcy": "Piotra Wysockiego 12",
+                "telefon": "48 670-29-53",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Piotra Wysockiego",
+                "g_miejsc": "Warka",
+                "g_adr": "12",
+                "g_teryt": "1406113",
+                "g_gm": "Warka",
+                "g_pow": "grójecki",
+                "g_woj": "mazowieckie",
+                "g_szer": 21.188842502533696,
+                "g_dlug": 51.785124485076,
+                "g_uuid": "5ad3568c-e6d4-403b-8501-f7dd488f6b5e",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.188840000004216,
+                    51.785120000015155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 245,
+                "JPT_KOD_JE": "1406",
+                "JPT_NAZWA_": "powiat grójecki",
+                "id": "104#203",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70001799",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowym Mieście nad Pilicą",
+                "miejscowosc": "Nowe Miasto nad Pilicą",
+                "ulica": "Tomaszowska ",
+                "numer_domu": "43",
+                "adres_swiadczeniodawcy": "Tomaszowska 43",
+                "telefon": "505-137-079; \r\n505-137-081",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Tomaszowska",
+                "g_miejsc": "Nowe Miasto nad Pilicą",
+                "g_adr": "43",
+                "g_teryt": "1406083",
+                "g_gm": "Nowe Miasto nad Pilicą",
+                "g_pow": "grójecki",
+                "g_woj": "mazowieckie",
+                "g_szer": 20.564400817433654,
+                "g_dlug": 51.617028972477875,
+                "g_uuid": "c884845f-56ac-4dd9-ba1c-20a0e0b5b85d",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.564400000001168,
+                    51.61703000001487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 462,
+                "JPT_KOD_JE": "1406",
+                "JPT_NAZWA_": "powiat grójecki",
+                "id": "104#192",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70603339",
+                "swiadczeniodawca": "Powiatowe Centrum Medyczne w Grójcu Spółka z o.o.",
+                "miejscowosc": "Grójec",
+                "ulica": " Ks. Piotra Skargi ",
+                "numer_domu": "10",
+                "adres_swiadczeniodawcy": " Ks. Piotra Skargi 10",
+                "telefon": "48 664 93 60",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Księdza Piotra Skargi",
+                "g_miejsc": "Grójec",
+                "g_adr": "10",
+                "g_teryt": "1406053",
+                "g_gm": "Grójec",
+                "g_pow": "grójecki",
+                "g_woj": "mazowieckie",
+                "g_szer": 20.867967619282297,
+                "g_dlug": 51.86781223963817,
+                "g_uuid": "d497836d-00ac-45d9-b339-c684b404e880",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.867970000002188,
+                    51.86781000001526
+                ]
+            }
+        }
+    ]
 }

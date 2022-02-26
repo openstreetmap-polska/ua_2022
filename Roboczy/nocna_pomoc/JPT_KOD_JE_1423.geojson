@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1423",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 470, "JPT_KOD_JE": "1423", "JPT_NAZWA_": "powiat przysuski", "id": "104#217", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001795", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Przysusze", "miejscowosc": "Przysucha", "ulica": "Partyzantów ", "numer_domu": "8", "adres_swiadczeniodawcy": "Partyzantów 8", "telefon": "48 383-35-07", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Partyzantów", "g_miejsc": "Przysucha", "g_adr": "8", "g_teryt": "1423063", "g_gm": "Przysucha", "g_pow": "przysuski", "g_woj": "mazowieckie", "g_szer": 20.630346138254691, "g_dlug": 51.359450583772905, "g_uuid": "b9267c40-8a11-4271-9c2c-09eedf0abdfe", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 613477.38021625764668, 389351.901078538969159 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1423",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 470,
+                "JPT_KOD_JE": "1423",
+                "JPT_NAZWA_": "powiat przysuski",
+                "id": "104#217",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70001795",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Przysusze",
+                "miejscowosc": "Przysucha",
+                "ulica": "Partyzantów ",
+                "numer_domu": "8",
+                "adres_swiadczeniodawcy": "Partyzantów 8",
+                "telefon": "48 383-35-07",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Partyzantów",
+                "g_miejsc": "Przysucha",
+                "g_adr": "8",
+                "g_teryt": "1423063",
+                "g_gm": "Przysucha",
+                "g_pow": "przysuski",
+                "g_woj": "mazowieckie",
+                "g_szer": 20.63034613825469,
+                "g_dlug": 51.359450583772905,
+                "g_uuid": "b9267c40-8a11-4271-9c2c-09eedf0abdfe",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.63035000000134,
+                    51.35945000001449
+                ]
+            }
+        }
+    ]
 }

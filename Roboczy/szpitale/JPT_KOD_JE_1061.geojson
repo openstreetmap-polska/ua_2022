@@ -1,20 +1,363 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1061",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 253, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 111, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "św. Teresy od Dzieciątka Jezus 8", "miejscowosc": null, "kod": null, "nazwa": "Instytut Medycyny Pracy im. Prof. Dr med. J. Nofera", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.imp.lodz.pl", "telefon": "42 631 45 02", "e-mail": "impx@imp.lodz.pl" }, "geometry": { "type": "Point", "coordinates": [ 530091.6, 437378.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 254, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 112, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "Pomorska 251", "miejscowosc": null, "kod": null, "nazwa": "SP ZOZ CSK UM w Łodzi", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.csk.umed.pl", "telefon": "42 617 77 77, 42 675 75 00 ", "e-mail": "poczta@csk.umed.pl" }, "geometry": { "type": "Point", "coordinates": [ 534973.3, 434456.9 ] } },
-{ "type": "Feature", "properties": { "_uid_": 255, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 113, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "Północna 42", "miejscowosc": null, "kod": null, "nazwa": "SP ZOZ MSWiA w Łodzi", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.zozmswlodz.pl", "telefon": "42 634 11 00", "e-mail": "kontakt@zozmswlodz.pl" }, "geometry": { "type": "Point", "coordinates": [ 532720.0, 435050.9 ] } },
-{ "type": "Feature", "properties": { "_uid_": 256, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 114, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "Żeromskiego 113", "miejscowosc": null, "kod": null, "nazwa": "SP ZOZ USK im. WAM UM w Łodzi - Centralny Szpital Weteranów", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.uskwam.umed.lodz.pl", "telefon": "42 639 34 22", "e-mail": "sekretariat@skwam.lodz.pl" }, "geometry": { "type": "Point", "coordinates": [ 530888.3, 432660.6 ] } },
-{ "type": "Feature", "properties": { "_uid_": 257, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 115, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "Kopcińskiego 22", "miejscowosc": null, "kod": null, "nazwa": "SP ZOZ USK Nr 1 im.  N. Barlickiego UM", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.barlicki.pl", "telefon": "42 677 69 50", "e-mail": "kancelaria@barlicki.pl" }, "geometry": { "type": "Point", "coordinates": [ 533312.1, 434280.3 ] } },
-{ "type": "Feature", "properties": { "_uid_": 258, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 116, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "Okólna 181", "miejscowosc": null, "kod": null, "nazwa": "Wojewódzki Zespół Zakładów Opieki Zdrowotnej Centrum Leczenia Chorób Płuc i Rehabilitacji w Łodzi", "poziom": "Szpital pulmunologiczny", "www": "http:\/\/www.centrumpluc.com.pl", "telefon": "42 659 00 11", "e-mail": "clchp@centrumpluc.com.pl" }, "geometry": { "type": "Point", "coordinates": [ 532972.2, 442444.1 ] } },
-{ "type": "Feature", "properties": { "_uid_": 259, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 120, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "Kniaziewicza 1\/5", "miejscowosc": null, "kod": null, "nazwa": "Wojewódzki Specjalistyczny Szpital im. Wł. Biegańskiego", "poziom": "III stopień", "www": "http:\/\/www.bieganski.com.pl", "telefon": "42 251 60 50", "e-mail": "szpital@bieganski.com.pl" }, "geometry": { "type": "Point", "coordinates": [ 530279.8, 437166.6 ] } },
-{ "type": "Feature", "properties": { "_uid_": 260, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 121, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "Pabianicka 62", "miejscowosc": null, "kod": null, "nazwa": "Wojewódzkie Wielospecjalistyczne Centrum Onkologii i Traumatologii im. M. Kopernika w Łodzi", "poziom": "III stopień", "www": "http:\/\/www.kopernik.lodz.pl ", "telefon": "42 689 55 99", "e-mail": "szpital@kopernik.lodz.pl" }, "geometry": { "type": "Point", "coordinates": [ 531454.2, 429616.9 ] } },
-{ "type": "Feature", "properties": { "_uid_": 261, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 125, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "Milionowa 14", "miejscowosc": null, "kod": null, "nazwa": "Miejskie Centrum Medyczne im. K. Jonschera w Łodzi", "poziom": "II stopień", "www": "http:\/\/www.jonscher.pl", "telefon": "42 676 17 74", "e-mail": "jonscher@jonscher.pl" }, "geometry": { "type": "Point", "coordinates": [ 533388.7, 431757.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 262, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 134, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "Sterlinga 13", "miejscowosc": null, "kod": null, "nazwa": "Centrum Medyczne im. L. Rydygiera Sp. z o.o.", "poziom": "I stopień", "www": "http:\/\/www.szpitalrydygiera.pl", "telefon": "42 632 34 65", "e-mail": "sekretariat@centrumrydygiera.pl" }, "geometry": { "type": "Point", "coordinates": [ 532312.0, 434647.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 263, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 135, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "Kosynierów Gdyńskich 61", "miejscowosc": null, "kod": null, "nazwa": "Szpital Zakonu Bonifratrów  w Łodzi", "poziom": "I stopień", "www": "http:\/\/www.bonifratrzy.pl\/szpital-lodz\/", "telefon": "42 685 51 63", "e-mail": "szpital@bonifratrzy.lodz.pl" }, "geometry": { "type": "Point", "coordinates": [ 532490.6, 428035.4 ] } },
-{ "type": "Feature", "properties": { "_uid_": 264, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 110, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "Rzgowska 281\/289", "miejscowosc": null, "kod": null, "nazwa": "Instytut Centrum Zdrowia Matki Polki", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.iczmp.edu.pl", "telefon": "42 271 10 00", "e-mail": "iczmp@iczmp.edu.pl" }, "geometry": { "type": "Point", "coordinates": [ 533216.5, 426671.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 265, "JPT_KOD_JE": "1061", "JPT_NAZWA_": "powiat Łódź", "id": 119, "wojewodztwo": "łódzkie", "miasto": "Łódź", "powiat": "Łódź", "adres": "Wólczańska 191\/195", "miejscowosc": null, "kod": null, "nazwa": "Wojewódzki Specjalistyczny Szpital im. M. Pirogowa w Łodzi", "poziom": "III stopień", "www": "http:\/\/www.pirogow.pl", "telefon": "42 636 76 11", "e-mail": "sekretariat@pirogow.pl" }, "geometry": { "type": "Point", "coordinates": [ 531415.6, 431803.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1061",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 253,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 111,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "św. Teresy od Dzieciątka Jezus 8",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Instytut Medycyny Pracy im. Prof. Dr med. J. Nofera",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.imp.lodz.pl",
+                "telefon": "42 631 45 02",
+                "e-mail": "impx@imp.lodz.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.436538836962313,
+                    51.801946422730865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 254,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 112,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "Pomorska 251",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SP ZOZ CSK UM w Łodzi",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.csk.umed.pl",
+                "telefon": "42 617 77 77, 42 675 75 00 ",
+                "e-mail": "poczta@csk.umed.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.507060187458354,
+                    51.77538911957062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 255,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 113,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "Północna 42",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SP ZOZ MSWiA w Łodzi",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.zozmswlodz.pl",
+                "telefon": "42 634 11 00",
+                "e-mail": "kontakt@zozmswlodz.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.474448005290068,
+                    51.78086772935834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 256,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 114,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "Żeromskiego 113",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SP ZOZ USK im. WAM UM w Łodzi - Centralny Szpital Weteranów",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.uskwam.umed.lodz.pl",
+                "telefon": "42 639 34 22",
+                "e-mail": "sekretariat@skwam.lodz.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4476760778669,
+                    51.75947417844477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 257,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 115,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "Kopcińskiego 22",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SP ZOZ USK Nr 1 im.  N. Barlickiego UM",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.barlicki.pl",
+                "telefon": "42 677 69 50",
+                "e-mail": "kancelaria@barlicki.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.482959280351242,
+                    51.77390224125562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 258,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 116,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "Okólna 181",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Wojewódzki Zespół Zakładów Opieki Zdrowotnej Centrum Leczenia Chorób Płuc i Rehabilitacji w Łodzi",
+                "poziom": "Szpital pulmunologiczny",
+                "www": "http://www.centrumpluc.com.pl",
+                "telefon": "42 659 00 11",
+                "e-mail": "clchp@centrumpluc.com.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.478808985738628,
+                    51.847344617860614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 259,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 120,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "Kniaziewicza 1/5",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Wojewódzki Specjalistyczny Szpital im. Wł. Biegańskiego",
+                "poziom": "III stopień",
+                "www": "http://www.bieganski.com.pl",
+                "telefon": "42 251 60 50",
+                "e-mail": "szpital@bieganski.com.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.439250474191635,
+                    51.800033189366225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 260,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 121,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "Pabianicka 62",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Wojewódzkie Wielospecjalistyczne Centrum Onkologii i Traumatologii im. M. Kopernika w Łodzi",
+                "poziom": "III stopień",
+                "www": "http://www.kopernik.lodz.pl ",
+                "telefon": "42 689 55 99",
+                "e-mail": "szpital@kopernik.lodz.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.455602154262728,
+                    51.732068339108814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 261,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 125,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "Milionowa 14",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Miejskie Centrum Medyczne im. K. Jonschera w Łodzi",
+                "poziom": "II stopień",
+                "www": "http://www.jonscher.pl",
+                "telefon": "42 676 17 74",
+                "e-mail": "jonscher@jonscher.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.48382714764438,
+                    51.751203866761976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 262,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 134,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "Sterlinga 13",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Centrum Medyczne im. L. Rydygiera Sp. z o.o.",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalrydygiera.pl",
+                "telefon": "42 632 34 65",
+                "e-mail": "sekretariat@centrumrydygiera.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.46849449803737,
+                    51.77725889936504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 263,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 135,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "Kosynierów Gdyńskich 61",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Szpital Zakonu Bonifratrów  w Łodzi",
+                "poziom": "I stopień",
+                "www": "http://www.bonifratrzy.pl/szpital-lodz/",
+                "telefon": "42 685 51 63",
+                "e-mail": "szpital@bonifratrzy.lodz.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.470465815285245,
+                    51.717785527706134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 264,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 110,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "Rzgowska 281/289",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Instytut Centrum Zdrowia Matki Polki",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.iczmp.edu.pl",
+                "telefon": "42 271 10 00",
+                "e-mail": "iczmp@iczmp.edu.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.480846357306657,
+                    51.705471857621426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 265,
+                "JPT_KOD_JE": "1061",
+                "JPT_NAZWA_": "powiat Łódź",
+                "id": 119,
+                "wojewodztwo": "łódzkie",
+                "miasto": "Łódź",
+                "powiat": "Łódź",
+                "adres": "Wólczańska 191/195",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Wojewódzki Specjalistyczny Szpital im. M. Pirogowa w Łodzi",
+                "poziom": "III stopień",
+                "www": "http://www.pirogow.pl",
+                "telefon": "42 636 76 11",
+                "e-mail": "sekretariat@pirogow.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.45524067548195,
+                    51.751737183095685
+                ]
+            }
+        }
+    ]
 }

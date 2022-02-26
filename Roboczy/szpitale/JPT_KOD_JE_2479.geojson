@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2479",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 365, "JPT_KOD_JE": "2479", "JPT_NAZWA_": "powiat Żory", "id": 503, "wojewodztwo": "śląskie", "miasto": "Żory", "powiat": "Żory", "adres": "Dąbrowskiego 20", "miejscowosc": "Żory", "kod": null, "nazwa": "Miejskie Zakłady Opieki Zdrowotnej w Żorach Sp z o. o.", "poziom": "I stopień", "www": "http:\/\/www.mzoz.zory.pl", "telefon": "32 434 12 24", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 477355.5, 240956.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2479",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 365,
+                "JPT_KOD_JE": "2479",
+                "JPT_NAZWA_": "powiat Żory",
+                "id": 503,
+                "wojewodztwo": "śląskie",
+                "miasto": "Żory",
+                "powiat": "Żory",
+                "adres": "Dąbrowskiego 20",
+                "miejscowosc": "Żory",
+                "kod": null,
+                "nazwa": "Miejskie Zakłady Opieki Zdrowotnej w Żorach Sp z o. o.",
+                "poziom": "I stopień",
+                "www": "http://www.mzoz.zory.pl",
+                "telefon": "32 434 12 24",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.683704295080275,
+                    50.03544481496812
+                ]
+            }
+        }
+    ]
 }

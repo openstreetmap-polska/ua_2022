@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0613",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0613", "JPT_NAZWA_": "powiat parczewski", "id": 85, "ksiega": 388510, "id zoz": 475616, "id jednostki": "763906", "id komórki": 6689549, "regon": 30648900024, "kod jednostki": "01", "kod komórki": 35, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Parczew - miasto", "ulica": "ul. Kościelna", "budynek": "136", "lokal": "NULL", "kod": "21-200", "miejscowosc": "Parczew", "teryt": 613044, "kod simc": 922254, "kod ulicy": "09546", "lozka": 6, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2002-03-26" }, "geometry": { "type": "Point", "coordinates": [ 770659.3316, 425956.0188 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0613",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0613",
+                "JPT_NAZWA_": "powiat parczewski",
+                "id": 85,
+                "ksiega": 388510,
+                "id zoz": 475616,
+                "id jednostki": "763906",
+                "id komórki": 6689549,
+                "regon": 30648900024,
+                "kod jednostki": "01",
+                "kod komórki": 35,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Parczew - miasto",
+                "ulica": "ul. Kościelna",
+                "budynek": "136",
+                "lokal": "NULL",
+                "kod": "21-200",
+                "miejscowosc": "Parczew",
+                "teryt": 613044,
+                "kod simc": 922254,
+                "kod ulicy": "09546",
+                "lozka": 6,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2002-03-26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.912694568679566,
+                    51.63480785322429
+                ]
+            }
+        }
+    ]
 }

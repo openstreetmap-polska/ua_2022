@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0807",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 28, "JPT_KOD_JE": "0807", "JPT_NAZWA_": "powiat sulęciński", "id": 107, "wojewodztwo": "lubuskie", "miasto": "Torzym", "powiat": "sulęciński", "adres": "Wojska Polskiego 52", "miejscowosc": "Torzym", "kod": "66-235", "nazwa": "Lubuski Szpital Specjalistyczny Pulmonologiczno-Kardiologiczny w Torzymiu Spółka z ograniczona odpowiedzialnością", "poziom": "Szpital pulmunologiczny", "www": "http:\/\/www.szpitaltorzym.pl", "telefon": "68 341 63 00", "e-mail": "biuro.zarzadu@szpitaltorzym.pl" }, "geometry": { "type": "Point", "coordinates": [ 231616.6, 501658.7 ] } },
-{ "type": "Feature", "properties": { "_uid_": 29, "JPT_KOD_JE": "0807", "JPT_NAZWA_": "powiat sulęciński", "id": 92, "wojewodztwo": "lubuskie", "miasto": "Sulęcin", "powiat": "sulęciński", "adres": "W. Witosa 7", "miejscowosc": "Sulęcin", "kod": "69-200", "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej", "poziom": "I stopień", "www": "http:\/\/www.szpital-sulecin.pl", "telefon": "95 755 24 31", "e-mail": " zozsul@kam.pl" }, "geometry": { "type": "Point", "coordinates": [ 236183.3, 515012.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0807",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 28,
+                "JPT_KOD_JE": "0807",
+                "JPT_NAZWA_": "powiat sulęciński",
+                "id": 107,
+                "wojewodztwo": "lubuskie",
+                "miasto": "Torzym",
+                "powiat": "sulęciński",
+                "adres": "Wojska Polskiego 52",
+                "miejscowosc": "Torzym",
+                "kod": "66-235",
+                "nazwa": "Lubuski Szpital Specjalistyczny Pulmonologiczno-Kardiologiczny w Torzymiu Spółka z ograniczona odpowiedzialnością",
+                "poziom": "Szpital pulmunologiczny",
+                "www": "http://www.szpitaltorzym.pl",
+                "telefon": "68 341 63 00",
+                "e-mail": "biuro.zarzadu@szpitaltorzym.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.060912535231806,
+                    52.315159614556265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 29,
+                "JPT_KOD_JE": "0807",
+                "JPT_NAZWA_": "powiat sulęciński",
+                "id": 92,
+                "wojewodztwo": "lubuskie",
+                "miasto": "Sulęcin",
+                "powiat": "sulęciński",
+                "adres": "W. Witosa 7",
+                "miejscowosc": "Sulęcin",
+                "kod": "69-200",
+                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "poziom": "I stopień",
+                "www": "http://www.szpital-sulecin.pl",
+                "telefon": "95 755 24 31",
+                "e-mail": " zozsul@kam.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.117260580713259,
+                    52.43719097855895
+                ]
+            }
+        }
+    ]
 }

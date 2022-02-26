@@ -1,10 +1,93 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1217",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 406, "JPT_KOD_JE": "1217", "JPT_NAZWA_": "powiat tatrzański", "id": 152, "wojewodztwo": "małopolskie", "miasto": "Zakopane", "powiat": "tatrzański", "adres": "Gładkie 1", "miejscowosc": "Zakopane", "kod": "34-500", "nazwa": "SAMODZIELNY PUBLICZNY SZPITAL SPECJALISTYCZNY CHORÓB PŁUC IM.DR O.SOKOŁOWSKIEGO", "poziom": "Szpital pulmunologiczny", "www": "http:\/\/www.szpitalsokolowski.pl", "telefon": "18 20 15 045", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 568567.9, 159274.9 ] } },
-{ "type": "Feature", "properties": { "_uid_": 407, "JPT_KOD_JE": "1217", "JPT_NAZWA_": "powiat tatrzański", "id": 173, "wojewodztwo": "małopolskie", "miasto": "Zakopane", "powiat": "tatrzański", "adres": "Oswalda Balzera 15", "miejscowosc": "Zakopane", "kod": "34-500", "nazwa": "UNIWERSYTECKI SZPITAL ORTOPEDYCZNO-REHABILITACYJNY W ZAKOPANEM", "poziom": "Szpital ogólnopolskie", "www": "http:\/\/www.klinika.net.pl", "telefon": "18 20 22 100", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 571529.7, 158120.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 408, "JPT_KOD_JE": "1217", "JPT_NAZWA_": "powiat tatrzański", "id": 163, "wojewodztwo": "małopolskie", "miasto": "Zakopane", "powiat": "tatrzański", "adres": "Kamieniec 10", "miejscowosc": "Zakopane", "kod": "34-500", "nazwa": "SZPITAL POWIATOWY IM. DR TYTUSA CHAŁUBIŃSKIEGO W ZAKOPANEM", "poziom": "II stopień", "www": "http:\/\/www.szpital-zakopane.pl", "telefon": "18-20-120-21 wew. 240, 18-20-120-21 wew. 245 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 569446.1, 160096.3 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1217",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 406,
+                "JPT_KOD_JE": "1217",
+                "JPT_NAZWA_": "powiat tatrzański",
+                "id": 152,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Zakopane",
+                "powiat": "tatrzański",
+                "adres": "Gładkie 1",
+                "miejscowosc": "Zakopane",
+                "kod": "34-500",
+                "nazwa": "SAMODZIELNY PUBLICZNY SZPITAL SPECJALISTYCZNY CHORÓB PŁUC IM.DR O.SOKOŁOWSKIEGO",
+                "poziom": "Szpital pulmunologiczny",
+                "www": "http://www.szpitalsokolowski.pl",
+                "telefon": "18 20 15 045",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.943367825825117,
+                    49.297117243670414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 407,
+                "JPT_KOD_JE": "1217",
+                "JPT_NAZWA_": "powiat tatrzański",
+                "id": 173,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Zakopane",
+                "powiat": "tatrzański",
+                "adres": "Oswalda Balzera 15",
+                "miejscowosc": "Zakopane",
+                "kod": "34-500",
+                "nazwa": "UNIWERSYTECKI SZPITAL ORTOPEDYCZNO-REHABILITACYJNY W ZAKOPANEM",
+                "poziom": "Szpital ogólnopolskie",
+                "www": "http://www.klinika.net.pl",
+                "telefon": "18 20 22 100",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.98390375924946,
+                    49.28638913746449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 408,
+                "JPT_KOD_JE": "1217",
+                "JPT_NAZWA_": "powiat tatrzański",
+                "id": 163,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Zakopane",
+                "powiat": "tatrzański",
+                "adres": "Kamieniec 10",
+                "miejscowosc": "Zakopane",
+                "kod": "34-500",
+                "nazwa": "SZPITAL POWIATOWY IM. DR TYTUSA CHAŁUBIŃSKIEGO W ZAKOPANEM",
+                "poziom": "II stopień",
+                "www": "http://www.szpital-zakopane.pl",
+                "telefon": "18-20-120-21 wew. 240, 18-20-120-21 wew. 245 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.955591370715922,
+                    49.30440778644567
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2413",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2413", "JPT_NAZWA_": "powiat tarnogórski", "id": 223, "ksiega": 392318, "id zoz": 482560, "id jednostki": "779880", "id komórki": 6868114, "regon": 24151294000028, "kod jednostki": "01", "kod komórki": 13, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Tarnowskie Góry - gmina miejska", "ulica": "ul. Pyskowicka", "budynek": "47-51", "lokal": "NULL", "kod": "42-612", "miejscowosc": "Tarnowskie Góry", "teryt": 2413041, "kod simc": 943813, "kod ulicy": "18230", "lozka": 4, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2010-07-01" }, "geometry": { "type": "Point", "coordinates": [ 486325.96, 285887.050000000977889 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2413",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2413",
+                "JPT_NAZWA_": "powiat tarnogórski",
+                "id": 223,
+                "ksiega": 392318,
+                "id zoz": 482560,
+                "id jednostki": "779880",
+                "id komórki": 6868114,
+                "regon": 24151294000028,
+                "kod jednostki": "01",
+                "kod komórki": 13,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Tarnowskie Góry - gmina miejska",
+                "ulica": "ul. Pyskowicka",
+                "budynek": "47-51",
+                "lokal": "NULL",
+                "kod": "42-612",
+                "miejscowosc": "Tarnowskie Góry",
+                "teryt": 2413041,
+                "kod simc": 943813,
+                "kod ulicy": "18230",
+                "lozka": 4,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2010-07-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.807379773076683,
+                    50.439932426011346
+                ]
+            }
+        }
+    ]
 }

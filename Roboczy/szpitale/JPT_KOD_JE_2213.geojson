@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2213",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 266, "JPT_KOD_JE": "2213", "JPT_NAZWA_": "powiat starogardzki", "id": 551, "wojewodztwo": "pomorskie", "miasto": "starogardzki", "powiat": "Starogard Gdański", "adres": "Dr. Józefa Balewskiego 1", "miejscowosc": "Starogard Gd.", "kod": "83-200", "nazwa": "Kociewskie Centrum Zdrowia Sp. z o.o.", "poziom": "II stopień", "www": "http:\/\/www.szpital-starogard.pl", "telefon": "58 562-30-31", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 467745.2, 678196.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2213",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 266,
+                "JPT_KOD_JE": "2213",
+                "JPT_NAZWA_": "powiat starogardzki",
+                "id": 551,
+                "wojewodztwo": "pomorskie",
+                "miasto": "starogardzki",
+                "powiat": "Starogard Gdański",
+                "adres": "Dr. Józefa Balewskiego 1",
+                "miejscowosc": "Starogard Gd.",
+                "kod": "83-200",
+                "nazwa": "Kociewskie Centrum Zdrowia Sp. z o.o.",
+                "poziom": "II stopień",
+                "www": "http://www.szpital-starogard.pl",
+                "telefon": "58 562-30-31",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.50816879065595,
+                    53.96725751755562
+                ]
+            }
+        }
+    ]
 }

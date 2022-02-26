@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0811",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 22, "JPT_KOD_JE": "0811", "JPT_NAZWA_": "powiat żarski", "id": "104#108", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "020293", "swiadczeniodawca": "105. Kresowy Szpital Wojskowy z Przychodnią SPZOZ w Żarach ", "miejscowosc": "Żary ", "ulica": "Domańskiego ", "numer_domu": "2", "adres_swiadczeniodawcy": "Domańskiego 2", "telefon": "68 470 78 68; 68  470 79 14", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Domańskiego", "g_miejsc": "Żary", "g_adr": "2", "g_teryt": "0811021", "g_gm": "Żary", "g_pow": "żarski", "g_woj": "lubuskie", "g_szer": 15.148224788676737, "g_dlug": 51.640864914045167, "g_uuid": "f8e173e6-4b74-4e3d-a900-bc3170ee0e74", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 233588.446471716102678, 426404.433372581377625 ] } },
-{ "type": "Feature", "properties": { "gid": 335, "JPT_KOD_JE": "0811", "JPT_NAZWA_": "powiat żarski", "id": "104#95", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "102400", "swiadczeniodawca": "Ratownictwo Medyczne Krystyna Gretkierewicz", "miejscowosc": "Lubsko\r\n", "ulica": "Strażacka ", "numer_domu": "1", "adres_swiadczeniodawcy": "Strażacka 1", "telefon": "68 372 03 80", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 14.969079565621486, "g_dlug": 51.78748328639287, "g_uuid": "7ea91237-373c-4c4c-a46a-b99b7c53f7a0", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 222103.87475610797992, 443366.006681997328997 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0811",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 22,
+                "JPT_KOD_JE": "0811",
+                "JPT_NAZWA_": "powiat żarski",
+                "id": "104#108",
+                "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ",
+                "kod_swiadczeniodawcy": "020293",
+                "swiadczeniodawca": "105. Kresowy Szpital Wojskowy z Przychodnią SPZOZ w Żarach ",
+                "miejscowosc": "Żary ",
+                "ulica": "Domańskiego ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Domańskiego 2",
+                "telefon": "68 470 78 68; 68  470 79 14",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Domańskiego",
+                "g_miejsc": "Żary",
+                "g_adr": "2",
+                "g_teryt": "0811021",
+                "g_gm": "Żary",
+                "g_pow": "żarski",
+                "g_woj": "lubuskie",
+                "g_szer": 15.148224788676737,
+                "g_dlug": 51.64086491404517,
+                "g_uuid": "f8e173e6-4b74-4e3d-a900-bc3170ee0e74",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.148219999936925,
+                    51.640860000015934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 335,
+                "JPT_KOD_JE": "0811",
+                "JPT_NAZWA_": "powiat żarski",
+                "id": "104#95",
+                "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ",
+                "kod_swiadczeniodawcy": "102400",
+                "swiadczeniodawca": "Ratownictwo Medyczne Krystyna Gretkierewicz",
+                "miejscowosc": "Lubsko\r\n",
+                "ulica": "Strażacka ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Strażacka 1",
+                "telefon": "68 372 03 80",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 14.969079565621486,
+                "g_dlug": 51.78748328639287,
+                "g_uuid": "7ea91237-373c-4c4c-a46a-b99b7c53f7a0",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.969079999922569,
+                    51.7874800000166
+                ]
+            }
+        }
+    ]
 }

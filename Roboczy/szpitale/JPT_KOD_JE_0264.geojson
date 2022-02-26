@@ -1,18 +1,309 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0264",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 48, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": 9, "wojewodztwo": "dolnośląskie", "miasto": "Wrocław", "powiat": "m.Wrocław", "adres": "HENRYKA MICHAŁA KAMIEŃSKIEGO 73A", "miejscowosc": null, "kod": null, "nazwa": "WOJEWÓDZKI SZPITAL SPECJALISTYCZNY WE WROCŁAWIU", "poziom": "III stopień", "www": "http:\/\/www.wssk.woc.pl", "telefon": "71 32 70 100", "e-mail": "sekretariat@wssk.wroc.pl" }, "geometry": { "type": "Point", "coordinates": [ 363285.2, 366434.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 49, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": 10, "wojewodztwo": "dolnośląskie", "miasto": "Wrocław", "powiat": "m.Wrocław", "adres": "KOSZAROWA 5", "miejscowosc": null, "kod": null, "nazwa": "WOJEWÓDZKI SZPITAL SPECJALISTYCZNY IM.J.GROMKOWSKIEGO", "poziom": "III stopień", "www": "http:\/\/www.szpital.wroc.pl", "telefon": "71 39 57 638", "e-mail": "gromkowski@szpital.wroc.pl" }, "geometry": { "type": "Point", "coordinates": [ 364797.1, 365778.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 50, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": 11, "wojewodztwo": "dolnośląskie", "miasto": "Wrocław", "powiat": "m.Wrocław", "adres": "GEN. AUGUSTA EMILA FIELDORFA 2", "miejscowosc": null, "kod": null, "nazwa": "DOLNOŚLĄSKI SZPITAL SPECJALISTYCZNY IM. T. MARCINIAKA - CENTRUM MEDYCYNY RATUNKOWEJ", "poziom": "III stopień", "www": "http:\/\/www.szpital-marciniaka.wroclaw.pl", "telefon": "71 306 44 19", "e-mail": "szpital_marciniaka@pro.onet.pl" }, "geometry": { "type": "Point", "coordinates": [ 353652.0, 366187.3 ] } },
-{ "type": "Feature", "properties": { "_uid_": 51, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": 12, "wojewodztwo": "dolnośląskie", "miasto": "Wrocław", "powiat": "m.Wrocław", "adres": "KAMIEŃSKIEGO 73A", "miejscowosc": null, "kod": null, "nazwa": "MEDINET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "III stopień", "www": "http:\/\/www.medinet.pl", "telefon": "71 320 94 17", "e-mail": "biuro@medinet.pl" }, "geometry": { "type": "Point", "coordinates": [ 363285.2, 366434.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 52, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": 15, "wojewodztwo": "dolnośląskie", "miasto": "Wrocław", "powiat": "m.Wrocław", "adres": "GRABISZYŃSKA 105", "miejscowosc": null, "kod": null, "nazwa": "DOLNOŚLĄSKIE CENTRUM TRANSPLANTACJI KOMÓRKOWYCH Z KRAJOWYM BANKIEM DAWCÓW SZPIKU", "poziom": "Szpital onkologiczny", "www": "http:\/\/www.dctk.wroc.pl", "telefon": "71 78 313 75", "e-mail": "sekretariat@dctk.wroc.pl" }, "geometry": { "type": "Point", "coordinates": [ 360393.9, 361300.3 ] } },
-{ "type": "Feature", "properties": { "_uid_": 53, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": 16, "wojewodztwo": "dolnośląskie", "miasto": "Wrocław", "powiat": "m.Wrocław", "adres": "PL. HIRSZFELDA 12", "miejscowosc": null, "kod": null, "nazwa": "DOLNOŚLĄSKIE CENTRUM ONKOLOGII WE WROCŁAWIU", "poziom": "Szpital onkologiczny", "www": "http:\/\/www.dco.com.pl", "telefon": "71 36 89 270", "e-mail": "sekretariat@dco.com.pl" }, "geometry": { "type": "Point", "coordinates": [ 361142.1, 360553.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 54, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": 17, "wojewodztwo": "dolnośląskie", "miasto": "Wrocław", "powiat": "m.Wrocław", "adres": "GRABISZYŃSKA 105", "miejscowosc": null, "kod": null, "nazwa": "DOLNOŚLĄSKIE CENTRUM CHORÓB PŁUC WE WROCŁAWIU", "poziom": "Szpital pulmunologiczny", "www": "http:\/\/www.dcchp.pl", "telefon": "71 33 49 400", "e-mail": "dcchp@dcchp.pl" }, "geometry": { "type": "Point", "coordinates": [ 360393.9, 361300.3 ] } },
-{ "type": "Feature", "properties": { "_uid_": 55, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": 21, "wojewodztwo": "dolnośląskie", "miasto": "Wrocław", "powiat": "m.Wrocław", "adres": "BOROWSKA 213", "miejscowosc": null, "kod": null, "nazwa": "UNIWERSYTECKI SZPITAL KLINICZNY IM. JANA MIKULICZA-RADECKIEGO WE WROCŁAWIU", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.usk.wroc.pl", "telefon": "71 733 11 00", "e-mail": "sekretariat@usk.wroc.pl" }, "geometry": { "type": "Point", "coordinates": [ 362106.0, 358256.1 ] } },
-{ "type": "Feature", "properties": { "_uid_": 56, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": 22, "wojewodztwo": "dolnośląskie", "miasto": "Wrocław", "powiat": "m.Wrocław", "adres": "OŁBIŃSKA 32", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ MINISTERSTWA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI WE WROCŁAWIU", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.spzoz-msw.wroclaw.pl", "telefon": "71 79 84 630", "e-mail": "sekretariat@spzozmswia.wroclaw.pl" }, "geometry": { "type": "Point", "coordinates": [ 362614.7, 363819.3 ] } },
-{ "type": "Feature", "properties": { "_uid_": 57, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": 2, "wojewodztwo": "dolnośląskie", "miasto": "Wrocław", "powiat": "m.Wrocław", "adres": "RUDOLFA WEIGLA 5", "miejscowosc": null, "kod": null, "nazwa": "4 WOJSKOWY SZPITAL KLINICZNY Z POLIKLINIKĄ SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ WE WROCŁAW", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.4wsk.pl", "telefon": "26 166 03 73", "e-mail": "szpital@4wsk.pl" }, "geometry": { "type": "Point", "coordinates": [ 361454.8, 358405.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 58, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": 3, "wojewodztwo": "dolnośląskie", "miasto": "Wrocław", "powiat": "m.Wrocław", "adres": "MARII CURIE-SKŁODOWSKIEJ 58", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY SZPITAL KLINICZNY NR 1 WE WROCŁAWIU", "poziom": "Szpital ogólnopolski", "www": "http:\/\/www.spsk1.com.pl", "telefon": "71 784 20 00", "e-mail": "sekretariat@spsk1.com.pl" }, "geometry": { "type": "Point", "coordinates": [ 364672.9, 362089.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0264",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 48,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": 9,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Wrocław",
+                "powiat": "m.Wrocław",
+                "adres": "HENRYKA MICHAŁA KAMIEŃSKIEGO 73A",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "WOJEWÓDZKI SZPITAL SPECJALISTYCZNY WE WROCŁAWIU",
+                "poziom": "III stopień",
+                "www": "http://www.wssk.woc.pl",
+                "telefon": "71 32 70 100",
+                "e-mail": "sekretariat@wssk.wroc.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.044746791834225,
+                    51.14831050987091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 49,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": 10,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Wrocław",
+                "powiat": "m.Wrocław",
+                "adres": "KOSZAROWA 5",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "WOJEWÓDZKI SZPITAL SPECJALISTYCZNY IM.J.GROMKOWSKIEGO",
+                "poziom": "III stopień",
+                "www": "http://www.szpital.wroc.pl",
+                "telefon": "71 39 57 638",
+                "e-mail": "gromkowski@szpital.wroc.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.066602812079832,
+                    51.14277072795552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 50,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": 11,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Wrocław",
+                "powiat": "m.Wrocław",
+                "adres": "GEN. AUGUSTA EMILA FIELDORFA 2",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "DOLNOŚLĄSKI SZPITAL SPECJALISTYCZNY IM. T. MARCINIAKA - CENTRUM MEDYCYNY RATUNKOWEJ",
+                "poziom": "III stopień",
+                "www": "http://www.szpital-marciniaka.wroclaw.pl",
+                "telefon": "71 306 44 19",
+                "e-mail": "szpital_marciniaka@pro.onet.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.907171380924034,
+                    51.14370776447308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 51,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": 12,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Wrocław",
+                "powiat": "m.Wrocław",
+                "adres": "KAMIEŃSKIEGO 73A",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "MEDINET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+                "poziom": "III stopień",
+                "www": "http://www.medinet.pl",
+                "telefon": "71 320 94 17",
+                "e-mail": "biuro@medinet.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.044746791834225,
+                    51.14831050987091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 52,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": 15,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Wrocław",
+                "powiat": "m.Wrocław",
+                "adres": "GRABISZYŃSKA 105",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "DOLNOŚLĄSKIE CENTRUM TRANSPLANTACJI KOMÓRKOWYCH Z KRAJOWYM BANKIEM DAWCÓW SZPIKU",
+                "poziom": "Szpital onkologiczny",
+                "www": "http://www.dctk.wroc.pl",
+                "telefon": "71 78 313 75",
+                "e-mail": "sekretariat@dctk.wroc.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.005412314635542,
+                    51.10146074816956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 53,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": 16,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Wrocław",
+                "powiat": "m.Wrocław",
+                "adres": "PL. HIRSZFELDA 12",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "DOLNOŚLĄSKIE CENTRUM ONKOLOGII WE WROCŁAWIU",
+                "poziom": "Szpital onkologiczny",
+                "www": "http://www.dco.com.pl",
+                "telefon": "71 36 89 270",
+                "e-mail": "sekretariat@dco.com.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01638267280278,
+                    51.09492639263856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 54,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": 17,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Wrocław",
+                "powiat": "m.Wrocław",
+                "adres": "GRABISZYŃSKA 105",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "DOLNOŚLĄSKIE CENTRUM CHORÓB PŁUC WE WROCŁAWIU",
+                "poziom": "Szpital pulmunologiczny",
+                "www": "http://www.dcchp.pl",
+                "telefon": "71 33 49 400",
+                "e-mail": "dcchp@dcchp.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.005412314635542,
+                    51.10146074816956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 55,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": 21,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Wrocław",
+                "powiat": "m.Wrocław",
+                "adres": "BOROWSKA 213",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "UNIWERSYTECKI SZPITAL KLINICZNY IM. JANA MIKULICZA-RADECKIEGO WE WROCŁAWIU",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.usk.wroc.pl",
+                "telefon": "71 733 11 00",
+                "e-mail": "sekretariat@usk.wroc.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.031020678654215,
+                    51.074508773123576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 56,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": 22,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Wrocław",
+                "powiat": "m.Wrocław",
+                "adres": "OŁBIŃSKA 32",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ MINISTERSTWA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI WE WROCŁAWIU",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.spzoz-msw.wroclaw.pl",
+                "telefon": "71 79 84 630",
+                "e-mail": "sekretariat@spzozmswia.wroclaw.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.036161370048095,
+                    51.124642704871405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 57,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": 2,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Wrocław",
+                "powiat": "m.Wrocław",
+                "adres": "RUDOLFA WEIGLA 5",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "4 WOJSKOWY SZPITAL KLINICZNY Z POLIKLINIKĄ SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ WE WROCŁAW",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.4wsk.pl",
+                "telefon": "26 166 03 73",
+                "e-mail": "szpital@4wsk.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.02167098266117,
+                    51.075692199411726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 58,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": 3,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Wrocław",
+                "powiat": "m.Wrocław",
+                "adres": "MARII CURIE-SKŁODOWSKIEJ 58",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY SZPITAL KLINICZNY NR 1 WE WROCŁAWIU",
+                "poziom": "Szpital ogólnopolski",
+                "www": "http://www.spsk1.com.pl",
+                "telefon": "71 784 20 00",
+                "e-mail": "sekretariat@spsk1.com.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.066213317015016,
+                    51.10958581380997
+                ]
+            }
+        }
+    ]
 }

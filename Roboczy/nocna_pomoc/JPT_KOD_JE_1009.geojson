@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1009",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 338, "JPT_KOD_JE": "1009", "JPT_NAZWA_": "powiat pajęczański", "id": "104#111", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "120003", "swiadczeniodawca": "  Samodzielny Publiczny Zakład Opieki Zdrowotnej w Pajęcznie ", "miejscowosc": " Pajęczno", "ulica": "Wiśniowa ", "numer_domu": "26", "adres_swiadczeniodawcy": "Wiśniowa 26", "telefon": "34 311 25 85", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Wiśniowa", "g_miejsc": "Pajęczno", "g_adr": "26", "g_teryt": "1009043", "g_gm": "Pajęczno", "g_pow": "pajęczański", "g_woj": "łódzkie", "g_szer": 18.997263703375069, "g_dlug": 51.147011586352846, "g_uuid": "2b2ba9bf-4e90-4dfc-86ae-e9876ec9a4be", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 499808.401028896158095, 364472.633649690076709 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1009",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 338,
+                "JPT_KOD_JE": "1009",
+                "JPT_NAZWA_": "powiat pajęczański",
+                "id": "104#111",
+                "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ",
+                "kod_swiadczeniodawcy": "120003",
+                "swiadczeniodawca": "  Samodzielny Publiczny Zakład Opieki Zdrowotnej w Pajęcznie ",
+                "miejscowosc": " Pajęczno",
+                "ulica": "Wiśniowa ",
+                "numer_domu": "26",
+                "adres_swiadczeniodawcy": "Wiśniowa 26",
+                "telefon": "34 311 25 85",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Wiśniowa",
+                "g_miejsc": "Pajęczno",
+                "g_adr": "26",
+                "g_teryt": "1009043",
+                "g_gm": "Pajęczno",
+                "g_pow": "pajęczański",
+                "g_woj": "łódzkie",
+                "g_szer": 18.99726370337507,
+                "g_dlug": 51.147011586352846,
+                "g_uuid": "2b2ba9bf-4e90-4dfc-86ae-e9876ec9a4be",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.99726,
+                    51.14701000001416
+                ]
+            }
+        }
+    ]
 }

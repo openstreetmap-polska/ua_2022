@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2804",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 74, "JPT_KOD_JE": "2804", "JPT_NAZWA_": "powiat elbląski", "id": 430, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Pasłęk", "powiat": "Elbląski", "adres": "Kopernika 24A", "miejscowosc": "Pasłęk", "kod": "14-400", "nazwa": "Szpital Powiatowy Spółka z Ograniczoną Odpowiedzialnością w Pasłęku", "poziom": "I stopień", "www": "http:\/\/szpitalpaslek.com", "telefon": "55 249 15 00 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 543501.8, 688863.5 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2804",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 74,
+                "JPT_KOD_JE": "2804",
+                "JPT_NAZWA_": "powiat elbląski",
+                "id": 430,
+                "wojewodztwo": "warmińsko-mazurskie",
+                "miasto": "Pasłęk",
+                "powiat": "Elbląski",
+                "adres": "Kopernika 24A",
+                "miejscowosc": "Pasłęk",
+                "kod": "14-400",
+                "nazwa": "Szpital Powiatowy Spółka z Ograniczoną Odpowiedzialnością w Pasłęku",
+                "poziom": "I stopień",
+                "www": "http://szpitalpaslek.com",
+                "telefon": "55 249 15 00 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.664845130414786,
+                    54.062333937335374
+                ]
+            }
+        }
+    ]
 }

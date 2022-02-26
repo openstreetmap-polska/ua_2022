@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2808",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 173, "JPT_KOD_JE": "2808", "JPT_NAZWA_": "powiat kętrzyński", "id": 415, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Kętrzyn", "powiat": "Kętrzyński", "adres": "M. C. Skłodowskiej 2", "miejscowosc": "Kętrzyn", "kod": "11-400", "nazwa": "Szpital Powiatowy w Kętrzynie", "poziom": "I stopień", "www": "http:\/\/www.szpital-ketrzyn.pl", "telefon": "664 35 80 94 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 655468.7, 693527.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2808",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 173,
+                "JPT_KOD_JE": "2808",
+                "JPT_NAZWA_": "powiat kętrzyński",
+                "id": 415,
+                "wojewodztwo": "warmińsko-mazurskie",
+                "miasto": "Kętrzyn",
+                "powiat": "Kętrzyński",
+                "adres": "M. C. Skłodowskiej 2",
+                "miejscowosc": "Kętrzyn",
+                "kod": "11-400",
+                "nazwa": "Szpital Powiatowy w Kętrzynie",
+                "poziom": "I stopień",
+                "www": "http://www.szpital-ketrzyn.pl",
+                "telefon": "664 35 80 94 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.377407284727717,
+                    54.08260863567942
+                ]
+            }
+        }
+    ]
 }

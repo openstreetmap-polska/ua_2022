@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1016",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 229, "JPT_KOD_JE": "1016", "JPT_NAZWA_": "powiat tomaszowski", "id": "104#131", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "240060", "swiadczeniodawca": "Tomaszowskie Centrum Zdrowia Sp. z o.o. w Tomaszowie Mazowieckim", "miejscowosc": "Tomaszów Mazowiecki                                        ", "ulica": "Jana Pawła II ", "numer_domu": "35", "adres_swiadczeniodawcy": "Jana Pawła II 35", "telefon": "44 725 72 04", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 3, "g_ul": "Jana Pawła II", "g_miejsc": "Tomaszów Mazowiecki", "g_adr": "35", "g_teryt": "1016011", "g_gm": "Tomaszów Mazowiecki", "g_pow": "tomaszowski", "g_woj": "łódzkie", "g_szer": 20.004141725886711, "g_dlug": 51.522259699630425, "g_uuid": "e531c9e7-56e2-4c17-87ca-82df59c7f10f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 569644.439841706538573, 406669.501751598902047 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1016",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 229,
+                "JPT_KOD_JE": "1016",
+                "JPT_NAZWA_": "powiat tomaszowski",
+                "id": "104#131",
+                "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ",
+                "kod_swiadczeniodawcy": "240060",
+                "swiadczeniodawca": "Tomaszowskie Centrum Zdrowia Sp. z o.o. w Tomaszowie Mazowieckim",
+                "miejscowosc": "Tomaszów Mazowiecki                                        ",
+                "ulica": "Jana Pawła II ",
+                "numer_domu": "35",
+                "adres_swiadczeniodawcy": "Jana Pawła II 35",
+                "telefon": "44 725 72 04",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 3,
+                "g_ul": "Jana Pawła II",
+                "g_miejsc": "Tomaszów Mazowiecki",
+                "g_adr": "35",
+                "g_teryt": "1016011",
+                "g_gm": "Tomaszów Mazowiecki",
+                "g_pow": "tomaszowski",
+                "g_woj": "łódzkie",
+                "g_szer": 20.00414172588671,
+                "g_dlug": 51.522259699630425,
+                "g_uuid": "e531c9e7-56e2-4c17-87ca-82df59c7f10f",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.004140000000394,
+                    51.522260000014754
+                ]
+            }
+        }
+    ]
 }

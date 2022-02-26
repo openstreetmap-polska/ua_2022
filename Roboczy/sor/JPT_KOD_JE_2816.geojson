@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2816",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2816", "JPT_NAZWA_": "powiat piski", "id": 109, "ksiega": 389153, "id zoz": 476844, "id jednostki": "766915", "id komórki": 6727290, "regon": 79031696100022, "kod jednostki": "01", "kod komórki": 74, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "szpitalny oddział ratunkowy", "teryt opis": "Pisz - miasto", "ulica": "ul. Henryka Sienkiewicza", "budynek": "2", "lokal": "NULL", "kod": "12-200", "miejscowosc": "Pisz", "teryt": 2816034, "kod simc": 977835, "kod ulicy": "19834", "lozka": 5, "liczba łóżek iom": 1, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2014-07-03" }, "geometry": { "type": "Point", "coordinates": [ 685060.17, 643814.14 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2816",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2816",
+                "JPT_NAZWA_": "powiat piski",
+                "id": 109,
+                "ksiega": 389153,
+                "id zoz": 476844,
+                "id jednostki": "766915",
+                "id komórki": 6727290,
+                "regon": 79031696100022,
+                "kod jednostki": "01",
+                "kod komórki": 74,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "szpitalny oddział ratunkowy",
+                "teryt opis": "Pisz - miasto",
+                "ulica": "ul. Henryka Sienkiewicza",
+                "budynek": "2",
+                "lokal": "NULL",
+                "kod": "12-200",
+                "miejscowosc": "Pisz",
+                "teryt": 2816034,
+                "kod simc": 977835,
+                "kod ulicy": "19834",
+                "lozka": 5,
+                "liczba łóżek iom": 1,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2014-07-03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.799385889637755,
+                    53.626400801655244
+                ]
+            }
+        }
+    ]
 }

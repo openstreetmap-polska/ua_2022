@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2003",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 101, "JPT_KOD_JE": "2003", "JPT_NAZWA_": "powiat bielski", "id": 573, "wojewodztwo": "podlaskie", "miasto": "bielski", "powiat": "Bielsk Podlaski", "adres": "Kleszczelowska 1", "miejscowosc": "Bielsk Podlaski", "kod": "17-100", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W BIELSKU PODLASKIM", "poziom": "I stopień", "www": "http:\/\/www.spzoz-bielsk.pl", "telefon": "85 833 43 30", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 783424.9, 552064.5 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2003",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 101,
+                "JPT_KOD_JE": "2003",
+                "JPT_NAZWA_": "powiat bielski",
+                "id": 573,
+                "wojewodztwo": "podlaskie",
+                "miasto": "bielski",
+                "powiat": "Bielsk Podlaski",
+                "adres": "Kleszczelowska 1",
+                "miejscowosc": "Bielsk Podlaski",
+                "kod": "17-100",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W BIELSKU PODLASKIM",
+                "poziom": "I stopień",
+                "www": "http://www.spzoz-bielsk.pl",
+                "telefon": "85 833 43 30",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.20225109881065,
+                    52.75968485936628
+                ]
+            }
+        }
+    ]
 }

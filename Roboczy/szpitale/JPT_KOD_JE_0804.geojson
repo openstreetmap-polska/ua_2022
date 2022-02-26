@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0804",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 446, "JPT_KOD_JE": "0804", "JPT_NAZWA_": "powiat nowosolski", "id": 106, "wojewodztwo": "lubuskie", "miasto": "Nowa Sól", "powiat": "nowosolski", "adres": "Chałubińskiego 7", "miejscowosc": "Nowa Sól", "kod": "67-100", "nazwa": "Wielospecjalistyczny Szpital Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowej Soli", "poziom": "III stopień", "www": "http:\/\/www.szpital-nowasol.pl", "telefon": "68 388 21 00", "e-mail": "sekretariat@szpital-nowasol.pl" }, "geometry": { "type": "Point", "coordinates": [ 271731.1, 443036.9 ] } },
-{ "type": "Feature", "properties": { "_uid_": 447, "JPT_KOD_JE": "0804", "JPT_NAZWA_": "powiat nowosolski", "id": 103, "wojewodztwo": "lubuskie", "miasto": "Nowa Sól", "powiat": "nowosolski", "adres": "Chałubińskiego 7", "miejscowosc": "Nowa Sól", "kod": "67-100", "nazwa": "MEDINET Spółka z ograniczona odpowiedzialnością", "poziom": "III stopień", "www": "http:\/\/www.medinet.pl", "telefon": "68 388 21 91", "e-mail": "nowasol@medinet.pl" }, "geometry": { "type": "Point", "coordinates": [ 271731.1, 443036.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0804",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 446,
+                "JPT_KOD_JE": "0804",
+                "JPT_NAZWA_": "powiat nowosolski",
+                "id": 106,
+                "wojewodztwo": "lubuskie",
+                "miasto": "Nowa Sól",
+                "powiat": "nowosolski",
+                "adres": "Chałubińskiego 7",
+                "miejscowosc": "Nowa Sól",
+                "kod": "67-100",
+                "nazwa": "Wielospecjalistyczny Szpital Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowej Soli",
+                "poziom": "III stopień",
+                "www": "http://www.szpital-nowasol.pl",
+                "telefon": "68 388 21 00",
+                "e-mail": "sekretariat@szpital-nowasol.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.68770778282012,
+                    51.806987749793755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 447,
+                "JPT_KOD_JE": "0804",
+                "JPT_NAZWA_": "powiat nowosolski",
+                "id": 103,
+                "wojewodztwo": "lubuskie",
+                "miasto": "Nowa Sól",
+                "powiat": "nowosolski",
+                "adres": "Chałubińskiego 7",
+                "miejscowosc": "Nowa Sól",
+                "kod": "67-100",
+                "nazwa": "MEDINET Spółka z ograniczona odpowiedzialnością",
+                "poziom": "III stopień",
+                "www": "http://www.medinet.pl",
+                "telefon": "68 388 21 91",
+                "e-mail": "nowasol@medinet.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.68770778282012,
+                    51.806987749793755
+                ]
+            }
+        }
+    ]
 }

@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2011",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 269, "JPT_KOD_JE": "2011", "JPT_NAZWA_": "powiat sokólski", "id": "104#310", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000358", "swiadczeniodawca": "SP ZOZ w Dąbrowie Białostockiej", "miejscowosc": "Dąbrowa Białostocka ", "ulica": "Skłodowskiej ", "numer_domu": "15", "adres_swiadczeniodawcy": "Skłodowskiej 15", "telefon": "85 712 33 17; \r\n511 955 632; \r\n512 338 618 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "Marii Skłodowskiej-Curie", "g_miejsc": "Dąbrowa Białostocka", "g_adr": "15", "g_teryt": "2011013", "g_gm": "Dąbrowa Białostocka", "g_pow": "sokólski", "g_woj": "podlaskie", "g_szer": 23.349630525770436, "g_dlug": 53.657542128283495, "g_uuid": "f9883719-59cc-4086-a88f-d22027948d96", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 787282.781176382559352, 652426.892195449210703 ] } },
-{ "type": "Feature", "properties": { "gid": 497, "JPT_KOD_JE": "2011", "JPT_NAZWA_": "powiat sokólski", "id": "104#320", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000090", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Sokółce", "miejscowosc": "Sokółka", "ulica": " Sikorskiego ", "numer_domu": "40", "adres_swiadczeniodawcy": " Sikorskiego 40", "telefon": "85 722 05 33", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "gen. Władysława Sikorskiego", "g_miejsc": "Sokółka", "g_adr": "40", "g_teryt": "2011083", "g_gm": "Sokółka", "g_pow": "sokólski", "g_woj": "podlaskie", "g_szer": 23.48498844422441, "g_dlug": 53.407496335770325, "g_uuid": "6ca2973b-bbea-4c34-abc5-dff7bcddb500", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 797970.223447087686509, 625198.880877244286239 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2011",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 269,
+                "JPT_KOD_JE": "2011",
+                "JPT_NAZWA_": "powiat sokólski",
+                "id": "104#310",
+                "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ",
+                "kod_swiadczeniodawcy": "100000358",
+                "swiadczeniodawca": "SP ZOZ w Dąbrowie Białostockiej",
+                "miejscowosc": "Dąbrowa Białostocka ",
+                "ulica": "Skłodowskiej ",
+                "numer_domu": "15",
+                "adres_swiadczeniodawcy": "Skłodowskiej 15",
+                "telefon": "85 712 33 17; \r\n511 955 632; \r\n512 338 618 ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "Marii Skłodowskiej-Curie",
+                "g_miejsc": "Dąbrowa Białostocka",
+                "g_adr": "15",
+                "g_teryt": "2011013",
+                "g_gm": "Dąbrowa Białostocka",
+                "g_pow": "sokólski",
+                "g_woj": "podlaskie",
+                "g_szer": 23.349630525770436,
+                "g_dlug": 53.657542128283495,
+                "g_uuid": "f9883719-59cc-4086-a88f-d22027948d96",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.34963000008098,
+                    53.65754000002075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 497,
+                "JPT_KOD_JE": "2011",
+                "JPT_NAZWA_": "powiat sokólski",
+                "id": "104#320",
+                "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ",
+                "kod_swiadczeniodawcy": "100000090",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Sokółce",
+                "miejscowosc": "Sokółka",
+                "ulica": " Sikorskiego ",
+                "numer_domu": "40",
+                "adres_swiadczeniodawcy": " Sikorskiego 40",
+                "telefon": "85 722 05 33",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "gen. Władysława Sikorskiego",
+                "g_miejsc": "Sokółka",
+                "g_adr": "40",
+                "g_teryt": "2011083",
+                "g_gm": "Sokółka",
+                "g_pow": "sokólski",
+                "g_woj": "podlaskie",
+                "g_szer": 23.48498844422441,
+                "g_dlug": 53.407496335770325,
+                "g_uuid": "6ca2973b-bbea-4c34-abc5-dff7bcddb500",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.484990000098044,
+                    53.40750000002102
+                ]
+            }
+        }
+    ]
 }

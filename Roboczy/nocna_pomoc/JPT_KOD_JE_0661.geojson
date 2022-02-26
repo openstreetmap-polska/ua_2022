@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0661",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 328, "JPT_KOD_JE": "0661", "JPT_NAZWA_": "powiat Biała Podlaska", "id": "104#66", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000417", "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny", "miejscowosc": "Biała Podlaska", "ulica": "Terebelska ", "numer_domu": "57\/65", "adres_swiadczeniodawcy": "Terebelska 57\/65", "telefon": "83 414 77 77", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.8, "g_ilosc": 1, "g_ul": "TEREBELSKA", "g_miejsc": "BIAŁA PODLASKA", "g_adr": "57-65", "g_teryt": "0661011", "g_gm": "Biała Podlaska", "g_pow": "Biała Podlaska", "g_woj": "lubelskie", "g_szer": 23.110727649709879, "g_dlug": 52.046496464686427, "g_uuid": "a2f915eb-5e00-4c16-8a3f-56588ee69de0", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 781767.917868102435023, 472455.697919979691505 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0661",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 328,
+                "JPT_KOD_JE": "0661",
+                "JPT_NAZWA_": "powiat Biała Podlaska",
+                "id": "104#66",
+                "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ",
+                "kod_swiadczeniodawcy": "30000417",
+                "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny",
+                "miejscowosc": "Biała Podlaska",
+                "ulica": "Terebelska ",
+                "numer_domu": "57/65",
+                "adres_swiadczeniodawcy": "Terebelska 57/65",
+                "telefon": "83 414 77 77",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.8,
+                "g_ilosc": 1,
+                "g_ul": "TEREBELSKA",
+                "g_miejsc": "BIAŁA PODLASKA",
+                "g_adr": "57-65",
+                "g_teryt": "0661011",
+                "g_gm": "Biała Podlaska",
+                "g_pow": "Biała Podlaska",
+                "g_woj": "lubelskie",
+                "g_szer": 23.11072764970988,
+                "g_dlug": 52.04649646468643,
+                "g_uuid": "a2f915eb-5e00-4c16-8a3f-56588ee69de0",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.110730000082,
+                    52.04650000001724
+                ]
+            }
+        }
+    ]
 }

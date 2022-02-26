@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1809",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 262, "JPT_KOD_JE": "1809", "JPT_NAZWA_": "powiat lubaczowski", "id": "104#288", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010008", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Lubaczowie", "miejscowosc": "Lubaczów ", "ulica": "Mickiewicza ", "numer_domu": "168", "adres_swiadczeniodawcy": "Mickiewicza 168", "telefon": "16 736 20 44, \r\n16 736 20 45, \r\n16 736 20 46", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Mickiewicza Adama", "g_miejsc": "Lubaczów", "g_adr": "168", "g_teryt": "1809011", "g_gm": "Lubaczów", "g_pow": "lubaczowski", "g_woj": "podkarpackie", "g_szer": 23.123245231498998, "g_dlug": 50.171136067726387, "g_uuid": "346d5f17-cb51-4a2a-a249-8eead67266e2", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 794317.053083628881723, 264130.398672362789512 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1809",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 262,
+                "JPT_KOD_JE": "1809",
+                "JPT_NAZWA_": "powiat lubaczowski",
+                "id": "104#288",
+                "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ",
+                "kod_swiadczeniodawcy": "09R/010008",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Lubaczowie",
+                "miejscowosc": "Lubaczów ",
+                "ulica": "Mickiewicza ",
+                "numer_domu": "168",
+                "adres_swiadczeniodawcy": "Mickiewicza 168",
+                "telefon": "16 736 20 44, \r\n16 736 20 45, \r\n16 736 20 46",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Mickiewicza Adama",
+                "g_miejsc": "Lubaczów",
+                "g_adr": "168",
+                "g_teryt": "1809011",
+                "g_gm": "Lubaczów",
+                "g_pow": "lubaczowski",
+                "g_woj": "podkarpackie",
+                "g_szer": 23.123245231499,
+                "g_dlug": 50.17113606772639,
+                "g_uuid": "346d5f17-cb51-4a2a-a249-8eead67266e2",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.12325000010955,
+                    50.17114000001432
+                ]
+            }
+        }
+    ]
 }

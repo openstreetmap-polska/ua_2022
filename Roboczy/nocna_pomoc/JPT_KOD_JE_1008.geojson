@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1008",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 27, "JPT_KOD_JE": "1008", "JPT_NAZWA_": "powiat pabianicki", "id": "104#123", "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ", "kod_swiadczeniodawcy": "210084", "swiadczeniodawca": "Pabianickie Centrum Medyczne Sp. z o.o. w Pabianicach", "miejscowosc": "Pabianice ", "ulica": "Jana Pawła II ", "numer_domu": "68", "adres_swiadczeniodawcy": "Jana Pawła II 68", "telefon": "Pabianice: 42 225 36 13; Konstantynów Łódzki: 42 211 10 66 ", "dodatkowe_miejsce": " Sadowa 10;  Konstantynów Łódzki.", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Jana Pawła II", "g_miejsc": "Pabianice", "g_adr": "68", "g_teryt": "1008021", "g_gm": "Pabianice", "g_pow": "pabianicki", "g_woj": "łódzkie", "g_szer": 19.330768888563927, "g_dlug": 51.6527995640621, "g_uuid": "be726a54-9c3e-467c-9dd6-ed2691770b6a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 522875.896646749519277, 420757.158816661685705 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1008",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 27,
+                "JPT_KOD_JE": "1008",
+                "JPT_NAZWA_": "powiat pabianicki",
+                "id": "104#123",
+                "krotka_nazwa_oddz_nfz": "ŁÓDZKI OW NFZ",
+                "kod_swiadczeniodawcy": "210084",
+                "swiadczeniodawca": "Pabianickie Centrum Medyczne Sp. z o.o. w Pabianicach",
+                "miejscowosc": "Pabianice ",
+                "ulica": "Jana Pawła II ",
+                "numer_domu": "68",
+                "adres_swiadczeniodawcy": "Jana Pawła II 68",
+                "telefon": "Pabianice: 42 225 36 13; Konstantynów Łódzki: 42 211 10 66 ",
+                "dodatkowe_miejsce": " Sadowa 10;  Konstantynów Łódzki.",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Jana Pawła II",
+                "g_miejsc": "Pabianice",
+                "g_adr": "68",
+                "g_teryt": "1008021",
+                "g_gm": "Pabianice",
+                "g_pow": "pabianicki",
+                "g_woj": "łódzkie",
+                "g_szer": 19.330768888563927,
+                "g_dlug": 51.6527995640621,
+                "g_uuid": "be726a54-9c3e-467c-9dd6-ed2691770b6a",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.330770000000108,
+                    51.65280000001493
+                ]
+            }
+        }
+    ]
 }

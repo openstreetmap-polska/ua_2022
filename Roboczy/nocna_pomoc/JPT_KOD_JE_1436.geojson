@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1436",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 155, "JPT_KOD_JE": "1436", "JPT_NAZWA_": "powiat zwoleński", "id": "104#262", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001789", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Zwoleniu", "miejscowosc": "Zwoleń", "ulica": " Ludowa ", "numer_domu": "7", "adres_swiadczeniodawcy": " Ludowa 7", "telefon": "486762220", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Ludowa", "g_miejsc": "Zwoleń", "g_adr": "7", "g_teryt": "1436053", "g_gm": "Zwoleń", "g_pow": "zwoleński", "g_woj": "mazowieckie", "g_szer": 21.584016962738026, "g_dlug": 51.351008839179478, "g_uuid": "8d9b8479-a967-4fd5-b87d-c7f773cf3983", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 679880.756853558123112, 390321.224475776776671 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1436",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 155,
+                "JPT_KOD_JE": "1436",
+                "JPT_NAZWA_": "powiat zwoleński",
+                "id": "104#262",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70001789",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Zwoleniu",
+                "miejscowosc": "Zwoleń",
+                "ulica": " Ludowa ",
+                "numer_domu": "7",
+                "adres_swiadczeniodawcy": " Ludowa 7",
+                "telefon": "486762220",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Ludowa",
+                "g_miejsc": "Zwoleń",
+                "g_adr": "7",
+                "g_teryt": "1436053",
+                "g_gm": "Zwoleń",
+                "g_pow": "zwoleński",
+                "g_woj": "mazowieckie",
+                "g_szer": 21.584016962738026,
+                "g_dlug": 51.35100883917948,
+                "g_uuid": "8d9b8479-a967-4fd5-b87d-c7f773cf3983",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.584020000009282,
+                    51.351010000014526
+                ]
+            }
+        }
+    ]
 }

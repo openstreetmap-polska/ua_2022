@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2408",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 281, "JPT_KOD_JE": "2408", "JPT_NAZWA_": "powiat mikołowski", "id": "104#390", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/200543", "swiadczeniodawca": "Szpital św. Józefa Sp. z o.o.", "miejscowosc": "Mikołów", "ulica": "Okrzei ", "numer_domu": "27", "adres_swiadczeniodawcy": "Okrzei 27", "telefon": "32 322 40 63", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Okrzei Stefana", "g_miejsc": "Mikołów", "g_adr": "27", "g_teryt": "2408021", "g_gm": "Mikołów", "g_pow": "mikołowski", "g_woj": "śląskie", "g_szer": 18.908091900811403, "g_dlug": 50.170123971248671, "g_uuid": "1ae2de17-0b26-4f75-9988-35a26468fc71", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 493438.321852703986224, 255881.81164519675076 ] } },
-{ "type": "Feature", "properties": { "gid": 282, "JPT_KOD_JE": "2408", "JPT_NAZWA_": "powiat mikołowski", "id": "104#391", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/212056", "swiadczeniodawca": "Centrum Zdrowia w Mikołowie Sp. z o.o.", "miejscowosc": "Mikołów", "ulica": "Waryńskiego ", "numer_domu": "2", "adres_swiadczeniodawcy": "Waryńskiego 2", "telefon": "32 325 76 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Waryńskiego Ludwika", "g_miejsc": "Mikołów", "g_adr": "2", "g_teryt": "2408021", "g_gm": "Mikołów", "g_pow": "mikołowski", "g_woj": "śląskie", "g_szer": 18.905115648279263, "g_dlug": 50.174766127263176, "g_uuid": "3cbbb8db-c50a-4deb-9bcb-8bf507f0096c", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 493226.943697207432706, 256398.94547719322145 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2408",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 281,
+                "JPT_KOD_JE": "2408",
+                "JPT_NAZWA_": "powiat mikołowski",
+                "id": "104#390",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/200543",
+                "swiadczeniodawca": "Szpital św. Józefa Sp. z o.o.",
+                "miejscowosc": "Mikołów",
+                "ulica": "Okrzei ",
+                "numer_domu": "27",
+                "adres_swiadczeniodawcy": "Okrzei 27",
+                "telefon": "32 322 40 63",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Okrzei Stefana",
+                "g_miejsc": "Mikołów",
+                "g_adr": "27",
+                "g_teryt": "2408021",
+                "g_gm": "Mikołów",
+                "g_pow": "mikołowski",
+                "g_woj": "śląskie",
+                "g_szer": 18.908091900811403,
+                "g_dlug": 50.17012397124867,
+                "g_uuid": "1ae2de17-0b26-4f75-9988-35a26468fc71",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.908089999999977,
+                    50.170120000012744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 282,
+                "JPT_KOD_JE": "2408",
+                "JPT_NAZWA_": "powiat mikołowski",
+                "id": "104#391",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/212056",
+                "swiadczeniodawca": "Centrum Zdrowia w Mikołowie Sp. z o.o.",
+                "miejscowosc": "Mikołów",
+                "ulica": "Waryńskiego ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Waryńskiego 2",
+                "telefon": "32 325 76 00",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Waryńskiego Ludwika",
+                "g_miejsc": "Mikołów",
+                "g_adr": "2",
+                "g_teryt": "2408021",
+                "g_gm": "Mikołów",
+                "g_pow": "mikołowski",
+                "g_woj": "śląskie",
+                "g_szer": 18.905115648279263,
+                "g_dlug": 50.174766127263176,
+                "g_uuid": "3cbbb8db-c50a-4deb-9bcb-8bf507f0096c",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.905119999999975,
+                    50.17477000001276
+                ]
+            }
+        }
+    ]
 }

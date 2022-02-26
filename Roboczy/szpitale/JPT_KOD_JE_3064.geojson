@@ -1,21 +1,390 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3064",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 268, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 352, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "POLNA 33 ", "miejscowosc": null, "kod": "60-535 ", "nazwa": "GINEKOLOGICZNO-POŁOŻNICZY SZPITAL KLINICZNY UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU ", "poziom": "Szpital ogólnopolski ", "www": "http:\/\/www.gpsk.am.poznan.pl\/ ", "telefon": "(061)84-19-273 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 356871.9, 506950.5 ] } },
-{ "type": "Feature", "properties": { "_uid_": 269, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 362, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "MICKIEWICZA 2 ", "miejscowosc": null, "kod": "60-834 ", "nazwa": "SZPITAL MIEJSKI IM. FRANCISZKA RASZEI ", "poziom": "I stopień", "www": "http:\/\/www.raszeja.poznan.pl\/ ", "telefon": "(061)84-81-011 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 358094.3, 507333.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 270, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 364, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "SZWAJCARSKA 3 ", "miejscowosc": null, "kod": "61-285 ", "nazwa": "WIELOSPECJALISTYCZNY SZPITAL MIEJSKI IM.JÓZEFA STRUSIA Z ZAKŁADEM OPIEKUŃCZO-LECZNICZYM. SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ Z SIEDZIBĄ W POZNANIU PRZY UL. SZWAJCARSKIEJ 3 ", "poziom": "III stopień ", "www": "http:\/\/www.szpital-strusia.poznan.pl\/ ", "telefon": "(061)87-39-000 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 363615.8, 504531.5 ] } },
-{ "type": "Feature", "properties": { "_uid_": 271, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 368, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "GARBARY 15 ", "miejscowosc": null, "kod": "61-866 ", "nazwa": "WIELKOPOLSKIE CENTRUM ONKOLOGII IM.MARII SKŁODOWSKIEJ-CURIE ", "poziom": "Szpital onkologiczny ", "www": "http:\/\/www.wco.pl ", "telefon": "(061)88-50-700 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 359650.1, 506040.7 ] } },
-{ "type": "Feature", "properties": { "_uid_": 272, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 370, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "SZPITALNA 27\/33 ", "miejscowosc": null, "kod": "60-572 ", "nazwa": "SZPITAL KLINICZNY IM. KAROLA JONSCHERA UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU ", "poziom": "Szpital ogólnopolski ", "www": "http:\/\/www.sk5.am.poznan.pl\/ ", "telefon": "(061)84-91-200 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 355683.9, 507278.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 273, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 372, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "DŁUGA 1\/2 ", "miejscowosc": null, "kod": "61-848 ", "nazwa": "SZPITAL KLINICZNY PRZEMIENIENIA PAŃSKIEGO UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU ", "poziom": "Szpital ogólnopolski ", "www": "http:\/\/www.skpp.edu.pl\/ ", "telefon": "(061)85-49-121 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 359614.4, 506195.5 ] } },
-{ "type": "Feature", "properties": { "_uid_": 274, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 373, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "SZAMARZEWSKIEGO 62 ", "miejscowosc": null, "kod": "60-569 ", "nazwa": "WIELKOPOLSKIE CENTRUM PULMONOLOGII I TORAKOCHIRURGII IM. EUGENII I JANUSZA ZEYLANDÓW ", "poziom": "Szpital onkologiczny ", "www": "http:\/\/www.wcpit.pl\/ ", "telefon": "(061)66-54-275 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 356377.1, 507258.8 ] } },
-{ "type": "Feature", "properties": { "_uid_": 275, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 380, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "KRYSIEWICZA 7\/8 ", "miejscowosc": null, "kod": "61-825 ", "nazwa": "SPECJALISTYCZNY ZESPÓŁ OPIEKI ZDROWOTNEJ NAD MATKĄ I DZIECKIEM W POZNANIU ", "poziom": "Szpital pediatryczny ", "www": "http:\/\/www.szoz.pl\/ ", "telefon": "(061)85-20-458 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 359208.0, 506292.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 276, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 381, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "GRUNWALDZKA 16\/18 ", "miejscowosc": null, "kod": "60-780 ", "nazwa": "SZPITAL KLINICZNY IM. HELIODORA ŚWIĘCICKIEGO UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU ", "poziom": "Szpital ogólnopolski ", "www": "http:\/\/www.spsk2.pl\/ ", "telefon": "(061)86-91-100 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 357299.0, 506490.1 ] } },
-{ "type": "Feature", "properties": { "_uid_": 277, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 382, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "PRZYBYSZEWSKIEGO 49 ", "miejscowosc": null, "kod": "60-355 ", "nazwa": "SZPITAL KLINICZNY IM. HELIODORA ŚWIĘCICKIEGO UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU ", "poziom": "Szpital ogólnopolski ", "www": "http:\/\/www.spsk2.pl\/ ", "telefon": "(061)86-91-100 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 356357.5, 506282.3 ] } },
-{ "type": "Feature", "properties": { "_uid_": 278, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 369, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "JURASZÓW 7-19 ", "miejscowosc": null, "kod": "60-479 ", "nazwa": "SZPITAL WOJEWÓDZKI W POZNANIU ", "poziom": "II stopień ", "www": "http:\/\/www.lutycka.pl ", "telefon": "(061)82-12-200 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 357747.6, 510425.3 ] } },
-{ "type": "Feature", "properties": { "_uid_": 279, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 371, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "28 CZERWCA1956 R 135\/147 ", "miejscowosc": null, "kod": "61-545 ", "nazwa": "ORTOPEDYCZNO-REHABILITACYJNY SZPITAL KLINICZNY IM. WIKTORA DEGI UNIWERSYTETU MEDYCZNEGO IM.KAROLA MARCINKOWSKIEGO ", "poziom": "Szpital ogólnopolski ", "www": "http:\/\/www.orsk.ump.edu.pl\/ ", "telefon": "(061)83-10-331 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 358443.8, 504647.6 ] } },
-{ "type": "Feature", "properties": { "_uid_": 280, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 377, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ ", "powiat": "POZNAŃ ", "adres": "28 CZERWCA 1956 NR 194 ", "miejscowosc": null, "kod": "61-485 ", "nazwa": "CENTRUM MEDYCZNE HCP SP. Z O.O. NZOZ CENTRUM MEDYCZNE HCP LECZNICTWO STACJONARNE ", "poziom": "II stopień ", "www": "http:\/\/www.cmhcp.pl\/ ", "telefon": "(061)22-74-104 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 357967.7, 503962.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 281, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": 389, "wojewodztwo": "wielkopolskie", "miasto": "POZNAŃ-JEŻYCE ", "powiat": "POZNAŃ ", "adres": "DOJAZD 34 ", "miejscowosc": null, "kod": "60-631 ", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ MINISTERSTWA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W POZNANIU IM. PROF.LUDWIKA BIERKOWSKIEGO ", "poziom": "Szpital ogólnopolski ", "www": "http:\/\/www.szpitalmsw.poznan.pl\/ ", "telefon": "(061)84-64-500 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 357615.9, 509923.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3064",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 268,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 352,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "POLNA 33 ",
+                "miejscowosc": null,
+                "kod": "60-535 ",
+                "nazwa": "GINEKOLOGICZNO-POŁOŻNICZY SZPITAL KLINICZNY UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU ",
+                "poziom": "Szpital ogólnopolski ",
+                "www": "http://www.gpsk.am.poznan.pl/ ",
+                "telefon": "(061)84-19-273 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.895104541735357,
+                    52.40971532688193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 269,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 362,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "MICKIEWICZA 2 ",
+                "miejscowosc": null,
+                "kod": "60-834 ",
+                "nazwa": "SZPITAL MIEJSKI IM. FRANCISZKA RASZEI ",
+                "poziom": "I stopień",
+                "www": "http://www.raszeja.poznan.pl/ ",
+                "telefon": "(061)84-81-011 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.912906283107773,
+                    52.41347145315566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 270,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 364,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "SZWAJCARSKA 3 ",
+                "miejscowosc": null,
+                "kod": "61-285 ",
+                "nazwa": "WIELOSPECJALISTYCZNY SZPITAL MIEJSKI IM.JÓZEFA STRUSIA Z ZAKŁADEM OPIEKUŃCZO-LECZNICZYM. SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ Z SIEDZIBĄ W POZNANIU PRZY UL. SZWAJCARSKIEJ 3 ",
+                "poziom": "III stopień ",
+                "www": "http://www.szpital-strusia.poznan.pl/ ",
+                "telefon": "(061)87-39-000 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99520125266773,
+                    52.389698067638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 271,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 368,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "GARBARY 15 ",
+                "miejscowosc": null,
+                "kod": "61-866 ",
+                "nazwa": "WIELKOPOLSKIE CENTRUM ONKOLOGII IM.MARII SKŁODOWSKIEJ-CURIE ",
+                "poziom": "Szpital onkologiczny ",
+                "www": "http://www.wco.pl ",
+                "telefon": "(061)88-50-700 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.936314473294317,
+                    52.40225887528338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 272,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 370,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "SZPITALNA 27/33 ",
+                "miejscowosc": null,
+                "kod": "60-572 ",
+                "nazwa": "SZPITAL KLINICZNY IM. KAROLA JONSCHERA UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU ",
+                "poziom": "Szpital ogólnopolski ",
+                "www": "http://www.sk5.am.poznan.pl/ ",
+                "telefon": "(061)84-91-200 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.877504990731126,
+                    52.41234629500897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 273,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 372,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "DŁUGA 1/2 ",
+                "miejscowosc": null,
+                "kod": "61-848 ",
+                "nazwa": "SZPITAL KLINICZNY PRZEMIENIENIA PAŃSKIEGO UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU ",
+                "poziom": "Szpital ogólnopolski ",
+                "www": "http://www.skpp.edu.pl/ ",
+                "telefon": "(061)85-49-121 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.935724957529516,
+                    52.40364093239642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 274,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 373,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "SZAMARZEWSKIEGO 62 ",
+                "miejscowosc": null,
+                "kod": "60-569 ",
+                "nazwa": "WIELKOPOLSKIE CENTRUM PULMONOLOGII I TORAKOCHIRURGII IM. EUGENII I JANUSZA ZEYLANDÓW ",
+                "poziom": "Szpital onkologiczny ",
+                "www": "http://www.wcpit.pl/ ",
+                "telefon": "(061)66-54-275 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.88770077235462,
+                    52.412356263175624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 275,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 380,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "KRYSIEWICZA 7/8 ",
+                "miejscowosc": null,
+                "kod": "61-825 ",
+                "nazwa": "SPECJALISTYCZNY ZESPÓŁ OPIEKI ZDROWOTNEJ NAD MATKĄ I DZIECKIEM W POZNANIU ",
+                "poziom": "Szpital pediatryczny ",
+                "www": "http://www.szoz.pl/ ",
+                "telefon": "(061)85-20-458 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.92971265285437,
+                    52.4044055325557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 276,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 381,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "GRUNWALDZKA 16/18 ",
+                "miejscowosc": null,
+                "kod": "60-780 ",
+                "nazwa": "SZPITAL KLINICZNY IM. HELIODORA ŚWIĘCICKIEGO UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU ",
+                "poziom": "Szpital ogólnopolski ",
+                "www": "http://www.spsk2.pl/ ",
+                "telefon": "(061)86-91-100 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90157748817322,
+                    52.40568933336995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 277,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 382,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "PRZYBYSZEWSKIEGO 49 ",
+                "miejscowosc": null,
+                "kod": "60-355 ",
+                "nazwa": "SZPITAL KLINICZNY IM. HELIODORA ŚWIĘCICKIEGO UNIWERSYTETU MEDYCZNEGO IM. KAROLA MARCINKOWSKIEGO W POZNANIU ",
+                "poziom": "Szpital ogólnopolski ",
+                "www": "http://www.spsk2.pl/ ",
+                "telefon": "(061)86-91-100 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.887832111795923,
+                    52.40357539173256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 278,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 369,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "JURASZÓW 7-19 ",
+                "miejscowosc": null,
+                "kod": "60-479 ",
+                "nazwa": "SZPITAL WOJEWÓDZKI W POZNANIU ",
+                "poziom": "II stopień ",
+                "www": "http://www.lutycka.pl ",
+                "telefon": "(061)82-12-200 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90649411176075,
+                    52.441171858907104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 279,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 371,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "28 CZERWCA1956 R 135/147 ",
+                "miejscowosc": null,
+                "kod": "61-545 ",
+                "nazwa": "ORTOPEDYCZNO-REHABILITACYJNY SZPITAL KLINICZNY IM. WIKTORA DEGI UNIWERSYTETU MEDYCZNEGO IM.KAROLA MARCINKOWSKIEGO ",
+                "poziom": "Szpital ogólnopolski ",
+                "www": "http://www.orsk.ump.edu.pl/ ",
+                "telefon": "(061)83-10-331 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.919179057099335,
+                    52.38942808064654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 280,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 377,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ ",
+                "powiat": "POZNAŃ ",
+                "adres": "28 CZERWCA 1956 NR 194 ",
+                "miejscowosc": null,
+                "kod": "61-485 ",
+                "nazwa": "CENTRUM MEDYCZNE HCP SP. Z O.O. NZOZ CENTRUM MEDYCZNE HCP LECZNICTWO STACJONARNE ",
+                "poziom": "II stopień ",
+                "www": "http://www.cmhcp.pl/ ",
+                "telefon": "(061)22-74-104 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.912476390238258,
+                    52.38314317139767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 281,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": 389,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "POZNAŃ-JEŻYCE ",
+                "powiat": "POZNAŃ ",
+                "adres": "DOJAZD 34 ",
+                "miejscowosc": null,
+                "kod": "60-631 ",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ MINISTERSTWA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W POZNANIU IM. PROF.LUDWIKA BIERKOWSKIEGO ",
+                "poziom": "Szpital ogólnopolski ",
+                "www": "http://www.szpitalmsw.poznan.pl/ ",
+                "telefon": "(061)84-64-500 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.904771282933254,
+                    52.436628783979806
+                ]
+            }
+        }
+    ]
 }

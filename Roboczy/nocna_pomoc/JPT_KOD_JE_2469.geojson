@@ -1,11 +1,168 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2469",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 178, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": "104#378", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/100229", "swiadczeniodawca": "Okręgowy Szpital Kolejowy w Katowicach", "miejscowosc": "Katowice", "ulica": "Panewnicka ", "numer_domu": "65", "adres_swiadczeniodawcy": "Panewnicka 65", "telefon": "32 258 60 74; 32 255 61 62 wew. 290 lub wew.311;\r\nporady wyjazdowe: 32 254 50 86, 505 417 120", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "porada lekarska ambulatoryjna, wizyta pielęgniarska ambulatoryjna – dla pacjentów powyżej 18 roku życia", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Panewnicka", "g_miejsc": "Katowice", "g_adr": "65", "g_teryt": "2469011", "g_gm": "Katowice", "g_pow": "Katowice", "g_woj": "śląskie", "g_szer": 18.959491102956413, "g_dlug": 50.226937201610596, "g_uuid": "8d25b5f7-10d2-42ee-a57e-adf0a69c4069", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 497111.32321969489567, 262194.383399297483265 ] } },
-{ "type": "Feature", "properties": { "gid": 279, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": "104#379", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/100685", "swiadczeniodawca": "Szpital Murcki Sp. z o.o.", "miejscowosc": "Katowice", "ulica": "Sokołowskiego ", "numer_domu": "2", "adres_swiadczeniodawcy": "Sokołowskiego 2", "telefon": "32 258 60 74; 32 255 61 62 wew. 290 lub 311;\r\nporady wyjazdowe: 32 254 50 86, 505 417 120", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sokołowskiego Alfreda", "g_miejsc": "Katowice", "g_adr": "2", "g_teryt": "2469011", "g_gm": "Katowice", "g_pow": "Katowice", "g_woj": "śląskie", "g_szer": 19.041566433572424, "g_dlug": 50.197460207511448, "g_uuid": "7c39a5b3-04ed-485e-a742-77cae51d4bf8", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 502966.089883493841626, 258917.567275899462402 ] } },
-{ "type": "Feature", "properties": { "gid": 280, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": "104#381", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "122\/207776", "swiadczeniodawca": "American Heart of Poland SA - Szpital Polski im. św. Elżbiety", "miejscowosc": "Katowice", "ulica": "Warszawska ", "numer_domu": "52", "adres_swiadczeniodawcy": "Warszawska 52", "telefon": "32 258 60 74; 32 255 61 62 wew. 290 lub wew. 311", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "porada lekarska ambulatoryjna, wizyta pielęgniarska ambulatoryjna – dla pacjentów powyżej 14 roku życia", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Warszawska", "g_miejsc": "Katowice", "g_adr": "52", "g_teryt": "2469011", "g_gm": "Katowice", "g_pow": "Katowice", "g_woj": "śląskie", "g_szer": 19.033698421269779, "g_dlug": 50.257549240780911, "g_uuid": "41531242-e52d-4d65-b39b-95010be7e4fa", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 502401.532565453147981, 265596.622642756439745 ] } },
-{ "type": "Feature", "properties": { "gid": 508, "JPT_KOD_JE": "2469", "JPT_NAZWA_": "powiat Katowice", "id": "104#380", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/211925", "swiadczeniodawca": "Szpital Zakonu Bonifratrów w Katowicach", "miejscowosc": "Katowice", "ulica": "Ks. Markiefki ", "numer_domu": "87", "adres_swiadczeniodawcy": "Ks. Markiefki 87", "telefon": "32 258 60 74; 32 255 61 62 wew. 290 lub wew. 311", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "porada lekarska ambulatoryjna, wizyta pielęgniarska ambulatoryjna – dla pacjentów poniżej 14 roku życia", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Markiefki Leopolda", "g_miejsc": "Katowice", "g_adr": "87", "g_teryt": "2469011", "g_gm": "Katowice", "g_pow": "Katowice", "g_woj": "śląskie", "g_szer": 19.039020945338539, "g_dlug": 50.268682373471293, "g_uuid": "c72f817a-9c8a-40b4-8b5b-afa5c0229d62", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 502779.998987076454796, 266833.976838274858892 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2469",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 178,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": "104#378",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/100229",
+                "swiadczeniodawca": "Okręgowy Szpital Kolejowy w Katowicach",
+                "miejscowosc": "Katowice",
+                "ulica": "Panewnicka ",
+                "numer_domu": "65",
+                "adres_swiadczeniodawcy": "Panewnicka 65",
+                "telefon": "32 258 60 74; 32 255 61 62 wew. 290 lub wew.311;\r\nporady wyjazdowe: 32 254 50 86, 505 417 120",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "porada lekarska ambulatoryjna, wizyta pielęgniarska ambulatoryjna – dla pacjentów powyżej 18 roku życia",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Panewnicka",
+                "g_miejsc": "Katowice",
+                "g_adr": "65",
+                "g_teryt": "2469011",
+                "g_gm": "Katowice",
+                "g_pow": "Katowice",
+                "g_woj": "śląskie",
+                "g_szer": 18.959491102956413,
+                "g_dlug": 50.226937201610596,
+                "g_uuid": "8d25b5f7-10d2-42ee-a57e-adf0a69c4069",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.95948999999999,
+                    50.226940000012824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 279,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": "104#379",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/100685",
+                "swiadczeniodawca": "Szpital Murcki Sp. z o.o.",
+                "miejscowosc": "Katowice",
+                "ulica": "Sokołowskiego ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Sokołowskiego 2",
+                "telefon": "32 258 60 74; 32 255 61 62 wew. 290 lub 311;\r\nporady wyjazdowe: 32 254 50 86, 505 417 120",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Sokołowskiego Alfreda",
+                "g_miejsc": "Katowice",
+                "g_adr": "2",
+                "g_teryt": "2469011",
+                "g_gm": "Katowice",
+                "g_pow": "Katowice",
+                "g_woj": "śląskie",
+                "g_szer": 19.041566433572424,
+                "g_dlug": 50.19746020751145,
+                "g_uuid": "7c39a5b3-04ed-485e-a742-77cae51d4bf8",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.04157000000001,
+                    50.19746000001279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 280,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": "104#381",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "122/207776",
+                "swiadczeniodawca": "American Heart of Poland SA - Szpital Polski im. św. Elżbiety",
+                "miejscowosc": "Katowice",
+                "ulica": "Warszawska ",
+                "numer_domu": "52",
+                "adres_swiadczeniodawcy": "Warszawska 52",
+                "telefon": "32 258 60 74; 32 255 61 62 wew. 290 lub wew. 311",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "porada lekarska ambulatoryjna, wizyta pielęgniarska ambulatoryjna – dla pacjentów powyżej 14 roku życia",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Warszawska",
+                "g_miejsc": "Katowice",
+                "g_adr": "52",
+                "g_teryt": "2469011",
+                "g_gm": "Katowice",
+                "g_pow": "Katowice",
+                "g_woj": "śląskie",
+                "g_szer": 19.03369842126978,
+                "g_dlug": 50.25754924078091,
+                "g_uuid": "41531242-e52d-4d65-b39b-95010be7e4fa",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.033700000000007,
+                    50.25755000001287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 508,
+                "JPT_KOD_JE": "2469",
+                "JPT_NAZWA_": "powiat Katowice",
+                "id": "104#380",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/211925",
+                "swiadczeniodawca": "Szpital Zakonu Bonifratrów w Katowicach",
+                "miejscowosc": "Katowice",
+                "ulica": "Ks. Markiefki ",
+                "numer_domu": "87",
+                "adres_swiadczeniodawcy": "Ks. Markiefki 87",
+                "telefon": "32 258 60 74; 32 255 61 62 wew. 290 lub wew. 311",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "porada lekarska ambulatoryjna, wizyta pielęgniarska ambulatoryjna – dla pacjentów poniżej 14 roku życia",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Markiefki Leopolda",
+                "g_miejsc": "Katowice",
+                "g_adr": "87",
+                "g_teryt": "2469011",
+                "g_gm": "Katowice",
+                "g_pow": "Katowice",
+                "g_woj": "śląskie",
+                "g_szer": 19.03902094533854,
+                "g_dlug": 50.26868237347129,
+                "g_uuid": "c72f817a-9c8a-40b4-8b5b-afa5c0229d62",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.03902000000001,
+                    50.268680000012914
+                ]
+            }
+        }
+    ]
 }

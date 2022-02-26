@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1215",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1215", "JPT_NAZWA_": "powiat suski", "id": 86, "ksiega": 388525, "id zoz": 475643, "id jednostki": "763999", "id komórki": 6690414, "regon": 30441500027, "kod jednostki": "01", "kod komórki": 93, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Sucha Beskidzka - gmina miejska", "ulica": "ul. Szpitalna", "budynek": "22.", "lokal": "NULL", "kod": "34-200", "miejscowosc": "Sucha Beskidzka", "teryt": 1215021, "kod simc": 925287, "kod ulicy": "22073", "lozka": 9, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2003-06-12" }, "geometry": { "type": "Point", "coordinates": [ 543556.629630833049305, 207852.043962667987216 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1215",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1215",
+                "JPT_NAZWA_": "powiat suski",
+                "id": 86,
+                "ksiega": 388525,
+                "id zoz": 475643,
+                "id jednostki": "763999",
+                "id komórki": 6690414,
+                "regon": 30441500027,
+                "kod jednostki": "01",
+                "kod komórki": 93,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Sucha Beskidzka - gmina miejska",
+                "ulica": "ul. Szpitalna",
+                "budynek": "22.",
+                "lokal": "NULL",
+                "kod": "34-200",
+                "miejscowosc": "Sucha Beskidzka",
+                "teryt": 1215021,
+                "kod simc": 925287,
+                "kod ulicy": "22073",
+                "lozka": 9,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2003-06-12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.604649000000155,
+                    49.73646300001214
+                ]
+            }
+        }
+    ]
 }

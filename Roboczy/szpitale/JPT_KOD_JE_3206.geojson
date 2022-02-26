@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3206",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 110, "JPT_KOD_JE": "3206", "JPT_NAZWA_": "powiat gryfiński", "id": 329, "wojewodztwo": "zachodniopomorskie", "miasto": "Gryfino ", "powiat": "gryfiński ", "adres": "Parkowa 5 ", "miejscowosc": null, "kod": null, "nazwa": "Szpital Powiatowy w Gryfinie ", "poziom": "I stopień", "www": "http:\/\/www.szpital-gryfino.pl\/index.php?lang=pl ", "telefon": "91 416 21 09, 91 416 23 54 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 199366.4, 608344.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3206",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 110,
+                "JPT_KOD_JE": "3206",
+                "JPT_NAZWA_": "powiat gryfiński",
+                "id": 329,
+                "wojewodztwo": "zachodniopomorskie",
+                "miasto": "Gryfino ",
+                "powiat": "gryfiński ",
+                "adres": "Parkowa 5 ",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Szpital Powiatowy w Gryfinie ",
+                "poziom": "I stopień",
+                "www": "http://www.szpital-gryfino.pl/index.php?lang=pl ",
+                "telefon": "91 416 21 09, 91 416 23 54 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.491049210415719,
+                    53.25491345740769
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3001",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 229, "JPT_KOD_JE": "3001", "JPT_NAZWA_": "powiat chodzieski", "id": 387, "wojewodztwo": "wielkopolskie", "miasto": "CHODZIEŻ ", "powiat": "CHODZIESKI ", "adres": "ŻEROMSKIEGO 29 ", "miejscowosc": null, "kod": "64-800 ", "nazwa": "SZPITAL POWIATOWY IM. PROF. ROMANA DREWSA ", "poziom": "I stopień", "www": "http:\/\/szpital-chodziez.pl\/ ", "telefon": "(067)28-20-570 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 360071.4, 571195.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3001",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 229,
+                "JPT_KOD_JE": "3001",
+                "JPT_NAZWA_": "powiat chodzieski",
+                "id": 387,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "CHODZIEŻ ",
+                "powiat": "CHODZIESKI ",
+                "adres": "ŻEROMSKIEGO 29 ",
+                "miejscowosc": null,
+                "kod": "64-800 ",
+                "nazwa": "SZPITAL POWIATOWY IM. PROF. ROMANA DREWSA ",
+                "poziom": "I stopień",
+                "www": "http://szpital-chodziez.pl/ ",
+                "telefon": "(067)28-20-570 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.914778995319015,
+                    52.98789518979156
+                ]
+            }
+        }
+    ]
 }

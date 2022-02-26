@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1462",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1462", "JPT_NAZWA_": "powiat Płock", "id": 90, "ksiega": 388662, "id zoz": 475909, "id jednostki": "764731", "id komórki": 6700801, "regon": 65007000021, "kod jednostki": "01", "kod komórki": 25, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Płock - gmina miejska", "ulica": "ul. Medyczna", "budynek": "19", "lokal": "NULL", "kod": "09-400", "miejscowosc": "Płock", "teryt": 1462011, "kod simc": 968687, "kod ulicy": "12580", "lozka": 8, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2000-08-15" }, "geometry": { "type": "Point", "coordinates": [ 544221.576, 521459.18002299999353 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1462",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1462",
+                "JPT_NAZWA_": "powiat Płock",
+                "id": 90,
+                "ksiega": 388662,
+                "id zoz": 475909,
+                "id jednostki": "764731",
+                "id komórki": 6700801,
+                "regon": 65007000021,
+                "kod jednostki": "01",
+                "kod komórki": 25,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Płock - gmina miejska",
+                "ulica": "ul. Medyczna",
+                "budynek": "19",
+                "lokal": "NULL",
+                "kod": "09-400",
+                "miejscowosc": "Płock",
+                "teryt": 1462011,
+                "kod simc": 968687,
+                "kod ulicy": "12580",
+                "lozka": 8,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2000-08-15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.652482816642628,
+                    52.55713108603659
+                ]
+            }
+        }
+    ]
 }

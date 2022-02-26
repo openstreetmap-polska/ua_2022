@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1862",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 263, "JPT_KOD_JE": "1862", "JPT_NAZWA_": "powiat Przemyśl", "id": "104#293", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010037", "swiadczeniodawca": "Wojewódzki Szpital im. Św. Ojca Pio w Przemyślu", "miejscowosc": "Przemyśl", "ulica": "Monte Cassino ", "numer_domu": "18", "adres_swiadczeniodawcy": "Monte Cassino 18", "telefon": "ul. Monte Cassino: 16 677 50 19; ul. Sportowa: 16 675 11 35 wew. 29 ", "dodatkowe_miejsce": "Sportowa 6", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 22.783465506222434, "g_dlug": 49.808505517479659, "g_uuid": "71b24da4-4092-4062-8319-595fa18f92db", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 772111.042183346813545, 222552.079616449773312 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1862",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 263,
+                "JPT_KOD_JE": "1862",
+                "JPT_NAZWA_": "powiat Przemyśl",
+                "id": "104#293",
+                "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ",
+                "kod_swiadczeniodawcy": "09R/010037",
+                "swiadczeniodawca": "Wojewódzki Szpital im. Św. Ojca Pio w Przemyślu",
+                "miejscowosc": "Przemyśl",
+                "ulica": "Monte Cassino ",
+                "numer_domu": "18",
+                "adres_swiadczeniodawcy": "Monte Cassino 18",
+                "telefon": "ul. Monte Cassino: 16 677 50 19; ul. Sportowa: 16 675 11 35 wew. 29 ",
+                "dodatkowe_miejsce": "Sportowa 6",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 22.783465506222434,
+                "g_dlug": 49.80850551747966,
+                "g_uuid": "71b24da4-4092-4062-8319-595fa18f92db",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.78347000007342,
+                    49.80851000001302
+                ]
+            }
+        }
+    ]
 }

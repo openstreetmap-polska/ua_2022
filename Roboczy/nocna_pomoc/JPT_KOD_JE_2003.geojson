@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2003",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 164, "JPT_KOD_JE": "2003", "JPT_NAZWA_": "powiat bielski", "id": "104#309", "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ", "kod_swiadczeniodawcy": "100000101", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej  w Bielsku Podlaskim  ", "miejscowosc": "Bielsk Podlaski ", "ulica": "Kleszczelowska  ", "numer_domu": "1", "adres_swiadczeniodawcy": "Kleszczelowska 1 ", "telefon": "85 833 43 77  ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kleszczelowska", "g_miejsc": "Bielsk Podlaski", "g_adr": "1", "g_teryt": "2003011", "g_gm": "Bielsk Podlaski", "g_pow": "bielski", "g_woj": "podlaskie", "g_szer": 23.202251458766984, "g_dlug": 52.759684455484262, "g_uuid": "fda0eef7-228c-4cfb-93ff-6a78d9ae4e69", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 783424.857516856398433, 552063.955678883939981 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2003",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 164,
+                "JPT_KOD_JE": "2003",
+                "JPT_NAZWA_": "powiat bielski",
+                "id": "104#309",
+                "krotka_nazwa_oddz_nfz": "PODLASKI OW NFZ",
+                "kod_swiadczeniodawcy": "100000101",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej  w Bielsku Podlaskim  ",
+                "miejscowosc": "Bielsk Podlaski ",
+                "ulica": "Kleszczelowska  ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Kleszczelowska 1 ",
+                "telefon": "85 833 43 77  ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Kleszczelowska",
+                "g_miejsc": "Bielsk Podlaski",
+                "g_adr": "1",
+                "g_teryt": "2003011",
+                "g_gm": "Bielsk Podlaski",
+                "g_pow": "bielski",
+                "g_woj": "podlaskie",
+                "g_szer": 23.202251458766984,
+                "g_dlug": 52.75968445548426,
+                "g_uuid": "fda0eef7-228c-4cfb-93ff-6a78d9ae4e69",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.202250000081165,
+                    52.759680000018705
+                ]
+            }
+        }
+    ]
 }

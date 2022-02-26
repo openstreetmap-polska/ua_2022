@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3031",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 300, "JPT_KOD_JE": "3031", "JPT_NAZWA_": "powiat złotowski", "id": 357, "wojewodztwo": "wielkopolskie", "miasto": "ZŁOTÓW ", "powiat": "ZŁOTOWSKI ", "adres": "SZPITALNA 28 ", "miejscowosc": null, "kod": "77-400 ", "nazwa": "SZPITAL POWIATOWY IM. ALFREDA SOKOŁOWSKIEGO W ZŁOTOWIE ", "poziom": "I stopień", "www": "http:\/\/www.szpital.zlotow.pl\/ ", "telefon": "(067)26-32-233 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 369921.2, 611819.9 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3031",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 300,
+                "JPT_KOD_JE": "3031",
+                "JPT_NAZWA_": "powiat złotowski",
+                "id": 357,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "ZŁOTÓW ",
+                "powiat": "ZŁOTOWSKI ",
+                "adres": "SZPITALNA 28 ",
+                "miejscowosc": null,
+                "kod": "77-400 ",
+                "nazwa": "SZPITAL POWIATOWY IM. ALFREDA SOKOŁOWSKIEGO W ZŁOTOWIE ",
+                "poziom": "I stopień",
+                "www": "http://www.szpital.zlotow.pl/ ",
+                "telefon": "(067)26-32-233 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04493414275734,
+                    53.35545538538128
+                ]
+            }
+        }
+    ]
 }

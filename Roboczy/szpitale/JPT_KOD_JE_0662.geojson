@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0662",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 12, "JPT_KOD_JE": "0662", "JPT_NAZWA_": "powiat Chełm", "id": 58, "wojewodztwo": "lubelskie", "miasto": "CHEŁM", "powiat": "CHEŁM", "adres": "SZPITALNA 53B", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY WOJEWÓDZKI SZPITAL SPECJALISTYCZNY W CHEŁMIE", "poziom": "II stopień ", "www": "http:\/\/szpital.chelm.pl", "telefon": "82 562 32 23", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 811544.7, 374095.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0662",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 12,
+                "JPT_KOD_JE": "0662",
+                "JPT_NAZWA_": "powiat Chełm",
+                "id": 58,
+                "wojewodztwo": "lubelskie",
+                "miasto": "CHEŁM",
+                "powiat": "CHEŁM",
+                "adres": "SZPITALNA 53B",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY WOJEWÓDZKI SZPITAL SPECJALISTYCZNY W CHEŁMIE",
+                "poziom": "II stopień ",
+                "www": "http://szpital.chelm.pl",
+                "telefon": "82 562 32 23",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.456419302233826,
+                    51.148613808719496
+                ]
+            }
+        }
+    ]
 }

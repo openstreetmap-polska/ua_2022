@@ -1,14 +1,285 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3064",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 96, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": "104#491", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000026", "swiadczeniodawca": "Wielospecjalistyczny Szpital Miejski im.Józefa Strusia z Zakładem Opiekuńczo-Leczniczym. Samodzielny Publiczny Zakład Opieki Zdrowotnej z Siedzibą w Poznaniu", "miejscowosc": "Poznań", "ulica": "Szwajcarska ", "numer_domu": "3", "adres_swiadczeniodawcy": "Szwajcarska 3", "telefon": "61 873 90 81\r\n61 873 91 90\r\n61 873 94 08", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szwajcarska", "g_miejsc": "Poznań", "g_adr": "3", "g_teryt": "3064011", "g_gm": "Poznań", "g_pow": "Poznań", "g_woj": "wielkopolskie", "g_szer": 16.995201271780935, "g_dlug": 52.389697743239822, "g_uuid": "28c19b51-8f86-44aa-80f8-a7d84821f8ac", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 363615.720748627092689, 504531.717203731648624 ] } },
-{ "type": "Feature", "properties": { "gid": 196, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": "104#490", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000038", "swiadczeniodawca": "Szpital Wojewódzki w Poznaniu", "miejscowosc": "Poznań", "ulica": "Juraszów", "numer_domu": "7\/19", "adres_swiadczeniodawcy": "Juraszów 7\/19", "telefon": "61 821 22 07", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Juraszów", "g_miejsc": "Poznań", "g_adr": "7\/19", "g_teryt": "3064011", "g_gm": "Poznań", "g_pow": "Poznań", "g_woj": "wielkopolskie", "g_szer": 16.906513441736301, "g_dlug": 52.441191907281365, "g_uuid": "fa1bae9d-7b07-4c73-8830-e507a711ab2a", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 357748.737918062019162, 510427.285625926218927 ] } },
-{ "type": "Feature", "properties": { "gid": 197, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": "104#494", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000072", "swiadczeniodawca": "Szpital Miejski im. Franciszka Raszei", "miejscowosc": "Poznań ", "ulica": "Mickiewicza ", "numer_domu": "2", "adres_swiadczeniodawcy": "Mickiewicza 2", "telefon": "61 307 12 75", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Adama Mickiewicza", "g_miejsc": "Poznań", "g_adr": "2", "g_teryt": "3064011", "g_gm": "Poznań", "g_pow": "Poznań", "g_woj": "wielkopolskie", "g_szer": 16.912905723103208, "g_dlug": 52.413471039387304, "g_uuid": "ee51f09d-2488-413c-a507-4ad3512ca7f9", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 358094.548024666612037, 507332.831144866533577 ] } },
-{ "type": "Feature", "properties": { "gid": 310, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": "104#496", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150003502", "swiadczeniodawca": "Poznański Ośrodek Specjalistyczny Usług Medycznych", "miejscowosc": "Poznań", "ulica": "Al. Solidarności ", "numer_domu": "36", "adres_swiadczeniodawcy": "Al. Solidarności 36", "telefon": "61 647 77 15", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 16.93394529717796, "g_dlug": 52.433738282593986, "g_uuid": "12db3663-8c96-4d0e-b729-1b74b92ccf2d", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 359589.373377030598931, 509545.330600102432072 ] } },
-{ "type": "Feature", "properties": { "gid": 410, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": "104#492", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150001771", "swiadczeniodawca": "Centrum Medyczne HCP Sp. z o. o. NZOZ Centrum Medyczne HCP Lecznictwo Ambulatoryjne", "miejscowosc": "Poznań ", "ulica": "28 Czerwca 1956  r. ", "numer_domu": " 194", "adres_swiadczeniodawcy": "28 Czerwca 1956 r. 194", "telefon": "61 227 41 88\r\n61 227 42 36", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "28 Czerwca 1956 r.", "g_miejsc": "Poznań", "g_adr": "194", "g_teryt": "3064011", "g_gm": "Poznań", "g_pow": "Poznań", "g_woj": "wielkopolskie", "g_szer": 16.912444934239847, "g_dlug": 52.383155346560841, "g_uuid": "69d7bfaa-8c48-49f9-b961-c67b84b1d3d5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 357965.278356481750961, 503963.942451165989041 ] } },
-{ "type": "Feature", "properties": { "gid": 411, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": "104#493", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150003180", "swiadczeniodawca": "Specjalistyczny Zespół Opieki Zdrowotnej Nad Matką i Dzieckiem w Poznaniu", "miejscowosc": "Poznań ", "ulica": "Krysiewicza", "numer_domu": "7\/8", "adres_swiadczeniodawcy": "Krysiewicza 7\/8", "telefon": "61 850 63 22", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Bolesława Krysiewicza", "g_miejsc": "Poznań", "g_adr": "7\/8", "g_teryt": "3064011", "g_gm": "Poznań", "g_pow": "Poznań", "g_woj": "wielkopolskie", "g_szer": 16.929712636876722, "g_dlug": 52.404405748120908, "g_uuid": "49238787-ac71-478a-9aca-d9d582282a65", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 359207.833835976955015, 506292.70185287296772 ] } },
-{ "type": "Feature", "properties": { "gid": 412, "JPT_KOD_JE": "3064", "JPT_NAZWA_": "powiat Poznań", "id": "104#495", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150005371", "swiadczeniodawca": "Pomoc Doraźna Lekarzy Rodzinnych \"Grunwald\" S.C.", "miejscowosc": "Poznań", "ulica": "Kasprzaka ", "numer_domu": "16", "adres_swiadczeniodawcy": "Kasprzaka 16", "telefon": "61 866 44 23\r\n61 866 25 35", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 16.894997920750875, "g_dlug": 52.393446190076652, "g_uuid": "4d62492c-2fca-4e2b-b92b-6777c8bf8dfb", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 356812.129877803032286, 505142.361354628577828 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3064",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 96,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": "104#491",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150000026",
+                "swiadczeniodawca": "Wielospecjalistyczny Szpital Miejski im.Józefa Strusia z Zakładem Opiekuńczo-Leczniczym. Samodzielny Publiczny Zakład Opieki Zdrowotnej z Siedzibą w Poznaniu",
+                "miejscowosc": "Poznań",
+                "ulica": "Szwajcarska ",
+                "numer_domu": "3",
+                "adres_swiadczeniodawcy": "Szwajcarska 3",
+                "telefon": "61 873 90 81\r\n61 873 91 90\r\n61 873 94 08",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szwajcarska",
+                "g_miejsc": "Poznań",
+                "g_adr": "3",
+                "g_teryt": "3064011",
+                "g_gm": "Poznań",
+                "g_pow": "Poznań",
+                "g_woj": "wielkopolskie",
+                "g_szer": 16.995201271780935,
+                "g_dlug": 52.38969774323982,
+                "g_uuid": "28c19b51-8f86-44aa-80f8-a7d84821f8ac",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99519999999718,
+                    52.38970000001609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 196,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": "104#490",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150000038",
+                "swiadczeniodawca": "Szpital Wojewódzki w Poznaniu",
+                "miejscowosc": "Poznań",
+                "ulica": "Juraszów",
+                "numer_domu": "7/19",
+                "adres_swiadczeniodawcy": "Juraszów 7/19",
+                "telefon": "61 821 22 07",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Juraszów",
+                "g_miejsc": "Poznań",
+                "g_adr": "7/19",
+                "g_teryt": "3064011",
+                "g_gm": "Poznań",
+                "g_pow": "Poznań",
+                "g_woj": "wielkopolskie",
+                "g_szer": 16.9065134417363,
+                "g_dlug": 52.441191907281365,
+                "g_uuid": "fa1bae9d-7b07-4c73-8830-e507a711ab2a",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.90650999999665,
+                    52.44119000001618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 197,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": "104#494",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150000072",
+                "swiadczeniodawca": "Szpital Miejski im. Franciszka Raszei",
+                "miejscowosc": "Poznań ",
+                "ulica": "Mickiewicza ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Mickiewicza 2",
+                "telefon": "61 307 12 75",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Adama Mickiewicza",
+                "g_miejsc": "Poznań",
+                "g_adr": "2",
+                "g_teryt": "3064011",
+                "g_gm": "Poznań",
+                "g_pow": "Poznań",
+                "g_woj": "wielkopolskie",
+                "g_szer": 16.912905723103208,
+                "g_dlug": 52.413471039387304,
+                "g_uuid": "ee51f09d-2488-413c-a507-4ad3512ca7f9",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.912909999996685,
+                    52.41347000001612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 310,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": "104#496",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150003502",
+                "swiadczeniodawca": "Poznański Ośrodek Specjalistyczny Usług Medycznych",
+                "miejscowosc": "Poznań",
+                "ulica": "Al. Solidarności ",
+                "numer_domu": "36",
+                "adres_swiadczeniodawcy": "Al. Solidarności 36",
+                "telefon": "61 647 77 15",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 16.93394529717796,
+                "g_dlug": 52.433738282593986,
+                "g_uuid": "12db3663-8c96-4d0e-b729-1b74b92ccf2d",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.93394999999682,
+                    52.433740000016165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 410,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": "104#492",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150001771",
+                "swiadczeniodawca": "Centrum Medyczne HCP Sp. z o. o. NZOZ Centrum Medyczne HCP Lecznictwo Ambulatoryjne",
+                "miejscowosc": "Poznań ",
+                "ulica": "28 Czerwca 1956  r. ",
+                "numer_domu": " 194",
+                "adres_swiadczeniodawcy": "28 Czerwca 1956 r. 194",
+                "telefon": "61 227 41 88\r\n61 227 42 36",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "28 Czerwca 1956 r.",
+                "g_miejsc": "Poznań",
+                "g_adr": "194",
+                "g_teryt": "3064011",
+                "g_gm": "Poznań",
+                "g_pow": "Poznań",
+                "g_woj": "wielkopolskie",
+                "g_szer": 16.912444934239847,
+                "g_dlug": 52.38315534656084,
+                "g_uuid": "69d7bfaa-8c48-49f9-b961-c67b84b1d3d5",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.912439999996675,
+                    52.38316000001608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 411,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": "104#493",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150003180",
+                "swiadczeniodawca": "Specjalistyczny Zespół Opieki Zdrowotnej Nad Matką i Dzieckiem w Poznaniu",
+                "miejscowosc": "Poznań ",
+                "ulica": "Krysiewicza",
+                "numer_domu": "7/8",
+                "adres_swiadczeniodawcy": "Krysiewicza 7/8",
+                "telefon": "61 850 63 22",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Bolesława Krysiewicza",
+                "g_miejsc": "Poznań",
+                "g_adr": "7/8",
+                "g_teryt": "3064011",
+                "g_gm": "Poznań",
+                "g_pow": "Poznań",
+                "g_woj": "wielkopolskie",
+                "g_szer": 16.929712636876722,
+                "g_dlug": 52.40440574812091,
+                "g_uuid": "49238787-ac71-478a-9aca-d9d582282a65",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.929709999996792,
+                    52.40441000001612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 412,
+                "JPT_KOD_JE": "3064",
+                "JPT_NAZWA_": "powiat Poznań",
+                "id": "104#495",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150005371",
+                "swiadczeniodawca": "Pomoc Doraźna Lekarzy Rodzinnych \"Grunwald\" S.C.",
+                "miejscowosc": "Poznań",
+                "ulica": "Kasprzaka ",
+                "numer_domu": "16",
+                "adres_swiadczeniodawcy": "Kasprzaka 16",
+                "telefon": "61 866 44 23\r\n61 866 25 35",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 16.894997920750875,
+                "g_dlug": 52.39344619007665,
+                "g_uuid": "4d62492c-2fca-4e2b-b92b-6777c8bf8dfb",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.89499999999656,
+                    52.393450000016095
+                ]
+            }
+        }
+    ]
 }

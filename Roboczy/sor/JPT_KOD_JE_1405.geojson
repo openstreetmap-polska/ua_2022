@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1405",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1405", "JPT_NAZWA_": "powiat grodziski", "id": 65, "ksiega": 387218, "id zoz": 472719, "id jednostki": "757423", "id komórki": 6608334, "regon": 31163900030, "kod jednostki": "04", "kod komórki": 65, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Grodzisk Mazowiecki - miasto", "ulica": "ul. Daleka", "budynek": "11", "lokal": "NULL", "kod": "05-825", "miejscowosc": "Grodzisk Mazowiecki", "teryt": 1405044, "kod simc": 920380, "kod ulicy": "03557", "lozka": 11, "liczba łóżek iom": 3, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2006-12-08" }, "geometry": { "type": "Point", "coordinates": [ 610697.3828, 471089.828099999984 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1405",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1405",
+                "JPT_NAZWA_": "powiat grodziski",
+                "id": 65,
+                "ksiega": 387218,
+                "id zoz": 472719,
+                "id jednostki": "757423",
+                "id komórki": 6608334,
+                "regon": 31163900030,
+                "kod jednostki": "04",
+                "kod komórki": 65,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Grodzisk Mazowiecki - miasto",
+                "ulica": "ul. Daleka",
+                "budynek": "11",
+                "lokal": "NULL",
+                "kod": "05-825",
+                "miejscowosc": "Grodzisk Mazowiecki",
+                "teryt": 1405044,
+                "kod simc": 920380,
+                "kod ulicy": "03557",
+                "lozka": 11,
+                "liczba łóżek iom": 3,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2006-12-08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.616431915635133,
+                    52.0948679795269
+                ]
+            }
+        }
+    ]
 }

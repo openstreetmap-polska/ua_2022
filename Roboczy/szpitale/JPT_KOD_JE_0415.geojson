@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0415",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 216, "JPT_KOD_JE": "0415", "JPT_NAZWA_": "powiat toruński", "id": 48, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Chełmża", "powiat": "toruński", "adres": "Szewska 23", "miejscowosc": null, "kod": null, "nazwa": "Szpital Powiatowy sp. z o.o. w  Chełmży", "poziom": "I stopień", "www": "http:\/\/www.szpitalchelmza.pl", "telefon": "56 675 22 55 do 58", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 473980.1, 591394.2 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0415",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 216,
+                "JPT_KOD_JE": "0415",
+                "JPT_NAZWA_": "powiat toruński",
+                "id": 48,
+                "wojewodztwo": "kujawsko-pomorskie",
+                "miasto": "Chełmża",
+                "powiat": "toruński",
+                "adres": "Szewska 23",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Szpital Powiatowy sp. z o.o. w  Chełmży",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalchelmza.pl",
+                "telefon": "56 675 22 55 do 58",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.610478144030967,
+                    53.18717042742756
+                ]
+            }
+        }
+    ]
 }

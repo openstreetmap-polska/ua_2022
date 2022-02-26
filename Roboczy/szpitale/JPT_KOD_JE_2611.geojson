@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2611",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 319, "JPT_KOD_JE": "2611", "JPT_NAZWA_": "powiat starachowicki", "id": 451, "wojewodztwo": "ŚWIĘTOKRZYSKIE", "miasto": "STARACHOWICE", "powiat": "STARACHOWICKI", "adres": "RADOMSKA 70", "miejscowosc": "STARACHOWICE", "kod": null, "nazwa": "POWIATOWY ZAKŁAD OPIEKI ZDROWOTNEJ", "poziom": "II stopień", "www": "http:\/\/szpital.starachowice.pl", "telefon": "41 274 64 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 645196.7, 357359.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2611",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 319,
+                "JPT_KOD_JE": "2611",
+                "JPT_NAZWA_": "powiat starachowicki",
+                "id": 451,
+                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
+                "miasto": "STARACHOWICE",
+                "powiat": "STARACHOWICKI",
+                "adres": "RADOMSKA 70",
+                "miejscowosc": "STARACHOWICE",
+                "kod": null,
+                "nazwa": "POWIATOWY ZAKŁAD OPIEKI ZDROWOTNEJ",
+                "poziom": "II stopień",
+                "www": "http://szpital.starachowice.pl",
+                "telefon": "41 274 64 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.072822489119112,
+                    51.06464321433002
+                ]
+            }
+        }
+    ]
 }

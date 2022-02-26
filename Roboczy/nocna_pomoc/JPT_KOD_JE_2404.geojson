@@ -1,11 +1,168 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2404",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 74, "JPT_KOD_JE": "2404", "JPT_NAZWA_": "powiat częstochowski", "id": "104#383", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "123\/100328", "swiadczeniodawca": "SP ZOZ Stacja Pogotowia Ratunkowego w Częstochowie", "miejscowosc": "Kłomnice", "ulica": "Częstochowska ", "numer_domu": "3", "adres_swiadczeniodawcy": "Częstochowska 3", "telefon": "34 378 52 15", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Częstochowska", "g_miejsc": "Kłomnice", "g_adr": "3", "g_teryt": "2404052", "g_gm": "Kłomnice", "g_pow": "częstochowski", "g_woj": "śląskie", "g_szer": 19.336795946666314, "g_dlug": 50.917538301941953, "g_uuid": "0e2d9a4a-b75a-4315-922f-9572e3e69677", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 523667.853376780753024, 339016.213870161212981 ] } },
-{ "type": "Feature", "properties": { "gid": 76, "JPT_KOD_JE": "2404", "JPT_NAZWA_": "powiat częstochowski", "id": "104#386", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "123\/213993", "swiadczeniodawca": "Przychodnia lekarska PAW-MED.", "miejscowosc": "Koniecpol", "ulica": "Zamkowa ", "numer_domu": "1", "adres_swiadczeniodawcy": "Zamkowa 1", "telefon": "34 354 05 01,\r\n519 731 833", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 19.690803871395836, "g_dlug": 50.777246133318471, "g_uuid": "b05fa83d-325c-4d6f-9c8f-86863623de3f", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 548690.032998475246131, 323593.924178376793861 ] } },
-{ "type": "Feature", "properties": { "gid": 173, "JPT_KOD_JE": "2404", "JPT_NAZWA_": "powiat częstochowski", "id": "104#361", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "123\/210439", "swiadczeniodawca": "Polska Grupa Medyczna Sp. z o.o.", "miejscowosc": "Blachownia", "ulica": "Sosnowa ", "numer_domu": "16", "adres_swiadczeniodawcy": "Sosnowa 16", "telefon": "785 057 973; \r\n664 779 849", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sosnowa", "g_miejsc": "Blachownia", "g_adr": "16", "g_teryt": "2404013", "g_gm": "Blachownia", "g_pow": "częstochowski", "g_woj": "śląskie", "g_szer": 18.970580389861148, "g_dlug": 50.76830572502022, "g_uuid": "3fba1788-39a5-4251-a982-6f0d7509bc9f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 497925.968804848613217, 322373.118043175898492 ] } },
-{ "type": "Feature", "properties": { "gid": 391, "JPT_KOD_JE": "2404", "JPT_NAZWA_": "powiat częstochowski", "id": "104#395", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "123\/200436", "swiadczeniodawca": "Przychodnia Zamkowa \"AMICUS\"", "miejscowosc": "Olsztyn", "ulica": "Kuhna ", "numer_domu": "26", "adres_swiadczeniodawcy": "Kuhna 26", "telefon": "32 317 04 46; \r\n50 351 131;\r\n728 514 110", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "KUHNA", "g_miejsc": "OLSZTYN", "g_adr": "26", "g_teryt": "2404122", "g_gm": "Olsztyn", "g_pow": "częstochowski", "g_woj": "śląskie", "g_szer": 19.266803738623388, "g_dlug": 50.746224217108164, "g_uuid": "2f3e8551-b2d6-4b1d-990e-ceeae8d7ff30", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 518817.528003951068968, 319950.980253076180816 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2404",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 74,
+                "JPT_KOD_JE": "2404",
+                "JPT_NAZWA_": "powiat częstochowski",
+                "id": "104#383",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "123/100328",
+                "swiadczeniodawca": "SP ZOZ Stacja Pogotowia Ratunkowego w Częstochowie",
+                "miejscowosc": "Kłomnice",
+                "ulica": "Częstochowska ",
+                "numer_domu": "3",
+                "adres_swiadczeniodawcy": "Częstochowska 3",
+                "telefon": "34 378 52 15",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Częstochowska",
+                "g_miejsc": "Kłomnice",
+                "g_adr": "3",
+                "g_teryt": "2404052",
+                "g_gm": "Kłomnice",
+                "g_pow": "częstochowski",
+                "g_woj": "śląskie",
+                "g_szer": 19.336795946666314,
+                "g_dlug": 50.91753830194195,
+                "g_uuid": "0e2d9a4a-b75a-4315-922f-9572e3e69677",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.336800000000103,
+                    50.917540000013844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 76,
+                "JPT_KOD_JE": "2404",
+                "JPT_NAZWA_": "powiat częstochowski",
+                "id": "104#386",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "123/213993",
+                "swiadczeniodawca": "Przychodnia lekarska PAW-MED.",
+                "miejscowosc": "Koniecpol",
+                "ulica": "Zamkowa ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Zamkowa 1",
+                "telefon": "34 354 05 01,\r\n519 731 833",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 19.690803871395836,
+                "g_dlug": 50.77724613331847,
+                "g_uuid": "b05fa83d-325c-4d6f-9c8f-86863623de3f",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.690800000000213,
+                    50.777250000013616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 173,
+                "JPT_KOD_JE": "2404",
+                "JPT_NAZWA_": "powiat częstochowski",
+                "id": "104#361",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "123/210439",
+                "swiadczeniodawca": "Polska Grupa Medyczna Sp. z o.o.",
+                "miejscowosc": "Blachownia",
+                "ulica": "Sosnowa ",
+                "numer_domu": "16",
+                "adres_swiadczeniodawcy": "Sosnowa 16",
+                "telefon": "785 057 973; \r\n664 779 849",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Sosnowa",
+                "g_miejsc": "Blachownia",
+                "g_adr": "16",
+                "g_teryt": "2404013",
+                "g_gm": "Blachownia",
+                "g_pow": "częstochowski",
+                "g_woj": "śląskie",
+                "g_szer": 18.970580389861148,
+                "g_dlug": 50.76830572502022,
+                "g_uuid": "3fba1788-39a5-4251-a982-6f0d7509bc9f",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.970579999999995,
+                    50.76831000001361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 391,
+                "JPT_KOD_JE": "2404",
+                "JPT_NAZWA_": "powiat częstochowski",
+                "id": "104#395",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "123/200436",
+                "swiadczeniodawca": "Przychodnia Zamkowa \"AMICUS\"",
+                "miejscowosc": "Olsztyn",
+                "ulica": "Kuhna ",
+                "numer_domu": "26",
+                "adres_swiadczeniodawcy": "Kuhna 26",
+                "telefon": "32 317 04 46; \r\n50 351 131;\r\n728 514 110",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "KUHNA",
+                "g_miejsc": "OLSZTYN",
+                "g_adr": "26",
+                "g_teryt": "2404122",
+                "g_gm": "Olsztyn",
+                "g_pow": "częstochowski",
+                "g_woj": "śląskie",
+                "g_szer": 19.266803738623388,
+                "g_dlug": 50.746224217108164,
+                "g_uuid": "2f3e8551-b2d6-4b1d-990e-ceeae8d7ff30",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.266800000000075,
+                    50.74622000001357
+                ]
+            }
+        }
+    ]
 }

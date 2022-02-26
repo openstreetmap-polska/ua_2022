@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0212",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 422, "JPT_KOD_JE": "0212", "JPT_NAZWA_": "powiat lwówecki", "id": "104#17", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3402447", "swiadczeniodawca": "NZOZ Powiatowe Centrum Zdrowia w Lwówku Śląskim", "miejscowosc": "Lwówek Śląski\r\n", "ulica": "Kościelna ", "numer_domu": "21", "adres_swiadczeniodawcy": "Kościelna 21", "telefon": "75 782 01 53", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kościelna", "g_miejsc": "Lwówek Śląski", "g_adr": "21", "g_teryt": "0212033", "g_gm": "Lwówek Śląski", "g_pow": "lwówecki", "g_woj": "dolnośląskie", "g_szer": 15.584031380972602, "g_dlug": 51.111289117107482, "g_uuid": "c8f1441d-5de3-48f2-9d12-01a05f08a267", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 260978.308152041368885, 366050.527387988753617 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0212",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 422,
+                "JPT_KOD_JE": "0212",
+                "JPT_NAZWA_": "powiat lwówecki",
+                "id": "104#17",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3402447",
+                "swiadczeniodawca": "NZOZ Powiatowe Centrum Zdrowia w Lwówku Śląskim",
+                "miejscowosc": "Lwówek Śląski\r\n",
+                "ulica": "Kościelna ",
+                "numer_domu": "21",
+                "adres_swiadczeniodawcy": "Kościelna 21",
+                "telefon": "75 782 01 53",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Kościelna",
+                "g_miejsc": "Lwówek Śląski",
+                "g_adr": "21",
+                "g_teryt": "0212033",
+                "g_gm": "Lwówek Śląski",
+                "g_pow": "lwówecki",
+                "g_woj": "dolnośląskie",
+                "g_szer": 15.584031380972602,
+                "g_dlug": 51.11128911710748,
+                "g_uuid": "c8f1441d-5de3-48f2-9d12-01a05f08a267",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.584029999962862,
+                    51.11129000001451
+                ]
+            }
+        }
+    ]
 }

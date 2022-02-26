@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1407",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 535, "JPT_KOD_JE": "1407", "JPT_NAZWA_": "powiat kozienicki", "id": 219, "wojewodztwo": "mazowieckie", "miasto": "KOZIENICE", "powiat": "KOZIENICKI", "adres": "AL. WŁ. SIKORSKIEGO 10", "miejscowosc": "KOZIENICE ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W KOZIENICACH", "poziom": "II stopień", "www": "http:\/\/www.szpitalkozienice.pl", "telefon": "486148234", "e-mail": "sekretariat@szpitalkozienice.pl" }, "geometry": { "type": "Point", "coordinates": [ 674951.6, 417024.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1407",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 535,
+                "JPT_KOD_JE": "1407",
+                "JPT_NAZWA_": "powiat kozienicki",
+                "id": 219,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "KOZIENICE",
+                "powiat": "KOZIENICKI",
+                "adres": "AL. WŁ. SIKORSKIEGO 10",
+                "miejscowosc": "KOZIENICE ",
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W KOZIENICACH",
+                "poziom": "II stopień",
+                "www": "http://www.szpitalkozienice.pl",
+                "telefon": "486148234",
+                "e-mail": "sekretariat@szpitalkozienice.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.526513769683348,
+                    51.59249547328814
+                ]
+            }
+        }
+    ]
 }

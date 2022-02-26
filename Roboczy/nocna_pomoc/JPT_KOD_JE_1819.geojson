@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1819",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 163, "JPT_KOD_JE": "1819", "JPT_NAZWA_": "powiat strzyżowski", "id": "104#303", "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ", "kod_swiadczeniodawcy": "09R\/010022", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Strzyżowie", "miejscowosc": "Strzyżów ", "ulica": " - Lecia Strzyżowa ", "numer_domu": "700    1", "adres_swiadczeniodawcy": "700 - Lecia Strzyżowa 1", "telefon": "17 277 43 01;\r\n17 277 43 02", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "700-Lecia Strzyżowa", "g_miejsc": "Strzyżów", "g_adr": "1", "g_teryt": "1819043", "g_gm": "Strzyżów", "g_pow": "strzyżowski", "g_woj": "podkarpackie", "g_szer": 21.784115658433365, "g_dlug": 49.870240408241955, "g_uuid": "382dd192-e744-46de-83f0-77826d8166bf", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 699992.960016144439578, 226262.129123037680984 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1819",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 163,
+                "JPT_KOD_JE": "1819",
+                "JPT_NAZWA_": "powiat strzyżowski",
+                "id": "104#303",
+                "krotka_nazwa_oddz_nfz": "PODKARPACKI OW NFZ",
+                "kod_swiadczeniodawcy": "09R/010022",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Strzyżowie",
+                "miejscowosc": "Strzyżów ",
+                "ulica": " - Lecia Strzyżowa ",
+                "numer_domu": "700    1",
+                "adres_swiadczeniodawcy": "700 - Lecia Strzyżowa 1",
+                "telefon": "17 277 43 01;\r\n17 277 43 02",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "700-Lecia Strzyżowa",
+                "g_miejsc": "Strzyżów",
+                "g_adr": "1",
+                "g_teryt": "1819043",
+                "g_gm": "Strzyżów",
+                "g_pow": "strzyżowski",
+                "g_woj": "podkarpackie",
+                "g_szer": 21.784115658433365,
+                "g_dlug": 49.870240408241955,
+                "g_uuid": "382dd192-e744-46de-83f0-77826d8166bf",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.78412000001534,
+                    49.87024000001241
+                ]
+            }
+        }
+    ]
 }

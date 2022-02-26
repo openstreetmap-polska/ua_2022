@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0401",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 505, "JPT_KOD_JE": "0401", "JPT_NAZWA_": "powiat aleksandrowski", "id": 23, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Aleksandrów Kujawski", "powiat": "aleksandrowski", "adres": "Słowackiego 18", "miejscowosc": null, "kod": null, "nazwa": "Powiatowy Szpital w Aleksandrowie Kujawskim sp. z o. o.", "poziom": "I stopień", "www": "http:\/\/www.szpital-aleksandrow.internetdsl.pl", "telefon": "54 282 80 00 lub 01", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 479612.5, 556522.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0401",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 505,
+                "JPT_KOD_JE": "0401",
+                "JPT_NAZWA_": "powiat aleksandrowski",
+                "id": 23,
+                "wojewodztwo": "kujawsko-pomorskie",
+                "miasto": "Aleksandrów Kujawski",
+                "powiat": "aleksandrowski",
+                "adres": "Słowackiego 18",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Powiatowy Szpital w Aleksandrowie Kujawskim sp. z o. o.",
+                "poziom": "I stopień",
+                "www": "http://www.szpital-aleksandrow.internetdsl.pl",
+                "telefon": "54 282 80 00 lub 01",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.697000237454827,
+                    52.87384786942155
+                ]
+            }
+        }
+    ]
 }

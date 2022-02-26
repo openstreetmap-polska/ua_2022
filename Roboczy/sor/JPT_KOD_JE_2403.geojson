@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2403",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2403", "JPT_NAZWA_": "powiat cieszyński", "id": 169, "ksiega": 391548, "id zoz": 480837, "id jednostki": "775893", "id komórki": 6817889, "regon": 31334800066, "kod jednostki": "01", "kod komórki": 86, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Cieszyn - gmina miejska", "ulica": "ul. Bielska", "budynek": "4", "lokal": "NULL", "kod": "43-400", "miejscowosc": "Cieszyn", "teryt": 2403011, "kod simc": 924158, "kod ulicy": "01279", "lozka": 7, "liczba łóżek iom": 3, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2010-10-07" }, "geometry": { "type": "Point", "coordinates": [ 474000.8658, 208759.109099999012 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2403",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2403",
+                "JPT_NAZWA_": "powiat cieszyński",
+                "id": 169,
+                "ksiega": 391548,
+                "id zoz": 480837,
+                "id jednostki": "775893",
+                "id komórki": 6817889,
+                "regon": 31334800066,
+                "kod jednostki": "01",
+                "kod komórki": 86,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Cieszyn - gmina miejska",
+                "ulica": "ul. Bielska",
+                "budynek": "4",
+                "lokal": "NULL",
+                "kod": "43-400",
+                "miejscowosc": "Cieszyn",
+                "teryt": 2403011,
+                "kod simc": 924158,
+                "kod ulicy": "01279",
+                "lozka": 7,
+                "liczba łóżek iom": 3,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2010-10-07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.63901511457676,
+                    49.7456395550259
+                ]
+            }
+        }
+    ]
 }

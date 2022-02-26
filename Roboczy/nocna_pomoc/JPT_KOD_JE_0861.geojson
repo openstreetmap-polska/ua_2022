@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0861",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 18, "JPT_KOD_JE": "0861", "JPT_NAZWA_": "powiat Gorzów Wielkopolski", "id": "104#92", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "020400", "swiadczeniodawca": "Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wielkopolskim Sp. z o.o.", "miejscowosc": "Gorzów Wielkopolski\r\n", "ulica": " Dekerta ", "numer_domu": "1", "adres_swiadczeniodawcy": " Dekerta 1", "telefon": "95 733 18 97; 95 733 18 95", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "DEKERTA JANA", "g_miejsc": "GORZÓW WIELKOPOLSKI", "g_adr": "1", "g_teryt": "0861011", "g_gm": "Gorzów Wielkopolski", "g_pow": "Gorzów Wielkopolski", "g_woj": "lubuskie", "g_szer": 15.235852663300239, "g_dlug": 52.76224179456262, "g_uuid": "1ddac58f-ac33-4327-b7e2-9d4a9240a62b", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 246126.060695314314216, 550711.146727617830038 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0861",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 18,
+                "JPT_KOD_JE": "0861",
+                "JPT_NAZWA_": "powiat Gorzów Wielkopolski",
+                "id": "104#92",
+                "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ",
+                "kod_swiadczeniodawcy": "020400",
+                "swiadczeniodawca": "Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wielkopolskim Sp. z o.o.",
+                "miejscowosc": "Gorzów Wielkopolski\r\n",
+                "ulica": " Dekerta ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": " Dekerta 1",
+                "telefon": "95 733 18 97; 95 733 18 95",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "DEKERTA JANA",
+                "g_miejsc": "GORZÓW WIELKOPOLSKI",
+                "g_adr": "1",
+                "g_teryt": "0861011",
+                "g_gm": "Gorzów Wielkopolski",
+                "g_pow": "Gorzów Wielkopolski",
+                "g_woj": "lubuskie",
+                "g_szer": 15.23585266330024,
+                "g_dlug": 52.76224179456262,
+                "g_uuid": "1ddac58f-ac33-4327-b7e2-9d4a9240a62b",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2358499999523,
+                    52.76224000001756
+                ]
+            }
+        }
+    ]
 }

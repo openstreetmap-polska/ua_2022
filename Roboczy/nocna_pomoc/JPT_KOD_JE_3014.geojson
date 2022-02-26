@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3014",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 194, "JPT_KOD_JE": "3014", "JPT_NAZWA_": "powiat międzychodzki", "id": "104#483", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150001425", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Międzychodzie", "miejscowosc": "Międzychód", "ulica": "Szpitalna ", "numer_domu": "10", "adres_swiadczeniodawcy": "Szpitalna 10", "telefon": "95 748 31 54", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 15.889529802021997, "g_dlug": 52.599332733841187, "g_uuid": "bcc4748e-4f10-4a56-a76c-7876fe8529f8", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 289418.233283398498315, 530494.595900818705559 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3014",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 194,
+                "JPT_KOD_JE": "3014",
+                "JPT_NAZWA_": "powiat międzychodzki",
+                "id": "104#483",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150001425",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Międzychodzie",
+                "miejscowosc": "Międzychód",
+                "ulica": "Szpitalna ",
+                "numer_domu": "10",
+                "adres_swiadczeniodawcy": "Szpitalna 10",
+                "telefon": "95 748 31 54",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 15.889529802021997,
+                "g_dlug": 52.59933273384119,
+                "g_uuid": "bcc4748e-4f10-4a56-a76c-7876fe8529f8",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.889529999980462,
+                    52.59933000001664
+                ]
+            }
+        }
+    ]
 }

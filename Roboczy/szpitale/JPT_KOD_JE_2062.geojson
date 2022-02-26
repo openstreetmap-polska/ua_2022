@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2062",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 42, "JPT_KOD_JE": "2062", "JPT_NAZWA_": "powiat Łomża", "id": 558, "wojewodztwo": "podlaskie", "miasto": "m. Łomża", "powiat": "Łomża", "adres": "al. Piłsudskiego 11", "miejscowosc": "Łomża", "kod": "18-404", "nazwa": "SZPITAL WOJEWÓDZKI IM. KARD. S. WYSZYŃSKIEGO", "poziom": "III stopień", "www": "http:\/\/www.szpital-lomza.pl", "telefon": "86 473 39 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 706309.9, 592818.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2062",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 42,
+                "JPT_KOD_JE": "2062",
+                "JPT_NAZWA_": "powiat Łomża",
+                "id": 558,
+                "wojewodztwo": "podlaskie",
+                "miasto": "m. Łomża",
+                "powiat": "Łomża",
+                "adres": "al. Piłsudskiego 11",
+                "miejscowosc": "Łomża",
+                "kod": "18-404",
+                "nazwa": "SZPITAL WOJEWÓDZKI IM. KARD. S. WYSZYŃSKIEGO",
+                "poziom": "III stopień",
+                "www": "http://www.szpital-lomza.pl",
+                "telefon": "86 473 39 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.086995483639356,
+                    53.1606006773152
+                ]
+            }
+        }
+    ]
 }

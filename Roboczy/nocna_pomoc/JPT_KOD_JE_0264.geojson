@@ -1,11 +1,168 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0264",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 109, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": "104#30", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3101061", "swiadczeniodawca": "Dolnośląski Szpital Specjalistyczny im. T. Marciniaka", "miejscowosc": "Wrocław", "ulica": "Fieldorfa ", "numer_domu": "2", "adres_swiadczeniodawcy": "Fieldorfa 2", "telefon": "71 306 42 22", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "UL. GEN. FIELDORFA AUGUSTA EMILA", "g_miejsc": "Wrocław", "g_adr": "2", "g_teryt": "0264011", "g_gm": "Wrocław", "g_pow": "Wrocław", "g_woj": "dolnośląskie", "g_szer": 16.907172044841108, "g_dlug": 51.143707757443018, "g_uuid": "999a78b5-aa93-445f-91e8-12524c4766f0", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 353651.910514608607627, 366187.551244684495032 ] } },
-{ "type": "Feature", "properties": { "gid": 110, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": "104#32", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3101059", "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny im. J.Gromkowskiego", "miejscowosc": "Wrocław\r\n", "ulica": " Koszarowa ", "numer_domu": "5", "adres_swiadczeniodawcy": " Koszarowa 5", "telefon": "71 395 76 07", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "UL.  KOSZAROWA", "g_miejsc": "Wrocław", "g_adr": "5", "g_teryt": "0264011", "g_gm": "Wrocław", "g_pow": "Wrocław", "g_woj": "dolnośląskie", "g_szer": 17.066602523403656, "g_dlug": 51.142770859903024, "g_uuid": "0c073cff-f371-44ea-bbc3-6bd16a4047bb", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 364796.90123919036705, 365777.9242511568591 ] } },
-{ "type": "Feature", "properties": { "gid": 111, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": "104#33", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3101062", "swiadczeniodawca": "Szpital Specjalistyczny im A. Falkiewicza", "miejscowosc": "Wrocław\r\n", "ulica": "Warszawska ", "numer_domu": "2", "adres_swiadczeniodawcy": "Warszawska 2", "telefon": "71 37 74 116; 71 37 74 117; 71 37 74 118; 71 37 74 119", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "UL.  WARSZAWSKA", "g_miejsc": "Wrocław", "g_adr": "2", "g_teryt": "0264011", "g_gm": "Wrocław", "g_pow": "Wrocław", "g_woj": "dolnośląskie", "g_szer": 17.079779587656819, "g_dlug": 51.064282268891724, "g_uuid": "c43178cc-6bcc-485d-8589-b74700471bc9", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 365490.847404486965388, 357028.892739516682923 ] } },
-{ "type": "Feature", "properties": { "gid": 424, "JPT_KOD_JE": "0264", "JPT_NAZWA_": "powiat Wrocław", "id": "104#31", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3101057", "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny we Wrocławiu", "miejscowosc": "Wrocław\r\n", "ulica": "Kamieńskiego", "numer_domu": "73a", "adres_swiadczeniodawcy": "Kamieńskiego 73a", "telefon": "71 32 70 536", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "UL.  KAMIEŃSKIEGO HENRYKA MICHAŁA", "g_miejsc": "Wrocław", "g_adr": "73a", "g_teryt": "0264011", "g_gm": "Wrocław", "g_pow": "Wrocław", "g_woj": "dolnośląskie", "g_szer": 17.044746440091906, "g_dlug": 51.148310744164867, "g_uuid": "720aeb88-2e9f-412d-a785-621a40b3e517", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 363285.422795215039514, 366434.137361194938421 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0264",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 109,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": "104#30",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3101061",
+                "swiadczeniodawca": "Dolnośląski Szpital Specjalistyczny im. T. Marciniaka",
+                "miejscowosc": "Wrocław",
+                "ulica": "Fieldorfa ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Fieldorfa 2",
+                "telefon": "71 306 42 22",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "UL. GEN. FIELDORFA AUGUSTA EMILA",
+                "g_miejsc": "Wrocław",
+                "g_adr": "2",
+                "g_teryt": "0264011",
+                "g_gm": "Wrocław",
+                "g_pow": "Wrocław",
+                "g_woj": "dolnośląskie",
+                "g_szer": 16.907172044841108,
+                "g_dlug": 51.14370775744302,
+                "g_uuid": "999a78b5-aa93-445f-91e8-12524c4766f0",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.907169999996377,
+                    51.14371000001415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 110,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": "104#32",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3101059",
+                "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny im. J.Gromkowskiego",
+                "miejscowosc": "Wrocław\r\n",
+                "ulica": " Koszarowa ",
+                "numer_domu": "5",
+                "adres_swiadczeniodawcy": " Koszarowa 5",
+                "telefon": "71 395 76 07",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "UL.  KOSZAROWA",
+                "g_miejsc": "Wrocław",
+                "g_adr": "5",
+                "g_teryt": "0264011",
+                "g_gm": "Wrocław",
+                "g_pow": "Wrocław",
+                "g_woj": "dolnośląskie",
+                "g_szer": 17.066602523403656,
+                "g_dlug": 51.142770859903024,
+                "g_uuid": "0c073cff-f371-44ea-bbc3-6bd16a4047bb",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.066599999997408,
+                    51.14277000001416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 111,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": "104#33",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3101062",
+                "swiadczeniodawca": "Szpital Specjalistyczny im A. Falkiewicza",
+                "miejscowosc": "Wrocław\r\n",
+                "ulica": "Warszawska ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Warszawska 2",
+                "telefon": "71 37 74 116; 71 37 74 117; 71 37 74 118; 71 37 74 119",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "UL.  WARSZAWSKA",
+                "g_miejsc": "Wrocław",
+                "g_adr": "2",
+                "g_teryt": "0264011",
+                "g_gm": "Wrocław",
+                "g_pow": "Wrocław",
+                "g_woj": "dolnośląskie",
+                "g_szer": 17.07977958765682,
+                "g_dlug": 51.06428226889172,
+                "g_uuid": "c43178cc-6bcc-485d-8589-b74700471bc9",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.07977999999747,
+                    51.06428000001402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 424,
+                "JPT_KOD_JE": "0264",
+                "JPT_NAZWA_": "powiat Wrocław",
+                "id": "104#31",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3101057",
+                "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny we Wrocławiu",
+                "miejscowosc": "Wrocław\r\n",
+                "ulica": "Kamieńskiego",
+                "numer_domu": "73a",
+                "adres_swiadczeniodawcy": "Kamieńskiego 73a",
+                "telefon": "71 32 70 536",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "UL.  KAMIEŃSKIEGO HENRYKA MICHAŁA",
+                "g_miejsc": "Wrocław",
+                "g_adr": "73a",
+                "g_teryt": "0264011",
+                "g_gm": "Wrocław",
+                "g_pow": "Wrocław",
+                "g_woj": "dolnośląskie",
+                "g_szer": 17.044746440091906,
+                "g_dlug": 51.14831074416487,
+                "g_uuid": "720aeb88-2e9f-412d-a785-621a40b3e517",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.044749999997286,
+                    51.14831000001418
+                ]
+            }
+        }
+    ]
 }

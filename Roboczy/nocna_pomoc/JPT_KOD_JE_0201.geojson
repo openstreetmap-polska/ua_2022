@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0201",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 207, "JPT_KOD_JE": "0201", "JPT_NAZWA_": "powiat bolesławiecki", "id": "104#2", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3401024", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Bolesławcu", "miejscowosc": "Bolesławiec\r\n", "ulica": "Jeleniogórska ", "numer_domu": "4", "adres_swiadczeniodawcy": "Jeleniogórska 4", "telefon": "75 738 02 89", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Jeleniogórska", "g_miejsc": "Bolesławiec", "g_adr": "4", "g_teryt": "0201011", "g_gm": "Bolesławiec", "g_pow": "bolesławiecki", "g_woj": "dolnośląskie", "g_szer": 15.566941065180279, "g_dlug": 51.254492591945024, "g_uuid": "6994c7ce-d34c-4e86-9aaa-840a9732db79", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 260526.634238633152563, 382020.197009943425655 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0201",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 207,
+                "JPT_KOD_JE": "0201",
+                "JPT_NAZWA_": "powiat bolesławiecki",
+                "id": "104#2",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3401024",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Bolesławcu",
+                "miejscowosc": "Bolesławiec\r\n",
+                "ulica": "Jeleniogórska ",
+                "numer_domu": "4",
+                "adres_swiadczeniodawcy": "Jeleniogórska 4",
+                "telefon": "75 738 02 89",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Jeleniogórska",
+                "g_miejsc": "Bolesławiec",
+                "g_adr": "4",
+                "g_teryt": "0201011",
+                "g_gm": "Bolesławiec",
+                "g_pow": "bolesławiecki",
+                "g_woj": "dolnośląskie",
+                "g_szer": 15.566941065180279,
+                "g_dlug": 51.254492591945024,
+                "g_uuid": "6994c7ce-d34c-4e86-9aaa-840a9732db79",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.566939999962601,
+                    51.25449000001474
+                ]
+            }
+        }
+    ]
 }

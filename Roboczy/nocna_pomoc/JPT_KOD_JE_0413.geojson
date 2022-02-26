@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0413",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 115, "JPT_KOD_JE": "0413", "JPT_NAZWA_": "powiat sępoleński", "id": "104#62", "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ", "kod_swiadczeniodawcy": "20002493", "swiadczeniodawca": "Szpital Powiatowy im. dr. A. Gacy i dr. J. Łaskiego - NZOZ w Więcborku", "miejscowosc": "Więcbork", "ulica": "Mickiewicza", "numer_domu": "26", "adres_swiadczeniodawcy": "Mickiewicza 26", "telefon": "52 31 11 809", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 17.491754916939332, "g_dlug": 53.354903200518528, "g_uuid": "b0bb79d0-e760-4b3b-86a8-8274a6671bcd", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 399646.181306027923711, 611037.064392198808491 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0413",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 115,
+                "JPT_KOD_JE": "0413",
+                "JPT_NAZWA_": "powiat sępoleński",
+                "id": "104#62",
+                "krotka_nazwa_oddz_nfz": "KUJAWSKO-POMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "20002493",
+                "swiadczeniodawca": "Szpital Powiatowy im. dr. A. Gacy i dr. J. Łaskiego - NZOZ w Więcborku",
+                "miejscowosc": "Więcbork",
+                "ulica": "Mickiewicza",
+                "numer_domu": "26",
+                "adres_swiadczeniodawcy": "Mickiewicza 26",
+                "telefon": "52 31 11 809",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 17.491754916939332,
+                "g_dlug": 53.35490320051853,
+                "g_uuid": "b0bb79d0-e760-4b3b-86a8-8274a6671bcd",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.491749999998923,
+                    53.354900000017665
+                ]
+            }
+        }
+    ]
 }

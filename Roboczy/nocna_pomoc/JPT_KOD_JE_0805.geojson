@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0805",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 20, "JPT_KOD_JE": "0805", "JPT_NAZWA_": "powiat słubicki", "id": "104#99", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "102803", "swiadczeniodawca": "Niepubliczny Zakład Opieki Zdrowotnej Szpital im. prof. Zbigniewa Religi w Słubicach Sp. z o.o.", "miejscowosc": "Słubice\r\n", "ulica": "Nadodrzańska ", "numer_domu": "6", "adres_swiadczeniodawcy": "Nadodrzańska 6", "telefon": "95 758 2071 wew. 361,\r\n511 565 640 ", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Nadodrzańska", "g_miejsc": "Słubice", "g_adr": "6", "g_teryt": "0805053", "g_gm": "Słubice", "g_pow": "słubicki", "g_woj": "lubuskie", "g_szer": 14.556484061060042, "g_dlug": 52.351508093614335, "g_uuid": "89c8d278-3cc2-4814-8f6c-eb1001b470b5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 197512.817530271364376, 507689.899638902395964 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0805",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 20,
+                "JPT_KOD_JE": "0805",
+                "JPT_NAZWA_": "powiat słubicki",
+                "id": "104#99",
+                "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ",
+                "kod_swiadczeniodawcy": "102803",
+                "swiadczeniodawca": "Niepubliczny Zakład Opieki Zdrowotnej Szpital im. prof. Zbigniewa Religi w Słubicach Sp. z o.o.",
+                "miejscowosc": "Słubice\r\n",
+                "ulica": "Nadodrzańska ",
+                "numer_domu": "6",
+                "adres_swiadczeniodawcy": "Nadodrzańska 6",
+                "telefon": "95 758 2071 wew. 361,\r\n511 565 640 ",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Nadodrzańska",
+                "g_miejsc": "Słubice",
+                "g_adr": "6",
+                "g_teryt": "0805053",
+                "g_gm": "Słubice",
+                "g_pow": "słubicki",
+                "g_woj": "lubuskie",
+                "g_szer": 14.556484061060042,
+                "g_dlug": 52.351508093614335,
+                "g_uuid": "89c8d278-3cc2-4814-8f6c-eb1001b470b5",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.556479999885688,
+                    52.3515100000191
+                ]
+            }
+        }
+    ]
 }

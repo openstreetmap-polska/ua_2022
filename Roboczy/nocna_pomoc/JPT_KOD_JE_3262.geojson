@@ -1,11 +1,168 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3262",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 101, "JPT_KOD_JE": "3262", "JPT_NAZWA_": "powiat Szczecin", "id": "104#531", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160004517", "swiadczeniodawca": "NZOZ Przychodnia Medycyny Rodzinnej", "miejscowosc": "Szczecin", "ulica": " Kadłubka", "numer_domu": "10-11", "adres_swiadczeniodawcy": " Kadłubka 10-11", "telefon": "91 422 84 45", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 14.552927870653821, "g_dlug": 53.445347673525994, "g_uuid": "b59e502e-1b1e-4563-84ae-021e25004592", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 204810.29204061004566, 629246.841410396620631 ] } },
-{ "type": "Feature", "properties": { "gid": 205, "JPT_KOD_JE": "3262", "JPT_NAZWA_": "powiat Szczecin", "id": "104#528", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000761", "swiadczeniodawca": "SPS ZOZ Szpital „ZDROJE\"", "miejscowosc": "Szczecin", "ulica": "Mączna ", "numer_domu": "4", "adres_swiadczeniodawcy": "Mączna 4", "telefon": "91 880 63 89", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Mączna", "g_miejsc": "Szczecin", "g_adr": "4", "g_teryt": "3262011", "g_gm": "Szczecin", "g_pow": "Szczecin", "g_woj": "zachodniopomorskie", "g_szer": 14.644112318048839, "g_dlug": 53.373196073709089, "g_uuid": "3447328e-c4d6-42e4-8cdf-d30c051a6ceb", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 210368.898733228561468, 620855.315243219956756 ] } },
-{ "type": "Feature", "properties": { "gid": 418, "JPT_KOD_JE": "3262", "JPT_NAZWA_": "powiat Szczecin", "id": "104#529", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000742", "swiadczeniodawca": "SP Wojewódzki Szpital Zespolony", "miejscowosc": "Szczecin", "ulica": "Broniewskiego ", "numer_domu": "2", "adres_swiadczeniodawcy": "Broniewskiego 2", "telefon": "91 813 93 74; \r\n91 813 93 75", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Broniewskiego Władysława", "g_miejsc": "Szczecin", "g_adr": "2", "g_teryt": "3262011", "g_gm": "Szczecin", "g_pow": "Szczecin", "g_woj": "zachodniopomorskie", "g_szer": 14.528557986618406, "g_dlug": 53.451679551788935, "g_uuid": "f74af54a-671a-4812-bcf7-58fc74ab1ed5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 203237.790285165479872, 630051.497728922404349 ] } },
-{ "type": "Feature", "properties": { "gid": 419, "JPT_KOD_JE": "3262", "JPT_NAZWA_": "powiat Szczecin", "id": "104#530", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000846", "swiadczeniodawca": "Wojewódzki Ośrodek Medycyny Pracy - Zachodniopomorskie Centrum Leczenia i Profilaktyki Szczecin", "miejscowosc": "Szczecin", "ulica": "Bolesława Śmiałego ", "numer_domu": "33", "adres_swiadczeniodawcy": "Bolesława Śmiałego 33", "telefon": "91 434 91 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Bolesława Śmiałego", "g_miejsc": "Szczecin", "g_adr": "33", "g_teryt": "3262011", "g_gm": "Szczecin", "g_pow": "Szczecin", "g_woj": "zachodniopomorskie", "g_szer": 14.534991895390865, "g_dlug": 53.428051703348714, "g_uuid": "11187965-2287-42f6-8d8d-01ccce211f36", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 203499.594450655626133, 627398.997330540791154 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3262",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 101,
+                "JPT_KOD_JE": "3262",
+                "JPT_NAZWA_": "powiat Szczecin",
+                "id": "104#531",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160004517",
+                "swiadczeniodawca": "NZOZ Przychodnia Medycyny Rodzinnej",
+                "miejscowosc": "Szczecin",
+                "ulica": " Kadłubka",
+                "numer_domu": "10-11",
+                "adres_swiadczeniodawcy": " Kadłubka 10-11",
+                "telefon": "91 422 84 45",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 14.552927870653821,
+                "g_dlug": 53.445347673525994,
+                "g_uuid": "b59e502e-1b1e-4563-84ae-021e25004592",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.552929999906453,
+                    53.44535000002087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 205,
+                "JPT_KOD_JE": "3262",
+                "JPT_NAZWA_": "powiat Szczecin",
+                "id": "104#528",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160000761",
+                "swiadczeniodawca": "SPS ZOZ Szpital „ZDROJE\"",
+                "miejscowosc": "Szczecin",
+                "ulica": "Mączna ",
+                "numer_domu": "4",
+                "adres_swiadczeniodawcy": "Mączna 4",
+                "telefon": "91 880 63 89",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Mączna",
+                "g_miejsc": "Szczecin",
+                "g_adr": "4",
+                "g_teryt": "3262011",
+                "g_gm": "Szczecin",
+                "g_pow": "Szczecin",
+                "g_woj": "zachodniopomorskie",
+                "g_szer": 14.644112318048839,
+                "g_dlug": 53.37319607370909,
+                "g_uuid": "3447328e-c4d6-42e4-8cdf-d30c051a6ceb",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.644109999913868,
+                    53.373200000020304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 418,
+                "JPT_KOD_JE": "3262",
+                "JPT_NAZWA_": "powiat Szczecin",
+                "id": "104#529",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160000742",
+                "swiadczeniodawca": "SP Wojewódzki Szpital Zespolony",
+                "miejscowosc": "Szczecin",
+                "ulica": "Broniewskiego ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Broniewskiego 2",
+                "telefon": "91 813 93 74; \r\n91 813 93 75",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Broniewskiego Władysława",
+                "g_miejsc": "Szczecin",
+                "g_adr": "2",
+                "g_teryt": "3262011",
+                "g_gm": "Szczecin",
+                "g_pow": "Szczecin",
+                "g_woj": "zachodniopomorskie",
+                "g_szer": 14.528557986618406,
+                "g_dlug": 53.451679551788935,
+                "g_uuid": "f74af54a-671a-4812-bcf7-58fc74ab1ed5",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.52855999990417,
+                    53.45168000002103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 419,
+                "JPT_KOD_JE": "3262",
+                "JPT_NAZWA_": "powiat Szczecin",
+                "id": "104#530",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160000846",
+                "swiadczeniodawca": "Wojewódzki Ośrodek Medycyny Pracy - Zachodniopomorskie Centrum Leczenia i Profilaktyki Szczecin",
+                "miejscowosc": "Szczecin",
+                "ulica": "Bolesława Śmiałego ",
+                "numer_domu": "33",
+                "adres_swiadczeniodawcy": "Bolesława Śmiałego 33",
+                "telefon": "91 434 91 00",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Bolesława Śmiałego",
+                "g_miejsc": "Szczecin",
+                "g_adr": "33",
+                "g_teryt": "3262011",
+                "g_gm": "Szczecin",
+                "g_pow": "Szczecin",
+                "g_woj": "zachodniopomorskie",
+                "g_szer": 14.534991895390865,
+                "g_dlug": 53.428051703348714,
+                "g_uuid": "11187965-2287-42f6-8d8d-01ccce211f36",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.534989999904361,
+                    53.42805000002095
+                ]
+            }
+        }
+    ]
 }

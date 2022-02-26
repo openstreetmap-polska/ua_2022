@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3019",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 199, "JPT_KOD_JE": "3019", "JPT_NAZWA_": "powiat pilski", "id": "104#508", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150008298", "swiadczeniodawca": "Szpital Powiatowy w Wyrzysku Sp. z o. o.", "miejscowosc": "Wyrzysk ", "ulica": "22 Stycznia                                                                ", "numer_domu": "41                                                               ", "adres_swiadczeniodawcy": "22 Stycznia 41                                                               ", "telefon": "67 210 98 55", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "22 Stycznia", "g_miejsc": "Wyrzysk", "g_adr": "41", "g_teryt": "3019083", "g_gm": "Wyrzysk", "g_pow": "pilski", "g_woj": "wielkopolskie", "g_szer": 17.271998856880369, "g_dlug": 53.149034918815865, "g_uuid": "e15be6fe-c296-4195-8dfe-53d0e41713e6", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 384472.571014050394297, 588475.951197309419513 ] } },
-{ "type": "Feature", "properties": { "gid": 526, "JPT_KOD_JE": "3019", "JPT_NAZWA_": "powiat pilski", "id": "104#488", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000031", "swiadczeniodawca": "Szpital Specjalistyczny w Pile im. Stanisława Staszica", "miejscowosc": "Piła", "ulica": "Rydygiera ", "numer_domu": "1", "adres_swiadczeniodawcy": "Rydygiera 1", "telefon": "67 210 65 82", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Rydygiera Ludwika", "g_miejsc": "Piła", "g_adr": "1", "g_teryt": "3019011", "g_gm": "Piła", "g_pow": "pilski", "g_woj": "wielkopolskie", "g_szer": 16.71957488341387, "g_dlug": 53.121899649778342, "g_uuid": "805e9a31-8bc9-439e-9d26-66d614e20584", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 347447.924606558983214, 586493.564942924305797 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3019",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 199,
+                "JPT_KOD_JE": "3019",
+                "JPT_NAZWA_": "powiat pilski",
+                "id": "104#508",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150008298",
+                "swiadczeniodawca": "Szpital Powiatowy w Wyrzysku Sp. z o. o.",
+                "miejscowosc": "Wyrzysk ",
+                "ulica": "22 Stycznia                                                                ",
+                "numer_domu": "41                                                               ",
+                "adres_swiadczeniodawcy": "22 Stycznia 41                                                               ",
+                "telefon": "67 210 98 55",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "22 Stycznia",
+                "g_miejsc": "Wyrzysk",
+                "g_adr": "41",
+                "g_teryt": "3019083",
+                "g_gm": "Wyrzysk",
+                "g_pow": "pilski",
+                "g_woj": "wielkopolskie",
+                "g_szer": 17.27199885688037,
+                "g_dlug": 53.149034918815865,
+                "g_uuid": "e15be6fe-c296-4195-8dfe-53d0e41713e6",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.271999999998393,
+                    53.14903000001732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 526,
+                "JPT_KOD_JE": "3019",
+                "JPT_NAZWA_": "powiat pilski",
+                "id": "104#488",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150000031",
+                "swiadczeniodawca": "Szpital Specjalistyczny w Pile im. Stanisława Staszica",
+                "miejscowosc": "Piła",
+                "ulica": "Rydygiera ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Rydygiera 1",
+                "telefon": "67 210 65 82",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Rydygiera Ludwika",
+                "g_miejsc": "Piła",
+                "g_adr": "1",
+                "g_teryt": "3019011",
+                "g_gm": "Piła",
+                "g_pow": "pilski",
+                "g_woj": "wielkopolskie",
+                "g_szer": 16.71957488341387,
+                "g_dlug": 53.12189964977834,
+                "g_uuid": "805e9a31-8bc9-439e-9d26-66d614e20584",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.719569999995436,
+                    53.12190000001729
+                ]
+            }
+        }
+    ]
 }

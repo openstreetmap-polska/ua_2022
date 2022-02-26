@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0801",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 197, "JPT_KOD_JE": "0801", "JPT_NAZWA_": "powiat gorzowski", "id": 97, "wojewodztwo": "lubuskie", "miasto": "Kostrzyn nad Odrą", "powiat": "gorzowski", "adres": "Gabriela Narutowicza 6", "miejscowosc": "Kostrzyn nad Odrą", "kod": "66-470", "nazwa": "Nowy Szpital w Kostrzynie nad Odrą Spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.nowyszpital.pl", "telefon": "41 240 19 00", "e-mail": "kostrzyn@nowyszpital.pl" }, "geometry": { "type": "Point", "coordinates": [ 205014.5, 535851.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0801",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 197,
+                "JPT_KOD_JE": "0801",
+                "JPT_NAZWA_": "powiat gorzowski",
+                "id": 97,
+                "wojewodztwo": "lubuskie",
+                "miasto": "Kostrzyn nad Odrą",
+                "powiat": "gorzowski",
+                "adres": "Gabriela Narutowicza 6",
+                "miejscowosc": "Kostrzyn nad Odrą",
+                "kod": "66-470",
+                "nazwa": "Nowy Szpital w Kostrzynie nad Odrą Spółka z ograniczoną odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.nowyszpital.pl",
+                "telefon": "41 240 19 00",
+                "e-mail": "kostrzyn@nowyszpital.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.641400105358022,
+                    52.60812271636903
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3016",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 37, "JPT_KOD_JE": "3016", "JPT_NAZWA_": "powiat obornicki", "id": 355, "wojewodztwo": "wielkopolskie", "miasto": "OBORNIKI ", "powiat": "OBORNICKI ", "adres": "SZPITALNA 2 ", "miejscowosc": null, "kod": "64-600 ", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W OBORNIKACH ", "poziom": "I stopień", "www": "http:\/\/www.szpital.oborniki.info\/ ", "telefon": "(061)29-73-600 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 352311.0, 534190.3 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3016",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 37,
+                "JPT_KOD_JE": "3016",
+                "JPT_NAZWA_": "powiat obornicki",
+                "id": 355,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "OBORNIKI ",
+                "powiat": "OBORNICKI ",
+                "adres": "SZPITALNA 2 ",
+                "miejscowosc": null,
+                "kod": "64-600 ",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W OBORNIKACH ",
+                "poziom": "I stopień",
+                "www": "http://www.szpital.oborniki.info/ ",
+                "telefon": "(061)29-73-600 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.81596599905593,
+                    52.653288764106975
+                ]
+            }
+        }
+    ]
 }

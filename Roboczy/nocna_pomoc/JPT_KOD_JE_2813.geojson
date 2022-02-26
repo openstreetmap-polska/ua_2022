@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2813",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 522, "JPT_KOD_JE": "2813", "JPT_NAZWA_": "powiat olecki", "id": "104#457", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140001805", "swiadczeniodawca": "\"Olmedica W Olecku - Spółka Z Ograniczoną Odpowiedzialnością\"", "miejscowosc": "Olecko", "ulica": "Gołdapska ", "numer_domu": "1", "adres_swiadczeniodawcy": "Gołdapska 1", "telefon": "87 520 21 20", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Gołdapska", "g_miejsc": "Olecko", "g_adr": "1", "g_teryt": "2813043", "g_gm": "Olecko", "g_pow": "olecki", "g_woj": "warmińsko-mazurskie", "g_szer": 22.497274754422655, "g_dlug": 54.042385767316858, "g_uuid": "6a193b16-6cf7-4f43-9040-df66dc100b67", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 728898.659563861670904, 692098.512312514707446 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2813",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 522,
+                "JPT_KOD_JE": "2813",
+                "JPT_NAZWA_": "powiat olecki",
+                "id": "104#457",
+                "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ",
+                "kod_swiadczeniodawcy": "140001805",
+                "swiadczeniodawca": "\"Olmedica W Olecku - Spółka Z Ograniczoną Odpowiedzialnością\"",
+                "miejscowosc": "Olecko",
+                "ulica": "Gołdapska ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Gołdapska 1",
+                "telefon": "87 520 21 20",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Gołdapska",
+                "g_miejsc": "Olecko",
+                "g_adr": "1",
+                "g_teryt": "2813043",
+                "g_gm": "Olecko",
+                "g_pow": "olecki",
+                "g_woj": "warmińsko-mazurskie",
+                "g_szer": 22.497274754422655,
+                "g_dlug": 54.04238576731686,
+                "g_uuid": "6a193b16-6cf7-4f43-9040-df66dc100b67",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.497270000027704,
+                    54.04239000001931
+                ]
+            }
+        }
+    ]
 }

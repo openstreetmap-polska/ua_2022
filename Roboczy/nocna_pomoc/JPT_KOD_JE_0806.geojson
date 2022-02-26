@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0806",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 124, "JPT_KOD_JE": "0806", "JPT_NAZWA_": "powiat strzelecko-drezdenecki", "id": "104#100", "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ", "kod_swiadczeniodawcy": "100043", "swiadczeniodawca": "Powiatowe Centrum Zdrowia Sp. z o.o.", "miejscowosc": "Strzelce Krajeńskie", "ulica": " Słowackiego ", "numer_domu": "17", "adres_swiadczeniodawcy": " Słowackiego 17", "telefon": "95 763 28 25", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Juliusza Słowackiego", "g_miejsc": "Strzelce Krajeńskie", "g_adr": "17", "g_teryt": "0806043", "g_gm": "Strzelce Krajeńskie", "g_pow": "strzelecko-drezdenecki", "g_woj": "lubuskie", "g_szer": 15.527299194336656, "g_dlug": 52.881271454250843, "g_uuid": "ba41d4ff-a23c-4c6e-b3a4-c23ba1d625d4", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 266415.940550723520573, 562952.020718973129988 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0806",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 124,
+                "JPT_KOD_JE": "0806",
+                "JPT_NAZWA_": "powiat strzelecko-drezdenecki",
+                "id": "104#100",
+                "krotka_nazwa_oddz_nfz": "LUBUSKI OW NFZ",
+                "kod_swiadczeniodawcy": "100043",
+                "swiadczeniodawca": "Powiatowe Centrum Zdrowia Sp. z o.o.",
+                "miejscowosc": "Strzelce Krajeńskie",
+                "ulica": " Słowackiego ",
+                "numer_domu": "17",
+                "adres_swiadczeniodawcy": " Słowackiego 17",
+                "telefon": "95 763 28 25",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Juliusza Słowackiego",
+                "g_miejsc": "Strzelce Krajeńskie",
+                "g_adr": "17",
+                "g_teryt": "0806043",
+                "g_gm": "Strzelce Krajeńskie",
+                "g_pow": "strzelecko-drezdenecki",
+                "g_woj": "lubuskie",
+                "g_szer": 15.527299194336656,
+                "g_dlug": 52.88127145425084,
+                "g_uuid": "ba41d4ff-a23c-4c6e-b3a4-c23ba1d625d4",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.527299999968172,
+                    52.88127000001735
+                ]
+            }
+        }
+    ]
 }

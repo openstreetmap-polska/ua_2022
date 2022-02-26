@@ -1,9 +1,96 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2216",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2216", "JPT_NAZWA_": "powiat sztumski", "id": 228, "ksiega": 392364, "id zoz": 482640, "id jednostki": "780226", "id komórki": 6870402, "regon": 24095525600024, "kod jednostki": "06", "kod komórki": 203, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Sztum - miasto", "ulica": "ul. Reja", "budynek": "12", "lokal": "NULL", "kod": "82-400", "miejscowosc": "Sztum", "teryt": 2216054, "kod simc": 932991, "kod ulicy": "18562", "lozka": 7, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2017-07-01" }, "geometry": { "type": "Point", "coordinates": [ 501666.752199999988, 673112.348300001001917 ] } },
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2216", "JPT_NAZWA_": "powiat sztumski", "id": 229, "ksiega": 392364, "id zoz": 482641, "id jednostki": "780230", "id komórki": 6870403, "regon": 24095525600049, "kod jednostki": "10", "kod komórki": 204, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Drawsko Pomorskie - miasto", "ulica": "ul. Bolesława Chrobrego", "budynek": "4", "lokal": "NULL", "kod": "78-500", "miejscowosc": "Drawsko Pomorskie", "teryt": 3203024, "kod simc": 949862, "kod ulicy": "01742", "lozka": 4, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2018-08-01" }, "geometry": { "type": "Point", "coordinates": [ 501666.752199999988, 673112.348300001001917 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2216",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2216",
+                "JPT_NAZWA_": "powiat sztumski",
+                "id": 228,
+                "ksiega": 392364,
+                "id zoz": 482640,
+                "id jednostki": "780226",
+                "id komórki": 6870402,
+                "regon": 24095525600024,
+                "kod jednostki": "06",
+                "kod komórki": 203,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Sztum - miasto",
+                "ulica": "ul. Reja",
+                "budynek": "12",
+                "lokal": "NULL",
+                "kod": "82-400",
+                "miejscowosc": "Sztum",
+                "teryt": 2216054,
+                "kod simc": 932991,
+                "kod ulicy": "18562",
+                "lozka": 7,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2017-07-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.025387900960908,
+                    53.92255579908195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2216",
+                "JPT_NAZWA_": "powiat sztumski",
+                "id": 229,
+                "ksiega": 392364,
+                "id zoz": 482641,
+                "id jednostki": "780230",
+                "id komórki": 6870403,
+                "regon": 24095525600049,
+                "kod jednostki": "10",
+                "kod komórki": 204,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Drawsko Pomorskie - miasto",
+                "ulica": "ul. Bolesława Chrobrego",
+                "budynek": "4",
+                "lokal": "NULL",
+                "kod": "78-500",
+                "miejscowosc": "Drawsko Pomorskie",
+                "teryt": 3203024,
+                "kod simc": 949862,
+                "kod ulicy": "01742",
+                "lozka": 4,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2018-08-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.025387900960908,
+                    53.92255579908195
+                ]
+            }
+        }
+    ]
 }

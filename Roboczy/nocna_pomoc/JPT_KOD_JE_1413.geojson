@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1413",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 244, "JPT_KOD_JE": "1413", "JPT_NAZWA_": "powiat mławski", "id": "104#202", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001993", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Mławie", "miejscowosc": "Mława", "ulica": "Anny Dobrskiej ", "numer_domu": "1", "adres_swiadczeniodawcy": "Anny Dobrskiej 1", "telefon": "23 654-20-15; 23 654-32-35 wew. 311; 513-087-910; 513-087-692", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Dobrskiej Anny", "g_miejsc": "Mława", "g_adr": "1", "g_teryt": "1413011", "g_gm": "Mława", "g_pow": "mławski", "g_woj": "mazowieckie", "g_szer": 20.371170841918484, "g_dlug": 53.123445991447184, "g_uuid": "8dae3d0c-b68a-4ba9-8c59-368fdd3ebcd7", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 591727.063846255769022, 585115.01777988858521 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1413",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 244,
+                "JPT_KOD_JE": "1413",
+                "JPT_NAZWA_": "powiat mławski",
+                "id": "104#202",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70001993",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Mławie",
+                "miejscowosc": "Mława",
+                "ulica": "Anny Dobrskiej ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Anny Dobrskiej 1",
+                "telefon": "23 654-20-15; 23 654-32-35 wew. 311; 513-087-910; 513-087-692",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Dobrskiej Anny",
+                "g_miejsc": "Mława",
+                "g_adr": "1",
+                "g_teryt": "1413011",
+                "g_gm": "Mława",
+                "g_pow": "mławski",
+                "g_woj": "mazowieckie",
+                "g_szer": 20.371170841918484,
+                "g_dlug": 53.123445991447184,
+                "g_uuid": "8dae3d0c-b68a-4ba9-8c59-368fdd3ebcd7",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.371170000000838,
+                    53.12345000001727
+                ]
+            }
+        }
+    ]
 }

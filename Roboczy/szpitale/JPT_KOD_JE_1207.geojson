@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1207",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 536, "JPT_KOD_JE": "1207", "JPT_NAZWA_": "powiat limanowski", "id": 165, "wojewodztwo": "małopolskie", "miasto": "Limanowa", "powiat": "limanowski", "adres": "Józefa Piłsudskiego 61", "miejscowosc": "Limanowa", "kod": "34-600", "nazwa": "SZPITAL POWIATOWY W LIMANOWEJ IMIENIA MIŁOSIERDZIA BOŻEGO", "poziom": "I", "www": "http:\/\/www.szpitallimanowa.pl", "telefon": "18 33 01 700", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 601862.2, 206408.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1207",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 536,
+                "JPT_KOD_JE": "1207",
+                "JPT_NAZWA_": "powiat limanowski",
+                "id": 165,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Limanowa",
+                "powiat": "limanowski",
+                "adres": "Józefa Piłsudskiego 61",
+                "miejscowosc": "Limanowa",
+                "kod": "34-600",
+                "nazwa": "SZPITAL POWIATOWY W LIMANOWEJ IMIENIA MIŁOSIERDZIA BOŻEGO",
+                "poziom": "I",
+                "www": "http://www.szpitallimanowa.pl",
+                "telefon": "18 33 01 700",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.41347860931523,
+                    49.71642762760279
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0812",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 96, "JPT_KOD_JE": "0812", "JPT_NAZWA_": "powiat wschowski", "id": 91, "wojewodztwo": "lubuskie", "miasto": "Wschowa", "powiat": "wschowski", "adres": "Ks. Kostki 33", "miejscowosc": "Wschowa", "kod": "67-400", "nazwa": "Nowy Szpital we Wschowie Spółka z ograniczoną odpwiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.nowyszpital.pl", "telefon": "65 540 27 61", "e-mail": "sekretariat.wschowa@nowyszpital.pl" }, "geometry": { "type": "Point", "coordinates": [ 315429.3, 440980.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0812",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 96,
+                "JPT_KOD_JE": "0812",
+                "JPT_NAZWA_": "powiat wschowski",
+                "id": 91,
+                "wojewodztwo": "lubuskie",
+                "miasto": "Wschowa",
+                "powiat": "wschowski",
+                "adres": "Ks. Kostki 33",
+                "miejscowosc": "Wschowa",
+                "kod": "67-400",
+                "nazwa": "Nowy Szpital we Wschowie Spółka z ograniczoną odpwiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.nowyszpital.pl",
+                "telefon": "65 540 27 61",
+                "e-mail": "sekretariat.wschowa@nowyszpital.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.322049814473875,
+                    51.80465288245973
+                ]
+            }
+        }
+    ]
 }

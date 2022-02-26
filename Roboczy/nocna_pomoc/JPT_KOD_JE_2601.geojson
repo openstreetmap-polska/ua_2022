@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2601",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 294, "JPT_KOD_JE": "2601", "JPT_NAZWA_": "powiat buski", "id": "104#422", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130000121", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Busku-Zdroju", "miejscowosc": "Busko-Zdrój", "ulica": "Bohaterów Warszawy ", "numer_domu": "67", "adres_swiadczeniodawcy": "Bohaterów Warszawy 67", "telefon": "41 378 24 09", "dodatkowe_miejsce": null, "dodatkowe_informacje": null, "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Bohaterów Warszawy", "g_miejsc": "Busko-Zdrój", "g_adr": "67", "g_teryt": "2601013", "g_gm": "Busko-Zdrój", "g_pow": "buski", "g_woj": "świętokrzyskie", "g_szer": 20.704594055575857, "g_dlug": 50.468070441405587, "g_uuid": "bcf667df-f747-48ac-a71f-e013eff14f88", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 620933.146117009688169, 290384.742033415473998 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2601",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 294,
+                "JPT_KOD_JE": "2601",
+                "JPT_NAZWA_": "powiat buski",
+                "id": "104#422",
+                "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ",
+                "kod_swiadczeniodawcy": "130000121",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Busku-Zdroju",
+                "miejscowosc": "Busko-Zdrój",
+                "ulica": "Bohaterów Warszawy ",
+                "numer_domu": "67",
+                "adres_swiadczeniodawcy": "Bohaterów Warszawy 67",
+                "telefon": "41 378 24 09",
+                "dodatkowe_miejsce": null,
+                "dodatkowe_informacje": null,
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Bohaterów Warszawy",
+                "g_miejsc": "Busko-Zdrój",
+                "g_adr": "67",
+                "g_teryt": "2601013",
+                "g_gm": "Busko-Zdrój",
+                "g_pow": "buski",
+                "g_woj": "świętokrzyskie",
+                "g_szer": 20.704594055575857,
+                "g_dlug": 50.46807044140559,
+                "g_uuid": "bcf667df-f747-48ac-a71f-e013eff14f88",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.70459000000161,
+                    50.46807000001316
+                ]
+            }
+        }
+    ]
 }

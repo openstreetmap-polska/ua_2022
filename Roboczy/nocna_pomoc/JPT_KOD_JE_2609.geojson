@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2609",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 516, "JPT_KOD_JE": "2609", "JPT_NAZWA_": "powiat sandomierski", "id": "104#434", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130000201", "swiadczeniodawca": "Szpital Specjalistyczny Ducha Świętego w Sandomierzu", "miejscowosc": "Sandomierz", "ulica": "Schinzla ", "numer_domu": "13", "adres_swiadczeniodawcy": "Schinzla 13", "telefon": "15 833 05 74; \r\n832 22 22;\r\n692 479 491", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "dr. Zygmunta Schinzla", "g_miejsc": "Sandomierz", "g_adr": "13", "g_teryt": "2609011", "g_gm": "Sandomierz", "g_pow": "sandomierski", "g_woj": "świętokrzyskie", "g_szer": 21.751382344876635, "g_dlug": 50.697549404976634, "g_uuid": "ccaf5a50-eab4-4d38-86da-683c73d359ca", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 694242.667122475453652, 318116.83727063704282 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2609",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 516,
+                "JPT_KOD_JE": "2609",
+                "JPT_NAZWA_": "powiat sandomierski",
+                "id": "104#434",
+                "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ",
+                "kod_swiadczeniodawcy": "130000201",
+                "swiadczeniodawca": "Szpital Specjalistyczny Ducha Świętego w Sandomierzu",
+                "miejscowosc": "Sandomierz",
+                "ulica": "Schinzla ",
+                "numer_domu": "13",
+                "adres_swiadczeniodawcy": "Schinzla 13",
+                "telefon": "15 833 05 74; \r\n832 22 22;\r\n692 479 491",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "dr. Zygmunta Schinzla",
+                "g_miejsc": "Sandomierz",
+                "g_adr": "13",
+                "g_teryt": "2609011",
+                "g_gm": "Sandomierz",
+                "g_pow": "sandomierski",
+                "g_woj": "świętokrzyskie",
+                "g_szer": 21.751382344876635,
+                "g_dlug": 50.697549404976634,
+                "g_uuid": "ccaf5a50-eab4-4d38-86da-683c73d359ca",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.751380000013352,
+                    50.69755000001357
+                ]
+            }
+        }
+    ]
 }

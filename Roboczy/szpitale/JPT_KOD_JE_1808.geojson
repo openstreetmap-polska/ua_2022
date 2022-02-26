@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1808",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 227, "JPT_KOD_JE": "1808", "JPT_NAZWA_": "powiat leżajski", "id": 297, "wojewodztwo": "podkarpackie", "miasto": "Leżajsk", "powiat": "leżajski ", "adres": "Leśna 22", "miejscowosc": "Leżajsk", "kod": "37-300 ", "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W LEŻAJSKU", "poziom": "I stopień", "www": "http:\/\/spzoz-lezajsk.pl", "telefon": "(017)240 47 65", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 742298.3, 272717.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1808",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 227,
+                "JPT_KOD_JE": "1808",
+                "JPT_NAZWA_": "powiat leżajski",
+                "id": 297,
+                "wojewodztwo": "podkarpackie",
+                "miasto": "Leżajsk",
+                "powiat": "leżajski ",
+                "adres": "Leśna 22",
+                "miejscowosc": "Leżajsk",
+                "kod": "37-300 ",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W LEŻAJSKU",
+                "poziom": "I stopień",
+                "www": "http://spzoz-lezajsk.pl",
+                "telefon": "(017)240 47 65",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.40148193255896,
+                    50.271828861285584
+                ]
+            }
+        }
+    ]
 }

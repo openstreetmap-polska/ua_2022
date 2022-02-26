@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1432",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 242, "JPT_KOD_JE": "1432", "JPT_NAZWA_": "powiat warszawski zachodni", "id": "104#198", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70000978", "swiadczeniodawca": "Samodzielny Zespół Publicznych Zakładów Opieki Zdrowotnej im.\"Dzieci Warszawy\" w Dziekanowie Leśnym", "miejscowosc": "Łomianki", "ulica": "Szpitalna ", "numer_domu": "6", "adres_swiadczeniodawcy": "Szpitalna 6", "telefon": "22 866 52 55", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Łomianki", "g_adr": "6", "g_teryt": "1432053", "g_gm": "Łomianki", "g_pow": "warszawski zachodni", "g_woj": "mazowieckie", "g_szer": 20.886049461886788, "g_dlug": 52.339954118550935, "g_uuid": "fb3146ac-69ba-4e4c-9ba6-aa81bba29d0f", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 628450.858582356362604, 498783.102651506662369 ] } },
-{ "type": "Feature", "properties": { "gid": 353, "JPT_KOD_JE": "1432", "JPT_NAZWA_": "powiat warszawski zachodni", "id": "104#185", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001296", "swiadczeniodawca": "Samodzielny Gminny Publiczny Zakład Opieki Zdrowotnej w Błoniu", "miejscowosc": "Błonie", "ulica": "Piłsudskiego", "numer_domu": "2\/4", "adres_swiadczeniodawcy": "Piłsudskiego 2\/4", "telefon": "22 731-90-77", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Marszałka Józefa Piłsudskiego", "g_miejsc": "Błonie", "g_adr": "2\/4", "g_teryt": "1432013", "g_gm": "Błonie", "g_pow": "warszawski zachodni", "g_woj": "mazowieckie", "g_szer": 20.619538466149528, "g_dlug": 52.195710799649902, "g_uuid": "1f02d6e1-7159-41fe-928e-b4cc886d8d37", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 610659.925584191805683, 482306.317734120413661 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1432",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 242,
+                "JPT_KOD_JE": "1432",
+                "JPT_NAZWA_": "powiat warszawski zachodni",
+                "id": "104#198",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70000978",
+                "swiadczeniodawca": "Samodzielny Zespół Publicznych Zakładów Opieki Zdrowotnej im.\"Dzieci Warszawy\" w Dziekanowie Leśnym",
+                "miejscowosc": "Łomianki",
+                "ulica": "Szpitalna ",
+                "numer_domu": "6",
+                "adres_swiadczeniodawcy": "Szpitalna 6",
+                "telefon": "22 866 52 55",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szpitalna",
+                "g_miejsc": "Łomianki",
+                "g_adr": "6",
+                "g_teryt": "1432053",
+                "g_gm": "Łomianki",
+                "g_pow": "warszawski zachodni",
+                "g_woj": "mazowieckie",
+                "g_szer": 20.88604946188679,
+                "g_dlug": 52.339954118550935,
+                "g_uuid": "fb3146ac-69ba-4e4c-9ba6-aa81bba29d0f",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.886050000002236,
+                    52.339950000016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 353,
+                "JPT_KOD_JE": "1432",
+                "JPT_NAZWA_": "powiat warszawski zachodni",
+                "id": "104#185",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70001296",
+                "swiadczeniodawca": "Samodzielny Gminny Publiczny Zakład Opieki Zdrowotnej w Błoniu",
+                "miejscowosc": "Błonie",
+                "ulica": "Piłsudskiego",
+                "numer_domu": "2/4",
+                "adres_swiadczeniodawcy": "Piłsudskiego 2/4",
+                "telefon": "22 731-90-77",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Marszałka Józefa Piłsudskiego",
+                "g_miejsc": "Błonie",
+                "g_adr": "2/4",
+                "g_teryt": "1432013",
+                "g_gm": "Błonie",
+                "g_pow": "warszawski zachodni",
+                "g_woj": "mazowieckie",
+                "g_szer": 20.61953846614953,
+                "g_dlug": 52.1957107996499,
+                "g_uuid": "1f02d6e1-7159-41fe-928e-b4cc886d8d37",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.619540000001308,
+                    52.19571000001577
+                ]
+            }
+        }
+    ]
 }

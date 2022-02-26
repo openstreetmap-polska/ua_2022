@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3210",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 530, "JPT_KOD_JE": "3210", "JPT_NAZWA_": "powiat myśliborski", "id": "104#510", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000731", "swiadczeniodawca": " Szpital Barlinek Sp. z o.o.", "miejscowosc": "Barlinek", "ulica": "Szpitalna ", "numer_domu": "10", "adres_swiadczeniodawcy": "Szpitalna 10", "telefon": " Barlinek: 95 746 37 39; \r\n693 094 560;\r\nMyślibórz: 95 747 20 71;\r\n606 706 999", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Szpitalna", "g_miejsc": "Barlinek", "g_adr": "10", "g_teryt": "3210013", "g_gm": "Barlinek", "g_pow": "myśliborski", "g_woj": "zachodniopomorskie", "g_szer": 15.224474393597196, "g_dlug": 52.997812599067558, "g_uuid": "3cb63d54-c098-4ab9-beba-4b9221df2849", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 246736.484970494406298, 576932.756030293181539 ] } },
-{ "type": "Feature", "properties": { "gid": 531, "JPT_KOD_JE": "3210", "JPT_NAZWA_": "powiat myśliborski", "id": "104#513", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000729", "swiadczeniodawca": "Szpital w Dębnie Sp. z o.o.", "miejscowosc": "Dębno", "ulica": "Kościuszki", "numer_domu": "58a", "adres_swiadczeniodawcy": "Kościuszki 58a", "telefon": "95 760 20 63-65 wew. 217;\r\n91 461 28 55", "dodatkowe_miejsce": "74-500 Chojna, ul. Polna 3A", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 14.702706601672782, "g_dlug": 52.731880479819758, "g_uuid": "0490dedd-ee6a-4f9f-a4c3-de94c0ce9aea", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 209983.504348583577666, 549353.840490420348942 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3210",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 530,
+                "JPT_KOD_JE": "3210",
+                "JPT_NAZWA_": "powiat myśliborski",
+                "id": "104#510",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160000731",
+                "swiadczeniodawca": " Szpital Barlinek Sp. z o.o.",
+                "miejscowosc": "Barlinek",
+                "ulica": "Szpitalna ",
+                "numer_domu": "10",
+                "adres_swiadczeniodawcy": "Szpitalna 10",
+                "telefon": " Barlinek: 95 746 37 39; \r\n693 094 560;\r\nMyślibórz: 95 747 20 71;\r\n606 706 999",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Szpitalna",
+                "g_miejsc": "Barlinek",
+                "g_adr": "10",
+                "g_teryt": "3210013",
+                "g_gm": "Barlinek",
+                "g_pow": "myśliborski",
+                "g_woj": "zachodniopomorskie",
+                "g_szer": 15.224474393597196,
+                "g_dlug": 52.99781259906756,
+                "g_uuid": "3cb63d54-c098-4ab9-beba-4b9221df2849",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.224469999953342,
+                    52.99781000001797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 531,
+                "JPT_KOD_JE": "3210",
+                "JPT_NAZWA_": "powiat myśliborski",
+                "id": "104#513",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160000729",
+                "swiadczeniodawca": "Szpital w Dębnie Sp. z o.o.",
+                "miejscowosc": "Dębno",
+                "ulica": "Kościuszki",
+                "numer_domu": "58a",
+                "adres_swiadczeniodawcy": "Kościuszki 58a",
+                "telefon": "95 760 20 63-65 wew. 217;\r\n91 461 28 55",
+                "dodatkowe_miejsce": "74-500 Chojna, ul. Polna 3A",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 14.702706601672782,
+                "g_dlug": 52.73188047981976,
+                "g_uuid": "0490dedd-ee6a-4f9f-a4c3-de94c0ce9aea",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.70270999990915,
+                    52.73188000001902
+                ]
+            }
+        }
+    ]
 }

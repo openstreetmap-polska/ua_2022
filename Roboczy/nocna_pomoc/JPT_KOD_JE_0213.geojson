@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0213",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 323, "JPT_KOD_JE": "0213", "JPT_NAZWA_": "powiat milicki", "id": "104#18", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3102989", "swiadczeniodawca": "Milickie Centrum Medyczne ", "miejscowosc": "Milicz\r\n", "ulica": "Grzybowa ", "numer_domu": "1", "adres_swiadczeniodawcy": "Grzybowa 1", "telefon": "797 307 707; 797 307 820", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Grzybowa", "g_miejsc": "Milicz", "g_adr": "1", "g_teryt": "0213033", "g_gm": "Milicz", "g_pow": "milicki", "g_woj": "dolnośląskie", "g_szer": 17.261339071896643, "g_dlug": 51.517554725725383, "g_uuid": "530eba15-a7f7-4dc5-a5f5-4992afe4fae4", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 379401.567488134838641, 407100.625417002476752 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0213",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 323,
+                "JPT_KOD_JE": "0213",
+                "JPT_NAZWA_": "powiat milicki",
+                "id": "104#18",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3102989",
+                "swiadczeniodawca": "Milickie Centrum Medyczne ",
+                "miejscowosc": "Milicz\r\n",
+                "ulica": "Grzybowa ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": "Grzybowa 1",
+                "telefon": "797 307 707; 797 307 820",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Grzybowa",
+                "g_miejsc": "Milicz",
+                "g_adr": "1",
+                "g_teryt": "0213033",
+                "g_gm": "Milicz",
+                "g_pow": "milicki",
+                "g_woj": "dolnośląskie",
+                "g_szer": 17.261339071896643,
+                "g_dlug": 51.51755472572538,
+                "g_uuid": "530eba15-a7f7-4dc5-a5f5-4992afe4fae4",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.261339999998317,
+                    51.51755000001473
+                ]
+            }
+        }
+    ]
 }

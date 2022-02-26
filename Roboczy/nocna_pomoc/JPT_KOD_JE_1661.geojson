@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1661",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 157, "JPT_KOD_JE": "1661", "JPT_NAZWA_": "powiat Opole", "id": "104#274", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/10063", "swiadczeniodawca": "Szpital Wojewódzki w Opolu\r\n", "miejscowosc": "Opole ", "ulica": "Katowicka ", "numer_domu": "64", "adres_swiadczeniodawcy": "Katowicka 64", "telefon": "77 887 21 25", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Katowicka", "g_miejsc": "Opole", "g_adr": "64", "g_teryt": "1661011", "g_gm": "Opole", "g_pow": "Opole", "g_woj": "opolskie", "g_szer": 17.935833700845759, "g_dlug": 50.670792317291863, "g_uuid": "e9b65468-4628-4a1d-9b33-6c99417af2c3", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 424823.854665926308371, 312071.93806538823992 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1661",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 157,
+                "JPT_KOD_JE": "1661",
+                "JPT_NAZWA_": "powiat Opole",
+                "id": "104#274",
+                "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "08R/10063",
+                "swiadczeniodawca": "Szpital Wojewódzki w Opolu\r\n",
+                "miejscowosc": "Opole ",
+                "ulica": "Katowicka ",
+                "numer_domu": "64",
+                "adres_swiadczeniodawcy": "Katowicka 64",
+                "telefon": "77 887 21 25",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Katowicka",
+                "g_miejsc": "Opole",
+                "g_adr": "64",
+                "g_teryt": "1661011",
+                "g_gm": "Opole",
+                "g_pow": "Opole",
+                "g_woj": "opolskie",
+                "g_szer": 17.93583370084576,
+                "g_dlug": 50.67079231729186,
+                "g_uuid": "e9b65468-4628-4a1d-9b33-6c99417af2c3",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.935829999999594,
+                    50.670790000013454
+                ]
+            }
+        }
+    ]
 }

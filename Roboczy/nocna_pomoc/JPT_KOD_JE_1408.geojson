@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1408",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 466, "JPT_KOD_JE": "1408", "JPT_NAZWA_": "powiat legionowski", "id": "104#196", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70603363", "swiadczeniodawca": "Zespół Opieki Zdrowotnej \"Legionowo\" Spółka z ograniczoną odpowiedzialnością", "miejscowosc": "Legionowo", "ulica": " Sowińskiego ", "numer_domu": "4", "adres_swiadczeniodawcy": " Sowińskiego 4", "telefon": "22 767-07-67; 602-575-586; 602-575-609; 602-575-619; 668-159-397; 692-469-778;", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "gen. Józefa Sowińskiego", "g_miejsc": "Legionowo", "g_adr": "4", "g_teryt": "1408011", "g_gm": "Legionowo", "g_pow": "legionowski", "g_woj": "mazowieckie", "g_szer": 20.933024791949819, "g_dlug": 52.394250773192589, "g_uuid": "db037e1b-b719-45e0-98e3-d28822cc1663", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 631488.121671547763981, 504904.620120592415333 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1408",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 466,
+                "JPT_KOD_JE": "1408",
+                "JPT_NAZWA_": "powiat legionowski",
+                "id": "104#196",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70603363",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej \"Legionowo\" Spółka z ograniczoną odpowiedzialnością",
+                "miejscowosc": "Legionowo",
+                "ulica": " Sowińskiego ",
+                "numer_domu": "4",
+                "adres_swiadczeniodawcy": " Sowińskiego 4",
+                "telefon": "22 767-07-67; 602-575-586; 602-575-609; 602-575-619; 668-159-397; 692-469-778;",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "gen. Józefa Sowińskiego",
+                "g_miejsc": "Legionowo",
+                "g_adr": "4",
+                "g_teryt": "1408011",
+                "g_gm": "Legionowo",
+                "g_pow": "legionowski",
+                "g_woj": "mazowieckie",
+                "g_szer": 20.93302479194982,
+                "g_dlug": 52.39425077319259,
+                "g_uuid": "db037e1b-b719-45e0-98e3-d28822cc1663",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.933020000002447,
+                    52.3942500000161
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2409",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 390, "JPT_KOD_JE": "2409", "JPT_NAZWA_": "powiat myszkowski", "id": "104#394", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "123\/100327", "swiadczeniodawca": "SP Zespół Opieki Zdrowotnej w Myszkowie", "miejscowosc": "Myszków", "ulica": "Al. Wolności ", "numer_domu": "29", "adres_swiadczeniodawcy": "Al. Wolności 29", "telefon": "505 172 402, \r\n508 687 731, \r\n508 687 752, \r\n508 687 772, \r\n34 315 82 34", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "Aleja  Wolności", "g_miejsc": "Myszków", "g_adr": "29", "g_teryt": "2409011", "g_gm": "Myszków", "g_pow": "myszkowski", "g_woj": "śląskie", "g_szer": 19.306890792043657, "g_dlug": 50.572612425683239, "g_uuid": "167d61cc-a089-492b-a5c3-ccf8a9f36bb7", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 521725.036046192224603, 300662.83512444794178 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2409",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 390,
+                "JPT_KOD_JE": "2409",
+                "JPT_NAZWA_": "powiat myszkowski",
+                "id": "104#394",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "123/100327",
+                "swiadczeniodawca": "SP Zespół Opieki Zdrowotnej w Myszkowie",
+                "miejscowosc": "Myszków",
+                "ulica": "Al. Wolności ",
+                "numer_domu": "29",
+                "adres_swiadczeniodawcy": "Al. Wolności 29",
+                "telefon": "505 172 402, \r\n508 687 731, \r\n508 687 752, \r\n508 687 772, \r\n34 315 82 34",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "Aleja  Wolności",
+                "g_miejsc": "Myszków",
+                "g_adr": "29",
+                "g_teryt": "2409011",
+                "g_gm": "Myszków",
+                "g_pow": "myszkowski",
+                "g_woj": "śląskie",
+                "g_szer": 19.306890792043657,
+                "g_dlug": 50.57261242568324,
+                "g_uuid": "167d61cc-a089-492b-a5c3-ccf8a9f36bb7",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.306890000000084,
+                    50.57261000001332
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2818",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 130, "JPT_KOD_JE": "2818", "JPT_NAZWA_": "powiat gołdapski", "id": 413, "wojewodztwo": "warmińsko-mazurskie", "miasto": "Gołdap", "powiat": "Gołdapski", "adres": "Słoneczna 7", "miejscowosc": "Gołdap", "kod": "19-500", "nazwa": "Goldmedica Spółka z Ograniczoną Odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/goldmedica.pl", "telefon": "87 615 13 76 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 715019.9, 721151.1 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2818",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 130,
+                "JPT_KOD_JE": "2818",
+                "JPT_NAZWA_": "powiat gołdapski",
+                "id": 413,
+                "wojewodztwo": "warmińsko-mazurskie",
+                "miasto": "Gołdap",
+                "powiat": "Gołdapski",
+                "adres": "Słoneczna 7",
+                "miejscowosc": "Gołdap",
+                "kod": "19-500",
+                "nazwa": "Goldmedica Spółka z Ograniczoną Odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://goldmedica.pl",
+                "telefon": "87 615 13 76 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.306375644195246,
+                    54.309125665505306
+                ]
+            }
+        }
+    ]
 }

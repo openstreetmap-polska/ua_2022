@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1411",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 141, "JPT_KOD_JE": "1411", "JPT_NAZWA_": "powiat makowski", "id": "104#200", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001454", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Zespół Zakładów", "miejscowosc": "Maków Mazowiecki", "ulica": "Witosa ", "numer_domu": "2", "adres_swiadczeniodawcy": "Witosa 2", "telefon": "297142215", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Wincentego Witosa", "g_miejsc": "Maków Mazowiecki", "g_adr": "2", "g_teryt": "1411011", "g_gm": "Maków Mazowiecki", "g_pow": "makowski", "g_woj": "mazowieckie", "g_szer": 21.086298494918292, "g_dlug": 52.861401676822148, "g_uuid": "d31c7883-b015-40f9-b80e-421b66442710", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 640409.778995592263527, 557133.102901506237686 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1411",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 141,
+                "JPT_KOD_JE": "1411",
+                "JPT_NAZWA_": "powiat makowski",
+                "id": "104#200",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70001454",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Zespół Zakładów",
+                "miejscowosc": "Maków Mazowiecki",
+                "ulica": "Witosa ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Witosa 2",
+                "telefon": "297142215",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Wincentego Witosa",
+                "g_miejsc": "Maków Mazowiecki",
+                "g_adr": "2",
+                "g_teryt": "1411011",
+                "g_gm": "Maków Mazowiecki",
+                "g_pow": "makowski",
+                "g_woj": "mazowieckie",
+                "g_szer": 21.086298494918292,
+                "g_dlug": 52.86140167682215,
+                "g_uuid": "d31c7883-b015-40f9-b80e-421b66442710",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.086300000003227,
+                    52.86140000001684
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0805",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 419, "JPT_KOD_JE": "0805", "JPT_NAZWA_": "powiat słubicki", "id": 100, "wojewodztwo": "lubuskie", "miasto": "Słubice", "powiat": "słubicki", "adres": "Nadodrzańska 6", "miejscowosc": "Słubice", "kod": "69-100", "nazwa": "Niepubliczny Zakład Opieki Zdrowotnej Szpital im. Profesora Zbigniewa Religi w Słubicach Spółka z Ograniczoną Odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.szpitalslubice.pl", "telefon": "95 758 20 71", "e-mail": "sekretariat@szpitalslubice.pl" }, "geometry": { "type": "Point", "coordinates": [ 197513.1, 507689.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0805",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 419,
+                "JPT_KOD_JE": "0805",
+                "JPT_NAZWA_": "powiat słubicki",
+                "id": 100,
+                "wojewodztwo": "lubuskie",
+                "miasto": "Słubice",
+                "powiat": "słubicki",
+                "adres": "Nadodrzańska 6",
+                "miejscowosc": "Słubice",
+                "kod": "69-100",
+                "nazwa": "Niepubliczny Zakład Opieki Zdrowotnej Szpital im. Profesora Zbigniewa Religi w Słubicach Spółka z Ograniczoną Odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalslubice.pl",
+                "telefon": "95 758 20 71",
+                "e-mail": "sekretariat@szpitalslubice.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.556484315669824,
+                    52.35150836587505
+                ]
+            }
+        }
+    ]
 }

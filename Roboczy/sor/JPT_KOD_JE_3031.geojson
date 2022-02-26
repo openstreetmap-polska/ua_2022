@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3031",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "3031", "JPT_NAZWA_": "powiat złotowski", "id": 49, "ksiega": 385862, "id zoz": 470093, "id jednostki": "751307", "id komórki": 6539368, "regon": 30000900050, "kod jednostki": "01", "kod komórki": 8, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział  Ratunkowy", "teryt opis": "Złotów - gmina miejska", "ulica": "ul. Szpitalna", "budynek": "28", "lokal": "NULL", "kod": "77-400", "miejscowosc": "Złotów", "teryt": 3031011, "kod simc": 967423, "kod ulicy": "22073", "lozka": 6, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "1998-02-03" }, "geometry": { "type": "Point", "coordinates": [ 369921.209985895024147, 611819.87595447502099 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3031",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "3031",
+                "JPT_NAZWA_": "powiat złotowski",
+                "id": 49,
+                "ksiega": 385862,
+                "id zoz": 470093,
+                "id jednostki": "751307",
+                "id komórki": 6539368,
+                "regon": 30000900050,
+                "kod jednostki": "01",
+                "kod komórki": 8,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział  Ratunkowy",
+                "teryt opis": "Złotów - gmina miejska",
+                "ulica": "ul. Szpitalna",
+                "budynek": "28",
+                "lokal": "NULL",
+                "kod": "77-400",
+                "miejscowosc": "Złotów",
+                "teryt": 3031011,
+                "kod simc": 967423,
+                "kod ulicy": "22073",
+                "lozka": 6,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "1998-02-03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04493430264016,
+                    53.35545517175757
+                ]
+            }
+        }
+    ]
 }

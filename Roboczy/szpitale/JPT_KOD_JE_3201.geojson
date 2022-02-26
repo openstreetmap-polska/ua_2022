@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3201",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 324, "JPT_KOD_JE": "3201", "JPT_NAZWA_": "powiat białogardzki", "id": 323, "wojewodztwo": "zachodniopomorskie", "miasto": "Białogard ", "powiat": "białogardzki ", "adres": "Chopina 29", "miejscowosc": "Białogard ", "kod": null, "nazwa": "\"Centrum Dializa\" Spółka z Ograniczoną Odpowiedzialnością ", "poziom": "I stopień", "www": "http:\/\/www.szpitalbialogard.pl\/ ", "telefon": "94 311 37 02 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 303981.2, 686660.7 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3201",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 324,
+                "JPT_KOD_JE": "3201",
+                "JPT_NAZWA_": "powiat białogardzki",
+                "id": 323,
+                "wojewodztwo": "zachodniopomorskie",
+                "miasto": "Białogard ",
+                "powiat": "białogardzki ",
+                "adres": "Chopina 29",
+                "miejscowosc": "Białogard ",
+                "kod": null,
+                "nazwa": "\"Centrum Dializa\" Spółka z Ograniczoną Odpowiedzialnością ",
+                "poziom": "I stopień",
+                "www": "http://www.szpitalbialogard.pl/ ",
+                "telefon": "94 311 37 02 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.00778006801592,
+                    54.007119911219945
+                ]
+            }
+        }
+    ]
 }

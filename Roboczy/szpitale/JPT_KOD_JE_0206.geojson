@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0206",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 417, "JPT_KOD_JE": "0206", "JPT_NAZWA_": "powiat karkonoski", "id": 18, "wojewodztwo": "dolnośląskie", "miasto": "Szklarska Poręba", "powiat": "jeleniogórski", "adres": "SANATORYJNA 1", "miejscowosc": null, "kod": null, "nazwa": "IZERSKIE CENTRUM PULMONOLOGII I CHEMIOTERAPII \"IZER-MED\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "Szpital pulmunologiczny", "www": "http:\/\/www.izer-mad.com.pl", "telefon": "75 75 47 100", "e-mail": "sekretariat@izer-med.com.pl" }, "geometry": { "type": "Point", "coordinates": [ 257125.2, 336838.1 ] } },
-{ "type": "Feature", "properties": { "_uid_": 418, "JPT_KOD_JE": "0206", "JPT_NAZWA_": "powiat karkonoski", "id": 20, "wojewodztwo": "dolnośląskie", "miasto": "Karpacz", "powiat": "jeleniogórski", "adres": "MYŚLIWSKA 13", "miejscowosc": null, "kod": null, "nazwa": "CENTRUM MEDYCZNE KARPACZ SPÓŁKA AKCYJNA", "poziom": "Szpital pulmunologiczny", "www": "http:\/\/www.cmkarpacz.pl", "telefon": "88 335 81 35", "e-mail": "kontakt@cmkarpacz.pl" }, "geometry": { "type": "Point", "coordinates": [ 270337.5, 328876.8 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0206",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 417,
+                "JPT_KOD_JE": "0206",
+                "JPT_NAZWA_": "powiat karkonoski",
+                "id": 18,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Szklarska Poręba",
+                "powiat": "jeleniogórski",
+                "adres": "SANATORYJNA 1",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "IZERSKIE CENTRUM PULMONOLOGII I CHEMIOTERAPII \"IZER-MED\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+                "poziom": "Szpital pulmunologiczny",
+                "www": "http://www.izer-mad.com.pl",
+                "telefon": "75 75 47 100",
+                "e-mail": "sekretariat@izer-med.com.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.548594262029756,
+                    50.84737688595775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 418,
+                "JPT_KOD_JE": "0206",
+                "JPT_NAZWA_": "powiat karkonoski",
+                "id": 20,
+                "wojewodztwo": "dolnośląskie",
+                "miasto": "Karpacz",
+                "powiat": "jeleniogórski",
+                "adres": "MYŚLIWSKA 13",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "CENTRUM MEDYCZNE KARPACZ SPÓŁKA AKCYJNA",
+                "poziom": "Szpital pulmunologiczny",
+                "www": "http://www.cmkarpacz.pl",
+                "telefon": "88 335 81 35",
+                "e-mail": "kontakt@cmkarpacz.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.741000106422051,
+                    50.78127549900998
+                ]
+            }
+        }
+    ]
 }

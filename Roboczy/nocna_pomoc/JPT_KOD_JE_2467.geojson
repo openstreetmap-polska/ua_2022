@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2467",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 278, "JPT_KOD_JE": "2467", "JPT_NAZWA_": "powiat Jastrzębie-Zdrój", "id": "104#376", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "124\/100448", "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny nr 2 w Jastrzębiu-Zdroju", "miejscowosc": "Jastrzębie Zdrój", "ulica": "Krasickiego ", "numer_domu": "21", "adres_swiadczeniodawcy": "Krasickiego 21", "telefon": "ul. Krasickiego: centrala: 32 475 99 60;\r\n lekarz NiŚOZ: 32 475 99 63; centrala główna: 32 478 42 00\r\nal.. Jana Pawła: 32 47 84 207", "dodatkowe_miejsce": "Al. Jana Pawła II 7A", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 18.57350407969798, "g_dlug": 49.960279936552823, "g_uuid": "ce85202a-af90-495f-a232-79a5ba7dae6b", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 469418.046345191600267, 232640.681814634241164 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2467",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 278,
+                "JPT_KOD_JE": "2467",
+                "JPT_NAZWA_": "powiat Jastrzębie-Zdrój",
+                "id": "104#376",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "124/100448",
+                "swiadczeniodawca": "Wojewódzki Szpital Specjalistyczny nr 2 w Jastrzębiu-Zdroju",
+                "miejscowosc": "Jastrzębie Zdrój",
+                "ulica": "Krasickiego ",
+                "numer_domu": "21",
+                "adres_swiadczeniodawcy": "Krasickiego 21",
+                "telefon": "ul. Krasickiego: centrala: 32 475 99 60;\r\n lekarz NiŚOZ: 32 475 99 63; centrala główna: 32 478 42 00\r\nal.. Jana Pawła: 32 47 84 207",
+                "dodatkowe_miejsce": "Al. Jana Pawła II 7A",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 18.57350407969798,
+                "g_dlug": 49.96027993655282,
+                "g_uuid": "ce85202a-af90-495f-a232-79a5ba7dae6b",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.57349999999989,
+                    49.96028000001244
+                ]
+            }
+        }
+    ]
 }

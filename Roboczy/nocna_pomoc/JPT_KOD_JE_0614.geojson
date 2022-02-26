@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0614",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 440, "JPT_KOD_JE": "0614", "JPT_NAZWA_": "powiat puławski", "id": "104#83", "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ", "kod_swiadczeniodawcy": "30000107", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Puławach", "miejscowosc": "Puławy", "ulica": "Partyzantów ", "numer_domu": "17", "adres_swiadczeniodawcy": "Partyzantów 17", "telefon": "  81 450 23 13", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "aleja  Partyzantów", "g_miejsc": "Puławy", "g_adr": "17", "g_teryt": "0614011", "g_gm": "Puławy", "g_pow": "puławski", "g_woj": "lubelskie", "g_szer": 21.973079664286448, "g_dlug": 51.419865034996178, "g_uuid": "34e66eed-a92a-4fa4-92ab-de6b9f15acf9", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 706648.719825642183423, 399001.029176238924265 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0614",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 440,
+                "JPT_KOD_JE": "0614",
+                "JPT_NAZWA_": "powiat puławski",
+                "id": "104#83",
+                "krotka_nazwa_oddz_nfz": "LUBELSKI OW NFZ",
+                "kod_swiadczeniodawcy": "30000107",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Puławach",
+                "miejscowosc": "Puławy",
+                "ulica": "Partyzantów ",
+                "numer_domu": "17",
+                "adres_swiadczeniodawcy": "Partyzantów 17",
+                "telefon": "  81 450 23 13",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "aleja  Partyzantów",
+                "g_miejsc": "Puławy",
+                "g_adr": "17",
+                "g_teryt": "0614011",
+                "g_gm": "Puławy",
+                "g_pow": "puławski",
+                "g_woj": "lubelskie",
+                "g_szer": 21.97307966428645,
+                "g_dlug": 51.41986503499618,
+                "g_uuid": "34e66eed-a92a-4fa4-92ab-de6b9f15acf9",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.97308000001805,
+                    51.419870000014726
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2206",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2206", "JPT_NAZWA_": "powiat kościerski", "id": 225, "ksiega": 392343, "id zoz": 482603, "id jednostki": "780160", "id komórki": 6869419, "regon": 19110303900023, "kod jednostki": "01", "kod komórki": 17, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Kościerzyna - gmina miejska", "ulica": "ul. Alojzego Piechowskiego", "budynek": "36", "lokal": "NULL", "kod": "83-400", "miejscowosc": "Kościerzyna", "teryt": 2206011, "kod simc": 934553, "kod ulicy": "16085", "lozka": 11, "liczba łóżek iom": 3, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2001-02-21" }, "geometry": { "type": "Point", "coordinates": [ 431381.470000065979548, 695715.18 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2206",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2206",
+                "JPT_NAZWA_": "powiat kościerski",
+                "id": 225,
+                "ksiega": 392343,
+                "id zoz": 482603,
+                "id jednostki": "780160",
+                "id komórki": 6869419,
+                "regon": 19110303900023,
+                "kod jednostki": "01",
+                "kod komórki": 17,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Kościerzyna - gmina miejska",
+                "ulica": "ul. Alojzego Piechowskiego",
+                "budynek": "36",
+                "lokal": "NULL",
+                "kod": "83-400",
+                "miejscowosc": "Kościerzyna",
+                "teryt": 2206011,
+                "kod simc": 934553,
+                "kod ulicy": "16085",
+                "lozka": 11,
+                "liczba łóżek iom": 3,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2001-02-21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.949795382542113,
+                    54.12118974613906
+                ]
+            }
+        }
+    ]
 }

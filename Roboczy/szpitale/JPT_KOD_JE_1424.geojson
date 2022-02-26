@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1424",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 435, "JPT_KOD_JE": "1424", "JPT_NAZWA_": "powiat pułtuski", "id": 199, "wojewodztwo": "mazowieckie", "miasto": "PUŁTUSK", "powiat": "PUŁTUSKI", "adres": "TEOFILA KWIATKOWSKIEGO 19", "miejscowosc": "PUŁTUSK ", "kod": null, "nazwa": "SZPITAL POWIATOWY GAJDA-MED SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ", "poziom": "I stopień", "www": "http:\/\/www.szpital.pultusk.pl", "telefon": "236919901", "e-mail": "sekretariat@szpital.pultusk.pl" }, "geometry": { "type": "Point", "coordinates": [ 642830.0, 538546.0 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1424",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 435,
+                "JPT_KOD_JE": "1424",
+                "JPT_NAZWA_": "powiat pułtuski",
+                "id": 199,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "PUŁTUSK",
+                "powiat": "PUŁTUSKI",
+                "adres": "TEOFILA KWIATKOWSKIEGO 19",
+                "miejscowosc": "PUŁTUSK ",
+                "kod": null,
+                "nazwa": "SZPITAL POWIATOWY GAJDA-MED SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+                "poziom": "I stopień",
+                "www": "http://www.szpital.pultusk.pl",
+                "telefon": "236919901",
+                "e-mail": "sekretariat@szpital.pultusk.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.114122333317972,
+                    52.69373334326615
+                ]
+            }
+        }
+    ]
 }

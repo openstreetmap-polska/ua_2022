@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1808",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "1808", "JPT_NAZWA_": "powiat leżajski", "id": 112, "ksiega": 390330, "id zoz": 478193, "id jednostki": "768882", "id komórki": 6740297, "regon": 30665000037, "kod jednostki": "01", "kod komórki": 13, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Leżajsk - gmina miejska", "ulica": "ul. Leśna", "budynek": "22", "lokal": "NULL", "kod": "37-300", "miejscowosc": "Leżajsk", "teryt": 1808011, "kod simc": 974400, "kod ulicy": "10898", "lozka": 14, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "1981-12-01" }, "geometry": { "type": "Point", "coordinates": [ 742298.2909, 272717.7303 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1808",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "1808",
+                "JPT_NAZWA_": "powiat leżajski",
+                "id": 112,
+                "ksiega": 390330,
+                "id zoz": 478193,
+                "id jednostki": "768882",
+                "id komórki": 6740297,
+                "regon": 30665000037,
+                "kod jednostki": "01",
+                "kod komórki": 13,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Leżajsk - gmina miejska",
+                "ulica": "ul. Leśna",
+                "budynek": "22",
+                "lokal": "NULL",
+                "kod": "37-300",
+                "miejscowosc": "Leżajsk",
+                "teryt": 1808011,
+                "kod simc": 974400,
+                "kod ulicy": "10898",
+                "lozka": 14,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "1981-12-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.40148182445639,
+                    50.27182913712933
+                ]
+            }
+        }
+    ]
 }

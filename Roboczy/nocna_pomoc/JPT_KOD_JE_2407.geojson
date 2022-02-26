@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2407",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 389, "JPT_KOD_JE": "2407", "JPT_NAZWA_": "powiat lubliniecki", "id": "104#389", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "123\/100402", "swiadczeniodawca": "SP Zespół Opieki Zdrowotnej w Lublińcu", "miejscowosc": "Lubliniec", "ulica": "Grunwaldzka ", "numer_domu": "9", "adres_swiadczeniodawcy": "Grunwaldzka 9", "telefon": "34 350 63 63", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Grunwaldzka", "g_miejsc": "Lubliniec", "g_adr": "9", "g_teryt": "2407011", "g_gm": "Lubliniec", "g_pow": "lubliniecki", "g_woj": "śląskie", "g_szer": 18.680331577204193, "g_dlug": 50.665577657029409, "g_uuid": "b54c745b-72d6-4747-a664-8b1696b37441", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 477414.826492297113873, 311001.458834054879844 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2407",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 389,
+                "JPT_KOD_JE": "2407",
+                "JPT_NAZWA_": "powiat lubliniecki",
+                "id": "104#389",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "123/100402",
+                "swiadczeniodawca": "SP Zespół Opieki Zdrowotnej w Lublińcu",
+                "miejscowosc": "Lubliniec",
+                "ulica": "Grunwaldzka ",
+                "numer_domu": "9",
+                "adres_swiadczeniodawcy": "Grunwaldzka 9",
+                "telefon": "34 350 63 63",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Grunwaldzka",
+                "g_miejsc": "Lubliniec",
+                "g_adr": "9",
+                "g_teryt": "2407011",
+                "g_gm": "Lubliniec",
+                "g_pow": "lubliniecki",
+                "g_woj": "śląskie",
+                "g_szer": 18.680331577204193,
+                "g_dlug": 50.66557765702941,
+                "g_uuid": "b54c745b-72d6-4747-a664-8b1696b37441",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.68032999999991,
+                    50.66558000001345
+                ]
+            }
+        }
+    ]
 }

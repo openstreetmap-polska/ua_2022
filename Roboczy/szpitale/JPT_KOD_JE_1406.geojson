@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1406",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 431, "JPT_KOD_JE": "1406", "JPT_NAZWA_": "powiat grójecki", "id": 183, "wojewodztwo": "mazowieckie", "miasto": "NOWE MIASTO NAD PILICĄ", "powiat": "GRÓJECKI", "adres": "TOMASZOWSKA 43", "miejscowosc": "NOWE MIASTO NAD PILICĄ ", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W NOWYM MIEŚCIE NAD PILICĄ", "poziom": "I stopień", "www": "http:\/\/www.zoz-nowemiasto.net", "telefon": "48 674 38 00", "e-mail": "szpital@zoz-nowemiasto.net" }, "geometry": { "type": "Point", "coordinates": [ 608275.4, 417887.1 ] } },
-{ "type": "Feature", "properties": { "_uid_": 432, "JPT_KOD_JE": "1406", "JPT_NAZWA_": "powiat grójecki", "id": 184, "wojewodztwo": "mazowieckie", "miasto": "GRÓJEC", "powiat": "GRÓJECKI", "adres": "PIOTRA SKARGI 10", "miejscowosc": "GRÓJEC ", "kod": null, "nazwa": "SZPITAL SPECJALISTYCZNY \/ ZESPÓŁ PORADNI SPECJALISTYCZNYCH I RATOWNICTWA MEDYCZNEGO", "poziom": "I stopień", "www": "http:\/\/www.pcmg.pl", "telefon": "48 66 49 100", "e-mail": "sekretariat@pcmg.pl" }, "geometry": { "type": "Point", "coordinates": [ 628570.4, 446260.3 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1406",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 431,
+                "JPT_KOD_JE": "1406",
+                "JPT_NAZWA_": "powiat grójecki",
+                "id": 183,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "NOWE MIASTO NAD PILICĄ",
+                "powiat": "GRÓJECKI",
+                "adres": "TOMASZOWSKA 43",
+                "miejscowosc": "NOWE MIASTO NAD PILICĄ ",
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W NOWYM MIEŚCIE NAD PILICĄ",
+                "poziom": "I stopień",
+                "www": "http://www.zoz-nowemiasto.net",
+                "telefon": "48 674 38 00",
+                "e-mail": "szpital@zoz-nowemiasto.net"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.56440034535742,
+                    51.61702902645923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 432,
+                "JPT_KOD_JE": "1406",
+                "JPT_NAZWA_": "powiat grójecki",
+                "id": 184,
+                "wojewodztwo": "mazowieckie",
+                "miasto": "GRÓJEC",
+                "powiat": "GRÓJECKI",
+                "adres": "PIOTRA SKARGI 10",
+                "miejscowosc": "GRÓJEC ",
+                "kod": null,
+                "nazwa": "SZPITAL SPECJALISTYCZNY / ZESPÓŁ PORADNI SPECJALISTYCZNYCH I RATOWNICTWA MEDYCZNEGO",
+                "poziom": "I stopień",
+                "www": "http://www.pcmg.pl",
+                "telefon": "48 66 49 100",
+                "e-mail": "sekretariat@pcmg.pl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.86796797622315,
+                    51.86781215753146
+                ]
+            }
+        }
+    ]
 }

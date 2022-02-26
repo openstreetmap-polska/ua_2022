@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0412",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 427, "JPT_KOD_JE": "0412", "JPT_NAZWA_": "powiat rypiński", "id": 43, "wojewodztwo": "kujawsko-pomorskie", "miasto": "Rypin", "powiat": "rypiński", "adres": "3-Go Maja 2", "miejscowosc": null, "kod": null, "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Rypinie", "poziom": "I stopień", "www": "http:\/\/www.spzozrypin.pl", "telefon": "54 230 87 00", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 527859.2, 578065.4 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0412",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 427,
+                "JPT_KOD_JE": "0412",
+                "JPT_NAZWA_": "powiat rypiński",
+                "id": 43,
+                "wojewodztwo": "kujawsko-pomorskie",
+                "miasto": "Rypin",
+                "powiat": "rypiński",
+                "adres": "3-Go Maja 2",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Rypinie",
+                "poziom": "I stopień",
+                "www": "http://www.spzozrypin.pl",
+                "telefon": "54 230 87 00",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.41589704594393,
+                    53.06722868677942
+                ]
+            }
+        }
+    ]
 }

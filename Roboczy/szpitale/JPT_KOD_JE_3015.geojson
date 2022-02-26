@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3015",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 99, "JPT_KOD_JE": "3015", "JPT_NAZWA_": "powiat nowotomyski", "id": 360, "wojewodztwo": "wielkopolskie", "miasto": "NOWY TOMYŚL ", "powiat": "NOWOTOMYSKI ", "adres": "POZNAŃSKA 30 ", "miejscowosc": null, "kod": "64-300 ", "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ IMIENIA DOKTORA KAZIMIERZA HOŁOGI ", "poziom": "I stopień", "www": "http:\/\/www.szpital-nowytomysl.pl\/ ", "telefon": "(061)44-27-300 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 305028.2, 498297.2 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3015",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 99,
+                "JPT_KOD_JE": "3015",
+                "JPT_NAZWA_": "powiat nowotomyski",
+                "id": 360,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "NOWY TOMYŚL ",
+                "powiat": "NOWOTOMYSKI ",
+                "adres": "POZNAŃSKA 30 ",
+                "miejscowosc": null,
+                "kod": "64-300 ",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ IMIENIA DOKTORA KAZIMIERZA HOŁOGI ",
+                "poziom": "I stopień",
+                "www": "http://www.szpital-nowytomysl.pl/ ",
+                "telefon": "(061)44-27-300 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.138598014369872,
+                    52.315971582381216
+                ]
+            }
+        }
+    ]
 }

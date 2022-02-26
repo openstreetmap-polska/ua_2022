@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0619",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 82, "JPT_KOD_JE": "0619", "JPT_NAZWA_": "powiat włodawski", "id": 53, "wojewodztwo": "lubelskie", "miasto": "ADAMPOL", "powiat": "WŁODAWSKI", "adres": "37", "miejscowosc": "ADAMPOL", "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ GRUŹLICY I CHORÓB PŁUC W ADAMPOLU", "poziom": "Szpital pulmunologiczny", "www": "http:\/\/www.spzozadampol.pl", "telefon": "82 591 32 86", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 809355.1, 418229.8 ] } },
-{ "type": "Feature", "properties": { "_uid_": 83, "JPT_KOD_JE": "0619", "JPT_NAZWA_": "powiat włodawski", "id": 87, "wojewodztwo": "lubelskie", "miasto": "WŁODAWA", "powiat": "WŁODAWSKI", "adres": "AL. JÓZEFA PIŁSUDSKIEGO 64", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ WE WŁODAWIE", "poziom": "I stopień", "www": "http:\/\/www.spzoz.wlodawa.pl", "telefon": "82 572 58 01", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 815508.7, 419920.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0619",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 82,
+                "JPT_KOD_JE": "0619",
+                "JPT_NAZWA_": "powiat włodawski",
+                "id": 53,
+                "wojewodztwo": "lubelskie",
+                "miasto": "ADAMPOL",
+                "powiat": "WŁODAWSKI",
+                "adres": "37",
+                "miejscowosc": "ADAMPOL",
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ GRUŹLICY I CHORÓB PŁUC W ADAMPOLU",
+                "poziom": "Szpital pulmunologiczny",
+                "www": "http://www.spzozadampol.pl",
+                "telefon": "82 591 32 86",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.463561733080176,
+                    51.54558418701901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 83,
+                "JPT_KOD_JE": "0619",
+                "JPT_NAZWA_": "powiat włodawski",
+                "id": 87,
+                "wojewodztwo": "lubelskie",
+                "miasto": "WŁODAWA",
+                "powiat": "WŁODAWSKI",
+                "adres": "AL. JÓZEFA PIŁSUDSKIEGO 64",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ WE WŁODAWIE",
+                "poziom": "I stopień",
+                "www": "http://www.spzoz.wlodawa.pl",
+                "telefon": "82 572 58 01",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.553567433005785,
+                    51.557337333333365
+                ]
+            }
+        }
+    ]
 }

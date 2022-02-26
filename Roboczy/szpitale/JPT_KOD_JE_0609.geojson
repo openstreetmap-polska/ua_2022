@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0609",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 373, "JPT_KOD_JE": "0609", "JPT_NAZWA_": "powiat lubelski", "id": 54, "wojewodztwo": "lubelskie", "miasto": "BEŁŻYCE", "powiat": "LUBELSKI", "adres": "LUBELSKA 90", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ NR 1 W BEŁŻYCACH", "poziom": "I stopień", "www": "http:\/\/www.spzoz1belzyce.pl", "telefon": "81 516 29 26", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 730067.2, 372950.0 ] } },
-{ "type": "Feature", "properties": { "_uid_": 374, "JPT_KOD_JE": "0609", "JPT_NAZWA_": "powiat lubelski", "id": 57, "wojewodztwo": "lubelskie", "miasto": "BYCHAWA", "powiat": "LUBELSKI", "adres": "PIŁSUDSKIEGO 26-30", "miejscowosc": null, "kod": null, "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W BYCHAWIE", "poziom": "I stopień", "www": "http:\/\/www.spzoz.bychawa.pl", "telefon": "81 566 94 41", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 748041.4, 355592.6 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0609",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 373,
+                "JPT_KOD_JE": "0609",
+                "JPT_NAZWA_": "powiat lubelski",
+                "id": 54,
+                "wojewodztwo": "lubelskie",
+                "miasto": "BEŁŻYCE",
+                "powiat": "LUBELSKI",
+                "adres": "LUBELSKA 90",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ NR 1 W BEŁŻYCACH",
+                "poziom": "I stopień",
+                "www": "http://www.spzoz1belzyce.pl",
+                "telefon": "81 516 29 26",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2926374411582,
+                    51.176914105924155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 374,
+                "JPT_KOD_JE": "0609",
+                "JPT_NAZWA_": "powiat lubelski",
+                "id": 57,
+                "wojewodztwo": "lubelskie",
+                "miasto": "BYCHAWA",
+                "powiat": "LUBELSKI",
+                "adres": "PIŁSUDSKIEGO 26-30",
+                "miejscowosc": null,
+                "kod": null,
+                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W BYCHAWIE",
+                "poziom": "I stopień",
+                "www": "http://www.spzoz.bychawa.pl",
+                "telefon": "81 566 94 41",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.537444143903766,
+                    51.01356612230574
+                ]
+            }
+        }
+    ]
 }

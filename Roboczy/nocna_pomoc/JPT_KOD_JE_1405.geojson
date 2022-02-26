@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1405",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 140, "JPT_KOD_JE": "1405", "JPT_NAZWA_": "powiat grodziski", "id": "104#191", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70000969", "swiadczeniodawca": "Samodzielny Publiczny Specjalistyczny Szpital Zachodni im. Św. Jana Pawła II", "miejscowosc": "Grodzisk Mazowiecki", "ulica": "Daleka ", "numer_domu": "11", "adres_swiadczeniodawcy": "Daleka 11", "telefon": "22 205-28-01", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Daleka", "g_miejsc": "Grodzisk Mazowiecki", "g_adr": "11", "g_teryt": "1405043", "g_gm": "Grodzisk Mazowiecki", "g_pow": "grodziski", "g_woj": "mazowieckie", "g_szer": 20.616431915634539, "g_dlug": 52.094867979509544, "g_uuid": "ccf961a8-2fc5-43dd-aa20-af6325fb7c28", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 610697.246619197772816, 471090.049818011932075 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1405",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 140,
+                "JPT_KOD_JE": "1405",
+                "JPT_NAZWA_": "powiat grodziski",
+                "id": "104#191",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70000969",
+                "swiadczeniodawca": "Samodzielny Publiczny Specjalistyczny Szpital Zachodni im. Św. Jana Pawła II",
+                "miejscowosc": "Grodzisk Mazowiecki",
+                "ulica": "Daleka ",
+                "numer_domu": "11",
+                "adres_swiadczeniodawcy": "Daleka 11",
+                "telefon": "22 205-28-01",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Daleka",
+                "g_miejsc": "Grodzisk Mazowiecki",
+                "g_adr": "11",
+                "g_teryt": "1405043",
+                "g_gm": "Grodzisk Mazowiecki",
+                "g_pow": "grodziski",
+                "g_woj": "mazowieckie",
+                "g_szer": 20.61643191563454,
+                "g_dlug": 52.094867979509544,
+                "g_uuid": "ccf961a8-2fc5-43dd-aa20-af6325fb7c28",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.616430000001298,
+                    52.09487000001562
+                ]
+            }
+        }
+    ]
 }

@@ -1,9 +1,66 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1263",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 94, "JPT_KOD_JE": "1263", "JPT_NAZWA_": "powiat Tarnów", "id": 160, "wojewodztwo": "małopolskie", "miasto": "Tarnów", "powiat": "m. Tarnów", "adres": "Szpitalna 13", "miejscowosc": "Tarnów", "kod": "33-100", "nazwa": "SPECJALISTYCZNY SZPITAL IM. E.SZCZEKLIKA W TARNOWIE", "poziom": "I stopień", "www": "http:\/\/www.ssz.tar.pl", "telefon": "14 63 10 72", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 642840.6, 240798.2 ] } },
-{ "type": "Feature", "properties": { "_uid_": 95, "JPT_KOD_JE": "1263", "JPT_NAZWA_": "powiat Tarnów", "id": 171, "wojewodztwo": "małopolskie", "miasto": "Tarnów", "powiat": "m. Tarnów", "adres": "Lwowska 178A", "miejscowosc": "Tarnów", "kod": "33-100", "nazwa": "SZPITAL WOJEWÓDZKI IM. ŚW. ŁUKASZA SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W TARNOWIE", "poziom": "II stopień", "www": "http:\/\/www.lukasz.med.pl", "telefon": "146315678", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 645659.1, 240354.3 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1263",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 94,
+                "JPT_KOD_JE": "1263",
+                "JPT_NAZWA_": "powiat Tarnów",
+                "id": 160,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Tarnów",
+                "powiat": "m. Tarnów",
+                "adres": "Szpitalna 13",
+                "miejscowosc": "Tarnów",
+                "kod": "33-100",
+                "nazwa": "SPECJALISTYCZNY SZPITAL IM. E.SZCZEKLIKA W TARNOWIE",
+                "poziom": "I stopień",
+                "www": "http://www.ssz.tar.pl",
+                "telefon": "14 63 10 72",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9944977648244,
+                    50.017313248088875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 95,
+                "JPT_KOD_JE": "1263",
+                "JPT_NAZWA_": "powiat Tarnów",
+                "id": 171,
+                "wojewodztwo": "małopolskie",
+                "miasto": "Tarnów",
+                "powiat": "m. Tarnów",
+                "adres": "Lwowska 178A",
+                "miejscowosc": "Tarnów",
+                "kod": "33-100",
+                "nazwa": "SZPITAL WOJEWÓDZKI IM. ŚW. ŁUKASZA SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W TARNOWIE",
+                "poziom": "II stopień",
+                "www": "http://www.lukasz.med.pl",
+                "telefon": "146315678",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.03365824588619,
+                    50.012639233379375
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2476",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 559, "JPT_KOD_JE": "2476", "JPT_NAZWA_": "powiat Świętochłowice", "id": 528, "wojewodztwo": "śląskie", "miasto": "Świętochłowice", "powiat": "Świętochłowice", "adres": "Chorzowska 38", "miejscowosc": "Świętochłowice", "kod": null, "nazwa": "Zespół Opieki Zdrowotnej w Świętochłowicach Spółka z ograniczoną odpowiedzialnością", "poziom": "I stopień", "www": "http:\/\/www.zoz.net.pl", "telefon": "32 245 34 40", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 493969.0, 270984.3 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2476",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 559,
+                "JPT_KOD_JE": "2476",
+                "JPT_NAZWA_": "powiat Świętochłowice",
+                "id": 528,
+                "wojewodztwo": "śląskie",
+                "miasto": "Świętochłowice",
+                "powiat": "Świętochłowice",
+                "adres": "Chorzowska 38",
+                "miejscowosc": "Świętochłowice",
+                "kod": null,
+                "nazwa": "Zespół Opieki Zdrowotnej w Świętochłowicach Spółka z ograniczoną odpowiedzialnością",
+                "poziom": "I stopień",
+                "www": "http://www.zoz.net.pl",
+                "telefon": "32 245 34 40",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.915282806281542,
+                    50.305993262421964
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0224",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "0224", "JPT_NAZWA_": "powiat ząbkowicki", "id": 190, "ksiega": 391829, "id zoz": 481381, "id jednostki": "777373", "id komórki": 6836816, "regon": 93304094500037, "kod jednostki": "08", "kod komórki": 319, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny Oddział Ratunkowy", "teryt opis": "Ząbkowice Śląskie - miasto", "ulica": "ul. Bolesława Chrobrego", "budynek": "5", "lokal": "NULL", "kod": "57-200", "miejscowosc": "Ząbkowice Śląskie", "teryt": 224054, "kod simc": 984692, "kod ulicy": "01742", "lozka": 7, "liczba łóżek iom": 2, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2006-12-01" }, "geometry": { "type": "Point", "coordinates": [ 345528.74, 304549.1403 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0224",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "0224",
+                "JPT_NAZWA_": "powiat ząbkowicki",
+                "id": 190,
+                "ksiega": 391829,
+                "id zoz": 481381,
+                "id jednostki": "777373",
+                "id komórki": 6836816,
+                "regon": 93304094500037,
+                "kod jednostki": "08",
+                "kod komórki": 319,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny Oddział Ratunkowy",
+                "teryt opis": "Ząbkowice Śląskie - miasto",
+                "ulica": "ul. Bolesława Chrobrego",
+                "budynek": "5",
+                "lokal": "NULL",
+                "kod": "57-200",
+                "miejscowosc": "Ząbkowice Śląskie",
+                "teryt": 224054,
+                "kod simc": 984692,
+                "kod ulicy": "01742",
+                "lozka": 7,
+                "liczba łóżek iom": 2,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2006-12-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.817134865274003,
+                    50.58751934411338
+                ]
+            }
+        }
+    ]
 }

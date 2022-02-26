@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3004",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 89, "JPT_KOD_JE": "3004", "JPT_NAZWA_": "powiat gostyński", "id": "104#468", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150001253", "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Gostyniu", "miejscowosc": "  Gostyń ", "ulica": "Pl. K. Marcinkowskiego", "numer_domu": "8\/9", "adres_swiadczeniodawcy": "Pl. K. Marcinkowskiego 8\/9", "telefon": "65 322 68 41\r\n65 322 68 42", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 17.010737519886405, "g_dlug": 51.882717087791043, "g_uuid": "50f735bc-d989-4194-be76-557642432299", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 363127.243231028085575, 448138.727914499118924 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3004",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 89,
+                "JPT_KOD_JE": "3004",
+                "JPT_NAZWA_": "powiat gostyński",
+                "id": "104#468",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150001253",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Gostyniu",
+                "miejscowosc": "  Gostyń ",
+                "ulica": "Pl. K. Marcinkowskiego",
+                "numer_domu": "8/9",
+                "adres_swiadczeniodawcy": "Pl. K. Marcinkowskiego 8/9",
+                "telefon": "65 322 68 41\r\n65 322 68 42",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 17.010737519886405,
+                "g_dlug": 51.88271708779104,
+                "g_uuid": "50f735bc-d989-4194-be76-557642432299",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.01073999999719,
+                    51.88272000001528
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1409",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 356, "JPT_KOD_JE": "1409", "JPT_NAZWA_": "powiat lipski", "id": "104#197", "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ", "kod_swiadczeniodawcy": "70001794", "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej, Lipsko", "miejscowosc": "Lipsko", "ulica": "Jędrzeja Śniadeckiego ", "numer_domu": "2", "adres_swiadczeniodawcy": "Jędrzeja Śniadeckiego 2", "telefon": "48 378 35 38", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Śniadeckiego Jędrzeja", "g_miejsc": "Lipsko", "g_adr": "2", "g_teryt": "1409033", "g_gm": "Lipsko", "g_pow": "lipski", "g_woj": "mazowieckie", "g_szer": 21.657503023069669, "g_dlug": 51.160282370947122, "g_uuid": "95dbd8be-d87e-40f9-8b58-f62d23358784", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 685762.564843946020119, 369304.519931605085731 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1409",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 356,
+                "JPT_KOD_JE": "1409",
+                "JPT_NAZWA_": "powiat lipski",
+                "id": "104#197",
+                "krotka_nazwa_oddz_nfz": "MAZOWIECKI OW NFZ",
+                "kod_swiadczeniodawcy": "70001794",
+                "swiadczeniodawca": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej, Lipsko",
+                "miejscowosc": "Lipsko",
+                "ulica": "Jędrzeja Śniadeckiego ",
+                "numer_domu": "2",
+                "adres_swiadczeniodawcy": "Jędrzeja Śniadeckiego 2",
+                "telefon": "48 378 35 38",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Śniadeckiego Jędrzeja",
+                "g_miejsc": "Lipsko",
+                "g_adr": "2",
+                "g_teryt": "1409033",
+                "g_gm": "Lipsko",
+                "g_pow": "lipski",
+                "g_woj": "mazowieckie",
+                "g_szer": 21.65750302306967,
+                "g_dlug": 51.16028237094712,
+                "g_uuid": "95dbd8be-d87e-40f9-8b58-f62d23358784",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.657500000010796,
+                    51.16028000001425
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,54 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2213",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "JPT_KOD_JE": "2213", "JPT_NAZWA_": "powiat starogardzki", "id": 168, "ksiega": 391531, "id zoz": 480799, "id jednostki": "775836", "id komórki": 6816794, "regon": 22092667800027, "kod jednostki": "01", "kod komórki": 12, "specjalnosc": "Szpitalny oddział ratunkowy", "kodresortviii": 4902, "nazwa": "Szpitalny oddział ratunkowy", "teryt opis": "Starogard Gdański - gmina miejska", "ulica": "ul. dra Józefa Balewskiego", "budynek": "1", "lokal": "NULL", "kod": "83-200", "miejscowosc": "Starogard Gdański", "teryt": 2213031, "kod simc": 934837, "kod ulicy": "44852", "lozka": 12, "liczba łóżek iom": 0, "liczba łóżek ink": 0, "liczba łóżek now": 0, "liczba inkubatorów": 0, "liczba dializ": 0, "liczba łóżek": 0, "data rozpoczęcia działalności komórki": "2010-04-01" }, "geometry": { "type": "Point", "coordinates": [ 467721.2132, 678171.0217 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2213",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "JPT_KOD_JE": "2213",
+                "JPT_NAZWA_": "powiat starogardzki",
+                "id": 168,
+                "ksiega": 391531,
+                "id zoz": 480799,
+                "id jednostki": "775836",
+                "id komórki": 6816794,
+                "regon": 22092667800027,
+                "kod jednostki": "01",
+                "kod komórki": 12,
+                "specjalnosc": "Szpitalny oddział ratunkowy",
+                "kodresortviii": 4902,
+                "nazwa": "Szpitalny oddział ratunkowy",
+                "teryt opis": "Starogard Gdański - gmina miejska",
+                "ulica": "ul. dra Józefa Balewskiego",
+                "budynek": "1",
+                "lokal": "NULL",
+                "kod": "83-200",
+                "miejscowosc": "Starogard Gdański",
+                "teryt": 2213031,
+                "kod simc": 934837,
+                "kod ulicy": "44852",
+                "lozka": 12,
+                "liczba łóżek iom": 0,
+                "liczba łóżek ink": 0,
+                "liczba łóżek now": 0,
+                "liczba inkubatorów": 0,
+                "liczba dializ": 0,
+                "liczba łóżek": 0,
+                "data rozpoczęcia działalności komórki": "2010-04-01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.507805693229418,
+                    53.96703145673763
+                ]
+            }
+        }
+    ]
 }

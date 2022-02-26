@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2809",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 86, "JPT_KOD_JE": "2809", "JPT_NAZWA_": "powiat lidzbarski", "id": "104#452", "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ", "kod_swiadczeniodawcy": "140000540", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Lidzbarku Warmińskim", "miejscowosc": "Lidzbark Warmiński", "ulica": "Bartoszycka ", "numer_domu": "3", "adres_swiadczeniodawcy": "Bartoszycka 3", "telefon": "89 767 22 71 wew. 239", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Bartoszycka", "g_miejsc": "Lidzbark Warmiński", "g_adr": "3", "g_teryt": "2809011", "g_gm": "Lidzbark Warmiński", "g_pow": "lidzbarski", "g_woj": "warmińsko-mazurskie", "g_szer": 20.591133540674679, "g_dlug": 54.125881799264029, "g_uuid": "79bdffba-b227-4c5f-b5fa-e64e52ec1fe4", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 603947.550212609698065, 696896.971786830574274 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2809",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 86,
+                "JPT_KOD_JE": "2809",
+                "JPT_NAZWA_": "powiat lidzbarski",
+                "id": "104#452",
+                "krotka_nazwa_oddz_nfz": "WARMIŃSKO-MAZURSKI OW NFZ",
+                "kod_swiadczeniodawcy": "140000540",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Lidzbarku Warmińskim",
+                "miejscowosc": "Lidzbark Warmiński",
+                "ulica": "Bartoszycka ",
+                "numer_domu": "3",
+                "adres_swiadczeniodawcy": "Bartoszycka 3",
+                "telefon": "89 767 22 71 wew. 239",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Bartoszycka",
+                "g_miejsc": "Lidzbark Warmiński",
+                "g_adr": "3",
+                "g_teryt": "2809011",
+                "g_gm": "Lidzbark Warmiński",
+                "g_pow": "lidzbarski",
+                "g_woj": "warmińsko-mazurskie",
+                "g_szer": 20.59113354067468,
+                "g_dlug": 54.12588179926403,
+                "g_uuid": "79bdffba-b227-4c5f-b5fa-e64e52ec1fe4",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.591130000001264,
+                    54.12588000001896
+                ]
+            }
+        }
+    ]
 }

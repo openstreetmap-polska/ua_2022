@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3006",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 127, "JPT_KOD_JE": "3006", "JPT_NAZWA_": "powiat jarociński", "id": 398, "wojewodztwo": "wielkopolskie", "miasto": "JAROCIN ", "powiat": "JAROCIŃSKI ", "adres": "SZPITALNA 1 ", "miejscowosc": null, "kod": "63-200 ", "nazwa": "SZPITAL POWIATOWY W JAROCINIE ", "poziom": "I stopień", "www": "http:\/\/www.szpitaljarocin.pl\/ ", "telefon": "(062)33-22-183 ", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 397305.3, 456982.5 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3006",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 127,
+                "JPT_KOD_JE": "3006",
+                "JPT_NAZWA_": "powiat jarociński",
+                "id": 398,
+                "wojewodztwo": "wielkopolskie",
+                "miasto": "JAROCIN ",
+                "powiat": "JAROCIŃSKI ",
+                "adres": "SZPITALNA 1 ",
+                "miejscowosc": null,
+                "kod": "63-200 ",
+                "nazwa": "SZPITAL POWIATOWY W JAROCINIE ",
+                "poziom": "I stopień",
+                "www": "http://www.szpitaljarocin.pl/ ",
+                "telefon": "(062)33-22-183 ",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.504618448713703,
+                    51.96957963762842
+                ]
+            }
+        }
+    ]
 }

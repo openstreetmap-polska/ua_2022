@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1604",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 258, "JPT_KOD_JE": "1604", "JPT_NAZWA_": "powiat kluczborski", "id": "104#268", "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ", "kod_swiadczeniodawcy": "08R\/20356", "swiadczeniodawca": "Powiatowe Centrum Zdrowia S.A NZOZ Szpitala Powiatowego w Kluczborku ", "miejscowosc": "Kluczbork", "ulica": "Curie Skłodowskiej ", "numer_domu": "23", "adres_swiadczeniodawcy": "M.C. Skłodowskiej 23", "telefon": "077 418 25 29", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 0.9, "g_ilosc": 1, "g_ul": "Skłodowskiej-Curie", "g_miejsc": "Kluczbork", "g_adr": "23", "g_teryt": "1604023", "g_gm": "Kluczbork", "g_pow": "kluczborski", "g_woj": "opolskie", "g_szer": 18.217344686376993, "g_dlug": 50.967733303826833, "g_uuid": "324f0693-ebbb-4859-bddc-ffa4714caad0", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 445059.820738428388722, 344833.295812162570655 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1604",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 258,
+                "JPT_KOD_JE": "1604",
+                "JPT_NAZWA_": "powiat kluczborski",
+                "id": "104#268",
+                "krotka_nazwa_oddz_nfz": "OPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "08R/20356",
+                "swiadczeniodawca": "Powiatowe Centrum Zdrowia S.A NZOZ Szpitala Powiatowego w Kluczborku ",
+                "miejscowosc": "Kluczbork",
+                "ulica": "Curie Skłodowskiej ",
+                "numer_domu": "23",
+                "adres_swiadczeniodawcy": "M.C. Skłodowskiej 23",
+                "telefon": "077 418 25 29",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 0.9,
+                "g_ilosc": 1,
+                "g_ul": "Skłodowskiej-Curie",
+                "g_miejsc": "Kluczbork",
+                "g_adr": "23",
+                "g_teryt": "1604023",
+                "g_gm": "Kluczbork",
+                "g_pow": "kluczborski",
+                "g_woj": "opolskie",
+                "g_szer": 18.217344686376993,
+                "g_dlug": 50.96773330382683,
+                "g_uuid": "324f0693-ebbb-4859-bddc-ffa4714caad0",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.217339999999744,
+                    50.96773000001389
+                ]
+            }
+        }
+    ]
 }

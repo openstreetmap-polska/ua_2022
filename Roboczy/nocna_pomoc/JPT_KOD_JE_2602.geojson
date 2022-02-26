@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2602",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 295, "JPT_KOD_JE": "2602", "JPT_NAZWA_": "powiat jędrzejowski", "id": "104#424", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130002621", "swiadczeniodawca": "Artmedik Sp. z o.o. Jędrzejów", "miejscowosc": "Jędrzejów", "ulica": "Małogoska ", "numer_domu": "25", "adres_swiadczeniodawcy": "Małogoska 25", "telefon": "41 388 28 19", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 20.30213647872257, "g_dlug": 50.648589403833171, "g_uuid": "659302aa-7747-4006-a8b7-a6a6057c5ee2", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 592029.923422297695652, 309872.776953640393913 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2602",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 295,
+                "JPT_KOD_JE": "2602",
+                "JPT_NAZWA_": "powiat jędrzejowski",
+                "id": "104#424",
+                "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ",
+                "kod_swiadczeniodawcy": "130002621",
+                "swiadczeniodawca": "Artmedik Sp. z o.o. Jędrzejów",
+                "miejscowosc": "Jędrzejów",
+                "ulica": "Małogoska ",
+                "numer_domu": "25",
+                "adres_swiadczeniodawcy": "Małogoska 25",
+                "telefon": "41 388 28 19",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 20.30213647872257,
+                "g_dlug": 50.64858940383317,
+                "g_uuid": "659302aa-7747-4006-a8b7-a6a6057c5ee2",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.30214000000066,
+                    50.64859000001343
+                ]
+            }
+        }
+    ]
 }

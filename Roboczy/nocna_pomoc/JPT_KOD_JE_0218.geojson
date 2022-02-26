@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_0218",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 423, "JPT_KOD_JE": "0218", "JPT_NAZWA_": "powiat średzki", "id": "104#23", "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "3122074", "swiadczeniodawca": "Gemini-Med. Sp. z o. o.", "miejscowosc": "Środa Śląska", "ulica": "Kolejowa", "numer_domu": "16a", "adres_swiadczeniodawcy": "Kolejowa 16a", "telefon": "71 396 65 50", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Kolejowa", "g_miejsc": "Środa Śląska", "g_adr": "16A", "g_teryt": "0218043", "g_gm": "Środa Śląska", "g_pow": "średzki", "g_woj": "dolnośląskie", "g_szer": 16.593689294163852, "g_dlug": 51.166438318800232, "g_uuid": "5fbda393-83a6-4c0c-9a17-29a5288ac3f6", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 331816.028443423274439, 369384.544353142380714 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_0218",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 423,
+                "JPT_KOD_JE": "0218",
+                "JPT_NAZWA_": "powiat średzki",
+                "id": "104#23",
+                "krotka_nazwa_oddz_nfz": "DOLNOŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "3122074",
+                "swiadczeniodawca": "Gemini-Med. Sp. z o. o.",
+                "miejscowosc": "Środa Śląska",
+                "ulica": "Kolejowa",
+                "numer_domu": "16a",
+                "adres_swiadczeniodawcy": "Kolejowa 16a",
+                "telefon": "71 396 65 50",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Kolejowa",
+                "g_miejsc": "Środa Śląska",
+                "g_adr": "16A",
+                "g_teryt": "0218043",
+                "g_gm": "Środa Śląska",
+                "g_pow": "średzki",
+                "g_woj": "dolnośląskie",
+                "g_szer": 16.593689294163852,
+                "g_dlug": 51.16643831880023,
+                "g_uuid": "5fbda393-83a6-4c0c-9a17-29a5288ac3f6",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.59368999999323,
+                    51.16644000001423
+                ]
+            }
+        }
+    ]
 }

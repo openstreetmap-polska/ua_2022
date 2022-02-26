@@ -1,10 +1,129 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2462",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 174, "JPT_KOD_JE": "2462", "JPT_NAZWA_": "powiat Bytom", "id": "104#362", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/100375", "swiadczeniodawca": "Szpital Specjalistyczny nr 1 w Bytomiu", "miejscowosc": "Bytom", "ulica": "Żeromskiego ", "numer_domu": "7", "adres_swiadczeniodawcy": "Żeromskiego 7", "telefon": "32 396 33 44", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "pl.  Żeromskiego Stefana", "g_miejsc": "Bytom", "g_adr": "7", "g_teryt": "2462011", "g_gm": "Bytom", "g_pow": "Bytom", "g_woj": "śląskie", "g_szer": 18.879239973188756, "g_dlug": 50.388259877796123, "g_uuid": "ab9e68aa-4878-4948-88f9-0f3c380df693", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 491417.959763314633165, 280132.432863001711667 ] } },
-{ "type": "Feature", "properties": { "gid": 175, "JPT_KOD_JE": "2462", "JPT_NAZWA_": "powiat Bytom", "id": "104#363", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/100376", "swiadczeniodawca": "Szpital Specjalistyczny nr 2 w Bytomiu", "miejscowosc": "Bytom", "ulica": "Batorego ", "numer_domu": "15", "adres_swiadczeniodawcy": "Batorego 15", "telefon": "32 786 15 73; \r\n32 786 15 75; \r\n32 786 14 76-porady lekarskie udzielane telefonicznie", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Stefana Batorego", "g_miejsc": "Bytom", "g_adr": "15", "g_teryt": "2462011", "g_gm": "Bytom", "g_pow": "Bytom", "g_woj": "śląskie", "g_szer": 18.909776664554922, "g_dlug": 50.347740247482236, "g_uuid": "162c6a37-1d45-45c3-a016-7dcf6b99677d", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 493582.880608345614746, 275625.221802773885429 ] } },
-{ "type": "Feature", "properties": { "gid": 386, "JPT_KOD_JE": "2462", "JPT_NAZWA_": "powiat Bytom", "id": "104#364", "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ", "kod_swiadczeniodawcy": "121\/100463", "swiadczeniodawca": "SP ZOZ Wojewódzki Szpital Specjalistyczny nr 4 w Bytomiu", "miejscowosc": "Bytom", "ulica": "Legionów ", "numer_domu": "10", "adres_swiadczeniodawcy": "Legionów 10", "telefon": "32 396 44 30", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Aleja Legionów", "g_miejsc": "Bytom", "g_adr": "10", "g_teryt": "2462011", "g_gm": "Bytom", "g_pow": "Bytom", "g_woj": "śląskie", "g_szer": 18.912465949634399, "g_dlug": 50.354491749795663, "g_uuid": "f43edeeb-bd8e-4842-a277-8d0cf34ab6e6", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 493775.096022523357533, 276375.309357361868024 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2462",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 174,
+                "JPT_KOD_JE": "2462",
+                "JPT_NAZWA_": "powiat Bytom",
+                "id": "104#362",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/100375",
+                "swiadczeniodawca": "Szpital Specjalistyczny nr 1 w Bytomiu",
+                "miejscowosc": "Bytom",
+                "ulica": "Żeromskiego ",
+                "numer_domu": "7",
+                "adres_swiadczeniodawcy": "Żeromskiego 7",
+                "telefon": "32 396 33 44",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "pl.  Żeromskiego Stefana",
+                "g_miejsc": "Bytom",
+                "g_adr": "7",
+                "g_teryt": "2462011",
+                "g_gm": "Bytom",
+                "g_pow": "Bytom",
+                "g_woj": "śląskie",
+                "g_szer": 18.879239973188756,
+                "g_dlug": 50.38825987779612,
+                "g_uuid": "ab9e68aa-4878-4948-88f9-0f3c380df693",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.879239999999967,
+                    50.388260000013055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 175,
+                "JPT_KOD_JE": "2462",
+                "JPT_NAZWA_": "powiat Bytom",
+                "id": "104#363",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/100376",
+                "swiadczeniodawca": "Szpital Specjalistyczny nr 2 w Bytomiu",
+                "miejscowosc": "Bytom",
+                "ulica": "Batorego ",
+                "numer_domu": "15",
+                "adres_swiadczeniodawcy": "Batorego 15",
+                "telefon": "32 786 15 73; \r\n32 786 15 75; \r\n32 786 14 76-porady lekarskie udzielane telefonicznie",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Stefana Batorego",
+                "g_miejsc": "Bytom",
+                "g_adr": "15",
+                "g_teryt": "2462011",
+                "g_gm": "Bytom",
+                "g_pow": "Bytom",
+                "g_woj": "śląskie",
+                "g_szer": 18.909776664554922,
+                "g_dlug": 50.347740247482236,
+                "g_uuid": "162c6a37-1d45-45c3-a016-7dcf6b99677d",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.909779999999976,
+                    50.347740000013005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 386,
+                "JPT_KOD_JE": "2462",
+                "JPT_NAZWA_": "powiat Bytom",
+                "id": "104#364",
+                "krotka_nazwa_oddz_nfz": "ŚLĄSKI OW NFZ",
+                "kod_swiadczeniodawcy": "121/100463",
+                "swiadczeniodawca": "SP ZOZ Wojewódzki Szpital Specjalistyczny nr 4 w Bytomiu",
+                "miejscowosc": "Bytom",
+                "ulica": "Legionów ",
+                "numer_domu": "10",
+                "adres_swiadczeniodawcy": "Legionów 10",
+                "telefon": "32 396 44 30",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Aleja Legionów",
+                "g_miejsc": "Bytom",
+                "g_adr": "10",
+                "g_teryt": "2462011",
+                "g_gm": "Bytom",
+                "g_pow": "Bytom",
+                "g_woj": "śląskie",
+                "g_szer": 18.9124659496344,
+                "g_dlug": 50.35449174979566,
+                "g_uuid": "f43edeeb-bd8e-4842-a277-8d0cf34ab6e6",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.912469999999978,
+                    50.354490000013
+                ]
+            }
+        }
+    ]
 }

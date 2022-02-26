@@ -1,9 +1,90 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1219",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 36, "JPT_KOD_JE": "1219", "JPT_NAZWA_": "powiat wielicki", "id": "104#166", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/200283", "swiadczeniodawca": "Niepołomickie Centrum Medyczne sp. z o.o.", "miejscowosc": "Niepołomice", "ulica": " Korczaka ", "numer_domu": "1", "adres_swiadczeniodawcy": " Korczaka 1", "telefon": "12 281 10 05", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Janusza Korczaka", "g_miejsc": "Niepołomice", "g_adr": "1", "g_teryt": "1219043", "g_gm": "Niepołomice", "g_pow": "wielicki", "g_woj": "małopolskie", "g_szer": 20.221097899148052, "g_dlug": 50.029738013187377, "g_uuid": "ce1def57-59cf-49f1-911c-a55c87c59359", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 587431.272310552187264, 240988.160286187194288 ] } },
-{ "type": "Feature", "properties": { "gid": 347, "JPT_KOD_JE": "1219", "JPT_NAZWA_": "powiat wielicki", "id": "104#140", "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "061\/200796", "swiadczeniodawca": "OPC Spółka z o.o. sp. k.", "miejscowosc": "Gdów ", "ulica": "Gdów ", "numer_domu": "402", "adres_swiadczeniodawcy": "Gdów 402", "telefon": "Gdów: 12 346 24 05; (Wieliczka: 12 385 80 40)", "dodatkowe_miejsce": " Grottgera 30; Wieliczka", "dodatkowe_informacje": null, "g_traf": 1.0, "g_ilosc": 1, "g_ul": "", "g_miejsc": "", "g_adr": "", "g_teryt": "", "g_gm": "", "g_pow": "", "g_woj": "", "g_szer": 20.197693721961905, "g_dlug": 49.904870914963922, "g_uuid": "8fbfdcfb-183a-45b5-baa3-40304c2ecbfc", "g_edycja": 1 }, "geometry": { "type": "Point", "coordinates": [ 585977.318903536186554, 227082.190052762627602 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1219",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 36,
+                "JPT_KOD_JE": "1219",
+                "JPT_NAZWA_": "powiat wielicki",
+                "id": "104#166",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/200283",
+                "swiadczeniodawca": "Niepołomickie Centrum Medyczne sp. z o.o.",
+                "miejscowosc": "Niepołomice",
+                "ulica": " Korczaka ",
+                "numer_domu": "1",
+                "adres_swiadczeniodawcy": " Korczaka 1",
+                "telefon": "12 281 10 05",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Janusza Korczaka",
+                "g_miejsc": "Niepołomice",
+                "g_adr": "1",
+                "g_teryt": "1219043",
+                "g_gm": "Niepołomice",
+                "g_pow": "wielicki",
+                "g_woj": "małopolskie",
+                "g_szer": 20.221097899148052,
+                "g_dlug": 50.02973801318738,
+                "g_uuid": "ce1def57-59cf-49f1-911c-a55c87c59359",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.221100000000536,
+                    50.029740000012545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 347,
+                "JPT_KOD_JE": "1219",
+                "JPT_NAZWA_": "powiat wielicki",
+                "id": "104#140",
+                "krotka_nazwa_oddz_nfz": "MAŁOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "061/200796",
+                "swiadczeniodawca": "OPC Spółka z o.o. sp. k.",
+                "miejscowosc": "Gdów ",
+                "ulica": "Gdów ",
+                "numer_domu": "402",
+                "adres_swiadczeniodawcy": "Gdów 402",
+                "telefon": "Gdów: 12 346 24 05; (Wieliczka: 12 385 80 40)",
+                "dodatkowe_miejsce": " Grottgera 30; Wieliczka",
+                "dodatkowe_informacje": null,
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "",
+                "g_miejsc": "",
+                "g_adr": "",
+                "g_teryt": "",
+                "g_gm": "",
+                "g_pow": "",
+                "g_woj": "",
+                "g_szer": 20.197693721961905,
+                "g_dlug": 49.90487091496392,
+                "g_uuid": "8fbfdcfb-183a-45b5-baa3-40304c2ecbfc",
+                "g_edycja": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.19769000000051,
+                    49.90487000001238
+                ]
+            }
+        }
+    ]
 }

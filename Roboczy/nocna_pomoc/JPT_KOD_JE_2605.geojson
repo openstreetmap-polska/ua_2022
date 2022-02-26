@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_2605",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 397, "JPT_KOD_JE": "2605", "JPT_NAZWA_": "powiat konecki", "id": "104#429", "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ", "kod_swiadczeniodawcy": "130000188", "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Końskich", "miejscowosc": "Końskie", "ulica": "Gimnazjalna", "numer_domu": "41b", "adres_swiadczeniodawcy": "Gimnazjalna 41b", "telefon": "41 390 24 00", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Gimnazjalna", "g_miejsc": "Końskie", "g_adr": "41b", "g_teryt": "2605033", "g_gm": "Końskie", "g_pow": "konecki", "g_woj": "świętokrzyskie", "g_szer": 20.391652641642924, "g_dlug": 51.190851805240833, "g_uuid": "133a2036-7f04-4772-8504-cc72b4356ea3", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 597219.138364560203627, 370266.587423281744123 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_2605",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 397,
+                "JPT_KOD_JE": "2605",
+                "JPT_NAZWA_": "powiat konecki",
+                "id": "104#429",
+                "krotka_nazwa_oddz_nfz": "ŚWIĘTOKRZYSKI OW NFZ",
+                "kod_swiadczeniodawcy": "130000188",
+                "swiadczeniodawca": "Zespół Opieki Zdrowotnej w Końskich",
+                "miejscowosc": "Końskie",
+                "ulica": "Gimnazjalna",
+                "numer_domu": "41b",
+                "adres_swiadczeniodawcy": "Gimnazjalna 41b",
+                "telefon": "41 390 24 00",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Gimnazjalna",
+                "g_miejsc": "Końskie",
+                "g_adr": "41b",
+                "g_teryt": "2605033",
+                "g_gm": "Końskie",
+                "g_pow": "konecki",
+                "g_woj": "świętokrzyskie",
+                "g_szer": 20.391652641642924,
+                "g_dlug": 51.19085180524083,
+                "g_uuid": "133a2036-7f04-4772-8504-cc72b4356ea3",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.39165000000081,
+                    51.19085000001422
+                ]
+            }
+        }
+    ]
 }

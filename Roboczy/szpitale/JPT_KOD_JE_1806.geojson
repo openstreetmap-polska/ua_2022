@@ -1,8 +1,39 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_1806",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "_uid_": 360, "JPT_KOD_JE": "1806", "JPT_NAZWA_": "powiat kolbuszowski", "id": 295, "wojewodztwo": "podkarpackie", "miasto": "Kolbuszowa", "powiat": "kolbuszowski ", "adres": "Grunwaldzka 4", "miejscowosc": "Kolbuszowa", "kod": "36-100 ", "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W KOLBUSZOWEJ", "poziom": "I stopień", "www": "http:\/\/szpital.kolbuszowa.pl", "telefon": "17 22 71 222", "e-mail": null }, "geometry": { "type": "Point", "coordinates": [ 696908.4, 267580.2 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_1806",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_uid_": 360,
+                "JPT_KOD_JE": "1806",
+                "JPT_NAZWA_": "powiat kolbuszowski",
+                "id": 295,
+                "wojewodztwo": "podkarpackie",
+                "miasto": "Kolbuszowa",
+                "powiat": "kolbuszowski ",
+                "adres": "Grunwaldzka 4",
+                "miejscowosc": "Kolbuszowa",
+                "kod": "36-100 ",
+                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W KOLBUSZOWEJ",
+                "poziom": "I stopień",
+                "www": "http://szpital.kolbuszowa.pl",
+                "telefon": "17 22 71 222",
+                "e-mail": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.762484810752458,
+                    50.242558424103564
+                ]
+            }
+        }
+    ]
 }

@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3218",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 534, "JPT_KOD_JE": "3218", "JPT_NAZWA_": "powiat łobeski", "id": "104#521", "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ", "kod_swiadczeniodawcy": "160000726", "swiadczeniodawca": "SP Zespół Zakładów Opieki Zdrowotnej w Gryficach", "miejscowosc": "Łobez", "ulica": " Sikorskiego ", "numer_domu": "6", "adres_swiadczeniodawcy": " Sikorskiego 6", "telefon": "91 573 25 12", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Sikorskiego", "g_miejsc": "Łobez", "g_adr": "6", "g_teryt": "3218023", "g_gm": "Łobez", "g_pow": "łobeski", "g_woj": "zachodniopomorskie", "g_szer": 15.613405058912205, "g_dlug": 53.631713292887206, "g_uuid": "ba8c63bc-7ddd-49bb-9f28-cbdf37b3faa5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 276161.654227899911348, 646092.702081856317818 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3218",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 534,
+                "JPT_KOD_JE": "3218",
+                "JPT_NAZWA_": "powiat łobeski",
+                "id": "104#521",
+                "krotka_nazwa_oddz_nfz": "ZACHODNIOPOMORSKI OW NFZ",
+                "kod_swiadczeniodawcy": "160000726",
+                "swiadczeniodawca": "SP Zespół Zakładów Opieki Zdrowotnej w Gryficach",
+                "miejscowosc": "Łobez",
+                "ulica": " Sikorskiego ",
+                "numer_domu": "6",
+                "adres_swiadczeniodawcy": " Sikorskiego 6",
+                "telefon": "91 573 25 12",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Sikorskiego",
+                "g_miejsc": "Łobez",
+                "g_adr": "6",
+                "g_teryt": "3218023",
+                "g_gm": "Łobez",
+                "g_pow": "łobeski",
+                "g_woj": "zachodniopomorskie",
+                "g_szer": 15.613405058912205,
+                "g_dlug": 53.631713292887206,
+                "g_uuid": "ba8c63bc-7ddd-49bb-9f28-cbdf37b3faa5",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.613409999974607,
+                    53.631710000018515
+                ]
+            }
+        }
+    ]
 }

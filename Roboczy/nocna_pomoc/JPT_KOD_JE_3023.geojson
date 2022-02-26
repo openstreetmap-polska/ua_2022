@@ -1,8 +1,51 @@
 {
-"type": "FeatureCollection",
-"name": "JPT_KOD_JE_3023",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
-"features": [
-{ "type": "Feature", "properties": { "gid": 90, "JPT_KOD_JE": "3023", "JPT_NAZWA_": "powiat słupecki", "id": "104#469", "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ", "kod_swiadczeniodawcy": "150000013", "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Słupcy", "miejscowosc": " Słupca ", "ulica": "Traugutta ", "numer_domu": "7", "adres_swiadczeniodawcy": "Traugutta 7", "telefon": "63 241 00 80", "dodatkowe_miejsce": "-", "dodatkowe_informacje": "-", "g_traf": 1.0, "g_ilosc": 1, "g_ul": "Romualda Traugutta", "g_miejsc": "Słupca", "g_adr": "7", "g_teryt": "3023011", "g_gm": "Słupca", "g_pow": "słupecki", "g_woj": "wielkopolskie", "g_szer": 17.873387920725779, "g_dlug": 52.291150240620986, "g_uuid": "45311d43-f52e-428f-983a-e7ad9a351ba5", "g_edycja": null }, "geometry": { "type": "Point", "coordinates": [ 423184.676549710100517, 492280.330439828336239 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "JPT_KOD_JE_3023",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "gid": 90,
+                "JPT_KOD_JE": "3023",
+                "JPT_NAZWA_": "powiat słupecki",
+                "id": "104#469",
+                "krotka_nazwa_oddz_nfz": "WIELKOPOLSKI OW NFZ",
+                "kod_swiadczeniodawcy": "150000013",
+                "swiadczeniodawca": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Słupcy",
+                "miejscowosc": " Słupca ",
+                "ulica": "Traugutta ",
+                "numer_domu": "7",
+                "adres_swiadczeniodawcy": "Traugutta 7",
+                "telefon": "63 241 00 80",
+                "dodatkowe_miejsce": "-",
+                "dodatkowe_informacje": "-",
+                "g_traf": 1.0,
+                "g_ilosc": 1,
+                "g_ul": "Romualda Traugutta",
+                "g_miejsc": "Słupca",
+                "g_adr": "7",
+                "g_teryt": "3023011",
+                "g_gm": "Słupca",
+                "g_pow": "słupecki",
+                "g_woj": "wielkopolskie",
+                "g_szer": 17.87338792072578,
+                "g_dlug": 52.291150240620986,
+                "g_uuid": "45311d43-f52e-428f-983a-e7ad9a351ba5",
+                "g_edycja": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.87338999999948,
+                    52.29115000001594
+                ]
+            }
+        }
+    ]
 }
