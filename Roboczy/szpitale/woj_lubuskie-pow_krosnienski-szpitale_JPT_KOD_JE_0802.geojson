@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 527,
-                "JPT_KOD_JE": "0802",
-                "JPT_NAZWA_": "powiat krośnieński",
-                "id": 90,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Krosno Odrzańskie",
-                "powiat": "krośnieński",
-                "adres": "Piastów 3",
-                "miejscowosc": "Krosno Odrzańskie",
-                "kod": "66-600",
-                "nazwa": "Zachodnie Centrum Medyczne Spółka z ograniczoną odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalzcm.pl",
-                "telefon": "68 419 83 91",
-                "e-mail": "pomoc@szpitalzcm.pl"
+                "name": "Zachodnie Centrum Medyczne Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpitalzcm.pl",
+                "phone": "68 419 83 91",
+                "email": "pomoc@szpitalzcm.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

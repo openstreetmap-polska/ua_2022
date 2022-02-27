@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 515,
-                "JPT_KOD_JE": "3204",
-                "JPT_NAZWA_": "powiat goleniowski",
-                "id": 336,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Nowogard ",
-                "powiat": "nowogardzki ",
-                "adres": "Wojska Polskiego 7 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Szpital Rejonowy w Nowogardzie ",
-                "poziom": "I stopień",
-                "www": "http://www.szpital.nowogard.pl/ ",
-                "telefon": "91 392 13 56, 91 39 21 877 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Szpital Rejonowy W Nowogardzie",
+                "website": "http://www.szpital.nowogard.pl/ ",
+                "phone": "91 392 13 56, 91 39 21 877 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 516,
-                "JPT_KOD_JE": "3204",
-                "JPT_NAZWA_": "powiat goleniowski",
-                "id": 327,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Goleniów ",
-                "powiat": "goleniowski ",
-                "adres": "Nowogardzka 2 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpitalne Centrum Medyczne w Goleniowie Spółka z Ograniczoną Odpowiedzialnością ",
-                "poziom": "I stopień",
-                "www": "http://szpitalgoleniow.pl/ ",
-                "telefon": "91 466 43 00 ",
-                "e-mail": null
+                "name": "Szpitalne Centrum Medyczne W Goleniowie Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://szpitalgoleniow.pl/ ",
+                "phone": "91 466 43 00 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

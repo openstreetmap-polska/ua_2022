@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 411,
-                "JPT_KOD_JE": "1408",
-                "JPT_NAZWA_": "powiat legionowski",
-                "id": 257,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WIELISZEW",
-                "powiat": "LEGIONOWSKI",
-                "adres": "KOŚCIELNA 61",
-                "miejscowosc": "WIELISZEW ",
-                "kod": null,
-                "nazwa": "KRAJOWA FUNDACJA MEDYCZNA",
-                "poziom": "Szpital onkologiczny lub pulmonologiczny",
-                "www": "http://www.szpitalonkologiczny.pl",
-                "telefon": "22 76 61 500",
-                "e-mail": "przychodnia@szpitalonkologiczny.pl"
+                "name": "Krajowa Fundacja Medyczna",
+                "website": "http://www.szpitalonkologiczny.pl",
+                "phone": "22 76 61 500",
+                "email": "przychodnia@szpitalonkologiczny.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

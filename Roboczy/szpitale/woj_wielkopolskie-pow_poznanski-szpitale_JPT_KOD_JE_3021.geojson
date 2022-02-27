@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 526,
-                "JPT_KOD_JE": "3021",
-                "JPT_NAZWA_": "powiat poznański",
-                "id": 392,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "PUSZCZYKOWO ",
-                "powiat": "POZNAŃSKI ",
-                "adres": "KRASZEWSKIEGO 11 ",
-                "miejscowosc": null,
-                "kod": "62-041 ",
-                "nazwa": "SZPITAL W PUSZCZYKOWIE IM. PROF. S.T. DĄBROWSKIEGO SPÓŁKA AKCYJNA ",
-                "poziom": "II stopień ",
-                "www": "http://szpitalwpuszczykowie.com.pl/ ",
-                "telefon": "(061)89-84-000 ",
-                "e-mail": null
+                "name": "Szpital W Puszczykowie Im. Prof. S.T. Dąbrowskiego Spółka Akcyjna",
+                "website": "http://szpitalwpuszczykowie.com.pl/ ",
+                "phone": "(061)89-84-000 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

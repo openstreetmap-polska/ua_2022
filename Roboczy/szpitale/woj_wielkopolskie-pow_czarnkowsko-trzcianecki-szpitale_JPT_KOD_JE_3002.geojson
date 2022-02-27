@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 369,
-                "JPT_KOD_JE": "3002",
-                "JPT_NAZWA_": "powiat czarnkowsko-trzcianecki",
-                "id": 353,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "CZARNKÓW ",
-                "powiat": "CZARNKOWSKO-TRZCIANECKI ",
-                "adres": "KOŚCIUSZKI 96 ",
-                "miejscowosc": null,
-                "kod": "64-700 ",
-                "nazwa": "ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ ",
-                "poziom": "I stopień",
-                "www": "http://www.zzozczarnkow.x.pl/ ",
-                "telefon": "(067)35-28-170 ",
-                "e-mail": null
+                "name": "Zespół Zakładów Opieki Zdrowotnej",
+                "website": "http://www.zzozczarnkow.x.pl/ ",
+                "phone": "(067)35-28-170 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 370,
-                "JPT_KOD_JE": "3002",
-                "JPT_NAZWA_": "powiat czarnkowsko-trzcianecki",
-                "id": 354,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "TRZCIANKA ",
-                "powiat": "CZARNKOWSKO-TRZCIANECKI ",
-                "adres": "GEN. WŁADYSŁAWA SIKORSKIEGO 9 ",
-                "miejscowosc": null,
-                "kod": "64-980 ",
-                "nazwa": "SZPITAL POWIATOWY IM. JANA PAWŁA II W TRZCIANCE ",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-trzcianka.pl/ ",
-                "telefon": "(067)35-23-100 ",
-                "e-mail": null
+                "name": "Szpital Powiatowy Im. Jana Pawła Ii W Trzciance",
+                "website": "http://www.szpital-trzcianka.pl/ ",
+                "phone": "(067)35-23-100 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

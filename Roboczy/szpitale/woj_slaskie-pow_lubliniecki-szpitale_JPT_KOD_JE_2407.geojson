@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 163,
-                "JPT_KOD_JE": "2407",
-                "JPT_NAZWA_": "powiat lubliniecki",
-                "id": 508,
-                "wojewodztwo": "śląskie",
-                "miasto": "lubliniecki",
-                "powiat": "Lubliniec",
-                "adres": "Sobieskiego 9",
-                "miejscowosc": "Lubliniec",
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Lublińcu",
-                "poziom": "I stopień",
-                "www": "http://www.spzozlubliniec.pl",
-                "telefon": "34 350 63 80",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej W Lublińcu",
+                "website": "http://www.spzozlubliniec.pl",
+                "phone": "34 350 63 80",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

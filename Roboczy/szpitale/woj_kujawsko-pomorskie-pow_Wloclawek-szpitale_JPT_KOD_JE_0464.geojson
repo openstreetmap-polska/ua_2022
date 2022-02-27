@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 282,
-                "JPT_KOD_JE": "0464",
-                "JPT_NAZWA_": "powiat Włocławek",
-                "id": 51,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Włocławek",
-                "powiat": "Włocławek",
-                "adres": "Wieniecka 49",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Wojewódzki Szpital Specjalistyczny we Włocławku",
-                "poziom": "III stopień",
-                "www": "http://www.szpital.wloclawek.pl",
-                "telefon": "54 412 90 00",
-                "e-mail": null
+                "name": "Wojewódzki Szpital Specjalistyczny We Włocławku",
+                "website": "http://www.szpital.wloclawek.pl",
+                "phone": "54 412 90 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

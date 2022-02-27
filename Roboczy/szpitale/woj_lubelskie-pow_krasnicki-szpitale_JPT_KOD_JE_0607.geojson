@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 213,
-                "JPT_KOD_JE": "0607",
-                "JPT_NAZWA_": "powiat kraśnicki",
-                "id": 63,
-                "wojewodztwo": "lubelskie",
-                "miasto": "KRAŚNIK",
-                "powiat": "KRAŚNICKI",
-                "adres": "CHOPINA 13",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W KRAŚNIKU",
-                "poziom": "II stopień ",
-                "www": "http://www.spzoz.krasnik.pl",
-                "telefon": "81 825 13 66",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Kraśniku",
+                "website": "http://www.spzoz.krasnik.pl",
+                "phone": "81 825 13 66",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

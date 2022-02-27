@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 546,
-                "JPT_KOD_JE": "1603",
-                "JPT_NAZWA_": "powiat kędzierzyńsko-kozielski",
-                "id": 272,
-                "wojewodztwo": "opolskie",
-                "miasto": "Kędzierzyn-Koźle",
-                "powiat": "kędzierzyńsko - kozielski",
-                "adres": "Roosevelta 2",
-                "miejscowosc": "Kędzierzyn-Koźle",
-                "kod": "47-200 ",
-                "nazwa": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Kędzierzynie-Koźlu",
-                "poziom": "II stopień",
-                "www": "http://www.e-szpital.eu",
-                "telefon": "77 406 25 00",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej W Kędzierzynie-Koźlu",
+                "website": "http://www.e-szpital.eu",
+                "phone": "77 406 25 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

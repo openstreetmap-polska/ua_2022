@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 194,
-                "JPT_KOD_JE": "3205",
-                "JPT_NAZWA_": "powiat gryficki",
-                "id": 328,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Gryfice ",
-                "powiat": "gryficki ",
-                "adres": "Niechorska 27 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej w Gryficach ",
-                "poziom": "II stopień ",
-                "www": "http://www.medicam.pl/index.php/pl/ ",
-                "telefon": "91 384 20 61 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej W Gryficach",
+                "website": "http://www.medicam.pl/index.php/pl/ ",
+                "phone": "91 384 20 61 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

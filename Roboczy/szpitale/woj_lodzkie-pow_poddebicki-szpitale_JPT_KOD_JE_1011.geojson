@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 543,
-                "JPT_KOD_JE": "1011",
-                "JPT_NAZWA_": "powiat poddębicki",
-                "id": 139,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Poddębice",
-                "powiat": "poddębicki",
-                "adres": "Mickiewicza 16",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Poddębickie Centrum Zdrowia",
-                "poziom": "I stopień",
-                "www": "http://www.nzozpcz.pl",
-                "telefon": "43 828 82 50",
-                "e-mail": "sekretariataa@nzozpcz.pl"
+                "name": "Poddębickie Centrum Zdrowia",
+                "website": "http://www.nzozpcz.pl",
+                "phone": "43 828 82 50",
+                "email": "sekretariataa@nzozpcz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

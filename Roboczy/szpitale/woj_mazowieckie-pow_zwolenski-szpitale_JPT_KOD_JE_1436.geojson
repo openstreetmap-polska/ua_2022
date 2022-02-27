@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 219,
-                "JPT_KOD_JE": "1436",
-                "JPT_NAZWA_": "powiat zwoleński",
-                "id": 215,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "ZWOLEŃ",
-                "powiat": "ZWOLEŃSKI",
-                "adres": "W.JAGIEŁŁY 12",
-                "miejscowosc": "ZWOLEŃ ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W ZWOLENIU",
-                "poziom": "I stopień",
-                "www": "http://www.zoz.zwolen.net",
-                "telefon": "48 676 25 74, 48 676 20 37",
-                "e-mail": "1400069@zoz.org.pl"
+                "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej W Zwoleniu",
+                "website": "http://www.zoz.zwolen.net",
+                "phone": "48 676 25 74, 48 676 20 37",
+                "email": "1400069@zoz.org.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

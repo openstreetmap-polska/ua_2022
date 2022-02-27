@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 182,
-                "JPT_KOD_JE": "0862",
-                "JPT_NAZWA_": "powiat Zielona Góra",
-                "id": 109,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Zielona Góra",
-                "powiat": "Zielona Góra",
-                "adres": "Wazów 42",
-                "miejscowosc": "Zielona Góra",
-                "kod": "65-044",
-                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji w Zielonej Górze",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.poliklinika.zgora.pl",
-                "telefon": "68 452 77 78 ",
-                "e-mail": "dyrektor@poliklinika.zgora.pl"
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych I Administracji W Zielonej Górze",
+                "website": "http://www.poliklinika.zgora.pl",
+                "phone": "68 452 77 78 ",
+                "email": "dyrektor@poliklinika.zgora.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 183,
-                "JPT_KOD_JE": "0862",
-                "JPT_NAZWA_": "powiat Zielona Góra",
-                "id": 104,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Zielona Góra",
-                "powiat": "Zielona Góra",
-                "adres": "Zyty 26",
-                "miejscowosc": "Zielona Góra",
-                "kod": "65-046",
-                "nazwa": "Wojewódzki Szpital Kliniczny im. Karola Marcinkowskiego w Zielonej Górze spółka z ograniczoną odpowiedzialnością",
-                "poziom": "III stopień",
-                "www": "http://www.szpital.zgora.pl",
-                "telefon": "68 329 62 00",
-                "e-mail": "sekretariat@szpital.zgora.pl"
+                "name": "Wojewódzki Szpital Kliniczny Im. Karola Marcinkowskiego W Zielonej Górze Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpital.zgora.pl",
+                "phone": "68 329 62 00",
+                "email": "sekretariat@szpital.zgora.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 352,
-                "JPT_KOD_JE": "1820",
-                "JPT_NAZWA_": "powiat tarnobrzeski",
-                "id": 301,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Nowa Dęba",
-                "powiat": "tarnobrzeski ",
-                "adres": "Marii Skłodowskiej-Curie 1A",
-                "miejscowosc": "Nowa Dęba",
-                "kod": "39-460 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W NOWEJ DĘBIE",
-                "poziom": "I stopień",
-                "www": "http://zoznowadeba.pl",
-                "telefon": "(015)846 26 51",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej W Nowej Dębie",
+                "website": "http://zoznowadeba.pl",
+                "phone": "(015)846 26 51",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

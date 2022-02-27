@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 190,
-                "JPT_KOD_JE": "0602",
-                "JPT_NAZWA_": "powiat biłgorajski",
-                "id": 56,
-                "wojewodztwo": "lubelskie",
-                "miasto": "BIŁGORAJ",
-                "powiat": "BIŁGORAJSKI",
-                "adres": "POJASKA 5",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "ARION SZPITALE SP. Z O.O.",
-                "poziom": "I stopień",
-                "www": "http://www.arion-szpitale.pl",
-                "telefon": "84 688 22 00, 81 506 51 04",
-                "e-mail": null
+                "name": "Arion Szpitale Sp. Z O.O.",
+                "website": "http://www.arion-szpitale.pl",
+                "phone": "84 688 22 00, 81 506 51 04",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

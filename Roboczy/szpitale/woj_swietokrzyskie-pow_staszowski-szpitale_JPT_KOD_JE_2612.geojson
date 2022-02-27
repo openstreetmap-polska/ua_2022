@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 367,
-                "JPT_KOD_JE": "2612",
-                "JPT_NAZWA_": "powiat staszowski",
-                "id": 452,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "STASZÓW",
-                "powiat": "STASZOWSKI",
-                "adres": "11 LISTOPADA 78",
-                "miejscowosc": "STASZÓW",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W STASZOWIE",
-                "poziom": "II stopień",
-                "www": "http://szpitalstaszow.pl",
-                "telefon": "15 864 85 39",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej W Staszowie",
+                "website": "http://szpitalstaszow.pl",
+                "phone": "15 864 85 39",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

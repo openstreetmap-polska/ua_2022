@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 358,
-                "JPT_KOD_JE": "0617",
-                "JPT_NAZWA_": "powiat świdnicki",
-                "id": 85,
-                "wojewodztwo": "lubelskie",
-                "miasto": "ŚWIDNIK",
-                "powiat": "ŚWIDNICKI",
-                "adres": "ALEJA LOTNIKÓW POLSKICH 18",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W ŚWIDNIKU",
-                "poziom": "I stopień",
-                "www": "http://www.spzozswidnik.pl",
-                "telefon": "81 751 42 15",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Świdniku",
+                "website": "http://www.spzozswidnik.pl",
+                "phone": "81 751 42 15",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 343,
-                "JPT_KOD_JE": "2807",
-                "JPT_NAZWA_": "powiat iławski",
-                "id": 414,
-                "wojewodztwo": "warmińsko-mazurskie",
-                "miasto": "Iława",
-                "powiat": "Iławski",
-                "adres": "Gen.Wł.Andersa 3",
-                "miejscowosc": "Iława",
-                "kod": "14-200",
-                "nazwa": "Powiatowy Szpital im.Władysława Biegańskiego w Iławie",
-                "poziom": "I stopień",
-                "www": "http://www.szpital.ilawa.pl",
-                "telefon": "89 644 96 00 ",
-                "e-mail": null
+                "name": "Powiatowy Szpital Im.Władysława Biegańskiego W Iławie",
+                "website": "http://www.szpital.ilawa.pl",
+                "phone": "89 644 96 00 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

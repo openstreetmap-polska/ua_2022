@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 253,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 111,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "św. Teresy od Dzieciątka Jezus 8",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Instytut Medycyny Pracy im. Prof. Dr med. J. Nofera",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.imp.lodz.pl",
-                "telefon": "42 631 45 02",
-                "e-mail": "impx@imp.lodz.pl"
+                "name": "Instytut Medycyny Pracy Im. Prof. Dr Med. J. Nofera",
+                "website": "http://www.imp.lodz.pl",
+                "phone": "42 631 45 02",
+                "email": "impx@imp.lodz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 254,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 112,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "Pomorska 251",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SP ZOZ CSK UM w Łodzi",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.csk.umed.pl",
-                "telefon": "42 617 77 77, 42 675 75 00 ",
-                "e-mail": "poczta@csk.umed.pl"
+                "name": "Sp Zoz Csk Um W Łodzi",
+                "website": "http://www.csk.umed.pl",
+                "phone": "42 617 77 77, 42 675 75 00 ",
+                "email": "poczta@csk.umed.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +43,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 255,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 113,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "Północna 42",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SP ZOZ MSWiA w Łodzi",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.zozmswlodz.pl",
-                "telefon": "42 634 11 00",
-                "e-mail": "kontakt@zozmswlodz.pl"
+                "name": "Sp Zoz Mswia W Łodzi",
+                "website": "http://www.zozmswlodz.pl",
+                "phone": "42 634 11 00",
+                "email": "kontakt@zozmswlodz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -86,21 +62,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 256,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 114,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "Żeromskiego 113",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SP ZOZ USK im. WAM UM w Łodzi - Centralny Szpital Weteranów",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.uskwam.umed.lodz.pl",
-                "telefon": "42 639 34 22",
-                "e-mail": "sekretariat@skwam.lodz.pl"
+                "name": "Sp Zoz Usk Im. Wam Um W Łodzi - Centralny Szpital Weteranów",
+                "website": "http://www.uskwam.umed.lodz.pl",
+                "phone": "42 639 34 22",
+                "email": "sekretariat@skwam.lodz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -113,21 +81,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 257,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 115,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "Kopcińskiego 22",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SP ZOZ USK Nr 1 im.  N. Barlickiego UM",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.barlicki.pl",
-                "telefon": "42 677 69 50",
-                "e-mail": "kancelaria@barlicki.pl"
+                "name": "Sp Zoz Usk Nr 1 Im. N. Barlickiego Um",
+                "website": "http://www.barlicki.pl",
+                "phone": "42 677 69 50",
+                "email": "kancelaria@barlicki.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -140,21 +100,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 258,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 116,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "Okólna 181",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Wojewódzki Zespół Zakładów Opieki Zdrowotnej Centrum Leczenia Chorób Płuc i Rehabilitacji w Łodzi",
-                "poziom": "Szpital pulmunologiczny",
-                "www": "http://www.centrumpluc.com.pl",
-                "telefon": "42 659 00 11",
-                "e-mail": "clchp@centrumpluc.com.pl"
+                "name": "Wojewódzki Zespół Zakładów Opieki Zdrowotnej Centrum Leczenia Chorób Płuc I Rehabilitacji W Łodzi",
+                "website": "http://www.centrumpluc.com.pl",
+                "phone": "42 659 00 11",
+                "email": "clchp@centrumpluc.com.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -167,21 +119,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 259,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 120,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "Kniaziewicza 1/5",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Wojewódzki Specjalistyczny Szpital im. Wł. Biegańskiego",
-                "poziom": "III stopień",
-                "www": "http://www.bieganski.com.pl",
-                "telefon": "42 251 60 50",
-                "e-mail": "szpital@bieganski.com.pl"
+                "name": "Wojewódzki Specjalistyczny Szpital Im. Wł. Biegańskiego",
+                "website": "http://www.bieganski.com.pl",
+                "phone": "42 251 60 50",
+                "email": "szpital@bieganski.com.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -194,21 +138,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 260,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 121,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "Pabianicka 62",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Wojewódzkie Wielospecjalistyczne Centrum Onkologii i Traumatologii im. M. Kopernika w Łodzi",
-                "poziom": "III stopień",
-                "www": "http://www.kopernik.lodz.pl ",
-                "telefon": "42 689 55 99",
-                "e-mail": "szpital@kopernik.lodz.pl"
+                "name": "Wojewódzkie Wielospecjalistyczne Centrum Onkologii I Traumatologii Im. M. Kopernika W Łodzi",
+                "website": "http://www.kopernik.lodz.pl ",
+                "phone": "42 689 55 99",
+                "email": "szpital@kopernik.lodz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -221,21 +157,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 261,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 125,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "Milionowa 14",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Miejskie Centrum Medyczne im. K. Jonschera w Łodzi",
-                "poziom": "II stopień",
-                "www": "http://www.jonscher.pl",
-                "telefon": "42 676 17 74",
-                "e-mail": "jonscher@jonscher.pl"
+                "name": "Miejskie Centrum Medyczne Im. K. Jonschera W Łodzi",
+                "website": "http://www.jonscher.pl",
+                "phone": "42 676 17 74",
+                "email": "jonscher@jonscher.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -248,21 +176,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 262,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 134,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "Sterlinga 13",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Centrum Medyczne im. L. Rydygiera Sp. z o.o.",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalrydygiera.pl",
-                "telefon": "42 632 34 65",
-                "e-mail": "sekretariat@centrumrydygiera.pl"
+                "name": "Centrum Medyczne Im. L. Rydygiera Sp. Z O.O.",
+                "website": "http://www.szpitalrydygiera.pl",
+                "phone": "42 632 34 65",
+                "email": "sekretariat@centrumrydygiera.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -275,21 +195,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 263,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 135,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "Kosynierów Gdyńskich 61",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital Zakonu Bonifratrów  w Łodzi",
-                "poziom": "I stopień",
-                "www": "http://www.bonifratrzy.pl/szpital-lodz/",
-                "telefon": "42 685 51 63",
-                "e-mail": "szpital@bonifratrzy.lodz.pl"
+                "name": "Szpital Zakonu Bonifratrów W Łodzi",
+                "website": "http://www.bonifratrzy.pl/szpital-lodz/",
+                "phone": "42 685 51 63",
+                "email": "szpital@bonifratrzy.lodz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -302,21 +214,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 264,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 110,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "Rzgowska 281/289",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Instytut Centrum Zdrowia Matki Polki",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.iczmp.edu.pl",
-                "telefon": "42 271 10 00",
-                "e-mail": "iczmp@iczmp.edu.pl"
+                "name": "Instytut Centrum Zdrowia Matki Polki",
+                "website": "http://www.iczmp.edu.pl",
+                "phone": "42 271 10 00",
+                "email": "iczmp@iczmp.edu.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -329,21 +233,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 265,
-                "JPT_KOD_JE": "1061",
-                "JPT_NAZWA_": "powiat Łódź",
-                "id": 119,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łódź",
-                "powiat": "Łódź",
-                "adres": "Wólczańska 191/195",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Wojewódzki Specjalistyczny Szpital im. M. Pirogowa w Łodzi",
-                "poziom": "III stopień",
-                "www": "http://www.pirogow.pl",
-                "telefon": "42 636 76 11",
-                "e-mail": "sekretariat@pirogow.pl"
+                "name": "Wojewódzki Specjalistyczny Szpital Im. M. Pirogowa W Łodzi",
+                "website": "http://www.pirogow.pl",
+                "phone": "42 636 76 11",
+                "email": "sekretariat@pirogow.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

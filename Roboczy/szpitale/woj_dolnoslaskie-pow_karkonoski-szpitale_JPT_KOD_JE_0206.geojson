@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 417,
-                "JPT_KOD_JE": "0206",
-                "JPT_NAZWA_": "powiat karkonoski",
-                "id": 18,
-                "wojewodztwo": "dolnośląskie",
-                "miasto": "Szklarska Poręba",
-                "powiat": "jeleniogórski",
-                "adres": "SANATORYJNA 1",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "IZERSKIE CENTRUM PULMONOLOGII I CHEMIOTERAPII \"IZER-MED\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "Szpital pulmunologiczny",
-                "www": "http://www.izer-mad.com.pl",
-                "telefon": "75 75 47 100",
-                "e-mail": "sekretariat@izer-med.com.pl"
+                "name": "Izerskie Centrum Pulmonologii I Chemioterapii \"Izer-Med\" Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.izer-mad.com.pl",
+                "phone": "75 75 47 100",
+                "email": "sekretariat@izer-med.com.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 418,
-                "JPT_KOD_JE": "0206",
-                "JPT_NAZWA_": "powiat karkonoski",
-                "id": 20,
-                "wojewodztwo": "dolnośląskie",
-                "miasto": "Karpacz",
-                "powiat": "jeleniogórski",
-                "adres": "MYŚLIWSKA 13",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "CENTRUM MEDYCZNE KARPACZ SPÓŁKA AKCYJNA",
-                "poziom": "Szpital pulmunologiczny",
-                "www": "http://www.cmkarpacz.pl",
-                "telefon": "88 335 81 35",
-                "e-mail": "kontakt@cmkarpacz.pl"
+                "name": "Centrum Medyczne Karpacz Spółka Akcyjna",
+                "website": "http://www.cmkarpacz.pl",
+                "phone": "88 335 81 35",
+                "email": "kontakt@cmkarpacz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

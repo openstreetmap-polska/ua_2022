@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 536,
-                "JPT_KOD_JE": "1207",
-                "JPT_NAZWA_": "powiat limanowski",
-                "id": 165,
-                "wojewodztwo": "małopolskie",
-                "miasto": "Limanowa",
-                "powiat": "limanowski",
-                "adres": "Józefa Piłsudskiego 61",
-                "miejscowosc": "Limanowa",
-                "kod": "34-600",
-                "nazwa": "SZPITAL POWIATOWY W LIMANOWEJ IMIENIA MIŁOSIERDZIA BOŻEGO",
-                "poziom": "I",
-                "www": "http://www.szpitallimanowa.pl",
-                "telefon": "18 33 01 700",
-                "e-mail": null
+                "name": "Szpital Powiatowy W Limanowej Imienia Miłosierdzia Bożego",
+                "website": "http://www.szpitallimanowa.pl",
+                "phone": "18 33 01 700",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

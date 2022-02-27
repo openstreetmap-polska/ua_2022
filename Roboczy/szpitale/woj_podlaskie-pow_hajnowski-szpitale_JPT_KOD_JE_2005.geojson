@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 330,
-                "JPT_KOD_JE": "2005",
-                "JPT_NAZWA_": "powiat hajnowski",
-                "id": 571,
-                "wojewodztwo": "podlaskie",
-                "miasto": "hajnowski",
-                "powiat": "Hajnówka",
-                "adres": "Dowgirda 9",
-                "miejscowosc": "Hajnówka",
-                "kod": "17-200",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W HAJNÓWCE",
-                "poziom": "I stopień",
-                "www": "http://spzoz.hajnowka.pl",
-                "telefon": "85 682 92 02",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Hajnówce",
+                "website": "http://spzoz.hajnowka.pl",
+                "phone": "85 682 92 02",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

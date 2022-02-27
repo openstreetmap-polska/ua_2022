@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 195,
-                "JPT_KOD_JE": "0608",
-                "JPT_NAZWA_": "powiat lubartowski",
-                "id": 64,
-                "wojewodztwo": "lubelskie",
-                "miasto": "LUBARTÓW",
-                "powiat": "LUBARTOWSKI",
-                "adres": "CICHA 14",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W LUBARTOWIE",
-                "poziom": "II stopień ",
-                "www": "http://www.spzoz-lubartow.pl",
-                "telefon": "81 855 20 41",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Lubartowie",
+                "website": "http://www.spzoz-lubartow.pl",
+                "phone": "81 855 20 41",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

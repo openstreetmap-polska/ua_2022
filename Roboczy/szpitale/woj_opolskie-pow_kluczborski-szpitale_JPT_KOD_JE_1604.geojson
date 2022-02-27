@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 231,
-                "JPT_KOD_JE": "1604",
-                "JPT_NAZWA_": "powiat kluczborski",
-                "id": 273,
-                "wojewodztwo": "opolskie",
-                "miasto": "Kluczbork",
-                "powiat": "kluczborki",
-                "adres": "M.C.Skłodowskiej 23",
-                "miejscowosc": "Kluczbork",
-                "kod": "46-200 ",
-                "nazwa": "Powiatowe Centrum Zdrowia S.A Szpital Powiatowy",
-                "poziom": "I stopień",
-                "www": "http://www.pczszpitalkluczbork.pl",
-                "telefon": "77 417 35 00",
-                "e-mail": null
+                "name": "Powiatowe Centrum Zdrowia S.A Szpital Powiatowy",
+                "website": "http://www.pczszpitalkluczbork.pl",
+                "phone": "77 417 35 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

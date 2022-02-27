@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 544,
-                "JPT_KOD_JE": "1017",
-                "JPT_NAZWA_": "powiat wieluński",
-                "id": 142,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Wieluń",
-                "powiat": "wieluński",
-                "adres": "Szpitalna 16",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SP ZOZ w Wieluniu",
-                "poziom": "I stopień",
-                "www": "http://www.szpital.powiat.wielun.pl",
-                "telefon": "43 840 68 00",
-                "e-mail": "trum@szpital-wielun.pl"
+                "name": "Sp Zoz W Wieluniu",
+                "website": "http://www.szpital.powiat.wielun.pl",
+                "phone": "43 840 68 00",
+                "email": "trum@szpital-wielun.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

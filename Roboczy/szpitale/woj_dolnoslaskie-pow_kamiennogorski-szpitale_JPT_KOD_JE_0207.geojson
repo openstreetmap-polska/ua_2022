@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 134,
-                "JPT_KOD_JE": "0207",
-                "JPT_NAZWA_": "powiat kamiennogórski",
-                "id": 8,
-                "wojewodztwo": "dolnośląskie",
-                "miasto": "Kamienna Góra",
-                "powiat": "kamiennogórski",
-                "adres": "JANUSZA KORCZAKA 1",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "DOLNOŚLĄSKIE CENTRUM REHABILITACJI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "II stopień",
-                "www": "http://www.dcr.org.pl",
-                "telefon": "75 64 59 600",
-                "e-mail": "dcr@dcr.org.pl"
+                "name": "Dolnośląskie Centrum Rehabilitacji Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.dcr.org.pl",
+                "phone": "75 64 59 600",
+                "email": "dcr@dcr.org.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

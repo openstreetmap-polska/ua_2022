@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 329,
-                "JPT_KOD_JE": "0265",
-                "JPT_NAZWA_": "powiat Wałbrzych",
-                "id": 13,
-                "wojewodztwo": "dolnośląskie",
-                "miasto": "Wałbrzych",
-                "powiat": "m.Wałbrzych",
-                "adres": "ALFREDA SOKOŁOWSKIEGO 4",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SPECJALISTYCZNY SZPITAL IM. DRA ALFREDA SOKOŁOWSKIEGO",
-                "poziom": "III stopień",
-                "www": "http://www.zdrowie.walbrzych.pl",
-                "telefon": "74 64 89 742",
-                "e-mail": "szpitalsokolowskiego@zdrowie.walbrzych.pl"
+                "name": "Specjalistyczny Szpital Im. Dra Alfreda Sokołowskiego",
+                "website": "http://www.zdrowie.walbrzych.pl",
+                "phone": "74 64 89 742",
+                "email": "szpitalsokolowskiego@zdrowie.walbrzych.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

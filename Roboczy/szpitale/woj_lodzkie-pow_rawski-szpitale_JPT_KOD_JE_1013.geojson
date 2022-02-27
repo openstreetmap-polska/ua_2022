@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 341,
-                "JPT_KOD_JE": "1013",
-                "JPT_NAZWA_": "powiat rawski",
-                "id": 140,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Rawa Mazowiecka",
-                "powiat": "rawski",
-                "adres": "Warszawska 14",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital Św. Ducha w Rawie Mazowieckiej",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalrawa.pl",
-                "telefon": "46 892 17 02",
-                "e-mail": "sekretariat@amgszpital-rawa.pl"
+                "name": "Szpital Św. Ducha W Rawie Mazowieckiej",
+                "website": "http://www.szpitalrawa.pl",
+                "phone": "46 892 17 02",
+                "email": "sekretariat@amgszpital-rawa.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

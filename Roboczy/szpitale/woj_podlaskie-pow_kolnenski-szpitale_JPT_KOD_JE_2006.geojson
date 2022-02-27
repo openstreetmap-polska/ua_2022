@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 73,
-                "JPT_KOD_JE": "2006",
-                "JPT_NAZWA_": "powiat kolneński",
-                "id": 563,
-                "wojewodztwo": "podlaskie",
-                "miasto": "kolneński",
-                "powiat": "Kolno",
-                "adres": "Wojska Polskiego 69",
-                "miejscowosc": "Kolno",
-                "kod": "18-500",
-                "nazwa": "SZPITAL OGÓLNY W KOLNIE",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalkolno.pl",
-                "telefon": "86 278 23 50",
-                "e-mail": null
+                "name": "Szpital Ogólny W Kolnie",
+                "website": "http://www.szpitalkolno.pl",
+                "phone": "86 278 23 50",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

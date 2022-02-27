@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 208,
-                "JPT_KOD_JE": "1461",
-                "JPT_NAZWA_": "powiat Ostrołęka",
-                "id": 227,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "OSTROŁĘKA",
-                "powiat": "OSTROŁĘKA",
-                "adres": "JANA PAWŁA II 120A",
-                "miejscowosc": "OSTROŁĘKA ",
-                "kod": null,
-                "nazwa": "MAZOWIECKI SZPITAL SPECJALISTYCZNY IM. DR JÓZEFA PSARSKIEGO W OSTROŁĘCE",
-                "poziom": "III stopień",
-                "www": "http://www.szpital.ostroleka.pl",
-                "telefon": "29 765-21-22",
-                "e-mail": "szpitalo@szpital.ostroleka.pl"
+                "name": "Mazowiecki Szpital Specjalistyczny Im. Dr Józefa Psarskiego W Ostrołęce",
+                "website": "http://www.szpital.ostroleka.pl",
+                "phone": "29 765-21-22",
+                "email": "szpitalo@szpital.ostroleka.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

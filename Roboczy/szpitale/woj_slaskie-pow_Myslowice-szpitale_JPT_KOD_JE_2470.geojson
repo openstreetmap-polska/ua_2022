@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 187,
-                "JPT_KOD_JE": "2470",
-                "JPT_NAZWA_": "powiat Mysłowice",
-                "id": 518,
-                "wojewodztwo": "śląskie",
-                "miasto": "Mysłowice",
-                "powiat": "Mysłowice",
-                "adres": "Mikołowska 1",
-                "miejscowosc": "Mysłowice",
-                "kod": null,
-                "nazwa": "Mysłowickie Centrum Zdrowia Spółka z ograniczoną odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.mcz.myslowice.pl",
-                "telefon": "32 317 44 29",
-                "e-mail": null
+                "name": "Mysłowickie Centrum Zdrowia Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.mcz.myslowice.pl",
+                "phone": "32 317 44 29",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 188,
-                "JPT_KOD_JE": "2470",
-                "JPT_NAZWA_": "powiat Mysłowice",
-                "id": 522,
-                "wojewodztwo": "śląskie",
-                "miasto": "Mysłowice",
-                "powiat": "Mysłowice",
-                "adres": "Bytomska 41",
-                "miejscowosc": "Mysłowice",
-                "kod": null,
-                "nazwa": "SP ZOZ Szpital Nr 2 im. dr. Tadeusza Boczonia w Mysłowicach",
-                "poziom": "I stopień",
-                "www": "http://www.szpital2myslowice.pl",
-                "telefon": "723183348",
-                "e-mail": null
+                "name": "Sp Zoz Szpital Nr 2 Im. Dr. Tadeusza Boczonia W Mysłowicach",
+                "website": "http://www.szpital2myslowice.pl",
+                "phone": "723183348",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

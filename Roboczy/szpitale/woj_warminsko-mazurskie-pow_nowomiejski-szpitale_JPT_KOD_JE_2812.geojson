@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 322,
-                "JPT_KOD_JE": "2812",
-                "JPT_NAZWA_": "powiat nowomiejski",
-                "id": 420,
-                "wojewodztwo": "warmińsko-mazurskie",
-                "miasto": "Nowe Miasto Lubawskie",
-                "powiat": "Nowomiejski",
-                "adres": "Mickiewicza 10",
-                "miejscowosc": "Nowe Miasto Lubawskie",
-                "kod": "13-300",
-                "nazwa": "Szpital Powiatowy w Nowym Mieście Lubawskim Spółka z Ograniczoną Odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://szpitalnml.pl",
-                "telefon": "56 474 23 57 ",
-                "e-mail": null
+                "name": "Szpital Powiatowy W Nowym Mieście Lubawskim Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://szpitalnml.pl",
+                "phone": "56 474 23 57 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

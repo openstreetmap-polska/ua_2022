@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 61,
-                "JPT_KOD_JE": "3202",
-                "JPT_NAZWA_": "powiat choszczeński",
-                "id": 324,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Choszczno ",
-                "powiat": "choszczeński ",
-                "adres": "Niedziałkowskiego 4a ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Choszcznie ",
-                "poziom": "I stopień",
-                "www": "https://www.spzozchoszczno.pl/ ",
-                "telefon": "95 765 87 47 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Choszcznie",
+                "website": "https://www.spzozchoszczno.pl/ ",
+                "phone": "95 765 87 47 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 154,
-                "JPT_KOD_JE": "2214",
-                "JPT_NAZWA_": "powiat tczewski",
-                "id": 553,
-                "wojewodztwo": "pomorskie",
-                "miasto": "tczewski",
-                "powiat": "Tczew",
-                "adres": "30 Stycznia 57/58",
-                "miejscowosc": "Tczew",
-                "kod": "83-110",
-                "nazwa": "Szpitale Tczewskie S.A.",
-                "poziom": "I stopień",
-                "www": "http://www.nzoztczew.pl",
-                "telefon": "58 777-66-64",
-                "e-mail": null
+                "name": "Szpitale Tczewskie S.A.",
+                "website": "http://www.nzoztczew.pl",
+                "phone": "58 777-66-64",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 391,
-                "JPT_KOD_JE": "2013",
-                "JPT_NAZWA_": "powiat wysokomazowiecki",
-                "id": 562,
-                "wojewodztwo": "podlaskie",
-                "miasto": "wysokomazowiecki",
-                "powiat": "Wysokie Mazowieckie",
-                "adres": "Szpitalna 5",
-                "miejscowosc": "Wysokie Mazowieckie",
-                "kod": "18-200",
-                "nazwa": "SZPITAL OGÓLNY W WYSOKIEM MAZOWIECKIEM",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalwysmaz.pl",
-                "telefon": "86 477 55 01",
-                "e-mail": null
+                "name": "Szpital Ogólny W Wysokiem Mazowieckiem",
+                "website": "http://www.szpitalwysmaz.pl",
+                "phone": "86 477 55 01",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

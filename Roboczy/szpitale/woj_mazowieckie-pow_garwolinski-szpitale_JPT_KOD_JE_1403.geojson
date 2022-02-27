@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 386,
-                "JPT_KOD_JE": "1403",
-                "JPT_NAZWA_": "powiat garwoliński",
-                "id": 181,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "GARWOLIN",
-                "powiat": "GARWOLIŃSKI",
-                "adres": "LUBELSKA 50",
-                "miejscowosc": "GARWOLIN ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W GARWOLINIE",
-                "poziom": "I stopień",
-                "www": "http://www.spzozgarwolin.pl",
-                "telefon": "25 684 49 49",
-                "e-mail": "spzozgarwolin@spzozgarwolin.pl"
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Garwolinie",
+                "website": "http://www.spzozgarwolin.pl",
+                "phone": "25 684 49 49",
+                "email": "spzozgarwolin@spzozgarwolin.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

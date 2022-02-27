@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 576,
-                "JPT_KOD_JE": "1218",
-                "JPT_NAZWA_": "powiat wadowicki",
-                "id": 178,
-                "wojewodztwo": "małopolskie",
-                "miasto": "Wadowice",
-                "powiat": "wadowicki",
-                "adres": "Karmelicka 5",
-                "miejscowosc": "Wadowice",
-                "kod": "34-100",
-                "nazwa": "ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W WADOWICACH",
-                "poziom": "I stopień",
-                "www": "http://www.zzozwadowice.pl",
-                "telefon": "33 87-21-200",
-                "e-mail": null
+                "name": "Zespół Zakładów Opieki Zdrowotnej W Wadowicach",
+                "website": "http://www.zzozwadowice.pl",
+                "phone": "33 87-21-200",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 218,
-                "JPT_KOD_JE": "1819",
-                "JPT_NAZWA_": "powiat strzyżowski",
-                "id": 307,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Strzyżów",
-                "powiat": "strzyżowski ",
-                "adres": "700-lecia Strzyżowa 1",
-                "miejscowosc": "Strzyżów",
-                "kod": "38-100 ",
-                "nazwa": "Zespół Opieki Zdrowotnej w Strzyżowie",
-                "poziom": "I",
-                "www": "http://zozstrzyzow.pl",
-                "telefon": "(017)276 11 07",
-                "e-mail": null
+                "name": "Zespół Opieki Zdrowotnej W Strzyżowie",
+                "website": "http://zozstrzyzow.pl",
+                "phone": "(017)276 11 07",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

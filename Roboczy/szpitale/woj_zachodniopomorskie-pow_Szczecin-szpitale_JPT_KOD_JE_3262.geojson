@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 332,
-                "JPT_KOD_JE": "3262",
-                "JPT_NAZWA_": "powiat Szczecin",
-                "id": 342,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Szczecin ",
-                "powiat": "Szczecin ",
-                "adres": "Mączna 4 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej \"Zdroje ",
-                "poziom": "Szpital pediatryczny",
-                "www": "http://www.szpital-zdroje.szczecin.pl/zdroje ",
-                "telefon": "91 880 62 50, 91 880 63 10 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Specjalistyczny Zakład Opieki Zdrowotnej \"Zdroje",
+                "website": "http://www.szpital-zdroje.szczecin.pl/zdroje ",
+                "phone": "91 880 62 50, 91 880 63 10 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 333,
-                "JPT_KOD_JE": "3262",
-                "JPT_NAZWA_": "powiat Szczecin",
-                "id": 345,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Szczecin ",
-                "powiat": "Szczecin ",
-                "adres": "Powstańców Wielkopolskich 72 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Szpital Kliniczny Nr 2 Pomorskiego Uniwersytetu Medycznego w Szczecinie ",
-                "poziom": "Szpital ogólnopolski ",
-                "www": "http://www.spsk2-szczecin.pl ",
-                "telefon": "91 466 10 00 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Szpital Kliniczny Nr 2 Pomorskiego Uniwersytetu Medycznego W Szczecinie",
+                "website": "http://www.spsk2-szczecin.pl ",
+                "phone": "91 466 10 00 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +41,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 334,
-                "JPT_KOD_JE": "3262",
-                "JPT_NAZWA_": "powiat Szczecin",
-                "id": 346,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Szczecin ",
-                "powiat": "Szczecin ",
-                "adres": "Arkońska 4 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Wojewódzki Szpital Zespolony w Szczecinie ",
-                "poziom": "III stopień ",
-                "www": "http://www.spwsz.szczecin.pl ",
-                "telefon": "91 813 90 00 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Wojewódzki Szpital Zespolony W Szczecinie",
+                "website": "http://www.spwsz.szczecin.pl ",
+                "phone": "91 813 90 00 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -86,21 +59,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 335,
-                "JPT_KOD_JE": "3262",
-                "JPT_NAZWA_": "powiat Szczecin",
-                "id": 347,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Szczecin ",
-                "powiat": "Szczecin ",
-                "adres": "Strzałowska 22 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Zachodniopomorskie Centrum Onkologii ",
-                "poziom": "Szpital onkologiczny ",
-                "www": "http://www.onkologia.szczecin.pl ",
-                "telefon": "91 42 51 410 ",
-                "e-mail": null
+                "name": "Zachodniopomorskie Centrum Onkologii",
+                "website": "http://www.onkologia.szczecin.pl ",
+                "phone": "91 42 51 410 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -113,21 +77,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 336,
-                "JPT_KOD_JE": "3262",
-                "JPT_NAZWA_": "powiat Szczecin",
-                "id": 348,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Szczecin ",
-                "powiat": "Szczecin ",
-                "adres": "Jagiellońska 44 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych i Administracji w Szczecinie ",
-                "poziom": "Szpital ogólnopolski ",
-                "www": "http://spzozmswia.szczecin.pl/ ",
-                "telefon": "91 43 29 500 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych I Administracji W Szczecinie",
+                "website": "http://spzozmswia.szczecin.pl/ ",
+                "phone": "91 43 29 500 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -140,21 +95,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 337,
-                "JPT_KOD_JE": "3262",
-                "JPT_NAZWA_": "powiat Szczecin",
-                "id": 341,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Szczecin ",
-                "powiat": "Szczecin ",
-                "adres": "ks. Piotra Skargi 9-11 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "109 Szpital Wojskowy z Przychodnią Samodzielny Publiczny Zakład Opieki Zdrowotnej ",
-                "poziom": "Szpital ogólnopolski ",
-                "www": "http://www.109szpital.pl ",
-                "telefon": "91 810 58 31, 261 455 562 ",
-                "e-mail": null
+                "name": "109 Szpital Wojskowy Z Przychodnią Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://www.109szpital.pl ",
+                "phone": "91 810 58 31, 261 455 562 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -167,21 +113,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 338,
-                "JPT_KOD_JE": "3262",
-                "JPT_NAZWA_": "powiat Szczecin",
-                "id": 343,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Szczecin ",
-                "powiat": "Szczecin ",
-                "adres": "Unii Lubelskiej 1 ",
-                "miejscowosc": "Szczecin ",
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Szpital Kliniczny Nr 1 im. Prof. Tadeusza Sokołowskiego Pomorskiego Uniwersytetu Medycznego w Szczecinie ",
-                "poziom": "Szpital ogólnopolski ",
-                "www": "http://www.spsk1.szn.pl ",
-                "telefon": "91 425 30 02 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Szpital Kliniczny Nr 1 Im. Prof. Tadeusza Sokołowskiego Pomorskiego Uniwersytetu Medycznego W Szczecinie",
+                "website": "http://www.spsk1.szn.pl ",
+                "phone": "91 425 30 02 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

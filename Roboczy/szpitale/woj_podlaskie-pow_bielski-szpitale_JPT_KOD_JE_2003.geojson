@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 101,
-                "JPT_KOD_JE": "2003",
-                "JPT_NAZWA_": "powiat bielski",
-                "id": 573,
-                "wojewodztwo": "podlaskie",
-                "miasto": "bielski",
-                "powiat": "Bielsk Podlaski",
-                "adres": "Kleszczelowska 1",
-                "miejscowosc": "Bielsk Podlaski",
-                "kod": "17-100",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W BIELSKU PODLASKIM",
-                "poziom": "I stopień",
-                "www": "http://www.spzoz-bielsk.pl",
-                "telefon": "85 833 43 30",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Bielsku Podlaskim",
+                "website": "http://www.spzoz-bielsk.pl",
+                "phone": "85 833 43 30",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

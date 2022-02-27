@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 495,
-                "JPT_KOD_JE": "2209",
-                "JPT_NAZWA_": "powiat malborski",
-                "id": 545,
-                "wojewodztwo": "pomorskie",
-                "miasto": "malborski",
-                "powiat": "Malbork",
-                "adres": "Armii Krajowej 105/106",
-                "miejscowosc": "Malbork",
-                "kod": "82-200",
-                "nazwa": "Powiatowe Centrum Zdrowia Sp. z o.o. w Malborku",
-                "poziom": "I stopień",
-                "www": "http://www.pcznet.pl",
-                "telefon": "55 646-02-00",
-                "e-mail": null
+                "name": "Powiatowe Centrum Zdrowia Sp. Z O.O. W Malborku",
+                "website": "http://www.pcznet.pl",
+                "phone": "55 646-02-00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

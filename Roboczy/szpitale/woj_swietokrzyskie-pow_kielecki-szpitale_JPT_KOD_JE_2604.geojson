@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 490,
-                "JPT_KOD_JE": "2604",
-                "JPT_NAZWA_": "powiat kielecki",
-                "id": 437,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "CHMIELNIK",
-                "powiat": "KIELECKI",
-                "adres": "KIELECKA 1-3",
-                "miejscowosc": "CHMIELNIK",
-                "kod": null,
-                "nazwa": "SZPITAL POWIATOWY W CHMIELNIKU",
-                "poziom": "I stopień",
-                "www": "http://szpital-chmielnik.pl",
-                "telefon": "41 354 20 17",
-                "e-mail": null
+                "name": "Szpital Powiatowy W Chmielniku",
+                "website": "http://szpital-chmielnik.pl",
+                "phone": "41 354 20 17",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 491,
-                "JPT_KOD_JE": "2604",
-                "JPT_NAZWA_": "powiat kielecki",
-                "id": 436,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "CHĘCINY",
-                "powiat": "KIELECKI",
-                "adres": "CZERWONA GÓRA 10",
-                "miejscowosc": "CHĘCINY",
-                "kod": null,
-                "nazwa": "WOJEWÓDZKI SZPITAL SPECJALISTYCZNY IM. ŚW. RAFAŁA W CZERWONEJ GÓRZE",
-                "poziom": "Szpital pulmonologiczny",
-                "www": "http://czerwonagora.pl",
-                "telefon": "41 34 655 45(46,47)",
-                "e-mail": null
+                "name": "Wojewódzki Szpital Specjalistyczny Im. Św. Rafała W Czerwonej Górze",
+                "website": "http://czerwonagora.pl",
+                "phone": "41 34 655 45(46,47)",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

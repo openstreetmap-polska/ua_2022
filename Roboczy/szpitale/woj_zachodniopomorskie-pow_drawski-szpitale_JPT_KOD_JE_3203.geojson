@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 350,
-                "JPT_KOD_JE": "3203",
-                "JPT_NAZWA_": "powiat drawski",
-                "id": 326,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Drawsko Pomorskie ",
-                "powiat": "drawski ",
-                "adres": "Bolesława Chrobrego 4",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "\"Szpitale Polskie\" Spółka Akcyjna ",
-                "poziom": "I stopień",
-                "www": "http://szpitale-polskie.pl/SPSA/drawsko/ ",
-                "telefon": "94 36 30 341 ",
-                "e-mail": null
+                "name": "\"Szpitale Polskie\" Spółka Akcyjna",
+                "website": "http://szpitale-polskie.pl/SPSA/drawsko/ ",
+                "phone": "94 36 30 341 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

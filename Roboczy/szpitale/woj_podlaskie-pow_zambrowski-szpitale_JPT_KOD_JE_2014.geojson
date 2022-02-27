@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 413,
-                "JPT_KOD_JE": "2014",
-                "JPT_NAZWA_": "powiat zambrowski",
-                "id": 561,
-                "wojewodztwo": "podlaskie",
-                "miasto": "zambrowski",
-                "powiat": "Zambrów",
-                "adres": "Jana Pawła II 3",
-                "miejscowosc": "Zambrów",
-                "kod": "18-300",
-                "nazwa": "SZPITAL POWIATOWY W ZAMBROWIE SP. Z O.O.",
-                "poziom": "I stopień",
-                "www": "http://www.szpital.powiatzambrowski.com",
-                "telefon": "86 276 36 10",
-                "e-mail": null
+                "name": "Szpital Powiatowy W Zambrowie Sp. Z O.O.",
+                "website": "http://www.szpital.powiatzambrowski.com",
+                "phone": "86 276 36 10",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

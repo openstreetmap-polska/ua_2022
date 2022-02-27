@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 26,
-                "JPT_KOD_JE": "1020",
-                "JPT_NAZWA_": "powiat zgierski",
-                "id": 145,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Głowno",
-                "powiat": "zgierski",
-                "adres": "Wojska Polskiego 32/34",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Centrum Zdrowia \"ABiS\" przy WSInf w Łodzi",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalglowno.pl",
-                "telefon": "42 719 64 60",
-                "e-mail": "szpital-glowno@wsinf.edu.pl"
+                "name": "Centrum Zdrowia \"Abis\" Przy Wsinf W Łodzi",
+                "website": "http://www.szpitalglowno.pl",
+                "phone": "42 719 64 60",
+                "email": "szpital-glowno@wsinf.edu.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 27,
-                "JPT_KOD_JE": "1020",
-                "JPT_NAZWA_": "powiat zgierski",
-                "id": 130,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Zgierz",
-                "powiat": "zgierski",
-                "adres": "Parzęczewska 35",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Wojewódzki Szpital Specjalistyczny im. M. Skłodowskiej - Curie w Zgierzu",
-                "poziom": "II stopień",
-                "www": "http://www.wss.zgierz.pl",
-                "telefon": "42 714 45 00",
-                "e-mail": "szpital@wss.zgierz.pl"
+                "name": "Wojewódzki Szpital Specjalistyczny Im. M. Skłodowskiej - Curie W Zgierzu",
+                "website": "http://www.wss.zgierz.pl",
+                "phone": "42 714 45 00",
+                "email": "szpital@wss.zgierz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

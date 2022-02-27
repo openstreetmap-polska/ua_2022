@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 130,
-                "JPT_KOD_JE": "2818",
-                "JPT_NAZWA_": "powiat gołdapski",
-                "id": 413,
-                "wojewodztwo": "warmińsko-mazurskie",
-                "miasto": "Gołdap",
-                "powiat": "Gołdapski",
-                "adres": "Słoneczna 7",
-                "miejscowosc": "Gołdap",
-                "kod": "19-500",
-                "nazwa": "Goldmedica Spółka z Ograniczoną Odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://goldmedica.pl",
-                "telefon": "87 615 13 76 ",
-                "e-mail": null
+                "name": "Goldmedica Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://goldmedica.pl",
+                "phone": "87 615 13 76 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

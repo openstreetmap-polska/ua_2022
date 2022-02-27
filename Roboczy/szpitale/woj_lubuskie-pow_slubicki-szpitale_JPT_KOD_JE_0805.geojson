@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 419,
-                "JPT_KOD_JE": "0805",
-                "JPT_NAZWA_": "powiat słubicki",
-                "id": 100,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Słubice",
-                "powiat": "słubicki",
-                "adres": "Nadodrzańska 6",
-                "miejscowosc": "Słubice",
-                "kod": "69-100",
-                "nazwa": "Niepubliczny Zakład Opieki Zdrowotnej Szpital im. Profesora Zbigniewa Religi w Słubicach Spółka z Ograniczoną Odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalslubice.pl",
-                "telefon": "95 758 20 71",
-                "e-mail": "sekretariat@szpitalslubice.pl"
+                "name": "Niepubliczny Zakład Opieki Zdrowotnej Szpital Im. Profesora Zbigniewa Religi W Słubicach Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpitalslubice.pl",
+                "phone": "95 758 20 71",
+                "email": "sekretariat@szpitalslubice.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

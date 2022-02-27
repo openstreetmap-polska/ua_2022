@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 437,
-                "JPT_KOD_JE": "0601",
-                "JPT_NAZWA_": "powiat bialski",
-                "id": 77,
-                "wojewodztwo": "lubelskie",
-                "miasto": "MIĘDZYRZEC PODLASKI",
-                "powiat": "BIALSKI",
-                "adres": "WARSZAWSKA 2-4",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MIĘDZYRZECU PODLASKIM",
-                "poziom": "I stopień",
-                "www": "http://spzozmc.pl",
-                "telefon": "83 371 83 17",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Międzyrzecu Podlaskim",
+                "website": "http://spzozmc.pl",
+                "phone": "83 371 83 17",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

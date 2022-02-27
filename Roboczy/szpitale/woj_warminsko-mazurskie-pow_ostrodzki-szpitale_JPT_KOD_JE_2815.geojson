@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 143,
-                "JPT_KOD_JE": "2815",
-                "JPT_NAZWA_": "powiat ostródzki",
-                "id": 417,
-                "wojewodztwo": "warmińsko-mazurskie",
-                "miasto": "Morąg",
-                "powiat": "Ostródzki",
-                "adres": "Dąbrowskiego 16",
-                "miejscowosc": "Morąg",
-                "kod": "14-300",
-                "nazwa": "Szpital Miejski w Morągu Spółka z Ograniczoną Odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://szpitalmorag.pl",
-                "telefon": "89 757 42 31 ",
-                "e-mail": null
+                "name": "Szpital Miejski W Morągu Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://szpitalmorag.pl",
+                "phone": "89 757 42 31 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 144,
-                "JPT_KOD_JE": "2815",
-                "JPT_NAZWA_": "powiat ostródzki",
-                "id": 429,
-                "wojewodztwo": "warmińsko-mazurskie",
-                "miasto": "Ostróda",
-                "powiat": "Ostródzki",
-                "adres": "Jagiełły 1",
-                "miejscowosc": "Ostróda",
-                "kod": "14-100",
-                "nazwa": "Powiatowy Zespół Opieki Zdrowotnej w Ostródzie - Spółka Akcyjna",
-                "poziom": "II stopień",
-                "www": "http://szpital-ostroda.pl",
-                "telefon": "89 646 06 40 ",
-                "e-mail": null
+                "name": "Powiatowy Zespół Opieki Zdrowotnej W Ostródzie - Spółka Akcyjna",
+                "website": "http://szpital-ostroda.pl",
+                "phone": "89 646 06 40 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

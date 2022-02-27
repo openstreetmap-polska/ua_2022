@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 507,
-                "JPT_KOD_JE": "2009",
-                "JPT_NAZWA_": "powiat sejneński",
-                "id": 568,
-                "wojewodztwo": "podlaskie",
-                "miasto": "sejneński",
-                "powiat": "Sejny",
-                "adres": "Rittlera 2",
-                "miejscowosc": "Sejny",
-                "kod": "16-500",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W SEJNACH",
-                "poziom": "I stopień",
-                "www": "http://www.szpital.sejny.pl",
-                "telefon": "87 517 23 14",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Sejnach",
+                "website": "http://www.szpital.sejny.pl",
+                "phone": "87 517 23 14",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

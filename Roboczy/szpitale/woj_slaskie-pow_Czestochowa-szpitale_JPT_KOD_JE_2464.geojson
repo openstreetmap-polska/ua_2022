@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 571,
-                "JPT_KOD_JE": "2464",
-                "JPT_NAZWA_": "powiat Częstochowa",
-                "id": 489,
-                "wojewodztwo": "śląskie",
-                "miasto": "Częstochowa",
-                "powiat": "Częstochowa",
-                "adres": "Mirowska 15",
-                "miejscowosc": "Częstochowa",
-                "kod": null,
-                "nazwa": "Miejski Szpital Zespolony",
-                "poziom": "II stopień",
-                "www": "http://www.zsm.czest.pl",
-                "telefon": "34 370 22 22",
-                "e-mail": null
+                "name": "Miejski Szpital Zespolony",
+                "website": "http://www.zsm.czest.pl",
+                "phone": "34 370 22 22",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 572,
-                "JPT_KOD_JE": "2464",
-                "JPT_NAZWA_": "powiat Częstochowa",
-                "id": 477,
-                "wojewodztwo": "śląskie",
-                "miasto": "Częstochowa",
-                "powiat": "Częstochowa",
-                "adres": "Bialska 104/118",
-                "miejscowosc": "Częstochowa",
-                "kod": null,
-                "nazwa": "Wojewódzki Szpital Specjalistyczny im. N.M.P.",
-                "poziom": "III stopień",
-                "www": "http://www.szpitalparkitka.com.pl",
-                "telefon": "34 367 34 17",
-                "e-mail": null
+                "name": "Wojewódzki Szpital Specjalistyczny Im. N.M.P.",
+                "website": "http://www.szpitalparkitka.com.pl",
+                "phone": "34 367 34 17",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

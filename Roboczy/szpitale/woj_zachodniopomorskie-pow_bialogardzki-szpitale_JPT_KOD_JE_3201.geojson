@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 324,
-                "JPT_KOD_JE": "3201",
-                "JPT_NAZWA_": "powiat białogardzki",
-                "id": 323,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Białogard ",
-                "powiat": "białogardzki ",
-                "adres": "Chopina 29",
-                "miejscowosc": "Białogard ",
-                "kod": null,
-                "nazwa": "\"Centrum Dializa\" Spółka z Ograniczoną Odpowiedzialnością ",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalbialogard.pl/ ",
-                "telefon": "94 311 37 02 ",
-                "e-mail": null
+                "name": "\"Centrum Dializa\" Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpitalbialogard.pl/ ",
+                "phone": "94 311 37 02 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

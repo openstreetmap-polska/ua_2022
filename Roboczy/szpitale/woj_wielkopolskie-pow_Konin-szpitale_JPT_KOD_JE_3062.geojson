@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 267,
-                "JPT_KOD_JE": "3062",
-                "JPT_NAZWA_": "powiat Konin",
-                "id": 367,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "KONIN ",
-                "powiat": "KONIN ",
-                "adres": "SZPITALNA 45 ",
-                "miejscowosc": null,
-                "kod": "62-504 ",
-                "nazwa": "WOJEWÓDZKI SZPITAL ZESPOLONY W KONINIE ",
-                "poziom": "III stopień ",
-                "www": "http://www.szpital-konin.pl ",
-                "telefon": "(063)24-04-000 ",
-                "e-mail": null
+                "name": "Wojewódzki Szpital Zespolony W Koninie",
+                "website": "http://www.szpital-konin.pl ",
+                "phone": "(063)24-04-000 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 28,
-                "JPT_KOD_JE": "0807",
-                "JPT_NAZWA_": "powiat sulęciński",
-                "id": 107,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Torzym",
-                "powiat": "sulęciński",
-                "adres": "Wojska Polskiego 52",
-                "miejscowosc": "Torzym",
-                "kod": "66-235",
-                "nazwa": "Lubuski Szpital Specjalistyczny Pulmonologiczno-Kardiologiczny w Torzymiu Spółka z ograniczona odpowiedzialnością",
-                "poziom": "Szpital pulmunologiczny",
-                "www": "http://www.szpitaltorzym.pl",
-                "telefon": "68 341 63 00",
-                "e-mail": "biuro.zarzadu@szpitaltorzym.pl"
+                "name": "Lubuski Szpital Specjalistyczny Pulmonologiczno-Kardiologiczny W Torzymiu Spółka Z Ograniczona Odpowiedzialnością",
+                "website": "http://www.szpitaltorzym.pl",
+                "phone": "68 341 63 00",
+                "email": "biuro.zarzadu@szpitaltorzym.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 29,
-                "JPT_KOD_JE": "0807",
-                "JPT_NAZWA_": "powiat sulęciński",
-                "id": 92,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Sulęcin",
-                "powiat": "sulęciński",
-                "adres": "W. Witosa 7",
-                "miejscowosc": "Sulęcin",
-                "kod": "69-200",
-                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-sulecin.pl",
-                "telefon": "95 755 24 31",
-                "e-mail": " zozsul@kam.pl"
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://www.szpital-sulecin.pl",
+                "phone": "95 755 24 31",
+                "email": " zozsul@kam.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

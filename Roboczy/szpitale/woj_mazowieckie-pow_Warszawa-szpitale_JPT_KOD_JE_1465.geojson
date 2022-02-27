@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 450,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 206,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "ŻELAZNA 90",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "CENTRUM MEDYCZNE \"ŻELAZNA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalzelazna.pl",
-                "telefon": "/22/ 53-69-301",
-                "e-mail": "szpital@szpitalzelazna.pl"
+                "name": "Centrum Medyczne \"Żelazna\" Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpitalzelazna.pl",
+                "phone": "/22/ 53-69-301",
+                "email": "szpital@szpitalzelazna.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 451,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 207,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "GRENADIERÓW 51/59",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SZPITAL GROCHOWSKI IM. DR MED. RAFAŁA MASZTAKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚĆIĄ",
-                "poziom": "I stopień",
-                "www": "http://www.grochowski.waw.pl",
-                "telefon": "22 51-52-716",
-                "e-mail": "szpital@grochowski.waw.pl"
+                "name": "Szpital Grochowski Im. Dr Med. Rafała Masztaka Spółka Z Ograniczoną Odpowiedzialnośćią",
+                "website": "http://www.grochowski.waw.pl",
+                "phone": "22 51-52-716",
+                "email": "szpital@grochowski.waw.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +43,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 452,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 208,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "SOLEC 93",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SZPITAL SOLEC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "I stopień",
-                "www": "http://www.cmsolec.pl",
-                "telefon": "222506248",
-                "e-mail": "szpital.solec@cmsolec.pl"
+                "name": "Szpital Solec Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.cmsolec.pl",
+                "phone": "222506248",
+                "email": "szpital.solec@cmsolec.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -86,21 +62,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 453,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 209,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "INFLANCKA 6",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SZPITAL SPECJALISTYCZNY \"INFLANCKA\" IM. KRYSI NIŻYŃSKIEJ \"ZAKURZONEJ\" W WARSZAWIE SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ",
-                "poziom": "I stopień",
-                "www": "http://wwww.inflancka.pl",
-                "telefon": "22 697 31 10",
-                "e-mail": "sekretariat@inflancka.pl"
+                "name": "Szpital Specjalistyczny \"Inflancka\" Im. Krysi Niżyńskiej \"Zakurzonej\" W Warszawie Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://wwww.inflancka.pl",
+                "phone": "22 697 31 10",
+                "email": "sekretariat@inflancka.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -113,21 +81,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 454,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 210,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "MADALIŃSKIEGO 25",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SZPITAL SPECJALISTYCZNY IM. ŚWIĘTEJ RODZINY SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalmadalinskiego.pl",
-                "telefon": "224502264",
-                "e-mail": "sekretariat@szpitalmadalinskiego.pl"
+                "name": "Szpital Specjalistyczny Im. Świętej Rodziny Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://www.szpitalmadalinskiego.pl",
+                "phone": "224502264",
+                "email": "sekretariat@szpitalmadalinskiego.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -140,21 +100,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 455,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 211,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "KASPRZAKA 17",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SZPITAL WOLSKI IM. DR ANNY GOSTYŃSKIEJ SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ",
-                "poziom": "I stopień",
-                "www": "http://www.wolski.med.pl",
-                "telefon": "22 38-94-700",
-                "e-mail": "kancelaria@wolski.med.pl"
+                "name": "Szpital Wolski Im. Dr Anny Gostyńskiej Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://www.wolski.med.pl",
+                "phone": "22 38-94-700",
+                "email": "kancelaria@wolski.med.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -167,21 +119,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 456,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 222,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "BARSKA 16/20",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "II stopień",
-                "www": "http://www.stocer.pl",
-                "telefon": "227119000",
-                "e-mail": "stocer@stocer.pl"
+                "name": "Mazowieckie Centrum Rehabilitacji Stocer Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.stocer.pl",
+                "phone": "227119000",
+                "email": "stocer@stocer.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -194,21 +138,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 457,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 224,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "STĘPIŃSKA 19/25",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SZPITAL CZERNIAKOWSKI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "II stopień",
-                "www": "http://www.szpitalczerniakowski.waw.pl",
-                "telefon": "22 318-60-00",
-                "e-mail": "sekretariat@szpitalczerniakowski.waw.pl"
+                "name": "Szpital Czerniakowski Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpitalczerniakowski.waw.pl",
+                "phone": "22 318-60-00",
+                "email": "sekretariat@szpitalczerniakowski.waw.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -221,21 +157,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 458,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 231,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "KONDRATOWICZA 8",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "MAZOWIECKI SZPITAL BRÓDNOWSKI W WARSZAWIE SP. Z O.O.",
-                "poziom": "III stopień",
-                "www": "http://www.brodnowski.pl",
-                "telefon": "22 326-59-87",
-                "e-mail": "sekretariat@brodnowski.pl"
+                "name": "Mazowiecki Szpital Bródnowski W Warszawie Sp. Z O.O.",
+                "website": "http://www.brodnowski.pl",
+                "phone": "22 326-59-87",
+                "email": "sekretariat@brodnowski.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -248,21 +176,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 459,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 232,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "POZNAŃSKA 22",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "MAZOWIECKI SZPITAL BRÓDNOWSKI W WARSZAWIE SP. Z O.O.",
-                "poziom": "III stopień",
-                "www": "http://www.brodnowski.pl",
-                "telefon": "22 326-59-87",
-                "e-mail": "sekretariat@brodnowski.pl"
+                "name": "Mazowiecki Szpital Bródnowski W Warszawie Sp. Z O.O.",
+                "website": "http://www.brodnowski.pl",
+                "phone": "22 326-59-87",
+                "email": "sekretariat@brodnowski.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -275,21 +195,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 460,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 233,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "CEGŁOWSKA 80",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SZPITAL BIELAŃSKI IM.KS.JERZEGO POPIEŁUSZKI SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ",
-                "poziom": "III stopień",
-                "www": "http://www.bielanski.med.pl",
-                "telefon": "22 56 90 353",
-                "e-mail": "dyrektor@bielanski.med.pl"
+                "name": "Szpital Bielański Im.Ks.Jerzego Popiełuszki Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://www.bielanski.med.pl",
+                "phone": "22 56 90 353",
+                "email": "dyrektor@bielanski.med.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -302,21 +214,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 461,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 235,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "WOLSKA 37",
-                "miejscowosc": "WARSZAWA",
-                "kod": null,
-                "nazwa": "WOJEWÓDZKI SZPITAL ZAKAŹNY W WARSZAWIE",
-                "poziom": "III stopień",
-                "www": "http://www.zakazny.pl",
-                "telefon": "22 33-55-225",
-                "e-mail": "sekretariat@zakazny.pl"
+                "name": "Wojewódzki Szpital Zakaźny W Warszawie",
+                "website": "http://www.zakazny.pl",
+                "phone": "22 33-55-225",
+                "email": "sekretariat@zakazny.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -329,21 +233,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 462,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 238,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "WOŁOSKA 137",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "CENTRALNY SZPITAL KLINICZNY MSW I A W WARSZAWIE",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.cskmswia.pl",
-                "telefon": "225082000",
-                "e-mail": "dyrekcja@cskmswia.pl"
+                "name": "Centralny Szpital Kliniczny Msw I A W Warszawie",
+                "website": "http://www.cskmswia.pl",
+                "phone": "225082000",
+                "email": "dyrekcja@cskmswia.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -356,21 +252,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 463,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 239,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "ROENTGENA 5",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "CENTRUM ONKOLOGII - INSTYTUT IM. MARII SKŁODOWSKIEJ-CURIE",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.coi.pl",
-                "telefon": "225462000",
-                "e-mail": "dyrektor@coi.waw.pl"
+                "name": "Centrum Onkologii - Instytut Im. Marii Skłodowskiej-Curie",
+                "website": "http://www.coi.pl",
+                "phone": "225462000",
+                "email": "dyrektor@coi.waw.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -383,21 +271,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 464,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 240,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "WAWELSKA 15",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "CENTRUM ONKOLOGII - INSTYTUT IM. MARII SKŁODOWSKIEJ-CURIE",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.coi.pl",
-                "telefon": "225462000",
-                "e-mail": "dyrektor@coi.waw.pl"
+                "name": "Centrum Onkologii - Instytut Im. Marii Skłodowskiej-Curie",
+                "website": "http://www.coi.pl",
+                "phone": "225462000",
+                "email": "dyrektor@coi.waw.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -410,21 +290,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 465,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 241,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "ALEJA DZIECI POLSKICH 20",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "INSTYTUT \"POMNIK - CENTRUM ZDROWIA DZIECKA\" W WARSZAWIE",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.czd.pl",
-                "telefon": "22 815 70 00",
-                "e-mail": "praca.kliniczna@czd.pl"
+                "name": "Instytut \"Pomnik - Centrum Zdrowia Dziecka\" W Warszawie",
+                "website": "http://www.czd.pl",
+                "phone": "22 815 70 00",
+                "email": "praca.kliniczna@czd.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -437,21 +309,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 466,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 242,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "PŁOCKA 26",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "INSTYTUT GRUŹLICY I CHORÓB PŁUC",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.igichp.edu.pl",
-                "telefon": "22 43 12 100",
-                "e-mail": "instytut@igichp.edu.pl"
+                "name": "Instytut Gruźlicy I Chorób Płuc",
+                "website": "http://www.igichp.edu.pl",
+                "phone": "22 43 12 100",
+                "email": "instytut@igichp.edu.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -464,21 +328,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 467,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 243,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "INDIRY GANDHI 14",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "INSTYTUT HEMATOLOGII I TRANSFUZJOLOGII",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.ihit.waw.pl",
-                "telefon": "223496100",
-                "e-mail": "sekihit@ihit.waw.pl"
+                "name": "Instytut Hematologii I Transfuzjologii",
+                "website": "http://www.ihit.waw.pl",
+                "phone": "223496100",
+                "email": "sekihit@ihit.waw.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -491,21 +347,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 468,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 244,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "ALPEJSKA 42",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "INSTYTUT KARDIOLOGII IM PRYMASA TYSIĄCLECIA STEFANA KARDYNAŁA WYSZYŃSKIEGO",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.ikard.pl",
-                "telefon": "223434450",
-                "e-mail": "dyrektor@ikard.pl"
+                "name": "Instytut Kardiologii Im Prymasa Tysiąclecia Stefana Kardynała Wyszyńskiego",
+                "website": "http://www.ikard.pl",
+                "phone": "223434450",
+                "email": "dyrektor@ikard.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -518,21 +366,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 469,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 245,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "KASPRZAKA 17",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "INSTYTUT MATKI I DZIECKA",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.imid.med.pl",
-                "telefon": "223277422",
-                "e-mail": "dyrektor.kliniczny@imid.med.pl"
+                "name": "Instytut Matki I Dziecka",
+                "website": "http://www.imid.med.pl",
+                "phone": "223277422",
+                "email": "dyrektor.kliniczny@imid.med.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -545,21 +385,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 470,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 246,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "SOBIESKIEGO 9",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "INSTYTUT PSYCHIATRII I NEUROLOGII",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.ipin.edu.pl",
-                "telefon": "48 22 45 82 780",
-                "e-mail": "wiatrow@ipin.edu.pl"
+                "name": "Instytut Psychiatrii I Neurologii",
+                "website": "http://www.ipin.edu.pl",
+                "phone": "48 22 45 82 780",
+                "email": "wiatrow@ipin.edu.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -572,21 +404,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 471,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 247,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "SPARTAŃSKA 1",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "NARODOWY INSTYTUT GERIATRII, REUMATOLOGII I REHABILITACJI IM. PROF. DR HAB. MED. ELEONORY REICHER",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.spartanska.pl",
-                "telefon": "22 8444241/9",
-                "e-mail": "kancelaria@spartanska.pl"
+                "name": "Narodowy Instytut Geriatrii, Reumatologii I Rehabilitacji Im. Prof. Dr Hab. Med. Eleonory Reicher",
+                "website": "http://www.spartanska.pl",
+                "phone": "22 8444241/9",
+                "email": "kancelaria@spartanska.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -599,21 +423,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 472,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 248,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "BANACHA 1A",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY CENTRALNY SZPITAL KLINICZNY",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.spcsk.pl",
-                "telefon": "(22) 599 10 00",
-                "e-mail": "szpitalbanacha@spcsk.pl "
+                "name": "Samodzielny Publiczny Centralny Szpital Kliniczny",
+                "website": "http://www.spcsk.pl",
+                "phone": "(22) 599 10 00",
+                "email": "szpitalbanacha@spcsk.pl ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -626,21 +442,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 473,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 249,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "ŻWIRKI I WIGURY 63A",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY DZIECIĘCY SZPITAL KLINICZNY",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.spdsk.edu.pl",
-                "telefon": "22 317 91 02, 22 317 91 33",
-                "e-mail": "szpital@spdsk.edu.pl"
+                "name": "Samodzielny Publiczny Dziecięcy Szpital Kliniczny",
+                "website": "http://www.spdsk.edu.pl",
+                "phone": "22 317 91 02, 22 317 91 33",
+                "email": "szpital@spdsk.edu.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -653,21 +461,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 474,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 250,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "SIERAKOWSKIEGO 13",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY KLINICZNY SZPITAL OKULISTYCZNY W WARSZAWIE",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.spkso.waw.pl",
-                "telefon": "225116200",
-                "e-mail": "spkso@spkso.waw.pl"
+                "name": "Samodzielny Publiczny Kliniczny Szpital Okulistyczny W Warszawie",
+                "website": "http://www.spkso.waw.pl",
+                "phone": "225116200",
+                "email": "spkso@spkso.waw.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -680,21 +480,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 475,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 251,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "CZERNIAKOWSKA 231",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY SZPITAL KLINICZNY IM. PROF. WITOLDA ORŁOWSKIEGO CENTRUM MEDYCZNEGO KSZTAŁCENIA PODYPLOMOWEGO W WARSZAWIE",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.szpital-orlowskiego.pl",
-                "telefon": "225841100",
-                "e-mail": "szpital@szpital-orlowskiego.pl"
+                "name": "Samodzielny Publiczny Szpital Kliniczny Im. Prof. Witolda Orłowskiego Centrum Medycznego Kształcenia Podyplomowego W Warszawie",
+                "website": "http://www.szpital-orlowskiego.pl",
+                "phone": "225841100",
+                "email": "szpital@szpital-orlowskiego.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -707,21 +499,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 476,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 252,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "LINDLEYA 4",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SZPITAL KLINICZNY DZIECIĄTKA JEZUS",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.dzieciatkajezus.pl",
-                "telefon": "225022000",
-                "e-mail": "szpital@dzieciatkajezus.pl"
+                "name": "Szpital Kliniczny Dzieciątka Jezus",
+                "website": "http://www.dzieciatkajezus.pl",
+                "phone": "225022000",
+                "email": "szpital@dzieciatkajezus.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -734,21 +518,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 477,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 253,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "KAROWA 2",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SZPITAL KLINICZNY IM. KS. ANNY MAZOWIECKIEJ",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.szpitalkarowa.pl",
-                "telefon": "225966160",
-                "e-mail": "sekretariat@szpitalkarowa.pl"
+                "name": "Szpital Kliniczny Im. Ks. Anny Mazowieckiej",
+                "website": "http://www.szpitalkarowa.pl",
+                "phone": "225966160",
+                "email": "sekretariat@szpitalkarowa.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -761,21 +537,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 478,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 256,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "SZASERÓW 128",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "WOJSKOWY INSTYTUT MEDYCZNY",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.wim.mil.pl",
-                "telefon": "261817745",
-                "e-mail": "dyrekcja@wim.mil.pl"
+                "name": "Wojskowy Instytut Medyczny",
+                "website": "http://www.wim.mil.pl",
+                "phone": "261817745",
+                "email": "dyrekcja@wim.mil.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -788,21 +556,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 479,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 261,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "FIELDORFA 40",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "MAGODENT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "Szpital onkologiczny lub pulmonologiczny",
-                "www": "http://www.magodent.com.pl",
-                "telefon": "22 430 88 50",
-                "e-mail": "malgorzata.gaca@magodent.com.pl"
+                "name": "Magodent Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.magodent.com.pl",
+                "phone": "22 430 88 50",
+                "email": "malgorzata.gaca@magodent.com.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -815,21 +575,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 480,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 262,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "SZAMOCKA 6",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "MAGODENT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "Szpital onkologiczny lub pulmonologiczny",
-                "www": "http://www.magodent.com.pl",
-                "telefon": "22 430 88 50",
-                "e-mail": "malgorzata.gaca@magodent.com.pl"
+                "name": "Magodent Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.magodent.com.pl",
+                "phone": "22 430 88 50",
+                "email": "malgorzata.gaca@magodent.com.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -842,21 +594,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 481,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 263,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "NIEKŁAŃSKA 4/24",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SZPITAL DZIECIĘCY IM. PROF. DR. MED. JANA BOGDANOWICZA SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ",
-                "poziom": "Szpital pediatryczny",
-                "www": "http://www.nieklanska.pl",
-                "telefon": "22 67 27 842",
-                "e-mail": "szpital@nieklanska.pl"
+                "name": "Szpital Dziecięcy Im. Prof. Dr. Med. Jana Bogdanowicza Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://www.nieklanska.pl",
+                "phone": "22 67 27 842",
+                "email": "szpital@nieklanska.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -869,21 +613,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 482,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 264,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "KOPERNIKA 43",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "WARSZAWSKI SZPITAL DLA DZIECI SP ZOZ",
-                "poziom": "Szpital pediatryczny",
-                "www": "http://www.wsdz.pl",
-                "telefon": "22 83 05 300",
-                "e-mail": "dyrekcja@wsdz.pl"
+                "name": "Warszawski Szpital Dla Dzieci Sp Zoz",
+                "website": "http://www.wsdz.pl",
+                "phone": "22 83 05 300",
+                "email": "dyrekcja@wsdz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -896,21 +632,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 483,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 223,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "BURSZTYNOWA 2",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "MIĘDZYLESKI SZPITAL SPECJALISTYCZNY W WARSZAWIE",
-                "poziom": "II stopień",
-                "www": "http://www.mssw.pl",
-                "telefon": "224735383",
-                "e-mail": "kancelaria@mssw.pl"
+                "name": "Międzyleski Szpital Specjalistyczny W Warszawie",
+                "website": "http://www.mssw.pl",
+                "phone": "224735383",
+                "email": "kancelaria@mssw.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -923,21 +651,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 484,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 234,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "ALEJA SOLIDARNOŚCI 67",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "SZPITAL PRASKI P.W. PRZEMIENIENIA PAŃSKIEGO ",
-                "poziom": "III stopień",
-                "www": "http://www.szpitalpraski.pl",
-                "telefon": "22 555-11-85",
-                "e-mail": "sekretariat@szpitalpraski.pl"
+                "name": "Szpital Praski P.W. Przemienienia Pańskiego",
+                "website": "http://www.szpitalpraski.pl",
+                "phone": "22 555-11-85",
+                "email": "sekretariat@szpitalpraski.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -950,21 +670,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 485,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 254,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "PL. SOKRATESA STARYNKIEWICZA 1/3",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "UNIWERSYTECKIE CENTRUM ZDROWIA KOBIETY I NOWORODKA WARSZAWSKIEGO UNIWERSYTETU MEDYCZNEGO SP.Z O.O",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.uczkin.pl",
-                "telefon": "22 370-27-64",
-                "e-mail": "rsz@uczkin.pl"
+                "name": "Uniwersyteckie Centrum Zdrowia Kobiety I Noworodka Warszawskiego Uniwersytetu Medycznego Sp.Z O.O",
+                "website": "http://www.uczkin.pl",
+                "phone": "22 370-27-64",
+                "email": "rsz@uczkin.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -977,21 +689,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 486,
-                "JPT_KOD_JE": "1465",
-                "JPT_NAZWA_": "powiat Warszawa",
-                "id": 255,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WARSZAWA",
-                "powiat": "WARSZAWA",
-                "adres": "KRASIŃSKIEGO 54/56",
-                "miejscowosc": "WARSZAWA ",
-                "kod": null,
-                "nazwa": "WOJSKOWY INSTYTUT MEDYCYNY LOTNICZEJ",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.wiml.waw.pl",
-                "telefon": "261852601",
-                "e-mail": "lecznictwo@wiml.waw.pl"
+                "name": "Wojskowy Instytut Medycyny Lotniczej",
+                "website": "http://www.wiml.waw.pl",
+                "phone": "261852601",
+                "email": "lecznictwo@wiml.waw.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

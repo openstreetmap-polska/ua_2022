@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 319,
-                "JPT_KOD_JE": "2611",
-                "JPT_NAZWA_": "powiat starachowicki",
-                "id": 451,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "STARACHOWICE",
-                "powiat": "STARACHOWICKI",
-                "adres": "RADOMSKA 70",
-                "miejscowosc": "STARACHOWICE",
-                "kod": null,
-                "nazwa": "POWIATOWY ZAKŁAD OPIEKI ZDROWOTNEJ",
-                "poziom": "II stopień",
-                "www": "http://szpital.starachowice.pl",
-                "telefon": "41 274 64 00",
-                "e-mail": null
+                "name": "Powiatowy Zakład Opieki Zdrowotnej",
+                "website": "http://szpital.starachowice.pl",
+                "phone": "41 274 64 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 433,
-                "JPT_KOD_JE": "1412",
-                "JPT_NAZWA_": "powiat miński",
-                "id": 188,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "MIŃSK MAZOWIECKI",
-                "powiat": "MIŃSKI",
-                "adres": "SZPITALNA 37",
-                "miejscowosc": "MIŃSK MAZOWIECKI ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ",
-                "poziom": "I stopień",
-                "www": "http://www.spzozmm.pl",
-                "telefon": "25 759-21-86",
-                "e-mail": "spzozmm@spzozmm.pl"
+                "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej",
+                "website": "http://www.spzozmm.pl",
+                "phone": "25 759-21-86",
+                "email": "spzozmm@spzozmm.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 434,
-                "JPT_KOD_JE": "1412",
-                "JPT_NAZWA_": "powiat miński",
-                "id": 258,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "RUDKA",
-                "powiat": "MIŃSKI",
-                "adres": "ALEJA TEODORA DUNINA 1",
-                "miejscowosc": "RUDKA ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY SPECJALISTYCZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ IM.DR.TEODORA DUNINA",
-                "poziom": "Szpital onkologiczny lub pulmonologiczny",
-                "www": "http://www.rudka.com.pl",
-                "telefon": "25 7574170, 25 7574951",
-                "e-mail": "szpital@rudka.com.pl"
+                "name": "Samodzielny Specjalistyczny Zespół Zakładów Opieki Zdrowotnej Im.Dr.Teodora Dunina",
+                "website": "http://www.rudka.com.pl",
+                "phone": "25 7574170, 25 7574951",
+                "email": "szpital@rudka.com.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

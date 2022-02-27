@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 449,
-                "JPT_KOD_JE": "1811",
-                "JPT_NAZWA_": "powiat mielecki",
-                "id": 299,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Mielec",
-                "powiat": "mielecki ",
-                "adres": "Żeromskiego 22",
-                "miejscowosc": "Mielec",
-                "kod": "39-300 ",
-                "nazwa": "SZPITAL POWIATOWY IM.EDMUNDA BIERNACKIEGO W MIELCU",
-                "poziom": "III stopień",
-                "www": "http://szpital.mielec.pl",
-                "telefon": "(017)780 01 00",
-                "e-mail": null
+                "name": "Szpital Powiatowy Im.Edmunda Biernackiego W Mielcu",
+                "website": "http://szpital.mielec.pl",
+                "phone": "(017)780 01 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

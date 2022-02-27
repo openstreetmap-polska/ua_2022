@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 538,
-                "JPT_KOD_JE": "1209",
-                "JPT_NAZWA_": "powiat myślenicki",
-                "id": 157,
-                "wojewodztwo": "małopolskie",
-                "miasto": "Myślenice",
-                "powiat": "myślenicki",
-                "adres": "Szpitalna 2",
-                "miejscowosc": "Myślenice",
-                "kod": "32-400",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MYŚLENICACH",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalmyślenice.pl",
-                "telefon": "12 27 21 085",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Myślenicach",
+                "website": "http://www.szpitalmyślenice.pl",
+                "phone": "12 27 21 085",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

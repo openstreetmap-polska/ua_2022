@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 75,
-                "JPT_KOD_JE": "2410",
-                "JPT_NAZWA_": "powiat pszczyński",
-                "id": 513,
-                "wojewodztwo": "śląskie",
-                "miasto": "pszczyński",
-                "powiat": "Pszczyna",
-                "adres": "Antesa 11",
-                "miejscowosc": "Pszczyna",
-                "kod": null,
-                "nazwa": "\"Centrum Dializa \" Spółka z ograniczoną odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.centrumdializa.pl/nasze-szpitale/pszczyna-oddzialy-szpitalne.html",
-                "telefon": "32 210 30 22",
-                "e-mail": null
+                "name": "\"Centrum Dializa \" Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.centrumdializa.pl/nasze-szpitale/pszczyna-oddzialy-szpitalne.html",
+                "phone": "32 210 30 22",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

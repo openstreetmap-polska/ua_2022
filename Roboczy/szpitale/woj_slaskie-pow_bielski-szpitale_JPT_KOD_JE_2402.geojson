@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 401,
-                "JPT_KOD_JE": "2402",
-                "JPT_NAZWA_": "powiat bielski",
-                "id": 512,
-                "wojewodztwo": "śląskie",
-                "miasto": "bielski",
-                "powiat": "Wilkowice",
-                "adres": "Żywiecka 19",
-                "miejscowosc": "Wilkowice",
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Kolejowy w Wilkowicach-Bystrej",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-kolejowy.com",
-                "telefon": "33 812 20 20",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Kolejowy W Wilkowicach-Bystrej",
+                "website": "http://www.szpital-kolejowy.com",
+                "phone": "33 812 20 20",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 402,
-                "JPT_KOD_JE": "2402",
-                "JPT_NAZWA_": "powiat bielski",
-                "id": 458,
-                "wojewodztwo": "śląskie",
-                "miasto": "bielski",
-                "powiat": "Wilkowice",
-                "adres": "Fałata 2",
-                "miejscowosc": "Bystra",
-                "kod": null,
-                "nazwa": "Centrum Pulmonologii i Torakochirurgii w Bystrej",
-                "poziom": "Szpital pulmonologiczny",
-                "www": "http://www.szpitalbystra.pl",
-                "telefon": "33 499 18 01",
-                "e-mail": null
+                "name": "Centrum Pulmonologii I Torakochirurgii W Bystrej",
+                "website": "http://www.szpitalbystra.pl",
+                "phone": "33 499 18 01",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

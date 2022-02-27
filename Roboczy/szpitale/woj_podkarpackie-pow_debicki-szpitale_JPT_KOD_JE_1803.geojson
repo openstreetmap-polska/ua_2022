@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 186,
-                "JPT_KOD_JE": "1803",
-                "JPT_NAZWA_": "powiat dębicki",
-                "id": 292,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Dębica",
-                "powiat": "dębicki ",
-                "adres": "Krakowska 91",
-                "miejscowosc": "Dębica",
-                "kod": "39-200 ",
-                "nazwa": "Zespół Opieki Zdrowotnej w Dębicy",
-                "poziom": "I stopień",
-                "www": "http://zoz-debica.pl",
-                "telefon": "(014)670 30 20",
-                "e-mail": null
+                "name": "Zespół Opieki Zdrowotnej W Dębicy",
+                "website": "http://zoz-debica.pl",
+                "phone": "(014)670 30 20",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

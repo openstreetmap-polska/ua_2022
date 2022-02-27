@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 573,
-                "JPT_KOD_JE": "0462",
-                "JPT_NAZWA_": "powiat Grudziądz",
-                "id": 36,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Grudziądz",
-                "powiat": "Grudziądz",
-                "adres": "Dr. Ludwika Rydygiera 15/17",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Regionalny Szpital Specjalistyczny im. dr Władysława Biegańskiego w Grudziądzu",
-                "poziom": "III stopień",
-                "www": "http://www.bieganski.org",
-                "telefon": "56 641 44 44",
-                "e-mail": null
+                "name": "Regionalny Szpital Specjalistyczny Im. Dr Władysława Biegańskiego W Grudziądzu",
+                "website": "http://www.bieganski.org",
+                "phone": "56 641 44 44",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

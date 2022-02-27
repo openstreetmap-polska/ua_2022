@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 238,
-                "JPT_KOD_JE": "2409",
-                "JPT_NAZWA_": "powiat myszkowski",
-                "id": 509,
-                "wojewodztwo": "śląskie",
-                "miasto": "myszkowski",
-                "powiat": "Myszków",
-                "adres": "al. Wolności 29",
-                "miejscowosc": "Myszków",
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Myszkowie",
-                "poziom": "I stopień",
-                "www": "http://www.zozmyszkow.pl",
-                "telefon": "34 315 82 00",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej W Myszkowie",
+                "website": "http://www.zozmyszkow.pl",
+                "phone": "34 315 82 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

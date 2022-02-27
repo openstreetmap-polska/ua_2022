@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 306,
-                "JPT_KOD_JE": "0612",
-                "JPT_NAZWA_": "powiat opolski",
-                "id": 80,
-                "wojewodztwo": "lubelskie",
-                "miasto": "PONIATOWA",
-                "powiat": "OPOLSKI",
-                "adres": "FABRYCZNA 18",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "POWIATOWE CENTRUM ZDROWIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "I stopień",
-                "www": "http://www.pczol.pl",
-                "telefon": "81 820 41 04, 81 820 40 41",
-                "e-mail": null
+                "name": "Powiatowe Centrum Zdrowia Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.pczol.pl",
+                "phone": "81 820 41 04, 81 820 40 41",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 307,
-                "JPT_KOD_JE": "0612",
-                "JPT_NAZWA_": "powiat opolski",
-                "id": 79,
-                "wojewodztwo": "lubelskie",
-                "miasto": "PONIATOWA",
-                "powiat": "OPOLSKI",
-                "adres": "FABRYCZNA 6",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNE PUBLICZNE SANATORIUM GRUŹLICY I CHORÓB PŁUC",
-                "poziom": "Szpital pulmunologiczny",
-                "www": "http://www.sanatoriumpg.com.pl",
-                "telefon": "81 820 47 30",
-                "e-mail": null
+                "name": "Samodzielne Publiczne Sanatorium Gruźlicy I Chorób Płuc",
+                "website": "http://www.sanatoriumpg.com.pl",
+                "phone": "81 820 47 30",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

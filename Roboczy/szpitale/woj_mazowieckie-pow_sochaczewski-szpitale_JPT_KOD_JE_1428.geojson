@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 436,
-                "JPT_KOD_JE": "1428",
-                "JPT_NAZWA_": "powiat sochaczewski",
-                "id": 204,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "SOCHACZEW",
-                "powiat": "SOCHACZEWSKI",
-                "adres": "BATALIONÓW CHLOPSKICH 3/7",
-                "miejscowosc": "SOCHACZEW ",
-                "kod": null,
-                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ \"SZPITALA POWIATOWEGO\"  W SOCHACZEWIE ",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalsochaczew.pl",
-                "telefon": "46 864-95-00",
-                "e-mail": "kancelaria@szpitalsochaczew.pl"
+                "name": "Zespół Opieki Zdrowotnej \"Szpitala Powiatowego\" W Sochaczewie",
+                "website": "http://www.szpitalsochaczew.pl",
+                "phone": "46 864-95-00",
+                "email": "kancelaria@szpitalsochaczew.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

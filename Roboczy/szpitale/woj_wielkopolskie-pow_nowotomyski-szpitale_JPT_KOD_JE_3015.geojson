@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 99,
-                "JPT_KOD_JE": "3015",
-                "JPT_NAZWA_": "powiat nowotomyski",
-                "id": 360,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "NOWY TOMYŚL ",
-                "powiat": "NOWOTOMYSKI ",
-                "adres": "POZNAŃSKA 30 ",
-                "miejscowosc": null,
-                "kod": "64-300 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ IMIENIA DOKTORA KAZIMIERZA HOŁOGI ",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-nowytomysl.pl/ ",
-                "telefon": "(061)44-27-300 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Imienia Doktora Kazimierza Hołogi",
+                "website": "http://www.szpital-nowytomysl.pl/ ",
+                "phone": "(061)44-27-300 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

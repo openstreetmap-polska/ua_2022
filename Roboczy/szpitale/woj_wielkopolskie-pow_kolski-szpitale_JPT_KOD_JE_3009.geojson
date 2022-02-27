@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 41,
-                "JPT_KOD_JE": "3009",
-                "JPT_NAZWA_": "powiat kolski",
-                "id": 379,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "KOŁO ",
-                "powiat": "KOLSKI ",
-                "adres": "KS. JÓZEFA PONIATOWSKIEGO 25 ",
-                "miejscowosc": null,
-                "kod": "62-600 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W KOLE ",
-                "poziom": "I stopień",
-                "www": "http://www.spzozkolo.pl/ ",
-                "telefon": "(063)26-26-140 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Kole",
+                "website": "http://www.spzozkolo.pl/ ",
+                "phone": "(063)26-26-140 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

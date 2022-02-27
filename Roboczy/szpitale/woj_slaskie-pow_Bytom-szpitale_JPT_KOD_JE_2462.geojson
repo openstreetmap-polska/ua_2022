@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 111,
-                "JPT_KOD_JE": "2462",
-                "JPT_NAZWA_": "powiat Bytom",
-                "id": 525,
-                "wojewodztwo": "śląskie",
-                "miasto": "Bytom",
-                "powiat": "Bytom",
-                "adres": "Batorego 15",
-                "miejscowosc": "Bytom",
-                "kod": null,
-                "nazwa": "Szpital Specjalistyczny Nr 2 w Bytomiu",
-                "poziom": "I stopień",
-                "www": "http://www.szpital2.bytom.pl",
-                "telefon": "32 786 14 00",
-                "e-mail": null
+                "name": "Szpital Specjalistyczny Nr 2 W Bytomiu",
+                "website": "http://www.szpital2.bytom.pl",
+                "phone": "32 786 14 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 112,
-                "JPT_KOD_JE": "2462",
-                "JPT_NAZWA_": "powiat Bytom",
-                "id": 480,
-                "wojewodztwo": "śląskie",
-                "miasto": "Bytom",
-                "powiat": "Bytom",
-                "adres": "al.Legionów 10",
-                "miejscowosc": "Bytom",
-                "kod": null,
-                "nazwa": "SPZOZ Wojewódzki Szpital Specjalistyczny Nr 4 w Bytomiu",
-                "poziom": "III stopień",
-                "www": "http://www.szpital4.bytom.pl",
-                "telefon": "32 281 02 71",
-                "e-mail": null
+                "name": "Spzoz Wojewódzki Szpital Specjalistyczny Nr 4 W Bytomiu",
+                "website": "http://www.szpital4.bytom.pl",
+                "phone": "32 281 02 71",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +41,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 113,
-                "JPT_KOD_JE": "2462",
-                "JPT_NAZWA_": "powiat Bytom",
-                "id": 526,
-                "wojewodztwo": "śląskie",
-                "miasto": "Bytom",
-                "powiat": "Bytom",
-                "adres": "Żeromskiego 7",
-                "miejscowosc": "Bytom",
-                "kod": null,
-                "nazwa": "Szpital Specjalistyczny nr 1 w Bytomiu",
-                "poziom": "I stopień",
-                "www": "http://www.szpital1.bytom.pl",
-                "telefon": "32 396 32 00",
-                "e-mail": null
+                "name": "Szpital Specjalistyczny Nr 1 W Bytomiu",
+                "website": "http://www.szpital1.bytom.pl",
+                "phone": "32 396 32 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 505,
-                "JPT_KOD_JE": "0401",
-                "JPT_NAZWA_": "powiat aleksandrowski",
-                "id": 23,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Aleksandrów Kujawski",
-                "powiat": "aleksandrowski",
-                "adres": "Słowackiego 18",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Powiatowy Szpital w Aleksandrowie Kujawskim sp. z o. o.",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-aleksandrow.internetdsl.pl",
-                "telefon": "54 282 80 00 lub 01",
-                "e-mail": null
+                "name": "Powiatowy Szpital W Aleksandrowie Kujawskim Sp. Z O. O.",
+                "website": "http://www.szpital-aleksandrow.internetdsl.pl",
+                "phone": "54 282 80 00 lub 01",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

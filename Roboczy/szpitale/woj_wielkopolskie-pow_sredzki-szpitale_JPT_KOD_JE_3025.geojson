@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 126,
-                "JPT_KOD_JE": "3025",
-                "JPT_NAZWA_": "powiat średzki",
-                "id": 384,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "ŚRODA WIELKOPOLSKA ",
-                "powiat": "ŚREDZKI ",
-                "adres": "ŻWIRKI I WIGURY 10 ",
-                "miejscowosc": null,
-                "kod": "63-000 ",
-                "nazwa": "SZPITAL ŚREDZKI SERCA JEZUSOWEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ ",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalsredzki.pl/ ",
-                "telefon": "(061)28-54-031 ",
-                "e-mail": null
+                "name": "Szpital Średzki Serca Jezusowego Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpitalsredzki.pl/ ",
+                "phone": "(061)28-54-031 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

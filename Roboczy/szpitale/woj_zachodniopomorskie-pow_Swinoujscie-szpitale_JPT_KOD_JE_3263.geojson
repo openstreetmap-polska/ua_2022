@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 133,
-                "JPT_KOD_JE": "3263",
-                "JPT_NAZWA_": "powiat Świnoujście",
-                "id": 350,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Świnoujście ",
-                "powiat": "Świnoujście ",
-                "adres": "Mieszka I, 7 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital Miejski Im. Jana Garduły w Świnoujściu ",
-                "poziom": "I stopień",
-                "www": "https://szpital-swinoujscie.pl/ ",
-                "telefon": "91 32 67 424, 91 32 67 322; po godz. 20.00 tel. 91 32 67 337 ",
-                "e-mail": null
+                "name": "Szpital Miejski Im. Jana Garduły W Świnoujściu",
+                "website": "https://szpital-swinoujscie.pl/ ",
+                "phone": "91 32 67 424, 91 32 67 322; po godz. 20.00 tel. 91 32 67 337 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

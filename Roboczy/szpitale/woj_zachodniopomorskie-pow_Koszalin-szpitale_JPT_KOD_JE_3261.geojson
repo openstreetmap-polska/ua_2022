@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 155,
-                "JPT_KOD_JE": "3261",
-                "JPT_NAZWA_": "powiat Koszalin",
-                "id": 335,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Koszalin ",
-                "powiat": "Koszalin ",
-                "adres": "Szpitalna 2 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych w Koszalinie ",
-                "poziom": "Szpital ogólnopolski ",
-                "www": "http://www.poliklinika.koszalin.pl/ ",
-                "telefon": "94 347 16 44, 94 347 16 84 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych W Koszalinie",
+                "website": "http://www.poliklinika.koszalin.pl/ ",
+                "phone": "94 347 16 44, 94 347 16 84 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 156,
-                "JPT_KOD_JE": "3261",
-                "JPT_NAZWA_": "powiat Koszalin",
-                "id": 332,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Koszalin ",
-                "powiat": "Koszalin ",
-                "adres": "Chałubińskiego 7 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Affidea Onkoterapia Spółka z ograniczoną odpowiedzialnością ",
-                "poziom": "Szpital onkologiczny ",
-                "www": "https://www.affidea.pl/ ",
-                "telefon": "94 71 11 300, 94 711 13 01 ",
-                "e-mail": null
+                "name": "Affidea Onkoterapia Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "https://www.affidea.pl/ ",
+                "phone": "94 71 11 300, 94 711 13 01 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +41,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 157,
-                "JPT_KOD_JE": "3261",
-                "JPT_NAZWA_": "powiat Koszalin",
-                "id": 333,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Koszalin ",
-                "powiat": "Koszalin ",
-                "adres": "Chałubińskiego 7 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital Wojewódzki im. Mikołaja Kopernika w Koszalinie ",
-                "poziom": "III stopień ",
-                "www": "http://www.swk.med.pl/ ",
-                "telefon": "94 348 84 00 ",
-                "e-mail": null
+                "name": "Szpital Wojewódzki Im. Mikołaja Kopernika W Koszalinie",
+                "website": "http://www.swk.med.pl/ ",
+                "phone": "94 348 84 00 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -86,21 +59,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 158,
-                "JPT_KOD_JE": "3261",
-                "JPT_NAZWA_": "powiat Koszalin",
-                "id": 334,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Koszalin ",
-                "powiat": "Koszalin ",
-                "adres": "Niepodległości 44-48 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Specjalistyczny Zespół Gruźlicy i Chorób Płuc ",
-                "poziom": "Szpital pulmonologiczny",
-                "www": "http://www.szgichp.med.pl/ ",
-                "telefon": "94 342 20 51 – 53 ",
-                "e-mail": null
+                "name": "Specjalistyczny Zespół Gruźlicy I Chorób Płuc",
+                "website": "http://www.szgichp.med.pl/ ",
+                "phone": "94 342 20 51 – 53 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 228,
-                "JPT_KOD_JE": "1809",
-                "JPT_NAZWA_": "powiat lubaczowski",
-                "id": 298,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Lubaczów",
-                "powiat": "lubaczowski ",
-                "adres": "Adama Mickiewicza 168",
-                "miejscowosc": "Lubaczów",
-                "kod": "37-600 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W LUBACZOWIE",
-                "poziom": "I stopień",
-                "www": "http://szpital.lubaczowski.com",
-                "telefon": "(016)632 81 00",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Lubaczowie",
+                "website": "http://szpital.lubaczowski.com",
+                "phone": "(016)632 81 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

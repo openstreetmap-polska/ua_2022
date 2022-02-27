@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 345,
-                "JPT_KOD_JE": "0407",
-                "JPT_NAZWA_": "powiat inowrocławski",
-                "id": 38,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Inowrocław",
-                "powiat": "inowrocławski",
-                "adres": "Poznańska 97",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital Wielospecjalistyczny im. dr. Ludwika Błażka w Inowrocławiu",
-                "poziom": "II stopień",
-                "www": "http://www.szpitalino.pl",
-                "telefon": "52 354 55 00",
-                "e-mail": null
+                "name": "Szpital Wielospecjalistyczny Im. Dr. Ludwika Błażka W Inowrocławiu",
+                "website": "http://www.szpitalino.pl",
+                "phone": "52 354 55 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 65,
-                "JPT_KOD_JE": "0402",
-                "JPT_NAZWA_": "powiat brodnicki",
-                "id": 24,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Brodnica",
-                "powiat": "brodnicki",
-                "adres": "Wiejska 9",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Zespół Opieki Zdrowotnej w Brodnicy",
-                "poziom": "I stopień",
-                "www": "http://www.zozbrodnica.pl",
-                "telefon": "56 66 89 100",
-                "e-mail": null
+                "name": "Zespół Opieki Zdrowotnej W Brodnicy",
+                "website": "http://www.zozbrodnica.pl",
+                "phone": "56 66 89 100",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

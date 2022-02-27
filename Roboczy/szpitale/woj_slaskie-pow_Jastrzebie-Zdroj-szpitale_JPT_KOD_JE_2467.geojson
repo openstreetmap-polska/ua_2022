@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 405,
-                "JPT_KOD_JE": "2467",
-                "JPT_NAZWA_": "powiat Jastrzębie-Zdrój",
-                "id": 487,
-                "wojewodztwo": "śląskie",
-                "miasto": "Jastrzębie-Zdrój",
-                "powiat": "Jastrzębie-Zdrój",
-                "adres": "al. Jana Pawła II 7",
-                "miejscowosc": "Jastrzębie-Zdrój",
-                "kod": null,
-                "nazwa": "Wojewódzki Szpital Specjalistyczny Nr 2 w Jastrzębiu-Zdroju",
-                "poziom": "II stopień",
-                "www": "http://www.wss2.pl",
-                "telefon": "32 478 42 00",
-                "e-mail": null
+                "name": "Wojewódzki Szpital Specjalistyczny Nr 2 W Jastrzębiu-Zdroju",
+                "website": "http://www.wss2.pl",
+                "phone": "32 478 42 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

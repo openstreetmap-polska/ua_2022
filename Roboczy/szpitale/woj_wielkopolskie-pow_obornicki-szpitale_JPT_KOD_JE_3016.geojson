@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 37,
-                "JPT_KOD_JE": "3016",
-                "JPT_NAZWA_": "powiat obornicki",
-                "id": 355,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "OBORNIKI ",
-                "powiat": "OBORNICKI ",
-                "adres": "SZPITALNA 2 ",
-                "miejscowosc": null,
-                "kod": "64-600 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W OBORNIKACH ",
-                "poziom": "I stopień",
-                "www": "http://www.szpital.oborniki.info/ ",
-                "telefon": "(061)29-73-600 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Obornikach",
+                "website": "http://www.szpital.oborniki.info/ ",
+                "phone": "(061)29-73-600 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

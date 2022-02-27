@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 225,
-                "JPT_KOD_JE": "0808",
-                "JPT_NAZWA_": "powiat świebodziński",
-                "id": 98,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Świebodzin",
-                "powiat": "świebodziński",
-                "adres": "Młyńska 6",
-                "miejscowosc": "Świebodzin",
-                "kod": "66-200",
-                "nazwa": "Nowy Szpital w Świebodzinie Spółka z ograniczoną odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.nowyszpital.pl",
-                "telefon": "68 456 40 01",
-                "e-mail": "swiebodzin@nowyszpital.pl"
+                "name": "Nowy Szpital W Świebodzinie Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.nowyszpital.pl",
+                "phone": "68 456 40 01",
+                "email": "swiebodzin@nowyszpital.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 226,
-                "JPT_KOD_JE": "0808",
-                "JPT_NAZWA_": "powiat świebodziński",
-                "id": 101,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Świebodzin",
-                "powiat": "świebodziński",
-                "adres": "Zamkowa 1",
-                "miejscowosc": "Świebodzin",
-                "kod": "66-200",
-                "nazwa": "Lubuskie Centrum Ortopedii im. dr. Lecha Wierusza Spółka z ograniczoną odpowiedzialnością",
-                "poziom": "II stopień",
-                "www": "http://www.loro.pl",
-                "telefon": "68 475 06 01",
-                "e-mail": "sekretariat@loro.pl"
+                "name": "Lubuskie Centrum Ortopedii Im. Dr. Lecha Wierusza Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.loro.pl",
+                "phone": "68 475 06 01",
+                "email": "sekretariat@loro.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

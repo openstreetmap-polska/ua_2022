@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 283,
-                "JPT_KOD_JE": "1863",
-                "JPT_NAZWA_": "powiat Rzeszów",
-                "id": 304,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Rzeszów",
-                "powiat": "m. Rzeszów ",
-                "adres": "Rycerska 4",
-                "miejscowosc": "Rzeszów",
-                "kod": "35-241 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ NR 1 W RZESZOWIE",
-                "poziom": "II stopień",
-                "www": "http://spzoz1.rzezszow.pl/szpitale",
-                "telefon": "(017)853 58 70",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej Nr 1 W Rzeszowie",
+                "website": "http://spzoz1.rzezszow.pl/szpitale",
+                "phone": "(017)853 58 70",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 284,
-                "JPT_KOD_JE": "1863",
-                "JPT_NAZWA_": "powiat Rzeszów",
-                "id": 312,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Rzeszów",
-                "powiat": "m. Rzeszów ",
-                "adres": "Fryderyka Szopena 2",
-                "miejscowosc": "Rzeszów",
-                "kod": "35-055 ",
-                "nazwa": "KLINICZNY SZPITAL WOJEWÓDZKI NR 1 IM.FRYDERYKA CHOPINA W RZESZOWIE",
-                "poziom": "II stopień",
-                "www": "http://szpital.rzeszow.pl",
-                "telefon": "(017)866 60 01",
-                "e-mail": null
+                "name": "Kliniczny Szpital Wojewódzki Nr 1 Im.Fryderyka Chopina W Rzeszowie",
+                "website": "http://szpital.rzeszow.pl",
+                "phone": "(017)866 60 01",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +41,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 285,
-                "JPT_KOD_JE": "1863",
-                "JPT_NAZWA_": "powiat Rzeszów",
-                "id": 313,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Rzeszów",
-                "powiat": "m. Rzeszów ",
-                "adres": "Rycerska 2",
-                "miejscowosc": "Rzeszów",
-                "kod": "35-241 ",
-                "nazwa": "KLINICZNY SZPITAL WOJEWÓDZKI NR 1 IM.FRYDERYKA CHOPINA W RZESZOWIE",
-                "poziom": "Szpital onkologiczny lub pulmonologiczny",
-                "www": "http://szgichp.pl",
-                "telefon": "(017)866 60 01",
-                "e-mail": null
+                "name": "Kliniczny Szpital Wojewódzki Nr 1 Im.Fryderyka Chopina W Rzeszowie",
+                "website": "http://szgichp.pl",
+                "phone": "(017)866 60 01",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -86,21 +59,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 286,
-                "JPT_KOD_JE": "1863",
-                "JPT_NAZWA_": "powiat Rzeszów",
-                "id": 314,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Rzeszów",
-                "powiat": "m. Rzeszów ",
-                "adres": "Fryderyka Szopena 2",
-                "miejscowosc": "Rzeszów",
-                "kod": "35-055 ",
-                "nazwa": "KLINICZNY SZPITAL WOJEWÓDZKI NR 1 IM.FRYDERYKA CHOPINA W RZESZOWIE",
-                "poziom": "Szpital onkologiczny lub pulmonologiczny",
-                "www": "http://szpital.rzeszow.pl",
-                "telefon": "(017)866 60 01",
-                "e-mail": null
+                "name": "Kliniczny Szpital Wojewódzki Nr 1 Im.Fryderyka Chopina W Rzeszowie",
+                "website": "http://szpital.rzeszow.pl",
+                "phone": "(017)866 60 01",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -113,21 +77,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 287,
-                "JPT_KOD_JE": "1863",
-                "JPT_NAZWA_": "powiat Rzeszów",
-                "id": 316,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Rzeszów",
-                "powiat": "m. Rzeszów ",
-                "adres": "Lwowska 60",
-                "miejscowosc": "Rzeszów",
-                "kod": "35-301 ",
-                "nazwa": "KLINICZNY SZPITAL WOJEWÓDZKI NR 2 IM. ŚW.JADWIGI KRÓLOWEJ W RZESZOWIE",
-                "poziom": "III stopień",
-                "www": "http://szpital2.rzeszow.pl",
-                "telefon": "(017)866 44 44",
-                "e-mail": null
+                "name": "Kliniczny Szpital Wojewódzki Nr 2 Im. Św.Jadwigi Królowej W Rzeszowie",
+                "website": "http://szpital2.rzeszow.pl",
+                "phone": "(017)866 44 44",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -140,21 +95,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 288,
-                "JPT_KOD_JE": "1863",
-                "JPT_NAZWA_": "powiat Rzeszów",
-                "id": 317,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Rzeszów",
-                "powiat": "m. Rzeszów ",
-                "adres": "Krakowska 16",
-                "miejscowosc": "Rzeszów",
-                "kod": "35-111 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ MINISTERSTWA SPRAW WEWNĘTRZNYCH I ",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://szpitalmsw.rzeszow.pl",
-                "telefon": "(017)853 27 70",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych I",
+                "website": "http://szpitalmsw.rzeszow.pl",
+                "phone": "(017)853 27 70",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -167,21 +113,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 289,
-                "JPT_KOD_JE": "1863",
-                "JPT_NAZWA_": "powiat Rzeszów",
-                "id": 319,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Rzeszów",
-                "powiat": "m. Rzeszów ",
-                "adres": "Witolda 6B",
-                "miejscowosc": "Rzeszów",
-                "kod": "35-302 ",
-                "nazwa": "SZPITAL SPECJALISTYCZNY PRO-FAMILIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA ",
-                "poziom": "I stopień",
-                "www": "http://pro-familia.pl",
-                "telefon": "(017)717 50 48",
-                "e-mail": null
+                "name": "Szpital Specjalistyczny Pro-Familia Spółka Z Ograniczoną Odpowiedzialnością Spółka",
+                "website": "http://pro-familia.pl",
+                "phone": "(017)717 50 48",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -194,21 +131,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 290,
-                "JPT_KOD_JE": "1863",
-                "JPT_NAZWA_": "powiat Rzeszów",
-                "id": 321,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Rzeszów",
-                "powiat": "rzeszowski ",
-                "adres": "ul.ks.J.Jałowego 10",
-                "miejscowosc": "Rzeszów",
-                "kod": "35-020 ",
-                "nazwa": "Rzeszowskie Centrum chirurgii Naczyniowej i Endowaskularnej PAKS",
-                "poziom": "III stopień",
-                "www": "http://klinikiserca.pl",
-                "telefon": "(17) 780 81 01",
-                "e-mail": null
+                "name": "Rzeszowskie Centrum Chirurgii Naczyniowej I Endowaskularnej Paks",
+                "website": "http://klinikiserca.pl",
+                "phone": "(17) 780 81 01",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

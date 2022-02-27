@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 302,
-                "JPT_KOD_JE": "1420",
-                "JPT_NAZWA_": "powiat płoński",
-                "id": 195,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "PŁOŃSK",
-                "powiat": "PŁOŃSKI",
-                "adres": "HENRYKA SIENKIEWICZA 7",
-                "miejscowosc": "PŁOŃSK ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ IM. MARSZAŁKA JÓZEFA PIŁSUDSKIEGO W PŁOŃSKU",
-                "poziom": "I stopień",
-                "www": "http://szpitalplonsk.pl",
-                "telefon": "23 661 34 00",
-                "e-mail": "spzzoz1@wp.pl"
+                "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej Im. Marszałka Józefa Piłsudskiego W Płońsku",
+                "website": "http://szpitalplonsk.pl",
+                "phone": "23 661 34 00",
+                "email": "spzzoz1@wp.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

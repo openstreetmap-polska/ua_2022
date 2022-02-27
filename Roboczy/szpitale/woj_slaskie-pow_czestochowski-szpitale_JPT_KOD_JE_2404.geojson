@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 105,
-                "JPT_KOD_JE": "2404",
-                "JPT_NAZWA_": "powiat częstochowski",
-                "id": 506,
-                "wojewodztwo": "śląskie",
-                "miasto": "częstochowski",
-                "powiat": "Blachownia",
-                "adres": "Sosnowa 16 ",
-                "miejscowosc": "Blachownia",
-                "kod": null,
-                "nazwa": "Polska Grupa Medyczna Spółka z ograniczoną odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalblachownia.pl",
-                "telefon": "34 327 91 75",
-                "e-mail": null
+                "name": "Polska Grupa Medyczna Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpitalblachownia.pl",
+                "phone": "34 327 91 75",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

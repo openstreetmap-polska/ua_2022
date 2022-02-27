@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 574,
-                "JPT_KOD_JE": "1205",
-                "JPT_NAZWA_": "powiat gorlicki",
-                "id": 166,
-                "wojewodztwo": "małopolskie",
-                "miasto": "Gorlice",
-                "powiat": "gorlicki",
-                "adres": "Węgierska 21",
-                "miejscowosc": "Gorlice",
-                "kod": "38-300",
-                "nazwa": "SZPITAL SPECJALISTYCZNY IM. HENRYKA KLIMONTOWICZA W GORLICACH",
-                "poziom": "II stopień",
-                "www": "http://www.szpital.gorlice.pl",
-                "telefon": "18 35 53 200, 18 35 53 534",
-                "e-mail": null
+                "name": "Szpital Specjalistyczny Im. Henryka Klimontowicza W Gorlicach",
+                "website": "http://www.szpital.gorlice.pl",
+                "phone": "18 35 53 200, 18 35 53 534",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

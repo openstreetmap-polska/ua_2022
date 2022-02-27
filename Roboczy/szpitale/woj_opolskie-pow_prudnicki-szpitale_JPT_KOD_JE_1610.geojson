@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 169,
-                "JPT_KOD_JE": "1610",
-                "JPT_NAZWA_": "powiat prudnicki",
-                "id": 267,
-                "wojewodztwo": "opolskie",
-                "miasto": "Biała",
-                "powiat": "prudnicki",
-                "adres": "Moniuszki 8",
-                "miejscowosc": "Biała",
-                "kod": "48-210 ",
-                "nazwa": "Szpital w Białej",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalbiała.pl",
-                "telefon": "77 438 70 33",
-                "e-mail": null
+                "name": "Szpital W Białej",
+                "website": "http://www.szpitalbiała.pl",
+                "phone": "77 438 70 33",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 170,
-                "JPT_KOD_JE": "1610",
-                "JPT_NAZWA_": "powiat prudnicki",
-                "id": 289,
-                "wojewodztwo": "opolskie",
-                "miasto": "Prudnik",
-                "powiat": "prudnicki",
-                "adres": "Piastowska 64",
-                "miejscowosc": "Prudnik",
-                "kod": "48-200 ",
-                "nazwa": "Prudnickie Centrum Medyczne Spółka Akcyjna - Niepubliczny Zakład Opieki Zdrowotnej w Prudniku",
-                "poziom": "I stopień",
-                "www": "http://www.pcm.prudnik.pl",
-                "telefon": "77 406 78 90",
-                "e-mail": null
+                "name": "Prudnickie Centrum Medyczne Spółka Akcyjna - Niepubliczny Zakład Opieki Zdrowotnej W Prudniku",
+                "website": "http://www.pcm.prudnik.pl",
+                "phone": "77 406 78 90",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

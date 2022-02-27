@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 59,
-                "JPT_KOD_JE": "2806",
-                "JPT_NAZWA_": "powiat giżycki",
-                "id": 412,
-                "wojewodztwo": "warmińsko-mazurskie",
-                "miasto": "Giżycko",
-                "powiat": "Giżycki",
-                "adres": "Warszawska 41",
-                "miejscowosc": "Giżycko",
-                "kod": "11-500",
-                "nazwa": "\"Szpital Giżycki\" Spółka z Ograniczoną Odpowiedzialnością",
-                "poziom": "II stopień",
-                "www": "http://www.zozgiz.pl",
-                "telefon": "87 429 66 66 ",
-                "e-mail": null
+                "name": "\"Szpital Giżycki\" Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.zozgiz.pl",
+                "phone": "87 429 66 66 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

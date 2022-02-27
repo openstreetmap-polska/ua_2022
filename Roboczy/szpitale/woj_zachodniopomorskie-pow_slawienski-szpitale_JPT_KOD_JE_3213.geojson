@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 499,
-                "JPT_KOD_JE": "3213",
-                "JPT_NAZWA_": "powiat sławieński",
-                "id": 339,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Sławno ",
-                "powiat": "sławieński ",
-                "adres": "I-go Pułku Ułanów 9 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital Powiatowy w Sławnie ",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-slawno.pl/ ",
-                "telefon": "59 810 63 21; 48 59 810 30 31 ",
-                "e-mail": null
+                "name": "Szpital Powiatowy W Sławnie",
+                "website": "http://www.szpital-slawno.pl/ ",
+                "phone": "59 810 63 21; 48 59 810 30 31 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 128,
-                "JPT_KOD_JE": "2262",
-                "JPT_NAZWA_": "powiat Gdynia",
-                "id": 538,
-                "wojewodztwo": "pomorskie",
-                "miasto": "Gdynia",
-                "powiat": "Gdynia",
-                "adres": "Powstania Styczniowego 9B",
-                "miejscowosc": "Gdynia",
-                "kod": "81-519",
-                "nazwa": "Uniwersyteckie Centrum Medycyny Morskiej i Tropikalnej",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.ucmmit.gdynia.pl",
-                "telefon": "58 699-85-06",
-                "e-mail": null
+                "name": "Uniwersyteckie Centrum Medycyny Morskiej I Tropikalnej",
+                "website": "http://www.ucmmit.gdynia.pl",
+                "phone": "58 699-85-06",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 129,
-                "JPT_KOD_JE": "2262",
-                "JPT_NAZWA_": "powiat Gdynia",
-                "id": 539,
-                "wojewodztwo": "pomorskie",
-                "miasto": "Gdynia",
-                "powiat": "Gdynia",
-                "adres": "Powstania Styczniowego 1",
-                "miejscowosc": "Gdynia",
-                "kod": "81-519",
-                "nazwa": "Szpitale Pomorskie Sp. z o.o.",
-                "poziom": "III stopień",
-                "www": "http://www.szpitalepomorskie.eu",
-                "telefon": "224-800-800",
-                "e-mail": null
+                "name": "Szpitale Pomorskie Sp. Z O.O.",
+                "website": "http://www.szpitalepomorskie.eu",
+                "phone": "224-800-800",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

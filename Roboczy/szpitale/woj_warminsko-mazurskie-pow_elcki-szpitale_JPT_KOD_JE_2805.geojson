@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 152,
-                "JPT_KOD_JE": "2805",
-                "JPT_NAZWA_": "powiat ełcki",
-                "id": 410,
-                "wojewodztwo": "warmińsko-mazurskie",
-                "miasto": "Ełk",
-                "powiat": "Ełcki",
-                "adres": "Kościuszki 30",
-                "miejscowosc": "Ełk",
-                "kod": "19-300",
-                "nazwa": "108 Szpital Wojskowy z Przychodnią Samodzielny Publiczny Zakład Opieki Zdrowotnej w Ełku",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://108spzoz.elk.pl",
-                "telefon": "87 621 98 03 ",
-                "e-mail": null
+                "name": "108 Szpital Wojskowy Z Przychodnią Samodzielny Publiczny Zakład Opieki Zdrowotnej W Ełku",
+                "website": "http://108spzoz.elk.pl",
+                "phone": "87 621 98 03 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 153,
-                "JPT_KOD_JE": "2805",
-                "JPT_NAZWA_": "powiat ełcki",
-                "id": 411,
-                "wojewodztwo": "warmińsko-mazurskie",
-                "miasto": "Ełk",
-                "powiat": "Ełcki",
-                "adres": "Baranki 24",
-                "miejscowosc": "Ełk",
-                "kod": "19-300",
-                "nazwa": "\"Pro-Medica\" w Ełku Spółka z Ograniczoną Odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.promedica.elk.com.pl",
-                "telefon": "87 620 95 71 ",
-                "e-mail": null
+                "name": "\"Pro-Medica\" W Ełku Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.promedica.elk.com.pl",
+                "phone": "87 620 95 71 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 79,
-                "JPT_KOD_JE": "3208",
-                "JPT_NAZWA_": "powiat kołobrzeski",
-                "id": 331,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Kołobrzeg ",
-                "powiat": "kołobrzeski ",
-                "adres": "Łopuskiego 31 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Regionalny Szpital w Kołobrzegu ",
-                "poziom": "II stopień ",
-                "www": "http://szpital.kolobrzeg.pl/ ",
-                "telefon": "94 35 30 200 ",
-                "e-mail": null
+                "name": "Regionalny Szpital W Kołobrzegu",
+                "website": "http://szpital.kolobrzeg.pl/ ",
+                "phone": "94 35 30 200 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

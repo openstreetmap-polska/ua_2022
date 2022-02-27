@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 135,
-                "JPT_KOD_JE": "1008",
-                "JPT_NAZWA_": "powiat pabianicki",
-                "id": 126,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Pabianice",
-                "powiat": "pabianicki",
-                "adres": "Jana Pawła II 68",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Pabianickie Centrum Medyczne Sp. z o.o.",
-                "poziom": "II stopień",
-                "www": "http://www.pcmnzoz.pl",
-                "telefon": "42 225 35 00",
-                "e-mail": "pcmnzoz@pcmnzoz.pl"
+                "name": "Pabianickie Centrum Medyczne Sp. Z O.O.",
+                "website": "http://www.pcmnzoz.pl",
+                "phone": "42 225 35 00",
+                "email": "pcmnzoz@pcmnzoz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

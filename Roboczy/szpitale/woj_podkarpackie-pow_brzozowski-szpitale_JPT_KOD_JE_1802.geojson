@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 545,
-                "JPT_KOD_JE": "1802",
-                "JPT_NAZWA_": "powiat brzozowski",
-                "id": 291,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Brzozów",
-                "powiat": "brzozowski ",
-                "adres": "ks. Józefa Bielawskiego 18",
-                "miejscowosc": "Brzozów",
-                "kod": "36-200 ",
-                "nazwa": "SZPITAL SPECJALISTYCZNY W BRZOZOWIE PODKARPACKI OŚRODEK ONKOLOGICZNY IM.KS.B.MARKIEWICZA",
-                "poziom": "Szpital onkologiczny lub pulmonologiczny",
-                "www": "http://szpital-brzozow.pl",
-                "telefon": "(013)430 95 52",
-                "e-mail": null
+                "name": "Szpital Specjalistyczny W Brzozowie Podkarpacki Ośrodek Onkologiczny Im.Ks.B.Markiewicza",
+                "website": "http://szpital-brzozow.pl",
+                "phone": "(013)430 95 52",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 339,
-                "JPT_KOD_JE": "2211",
-                "JPT_NAZWA_": "powiat pucki",
-                "id": 548,
-                "wojewodztwo": "pomorskie",
-                "miasto": "pucki",
-                "powiat": "Puck",
-                "adres": "1 Maja 13 A",
-                "miejscowosc": "Puck",
-                "kod": "84-100",
-                "nazwa": "Szpital Pucki Sp. z o.o.",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalpuck.pl",
-                "telefon": "58 673-48-51",
-                "e-mail": null
+                "name": "Szpital Pucki Sp. Z O.O.",
+                "website": "http://www.szpitalpuck.pl",
+                "phone": "58 673-48-51",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 340,
-                "JPT_KOD_JE": "2211",
-                "JPT_NAZWA_": "powiat pucki",
-                "id": 540,
-                "wojewodztwo": "pomorskie",
-                "miasto": "pucki",
-                "powiat": "Hel",
-                "adres": "Boczna 10",
-                "miejscowosc": "Hel",
-                "kod": "84-150",
-                "nazwa": "115 Szpital Wojskowy z Przychodnią SPZOZ",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.szpitalhel.pl",
-                "telefon": "58 690-42-60",
-                "e-mail": null
+                "name": "115 Szpital Wojskowy Z Przychodnią Spzoz",
+                "website": "http://www.szpitalhel.pl",
+                "phone": "58 690-42-60",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

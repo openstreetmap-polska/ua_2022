@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 304,
-                "JPT_KOD_JE": "0604",
-                "JPT_NAZWA_": "powiat hrubieszowski",
-                "id": 60,
-                "wojewodztwo": "lubelskie",
-                "miasto": "HRUBIESZÓW",
-                "powiat": "HRUBIESZOWSKI",
-                "adres": "PIŁSUDSKIEGO 11",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W HRUBIESZOWIE",
-                "poziom": "I stopień",
-                "www": "http://www.spzozhrubieszow.pl",
-                "telefon": "84 696 26 11",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej W Hrubieszowie",
+                "website": "http://www.spzozhrubieszow.pl",
+                "phone": "84 696 26 11",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 555,
-                "JPT_KOD_JE": "3029",
-                "JPT_NAZWA_": "powiat wolsztyński",
-                "id": 385,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "WOLSZTYN ",
-                "powiat": "WOLSZTYŃSKI ",
-                "adres": "WSCHOWSKA 3 ",
-                "miejscowosc": null,
-                "kod": "64-200 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W WOLSZTYNIE ",
-                "poziom": "I stopień",
-                "www": "https://www.spzozwolsztyn.pl/ ",
-                "telefon": "(068)34-77-300 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Wolsztynie",
+                "website": "https://www.spzozwolsztyn.pl/ ",
+                "phone": "(068)34-77-300 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

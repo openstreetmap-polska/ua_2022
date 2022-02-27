@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 241,
-                "JPT_KOD_JE": "2417",
-                "JPT_NAZWA_": "powiat żywiecki",
-                "id": 511,
-                "wojewodztwo": "śląskie",
-                "miasto": "żywiecki",
-                "powiat": "Żywiec",
-                "adres": "Sienkiewicza 52",
-                "miejscowosc": "Żywiec",
-                "kod": null,
-                "nazwa": "Zespół Zakładów Opieki Zdrowotnej w Żywcu",
-                "poziom": "I stopień",
-                "www": "http://www.szpital.zywiec.pl",
-                "telefon": "33 861 40 31",
-                "e-mail": null
+                "name": "Zespół Zakładów Opieki Zdrowotnej W Żywcu",
+                "website": "http://www.szpital.zywiec.pl",
+                "phone": "33 861 40 31",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 181,
-                "JPT_KOD_JE": "1861",
-                "JPT_NAZWA_": "powiat Krosno",
-                "id": 311,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Krosno",
-                "powiat": "m. Krosno",
-                "adres": "Korczyńska 57",
-                "miejscowosc": "Krosno",
-                "kod": "38-400 ",
-                "nazwa": "Wojewódzki Szpital Podkarpacki im.Jana Pawła II w Krośnie",
-                "poziom": "II stopień",
-                "www": "http://krosno.med.pl",
-                "telefon": "+48 13 437 85 86",
-                "e-mail": null
+                "name": "Wojewódzki Szpital Podkarpacki Im.Jana Pawła Ii W Krośnie",
+                "website": "http://krosno.med.pl",
+                "phone": "+48 13 437 85 86",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

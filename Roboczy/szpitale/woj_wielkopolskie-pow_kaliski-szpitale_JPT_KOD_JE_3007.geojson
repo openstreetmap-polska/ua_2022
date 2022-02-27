@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 235,
-                "JPT_KOD_JE": "3007",
-                "JPT_NAZWA_": "powiat kaliski",
-                "id": 378,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "GODZIESZE MAŁE ",
-                "powiat": "KALISKI ",
-                "adres": "WOLICA 113 ",
-                "miejscowosc": null,
-                "kod": "62-872 ",
-                "nazwa": "WOJEWÓDZKI SPECJALISTYCZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ CHORÓB PŁUC I GRUŹLICY W WOLICY K.KALISZA ",
-                "poziom": "Szpital onkologiczny ",
-                "www": "http://www.wolica.pl/ ",
-                "telefon": "(062)76-12-500 ",
-                "e-mail": null
+                "name": "Wojewódzki Specjalistyczny Zespół Zakładów Opieki Zdrowotnej Chorób Płuc I Gruźlicy W Wolicy K.Kalisza",
+                "website": "http://www.wolica.pl/ ",
+                "phone": "(062)76-12-500 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

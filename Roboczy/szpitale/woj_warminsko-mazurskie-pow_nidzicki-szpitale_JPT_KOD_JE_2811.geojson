@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 321,
-                "JPT_KOD_JE": "2811",
-                "JPT_NAZWA_": "powiat nidzicki",
-                "id": 419,
-                "wojewodztwo": "warmińsko-mazurskie",
-                "miasto": "Nidzica",
-                "powiat": "Nidzicki",
-                "adres": "Mickiewicza 23",
-                "miejscowosc": "Nidzica",
-                "kod": "13-100",
-                "nazwa": "Zespół Opieki Zdrowotnej w Nidzicy",
-                "poziom": "I stopień",
-                "www": "https://www.zoz.nidzica.pl",
-                "telefon": "89 625 05 35 ",
-                "e-mail": null
+                "name": "Zespół Opieki Zdrowotnej W Nidzicy",
+                "website": "https://www.zoz.nidzica.pl",
+                "phone": "89 625 05 35 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

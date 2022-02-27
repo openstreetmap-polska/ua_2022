@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 493,
-                "JPT_KOD_JE": "3003",
-                "JPT_NAZWA_": "powiat gnieźnieński",
-                "id": 401,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "GNIEZNO ",
-                "powiat": "GNIEŹNIEŃSKI ",
-                "adres": "POZNAŃSKA 15 ",
-                "miejscowosc": null,
-                "kod": "62-200 ",
-                "nazwa": "SPZOZ WOJEWÓDZKI SZPITAL DLA NERWOWO I PSYCHICZNIE CHORYCH \"DZIEKANKA\" IM. ALEKSANDRA PIOTROWSKIEGO ",
-                "poziom": "I stopień",
-                "www": "http://www.dziekanka.net/ ",
-                "telefon": "(061) 423-85-00 ",
-                "e-mail": null
+                "name": "Spzoz Wojewódzki Szpital Dla Nerwowo I Psychicznie Chorych \"Dziekanka\" Im. Aleksandra Piotrowskiego",
+                "website": "http://www.dziekanka.net/ ",
+                "phone": "(061) 423-85-00 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 494,
-                "JPT_KOD_JE": "3003",
-                "JPT_NAZWA_": "powiat gnieźnieński",
-                "id": 363,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "GNIEZNO ",
-                "powiat": "GNIEŹNIEŃSKI ",
-                "adres": "ŚW.JANA 9 ",
-                "miejscowosc": null,
-                "kod": "62-200 ",
-                "nazwa": "SZPITAL POMNIK CHRZTU POLSKI ",
-                "poziom": "II stopień ",
-                "www": "http://www.zoz.gniezno.pl ",
-                "telefon": "(061)42-64-461 ",
-                "e-mail": null
+                "name": "Szpital Pomnik Chrztu Polski",
+                "website": "http://www.zoz.gniezno.pl ",
+                "phone": "(061)42-64-461 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

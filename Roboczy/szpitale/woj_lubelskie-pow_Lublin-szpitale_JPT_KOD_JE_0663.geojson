@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 84,
-                "JPT_KOD_JE": "0663",
-                "JPT_NAZWA_": "powiat Lublin",
-                "id": 67,
-                "wojewodztwo": "lubelskie",
-                "miasto": "LUBLIN",
-                "powiat": "LUBLIN",
-                "adres": "STASZICA 16",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY SZPITAL KLINICZNY NR 1 W LUBLINIE",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.spsk1.lublin.pl",
-                "telefon": "81 532 39 35",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Szpital Kliniczny Nr 1 W Lublinie",
+                "website": "http://www.spsk1.lublin.pl",
+                "phone": "81 532 39 35",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 85,
-                "JPT_KOD_JE": "0663",
-                "JPT_NAZWA_": "powiat Lublin",
-                "id": 68,
-                "wojewodztwo": "lubelskie",
-                "miasto": "LUBLIN",
-                "powiat": "LUBLIN",
-                "adres": "ABRAMOWICKA 2",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SZPITAL NEUROPSYCHIATRYCZNY IM. PROF. M. KACZYŃSKIEGO SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ",
-                "poziom": "I stopień",
-                "www": "http://www.snzoz.lublin.pl",
-                "telefon": "81 744 30 61 do 9",
-                "e-mail": null
+                "name": "Szpital Neuropsychiatryczny Im. Prof. M. Kaczyńskiego Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://www.snzoz.lublin.pl",
+                "phone": "81 744 30 61 do 9",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +41,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 86,
-                "JPT_KOD_JE": "0663",
-                "JPT_NAZWA_": "powiat Lublin",
-                "id": 69,
-                "wojewodztwo": "lubelskie",
-                "miasto": "LUBLIN",
-                "powiat": "LUBLIN",
-                "adres": "GRENADIERÓW 3",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ MINISTERSTWA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W LUBLINIE",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.szpitalmsw.pl",
-                "telefon": "81 728 46 26",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych I Administracji W Lublinie",
+                "website": "http://www.szpitalmsw.pl",
+                "phone": "81 728 46 26",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -86,21 +59,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 87,
-                "JPT_KOD_JE": "0663",
-                "JPT_NAZWA_": "powiat Lublin",
-                "id": 70,
-                "wojewodztwo": "lubelskie",
-                "miasto": "LUBLIN",
-                "powiat": "LUBLIN",
-                "adres": "JACZEWSKIEGO 2",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "INSTYTUT  MEDYCYNY WSI IM. WITOLDA CHODŹKI",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.imw.lublin.pl",
-                "telefon": "81 718 44 00",
-                "e-mail": null
+                "name": "Instytut Medycyny Wsi Im. Witolda Chodźki",
+                "website": "http://www.imw.lublin.pl",
+                "phone": "81 718 44 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -113,21 +77,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 88,
-                "JPT_KOD_JE": "0663",
-                "JPT_NAZWA_": "powiat Lublin",
-                "id": 72,
-                "wojewodztwo": "lubelskie",
-                "miasto": "LUBLIN",
-                "powiat": "LUBLIN",
-                "adres": "PROF. ANTONIEGO GĘBALI 6",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "UNIWERSYTECKI SZPITAL DZIECIĘCY W LUBLINIE",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.usdlublin.pl",
-                "telefon": "81 742 75 77",
-                "e-mail": null
+                "name": "Uniwersytecki Szpital Dziecięcy W Lublinie",
+                "website": "http://www.usdlublin.pl",
+                "phone": "81 742 75 77",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -140,21 +95,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 89,
-                "JPT_KOD_JE": "0663",
-                "JPT_NAZWA_": "powiat Lublin",
-                "id": 73,
-                "wojewodztwo": "lubelskie",
-                "miasto": "LUBLIN",
-                "powiat": "LUBLIN",
-                "adres": "BIERNACKIEGO 9",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY SZPITAL WOJEWÓDZKI IM. JANA BOŻEGO W LUBLINIE",
-                "poziom": "III stopień ",
-                "www": "http://www.janbozy.lublin.pl",
-                "telefon": "81 740 20 39",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Szpital Wojewódzki Im. Jana Bożego W Lublinie",
+                "website": "http://www.janbozy.lublin.pl",
+                "phone": "81 740 20 39",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -167,21 +113,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 90,
-                "JPT_KOD_JE": "0663",
-                "JPT_NAZWA_": "powiat Lublin",
-                "id": 74,
-                "wojewodztwo": "lubelskie",
-                "miasto": "LUBLIN",
-                "powiat": "LUBLIN",
-                "adres": "JACZEWSKIEGO 7",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "CENTRUM ONKOLOGII ZIEMI LUBELSKIEJ IM. ŚW. JANA Z DUKLI",
-                "poziom": "Szpital onkologiczny",
-                "www": "https://cozl.eu",
-                "telefon": "81 454 10 00,  454 10 01",
-                "e-mail": null
+                "name": "Centrum Onkologii Ziemi Lubelskiej Im. Św. Jana Z Dukli",
+                "website": "https://cozl.eu",
+                "phone": "81 454 10 00,  454 10 01",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -194,21 +131,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 91,
-                "JPT_KOD_JE": "0663",
-                "JPT_NAZWA_": "powiat Lublin",
-                "id": 65,
-                "wojewodztwo": "lubelskie",
-                "miasto": "LUBLIN",
-                "powiat": "LUBLIN",
-                "adres": "AL. KRAŚNICKA 100",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "WOJEWÓDZKI SZPITAL SPECJALISTYCZNY IM. STEFANA KARDYNAŁA WYSZYŃSKIEGO SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ",
-                "poziom": "III stopień ",
-                "www": "http://www.szpital.lublin.pl",
-                "telefon": "81 537 41 22",
-                "e-mail": null
+                "name": "Wojewódzki Szpital Specjalistyczny Im. Stefana Kardynała Wyszyńskiego Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://www.szpital.lublin.pl",
+                "phone": "81 537 41 22",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -221,21 +149,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 92,
-                "JPT_KOD_JE": "0663",
-                "JPT_NAZWA_": "powiat Lublin",
-                "id": 66,
-                "wojewodztwo": "lubelskie",
-                "miasto": "LUBLIN",
-                "powiat": "LUBLIN",
-                "adres": "DR. K. JACZEWSKIEGO 8",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY SZPITAL KLINICZNY NR 4 W LUBLINIE",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.spsk4.lublin.pl",
-                "telefon": "81 724 44 00",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Szpital Kliniczny Nr 4 W Lublinie",
+                "website": "http://www.spsk4.lublin.pl",
+                "phone": "81 724 44 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -248,21 +167,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 93,
-                "JPT_KOD_JE": "0663",
-                "JPT_NAZWA_": "powiat Lublin",
-                "id": 71,
-                "wojewodztwo": "lubelskie",
-                "miasto": "LUBLIN",
-                "powiat": "LUBLIN",
-                "adres": "AL. RACŁAWICKIE 23",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "1 WOJSKOWY SZPITAL KLINICZNY  Z POLIKLINIKĄ SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W LUBLINIE",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.1szw.pl",
-                "telefon": "0 261 18 32 00",
-                "e-mail": null
+                "name": "1 Wojskowy Szpital Kliniczny Z Polikliniką Samodzielny Publiczny Zakład Opieki Zdrowotnej W Lublinie",
+                "website": "http://www.1szw.pl",
+                "phone": "0 261 18 32 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

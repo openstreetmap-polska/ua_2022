@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 199,
-                "JPT_KOD_JE": "0461",
-                "JPT_NAZWA_": "powiat Bydgoszcz",
-                "id": 26,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Bydgoszcz",
-                "powiat": "Bydgoszcz",
-                "adres": "Seminaryjna 1",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Kujawsko - Pomorskie Centrum Pulmonologii w Bydgoszczy",
-                "poziom": "P",
-                "www": "http://www.szpital-pluc.bydgoszcz.pl",
-                "telefon": "52 325 66 00",
-                "e-mail": null
+                "name": "Kujawsko - Pomorskie Centrum Pulmonologii W Bydgoszczy",
+                "website": "http://www.szpital-pluc.bydgoszcz.pl",
+                "phone": "52 325 66 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 200,
-                "JPT_KOD_JE": "0461",
-                "JPT_NAZWA_": "powiat Bydgoszcz",
-                "id": 27,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Bydgoszcz",
-                "powiat": "Bydgoszcz",
-                "adres": "Markwarta 4-6",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Wielospecjalistyczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych w Bydgoszczy",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.szpital-msw.bydgoszcz.pl",
-                "telefon": "52 582 62 00",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Wielospecjalistyczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych W Bydgoszczy",
+                "website": "http://www.szpital-msw.bydgoszcz.pl",
+                "phone": "52 582 62 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +41,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 201,
-                "JPT_KOD_JE": "0461",
-                "JPT_NAZWA_": "powiat Bydgoszcz",
-                "id": 28,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Bydgoszcz",
-                "powiat": "Bydgoszcz",
-                "adres": "Powstańców Warszawy 5",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SPZOZ 10 Wojskowy Szpital Kliniczny z Polikliniką w Bydgoszczy",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.10wskmil.pl",
-                "telefon": "261 415 220 lub 222",
-                "e-mail": null
+                "name": "Spzoz 10 Wojskowy Szpital Kliniczny Z Polikliniką W Bydgoszczy",
+                "website": "http://www.10wskmil.pl",
+                "phone": "261 415 220 lub 222",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -86,21 +59,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 202,
-                "JPT_KOD_JE": "0461",
-                "JPT_NAZWA_": "powiat Bydgoszcz",
-                "id": 30,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Bydgoszcz",
-                "powiat": "Bydgoszcz",
-                "adres": "Ujejskiego 75",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital Uniwersytecki nr 2 im. dr Jana Biziela w Bydgoszczy",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.biziel.umk.pl",
-                "telefon": "52 36 55 799",
-                "e-mail": null
+                "name": "Szpital Uniwersytecki Nr 2 Im. Dr Jana Biziela W Bydgoszczy",
+                "website": "http://www.biziel.umk.pl",
+                "phone": "52 36 55 799",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -113,21 +77,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 203,
-                "JPT_KOD_JE": "0461",
-                "JPT_NAZWA_": "powiat Bydgoszcz",
-                "id": 31,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Bydgoszcz",
-                "powiat": "Bydgoszcz",
-                "adres": "Szpitalna 19",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Wielospecjalistyczny Szpital Miejski im. dr E. Warmińskiego w Bydgoszczy",
-                "poziom": "II stopień",
-                "www": "http://www.szpital.bydgoszcz.pl",
-                "telefon": "52 37 09 400",
-                "e-mail": null
+                "name": "Wielospecjalistyczny Szpital Miejski Im. Dr E. Warmińskiego W Bydgoszczy",
+                "website": "http://www.szpital.bydgoszcz.pl",
+                "phone": "52 37 09 400",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -140,21 +95,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 204,
-                "JPT_KOD_JE": "0461",
-                "JPT_NAZWA_": "powiat Bydgoszcz",
-                "id": 32,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Bydgoszcz",
-                "powiat": "Bydgoszcz",
-                "adres": "Chodkiewicza 44",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Wojewódzki Szpital Dziecięcy im.  dr J. Brudzińskiego w  Bydgoszczy",
-                "poziom": "Szpital pulmunologiczny",
-                "www": "http://www.wsd.org.pl",
-                "telefon": "52 32 62 100",
-                "e-mail": null
+                "name": "Wojewódzki Szpital Dziecięcy Im. Dr J. Brudzińskiego W Bydgoszczy",
+                "website": "http://www.wsd.org.pl",
+                "phone": "52 32 62 100",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -167,21 +113,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 205,
-                "JPT_KOD_JE": "0461",
-                "JPT_NAZWA_": "powiat Bydgoszcz",
-                "id": 33,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Bydgoszcz",
-                "powiat": "Bydgoszcz",
-                "adres": "Św. Floriana 12",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Wojewódzki Szpital Obserwacyjno-Zakaźny im. Tadeusza Borowicza w Bydgoszczy",
-                "poziom": "III stopień",
-                "www": "http://www.wsoz.pl",
-                "telefon": "52 325 56 00",
-                "e-mail": null
+                "name": "Wojewódzki Szpital Obserwacyjno-Zakaźny Im. Tadeusza Borowicza W Bydgoszczy",
+                "website": "http://www.wsoz.pl",
+                "phone": "52 325 56 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -194,21 +131,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 206,
-                "JPT_KOD_JE": "0461",
-                "JPT_NAZWA_": "powiat Bydgoszcz",
-                "id": 25,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Bydgoszcz",
-                "powiat": "Bydgoszcz",
-                "adres": "I. Romanowskiej 2",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Centrum Onkologii im. Prof. Franciszka Łukaszczyka w Bydgoszczy",
-                "poziom": "P",
-                "www": "http://www.co.bydgoszcz.pl",
-                "telefon": "52 374 31 10, 374 38 88",
-                "e-mail": null
+                "name": "Centrum Onkologii Im. Prof. Franciszka Łukaszczyka W Bydgoszczy",
+                "website": "http://www.co.bydgoszcz.pl",
+                "phone": "52 374 31 10, 374 38 88",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -221,21 +149,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 207,
-                "JPT_KOD_JE": "0461",
-                "JPT_NAZWA_": "powiat Bydgoszcz",
-                "id": 29,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Bydgoszcz",
-                "powiat": "Bydgoszcz",
-                "adres": "M.Skłodowskiej-Curie 9",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital Uniwersytecki nr 1 im. dr Antoniego Jurasza w Bydgoszczy",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.jurasza.pl",
-                "telefon": "52 585 40 00",
-                "e-mail": null
+                "name": "Szpital Uniwersytecki Nr 1 Im. Dr Antoniego Jurasza W Bydgoszczy",
+                "website": "http://www.jurasza.pl",
+                "phone": "52 585 40 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

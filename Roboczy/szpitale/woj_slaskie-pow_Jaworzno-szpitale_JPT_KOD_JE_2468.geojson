@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 371,
-                "JPT_KOD_JE": "2468",
-                "JPT_NAZWA_": "powiat Jaworzno",
-                "id": 485,
-                "wojewodztwo": "śląskie",
-                "miasto": "Jaworzno",
-                "powiat": "Jaworzno",
-                "adres": "Chełmońskiego 28",
-                "miejscowosc": "Jaworzno",
-                "kod": null,
-                "nazwa": "Szpital Wielospecjalistyczny w Jaworznie",
-                "poziom": "II stopień",
-                "www": "http://www.szpital.jaw.pl ",
-                "telefon": "32 616 44 82",
-                "e-mail": null
+                "name": "Szpital Wielospecjalistyczny W Jaworznie",
+                "website": "http://www.szpital.jaw.pl ",
+                "phone": "32 616 44 82",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

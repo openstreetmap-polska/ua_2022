@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 171,
-                "JPT_KOD_JE": "1411",
-                "JPT_NAZWA_": "powiat makowski",
-                "id": 187,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "MAKÓW MAZOWIECKI",
-                "powiat": "MAKOWSKI",
-                "adres": "WITOSA 2",
-                "miejscowosc": "MAKÓW MAZOWIECKI ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ - ZESPÓŁ ZAKŁADÓW ",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-makow.pl",
-                "telefon": "(29) 71 42 400",
-                "e-mail": "szpital@szpital-makow.pl"
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Zespół Zakładów",
+                "website": "http://www.szpital-makow.pl",
+                "phone": "(29) 71 42 400",
+                "email": "szpital@szpital-makow.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

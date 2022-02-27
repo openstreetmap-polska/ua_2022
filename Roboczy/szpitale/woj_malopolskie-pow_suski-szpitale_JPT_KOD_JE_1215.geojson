@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 509,
-                "JPT_KOD_JE": "1215",
-                "JPT_NAZWA_": "powiat suski",
-                "id": 177,
-                "wojewodztwo": "małopolskie",
-                "miasto": "Sucha Beskidzka",
-                "powiat": "suski",
-                "adres": "Szpitalna 22",
-                "miejscowosc": "Sucha Beskidzka",
-                "kod": "34-200",
-                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W SUCHEJ BESKIDZKIEJ",
-                "poziom": "II stopień",
-                "www": "http://www.zozsuchabeskidzka.pl",
-                "telefon": "33 872 31 00",
-                "e-mail": null
+                "name": "Zespół Opieki Zdrowotnej W Suchej Beskidzkiej",
+                "website": "http://www.zozsuchabeskidzka.pl",
+                "phone": "33 872 31 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

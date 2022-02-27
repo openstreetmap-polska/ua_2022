@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 575,
-                "JPT_KOD_JE": "0210",
-                "JPT_NAZWA_": "powiat lubański",
-                "id": 5,
-                "wojewodztwo": "dolnośląskie",
-                "miasto": "Lubań",
-                "powiat": "lubański",
-                "adres": "ZAWIDOWSKA 4",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "NIEPUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ ŁUŻYCKIE CENTRUM MEDYCZNE W LUBANIU SPÓŁKA Z OGRANICZONĄ ODPOW",
-                "poziom": "II stopień",
-                "www": "http://www.lcm-luban.pl",
-                "telefon": "75 721 39 20",
-                "e-mail": "sekretariat@lcm-luban.pl"
+                "name": "Niepubliczny Zakład Opieki Zdrowotnej Łużyckie Centrum Medyczne W Lubaniu Spółka Z Ograniczoną Odpow",
+                "website": "http://www.lcm-luban.pl",
+                "phone": "75 721 39 20",
+                "email": "sekretariat@lcm-luban.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

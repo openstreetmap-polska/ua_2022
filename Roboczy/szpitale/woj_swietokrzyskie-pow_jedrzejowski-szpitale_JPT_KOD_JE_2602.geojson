@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 232,
-                "JPT_KOD_JE": "2602",
-                "JPT_NAZWA_": "powiat jędrzejowski",
-                "id": 438,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "JĘDRZEJÓW",
-                "powiat": "JĘDRZEJOWSKI",
-                "adres": "MAŁOGOSKA 25",
-                "miejscowosc": "JĘDRZEJÓW",
-                "kod": null,
-                "nazwa": "ARTMEDIK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "I stopień",
-                "www": "http://szpital-jedrzejow.pl",
-                "telefon": "41 386 17 21",
-                "e-mail": null
+                "name": "Artmedik Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://szpital-jedrzejow.pl",
+                "phone": "41 386 17 21",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

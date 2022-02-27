@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 176,
-                "JPT_KOD_JE": "0221",
-                "JPT_NAZWA_": "powiat wałbrzyski",
-                "id": 19,
-                "wojewodztwo": "dolnośląskie",
-                "miasto": "Sokołowsko",
-                "powiat": "dzierżoniowski",
-                "adres": "PARKOWA 3",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SANATORIA DOLNOŚLĄSKIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "Szpital pulmunologiczny",
-                "www": "http://www.sanatoria-dolnoslaskie.pl",
-                "telefon": "74 836 97 11",
-                "e-mail": "biuro.rosciszow@sanatoria-dolnoslaskie.pl"
+                "name": "Sanatoria Dolnośląskie Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.sanatoria-dolnoslaskie.pl",
+                "phone": "74 836 97 11",
+                "email": "biuro.rosciszow@sanatoria-dolnoslaskie.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

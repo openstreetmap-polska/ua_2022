@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 488,
-                "JPT_KOD_JE": "2008",
-                "JPT_NAZWA_": "powiat moniecki",
-                "id": 569,
-                "wojewodztwo": "podlaskie",
-                "miasto": "moniecki",
-                "powiat": "Mońki",
-                "adres": "al. Niepodległości 9",
-                "miejscowosc": "Mońki",
-                "kod": "19-100",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MOŃKACH",
-                "poziom": "I stopień",
-                "www": "http://www.spzoz.monki.pl",
-                "telefon": "85 727 81 30",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Mońkach",
+                "website": "http://www.spzoz.monki.pl",
+                "phone": "85 727 81 30",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,11 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 489,
-                "JPT_KOD_JE": "2008",
-                "JPT_NAZWA_": "powiat moniecki",
-                "id": 575,
-                "wojewodztwo": "podlaskie",
-                "miasto": "moniecki",
-                "powiat": "Knyszyn",
-                "adres": "Grodzieńska 96  ",
-                "miejscowosc": "Knyszyn",
-                "kod": "19-120",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ IM. DR E. JELSKIEGO",
-                "poziom": "I stopień",
-                "www": null,
-                "telefon": "85 727 91 70",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Im. Dr E. Jelskiego",
+                "phone": "85 727 91 70",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

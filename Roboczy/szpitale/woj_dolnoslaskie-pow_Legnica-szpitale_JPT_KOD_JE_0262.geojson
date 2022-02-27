@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 167,
-                "JPT_KOD_JE": "0262",
-                "JPT_NAZWA_": "powiat Legnica",
-                "id": 6,
-                "wojewodztwo": "dolnośląskie",
-                "miasto": "Legnica",
-                "powiat": "m.Legnica",
-                "adres": "JAROSŁAWA IWASZKIEWICZA 5",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "WOJEWÓDZKI SZPITAL SPECJALISTYCZNY W LEGNICY",
-                "poziom": "II stopień",
-                "www": "http://www.szpital.legnica.pl",
-                "telefon": "76 72 11 000",
-                "e-mail": "sekretariat@szpital.legnica.pl"
+                "name": "Wojewódzki Szpital Specjalistyczny W Legnicy",
+                "website": "http://www.szpital.legnica.pl",
+                "phone": "76 72 11 000",
+                "email": "sekretariat@szpital.legnica.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

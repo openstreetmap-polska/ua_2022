@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 68,
-                "JPT_KOD_JE": "0416",
-                "JPT_NAZWA_": "powiat tucholski",
-                "id": 49,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Tuchola",
-                "powiat": "tucholski",
-                "adres": "Nowodworskiego 14-18",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital Tucholski  sp. z o.o. w Tucholi",
-                "poziom": "I stopień",
-                "www": "http://www.szpitaltuchola.pl",
-                "telefon": "52 336 05 59",
-                "e-mail": null
+                "name": "Szpital Tucholski Sp. Z O.O. W Tucholi",
+                "website": "http://www.szpitaltuchola.pl",
+                "phone": "52 336 05 59",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

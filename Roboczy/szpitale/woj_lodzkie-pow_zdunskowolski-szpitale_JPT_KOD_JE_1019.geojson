@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 445,
-                "JPT_KOD_JE": "1019",
-                "JPT_NAZWA_": "powiat zduńskowolski",
-                "id": 144,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Zduńska Wola",
-                "powiat": "zduńskowolski",
-                "adres": "Królewska 29",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Zduńskowolski Szpital Powiatowy Sp. z o.o.",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-zdwola.info",
-                "telefon": "43 824 41 00",
-                "e-mail": "sekretariat@szpital-zdwola.info"
+                "name": "Zduńskowolski Szpital Powiatowy Sp. Z O.O.",
+                "website": "http://www.szpital-zdwola.info",
+                "phone": "43 824 41 00",
+                "email": "sekretariat@szpital-zdwola.info",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

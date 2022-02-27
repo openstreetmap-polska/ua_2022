@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 316,
-                "JPT_KOD_JE": "1462",
-                "JPT_NAZWA_": "powiat Płock",
-                "id": 194,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "PŁOCK",
-                "powiat": "PŁOCK",
-                "adres": "KOŚCIUSZKI 28 ",
-                "miejscowosc": "PŁOCK ",
-                "kod": null,
-                "nazwa": "PŁOCKI ZAKŁAD OPIEKI ZDROWOTNEJ SP. Z O.O.",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalplock.pl",
-                "telefon": "24364530, 2243645000",
-                "e-mail": "sekretariat@plockizoz.pl"
+                "name": "Płocki Zakład Opieki Zdrowotnej Sp. Z O.O.",
+                "website": "http://www.szpitalplock.pl",
+                "phone": "24364530, 2243645000",
+                "email": "sekretariat@plockizoz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 317,
-                "JPT_KOD_JE": "1462",
-                "JPT_NAZWA_": "powiat Płock",
-                "id": 228,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "PŁOCK",
-                "powiat": "PŁOCK",
-                "adres": "MEDYCZNA 19",
-                "miejscowosc": "PŁOCK ",
-                "kod": null,
-                "nazwa": "WOJEWÓDZKI SZPITAL ZESPOLONY W PŁOCKU",
-                "poziom": "III stopień",
-                "www": "http://www.wszplock.pl",
-                "telefon": "24 36 46 105",
-                "e-mail": "sekretariat@wszplock.pl"
+                "name": "Wojewódzki Szpital Zespolony W Płocku",
+                "website": "http://www.wszplock.pl",
+                "phone": "24 36 46 105",
+                "email": "sekretariat@wszplock.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

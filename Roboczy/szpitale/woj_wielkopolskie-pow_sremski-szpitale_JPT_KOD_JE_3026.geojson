@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 394,
-                "JPT_KOD_JE": "3026",
-                "JPT_NAZWA_": "powiat śremski",
-                "id": 399,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "ŚREM ",
-                "powiat": "ŚREMSKI ",
-                "adres": "CHEŁMOŃSKIEGO 1 ",
-                "miejscowosc": null,
-                "kod": "63-100 ",
-                "nazwa": "SZPITAL POWIATOWY IM. TADEUSZA MALIŃSKIEGO W ŚREMIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ ",
-                "poziom": "II stopień ",
-                "www": "http://www.szpitalwsremie.pl/ ",
-                "telefon": "(061)28-15-443 ",
-                "e-mail": null
+                "name": "Szpital Powiatowy Im. Tadeusza Malińskiego W Śremie Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpitalwsremie.pl/ ",
+                "phone": "(061)28-15-443 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 395,
-                "JPT_KOD_JE": "3026",
-                "JPT_NAZWA_": "powiat śremski",
-                "id": 400,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "ŚREM ",
-                "powiat": "ŚREMSKI ",
-                "adres": "MICKIEWICZA 95 ",
-                "miejscowosc": null,
-                "kod": "63-100 ",
-                "nazwa": "WIELKOPOLSKI OŚRODEK REUMATOLOGICZNY SAMODZIELNY PUBLICZNY SPECJALISTYCZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W ŚREMIE ",
-                "poziom": "II stopień ",
-                "www": "http://www.reumatologia.srem.net ",
-                "telefon": "(61)28-36-273, (61)28-36-289 ",
-                "e-mail": null
+                "name": "Wielkopolski Ośrodek Reumatologiczny Samodzielny Publiczny Specjalistyczny Zespół Opieki Zdrowotnej W Śremie",
+                "website": "http://www.reumatologia.srem.net ",
+                "phone": "(61)28-36-273, (61)28-36-289 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

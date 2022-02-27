@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 82,
-                "JPT_KOD_JE": "0619",
-                "JPT_NAZWA_": "powiat włodawski",
-                "id": 53,
-                "wojewodztwo": "lubelskie",
-                "miasto": "ADAMPOL",
-                "powiat": "WŁODAWSKI",
-                "adres": "37",
-                "miejscowosc": "ADAMPOL",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ GRUŹLICY I CHORÓB PŁUC W ADAMPOLU",
-                "poziom": "Szpital pulmunologiczny",
-                "www": "http://www.spzozadampol.pl",
-                "telefon": "82 591 32 86",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Gruźlicy I Chorób Płuc W Adampolu",
+                "website": "http://www.spzozadampol.pl",
+                "phone": "82 591 32 86",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 83,
-                "JPT_KOD_JE": "0619",
-                "JPT_NAZWA_": "powiat włodawski",
-                "id": 87,
-                "wojewodztwo": "lubelskie",
-                "miasto": "WŁODAWA",
-                "powiat": "WŁODAWSKI",
-                "adres": "AL. JÓZEFA PIŁSUDSKIEGO 64",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ WE WŁODAWIE",
-                "poziom": "I stopień",
-                "www": "http://www.spzoz.wlodawa.pl",
-                "telefon": "82 572 58 01",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej We Włodawie",
+                "website": "http://www.spzoz.wlodawa.pl",
+                "phone": "82 572 58 01",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 69,
-                "JPT_KOD_JE": "2403",
-                "JPT_NAZWA_": "powiat cieszyński",
-                "id": 478,
-                "wojewodztwo": "śląskie",
-                "miasto": "Cieszyn",
-                "powiat": "Cieszyn",
-                "adres": "Bielska 4",
-                "miejscowosc": "Cieszyn",
-                "kod": null,
-                "nazwa": "Zespół Zakładów Opieki Zdrowotnej w Cieszynie",
-                "poziom": "III stopień",
-                "www": "http://www.szpitalslaski.pl",
-                "telefon": "33 852 05 11",
-                "e-mail": null
+                "name": "Zespół Zakładów Opieki Zdrowotnej W Cieszynie",
+                "website": "http://www.szpitalslaski.pl",
+                "phone": "33 852 05 11",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 70,
-                "JPT_KOD_JE": "2403",
-                "JPT_NAZWA_": "powiat cieszyński",
-                "id": 490,
-                "wojewodztwo": "śląskie",
-                "miasto": "cieszyński",
-                "powiat": "Ustroń",
-                "adres": "Szpitalna 11",
-                "miejscowosc": "Ustroń",
-                "kod": null,
-                "nazwa": "Śląskie Centrum Reumatologii, Rehabilitacji i Zapobiegania Niepełnosprawności im. gen. Jerzego Ziętka w Ustroniu Sp. z o.o.",
-                "poziom": "II stopień",
-                "www": "http://www.reumatologiczny.pl",
-                "telefon": "33 856 80 87",
-                "e-mail": null
+                "name": "Śląskie Centrum Reumatologii, Rehabilitacji I Zapobiegania Niepełnosprawności Im. Gen. Jerzego Ziętka W Ustroniu Sp. Z O.O.",
+                "website": "http://www.reumatologiczny.pl",
+                "phone": "33 856 80 87",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +41,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 71,
-                "JPT_KOD_JE": "2403",
-                "JPT_NAZWA_": "powiat cieszyński",
-                "id": 459,
-                "wojewodztwo": "śląskie",
-                "miasto": "cieszyński",
-                "powiat": "Istebna",
-                "adres": "Istebna 500",
-                "miejscowosc": "Istebna",
-                "kod": null,
-                "nazwa": "Wojewódzkie Centrum Pediatrii \"Kubalonka\" w Istebnej",
-                "poziom": "Szpital pulmonologiczny",
-                "www": "http://www.wcpkubalonka.com",
-                "telefon": "33 857 56 00 ",
-                "e-mail": null
+                "name": "Wojewódzkie Centrum Pediatrii \"Kubalonka\" W Istebnej",
+                "website": "http://www.wcpkubalonka.com",
+                "phone": "33 857 56 00 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

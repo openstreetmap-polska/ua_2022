@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 66,
-                "JPT_KOD_JE": "0463",
-                "JPT_NAZWA_": "powiat Toruń",
-                "id": 47,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Toruń",
-                "powiat": "Toruń",
-                "adres": "Św. Józefa 53-59",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Wojewódzki Szpital Zespolony im. L. Rydygiera w Toruniu ",
-                "poziom": "III stopień",
-                "www": "http://www.wszz.torun.pl",
-                "telefon": "56 679 31 00, 679 32 00",
-                "e-mail": null
+                "name": "Wojewódzki Szpital Zespolony Im. L. Rydygiera W Toruniu",
+                "website": "http://www.wszz.torun.pl",
+                "phone": "56 679 31 00, 679 32 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 67,
-                "JPT_KOD_JE": "0463",
-                "JPT_NAZWA_": "powiat Toruń",
-                "id": 46,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Toruń",
-                "powiat": "Toruń",
-                "adres": "Batorego 17/19",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SPZOZ Specjalistyczny Szpital Miejski im. M. Kopernika w Toruniu",
-                "poziom": "II stopień",
-                "www": "http://www.med.torun.pl",
-                "telefon": "56 61 00 209",
-                "e-mail": null
+                "name": "Spzoz Specjalistyczny Szpital Miejski Im. M. Kopernika W Toruniu",
+                "website": "http://www.med.torun.pl",
+                "phone": "56 61 00 209",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

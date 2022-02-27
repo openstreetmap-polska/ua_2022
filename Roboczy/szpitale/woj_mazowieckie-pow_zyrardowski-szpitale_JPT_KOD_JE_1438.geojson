@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 36,
-                "JPT_KOD_JE": "1438",
-                "JPT_NAZWA_": "powiat żyrardowski",
-                "id": 217,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "ŻYRARDÓW",
-                "powiat": "ŻYRARDOWSKI",
-                "adres": "LIMANOWSKIEGO 30",
-                "miejscowosc": "ŻYRARDÓW ",
-                "kod": null,
-                "nazwa": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "I stopień",
-                "www": "http://www.czmz.szpitalzyrardow.pl",
-                "telefon": "468553527",
-                "e-mail": "sekretariat@szpitalzyrardow.pl"
+                "name": "Centrum Zdrowia Mazowsza Zachodniego Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.czmz.szpitalzyrardow.pl",
+                "phone": "468553527",
+                "email": "sekretariat@szpitalzyrardow.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

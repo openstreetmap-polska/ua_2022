@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 247,
-                "JPT_KOD_JE": "2261",
-                "JPT_NAZWA_": "powiat Gdańsk",
-                "id": 534,
-                "wojewodztwo": "pomorskie",
-                "miasto": "Gdańsk",
-                "powiat": "Gdańsk",
-                "adres": "Kartuska 4/6",
-                "miejscowosc": "Gdańsk",
-                "kod": "80-104",
-                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej MSWiA",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.zozmswia.gda.pl",
-                "telefon": "58 309-82-22",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Mswia",
+                "website": "http://www.zozmswia.gda.pl",
+                "phone": "58 309-82-22",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 248,
-                "JPT_KOD_JE": "2261",
-                "JPT_NAZWA_": "powiat Gdańsk",
-                "id": 535,
-                "wojewodztwo": "pomorskie",
-                "miasto": "Gdańsk",
-                "powiat": "Gdańsk",
-                "adres": "Kartuska 4/6",
-                "miejscowosc": "Gdańsk",
-                "kod": "80-104",
-                "nazwa": "Pomorskie Centrum Toksykologii",
-                "poziom": "III stopień",
-                "www": "http://www.pctox.pl",
-                "telefon": "58 682-04-04",
-                "e-mail": null
+                "name": "Pomorskie Centrum Toksykologii",
+                "website": "http://www.pctox.pl",
+                "phone": "58 682-04-04",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +41,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 249,
-                "JPT_KOD_JE": "2261",
-                "JPT_NAZWA_": "powiat Gdańsk",
-                "id": 532,
-                "wojewodztwo": "pomorskie",
-                "miasto": "Gdańsk",
-                "powiat": "Gdańsk",
-                "adres": "Dębinki 7",
-                "miejscowosc": "Gdańsk",
-                "kod": "80-952",
-                "nazwa": "Uniwersyteckie Centrum Kliniczne",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.uck.gda.pl",
-                "telefon": "58 727-05-05",
-                "e-mail": null
+                "name": "Uniwersyteckie Centrum Kliniczne",
+                "website": "http://www.uck.gda.pl",
+                "phone": "58 727-05-05",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -86,21 +59,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 250,
-                "JPT_KOD_JE": "2261",
-                "JPT_NAZWA_": "powiat Gdańsk",
-                "id": 533,
-                "wojewodztwo": "pomorskie",
-                "miasto": "Gdańsk",
-                "powiat": "Gdańsk",
-                "adres": "Polanki 119",
-                "miejscowosc": "Gdańsk",
-                "kod": "80-309",
-                "nazwa": "Szpital Dziecięcy Polanki Sp. z o.o.",
-                "poziom": "Szpital pediatryczny",
-                "www": "http://www.szpitalpolanki.pl",
-                "telefon": "58 520-93-03",
-                "e-mail": null
+                "name": "Szpital Dziecięcy Polanki Sp. Z O.O.",
+                "website": "http://www.szpitalpolanki.pl",
+                "phone": "58 520-93-03",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -113,21 +77,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 251,
-                "JPT_KOD_JE": "2261",
-                "JPT_NAZWA_": "powiat Gdańsk",
-                "id": 536,
-                "wojewodztwo": "pomorskie",
-                "miasto": "Gdańsk",
-                "powiat": "Gdańsk",
-                "adres": "Nowe Ogrody 1-6",
-                "miejscowosc": "Gdańsk",
-                "kod": "80-803",
-                "nazwa": "Copernicus Podmiot Leczniczy Sp. z o.o. ",
-                "poziom": "III stopień",
-                "www": "http://www.copernicus.gda.pl",
-                "telefon": "58 764-01-00",
-                "e-mail": null
+                "name": "Copernicus Podmiot Leczniczy Sp. Z O.O.",
+                "website": "http://www.copernicus.gda.pl",
+                "phone": "58 764-01-00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -140,21 +95,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 252,
-                "JPT_KOD_JE": "2261",
-                "JPT_NAZWA_": "powiat Gdańsk",
-                "id": 537,
-                "wojewodztwo": "pomorskie",
-                "miasto": "Gdańsk",
-                "powiat": "Gdańsk",
-                "adres": "Polanki 117",
-                "miejscowosc": "Gdańsk",
-                "kod": "80-305",
-                "nazwa": "7 Szpital Marynarki Wojennej z Przychodnią SPZOZ",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.7szmw.pl",
-                "telefon": "58 552-63-26",
-                "e-mail": null
+                "name": "7 Szpital Marynarki Wojennej Z Przychodnią Spzoz",
+                "website": "http://www.7szmw.pl",
+                "phone": "58 552-63-26",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

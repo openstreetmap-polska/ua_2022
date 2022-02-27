@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 96,
-                "JPT_KOD_JE": "0812",
-                "JPT_NAZWA_": "powiat wschowski",
-                "id": 91,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Wschowa",
-                "powiat": "wschowski",
-                "adres": "Ks. Kostki 33",
-                "miejscowosc": "Wschowa",
-                "kod": "67-400",
-                "nazwa": "Nowy Szpital we Wschowie Spółka z ograniczoną odpwiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.nowyszpital.pl",
-                "telefon": "65 540 27 61",
-                "e-mail": "sekretariat.wschowa@nowyszpital.pl"
+                "name": "Nowy Szpital We Wschowie Spółka Z Ograniczoną Odpwiedzialnością",
+                "website": "http://www.nowyszpital.pl",
+                "phone": "65 540 27 61",
+                "email": "sekretariat.wschowa@nowyszpital.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

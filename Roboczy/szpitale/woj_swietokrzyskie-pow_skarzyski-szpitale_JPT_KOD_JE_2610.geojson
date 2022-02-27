@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 103,
-                "JPT_KOD_JE": "2610",
-                "JPT_NAZWA_": "powiat skarżyski",
-                "id": 450,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "SKARŻYSKO-KAMIENNA",
-                "powiat": "SKARŻYSKI",
-                "adres": "SZPITALNA 1",
-                "miejscowosc": "SKARŻYSKO-KAMIENNA",
-                "kod": null,
-                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W SKARŻYSKU KAMIENNEJ SZPITAL POWIATOWY IM. MARII SKŁODOWSKIEJ-CURIE",
-                "poziom": "II stopień",
-                "www": "http://zoz.com.pl",
-                "telefon": "516209218",
-                "e-mail": null
+                "name": "Zespół Opieki Zdrowotnej W Skarżysku Kamiennej Szpital Powiatowy Im. Marii Skłodowskiej-Curie",
+                "website": "http://zoz.com.pl",
+                "phone": "516209218",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

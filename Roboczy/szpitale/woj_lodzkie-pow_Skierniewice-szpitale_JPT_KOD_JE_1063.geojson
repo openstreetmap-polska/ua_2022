@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 246,
-                "JPT_KOD_JE": "1063",
-                "JPT_NAZWA_": "powiat Skierniewice",
-                "id": 141,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Skierniewice",
-                "powiat": "skierniewicki",
-                "adres": "Rybickiego 1",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Wojewódzki Szpital Zespolony im. S. Rybickiego w Skierniewicach",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalskierniewice.pl",
-                "telefon": "46 834 08 90",
-                "e-mail": "p.rudzik@wsz-skier.pl"
+                "name": "Wojewódzki Szpital Zespolony Im. S. Rybickiego W Skierniewicach",
+                "website": "http://www.szpitalskierniewice.pl",
+                "phone": "46 834 08 90",
+                "email": "p.rudzik@wsz-skier.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

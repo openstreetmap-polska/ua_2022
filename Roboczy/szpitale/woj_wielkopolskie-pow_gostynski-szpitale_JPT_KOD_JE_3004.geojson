@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 233,
-                "JPT_KOD_JE": "3004",
-                "JPT_NAZWA_": "powiat gostyński",
-                "id": 374,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "GOSTYŃ ",
-                "powiat": "GOSTYŃSKI ",
-                "adres": "PL.K. MARCINKOWSKIEGO 8/9 ",
-                "miejscowosc": null,
-                "kod": "63-800 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W GOSTYNIU ",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalgostyn.pl/ ",
-                "telefon": "(065)57-26-700 DO 04 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej W Gostyniu",
+                "website": "http://www.szpitalgostyn.pl/ ",
+                "phone": "(065)57-26-700 DO 04 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

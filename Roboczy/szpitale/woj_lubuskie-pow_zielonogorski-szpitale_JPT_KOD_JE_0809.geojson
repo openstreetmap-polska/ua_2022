@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 184,
-                "JPT_KOD_JE": "0809",
-                "JPT_NAZWA_": "powiat zielonogórski",
-                "id": 93,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Sulechów",
-                "powiat": "zielonogórski",
-                "adres": "Zwycięstwa 1",
-                "miejscowosc": "Sulechów",
-                "kod": "66-100",
-                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Sulechowie",
-                "poziom": "I stopień",
-                "www": "http://www.spzozsulechow.med.pl",
-                "telefon": "68 416 13 03",
-                "e-mail": "spzoz@spzozsulechow.med.pl"
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Sulechowie",
+                "website": "http://www.spzozsulechow.med.pl",
+                "phone": "68 416 13 03",
+                "email": "spzoz@spzozsulechow.med.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

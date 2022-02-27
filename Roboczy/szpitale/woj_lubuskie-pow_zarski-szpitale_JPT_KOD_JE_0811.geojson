@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 313,
-                "JPT_KOD_JE": "0811",
-                "JPT_NAZWA_": "powiat żarski",
-                "id": 108,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Żary",
-                "powiat": "żarski",
-                "adres": "Domańskiego 2",
-                "miejscowosc": "Żary",
-                "kod": "68-200",
-                "nazwa": "105. Kresowy Szpital Wojskowy z Przychodnią Samodzilny Publiczny Zakład Opieki Zdrowotnej",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.105szpital.pl",
-                "telefon": "68 470 78 87, 68 477 12 02 ",
-                "e-mail": "sekretariat@105szpital.pl, sekretariat.zagan@105szpital.pl"
+                "name": "105. Kresowy Szpital Wojskowy Z Przychodnią Samodzilny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://www.105szpital.pl",
+                "phone": "68 470 78 87, 68 477 12 02 ",
+                "email": "sekretariat@105szpital.pl, sekretariat.zagan@105szpital.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 314,
-                "JPT_KOD_JE": "0811",
-                "JPT_NAZWA_": "powiat żarski",
-                "id": 96,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Żary",
-                "powiat": "żarski",
-                "adres": "Pszenna 2",
-                "miejscowosc": "Żary",
-                "kod": "68-200",
-                "nazwa": "Szpital Na Wyspie Spółka z ograniczoną odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalnawyspie.pl",
-                "telefon": "68 475 76 00",
-                "e-mail": "info@szpitalnawyspie.pl"
+                "name": "Szpital Na Wyspie Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpitalnawyspie.pl",
+                "phone": "68 475 76 00",
+                "email": "info@szpitalnawyspie.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

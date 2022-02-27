@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 344,
-                "JPT_KOD_JE": "0861",
-                "JPT_NAZWA_": "powiat Gorzów Wielkopolski",
-                "id": 105,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Gorzów Wielkopolski",
-                "powiat": "Gorzów Wielkopolski",
-                "adres": "Jana Dekerta 1",
-                "miejscowosc": "Gorzów Wielkopolski",
-                "kod": "66-400",
-                "nazwa": "Wielospecjalistyczny Szpital Wojewódzki w Gorzowie Wlkp. spółka z ograniczoną odpowiedzialnością",
-                "poziom": "III stopień",
-                "www": "http://www.szpital.gorzow.pl",
-                "telefon": "95 733 12 00",
-                "e-mail": "sekretariat@szpital.gorzow.pl"
+                "name": "Wielospecjalistyczny Szpital Wojewódzki W Gorzowie Wlkp. Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpital.gorzow.pl",
+                "phone": "95 733 12 00",
+                "email": "sekretariat@szpital.gorzow.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 506,
-                "JPT_KOD_JE": "3020",
-                "JPT_NAZWA_": "powiat pleszewski",
-                "id": 395,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "PLESZEW ",
-                "powiat": "PLESZEWSKI ",
-                "adres": "POZNAŃSKA 125A ",
-                "miejscowosc": null,
-                "kod": "63-300 ",
-                "nazwa": "\"PLESZEWSKIE CENTRUM MEDYCZNE W PLESZEWIE\" SP. Z O.O ",
-                "poziom": "II stopień ",
-                "www": "http://www.szpitalpleszew.pl/ ",
-                "telefon": "(062)74-20-900 ",
-                "e-mail": null
+                "name": "\"Pleszewskie Centrum Medyczne W Pleszewie\" Sp. Z O.O",
+                "website": "http://www.szpitalpleszew.pl/ ",
+                "phone": "(062)74-20-900 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

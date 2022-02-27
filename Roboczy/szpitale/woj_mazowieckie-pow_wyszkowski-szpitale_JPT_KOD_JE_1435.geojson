@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 356,
-                "JPT_KOD_JE": "1435",
-                "JPT_NAZWA_": "powiat wyszkowski",
-                "id": 214,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WYSZKÓW",
-                "powiat": "WYSZKOWSKI",
-                "adres": "KOMISJI EDUKACJI NARODOWEJ 1",
-                "miejscowosc": "WYSZKÓW ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W WYSZKOWIE",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-wyszkow.com.pl",
-                "telefon": "29 743-76-11",
-                "e-mail": "spzzoz@wp.pl"
+                "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej W Wyszkowie",
+                "website": "http://www.szpital-wyszkow.com.pl",
+                "phone": "29 743-76-11",
+                "email": "spzzoz@wp.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

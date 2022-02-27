@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 102,
-                "JPT_KOD_JE": "2607",
-                "JPT_NAZWA_": "powiat ostrowiecki",
-                "id": 447,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "OSTROWIEC ŚWIĘTOKRZYSKI",
-                "powiat": "OSTROWIECKI",
-                "adres": "SZYMANOWSKIEGO 11",
-                "miejscowosc": "OSTROWIEC ŚWIĘTOKRZYSKI",
-                "kod": null,
-                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W OSTROWCU ŚWIĘTOKRZYSKIM",
-                "poziom": "II stopień",
-                "www": "http://zoz.ostrowiec.pl",
-                "telefon": "41 247 80 00 ",
-                "e-mail": null
+                "name": "Zespół Opieki Zdrowotnej W Ostrowcu Świętokrzyskim",
+                "website": "http://zoz.ostrowiec.pl",
+                "phone": "41 247 80 00 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

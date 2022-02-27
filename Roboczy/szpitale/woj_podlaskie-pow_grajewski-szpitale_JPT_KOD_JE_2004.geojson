@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 318,
-                "JPT_KOD_JE": "2004",
-                "JPT_NAZWA_": "powiat grajewski",
-                "id": 564,
-                "wojewodztwo": "podlaskie",
-                "miasto": "grajewski",
-                "powiat": "Grajewo",
-                "adres": "Konstytucji 3 Maja 34",
-                "miejscowosc": "Grajewo",
-                "kod": "19-200",
-                "nazwa": "SZPITAL OGÓLNY IM. DR W. GINELA W GRAJEWIE",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-grajewo.pl",
-                "telefon": "86 272 32 71",
-                "e-mail": null
+                "name": "Szpital Ogólny Im. Dr W. Ginela W Grajewie",
+                "website": "http://www.szpital-grajewo.pl",
+                "phone": "86 272 32 71",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

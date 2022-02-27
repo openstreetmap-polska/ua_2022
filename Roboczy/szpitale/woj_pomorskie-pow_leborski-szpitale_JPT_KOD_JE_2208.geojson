@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 349,
-                "JPT_KOD_JE": "2208",
-                "JPT_NAZWA_": "powiat lęborski",
-                "id": 544,
-                "wojewodztwo": "pomorskie",
-                "miasto": "lęborski",
-                "powiat": "Lębork",
-                "adres": "Juliana Węgrzynowicza 13",
-                "miejscowosc": "Lębork",
-                "kod": "84-300",
-                "nazwa": "Samodzielny Publiczny Specjalistyczny Zespół Opieki Zdrowotnej Lębork",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-lebork.com.pl",
-                "telefon": "59 863-52-83",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Specjalistyczny Zespół Opieki Zdrowotnej Lębork",
+                "website": "http://www.szpital-lebork.com.pl",
+                "phone": "59 863-52-83",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 177,
-                "JPT_KOD_JE": "0208",
-                "JPT_NAZWA_": "powiat kłodzki",
-                "id": 7,
-                "wojewodztwo": "dolnośląskie",
-                "miasto": "Kłodzko",
-                "powiat": "kłodzki",
-                "adres": "SZPITALNA 1A",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W KŁODZKU",
-                "poziom": "II stopień",
-                "www": "http://www.zoz.klodzko.pl",
-                "telefon": "74 86 51 200",
-                "e-mail": "sekretariat@zoz.klodzko.pl"
+                "name": "Zespół Opieki Zdrowotnej W Kłodzku",
+                "website": "http://www.zoz.klodzko.pl",
+                "phone": "74 86 51 200",
+                "email": "sekretariat@zoz.klodzko.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 178,
-                "JPT_KOD_JE": "0208",
-                "JPT_NAZWA_": "powiat kłodzki",
-                "id": 1,
-                "wojewodztwo": "dolnośląskie",
-                "miasto": "Polanica-Zdrój",
-                "powiat": "kłodzki",
-                "adres": "JANA PAWŁA II 2",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SPECJALISTYCZNE CENTRUM MEDYCZNE SPÓŁKA AKCYJNA",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.scm.pl",
-                "telefon": "74 86 21 100",
-                "e-mail": "sekretariat@scm.pl"
+                "name": "Specjalistyczne Centrum Medyczne Spółka Akcyjna",
+                "website": "http://www.scm.pl",
+                "phone": "74 86 21 100",
+                "email": "sekretariat@scm.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

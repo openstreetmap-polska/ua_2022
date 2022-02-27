@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 446,
-                "JPT_KOD_JE": "0804",
-                "JPT_NAZWA_": "powiat nowosolski",
-                "id": 106,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Nowa Sól",
-                "powiat": "nowosolski",
-                "adres": "Chałubińskiego 7",
-                "miejscowosc": "Nowa Sól",
-                "kod": "67-100",
-                "nazwa": "Wielospecjalistyczny Szpital Samodzielny Publiczny Zakład Opieki Zdrowotnej w Nowej Soli",
-                "poziom": "III stopień",
-                "www": "http://www.szpital-nowasol.pl",
-                "telefon": "68 388 21 00",
-                "e-mail": "sekretariat@szpital-nowasol.pl"
+                "name": "Wielospecjalistyczny Szpital Samodzielny Publiczny Zakład Opieki Zdrowotnej W Nowej Soli",
+                "website": "http://www.szpital-nowasol.pl",
+                "phone": "68 388 21 00",
+                "email": "sekretariat@szpital-nowasol.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 447,
-                "JPT_KOD_JE": "0804",
-                "JPT_NAZWA_": "powiat nowosolski",
-                "id": 103,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Nowa Sól",
-                "powiat": "nowosolski",
-                "adres": "Chałubińskiego 7",
-                "miejscowosc": "Nowa Sól",
-                "kod": "67-100",
-                "nazwa": "MEDINET Spółka z ograniczona odpowiedzialnością",
-                "poziom": "III stopień",
-                "www": "http://www.medinet.pl",
-                "telefon": "68 388 21 91",
-                "e-mail": "nowasol@medinet.pl"
+                "name": "Medinet Spółka Z Ograniczona Odpowiedzialnością",
+                "website": "http://www.medinet.pl",
+                "phone": "68 388 21 91",
+                "email": "nowasol@medinet.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

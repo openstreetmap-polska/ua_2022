@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 354,
-                "JPT_KOD_JE": "1421",
-                "JPT_NAZWA_": "powiat pruszkowski",
-                "id": 196,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "PRUSZKÓW",
-                "powiat": "PRUSZKOWSKI",
-                "adres": "ARMII KRAJOWEJ 2/4",
-                "miejscowosc": "PRUSZKÓW ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W PRUSZKOWIE",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalnawrzesinie.pl",
-                "telefon": "22 758-60-54/55",
-                "e-mail": "sekretariat@szpitalnawrzesinie.pl"
+                "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej W Pruszkowie",
+                "website": "http://www.szpitalnawrzesinie.pl",
+                "phone": "22 758-60-54/55",
+                "email": "sekretariat@szpitalnawrzesinie.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 355,
-                "JPT_KOD_JE": "1421",
-                "JPT_NAZWA_": "powiat pruszkowski",
-                "id": 237,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "KAJETANY",
-                "powiat": "PRUSZKOWSKI",
-                "adres": "MOKRA 17",
-                "miejscowosc": "KAJETANY ",
-                "kod": null,
-                "nazwa": "INSTYTUT FIZJOLOGII I PATOLOGII SŁUCHU",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.ifps.org.pl",
-                "telefon": "223560366",
-                "e-mail": "sekretariat.kajetany@ifps.org.pl"
+                "name": "Instytut Fizjologii I Patologii Słuchu",
+                "website": "http://www.ifps.org.pl",
+                "phone": "223560366",
+                "email": "sekretariat.kajetany@ifps.org.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

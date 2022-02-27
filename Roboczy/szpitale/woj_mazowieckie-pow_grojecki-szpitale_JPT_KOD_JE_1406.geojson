@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 431,
-                "JPT_KOD_JE": "1406",
-                "JPT_NAZWA_": "powiat grójecki",
-                "id": 183,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "NOWE MIASTO NAD PILICĄ",
-                "powiat": "GRÓJECKI",
-                "adres": "TOMASZOWSKA 43",
-                "miejscowosc": "NOWE MIASTO NAD PILICĄ ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W NOWYM MIEŚCIE NAD PILICĄ",
-                "poziom": "I stopień",
-                "www": "http://www.zoz-nowemiasto.net",
-                "telefon": "48 674 38 00",
-                "e-mail": "szpital@zoz-nowemiasto.net"
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Nowym Mieście Nad Pilicą",
+                "website": "http://www.zoz-nowemiasto.net",
+                "phone": "48 674 38 00",
+                "email": "szpital@zoz-nowemiasto.net",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 432,
-                "JPT_KOD_JE": "1406",
-                "JPT_NAZWA_": "powiat grójecki",
-                "id": 184,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "GRÓJEC",
-                "powiat": "GRÓJECKI",
-                "adres": "PIOTRA SKARGI 10",
-                "miejscowosc": "GRÓJEC ",
-                "kod": null,
-                "nazwa": "SZPITAL SPECJALISTYCZNY / ZESPÓŁ PORADNI SPECJALISTYCZNYCH I RATOWNICTWA MEDYCZNEGO",
-                "poziom": "I stopień",
-                "www": "http://www.pcmg.pl",
-                "telefon": "48 66 49 100",
-                "e-mail": "sekretariat@pcmg.pl"
+                "name": "Szpital Specjalistyczny / Zespół Poradni Specjalistycznych I Ratownictwa Medycznego",
+                "website": "http://www.pcmg.pl",
+                "phone": "48 66 49 100",
+                "email": "sekretariat@pcmg.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 508,
-                "JPT_KOD_JE": "1817",
-                "JPT_NAZWA_": "powiat sanocki",
-                "id": 305,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Sanok",
-                "powiat": "sanocki ",
-                "adres": "800-lecia 26",
-                "miejscowosc": "Sanok",
-                "kod": "38-500 ",
-                "nazwa": "Samodzielny Publiczny Zespół Opieki Zdrowotnej w Sanoku",
-                "poziom": "III stopień",
-                "www": "http://zozsanok.pl",
-                "telefon": "(013)465 61 00",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej W Sanoku",
+                "website": "http://zozsanok.pl",
+                "phone": "(013)465 61 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

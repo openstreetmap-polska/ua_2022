@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 31,
-                "JPT_KOD_JE": "1601",
-                "JPT_NAZWA_": "powiat brzeski",
-                "id": 268,
-                "wojewodztwo": "opolskie",
-                "miasto": "Brzeg",
-                "powiat": "brzeski",
-                "adres": "Mossora 1",
-                "miejscowosc": "BRZEG",
-                "kod": "49-301 ",
-                "nazwa": "Brzeskie Centrum Medyczne",
-                "poziom": "I stopień",
-                "www": "http://www.bcm.brzeg-powiat.pl",
-                "telefon": "77 444 65 36",
-                "e-mail": null
+                "name": "Brzeskie Centrum Medyczne",
+                "website": "http://www.bcm.brzeg-powiat.pl",
+                "phone": "77 444 65 36",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

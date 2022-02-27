@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 43,
-                "JPT_KOD_JE": "3022",
-                "JPT_NAZWA_": "powiat rawicki",
-                "id": 396,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "RAWICZ ",
-                "powiat": "RAWICKI ",
-                "adres": "GEN. GROTA ROWECKIEGO 6 ",
-                "miejscowosc": null,
-                "kod": "63-900 ",
-                "nazwa": "SZPITAL POWIATOWY W RAWICZU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ ",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalrawicz.pl/ ",
-                "telefon": "(065)54-62-413 ",
-                "e-mail": null
+                "name": "Szpital Powiatowy W Rawiczu Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpitalrawicz.pl/ ",
+                "phone": "(065)54-62-413 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

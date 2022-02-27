@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 147,
-                "JPT_KOD_JE": "2661",
-                "JPT_NAZWA_": "powiat Kielce",
-                "id": 440,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "KIELCE",
-                "powiat": "KIELCE",
-                "adres": "GRUNWALDZKA 45",
-                "miejscowosc": "KIELCE",
-                "kod": null,
-                "nazwa": "WOJEWÓDZKI SZPITAL ZESPOLONY W KIELCACH",
-                "poziom": "III stopień",
-                "www": "http://wszzkielce.pl",
-                "telefon": "41 303 35 01(02)",
-                "e-mail": null
+                "name": "Wojewódzki Szpital Zespolony W Kielcach",
+                "website": "http://wszzkielce.pl",
+                "phone": "41 303 35 01(02)",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 148,
-                "JPT_KOD_JE": "2661",
-                "JPT_NAZWA_": "powiat Kielce",
-                "id": 441,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "KIELCE",
-                "powiat": "KIELCE",
-                "adres": "ARTWIŃSKIEGO 3",
-                "miejscowosc": "KIELCE",
-                "kod": null,
-                "nazwa": "ŚWIĘTOKRZYSKIE CENTRUM ONKOLOGII SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W KIELCACH",
-                "poziom": "Szpital onkologiczny",
-                "www": "http://onkol.kielce.pl",
-                "telefon": "41 367 42 74",
-                "e-mail": null
+                "name": "Świętokrzyskie Centrum Onkologii Samodzielny Publiczny Zakład Opieki Zdrowotnej W Kielcach",
+                "website": "http://onkol.kielce.pl",
+                "phone": "41 367 42 74",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +41,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 149,
-                "JPT_KOD_JE": "2661",
-                "JPT_NAZWA_": "powiat Kielce",
-                "id": 442,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "KIELCE",
-                "powiat": "KIELCE",
-                "adres": "PROSTA 30",
-                "miejscowosc": "KIELCE",
-                "kod": null,
-                "nazwa": "ŚWIĘTOKRZYSKIE CENTRUM MATKI I NOWORODKA - SZPITAL SPECJALISTYCZNY W KIELCACH",
-                "poziom": "I stopień",
-                "www": "http://szpitalprosta.pl",
-                "telefon": "41 201 38 00",
-                "e-mail": null
+                "name": "Świętokrzyskie Centrum Matki I Noworodka - Szpital Specjalistyczny W Kielcach",
+                "website": "http://szpitalprosta.pl",
+                "phone": "41 201 38 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -86,21 +59,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 150,
-                "JPT_KOD_JE": "2661",
-                "JPT_NAZWA_": "powiat Kielce",
-                "id": 443,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "KIELCE",
-                "powiat": "KIELCE",
-                "adres": "KOŚCIUSZKI 25",
-                "miejscowosc": "KIELCE",
-                "kod": null,
-                "nazwa": "SZPITAL KIELECKI ŚW. ALEKSANDRA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "I stopień",
-                "www": "http://szpitalkielecki.pl",
-                "telefon": "41 341 78 00 (95)",
-                "e-mail": null
+                "name": "Szpital Kielecki Św. Aleksandra Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://szpitalkielecki.pl",
+                "phone": "41 341 78 00 (95)",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -113,21 +77,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 151,
-                "JPT_KOD_JE": "2661",
-                "JPT_NAZWA_": "powiat Kielce",
-                "id": 444,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "KIELCE",
-                "powiat": "KIELCE",
-                "adres": "OGRODOWA 11",
-                "miejscowosc": "KIELCE",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ MINISTERSTWA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI W KIELCACH",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://zozmswkielce.pl",
-                "telefon": "41 349 36 08",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Ministerstwa Spraw Wewnętrznych I Administracji W Kielcach",
+                "website": "http://zozmswkielce.pl",
+                "phone": "41 349 36 08",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

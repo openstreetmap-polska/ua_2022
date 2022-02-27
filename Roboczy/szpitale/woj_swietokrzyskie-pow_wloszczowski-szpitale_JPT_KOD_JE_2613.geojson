@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 46,
-                "JPT_KOD_JE": "2613",
-                "JPT_NAZWA_": "powiat włoszczowski",
-                "id": 453,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "WŁOSZCZOWA",
-                "powiat": "WŁOSZCZOWSKI",
-                "adres": "ŻEROMSKIEGO 28",
-                "miejscowosc": "WŁOSZCZOWA",
-                "kod": null,
-                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ WE WŁOSZCZOWIE",
-                "poziom": "I stopień",
-                "www": "http://zozwloszczowa.pl",
-                "telefon": "41 388 38 11",
-                "e-mail": null
+                "name": "Zespół Opieki Zdrowotnej We Włoszczowie",
+                "website": "http://zozwloszczowa.pl",
+                "phone": "41 388 38 11",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

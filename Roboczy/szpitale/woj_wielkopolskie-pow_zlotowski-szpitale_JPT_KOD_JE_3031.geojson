@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 300,
-                "JPT_KOD_JE": "3031",
-                "JPT_NAZWA_": "powiat złotowski",
-                "id": 357,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "ZŁOTÓW ",
-                "powiat": "ZŁOTOWSKI ",
-                "adres": "SZPITALNA 28 ",
-                "miejscowosc": null,
-                "kod": "77-400 ",
-                "nazwa": "SZPITAL POWIATOWY IM. ALFREDA SOKOŁOWSKIEGO W ZŁOTOWIE ",
-                "poziom": "I stopień",
-                "www": "http://www.szpital.zlotow.pl/ ",
-                "telefon": "(067)26-32-233 ",
-                "e-mail": null
+                "name": "Szpital Powiatowy Im. Alfreda Sokołowskiego W Złotowie",
+                "website": "http://www.szpital.zlotow.pl/ ",
+                "phone": "(067)26-32-233 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

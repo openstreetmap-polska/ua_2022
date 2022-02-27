@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 323,
-                "JPT_KOD_JE": "2472",
-                "JPT_NAZWA_": "powiat Ruda Śląska",
-                "id": 516,
-                "wojewodztwo": "śląskie",
-                "miasto": "Ruda Śląska",
-                "powiat": "Ruda Śląska",
-                "adres": "Lipa 2",
-                "miejscowosc": "Ruda Śląska",
-                "kod": null,
-                "nazwa": "Szpital Miejski w Rudzie Śląskiej Spółka z ograniczoną odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalruda.pl",
-                "telefon": "32 344 07 24",
-                "e-mail": null
+                "name": "Szpital Miejski W Rudzie Śląskiej Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpitalruda.pl",
+                "phone": "32 344 07 24",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 2,
-                "JPT_KOD_JE": "1410",
-                "JPT_NAZWA_": "powiat łosicki",
-                "id": 186,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "ŁOSICE",
-                "powiat": "ŁOSICKI",
-                "adres": "SŁONECZNA 1",
-                "miejscowosc": "ŁOSICE ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ",
-                "poziom": "I stopień",
-                "www": "http://www.spzozlosice.pl",
-                "telefon": "83 357-32-31",
-                "e-mail": "spzozlosice@pro.onet.pl"
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://www.spzozlosice.pl",
+                "phone": "83 357-32-31",
+                "email": "spzozlosice@pro.onet.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

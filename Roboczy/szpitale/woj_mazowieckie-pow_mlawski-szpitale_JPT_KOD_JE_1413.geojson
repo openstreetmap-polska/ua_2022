@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 196,
-                "JPT_KOD_JE": "1413",
-                "JPT_NAZWA_": "powiat mławski",
-                "id": 189,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "MŁAWA",
-                "powiat": "MŁAWSKI",
-                "adres": "ANNY DOBRSKIEJ 1",
-                "miejscowosc": "MŁAWA ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MŁAWIE",
-                "poziom": "I stopień",
-                "www": "http://www.bip.szpitalmlawa.pl",
-                "telefon": "23 654 32 35",
-                "e-mail": "sekretariat@szpitalmlawa.pl"
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Mławie",
+                "website": "http://www.bip.szpitalmlawa.pl",
+                "phone": "23 654 32 35",
+                "email": "sekretariat@szpitalmlawa.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

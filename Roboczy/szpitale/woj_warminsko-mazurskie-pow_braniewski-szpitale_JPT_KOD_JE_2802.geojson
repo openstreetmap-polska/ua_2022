@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 209,
-                "JPT_KOD_JE": "2802",
-                "JPT_NAZWA_": "powiat braniewski",
-                "id": 405,
-                "wojewodztwo": "warmińsko-mazurskie",
-                "miasto": "Braniewo",
-                "powiat": "Braniewski",
-                "adres": "Moniuszki 13",
-                "miejscowosc": "Braniewo",
-                "kod": "14-500",
-                "nazwa": "Powiatowe Centrum Medyczne Spółka z Ograniczoną Odpowiedzialnością w Braniewie",
-                "poziom": "I stopień",
-                "www": "https://szpital-braniewo.pl",
-                "telefon": "55 620 84 70 ",
-                "e-mail": null
+                "name": "Powiatowe Centrum Medyczne Spółka Z Ograniczoną Odpowiedzialnością W Braniewie",
+                "website": "https://szpital-braniewo.pl",
+                "phone": "55 620 84 70 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

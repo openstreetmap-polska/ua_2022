@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 502,
-                "JPT_KOD_JE": "2207",
-                "JPT_NAZWA_": "powiat kwidzyński",
-                "id": 543,
-                "wojewodztwo": "pomorskie",
-                "miasto": "kwidzyński",
-                "powiat": "Kwidzyn",
-                "adres": "Hallera 31",
-                "miejscowosc": " Kwidzyn",
-                "kod": "82-500",
-                "nazwa": "EMC Szpitale Szpital Zdrowie w Kwidzynie",
-                "poziom": "I stopień",
-                "www": "http://www.emc-sa.pl/nasze-placowki/kwidzyn-szpital-zdrowie",
-                "telefon": "55 645-83-00",
-                "e-mail": null
+                "name": "Emc Szpitale Szpital Zdrowie W Kwidzynie",
+                "website": "http://www.emc-sa.pl/nasze-placowki/kwidzyn-szpital-zdrowie",
+                "phone": "55 645-83-00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 503,
-                "JPT_KOD_JE": "2207",
-                "JPT_NAZWA_": "powiat kwidzyński",
-                "id": 547,
-                "wojewodztwo": "pomorskie",
-                "miasto": "kwidzyński",
-                "powiat": "Prabuty",
-                "adres": "Kuracyjna 30",
-                "miejscowosc": "Prabuty",
-                "kod": "82-550",
-                "nazwa": "Szpital Specjalistyczny w Prabutach Sp. z o.o.",
-                "poziom": "Szpital pulmonologiczny",
-                "www": "http://www.szpitalprabuty.pl",
-                "telefon": "55 262-43-28",
-                "e-mail": null
+                "name": "Szpital Specjalistyczny W Prabutach Sp. Z O.O.",
+                "website": "http://www.szpitalprabuty.pl",
+                "phone": "55 262-43-28",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 531,
-                "JPT_KOD_JE": "1417",
-                "JPT_NAZWA_": "powiat otwocki",
-                "id": 192,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "OTWOCK",
-                "powiat": "OTWOCKI",
-                "adres": "BATOREGO 44",
-                "miejscowosc": "OTWOCK ",
-                "kod": null,
-                "nazwa": "POWIATOWE CENTRUM ZDROWIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "I stopień",
-                "www": "http://www.pcz-otwock.pl",
-                "telefon": "22 778-26-10",
-                "e-mail": "szpital@szpital-otwock.med.pl"
+                "name": "Powiatowe Centrum Zdrowia Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.pcz-otwock.pl",
+                "phone": "22 778-26-10",
+                "email": "szpital@szpital-otwock.med.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 532,
-                "JPT_KOD_JE": "1417",
-                "JPT_NAZWA_": "powiat otwocki",
-                "id": 236,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "OTWOCK",
-                "powiat": "OTWOCKI",
-                "adres": "KONARSKIEGO 13",
-                "miejscowosc": "OTWOCK ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY SZPITAL KLINICZNY IM. PROF. ADAMA GRUCY CENTRUM MEDYCZNEGO KSZTAŁCENIA PODYPLOMOWEGO",
-                "poziom": "Szpital ogólnopolski",
-                "www": "http://www.spskgruca.pl",
-                "telefon": "227794031",
-                "e-mail": "sekretariat@spskgruca.pl"
+                "name": "Samodzielny Publiczny Szpital Kliniczny Im. Prof. Adama Grucy Centrum Medycznego Kształcenia Podyplomowego",
+                "website": "http://www.spskgruca.pl",
+                "phone": "227794031",
+                "email": "sekretariat@spskgruca.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +43,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 533,
-                "JPT_KOD_JE": "1417",
-                "JPT_NAZWA_": "powiat otwocki",
-                "id": 259,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "OTWOCK",
-                "powiat": "OTWOCKI",
-                "adres": "BOROWA 14/18",
-                "miejscowosc": "OTWOCK ",
-                "kod": null,
-                "nazwa": "EUROPEJSKIE CENTRUM ZDROWIA OTWOCK SP. Z O.O.",
-                "poziom": "Szpital onkologiczny lub pulmonologiczny",
-                "www": "http://www.ecz-otwock.pl",
-                "telefon": "22 322 81 32",
-                "e-mail": "biuro@ecz-otwock.pl"
+                "name": "Europejskie Centrum Zdrowia Otwock Sp. Z O.O.",
+                "website": "http://www.ecz-otwock.pl",
+                "phone": "22 322 81 32",
+                "email": "biuro@ecz-otwock.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -86,21 +62,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 534,
-                "JPT_KOD_JE": "1417",
-                "JPT_NAZWA_": "powiat otwocki",
-                "id": 260,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "OTWOCK",
-                "powiat": "OTWOCKI",
-                "adres": "REYMONTA 83/91",
-                "miejscowosc": "OTWOCK ",
-                "kod": null,
-                "nazwa": "MAZOWIECKIE CENTRUM LECZENIA CHORÓB PŁUC I GRUŹLICY",
-                "poziom": "Szpital onkologiczny lub pulmonologiczny",
-                "www": "http://www.otwock-szpital.pl",
-                "telefon": "022 34-46-471, 472",
-                "e-mail": "sekretariat.otw@otwock-szpital.pl"
+                "name": "Mazowieckie Centrum Leczenia Chorób Płuc I Gruźlicy",
+                "website": "http://www.otwock-szpital.pl",
+                "phone": "022 34-46-471, 472",
+                "email": "sekretariat.otw@otwock-szpital.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

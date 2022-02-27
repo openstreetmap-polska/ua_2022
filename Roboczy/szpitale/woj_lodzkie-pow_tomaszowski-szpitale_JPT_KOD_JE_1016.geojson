@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 214,
-                "JPT_KOD_JE": "1016",
-                "JPT_NAZWA_": "powiat tomaszowski",
-                "id": 117,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Tomaszów Mazowiecki",
-                "powiat": "tomaszowski",
-                "adres": "Jana Pawła II 35",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "NU-MED Centrum Diagnostyki i Terapii Onkologicznej Tomaszów Mazowiecki II Sp. Z o.o.",
-                "poziom": "Szpital onkologiczny",
-                "www": "http://www.tomaszowonkologia.nu-med.pl",
-                "telefon": "790 223 981",
-                "e-mail": "sekretariat.tomaszow@nu-med..pl"
+                "name": "Nu-Med Centrum Diagnostyki I Terapii Onkologicznej Tomaszów Mazowiecki Ii Sp. Z O.O.",
+                "website": "http://www.tomaszowonkologia.nu-med.pl",
+                "phone": "790 223 981",
+                "email": "sekretariat.tomaszow@nu-med..pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 215,
-                "JPT_KOD_JE": "1016",
-                "JPT_NAZWA_": "powiat tomaszowski",
-                "id": 129,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Tomaszów Mazowiecki",
-                "powiat": "tomaszowski",
-                "adres": "Jana Pawła II 35",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Tomaszowskie Centrum Zdrowia",
-                "poziom": "II stopień",
-                "www": "http://www.szpitalwtomaszowie.pl",
-                "telefon": "44 725 71 34",
-                "e-mail": "sekretariat@tomaszow.org.pl"
+                "name": "Tomaszowskie Centrum Zdrowia",
+                "website": "http://www.szpitalwtomaszowie.pl",
+                "phone": "44 725 71 34",
+                "email": "sekretariat@tomaszow.org.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

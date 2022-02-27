@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 351,
-                "JPT_KOD_JE": "0810",
-                "JPT_NAZWA_": "powiat żagański",
-                "id": 99,
-                "wojewodztwo": "lubuskie",
-                "miasto": "Szprotawa",
-                "powiat": "żagański",
-                "adres": "Henrykowska 1",
-                "miejscowosc": "Szprotawa",
-                "kod": "67-300",
-                "nazwa": "Nowy Szpital w Szprotawie Spółka z Ograniczoną Odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.nowyszpital.pl",
-                "telefon": "41 240 23 11",
-                "e-mail": "sekretariat.szprotawa@nowyszpital.pl"
+                "name": "Nowy Szpital W Szprotawie Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.nowyszpital.pl",
+                "phone": "41 240 23 11",
+                "email": "sekretariat.szprotawa@nowyszpital.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 364,
-                "JPT_KOD_JE": "3024",
-                "JPT_NAZWA_": "powiat szamotulski",
-                "id": 391,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "SZAMOTUŁY ",
-                "powiat": "SZAMOTULSKI ",
-                "adres": "SUKIENNICZA 13 ",
-                "miejscowosc": null,
-                "kod": "64-500 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ ",
-                "poziom": "I stopień",
-                "www": "http://www.szamotuly.med.pl/ ",
-                "telefon": "(061)29-27-101 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://www.szamotuly.med.pl/ ",
+                "phone": "(061)29-27-101 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

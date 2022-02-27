@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 114,
-                "JPT_KOD_JE": "0211",
-                "JPT_NAZWA_": "powiat lubiński",
-                "id": 4,
-                "wojewodztwo": "dolnośląskie",
-                "miasto": "Lubin",
-                "powiat": "lubiński",
-                "adres": "MARII SKŁODOWSKIEJ-CURIE 66",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "MIEDZIOWE CENTRUM ZDROWIA S.A.",
-                "poziom": "II stopień",
-                "www": "http://www.mcz.pl",
-                "telefon": "76 846 03 00",
-                "e-mail": "mcz@mcz.pl"
+                "name": "Miedziowe Centrum Zdrowia S.A.",
+                "website": "http://www.mcz.pl",
+                "phone": "76 846 03 00",
+                "email": "mcz@mcz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

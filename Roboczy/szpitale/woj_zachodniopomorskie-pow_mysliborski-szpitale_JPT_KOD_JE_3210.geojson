@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 291,
-                "JPT_KOD_JE": "3210",
-                "JPT_NAZWA_": "powiat myśliborski",
-                "id": 322,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Barlinek ",
-                "powiat": "myśliborski ",
-                "adres": "Szpitalna 10 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital Barlinek Spółka z Ograniczoną Odpowiedzialnością ",
-                "poziom": "I stopień",
-                "www": "http://szpitalbarlinek.pl/ ",
-                "telefon": "95 756 18 10, 95 74 62 963 ",
-                "e-mail": null
+                "name": "Szpital Barlinek Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://szpitalbarlinek.pl/ ",
+                "phone": "95 756 18 10, 95 74 62 963 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 292,
-                "JPT_KOD_JE": "3210",
-                "JPT_NAZWA_": "powiat myśliborski",
-                "id": 325,
-                "wojewodztwo": "zachodniopomorskie",
-                "miasto": "Dębno ",
-                "powiat": "myśliborski ",
-                "adres": "Kościuszki 58 ",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital w Dębnie Im. Świętej Matki Teresy z Kalkuty ",
-                "poziom": "I stopień",
-                "www": "http://szpital-debno.pl/ ",
-                "telefon": "95 760 20 63, 64, 65, 887 470 420 ",
-                "e-mail": null
+                "name": "Szpital W Dębnie Im. Świętej Matki Teresy Z Kalkuty",
+                "website": "http://szpital-debno.pl/ ",
+                "phone": "95 760 20 63, 64, 65, 887 470 420 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

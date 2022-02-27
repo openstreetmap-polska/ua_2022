@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 44,
-                "JPT_KOD_JE": "3023",
-                "JPT_NAZWA_": "powiat słupecki",
-                "id": 358,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "SŁUPCA ",
-                "powiat": "SŁUPECKI ",
-                "adres": "TRAUGUTTA 7 ",
-                "miejscowosc": null,
-                "kod": "62-400 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W SŁUPCY ",
-                "poziom": "I stopień",
-                "www": "http://www.szpital.slupca.pl/ ",
-                "telefon": "(063)27-52-300 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Słupcy",
+                "website": "http://www.szpital.slupca.pl/ ",
+                "phone": "(063)27-52-300 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

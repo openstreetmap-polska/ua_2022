@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 342,
-                "JPT_KOD_JE": "1005",
-                "JPT_NAZWA_": "powiat łowicki",
-                "id": 133,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Łowicz",
-                "powiat": "łowicki",
-                "adres": "Ułańska 28",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "ZOZ w Łowiczu",
-                "poziom": "I stopień",
-                "www": "http://www.zoz.pol.pl",
-                "telefon": "46 837 56 11",
-                "e-mail": "lowzoz@pro.onet.pl"
+                "name": "Zoz W Łowiczu",
+                "website": "http://www.zoz.pol.pl",
+                "phone": "46 837 56 11",
+                "email": "lowzoz@pro.onet.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

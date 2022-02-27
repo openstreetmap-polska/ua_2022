@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 94,
-                "JPT_KOD_JE": "1263",
-                "JPT_NAZWA_": "powiat Tarnów",
-                "id": 160,
-                "wojewodztwo": "małopolskie",
-                "miasto": "Tarnów",
-                "powiat": "m. Tarnów",
-                "adres": "Szpitalna 13",
-                "miejscowosc": "Tarnów",
-                "kod": "33-100",
-                "nazwa": "SPECJALISTYCZNY SZPITAL IM. E.SZCZEKLIKA W TARNOWIE",
-                "poziom": "I stopień",
-                "www": "http://www.ssz.tar.pl",
-                "telefon": "14 63 10 72",
-                "e-mail": null
+                "name": "Specjalistyczny Szpital Im. E.Szczeklika W Tarnowie",
+                "website": "http://www.ssz.tar.pl",
+                "phone": "14 63 10 72",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 95,
-                "JPT_KOD_JE": "1263",
-                "JPT_NAZWA_": "powiat Tarnów",
-                "id": 171,
-                "wojewodztwo": "małopolskie",
-                "miasto": "Tarnów",
-                "powiat": "m. Tarnów",
-                "adres": "Lwowska 178A",
-                "miejscowosc": "Tarnów",
-                "kod": "33-100",
-                "nazwa": "SZPITAL WOJEWÓDZKI IM. ŚW. ŁUKASZA SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W TARNOWIE",
-                "poziom": "II stopień",
-                "www": "http://www.lukasz.med.pl",
-                "telefon": "146315678",
-                "e-mail": null
+                "name": "Szpital Wojewódzki Im. Św. Łukasza Samodzielny Publiczny Zakład Opieki Zdrowotnej W Tarnowie",
+                "website": "http://www.lukasz.med.pl",
+                "phone": "146315678",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 230,
-                "JPT_KOD_JE": "3014",
-                "JPT_NAZWA_": "powiat międzychodzki",
-                "id": 375,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "MIĘDZYCHÓD ",
-                "powiat": "MIĘDZYCHODZKI ",
-                "adres": "SZPITALNA 10 ",
-                "miejscowosc": null,
-                "kod": "64-400 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W MIĘDZYCHODZIE",
-                "poziom": "I stopień",
-                "www": "http://www.spzoz-miedzychod.com.pl/ ",
-                "telefon": "(095)74-82-011 ",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Międzychodzie",
+                "website": "http://www.spzoz-miedzychod.com.pl/ ",
+                "phone": "(095)74-82-011 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

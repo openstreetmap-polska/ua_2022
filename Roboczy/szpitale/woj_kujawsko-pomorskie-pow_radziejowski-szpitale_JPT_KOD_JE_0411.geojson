@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 117,
-                "JPT_KOD_JE": "0411",
-                "JPT_NAZWA_": "powiat radziejowski",
-                "id": 42,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Radziejów",
-                "powiat": "radziejowski",
-                "adres": "Szpitalna 3",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej w Radziejowie ",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalradziejow.pl",
-                "telefon": "54 285 62 00",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Radziejowie",
+                "website": "http://www.szpitalradziejow.pl",
+                "phone": "54 285 62 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

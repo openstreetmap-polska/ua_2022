@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 535,
-                "JPT_KOD_JE": "1407",
-                "JPT_NAZWA_": "powiat kozienicki",
-                "id": 219,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "KOZIENICE",
-                "powiat": "KOZIENICKI",
-                "adres": "AL. WŁ. SIKORSKIEGO 10",
-                "miejscowosc": "KOZIENICE ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W KOZIENICACH",
-                "poziom": "II stopień",
-                "www": "http://www.szpitalkozienice.pl",
-                "telefon": "486148234",
-                "e-mail": "sekretariat@szpitalkozienice.pl"
+                "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej W Kozienicach",
+                "website": "http://www.szpitalkozienice.pl",
+                "phone": "486148234",
+                "email": "sekretariat@szpitalkozienice.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

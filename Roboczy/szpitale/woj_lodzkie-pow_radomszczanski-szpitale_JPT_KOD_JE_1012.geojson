@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 444,
-                "JPT_KOD_JE": "1012",
-                "JPT_NAZWA_": "powiat radomszczański",
-                "id": 128,
-                "wojewodztwo": "łódzkie",
-                "miasto": "Radomsko",
-                "powiat": "radomszczański",
-                "adres": "Jagiellońska 36",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital Powiatowy w Radomsku",
-                "poziom": "II stopień",
-                "www": "http://www.szpital.biz.pl",
-                "telefon": "44 681 08 00",
-                "e-mail": "sekretariat@szpital.biz.pl"
+                "name": "Szpital Powiatowy W Radomsku",
+                "website": "http://www.szpital.biz.pl",
+                "phone": "44 681 08 00",
+                "email": "sekretariat@szpital.biz.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

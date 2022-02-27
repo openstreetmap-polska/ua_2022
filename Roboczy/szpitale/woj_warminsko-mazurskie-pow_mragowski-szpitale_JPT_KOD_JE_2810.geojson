@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 60,
-                "JPT_KOD_JE": "2810",
-                "JPT_NAZWA_": "powiat mrągowski",
-                "id": 418,
-                "wojewodztwo": "warmińsko-mazurskie",
-                "miasto": "Mrągowo",
-                "powiat": "Mrągowski",
-                "adres": "Wolności 12",
-                "miejscowosc": "Mrągowo",
-                "kod": "11-700",
-                "nazwa": "Szpital Mrągowski im. Michała Kajki Spółka z Ograniczoną Odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-mragowo.pl",
-                "telefon": "89 741 94 00 ",
-                "e-mail": null
+                "name": "Szpital Mrągowski Im. Michała Kajki Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpital-mragowo.pl",
+                "phone": "89 741 94 00 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

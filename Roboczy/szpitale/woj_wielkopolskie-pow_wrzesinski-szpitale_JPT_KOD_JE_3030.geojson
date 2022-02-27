@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 492,
-                "JPT_KOD_JE": "3030",
-                "JPT_NAZWA_": "powiat wrzesiński",
-                "id": 394,
-                "wojewodztwo": "wielkopolskie",
-                "miasto": "WRZEŚNIA ",
-                "powiat": "WRZESIŃSKI ",
-                "adres": "SŁOWACKIEGO 2 ",
-                "miejscowosc": null,
-                "kod": "62-300 ",
-                "nazwa": "\"SZPITAL POWIATOWY WE WRZEŚNI\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ ",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalwrzesnia.home.pl/ ",
-                "telefon": "(061)43-70-603 ",
-                "e-mail": null
+                "name": "\"Szpital Powiatowy We Wrześni\" Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpitalwrzesnia.home.pl/ ",
+                "phone": "(061)43-70-603 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

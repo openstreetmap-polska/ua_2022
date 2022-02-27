@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 125,
-                "JPT_KOD_JE": "1422",
-                "JPT_NAZWA_": "powiat przasnyski",
-                "id": 197,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "PRZASNYSZ",
-                "powiat": "PRZASNYSKI",
-                "adres": "SADOWA 9",
-                "miejscowosc": "PRZASNYSZ ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W PRZASNYSZU",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalprzasnysz.pl",
-                "telefon": "297534318",
-                "e-mail": "szpitalprzasnysz@o2.pl"
+                "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej W Przasnyszu",
+                "website": "http://www.szpitalprzasnysz.pl",
+                "phone": "297534318",
+                "email": "szpitalprzasnysz@o2.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

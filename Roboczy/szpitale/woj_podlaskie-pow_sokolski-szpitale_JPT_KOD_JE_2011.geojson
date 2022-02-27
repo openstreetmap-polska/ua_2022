@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 242,
-                "JPT_KOD_JE": "2011",
-                "JPT_NAZWA_": "powiat sokólski",
-                "id": 572,
-                "wojewodztwo": "podlaskie",
-                "miasto": "sokólski",
-                "powiat": "Dąbrowa Białostocka",
-                "adres": "Skłodowskiej 15",
-                "miejscowosc": "Dąbrowa Białostocka",
-                "kod": "16-200",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W DĄBROWIE BIAŁOSTOCKIEJ",
-                "poziom": "I stopień",
-                "www": "http://www.spzoz.home.pl",
-                "telefon": "85 712 10 24",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Dąbrowie Białostockiej",
+                "website": "http://www.spzoz.home.pl",
+                "phone": "85 712 10 24",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 243,
-                "JPT_KOD_JE": "2011",
-                "JPT_NAZWA_": "powiat sokólski",
-                "id": 566,
-                "wojewodztwo": "podlaskie",
-                "miasto": "sokólski",
-                "powiat": "Sokółka",
-                "adres": "Sikorskiego 40",
-                "miejscowosc": "Sokółka",
-                "kod": "16-100",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W SOKÓŁCE",
-                "poziom": "I stopień",
-                "www": "http://www.szpitalsokolka.pl",
-                "telefon": "85 722 04 62",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Sokółce",
+                "website": "http://www.szpitalsokolka.pl",
+                "phone": "85 722 04 62",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

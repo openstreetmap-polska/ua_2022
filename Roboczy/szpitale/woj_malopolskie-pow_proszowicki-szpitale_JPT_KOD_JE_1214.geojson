@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 221,
-                "JPT_KOD_JE": "1214",
-                "JPT_NAZWA_": "powiat proszowicki",
-                "id": 159,
-                "wojewodztwo": "małopolskie",
-                "miasto": "Proszowice",
-                "powiat": "proszowicki",
-                "adres": "Mikołaja Kopernika 13",
-                "miejscowosc": "Proszowice",
-                "kod": "32-100",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W PROSZOWICACH",
-                "poziom": "I stopień",
-                "www": "http://www.spzoz.proszowice.pl",
-                "telefon": "12 386 51 05",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej W Proszowicach",
+                "website": "http://www.spzoz.proszowice.pl",
+                "phone": "12 386 51 05",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

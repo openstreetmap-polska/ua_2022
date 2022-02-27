@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 366,
-                "JPT_KOD_JE": "1433",
-                "JPT_NAZWA_": "powiat węgrowski",
-                "id": 212,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "WĘGRÓW",
-                "powiat": "WĘGROWSKI",
-                "adres": "KOŚCIUSZKI 201",
-                "miejscowosc": "WĘGRÓW ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W WĘGROWIE",
-                "poziom": "I stopień",
-                "www": "http://www.spzoz.wegrow.pl",
-                "telefon": "257922041, 257922042",
-                "e-mail": "zozweg@se.onet.pl"
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Węgrowie",
+                "website": "http://www.spzoz.wegrow.pl",
+                "phone": "257922041, 257922042",
+                "email": "zozweg@se.onet.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

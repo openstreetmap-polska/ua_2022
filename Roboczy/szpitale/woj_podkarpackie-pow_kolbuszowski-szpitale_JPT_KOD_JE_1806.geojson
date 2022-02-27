@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 360,
-                "JPT_KOD_JE": "1806",
-                "JPT_NAZWA_": "powiat kolbuszowski",
-                "id": 295,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Kolbuszowa",
-                "powiat": "kolbuszowski ",
-                "adres": "Grunwaldzka 4",
-                "miejscowosc": "Kolbuszowa",
-                "kod": "36-100 ",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ OPIEKI ZDROWOTNEJ W KOLBUSZOWEJ",
-                "poziom": "I stopień",
-                "www": "http://szpital.kolbuszowa.pl",
-                "telefon": "17 22 71 222",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zespół Opieki Zdrowotnej W Kolbuszowej",
+                "website": "http://szpital.kolbuszowa.pl",
+                "phone": "17 22 71 222",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 368,
-                "JPT_KOD_JE": "1204",
-                "JPT_NAZWA_": "powiat dąbrowski",
-                "id": 176,
-                "wojewodztwo": "małopolskie",
-                "miasto": "Dąbrowa Tarnowska",
-                "powiat": "dąbrowski",
-                "adres": "Szpitalna 1",
-                "miejscowosc": "Dąbrowa Tarnowska",
-                "kod": "33-200",
-                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W DĄBROWIE TARNOWSKIEJ",
-                "poziom": "I stopień",
-                "www": "http://www.zozdt.pl",
-                "telefon": "14 64 22 831",
-                "e-mail": null
+                "name": "Zespół Opieki Zdrowotnej W Dąbrowie Tarnowskiej",
+                "website": "http://www.zozdt.pl",
+                "phone": "14 64 22 831",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

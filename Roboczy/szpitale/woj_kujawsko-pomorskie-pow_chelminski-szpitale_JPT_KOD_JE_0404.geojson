@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 294,
-                "JPT_KOD_JE": "0404",
-                "JPT_NAZWA_": "powiat chełmiński",
-                "id": 34,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Chełmno",
-                "powiat": "chełmiński",
-                "adres": "Plac Dr Rydygiera 1",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Zespół Opieki Zdrowotnej w Chełmnie",
-                "poziom": "I stopień",
-                "www": "http://www.zozchelmno.pl",
-                "telefon": "56 677 26 56",
-                "e-mail": null
+                "name": "Zespół Opieki Zdrowotnej W Chełmnie",
+                "website": "http://www.zozchelmno.pl",
+                "phone": "56 677 26 56",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

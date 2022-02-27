@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 192,
-                "JPT_KOD_JE": "1423",
-                "JPT_NAZWA_": "powiat przysuski",
-                "id": 198,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "PRZYSUCHA",
-                "powiat": "PRZYSUSKI",
-                "adres": "PARTYZANTÓW 8",
-                "miejscowosc": "PRZYSUCHA ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W PRZYSUSZE",
-                "poziom": "I stopień",
-                "www": "http://www.spzzozprzysucha.pl/",
-                "telefon": "48 38 33 500",
-                "e-mail": "sekretariat@spzzozprzysucha.pl"
+                "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej W Przysusze",
+                "website": "http://www.spzzozprzysucha.pl/",
+                "phone": "48 38 33 500",
+                "email": "sekretariat@spzzozprzysucha.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

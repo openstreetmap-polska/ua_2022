@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 33,
-                "JPT_KOD_JE": "1463",
-                "JPT_NAZWA_": "powiat Radom",
-                "id": 230,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "RADOM",
-                "powiat": "RADOM",
-                "adres": "TOCHTERMANA 1",
-                "miejscowosc": "RADOM ",
-                "kod": null,
-                "nazwa": "RADOMSKI SZPITAL SPECJALISTYCZNY IM.DR TYTUSA CHAŁUBIŃSKIEGO",
-                "poziom": "III stopień",
-                "www": "http://www.szpital.radom.pl",
-                "telefon": "36-15-100",
-                "e-mail": "org@rszs.regiony.pl"
+                "name": "Radomski Szpital Specjalistyczny Im.Dr Tytusa Chałubińskiego",
+                "website": "http://www.szpital.radom.pl",
+                "phone": "36-15-100",
+                "email": "org@rszs.regiony.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +24,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 34,
-                "JPT_KOD_JE": "1463",
-                "JPT_NAZWA_": "powiat Radom",
-                "id": 266,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "RADOM",
-                "powiat": "RADOM",
-                "adres": "UNIWERSYTECKA 6",
-                "miejscowosc": "RADOM, ",
-                "kod": null,
-                "nazwa": "KLINIKI NEURORADIOCHIRURGII SP. Z O.O.",
-                "poziom": "Szpital onkologiczny lub pulmonologiczny",
-                "www": "http://www.onkologiaradom.pl",
-                "telefon": "48 377 90 25",
-                "e-mail": "sekretariat@onkologiaradom.pl"
+                "name": "Kliniki Neuroradiochirurgii Sp. Z O.O.",
+                "website": "http://www.onkologiaradom.pl",
+                "phone": "48 377 90 25",
+                "email": "sekretariat@onkologiaradom.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -59,21 +43,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 35,
-                "JPT_KOD_JE": "1463",
-                "JPT_NAZWA_": "powiat Radom",
-                "id": 229,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "RADOM",
-                "powiat": "RADOM",
-                "adres": "J. ALEKSANDROWICZA 5",
-                "miejscowosc": "RADOM ",
-                "kod": null,
-                "nazwa": "MAZOWIECKI SZPITAL SPECJALISTYCZNY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "III stopień",
-                "www": "http://www.wss.com.pl",
-                "telefon": "48 361-30-00",
-                "e-mail": "szpital@wss.com.pl"
+                "name": "Mazowiecki Szpital Specjalistyczny Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.wss.com.pl",
+                "phone": "48 361-30-00",
+                "email": "szpital@wss.com.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

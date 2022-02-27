@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 325,
-                "JPT_KOD_JE": "2416",
-                "JPT_NAZWA_": "powiat zawierciański",
-                "id": 484,
-                "wojewodztwo": "śląskie",
-                "miasto": "zawierciański",
-                "powiat": "Zawiercie",
-                "adres": "Miodowa 14",
-                "miejscowosc": "Zawiercie",
-                "kod": null,
-                "nazwa": "Szpital Powiatowy w Zawierciu",
-                "poziom": "II stopień",
-                "www": "http://www.szpitalzawiercie.pl",
-                "telefon": "32 674 02 00",
-                "e-mail": null
+                "name": "Szpital Powiatowy W Zawierciu",
+                "website": "http://www.szpitalzawiercie.pl",
+                "phone": "32 674 02 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 220,
-                "JPT_KOD_JE": "1437",
-                "JPT_NAZWA_": "powiat żuromiński",
-                "id": 216,
-                "wojewodztwo": "mazowieckie",
-                "miasto": "ŻUROMIN",
-                "powiat": "ŻUROMIŃSKI",
-                "adres": "SZPITALNA 56",
-                "miejscowosc": "ŻUROMIN ",
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ W ŻUROMINIE",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-zuromin.pl",
-                "telefon": "23 657-22-01",
-                "e-mail": "sekretariat@szpital-zuromin.pl"
+                "name": "Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej W Żurominie",
+                "website": "http://www.szpital-zuromin.pl",
+                "phone": "23 657-22-01",
+                "email": "sekretariat@szpital-zuromin.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

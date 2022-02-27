@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 145,
-                "JPT_KOD_JE": "2471",
-                "JPT_NAZWA_": "powiat Piekary Śląskie",
-                "id": 493,
-                "wojewodztwo": "śląskie",
-                "miasto": "Piekary Śląskie",
-                "powiat": "Piekary Śląskie",
-                "adres": "Bytomska 62",
-                "miejscowosc": "Piekary Śląskie",
-                "kod": null,
-                "nazwa": "Samodzielny Publiczny Wojewódzki Szpital Chirurgii Urazowej im.dr J. Daaba",
-                "poziom": "II stopień",
-                "www": "http://www.urazowka.piekary.pl",
-                "telefon": "32 393 41 00",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Wojewódzki Szpital Chirurgii Urazowej Im.Dr J. Daaba",
+                "website": "http://www.urazowka.piekary.pl",
+                "phone": "32 393 41 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 146,
-                "JPT_KOD_JE": "2471",
-                "JPT_NAZWA_": "powiat Piekary Śląskie",
-                "id": 515,
-                "wojewodztwo": "śląskie",
-                "miasto": "Piekary Śląskie",
-                "powiat": "Piekary Śląskie",
-                "adres": "Szpitalna 11",
-                "miejscowosc": "Piekary Śląskie",
-                "kod": null,
-                "nazwa": "Piekarskie Centrum Medyczne spółka z ograniczoną odpowiedzialnością",
-                "poziom": "I stopień",
-                "www": "http://www.szpital.piekary.pl",
-                "telefon": "32 39 38 100",
-                "e-mail": null
+                "name": "Piekarskie Centrum Medyczne Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.szpital.piekary.pl",
+                "phone": "32 39 38 100",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,13 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 124,
-                "JPT_KOD_JE": "0261",
-                "JPT_NAZWA_": "powiat Jelenia Góra",
-                "id": 14,
-                "wojewodztwo": "dolnośląskie",
-                "miasto": "Jelenia Góra",
-                "powiat": "m.Jelenia Góra",
-                "adres": "MICHAŁA KLEOFASA OGIŃSKIEGO 6",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "WOJEWÓDZKIE CENTRUM SZPITALNE KOTLINY JELENIOGÓRSKIEJ",
-                "poziom": "III stopień",
-                "www": "http://www.spzoz.jgora.pl",
-                "telefon": "75 75 37 100",
-                "e-mail": "poczta@spzoz.jgora.pl"
+                "name": "Wojewódzkie Centrum Szpitalne Kotliny Jeleniogórskiej",
+                "website": "http://www.spzoz.jgora.pl",
+                "phone": "75 75 37 100",
+                "email": "poczta@spzoz.jgora.pl",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

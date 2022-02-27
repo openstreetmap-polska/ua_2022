@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 10,
-                "JPT_KOD_JE": "0611",
-                "JPT_NAZWA_": "powiat łukowski",
-                "id": 76,
-                "wojewodztwo": "lubelskie",
-                "miasto": "ŁUKÓW",
-                "powiat": "ŁUKOWSKI",
-                "adres": "DR ANDRZEJA ROGALIŃSKIEGO 3",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W ŁUKOWIE",
-                "poziom": "I stopień",
-                "www": "https://spzoz.lukow.pl",
-                "telefon": "25 798 26 03",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Łukowie",
+                "website": "https://spzoz.lukow.pl",
+                "phone": "25 798 26 03",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 236,
-                "JPT_KOD_JE": "2010",
-                "JPT_NAZWA_": "powiat siemiatycki",
-                "id": 567,
-                "wojewodztwo": "podlaskie",
-                "miasto": "siemiatycki",
-                "powiat": "Siemiatycze",
-                "adres": "Szpitalna 8",
-                "miejscowosc": "Siemiatycze",
-                "kod": "17-300",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W SIEMIATYCZACH",
-                "poziom": "I stopień",
-                "www": "http://www.spzozsiemiatycze.pl",
-                "telefon": "85 655 22 00",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Siemiatyczach",
+                "website": "http://www.spzozsiemiatycze.pl",
+                "phone": "85 655 22 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

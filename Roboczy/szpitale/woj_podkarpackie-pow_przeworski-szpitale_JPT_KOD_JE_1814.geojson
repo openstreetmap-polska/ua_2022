@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 530,
-                "JPT_KOD_JE": "1814",
-                "JPT_NAZWA_": "powiat przeworski",
-                "id": 302,
-                "wojewodztwo": "podkarpackie",
-                "miasto": "Przeworsk",
-                "powiat": "przeworski ",
-                "adres": "Szpitalna 16",
-                "miejscowosc": "Przeworsk",
-                "kod": "37-200 ",
-                "nazwa": "Samodzielny Publiczny Zakład Opieki Zdrowotnej",
-                "poziom": "II stopień",
-                "www": "http://spzoz-przeworsk.home.pl",
-                "telefon": "(016)649 15 00",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej",
+                "website": "http://spzoz-przeworsk.home.pl",
+                "phone": "(016)649 15 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

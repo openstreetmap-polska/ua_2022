@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 392,
-                "JPT_KOD_JE": "2601",
-                "JPT_NAZWA_": "powiat buski",
-                "id": 435,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "BUSKO-ZDRÓJ",
-                "powiat": "BUSKI",
-                "adres": "BOHATERÓW WARSZAWY 67",
-                "miejscowosc": "BUSKO-ZDRÓJ",
-                "kod": null,
-                "nazwa": "ZESPÓŁ OPIEKI ZDROWOTNEJ W BUSKU-ZDROJU",
-                "poziom": "I stopień",
-                "www": "http://szpitalbusko.pl",
-                "telefon": "41 378 20 49",
-                "e-mail": null
+                "name": "Zespół Opieki Zdrowotnej W Busku-Zdroju",
+                "website": "http://szpitalbusko.pl",
+                "phone": "41 378 20 49",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 393,
-                "JPT_KOD_JE": "2601",
-                "JPT_NAZWA_": "powiat buski",
-                "id": 434,
-                "wojewodztwo": "ŚWIĘTOKRZYSKIE",
-                "miasto": "BUSKO-ZDRÓJ",
-                "powiat": "BUSKI",
-                "adres": "DR SZYMONA STARKIEWICZA 1",
-                "miejscowosc": "BUSKO-ZDRÓJ",
-                "kod": null,
-                "nazwa": "\"UZDROWISKO BUSKO-ZDRÓJ\" SPÓŁKA AKCYJNA",
-                "poziom": "II stopień",
-                "www": "http://www.szpitalgorka.pl",
-                "telefon": "41 370 34 00",
-                "e-mail": null
+                "name": "\"Uzdrowisko Busko-Zdrój\" Spółka Akcyjna",
+                "website": "http://www.szpitalgorka.pl",
+                "phone": "41 370 34 00",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

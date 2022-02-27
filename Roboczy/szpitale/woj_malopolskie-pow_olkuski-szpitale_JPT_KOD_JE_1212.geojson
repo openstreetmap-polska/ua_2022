@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 539,
-                "JPT_KOD_JE": "1212",
-                "JPT_NAZWA_": "powiat olkuski",
-                "id": 150,
-                "wojewodztwo": "małopolskie",
-                "miasto": "Olkusz",
-                "powiat": "olkuski",
-                "adres": "al. 1000-lecia 13",
-                "miejscowosc": "Olkusz",
-                "kod": "32-300",
-                "nazwa": "NOWY SZPITAL W OLKUSZU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-                "poziom": "II stopień",
-                "www": "http://www.nowyszpital.pl/olkusz",
-                "telefon": "412401200",
-                "e-mail": null
+                "name": "Nowy Szpital W Olkuszu Spółka Z Ograniczoną Odpowiedzialnością",
+                "website": "http://www.nowyszpital.pl/olkusz",
+                "phone": "412401200",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 540,
-                "JPT_KOD_JE": "1212",
-                "JPT_NAZWA_": "powiat olkuski",
-                "id": 175,
-                "wojewodztwo": "małopolskie",
-                "miasto": "Jaroszowiec",
-                "powiat": "olkuski",
-                "adres": "Kolejowa 1A",
-                "miejscowosc": "Jaroszowiec",
-                "kod": "32-310",
-                "nazwa": "WOJEWÓDZKI SZPITAL CHORÓB PŁUC I REHABILITACJI",
-                "poziom": "Szpital pulmunologiczny",
-                "www": "http://www.wschp.pl",
-                "telefon": "32 642 80 90 wew. 58 ",
-                "e-mail": null
+                "name": "Wojewódzki Szpital Chorób Płuc I Rehabilitacji",
+                "website": "http://www.wschp.pl",
+                "phone": "32 642 80 90 wew. 58 ",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

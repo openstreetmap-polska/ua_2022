@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 357,
-                "JPT_KOD_JE": "0613",
-                "JPT_NAZWA_": "powiat parczewski",
-                "id": 78,
-                "wojewodztwo": "lubelskie",
-                "miasto": "PARCZEW",
-                "powiat": "PARCZEWSKI",
-                "adres": "KOŚCIELNA 136",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W PARCZEWIE",
-                "poziom": "I stopień",
-                "www": "http://www.spzozparczew.pl",
-                "telefon": "83 355 21 02",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Parczewie",
+                "website": "http://www.spzozparczew.pl",
+                "phone": "83 355 21 02",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

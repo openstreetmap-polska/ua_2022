@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 245,
-                "JPT_KOD_JE": "1210",
-                "JPT_NAZWA_": "powiat nowosądecki",
-                "id": 153,
-                "wojewodztwo": "małopolskie",
-                "miasto": "KRYNICA-ZDRÓJ",
-                "powiat": "nowosądecki",
-                "adres": "Józefa Ignacego Kraszewskiego 142",
-                "miejscowosc": "Krynica-Zdrój",
-                "kod": "33-380",
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ - SZPITAL IM.DR. JÓZEFA DIETLA W KRYNICY-ZDROJU",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-krynica.pl",
-                "telefon": "18 47 32 400",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej - Szpital Im.Dr. Józefa Dietla W Krynicy-Zdroju",
+                "website": "http://www.szpital-krynica.pl",
+                "phone": "18 47 32 400",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

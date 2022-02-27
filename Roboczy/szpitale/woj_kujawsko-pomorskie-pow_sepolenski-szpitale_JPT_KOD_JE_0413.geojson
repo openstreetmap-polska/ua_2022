@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 76,
-                "JPT_KOD_JE": "0413",
-                "JPT_NAZWA_": "powiat sępoleński",
-                "id": 44,
-                "wojewodztwo": "kujawsko-pomorskie",
-                "miasto": "Więcbork",
-                "powiat": "sępoleński",
-                "adres": "Mickiewicza 26",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "Szpital Powiatowy im. dr A.Gacy i dr J. Łaskiego - Niepubliczny Zakład Opieki Zdrowotnej w Więcborku",
-                "poziom": "I stopień",
-                "www": "http://www.szpital-wiecbork.pl",
-                "telefon": "52 389 62 31",
-                "e-mail": null
+                "name": "Szpital Powiatowy Im. Dr A.Gacy I Dr J. Łaskiego - Niepubliczny Zakład Opieki Zdrowotnej W Więcborku",
+                "website": "http://www.szpital-wiecbork.pl",
+                "phone": "52 389 62 31",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",

@@ -5,21 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 373,
-                "JPT_KOD_JE": "0609",
-                "JPT_NAZWA_": "powiat lubelski",
-                "id": 54,
-                "wojewodztwo": "lubelskie",
-                "miasto": "BEŁŻYCE",
-                "powiat": "LUBELSKI",
-                "adres": "LUBELSKA 90",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ NR 1 W BEŁŻYCACH",
-                "poziom": "I stopień",
-                "www": "http://www.spzoz1belzyce.pl",
-                "telefon": "81 516 29 26",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej Nr 1 W Bełżycach",
+                "website": "http://www.spzoz1belzyce.pl",
+                "phone": "81 516 29 26",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
@@ -32,21 +23,12 @@
         {
             "type": "Feature",
             "properties": {
-                "_uid_": 374,
-                "JPT_KOD_JE": "0609",
-                "JPT_NAZWA_": "powiat lubelski",
-                "id": 57,
-                "wojewodztwo": "lubelskie",
-                "miasto": "BYCHAWA",
-                "powiat": "LUBELSKI",
-                "adres": "PIŁSUDSKIEGO 26-30",
-                "miejscowosc": null,
-                "kod": null,
-                "nazwa": "SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W BYCHAWIE",
-                "poziom": "I stopień",
-                "www": "http://www.spzoz.bychawa.pl",
-                "telefon": "81 566 94 41",
-                "e-mail": null
+                "name": "Samodzielny Publiczny Zakład Opieki Zdrowotnej W Bychawie",
+                "website": "http://www.spzoz.bychawa.pl",
+                "phone": "81 566 94 41",
+                "amenity": "hospital",
+                "emergency": "yes",
+                "healthcare": "hospital"
             },
             "geometry": {
                 "type": "Point",
