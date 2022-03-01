@@ -35,8 +35,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.592068072656193,
-                    52.73781646135624
+                    23.5920683,
+                    52.7377187
                 ]
             }
         },
@@ -54,8 +54,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.35226889097292,
-                    52.51567374941579
+                    23.3523226,
+                    52.5156160
                 ]
             }
         },
@@ -73,8 +73,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.59164114659183,
-                    52.73560342132113
+                    23.59111111111111,
+                    52.73555555555556
                 ]
             }
         },
@@ -92,8 +92,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.609740794147083,
-                    52.74612769179485
+                    23.609722222222224,
+                    52.74638888888889
                 ]
             }
         },
@@ -101,6 +101,7 @@
             "type": "Feature",
             "properties": {
                 "ref:csioz": 1180699,
+                "name": "Punkt apteczny Aqua",
                 "addr:street": "Kolejowa",
                 "addr:housenumber": "6",
                 "addr:city": "Czeremcha",
@@ -110,8 +111,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.352138000100364,
-                    52.5153350000189
+                    23.355,
+                    52.525
                 ]
             }
         },
@@ -131,25 +132,6 @@
                 "coordinates": [
                     23.586840837396903,
                     52.74472186463854
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1020383,
-                "name": "Vita",
-                "addr:street": "Józefa Piłsudskiego",
-                "addr:housenumber": "4",
-                "addr:city": "Hajnówka",
-                "addr:postcode": "17-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.591454935136806,
-                    52.73677786707644
                 ]
             }
         },
@@ -186,8 +168,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.326246544662283,
-                    52.57404104564397
+                    23.325833333333332,
+                    52.57361111111111
                 ]
             }
         },
@@ -205,26 +187,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.58776082751304,
-                    52.73866379212228
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1180829,
-                "addr:street": "Doc. Adama Dowgirda",
-                "addr:housenumber": "9",
-                "addr:city": "Hajnówka",
-                "addr:postcode": "17-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.583418935520257,
-                    52.7461713475092
+                    23.5875,
+                    52.73861111111111
                 ]
             }
         },
@@ -262,26 +226,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.857509815974606,
-                    52.70362746675806
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1230772,
-                "name": "Punkt Apteczny Urszula Stasiewicz",
-                "addr:housenumber": "69A",
-                "addr:city": "Czyże",
-                "addr:postcode": "17-207",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.422009352124576,
-                    52.77605360489668
+                    23.8575,
+                    52.703611111111115
                 ]
             }
         },
@@ -289,6 +235,7 @@
             "type": "Feature",
             "properties": {
                 "ref:csioz": 1015530,
+                "name": "Tamara Sachacka Prywatny Punkt Apteczny",
                 "addr:street": "Bielska",
                 "addr:housenumber": "5",
                 "addr:city": "Narew",
@@ -307,6 +254,7 @@
             "type": "Feature",
             "properties": {
                 "ref:csioz": 1015558,
+                "name": "Apteka Fikus Krystyna Wnorowska",
                 "addr:street": "Piaski",
                 "addr:housenumber": "1",
                 "addr:city": "Narew",
@@ -325,6 +273,7 @@
             "type": "Feature",
             "properties": {
                 "ref:csioz": 1023289,
+                "name": "Wiesława Chlabicz Apteka Prywatna",
                 "addr:street": "Hajnowska",
                 "addr:housenumber": "58",
                 "addr:city": "Narewka",

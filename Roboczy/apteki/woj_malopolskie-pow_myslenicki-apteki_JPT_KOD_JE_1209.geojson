@@ -1,719 +1,739 @@
+
 {
     "type": "FeatureCollection",
-    "name": "JPT_KOD_JE_1209",
+    "generator": "JOSM",
     "features": [
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1035776,
-                "name": "\"'Esculap'\"",
-                "addr:street": "Żwirki i Wigury",
-                "addr:housenumber": "14",
-                "addr:city": "Myślenice",
-                "addr:postcode": "32-400",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.945758460348983,
-                    49.8298613593009
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1036399,
-                "addr:housenumber": "415",
-                "addr:city": "Skomielna Czarna",
-                "addr:postcode": "32-437",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.834204894256846,
-                    49.72847911519866
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1036550,
-                "name": "Na Witosa",
-                "addr:street": "Witosa",
-                "addr:housenumber": "6",
-                "addr:city": "Dobczyce",
-                "addr:postcode": "32-410",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.097467441589426,
-                    49.87955948499743
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1042329,
-                "addr:housenumber": "791",
-                "addr:city": "Stróża",
-                "addr:postcode": "32-431",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.92286989388501,
-                    49.79588090594134
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1074599,
                 "name": "\"Nasza Apteka Zdrowia Mgr Bogumiła Leśniak Pcim1, 32-432 Pcim\"",
-                "addr:housenumber": "1",
+                "amenity": "pharmacy",
+                "ref:csioz": "1074599",
                 "addr:city": "Pcim",
                 "addr:postcode": "32-432",
-                "amenity": "pharmacy"
+                "addr:housenumber": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.976233923931026,
-                    49.75244458244667
+                    19.97623392393,
+                    49.75244458245
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1074906,
-                "name": "Vita",
-                "addr:street": "Szkolna",
-                "addr:housenumber": "1",
-                "addr:city": "Sułkowice",
-                "addr:postcode": "32-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:housenumber": "6j",
+                "addr:city": "Dobczyce",
+                "name": "Apteka Isofarm",
+                "ref:csioz": "1220346",
+                "addr:postcode": "32-410",
+                "addr:street": "Zarabie"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.79660264236914,
-                    49.85393342026323
+                    20.08054262457,
+                    49.88707955823
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1075654,
-                "name": "Apteka Vita",
-                "addr:housenumber": "925",
-                "addr:city": "Krzywaczka",
-                "addr:postcode": "32-442",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:housenumber": "615",
+                "addr:city": "Pcim",
+                "addr:postcode": "32-432",
+                "name": "Zdrowe Ceny",
+                "ref:csioz": "1036176"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.825665239616576,
-                    49.8917937384239
+                    19.96922262351,
+                    49.75143880613
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1076144,
-                "name": "Vademecum",
+                "addr:city": "Raciechowice",
+                "ref:csioz": "1190868",
+                "amenity": "pharmacy",
+                "addr:postcode": "32-415",
+                "name": "Doz Apteka. Dbam O Zdrowie. Rumianek",
+                "addr:housenumber": "321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.14077804408,
+                    49.84550846744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Tokarnia",
+                "amenity": "pharmacy",
+                "ref:csioz": "1077480",
+                "addr:housenumber": "400",
+                "addr:postcode": "32-436",
+                "name": "Maria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.87848031208,
+                    49.73454620532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:street": "Rynek",
+                "addr:city": "Dobczyce",
+                "addr:housenumber": "16",
+                "ref:csioz": "1076685",
+                "addr:postcode": "32-410",
+                "name": "Flos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.09044087257,
+                    49.88044122070
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:postcode": "32-447",
+                "addr:city": "Siepraw",
+                "name": "Apteka „Magda”. Siepraw",
+                "ref:csioz": "1075312",
+                "addr:housenumber": "782"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.99676700000,
+                    49.90443800001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Stróża",
+                "addr:postcode": "32-431",
+                "amenity": "pharmacy",
+                "ref:csioz": "1042329",
+                "addr:housenumber": "791"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.92286989389,
+                    49.79588090594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Skomielna Czarna",
+                "addr:housenumber": "415",
+                "amenity": "pharmacy",
+                "addr:postcode": "32-437",
+                "ref:csioz": "1036399"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.83420489426,
+                    49.72847911520
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1209882",
+                "addr:housenumber": "8",
+                "amenity": "pharmacy",
+                "addr:postcode": "32-400",
+                "name": "Apteka Szwajcarska",
+                "addr:city": "Myślenice",
+                "addr:street": "Niepodległości"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.93871228695,
+                    49.83264004579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "581",
+                "amenity": "pharmacy",
+                "addr:city": "Trzemeśnia",
+                "name": "\"Apteka \"\"Gaja\"\" Krystyna Duma\"",
+                "addr:postcode": "32-425",
+                "ref:csioz": "1172081"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.01745044656,
+                    49.82137563928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1189203",
+                "name": "Apteka Esculap",
+                "amenity": "pharmacy",
+                "addr:street": "Drogowców",
+                "addr:housenumber": "5",
+                "addr:postcode": "32-400",
+                "addr:city": "Myślenice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.95603071933,
+                    49.83317814911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "15A",
+                "addr:street": "Żwirki i Wigury",
+                "name": "Apteka Niebieska 24H",
+                "amenity": "pharmacy",
+                "ref:csioz": "1113527",
+                "addr:postcode": "32-400",
+                "addr:city": "Myślenice"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.94604009170,
+                    49.83003619752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "391",
+                "amenity": "pharmacy",
+                "addr:city": "Skomielna Biała",
+                "ref:csioz": "1194873",
+                "addr:postcode": "32-434"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.91544370522,
+                    49.64464734209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1076144",
+                "amenity": "pharmacy",
                 "addr:street": "Rynek",
                 "addr:housenumber": "37",
                 "addr:city": "Dobczyce",
                 "addr:postcode": "32-410",
-                "amenity": "pharmacy"
+                "name": "Vademecum"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.09144346111273,
-                    49.87908424254375
+                    20.09144346111,
+                    49.87908424254
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1076685,
-                "name": "Flos",
-                "addr:street": "Rynek",
-                "addr:housenumber": "16",
+                "amenity": "pharmacy",
+                "addr:street": "Władysława Jagiełły",
+                "addr:postcode": "32-400",
+                "addr:city": "Myślenice",
+                "addr:housenumber": "2",
+                "ref:csioz": "1056563"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.94031606656,
+                    49.83045352716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
                 "addr:city": "Dobczyce",
+                "addr:housenumber": "6",
+                "addr:street": "Witosa",
+                "name": "Na Witosa",
                 "addr:postcode": "32-410",
-                "amenity": "pharmacy"
+                "ref:csioz": "1036550"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.09044087257474,
-                    49.880441220702295
+                    20.09746744159,
+                    49.87955948500
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1077284,
-                "addr:housenumber": "317",
-                "addr:flats": "1",
-                "addr:city": "Wiśniowa",
-                "addr:postcode": "32-412",
-                "amenity": "pharmacy"
+                "name": "\"'Esculap'\"",
+                "addr:street": "Żwirki i Wigury",
+                "ref:csioz": "1035776",
+                "amenity": "pharmacy",
+                "addr:housenumber": "14",
+                "addr:postcode": "32-400",
+                "addr:city": "Myślenice"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.116586447688817,
-                    49.787886633183085
+                    19.94575846035,
+                    49.82986135930
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1077480,
-                "name": "Maria",
-                "addr:housenumber": "400",
-                "addr:city": "Tokarnia",
-                "addr:postcode": "32-436",
-                "amenity": "pharmacy"
+                "ref:csioz": "1200348",
+                "amenity": "pharmacy",
+                "name": "Ziko Apteka",
+                "addr:flats": "lok. 0.15",
+                "addr:housenumber": "2E",
+                "addr:postcode": "32-400",
+                "addr:city": "Myślenice",
+                "addr:street": "Słoneczna"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.878091391770038,
-                    49.734556606867756
+                    19.94800807750,
+                    49.83632796155
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1114193,
-                "name": "Punkt Apteczny Trzebunia",
-                "addr:housenumber": "182",
-                "addr:city": "Trzebunia",
-                "addr:postcode": "32-438",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.845204997587054,
-                    49.78915346851857
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1118085,
-                "name": "Pod Modrzewiami",
-                "addr:housenumber": "1238",
-                "addr:city": "Siepraw",
-                "addr:postcode": "32-447",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.97171800000042,
-                    49.90774300001229
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1171431,
+                "addr:housenumber": "3A",
+                "ref:csioz": "1171431",
+                "amenity": "pharmacy",
                 "name": "Apteka Słoneczna",
                 "addr:street": "Szpitalna",
-                "addr:housenumber": "3A",
-                "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "addr:city": "Myślenice"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.946445786736703,
-                    49.829756198251076
+                    19.94644578674,
+                    49.82975619825
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1172081,
-                "name": "\"Apteka \"\"Gaja\"\" Krystyna Duma\"",
-                "addr:housenumber": "581",
-                "addr:city": "Trzemeśnia",
-                "addr:postcode": "32-425",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.017450446562634,
-                    49.82137563928271
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1036176,
-                "name": "Zdrowe Ceny",
-                "addr:housenumber": "615",
-                "addr:city": "Pcim",
-                "addr:postcode": "32-432",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.969222623506855,
-                    49.751438806129364
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1036591,
-                "addr:housenumber": "313",
-                "addr:city": "Raciechowice",
-                "addr:postcode": "32-415",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.14040233232068,
-                    49.84559586936627
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1038183,
-                "addr:street": "Słoneczna",
-                "addr:housenumber": "2D",
-                "addr:city": "Myślenice",
+                "amenity": "pharmacy",
+                "name": "Apteka Słoneczna",
+                "addr:housenumber": "6",
+                "ref:csioz": "1120940",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.948406298923544,
-                    49.83506946829251
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1038436,
-                "name": "Apteka Dbam O Zdrowie",
-                "addr:street": "Stefana Żeromskiego",
-                "addr:housenumber": "19",
                 "addr:city": "Myślenice",
-                "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "addr:street": "Mikołaja Reja"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.942659986788577,
-                    49.835707014176926
+                    19.94034787710,
+                    49.83533678283
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1038448,
-                "name": "Apteka Dbam O Zdrowie",
-                "addr:street": "Szkolna",
-                "addr:housenumber": "9",
-                "addr:city": "Sułkowice",
+                "addr:street": "Zgody",
+                "amenity": "pharmacy",
+                "addr:city": "Dobczyce",
+                "ref:csioz": "1076636",
+                "addr:postcode": "32-410",
+                "addr:housenumber": "12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.08904132203,
+                    49.88180581865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "\"Apteka \"\"Nova\"\" S.C.\"",
+                "amenity": "pharmacy",
+                "addr:street": "Łanowa",
+                "addr:city": "Dobczyce",
+                "ref:csioz": "1076316",
+                "addr:postcode": "32-410",
+                "addr:housenumber": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.09543584954,
+                    49.88320570353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "925",
+                "addr:postcode": "32-442",
+                "addr:city": "Krzywaczka",
+                "name": "Apteka Vita",
+                "amenity": "pharmacy",
+                "ref:csioz": "1075654"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.82566523962,
+                    49.89179373842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "addr:postcode": "32-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:city": "Sułkowice",
+                "ref:csioz": "1038448",
+                "addr:housenumber": "9",
+                "addr:street": "Szkolna",
+                "name": "Apteka Dbam O Zdrowie"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.79602560973723,
-                    49.85440427014927
+                    19.79602560974,
+                    49.85440427015
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1056142,
-                "addr:housenumber": "317",
+                "ref:csioz": "1038183",
+                "amenity": "pharmacy",
+                "addr:postcode": "32-400",
+                "addr:city": "Myślenice",
+                "addr:housenumber": "2D",
+                "addr:street": "Słoneczna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.94840629892,
+                    49.83506946829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:housenumber": "317/1",
                 "addr:city": "Wiśniowa",
                 "addr:postcode": "32-412",
-                "amenity": "pharmacy"
+                "ref:csioz": "1056142;1077284"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.116586447688817,
-                    49.787886633183085
+                    20.11659442487,
+                    49.78812717014
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1056563,
-                "addr:street": "Władysława Jagiełły",
-                "addr:housenumber": "2",
-                "addr:city": "Myślenice",
+                "amenity": "pharmacy",
+                "addr:street": "Szpitalna",
+                "name": "Szpital",
+                "ref:csioz": "1193895",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "addr:city": "Myślenice",
+                "addr:housenumber": "2"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.94056282979207,
-                    49.830560797162946
+                    19.94744392225,
+                    49.82945144077
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1075312,
-                "name": "Apteka „Magda”. Siepraw",
-                "addr:housenumber": "782",
-                "addr:city": "Siepraw",
+                "addr:housenumber": "1238",
+                "amenity": "pharmacy",
+                "name": "Pod Modrzewiami",
                 "addr:postcode": "32-447",
-                "amenity": "pharmacy"
+                "addr:city": "Siepraw",
+                "ref:csioz": "1118085"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.996767000000336,
-                    49.90443800001237
+                    19.97171800000,
+                    49.90774300001
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1075410,
-                "name": "Apteka Gemini",
-                "addr:street": "Konstantego Ildefonsa Gałczyńskiego",
-                "addr:housenumber": "1",
-                "addr:city": "Myślenice",
-                "addr:postcode": "32-400",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.94022918609129,
-                    49.834792735397855
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1075767,
+                "amenity": "pharmacy",
                 "addr:street": "Rynek",
                 "addr:housenumber": "17",
-                "addr:city": "Myślenice",
+                "ref:csioz": "1075767",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "addr:city": "Myślenice"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.937605105176424,
-                    49.83425073528492
+                    19.93760510518,
+                    49.83425073528
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1076636,
-                "addr:street": "Zgody",
-                "addr:housenumber": "12",
+                "addr:housenumber": "16a",
+                "name": "\"Apteka \"\"Galenica\"\" S.C.\"",
+                "amenity": "pharmacy",
+                "addr:street": "Mostowa",
                 "addr:city": "Dobczyce",
-                "addr:postcode": "32-410",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.089041322034962,
-                    49.881805818649475
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1113527,
-                "name": "Apteka Niebieska 24H",
-                "addr:street": "Żwirki i Wigury",
-                "addr:housenumber": "15A",
-                "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "ref:csioz": "1056310"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.94604009170041,
-                    49.83003619751754
+                    20.08117969768,
+                    49.88500453680
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1120940,
-                "name": "Apteka Słoneczna",
-                "addr:street": "Mikołaja Reja",
-                "addr:housenumber": "6",
-                "addr:city": "Myślenice",
+                "addr:postcode": "32-440",
+                "name": "Vita",
+                "ref:csioz": "1074906",
+                "amenity": "pharmacy",
+                "addr:city": "Sułkowice",
+                "addr:street": "Szkolna",
+                "addr:housenumber": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.79660264237,
+                    49.85393342026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "19",
+                "amenity": "pharmacy",
+                "addr:street": "Stefana Żeromskiego",
+                "ref:csioz": "1038436",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "name": "Apteka Dbam O Zdrowie",
+                "addr:city": "Myślenice"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.940347877100233,
-                    49.83533678283376
+                    19.94265998679,
+                    49.83570701418
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1189203,
-                "name": "Apteka Esculap",
-                "addr:street": "Drogowców",
-                "addr:housenumber": "5",
-                "addr:city": "Myślenice",
-                "addr:postcode": "32-400",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.956030719332404,
-                    49.83317814910558
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1190868,
-                "name": "Doz Apteka. Dbam O Zdrowie. Rumianek",
-                "addr:housenumber": "321",
                 "addr:city": "Raciechowice",
+                "ref:csioz": "1036591",
+                "amenity": "pharmacy",
                 "addr:postcode": "32-415",
-                "amenity": "pharmacy"
+                "addr:housenumber": "313"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    20.140778044078232,
-                    49.845508467440744
+                    20.14040233232,
+                    49.84559586937
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1192374,
-                "addr:housenumber": "223",
+                "addr:postcode": "32-440",
+                "name": "Pod Kangurem",
+                "amenity": "pharmacy",
+                "addr:city": "Sułkowice",
+                "addr:street": "1 Maja",
+                "addr:housenumber": "138",
+                "ref:csioz": "1115733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.80128466201,
+                    49.84477871895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "addr:city": "Lubień",
+                "amenity": "pharmacy",
+                "addr:housenumber": "223",
                 "addr:postcode": "32-433",
-                "amenity": "pharmacy"
+                "ref:csioz": "1192374"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.974806967376978,
-                    49.714950376235166
+                    19.97480696738,
+                    49.71495037624
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1193895,
-                "name": "Szpital",
-                "addr:street": "Szpitalna",
-                "addr:housenumber": "2",
-                "addr:city": "Myślenice",
+                "addr:housenumber": "182",
+                "amenity": "pharmacy",
+                "addr:city": "Trzebunia",
+                "name": "Punkt Apteczny Trzebunia",
+                "ref:csioz": "1114193",
+                "addr:postcode": "32-438"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.84520499759,
+                    49.78915346852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:flats": "1",
+                "amenity": "pharmacy",
+                "addr:housenumber": "317",
+                "addr:city": "Wiśniowa",
+                "addr:postcode": "32-412",
+                "ref:csioz": "1056142;1077284"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.11658644769,
+                    49.78788663318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Apteka Gemini",
+                "amenity": "pharmacy",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.947443922252887,
-                    49.82945144076704
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1200348,
-                "name": "Ziko Apteka",
-                "addr:street": "Słoneczna",
-                "addr:housenumber": "2E",
-                "addr:flats": "lok. 0.15",
                 "addr:city": "Myślenice",
-                "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "addr:housenumber": "1",
+                "addr:street": "Konstantego Ildefonsa Gałczyńskiego",
+                "ref:csioz": "1075410"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.94754673755209,
-                    49.83626914310712
+                    19.94022918609,
+                    49.83479273540
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1209882,
-                "name": "Apteka Szwajcarska",
-                "addr:street": "Niepodległości",
-                "addr:housenumber": "8",
-                "addr:city": "Myślenice",
-                "addr:postcode": "32-400",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.93871228694626,
-                    49.83264004579396
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1220346,
-                "name": "Apteka Isofarm",
-                "addr:street": "Zarabie",
-                "addr:housenumber": "6j",
-                "addr:city": "Dobczyce",
-                "addr:postcode": "32-410",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.080542624568082,
-                    49.887079558226766
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1228591,
-                "name": "Punkt Apteczny Krokus",
-                "addr:housenumber": "77",
+                "ref:csioz": "1228591",
+                "amenity": "pharmacy",
                 "addr:city": "Głogoczów",
                 "addr:postcode": "32-444",
-                "amenity": "pharmacy"
+                "addr:housenumber": "77",
+                "name": "Punkt Apteczny Krokus"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.87564950114138,
-                    49.89603240881342
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1056310,
-                "name": "\"Apteka \"\"Galenica\"\" S.C.\"",
-                "addr:street": "Mostowa",
-                "addr:housenumber": "16a",
-                "addr:city": "Dobczyce",
-                "addr:postcode": "32-400",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.081179697683623,
-                    49.8850045368038
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1076316,
-                "name": "\"Apteka \"\"Nova\"\" S.C.\"",
-                "addr:street": "Łanowa",
-                "addr:housenumber": "2",
-                "addr:city": "Dobczyce",
-                "addr:postcode": "32-410",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.095435849539797,
-                    49.88320570352653
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1194873,
-                "addr:housenumber": "391",
-                "addr:city": "Skomielna Biała",
-                "addr:postcode": "32-434",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.915443705219705,
-                    49.64464734209102
+                    19.87564950114,
+                    49.89603240881
                 ]
             }
         }

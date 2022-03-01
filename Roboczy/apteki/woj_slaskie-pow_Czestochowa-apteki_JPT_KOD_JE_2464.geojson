@@ -1,2154 +1,1886 @@
+
 {
     "type": "FeatureCollection",
-    "name": "JPT_KOD_JE_2464",
+    "generator": "JOSM",
     "features": [
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1057224,
-                "name": "Centrum Położnicze Św. Łukasza Sp. Z O.O.",
-                "addr:street": "Zaciszańska",
-                "addr:housenumber": "25",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-202",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.088461505858344,
-                    50.79953776264338
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1057235,
-                "name": "Centrum Medyczne Św. Łukasza Spółka Z Ograniczoną Odpowiedzialnością",
-                "addr:street": "Zaciszańska",
-                "addr:housenumber": "25a",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-202",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.088548031962603,
-                    50.79903673868079
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1057387,
-                "name": "\"Zakład Opiekuńczo-Leczniczy Prowadzony Przez Zgromadzenie Małych Sióstr Niepokalanego Serca Maryi \"\"Honoratek\"\"\"",
-                "addr:street": "Ogrodowa",
-                "addr:housenumber": "35",
-                "addr:city": "Częstochowa",
+                "name": "Galen",
+                "amenity": "pharmacy",
+                "addr:street": "Drogowców",
+                "ref:csioz": "1060520",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.126089965724013,
-                    50.806131667112055
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060366,
-                "name": "Bursztynowa",
-                "addr:street": "Aleja Najświętszej Maryi Panny",
-                "addr:housenumber": "24",
                 "addr:city": "Częstochowa",
-                "addr:postcode": "42-207",
-                "amenity": "pharmacy"
+                "addr:housenumber": "43"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.118739120657185,
-                    50.81213702741477
+                    19.14510300139,
+                    50.82378879899
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1060377,
-                "name": "Amarantowa",
-                "addr:street": "Aleja Najświętszej Maryi Panny",
-                "addr:housenumber": "3",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-217",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.124941453594673,
-                    50.811590473638866
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060408,
-                "name": "Super-Pharm",
-                "addr:street": "Aleja Wojska Polskiego",
-                "addr:housenumber": "207",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-202",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.132973279418245,
-                    50.80783690756218
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060419,
-                "name": "Brak Nazwy",
-                "addr:street": "Aleja Armii Krajowej",
-                "addr:housenumber": "1",
-                "addr:flats": "3",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.118088000000043,
-                    50.815995000013686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060443,
+                "addr:postcode": "42-224",
+                "amenity": "pharmacy",
                 "name": "Apteka Prywatna",
-                "addr:street": "Krzysztofa Kamila Baczyńskiego",
                 "addr:housenumber": "6",
+                "ref:csioz": "1060443",
                 "addr:city": "Częstochowa",
-                "addr:postcode": "42-224",
-                "amenity": "pharmacy"
+                "addr:street": "Krzysztofa Kamila Baczyńskiego"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.127520504449862,
-                    50.83716611835272
+                    19.12752050445,
+                    50.83716611835
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1060462,
-                "name": "Brak Nazwy",
-                "addr:street": "Bialska",
-                "addr:housenumber": "104",
-                "addr:flats": "118",
-                "addr:city": "Częstochowa",
+                "amenity": "pharmacy",
+                "addr:housenumber": "17/19",
+                "addr:street": "Dekabrystów",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "addr:city": "Częstochowa",
+                "name": "Apteka Corax",
+                "ref:csioz": "1208305"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.08917200000003,
-                    50.82965200001371
+                    19.11087222447,
+                    50.82536075167
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1060470,
-                "name": "Apteka Aronia",
-                "addr:street": "Bohaterów Katynia",
-                "addr:housenumber": "25A",
-                "addr:flats": "5",
-                "addr:city": "Częstochowa",
+                "amenity": "pharmacy",
+                "ref:csioz": "1061081",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.150507934124718,
-                    50.772735979515545
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060481,
-                "name": "Brak Nazwy",
-                "addr:street": "Brzozowa",
-                "addr:housenumber": "2",
-                "addr:flats": "8",
                 "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.142542000000034,
-                    50.78351200001363
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060561,
-                "name": "Cynamonowa",
-                "addr:street": "Ferdynanda Focha",
-                "addr:housenumber": "7",
-                "addr:flats": "15",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.115715000000034,
-                    50.80624500001366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060573,
-                "name": "Waga",
-                "addr:street": "Andersa",
-                "addr:housenumber": "12",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.130847073108484,
-                    50.84777759424813
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060585,
-                "name": "Apteka Vita",
-                "addr:street": "Witolda Gombrowicza",
-                "addr:housenumber": "2",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-224",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.133542382622995,
-                    50.83604710866747
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060599,
-                "name": "Brak Nazwy",
-                "addr:street": "Zbigniewa Herberta",
-                "addr:housenumber": "2",
-                "addr:flats": "30",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-224",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.131527487766856,
-                    50.83876965906319
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060613,
-                "name": "Natural",
-                "addr:street": "Jarosława Iwaszkiewicza",
-                "addr:housenumber": "11",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.123455507539834,
-                    50.83914810878838
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060637,
-                "name": "Brak Nazwy",
-                "addr:street": "Jesienna",
-                "addr:housenumber": "44",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-208",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.144607826095324,
-                    50.76990400924131
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060786,
-                "name": "Brak Nazy",
-                "addr:street": "Kazimierza Michałowskiego",
-                "addr:housenumber": "17",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.11887099669177,
-                    50.84126979159237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060793,
-                "name": "Brak Nazwy",
-                "addr:street": "Mireckiego",
-                "addr:housenumber": "29 A",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.15243880056165,
-                    50.77758049103378
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060817,
-                "name": "Brak Nazwy",
-                "addr:street": "Mirowska",
-                "addr:housenumber": "9",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.13171137082948,
-                    50.811766203948764
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060825,
-                "name": "Brak Nazwy",
-                "addr:street": "Ignacego Mościckiego",
-                "addr:housenumber": "7",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.097929940955243,
-                    50.82038635415713
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060830,
-                "name": "Osiedlowa",
-                "addr:street": "Aleja Niepodległości",
-                "addr:housenumber": "27",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-216",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.132819055350808,
-                    50.790107187921926
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060858,
-                "name": "Apteka Od Serca",
-                "addr:street": "Norwida",
-                "addr:housenumber": "11",
-                "addr:flats": "15",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.163356000000043,
-                    50.839046000013724
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060874,
-                "name": "Peonia",
-                "addr:street": "Obrońców Poczty Gdańskiej",
-                "addr:housenumber": "8",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.107729632247676,
-                    50.8314214357214
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060882,
-                "name": "Brak Nazwy",
-                "addr:street": "Obrońców Westerplatte",
-                "addr:housenumber": "21",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.113354621529748,
-                    50.83234315366631
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061019,
-                "name": "Fides",
-                "addr:street": "Aleja Pokoju",
-                "addr:housenumber": "10",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.148999717209094,
-                    50.78625930883515
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061024,
-                "name": "Fides",
-                "addr:street": "Aleja Pokoju",
-                "addr:housenumber": "5",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.14601051414587,
-                    50.78577033730958
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061035,
-                "name": "Słoneczna",
-                "addr:street": "gen. Ignacego Prądzyńskiego",
-                "addr:housenumber": "1",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-202",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.11879491842875,
-                    50.821658576268355
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061043,
-                "name": "Apteka 7",
-                "addr:street": "Prusa",
-                "addr:housenumber": "4",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.150041448008245,
-                    50.783868592906856
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061056,
-                "name": "Brak Nazwy",
-                "addr:street": "Kazimierza Pużaka",
-                "addr:housenumber": "5",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.13535278014428,
-                    50.83973194191792
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061070,
-                "name": "Brak Nazwy",
-                "addr:street": "św. Rocha",
-                "addr:housenumber": "7",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.09303028870334,
-                    50.81676876204709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061081,
                 "name": "Brak Nazwy",
                 "addr:street": "Sabinowska",
-                "addr:housenumber": "112",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "addr:housenumber": "112"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.098293581432547,
-                    50.78088496477477
+                    19.09829358143,
+                    50.78088496477
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1061100,
-                "name": "Pulsatilla",
-                "addr:street": "Sejmowa",
-                "addr:housenumber": "28",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.10285067346508,
-                    50.849705577852774
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061145,
-                "name": "Jana",
-                "addr:street": "Barbary św.",
-                "addr:housenumber": "73",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-226",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.091433019015962,
-                    50.80398119812244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061159,
-                "name": "4 Pory Roku",
-                "addr:street": "Warszawska",
-                "addr:housenumber": "2",
-                "addr:flats": "14",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.128592000000044,
-                    50.812822000013654
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061184,
-                "name": "Brak Nazwy",
-                "addr:street": "Wieluńska",
-                "addr:housenumber": "18",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.098254173976628,
-                    50.815580013671685
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061231,
-                "name": "Wrzosowa",
-                "addr:street": "Aleja Wolności",
-                "addr:housenumber": "46",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.117199753447686,
-                    50.80424774397222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061253,
-                "name": "Brak Nazwy",
-                "addr:street": "Wręczycka",
-                "addr:housenumber": "29",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-202",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.07839707332349,
-                    50.821782929782934
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1061266,
-                "name": "Magnolia",
-                "addr:street": "Wręczycka",
-                "addr:housenumber": "88",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.06977311721964,
-                    50.8213732558624
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1074114,
-                "name": "Spzoz- Wojewódzki Szpital Specjalistyczny Im Nmp",
-                "addr:street": "Bialska",
-                "addr:housenumber": "104",
-                "addr:flats": "118",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.08917200000003,
-                    50.82965200001371
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1074123,
-                "name": "Miejski Szpital Zespolony",
-                "addr:street": "Mirowska",
-                "addr:housenumber": "15",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.133279480311042,
-                    50.81189500546005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1112624,
-                "name": "\"Szpital Centrum Medyczne \"\"Suliga\"\"\"",
-                "addr:street": "Meliorantów",
-                "addr:housenumber": "3",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-209",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.167662806603797,
-                    50.85812943977216
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1112991,
-                "name": "\"Niepubliczny Zakład Pielęgniarsko-Opiekuńczy \"\"Z Ufnością W Trzecie Tysiąclecie\"\"\"",
-                "addr:street": "Michałowskiego",
-                "addr:housenumber": "30",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.12401401113945,
-                    50.84401532319602
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1115861,
-                "name": "\"Zakład Opieki Paliatywnej 'Palium'\"",
-                "addr:street": "Krakowska",
-                "addr:housenumber": "45a",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-202",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.131436650689917,
-                    50.80354908878017
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1121894,
-                "name": "Dr. Max",
-                "addr:street": "Gajowa",
-                "addr:housenumber": "17",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-229",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.13620499947851,
-                    50.78110222512571
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1165924,
-                "name": "Pistacjowa",
-                "addr:street": "Dekabrystów",
-                "addr:housenumber": "9",
-                "addr:flats": "17",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-218",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.108934000000033,
-                    50.825000000013695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1174256,
-                "name": "Apteka Zdrowit",
-                "addr:street": "Inwalidów Wojennych",
-                "addr:housenumber": "3",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.119282933256887,
-                    50.832434324366815
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1176165,
-                "name": "Apteka Św. Rocha",
-                "addr:street": "Radomska",
+                "addr:street": "Kopalniana",
+                "amenity": "pharmacy",
                 "addr:housenumber": "4",
+                "name": "Apteka W Przychodni",
+                "addr:postcode": "42-271",
                 "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "ref:csioz": "1060692"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.06798862553864,
-                    50.83021706153758
+                    19.05573370521,
+                    50.76337243302
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1176351,
-                "name": "Koralowa",
-                "addr:street": "Warszawska",
-                "addr:housenumber": "360",
+                "ref:csioz": "1208686",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-218",
+                "addr:housenumber": "72/74",
+                "name": "Nasza",
                 "addr:city": "Częstochowa",
-                "addr:postcode": "42-209",
-                "amenity": "pharmacy"
+                "addr:flats": "lok.U3",
+                "addr:street": "Kilińskiego"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.15615728426259,
-                    50.83711873030308
+                    19.11444959879,
+                    50.81944433935
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1176704,
-                "name": "Kolorowa Apteka",
-                "addr:street": "św. Rocha",
-                "addr:housenumber": "250",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-221",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.06103250403349,
-                    50.83672287604594
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1177328,
-                "name": "Apteka Corax",
-                "addr:street": "Okólna",
-                "addr:housenumber": "113a",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.10669031199657,
-                    50.827355322091755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1180128,
-                "name": "Poziomkowa",
-                "addr:street": "Zapolskiej",
+                "ref:csioz": "1060825",
                 "addr:housenumber": "7",
-                "addr:city": "Częstochowa",
+                "amenity": "pharmacy",
+                "addr:street": "Ignacego Mościckiego",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.121104864241776,
-                    50.83053850930721
+                    19.09792994096,
+                    50.82038635416
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1192835,
-                "name": "Apteka Przy Rondzie",
-                "addr:street": "Aleja Wolności",
-                "addr:housenumber": "68",
-                "addr:city": "Częstochowa",
+                "amenity": "pharmacy",
+                "addr:street": "Okólna",
+                "ref:csioz": "1177328",
+                "addr:housenumber": "113a",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "addr:city": "Częstochowa",
+                "name": "Apteka Corax"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.117545641094544,
-                    50.80138121806864
+                    19.10669031200,
+                    50.82735532209
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1193147,
-                "name": "Ziko Apteka",
-                "addr:street": "Aleja Wolności",
-                "addr:housenumber": "4",
+                "amenity": "pharmacy",
+                "addr:street": "Aleja Pokoju",
+                "addr:postcode": "42-200",
                 "addr:city": "Częstochowa",
+                "addr:housenumber": "44",
+                "name": "Apteka Na Kucelinie",
+                "ref:csioz": "1173518"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.17261243385,
+                    50.78941985815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-216",
+                "ref:csioz": "1060830",
+                "amenity": "pharmacy",
+                "addr:housenumber": "27",
+                "name": "Osiedlowa",
+                "addr:city": "Częstochowa",
+                "addr:street": "Aleja Niepodległości"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13281905535,
+                    50.79010718792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:flats": "8",
+                "addr:street": "Brzozowa",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy",
+                "ref:csioz": "1060481",
+                "addr:housenumber": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.14254200000,
+                    50.78351200001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "42",
+                "addr:flats": "48",
+                "amenity": "pharmacy",
+                "ref:csioz": "1057270",
+                "addr:street": "Łukasińskiego mjra Waleriana",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "\"Nzoz Centrum Opieki I Rehabilitacji \"\"Zdrowie\"\"\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.15445100000,
+                    50.78265000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "360",
+                "addr:postcode": "42-209",
+                "addr:street": "Warszawska",
+                "amenity": "pharmacy",
+                "addr:city": "Częstochowa",
+                "ref:csioz": "1176351",
+                "name": "Koralowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.15615728426,
+                    50.83711873030
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "ref:csioz": "1122495",
+                "name": "Apteka Nowa Farmacja Plus",
+                "addr:street": "Aleja Najświętszej Maryi Panny",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12320770493,
+                    50.81162408042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1060732",
+                "amenity": "pharmacy",
+                "addr:street": "Kordeckiego",
+                "name": "Św. Wincentego",
+                "addr:housenumber": "49",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.08677819398,
+                    50.80800138992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
                 "addr:postcode": "42-217",
-                "amenity": "pharmacy"
+                "ref:csioz": "1218546",
+                "addr:housenumber": "6",
+                "addr:city": "Częstochowa",
+                "addr:street": "Zana",
+                "name": "Miodowa"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.117943119544254,
-                    50.810926661433655
+                    19.10671920118,
+                    50.80183550260
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1203985,
-                "name": "Alfamedica - Lecznictwo Ambulatoryjne",
-                "addr:street": "Kilińskiego",
-                "addr:housenumber": "166",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-218",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.110945319860278,
-                    50.82862574683739
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1057306,
-                "name": "\"Szpital Niepubliczny Zakład Opieki Zdrowotnej Polskiej Grupy Medycznej Im. Polonii Świata, Częstochowskie Centrum Kardiologii\"",
-                "addr:street": "Mickiewicza",
-                "addr:housenumber": "12",
-                "addr:city": "Częstochowa",
+                "amenity": "pharmacy",
+                "addr:housenumber": "15",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "addr:city": "Częstochowa",
+                "addr:street": "Mirowska",
+                "ref:csioz": "1074123",
+                "name": "Miejski Szpital Zespolony"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.115035731464687,
-                    50.80119009957798
+                    19.13327948031,
+                    50.81189500546
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1060283,
+                "addr:flats": "14",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-207",
+                "ref:csioz": "1060965",
+                "addr:street": "Ossowskiego",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy",
+                "addr:housenumber": "12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.14589200000,
+                    50.78367600001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amarantowa",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-217",
+                "addr:street": "Aleja Najświętszej Maryi Panny",
+                "addr:housenumber": "3",
+                "ref:csioz": "1060377",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12494145359,
+                    50.81159047364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Aleja Wolności;Wolności",
+                "addr:postcode": "42-200;42-217",
+                "amenity": "pharmacy",
+                "name": "Błękitna;\"Prywatne Centrum Medyczne \"\"Medyk-Centrum\"\" Jan Bińczyk Szpital\"",
+                "addr:city": "Częstochowa",
+                "ref:csioz": "1170434;1219164",
+                "addr:housenumber": "34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11778219357,
+                    50.80668121698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Prusa",
+                "amenity": "pharmacy",
+                "name": "Apteka 7",
+                "addr:housenumber": "4",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "ref:csioz": "1061043"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.15004144801,
+                    50.78386859291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:street": "Aleja Najświętszej Maryi Panny",
+                "ref:csioz": "1060353",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Apteka Dbam O Zdrowie",
+                "addr:housenumber": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12523171996,
+                    50.81199565062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-202",
+                "ref:csioz": "1060408",
+                "addr:street": "Aleja Wojska Polskiego",
+                "amenity": "pharmacy",
+                "addr:housenumber": "207",
+                "name": "Super-Pharm",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13297327942,
+                    50.80783690756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1206197",
+                "addr:postcode": "42-216",
+                "addr:street": "Księżycowa",
+                "amenity": "pharmacy",
+                "addr:housenumber": "5",
+                "addr:city": "Częstochowa",
+                "name": "Kolorowa Apteka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12120557041,
+                    50.82431946392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:street": "Kazimierza Pużaka",
+                "addr:housenumber": "5",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy",
+                "ref:csioz": "1061056"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13535278014,
+                    50.83973194192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "8",
+                "ref:csioz": "1060676",
+                "addr:flats": "16",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Dr Zdrowie",
+                "addr:street": "Kisielewskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11631800000,
+                    50.83735700001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1177315",
+                "addr:street": "Aleja Wolności",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-217",
+                "name": "Apteka Główna",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11795908902,
+                    50.81032955657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Mireckiego",
+                "amenity": "pharmacy",
+                "ref:csioz": "1060793",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy",
+                "addr:housenumber": "29 A"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.15243880056,
+                    50.77758049103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-226",
                 "name": "Pod Klasztorem",
+                "amenity": "pharmacy",
                 "addr:street": "7 Kamienic",
                 "addr:housenumber": "27",
                 "addr:city": "Częstochowa",
-                "addr:postcode": "42-226",
-                "amenity": "pharmacy"
+                "ref:csioz": "1060283"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.09763822687937,
-                    50.81031664477042
+                    19.09763822688,
+                    50.81031664477
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1060344,
-                "name": "Zielona",
-                "addr:street": "Aleja Najświętszej Maryi Panny",
-                "addr:housenumber": "16",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.120617338975528,
-                    50.81210920105349
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060353,
-                "name": "Apteka Dbam O Zdrowie",
-                "addr:street": "Aleja Najświętszej Maryi Panny",
-                "addr:housenumber": "2",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.12523171996195,
-                    50.81199565061569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060504,
-                "name": "Nasza",
-                "addr:street": "Jana Henryka Dąbrowskiego",
-                "addr:housenumber": "40",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.11292991385341,
-                    50.81842371268529
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060520,
-                "name": "Galen",
-                "addr:street": "Drogowców",
-                "addr:housenumber": "43",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.145103001388613,
-                    50.82378879899284
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060548,
-                "name": "Św. Łukasza",
-                "addr:street": "Ferdynanda Focha",
-                "addr:housenumber": "4",
-                "addr:flats": "6",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.11718600000003,
-                    50.80722000001367
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060557,
-                "name": "Św. Łukasza",
-                "addr:street": "Ferdynanda Focha",
-                "addr:housenumber": "4",
-                "addr:flats": "6A",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-217",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.11718600000003,
-                    50.80722000001367
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060668,
-                "name": "Złota",
-                "addr:street": "Kilińskiego",
-                "addr:housenumber": "2",
-                "addr:flats": "4",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.114189000000025,
-                    50.81237800001367
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060676,
-                "name": "Dr Zdrowie",
-                "addr:street": "Kisielewskiego",
-                "addr:housenumber": "8",
-                "addr:flats": "16",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.116318000000035,
-                    50.837357000013704
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060684,
-                "name": "Brak Nazwy",
-                "addr:street": "Konarskiego",
-                "addr:housenumber": "2",
-                "addr:flats": "4",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.160119000000048,
-                    50.83942300001372
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060692,
-                "name": "Apteka W Przychodni",
-                "addr:street": "Kopalniana",
-                "addr:housenumber": "4",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-271",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.055733705209462,
-                    50.76337243302428
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060710,
-                "name": "Nowa Farmacja",
-                "addr:street": "Kopernika",
-                "addr:housenumber": "45",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-217",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.109381992138196,
-                    50.80820649232596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060729,
-                "name": "Turkusowa",
-                "addr:street": "Kordeckiego",
-                "addr:housenumber": "11",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.093913067429895,
-                    50.8099445580628
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060732,
-                "name": "Św. Wincentego",
-                "addr:street": "Kordeckiego",
-                "addr:housenumber": "49",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.086778193978258,
-                    50.80800138992353
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060911,
-                "name": "Pod Wagą",
-                "addr:street": "Olsztyńska",
-                "addr:housenumber": "68",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.139059524165084,
-                    50.80594821362746
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060922,
-                "name": "Brak Nazwy",
-                "addr:street": "Orkana",
-                "addr:housenumber": "61/67A",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.133088402925924,
-                    50.77731778515252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060933,
-                "name": "Brak Nazwy",
-                "addr:street": "Orkana",
-                "addr:housenumber": "93",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-229",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.132208092095127,
-                    50.77888327222797
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060954,
-                "name": "Biovita",
-                "addr:street": "Orzechowa",
-                "addr:housenumber": "14 A",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-280",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.04041715530747,
-                    50.794538342449655
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1060965,
-                "name": "Brak Nazwy",
-                "addr:street": "Ossowskiego",
-                "addr:housenumber": "12",
-                "addr:flats": "14",
-                "addr:city": "Częstochowa",
+                "name": "Niezapominajka Dla Całej Rodziny",
+                "addr:housenumber": "7",
+                "amenity": "pharmacy",
                 "addr:postcode": "42-207",
-                "amenity": "pharmacy"
+                "ref:csioz": "1204223",
+                "addr:street": "Aleja Pokoju",
+                "addr:city": "Częstochowa"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.145892000000043,
-                    50.78367600001363
+                    19.14704640392,
+                    50.78611967589
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1060987,
-                "name": "Oliwkowa",
-                "addr:street": "Piastowska",
+                "addr:flats": "15",
+                "addr:housenumber": "7",
+                "amenity": "pharmacy",
+                "name": "Cynamonowa",
+                "addr:street": "Ferdynanda Focha",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "ref:csioz": "1060561"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11571500000,
+                    50.80624500001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pistacjowa",
+                "amenity": "pharmacy",
+                "addr:flats": "17",
+                "addr:postcode": "42-218",
+                "addr:housenumber": "9",
+                "addr:street": "Dekabrystów",
+                "ref:csioz": "1165924",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.10893400000,
+                    50.82500000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "ref:csioz": "1060987",
                 "addr:housenumber": "80/82",
-                "addr:city": "Częstochowa",
+                "name": "Oliwkowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.105082745129714,
-                    50.79583879237276
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1110902,
-                "addr:street": "Mehoffera",
-                "addr:housenumber": "61",
                 "addr:city": "Częstochowa",
-                "addr:postcode": "42-202",
-                "amenity": "pharmacy"
+                "addr:street": "Piastowska"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.085515548213614,
-                    50.78847593603095
+                    19.10508274513,
+                    50.79583879237
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1112761,
-                "name": "Combi-Med Chirurgia Krótkoterminowa",
-                "addr:street": "Dekabrystów",
-                "addr:housenumber": "17",
-                "addr:flats": "19",
+                "ref:csioz": "1060637",
+                "addr:postcode": "42-208",
+                "amenity": "pharmacy",
+                "addr:street": "Jesienna",
                 "addr:city": "Częstochowa",
-                "addr:postcode": "42-218",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.11067300000003,
-                    50.82535400001368
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1115523,
-                "name": "Centrum Medyczne Klara - Szpital",
-                "addr:street": "Wały Dwernickiego",
-                "addr:housenumber": "43/45",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-202",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.121675924029795,
-                    50.81702090851904
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1119416,
-                "name": "Apteka Nowa Farmacja W Centrum Medycznym Klara",
-                "addr:street": "Wały Dwernickiego",
-                "addr:housenumber": "43",
-                "addr:flats": "45",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-202",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.12164000000004,
-                    50.816937000013674
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1120512,
-                "name": "Euro-Apteka",
-                "addr:street": "Okulickiego",
-                "addr:housenumber": "52",
-                "addr:flats": "1",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-218",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.09870640909723,
-                    50.82469200411247
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1120520,
-                "name": "Apteka W Dźbowie",
-                "addr:street": "Plac Walecznych",
-                "addr:housenumber": "1",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-271",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.059096824660028,
-                    50.76203862014073
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1122495,
-                "name": "Apteka Nowa Farmacja Plus",
-                "addr:street": "Aleja Najświętszej Maryi Panny",
-                "addr:housenumber": "11",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.12320770492824,
-                    50.81162408041595
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1122581,
-                "name": "Ośrodek Rehabilitacyjno-Wychowawczy Dla Młodzieży Uzależnionej",
-                "addr:street": "Rejtana",
-                "addr:housenumber": "7B",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.133728670615877,
-                    50.79692735711167
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1173518,
-                "name": "Apteka Na Kucelinie",
-                "addr:street": "Aleja Pokoju",
                 "addr:housenumber": "44",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "name": "Brak Nazwy"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.172612433848805,
-                    50.789419858154346
+                    19.14460782610,
+                    50.76990400924
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1177315,
-                "name": "Apteka Główna",
-                "addr:street": "Aleja Wolności",
-                "addr:housenumber": "10",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-217",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.117959089019973,
-                    50.810329556573514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1185895,
-                "name": "Limonkowa",
-                "addr:street": "Aleja Wyzwolenia",
-                "addr:housenumber": "7",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-224",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.126514236356368,
-                    50.839131744525496
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1189234,
-                "addr:street": "Wielkoborska",
-                "addr:housenumber": "37",
-                "addr:flats": "41",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-202",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.054920000000013,
-                    50.819071000013686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1199458,
-                "name": "Apteka Prima",
-                "addr:street": "Aleja Najświętszej Maryi Panny",
-                "addr:housenumber": "50",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-217",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.111221874217996,
-                    50.81228627811529
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1200215,
-                "name": "-",
-                "addr:street": "Aleja Niepodległości",
-                "addr:housenumber": "32",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-216",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.13644706046748,
-                    50.78689320502628
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1204223,
-                "name": "Niezapominajka Dla Całej Rodziny",
-                "addr:street": "Aleja Pokoju",
-                "addr:housenumber": "7",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-207",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.147046403915738,
-                    50.786119675894035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1206181,
-                "name": "Prima",
-                "addr:street": "Aleja Armii Krajowej",
-                "addr:housenumber": "64",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.116899597466677,
-                    50.82710664383979
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1206197,
-                "name": "Kolorowa Apteka",
-                "addr:street": "Księżycowa",
-                "addr:housenumber": "5",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-216",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.121205570409497,
-                    50.82431946391745
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1206064,
-                "name": "Apteka Św.Floriana",
-                "addr:street": "Łukasińskiego",
-                "addr:housenumber": "37",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-207",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.154387931534863,
-                    50.784733765286354
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1208305,
-                "name": "Apteka Corax",
-                "addr:street": "Dekabrystów",
-                "addr:housenumber": "17/19",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.110872224470935,
-                    50.825360751671646
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1208686,
-                "name": "Nasza",
-                "addr:street": "Kilińskiego",
-                "addr:housenumber": "72/74",
-                "addr:flats": "lok.U3",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-218",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.114449598790472,
-                    50.819444339352046
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1211704,
-                "name": "Kolorowa Apteka",
-                "addr:street": "dr. Orłowskiego",
-                "addr:housenumber": "3",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-280",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.039867463571458,
-                    50.796281411280404
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1214023,
-                "name": "Niezapominajka Dla Całej Rodziny",
-                "addr:street": "Dekabrystów",
-                "addr:housenumber": "41b",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-215",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.117278012252402,
-                    50.82638083687542
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1215632,
-                "name": "Apteka Zdrowit +",
-                "addr:street": "Jagiellońska",
-                "addr:housenumber": "1",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-216",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.141055849454396,
-                    50.7829947042502
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1216293,
-                "name": "Apteka Gemini",
-                "addr:street": "Aleja Najświętszej Maryi Panny",
-                "addr:housenumber": "18",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-220",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.120101003729406,
-                    50.81211065392318
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1218242,
-                "name": "Apteka Zdrowit +",
-                "addr:street": "Sosabowskiego",
-                "addr:housenumber": "21",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-224",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.128396761032548,
-                    50.845059217773404
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1218402,
-                "name": "Super-Pharm Apteka",
-                "addr:street": "Kościuszki",
-                "addr:housenumber": "1",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.118095767429068,
-                    50.812898463493894
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1218546,
-                "name": "Miodowa",
-                "addr:street": "Zana",
-                "addr:housenumber": "6",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-217",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.10671920118136,
-                    50.80183550260152
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1219164,
-                "name": "Błękitna",
-                "addr:street": "Wolności",
-                "addr:housenumber": "34",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-217",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.117782193569965,
-                    50.806681216984494
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1219688,
-                "name": "Pawełczak Wiesław - Szpital",
-                "addr:street": "Jaracza",
-                "addr:housenumber": "4",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-217",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.106379053357006,
-                    50.80968828101246
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1221563,
-                "name": "Kolorowa Apteka Sezam",
-                "addr:street": "Niepodległości",
-                "addr:housenumber": "39A",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-216",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.14100600000004,
-                    50.78515200001362
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1223716,
-                "name": "Nzoz Provisus",
-                "addr:street": "Rędzińska",
-                "addr:housenumber": "112",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-209",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.185240635257404,
-                    50.845244301736656
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1225366,
-                "name": "Apteka Diamentowa",
-                "addr:street": "Jagiellońska",
-                "addr:housenumber": "3/9",
-                "addr:flats": "2",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-216",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.139786208600775,
-                    50.78335018734876
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1170434,
-                "name": "\"Prywatne Centrum Medyczne \"\"Medyk-Centrum\"\" Jan Bińczyk Szpital\"",
-                "addr:street": "Aleja Wolności",
-                "addr:housenumber": "34",
-                "addr:city": "Częstochowa",
-                "addr:postcode": "42-200",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    19.117782193569965,
-                    50.806681216984494
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1184738,
-                "name": "\"Centrum Medyczne \"\"Olmedical\"\" - Szpital\"",
                 "addr:street": "Krynicka",
-                "addr:housenumber": "1",
+                "name": "\"Centrum Medyczne \"\"Olmedical\"\" - Szpital\"",
                 "addr:flats": "3",
+                "ref:csioz": "1184738",
+                "amenity": "pharmacy",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-221",
-                "amenity": "pharmacy"
+                "addr:housenumber": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.089385000000018,
-                    50.82523400001369
+                    19.08938500000,
+                    50.82523400001
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1205323,
-                "name": "\"Centrum Zdrowia Psychicznego \"\"Egomedica\"\" Szpitalnictwo - Oddziały Dzienne\"",
-                "addr:street": "Orkana",
-                "addr:housenumber": "139B",
-                "addr:city": "Częstochowa",
+                "ref:csioz": "1174256",
+                "amenity": "pharmacy",
+                "addr:housenumber": "3",
+                "name": "Apteka Zdrowit",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "addr:city": "Częstochowa",
+                "addr:street": "Inwalidów Wojennych"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.129383644398565,
-                    50.78148655205904
+                    19.11928293326,
+                    50.83243432437
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1057270,
-                "name": "\"Nzoz Centrum Opieki I Rehabilitacji \"\"Zdrowie\"\"\"",
-                "addr:street": "Łukasińskiego mjra Waleriana",
-                "addr:housenumber": "42",
-                "addr:flats": "48",
-                "addr:city": "Częstochowa",
+                "addr:street": "Aleja Wolności",
+                "name": "Wrzosowa",
+                "amenity": "pharmacy",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "46",
+                "ref:csioz": "1061231"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.154451000000044,
-                    50.782650000013625
+                    19.11719975345,
+                    50.80424774397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:flats": "1",
+                "addr:street": "Okulickiego",
+                "addr:housenumber": "52",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-218",
+                "addr:city": "Częstochowa",
+                "name": "Euro-Apteka",
+                "ref:csioz": "1120512"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09870640910,
+                    50.82469200411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1060710",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-217",
+                "addr:street": "Kopernika",
+                "addr:city": "Częstochowa",
+                "name": "Nowa Farmacja",
+                "addr:housenumber": "45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.10938199214,
+                    50.80820649233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-224",
+                "amenity": "pharmacy",
+                "addr:street": "Sosabowskiego",
+                "ref:csioz": "1218242",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "21",
+                "name": "Apteka Zdrowit +"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12839676103,
+                    50.84505921777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-202",
+                "addr:housenumber": "29",
+                "amenity": "pharmacy",
+                "addr:city": "Częstochowa",
+                "addr:street": "Wręczycka",
+                "name": "Brak Nazwy",
+                "ref:csioz": "1061253"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.07839707332,
+                    50.82178292978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1060933",
+                "amenity": "pharmacy",
+                "addr:housenumber": "93",
+                "addr:postcode": "42-229",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy",
+                "addr:street": "Orkana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13220809210,
+                    50.77888327223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Ogrodowa",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "ref:csioz": "1057387",
+                "name": "\"Zakład Opiekuńczo-Leczniczy Prowadzony Przez Zgromadzenie Małych Sióstr Niepokalanego Serca Maryi \"\"Honoratek\"\"\"",
+                "addr:housenumber": "35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12608996572,
+                    50.80613166711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:postcode": "42-207",
+                "ref:csioz": "1206064",
+                "addr:housenumber": "37",
+                "addr:street": "Łukasińskiego",
+                "addr:city": "Częstochowa",
+                "name": "Apteka Św.Floriana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.15438793153,
+                    50.78473376529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fides",
+                "amenity": "pharmacy",
+                "ref:csioz": "1061024",
+                "addr:housenumber": "5",
+                "addr:street": "Aleja Pokoju",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.14601051415,
+                    50.78577033731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:flats": "4",
+                "amenity": "pharmacy",
+                "ref:csioz": "1060684",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy",
+                "addr:housenumber": "2",
+                "addr:street": "Konarskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.16011900000,
+                    50.83942300001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-216",
+                "amenity": "pharmacy",
+                "addr:street": "Jagiellońska",
+                "addr:city": "Częstochowa",
+                "ref:csioz": "1215632",
+                "addr:housenumber": "1",
+                "name": "Apteka Zdrowit +"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.14105584945,
+                    50.78299470425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:housenumber": "9",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy",
+                "addr:street": "Mirowska",
+                "ref:csioz": "1060817"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13171137083,
+                    50.81176620395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Aleja Wolności",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-217",
+                "addr:housenumber": "4",
+                "name": "Ziko Apteka",
+                "ref:csioz": "1193147",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11794311954,
+                    50.81092666143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Rejtana",
+                "ref:csioz": "1122581",
+                "addr:housenumber": "7B",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Ośrodek Rehabilitacyjno-Wychowawczy Dla Młodzieży Uzależnionej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13372867062,
+                    50.79692735711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Obrońców Westerplatte",
+                "amenity": "pharmacy",
+                "ref:csioz": "1060882",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy",
+                "addr:housenumber": "21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11335462153,
+                    50.83234315367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alfamedica - Lecznictwo Ambulatoryjne",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-218",
+                "addr:city": "Częstochowa",
+                "addr:street": "Kilińskiego",
+                "ref:csioz": "1203985",
+                "addr:housenumber": "166"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11094531986,
+                    50.82862574684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "25A",
+                "addr:street": "Bohaterów Katynia",
+                "name": "Apteka Aronia",
+                "addr:flats": "5",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "ref:csioz": "1060470"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.15050793412,
+                    50.77273597952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "ref:csioz": "1120520",
+                "name": "Apteka W Dźbowie",
+                "addr:postcode": "42-271",
+                "addr:street": "Plac Walecznych",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.05909682466,
+                    50.76203862014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-224",
+                "addr:street": "Zbigniewa Herberta",
+                "ref:csioz": "1060599",
+                "amenity": "pharmacy",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy",
+                "addr:flats": "30",
+                "addr:housenumber": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13152748777,
+                    50.83876965906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "ref:csioz": "1218402",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:street": "Kościuszki",
+                "addr:housenumber": "1",
+                "name": "Super-Pharm Apteka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11809576743,
+                    50.81289846349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:flats": "14",
+                "addr:street": "Warszawska",
+                "name": "4 Pory Roku",
+                "amenity": "pharmacy",
+                "ref:csioz": "1061159",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12859200000,
+                    50.81282200001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "14 A",
+                "addr:postcode": "42-280",
+                "amenity": "pharmacy",
+                "ref:csioz": "1060954",
+                "name": "Biovita",
+                "addr:street": "Orzechowa",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.04041715531,
+                    50.79453834245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "name": "Bursztynowa",
+                "addr:postcode": "42-207",
+                "addr:street": "Aleja Najświętszej Maryi Panny",
+                "ref:csioz": "1060366",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11873912066,
+                    50.81213702741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-202",
+                "amenity": "pharmacy",
+                "ref:csioz": "1061035",
+                "name": "Słoneczna",
+                "addr:street": "gen. Ignacego Prądzyńskiego",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11879491843,
+                    50.82165857627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Św. Łukasza",
+                "ref:csioz": "1060557;1060548",
+                "addr:postcode": "42-200;42-217",
+                "amenity": "pharmacy",
+                "addr:street": "Ferdynanda Focha",
+                "addr:housenumber": "4",
+                "addr:flats": "6;6A",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11718600000,
+                    50.80722000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Bialska",
+                "amenity": "pharmacy",
+                "addr:flats": "118",
+                "addr:housenumber": "104",
+                "addr:city": "Częstochowa",
+                "addr:postcode": "42-200",
+                "name": "Spzoz- Wojewódzki Szpital Specjalistyczny Im Nmp;Brak Nazwy",
+                "ref:csioz": "1074114;1060462"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.08917200000,
+                    50.82965200001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "64",
+                "amenity": "pharmacy",
+                "addr:street": "Aleja Armii Krajowej",
+                "name": "Prima",
+                "ref:csioz": "1206181",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11689959747,
+                    50.82710664384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:street": "Sejmowa",
+                "name": "Pulsatilla",
+                "addr:housenumber": "28",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "ref:csioz": "1061100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.10285067347,
+                    50.84970557785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:flats": "4",
+                "amenity": "pharmacy",
+                "ref:csioz": "1060668",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:street": "Kilińskiego",
+                "addr:housenumber": "2",
+                "name": "Złota"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11418900000,
+                    50.81237800001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-280",
+                "amenity": "pharmacy",
+                "ref:csioz": "1211704",
+                "addr:housenumber": "3",
+                "addr:city": "Częstochowa",
+                "addr:street": "dr. Orłowskiego",
+                "name": "Kolorowa Apteka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.03986746357,
+                    50.79628141128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1060786",
+                "amenity": "pharmacy",
+                "addr:housenumber": "17",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:street": "Kazimierza Michałowskiego",
+                "name": "Brak Nazy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11887099669,
+                    50.84126979159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Zapolskiej",
+                "addr:housenumber": "7",
+                "name": "Poziomkowa",
+                "amenity": "pharmacy",
+                "ref:csioz": "1180128",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12110486424,
+                    50.83053850931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1200215",
+                "addr:postcode": "42-216",
+                "amenity": "pharmacy",
+                "name": "-",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "32",
+                "addr:street": "Aleja Niepodległości"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13644706047,
+                    50.78689320503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1060858",
+                "addr:street": "Norwida",
+                "name": "Apteka Od Serca",
+                "addr:flats": "15",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.16335600000,
+                    50.83904600001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:street": "Gajowa",
+                "addr:postcode": "42-229",
+                "ref:csioz": "1121894",
+                "addr:housenumber": "17",
+                "addr:city": "Częstochowa",
+                "name": "Dr. Max"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13620499948,
+                    50.78110222513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-202",
+                "addr:housenumber": "43/45",
+                "ref:csioz": "1115523",
+                "addr:street": "Wały Dwernickiego",
+                "amenity": "pharmacy",
+                "addr:city": "Częstochowa",
+                "name": "Centrum Medyczne Klara - Szpital"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12167592403,
+                    50.81702090852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Jarosława Iwaszkiewicza",
+                "amenity": "pharmacy",
+                "ref:csioz": "1060613",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "11",
+                "name": "Natural"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12345550754,
+                    50.83914810879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Apteka Diamentowa",
+                "addr:postcode": "42-216",
+                "addr:flats": "2",
+                "addr:housenumber": "3/9",
+                "amenity": "pharmacy",
+                "addr:street": "Jagiellońska",
+                "ref:csioz": "1225366",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13978620860,
+                    50.78335018735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "św. Rocha",
+                "addr:housenumber": "250",
+                "amenity": "pharmacy",
+                "ref:csioz": "1176704",
+                "addr:city": "Częstochowa",
+                "name": "Kolorowa Apteka",
+                "addr:postcode": "42-221"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.06103250403,
+                    50.83672287605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1061184",
+                "addr:housenumber": "18",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy",
+                "addr:street": "Wieluńska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09825417398,
+                    50.81558001367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:flats": "45",
+                "addr:postcode": "42-202",
+                "ref:csioz": "1119416",
+                "addr:street": "Wały Dwernickiego",
+                "name": "Apteka Nowa Farmacja W Centrum Medycznym Klara",
+                "amenity": "pharmacy",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12164000000,
+                    50.81693700001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1060911",
+                "addr:street": "Olsztyńska",
+                "amenity": "pharmacy",
+                "name": "Pod Wagą",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13905952417,
+                    50.80594821363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1216293",
+                "name": "Apteka Gemini",
+                "addr:housenumber": "18",
+                "amenity": "pharmacy",
+                "addr:street": "Aleja Najświętszej Maryi Panny",
+                "addr:city": "Częstochowa",
+                "addr:postcode": "42-220"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12010100373,
+                    50.81211065392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1060922",
+                "amenity": "pharmacy",
+                "addr:housenumber": "61/67A",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy",
+                "addr:street": "Orkana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13308840293,
+                    50.77731778515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:postcode": "42-217",
+                "addr:street": "Jaracza",
+                "name": "Pawełczak Wiesław - Szpital",
+                "addr:housenumber": "4",
+                "addr:city": "Częstochowa",
+                "ref:csioz": "1219688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.10637905336,
+                    50.80968828101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fides",
+                "amenity": "pharmacy",
+                "ref:csioz": "1061019",
+                "addr:street": "Aleja Pokoju",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.14899971721,
+                    50.78625930884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "40",
+                "ref:csioz": "1060504",
+                "amenity": "pharmacy",
+                "name": "Nasza",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:street": "Jana Henryka Dąbrowskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11292991385,
+                    50.81842371269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:flats": "3",
+                "ref:csioz": "1060419",
+                "amenity": "pharmacy",
+                "addr:street": "Aleja Armii Krajowej",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy",
+                "addr:housenumber": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11808800000,
+                    50.81599500001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-215",
+                "name": "Niezapominajka Dla Całej Rodziny",
+                "amenity": "pharmacy",
+                "ref:csioz": "1214023",
+                "addr:housenumber": "41b",
+                "addr:street": "Dekabrystów",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11727801225,
+                    50.82638083688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "św. Rocha",
+                "addr:housenumber": "7",
+                "amenity": "pharmacy",
+                "ref:csioz": "1061070",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Brak Nazwy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09303028870,
+                    50.81676876205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Apteka Przy Rondzie",
+                "ref:csioz": "1192835",
+                "addr:street": "Aleja Wolności",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.11754564109,
+                    50.80138121807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-224",
+                "ref:csioz": "1185895",
+                "addr:housenumber": "7",
+                "amenity": "pharmacy",
+                "addr:street": "Aleja Wyzwolenia",
+                "name": "Limonkowa",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12651423636,
+                    50.83913174453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Peonia",
+                "addr:housenumber": "8",
+                "addr:street": "Obrońców Poczty Gdańskiej",
+                "ref:csioz": "1060874",
+                "amenity": "pharmacy",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.10772963225,
+                    50.83142143572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:street": "Aleja Najświętszej Maryi Panny",
+                "name": "Zielona",
+                "ref:csioz": "1060344",
+                "addr:housenumber": "16",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12061733898,
+                    50.81210920105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Andersa",
+                "amenity": "pharmacy",
+                "ref:csioz": "1060573",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "name": "Waga",
+                "addr:housenumber": "12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13084707311,
+                    50.84777759425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "61",
+                "addr:postcode": "42-202",
+                "ref:csioz": "1110902",
+                "amenity": "pharmacy",
+                "addr:street": "Mehoffera",
+                "addr:city": "Częstochowa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.08551554821,
+                    50.78847593603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-224",
+                "name": "Apteka Vita",
+                "amenity": "pharmacy",
+                "ref:csioz": "1060585",
+                "addr:street": "Witolda Gombrowicza",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.13354238262,
+                    50.83604710867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Radomska",
+                "amenity": "pharmacy",
+                "addr:housenumber": "4",
+                "name": "Apteka Św. Rocha",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "ref:csioz": "1176165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.06798862554,
+                    50.83021706154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "42-226",
+                "addr:housenumber": "73",
+                "addr:street": "Barbary św.",
+                "amenity": "pharmacy",
+                "ref:csioz": "1061145",
+                "addr:city": "Częstochowa",
+                "name": "Jana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09143301902,
+                    50.80398119812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:street": "Kordeckiego",
+                "name": "Turkusowa",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "11",
+                "ref:csioz": "1060729"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.09391306743,
+                    50.80994455806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1221563",
+                "addr:postcode": "42-216",
+                "addr:housenumber": "39A",
+                "amenity": "pharmacy",
+                "addr:city": "Częstochowa",
+                "addr:street": "Niepodległości",
+                "name": "Kolorowa Apteka Sezam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.14100600000,
+                    50.78515200001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "ref:csioz": "1061266",
+                "addr:postcode": "42-200",
+                "addr:city": "Częstochowa",
+                "addr:housenumber": "88",
+                "addr:street": "Wręczycka",
+                "name": "Magnolia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.06977311722,
+                    50.82137325586
                 ]
             }
         }

@@ -1,488 +1,423 @@
+
 {
     "type": "FeatureCollection",
-    "name": "JPT_KOD_JE_2003",
+    "generator": "JOSM",
     "features": [
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1015085,
+                "ref:csioz": "1022624",
+                "amenity": "pharmacy",
+                "addr:city": "Bielsk Podlaski",
+                "addr:housenumber": "27",
+                "addr:street": "Adama Mickiewicza",
+                "name": "Cefarm",
+                "addr:postcode": "17-100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.19007345065,
+                    52.76749240052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bliska",
+                "ref:csioz": "1230824",
+                "amenity": "pharmacy",
+                "addr:city": "Bielsk Podlaski",
+                "addr:street": "Kleszczelowska",
+                "addr:postcode": "17-100",
+                "addr:housenumber": "1B"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.20187860587,
+                    52.75993408510
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "31 A-B",
+                "addr:street": "Aleja Józefa Piłsudskiego",
+                "amenity": "pharmacy",
+                "addr:city": "Bielsk Podlaski",
+                "name": "Cosmedica",
+                "ref:csioz": "1213057",
+                "addr:postcode": "17-100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.18099100008,
+                    52.77047500002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pod Dębem",
+                "amenity": "pharmacy",
+                "addr:city": "Brańsk",
+                "addr:postcode": "17-120",
+                "addr:housenumber": "17",
+                "addr:street": "Adama Mickiewicza",
+                "ref:csioz": "1017294"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.83696752931,
+                    52.74409477096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1023081",
+                "amenity": "pharmacy",
+                "addr:street": "Jagiellońska",
+                "addr:city": "Bielsk Podlaski",
+                "addr:housenumber": "32",
+                "name": "Medica",
+                "addr:postcode": "17-100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.19763066188,
+                    52.76984875831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galena",
+                "ref:csioz": "1023228",
+                "amenity": "pharmacy",
+                "addr:city": "Bielsk Podlaski",
+                "addr:street": "3 Maja",
+                "addr:postcode": "17-100",
+                "addr:housenumber": "12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.18679609530,
+                    52.77054412965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Apteka (Hanna Wiercińska)",
+                "addr:city": "Boćki",
+                "addr:street": "Dubieńska",
+                "amenity": "pharmacy",
+                "ref:csioz": "1020409",
+                "addr:housenumber": "6",
+                "addr:postcode": "17-111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.04493937702,
+                    52.64953108287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "aleja Józefa Piłsudskiego",
+                "amenity": "pharmacy",
+                "ref:csioz": "1219317",
+                "addr:city": "Bielsk Podlaski",
+                "name": "Pogodna",
+                "addr:housenumber": "54",
+                "addr:postcode": "17-100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.18549560747,
+                    52.77348599760
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Apteka (Maria Niewińska)",
+                "addr:street": "Ogrodowa",
+                "amenity": "pharmacy",
+                "addr:city": "Bielsk Podlaski",
+                "ref:csioz": "1020185",
+                "addr:housenumber": "28",
+                "addr:postcode": "17-100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.19908652174,
+                    52.77277627129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dbam O Zdrowie (Doz)",
+                "ref:csioz": "1114862",
+                "addr:housenumber": "31",
+                "amenity": "pharmacy",
+                "addr:city": "Bielsk Podlaski",
+                "addr:street": "Adama Mickiewicza",
+                "addr:postcode": "17-100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.19079437662,
+                    52.76814884283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Od Serca",
+                "addr:street": "Kryniczna",
+                "amenity": "pharmacy",
+                "ref:csioz": "1023304",
+                "addr:city": "Bielsk Podlaski",
+                "addr:housenumber": "10A",
+                "addr:postcode": "17-100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.19186483757,
+                    52.77212146794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:city": "Brańsk",
+                "ref:csioz": "1020607",
+                "addr:postcode": "17-120",
+                "addr:housenumber": "5",
+                "addr:street": "Tadeusza Kościuszki",
+                "name": "Apteka (Barbara Bańkowska)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.84122836470,
+                    52.74410631986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "17-106",
+                "addr:street": "Bielska",
+                "amenity": "pharmacy",
+                "addr:housenumber": "18A",
+                "ref:csioz": "1178396",
+                "addr:city": "Orla",
+                "name": "Od Serca"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.32893724701,
+                    52.70679728381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "51",
+                "addr:flats": "3",
+                "name": "Społeczna",
+                "amenity": "pharmacy",
+                "addr:city": "Bielsk Podlaski",
+                "addr:street": "Adama Mickiewicza",
+                "addr:postcode": "17-100",
+                "ref:csioz": "1189696"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.19295256783,
+                    52.77190579521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "addr:housenumber": "63",
+                "amenity": "pharmacy",
                 "addr:city": "Holonki",
                 "addr:postcode": "17-120",
-                "amenity": "pharmacy"
+                "ref:csioz": "1015085",
+                "name": "Punkt apteczny (Holonki)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    22.866190672094145,
-                    52.66127661421848
+                    22.86619067209,
+                    52.66127661422
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1017294,
-                "name": "Apteka Pod Dębem Mgr Farm. Barbara Walio",
-                "addr:street": "Adama Mickiewicza",
-                "addr:housenumber": "17",
-                "addr:city": "Brańsk",
-                "addr:postcode": "17-120",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    22.836967529312595,
-                    52.74409477095611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1020245,
-                "addr:street": "Brańska",
-                "addr:housenumber": "13",
-                "addr:city": "Rudka",
-                "addr:postcode": "17-123",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    22.73196289828308,
-                    52.72648747314721
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1020185,
-                "name": "Apteka Maria Niewińska",
-                "addr:street": "Ogrodowa",
-                "addr:housenumber": "28",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.199086521738984,
-                    52.77277627129218
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1020284,
-                "name": "Dbam O Zdrowie",
-                "addr:street": "Józefa Piłsudskiego",
-                "addr:housenumber": "27",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.181339381857438,
-                    52.7689867645969
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1020607,
-                "addr:street": "Tadeusza Kościuszki",
-                "addr:housenumber": "5",
-                "addr:city": "Brańsk",
-                "addr:postcode": "17-120",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    22.841228364702594,
-                    52.74410631986313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1022624,
-                "name": "\"Apteka Cef@Rm 36,6\"",
-                "addr:street": "Adama Mickiewicza",
-                "addr:housenumber": "27",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.190073450654147,
-                    52.767492400523984
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1022821,
-                "name": "\"Apteka Cef@Rm 36,6\"",
-                "addr:street": "3 Maja",
+                "ref:csioz": "1022821",
+                "amenity": "pharmacy",
                 "addr:housenumber": "15",
                 "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.186381401520244,
-                    52.770360179675826
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1023081,
-                "name": "Medica",
-                "addr:street": "Jagiellońska",
-                "addr:housenumber": "32",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.1976306618803,
-                    52.76984875830713
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1023228,
-                "name": "Galena",
                 "addr:street": "3 Maja",
-                "addr:housenumber": "12",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
+                "name": "Cefarm",
+                "addr:postcode": "17-100"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.1867960953011,
-                    52.770544129649636
+                    23.18638140152,
+                    52.77036017968
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1024587,
-                "addr:street": "Jagiellońska",
-                "addr:housenumber": "24",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.19676766155069,
-                    52.769207936298535
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1114862,
-                "name": "Doz Apteka Dbam O Zdrowie",
-                "addr:street": "Adama Mickiewicza",
-                "addr:housenumber": "31",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.19079437662237,
-                    52.76814884283451
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1138681,
-                "addr:street": "Kleszczelowska",
-                "addr:housenumber": "1",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.202251458950514,
-                    52.75968445603064
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1178396,
-                "addr:street": "Bielska",
-                "addr:housenumber": "18A",
-                "addr:city": "Orla",
-                "addr:postcode": "17-106",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.328814780084382,
-                    52.70693730989852
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1230824,
-                "name": "Apteka Bliska",
-                "addr:street": "Kleszczelowska",
-                "addr:housenumber": "1B",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.201878605872178,
-                    52.75993408509516
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1020221,
-                "addr:street": "Kościelna",
+                "ref:csioz": "1020221",
+                "amenity": "pharmacy",
                 "addr:housenumber": "9",
                 "addr:city": "Brańsk",
                 "addr:postcode": "17-120",
-                "amenity": "pharmacy"
+                "addr:street": "Kościelna",
+                "name": "Apteka (Barbara Bańkowska)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    22.840758698005768,
-                    52.74197786614868
+                    22.84075869801,
+                    52.74197786615
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1020409,
-                "name": "Apteka Hanna Karolina Wiercińska",
-                "addr:street": "Dubieńska",
-                "addr:housenumber": "6",
-                "addr:city": "Boćki",
-                "addr:postcode": "17-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "ref:csioz": "1020245",
+                "addr:city": "Rudka",
+                "addr:postcode": "17-123",
+                "addr:street": "Brańska",
+                "addr:housenumber": "13",
+                "name": "Apteka (Rudka)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.04493937701713,
-                    52.649531082869544
+                    22.73196289828,
+                    52.72648747315
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1022704,
-                "name": "\"Apteka Cef@Rm 36,6\"",
-                "addr:street": "Henryka Sienkiewicza",
+                "amenity": "pharmacy",
+                "addr:street": "Jagiellońska",
+                "addr:city": "Bielsk Podlaski",
+                "ref:csioz": "1024587",
                 "addr:housenumber": "24",
+                "addr:postcode": "17-100",
+                "name": "Apteka (Aleksy Syczewski)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.19676766155,
+                    52.76920793630
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:street": "Henryka Sienkiewicza",
+                "amenity": "pharmacy",
                 "addr:city": "Brańsk",
                 "addr:postcode": "17-120",
-                "amenity": "pharmacy"
+                "name": "Cefarm",
+                "ref:csioz": "1022704",
+                "addr:housenumber": "24"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    22.83923530289683,
-                    52.742497469934555
+                    22.83923530290,
+                    52.74249746993
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1023304,
-                "name": "Apteka Od Serca",
-                "addr:street": "Kryniczna",
-                "addr:housenumber": "10A",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.191864837566158,
-                    52.77212146793783
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1117841,
-                "name": "Hebeapteka",
-                "addr:street": "Franciszka Żwirki i Stanisława Wigury",
-                "addr:housenumber": "8",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.191916537809927,
-                    52.77470239455324
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1189696,
-                "name": "Apteka Społeczna Na Mickiewicza Grupa Nowa Farmacja",
-                "addr:street": "Adama Mickiewicza",
-                "addr:housenumber": "51",
-                "addr:flats": "3",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.192952567830535,
-                    52.77190579521339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1213057,
-                "name": "Cosmedica",
-                "addr:street": "Aleja Józefa Piłsudskiego",
-                "addr:housenumber": "31 A-B",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.180991000079054,
-                    52.77047500001864
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1218740,
-                "addr:street": "Aleja Józefa Piłsudskiego",
-                "addr:housenumber": "31",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.182726998164902,
-                    52.77029904594439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1219317,
-                "name": "Pogodna Apteka Ap Drive",
-                "addr:street": "aleja Józefa Piłsudskiego",
-                "addr:housenumber": "54",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.185495607474355,
-                    52.77348599759874
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1230745,
-                "addr:street": "Kleszczelowska",
-                "addr:housenumber": "1",
-                "addr:city": "Bielsk Podlaski",
-                "addr:postcode": "17-100",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.202251458950514,
-                    52.75968445603064
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1023464,
-                "addr:street": "Łąkowa",
-                "addr:housenumber": "14",
+                "amenity": "pharmacy",
                 "addr:city": "Wyszki",
+                "addr:housenumber": "14",
+                "ref:csioz": "1023464",
+                "addr:street": "Łąkowa",
                 "addr:postcode": "17-132",
-                "amenity": "pharmacy"
+                "name": "Apteka (Ewa Wierzbicka)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    22.980213941149817,
-                    52.84245235705619
+                    22.98021394115,
+                    52.84245235706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dbam O Zdrowie (Doz)",
+                "amenity": "pharmacy",
+                "addr:city": "Bielsk Podlaski",
+                "addr:street": "Józefa Piłsudskiego",
+                "ref:csioz": "1020284",
+                "addr:housenumber": "27",
+                "addr:postcode": "17-100"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.18133938186,
+                    52.76898676460
                 ]
             }
         }

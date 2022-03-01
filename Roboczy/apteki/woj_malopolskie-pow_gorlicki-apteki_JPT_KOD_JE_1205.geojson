@@ -1,831 +1,814 @@
+
 {
     "type": "FeatureCollection",
-    "name": "JPT_KOD_JE_1205",
+    "generator": "JOSM",
     "features": [
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1081258,
-                "addr:housenumber": "419",
-                "addr:city": "Szalowa",
-                "addr:postcode": "38-331",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.02048317311268,
-                    49.68237318919022
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081015,
-                "name": "Alba",
-                "addr:housenumber": "494",
+                "ref:csioz": "1081015",
                 "addr:city": "Dominikowice",
+                "amenity": "pharmacy",
                 "addr:postcode": "38-303",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.215848948879145,
-                    49.65686783786565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081031,
-                "name": "Apteka Agma",
-                "addr:street": "Tadeusza Kościuszki",
-                "addr:housenumber": "24",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.157617879503032,
-                    49.653620406028914
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081066,
-                "name": "Apteka Prywatna S.C.",
-                "addr:street": "Słoneczna",
-                "addr:housenumber": "2",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.146841884614673,
-                    49.65656932546434
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081077,
-                "name": "Apteka Rodzinna",
-                "addr:street": "Władysława Jagiełły",
-                "addr:housenumber": "8",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.157007911453427,
-                    49.66051638676972
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081089,
-                "name": "\"Apteka Pod Orłem S.C. Mgr Farm. Hanna Przybycień-Zięba, Techn.Farm. Dorota Przybycień\"",
-                "addr:street": "Stróżowska",
-                "addr:housenumber": "55",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.151299103746485,
-                    49.660423143847815
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081230,
-                "name": "Apteka Prywatna W Moszczenicy",
-                "addr:street": "Gorlicka",
-                "addr:housenumber": "185",
-                "addr:city": "Moszczenica",
-                "addr:postcode": "38-321",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.105464232774,
-                    49.72375786808727
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081249,
-                "name": "Apteka Prywatna Mgr Farm. Sowa Janina",
-                "addr:housenumber": "766",
-                "addr:city": "Łużna",
-                "addr:postcode": "38-322",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.051256405306425,
-                    49.7107847690369
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081274,
-                "name": "Herbamed",
-                "addr:street": "Przedmieście Dolne",
-                "addr:housenumber": "167A",
-                "addr:city": "Biecz",
-                "addr:postcode": "38-340",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.26768381934628,
-                    49.73938147453024
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081296,
-                "addr:street": "Barianów Rokickich",
-                "addr:housenumber": "2",
-                "addr:city": "Biecz",
-                "addr:postcode": "38-340",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.24875403106406,
-                    49.73021055904927
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081309,
-                "name": "Bratek",
-                "addr:street": "Tysiąclecia",
-                "addr:housenumber": "3",
-                "addr:city": "Biecz",
-                "addr:postcode": "38-340",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.254549100582253,
-                    49.732860615683784
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081323,
-                "addr:street": "Węgierska",
-                "addr:housenumber": "1",
-                "addr:city": "Bobowa",
-                "addr:postcode": "38-350",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.94159914132651,
-                    49.70747111367776
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1114642,
-                "name": "Herbamed Spółka Jawna",
-                "addr:housenumber": "323",
-                "addr:city": "Sękowa",
-                "addr:postcode": "38-307",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.196342371532673,
-                    49.62058100965877
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1149965,
-                "name": "Apteka Szpitalna",
-                "addr:street": "Węgierska",
-                "addr:housenumber": "21",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.162540645461167,
-                    49.651297664437934
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081106,
-                "addr:street": "Biecka",
-                "addr:housenumber": "16",
-                "addr:flats": "2",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.162608773149735,
-                    49.66232617410626
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081133,
-                "name": "Punkt Apteczny Zdrowie",
-                "addr:housenumber": "246",
-                "addr:city": "Mszanka",
-                "addr:postcode": "38-322",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.101409520805166,
-                    49.689862672652836
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081154,
-                "addr:housenumber": "446",
-                "addr:city": "Kryg",
-                "addr:postcode": "38-304",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.253459970791447,
-                    49.65510183893974
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081165,
-                "addr:housenumber": "44",
-                "addr:city": "Lipinki",
-                "addr:postcode": "38-305",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.294968538389362,
-                    49.672112439566334
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081187,
-                "addr:housenumber": "652",
-                "addr:city": "Libusza",
-                "addr:postcode": "38-306",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.240998929680547,
-                    49.689350948329924
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081346,
-                "addr:street": "Węgierska",
-                "addr:housenumber": "27",
-                "addr:city": "Bobowa",
-                "addr:postcode": "38-350",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.939436967029568,
-                    49.706302983543154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1113312,
-                "name": "\"Apteka Cefarm 36,6\"",
-                "addr:street": "Podkościelna",
-                "addr:housenumber": "2",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.15833321997552,
-                    49.65695741236508
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1171093,
-                "addr:street": "3 Maja",
-                "addr:housenumber": "15",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.15721607800798,
-                    49.65909266345666
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1186909,
-                "name": "Alba Iii",
-                "addr:street": "Tadeusza Kościuszki",
-                "addr:housenumber": "42",
-                "addr:flats": "M",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.155756139787247,
-                    49.651862092696916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1196383,
-                "name": "\"Apteka Cefarm 36,6\"",
-                "addr:street": "3 Maja",
-                "addr:housenumber": "2",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.15686652362917,
-                    49.65820312592003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1204828,
-                "name": "Apteka Kinga",
-                "addr:street": "Rynek",
-                "addr:housenumber": "28",
-                "addr:city": "Bobowa",
-                "addr:postcode": "38-350",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.94198671392413,
-                    49.70766471789328
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1207107,
-                "name": "Apteka Społeczna Na Legionów Grupa Nowa Farmacja",
-                "addr:street": "Legionów",
-                "addr:housenumber": "12",
-                "addr:flats": "1",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.160201851797982,
-                    49.658714475932065
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1214893,
-                "name": "\"'Apteka Z Tradycją'\"",
-                "addr:street": "Grunwaldzka",
-                "addr:housenumber": "51",
-                "addr:city": "Bobowa",
-                "addr:postcode": "38-350",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    20.95353800000291,
-                    49.71374600001211
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1226213,
-                "name": "Punkt Apteczny Zagórzany",
-                "addr:housenumber": "207",
-                "addr:city": "Zagórzany",
-                "addr:postcode": "38-333",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.155843000004552,
-                    49.69865800001211
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1080986,
-                "name": "Dr. Max",
-                "addr:street": "Rynek",
-                "addr:housenumber": "15",
-                "addr:city": "Biecz",
-                "addr:postcode": "38-340",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.250588706086997,
-                    49.73088082940237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1117189,
-                "name": "Zdrowie",
-                "addr:housenumber": "84",
-                "addr:city": "Śnietnica",
-                "addr:postcode": "38-315",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.047811973776525,
-                    49.518886202820184
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1188069,
-                "name": "\"Apteka \"\"Centrum\"\"\"",
-                "addr:housenumber": "917",
-                "addr:city": "Ropa",
-                "addr:postcode": "38-312",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.044326609509223,
-                    49.60002334488687
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1080631,
-                "addr:street": "Legionów",
-                "addr:housenumber": "6E",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.159944712176863,
-                    49.65781584388384
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1080644,
-                "addr:housenumber": "149",
-                "addr:city": "Wysowa-Zdrój",
-                "addr:postcode": "38-316",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.178107467554092,
-                    49.43608075436058
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081002,
                 "name": "Alba",
+                "addr:housenumber": "494"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21584894888,
+                    49.65686783787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1081225",
+                "amenity": "pharmacy",
+                "addr:postcode": "38-315",
+                "addr:city": "Uście Gorlickie",
+                "addr:housenumber": "155"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.13703887844,
+                    49.52045531765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1081346",
+                "addr:city": "Bobowa",
+                "addr:postcode": "38-350",
+                "amenity": "pharmacy",
+                "addr:street": "Węgierska",
+                "addr:housenumber": "27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.93943696703,
+                    49.70630298354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gorlice",
+                "addr:postcode": "38-300",
+                "addr:housenumber": "19",
+                "amenity": "pharmacy",
                 "addr:street": "Rynek",
-                "addr:housenumber": "19",
+                "name": "Alba",
+                "ref:csioz": "1081002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.15759800000,
+                    49.65783400001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "addr:city": "Gorlice",
+                "ref:csioz": "1080631",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:street": "Legionów",
+                "addr:housenumber": "6E"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.157598000004587,
-                    49.657834000012045
+                    21.15994471218,
+                    49.65781584388
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1081090,
-                "name": "Bratek",
-                "addr:street": "Szpitalna",
-                "addr:housenumber": "8A",
                 "addr:city": "Gorlice",
+                "addr:flats": "1",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:street": "Rydarowskiej",
+                "ref:csioz": "1230775",
+                "name": "Isofarm",
+                "addr:housenumber": "2"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.163310641141436,
-                    49.65278806494164
+                    21.15851729184,
+                    49.66207409300
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1081122,
-                "name": "Zdrowie",
-                "addr:street": "Węgierska",
-                "addr:housenumber": "19",
+                "ref:csioz": "1114642",
+                "addr:city": "Sękowa",
+                "name": "Herbamed Spółka Jawna",
+                "amenity": "pharmacy",
+                "addr:housenumber": "323",
+                "addr:postcode": "38-307"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19634237153,
+                    49.62058100966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "addr:city": "Gorlice",
+                "addr:street": "Stróżowska",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:housenumber": "55",
+                "ref:csioz": "1081089",
+                "name": "\"Apteka Pod Orłem S.C. Mgr Farm. Hanna Przybycień-Zięba, Techn.Farm. Dorota Przybycień\""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.161506070357955,
-                    49.65119621461637
+                    21.15129910375,
+                    49.66042314385
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1081140,
-                "name": "Apteka Twoje Leki",
-                "addr:street": "Węgierska",
-                "addr:housenumber": "21",
+                "addr:housenumber": "51",
+                "addr:street": "Grunwaldzka",
+                "addr:city": "Bobowa",
+                "addr:postcode": "38-350",
+                "amenity": "pharmacy",
+                "ref:csioz": "1214893",
+                "name": "\"'Apteka Z Tradycją'\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.95353800000,
+                    49.71374600001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "addr:city": "Gorlice",
+                "ref:csioz": "1196383",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "name": "\"Apteka Cefarm 36,6\"",
+                "amenity": "pharmacy",
+                "addr:street": "3 Maja",
+                "addr:housenumber": "2"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.162540645461167,
-                    49.651297664437934
+                    21.15692821444,
+                    49.65807811092
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1081179,
-                "name": "Apteka Galena",
-                "addr:housenumber": "522",
-                "addr:city": "Lipinki",
-                "addr:postcode": "38-305",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.294012470334255,
-                    49.67345427607712
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1081217,
                 "addr:housenumber": "680",
                 "addr:city": "Ropa",
                 "addr:postcode": "38-312",
+                "ref:csioz": "1081217",
                 "amenity": "pharmacy"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.04234301403492,
-                    49.601260275127856
+                    21.04234301403,
+                    49.60126027513
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1081225,
-                "addr:housenumber": "155",
-                "addr:city": "Uście Gorlickie",
-                "addr:postcode": "38-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:housenumber": "652",
+                "addr:city": "Libusza",
+                "ref:csioz": "1081187",
+                "addr:postcode": "38-306"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.137038878440016,
-                    49.52045531764523
+                    21.24099892968,
+                    49.68935094833
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1113304,
-                "name": "Alba-Bis",
-                "addr:street": "11 Listopada",
+                "amenity": "pharmacy",
+                "addr:postcode": "38-304",
+                "addr:housenumber": "446",
+                "ref:csioz": "1081154",
+                "addr:city": "Kryg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25345997079,
+                    49.65510183894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Ropa",
+                "addr:postcode": "38-312",
+                "amenity": "pharmacy",
+                "name": "\"Apteka \"\"Centrum\"\"\"",
+                "addr:housenumber": "917",
+                "ref:csioz": "1188069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04432660951,
+                    49.60002334489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1081323",
+                "addr:city": "Bobowa",
+                "addr:postcode": "38-350",
+                "amenity": "pharmacy",
+                "addr:street": "Węgierska",
+                "addr:housenumber": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.94159914133,
+                    49.70747111368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gorlice",
+                "addr:flats": "1",
+                "addr:postcode": "38-300",
+                "amenity": "pharmacy",
+                "addr:street": "Legionów",
+                "ref:csioz": "1207107",
+                "name": "Apteka Społeczna Na Legionów Grupa Nowa Farmacja",
+                "addr:housenumber": "12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16012138553,
+                    49.65979444189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gorlice",
+                "name": "Apteka Rodzinna",
+                "addr:postcode": "38-300",
                 "addr:housenumber": "8",
+                "amenity": "pharmacy",
+                "addr:street": "Władysława Jagiełły",
+                "ref:csioz": "1081077"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.15700791145,
+                    49.66051638677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.16125959530235,
-                    49.6634094861946
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1184081,
-                "addr:housenumber": "590",
-                "addr:city": "Szymbark",
-                "addr:postcode": "38-311",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.12235561692812,
-                    49.62961893337042
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1193742,
-                "name": "Dział Farmacji Szpitalnej",
-                "addr:housenumber": "98",
-                "addr:city": "Wysowa-Zdrój",
-                "addr:postcode": "38-316",
-                "amenity": "pharmacy"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.1808055045034,
-                    49.44272499539692
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ref:csioz": 1217304,
+                "amenity": "pharmacy",
                 "name": "Apteka Słoneczna",
                 "addr:street": "Adama Mickiewicza",
                 "addr:housenumber": "32",
-                "addr:city": "Gorlice",
-                "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "ref:csioz": "1217304"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.15937441386525,
-                    49.65508118823206
+                    21.15937441387,
+                    49.65508118823
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "ref:csioz": 1217622,
-                "name": "Dział Farmacji Szpitalnej",
-                "addr:street": "Węgierska",
-                "addr:housenumber": "21",
                 "addr:city": "Gorlice",
+                "ref:csioz": "1186909",
+                "addr:housenumber": "42",
+                "name": "Alba III",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:flats": "M",
+                "addr:street": "Tadeusza Kościuszki"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    21.162540645461167,
-                    49.651297664437934
+                    21.15485759977,
+                    49.65191592551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:postcode": "38-305",
+                "addr:city": "Lipinki",
+                "addr:housenumber": "522",
+                "name": "Apteka Galena",
+                "ref:csioz": "1081179"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.29401247033,
+                    49.67345427608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "amenity": "pharmacy",
+                "addr:postcode": "38-305",
+                "addr:city": "Lipinki",
+                "addr:housenumber": "44",
+                "ref:csioz": "1081165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.29496853839,
+                    49.67211243957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "38-322",
+                "amenity": "pharmacy",
+                "addr:housenumber": "246",
+                "name": "Punkt Apteczny Zdrowie",
+                "ref:csioz": "1081133",
+                "addr:city": "Mszanka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.10140952081,
+                    49.68986267265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "84",
+                "amenity": "pharmacy",
+                "ref:csioz": "1117189",
+                "addr:postcode": "38-315",
+                "addr:city": "Śnietnica",
+                "name": "Zdrowie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.04781197378,
+                    49.51888620282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "38-340",
+                "addr:housenumber": "167A",
+                "amenity": "pharmacy",
+                "ref:csioz": "1081274",
+                "addr:city": "Biecz",
+                "addr:street": "Przedmieście Dolne",
+                "name": "Herbamed"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.26768381935,
+                    49.73938147453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "38-340",
+                "addr:street": "Tysiąclecia",
+                "amenity": "pharmacy",
+                "addr:housenumber": "3",
+                "ref:csioz": "1081309",
+                "addr:city": "Biecz",
+                "name": "Bratek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25454910058,
+                    49.73286061568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gorlice",
+                "name": "Apteka Prywatna S.C.",
+                "addr:postcode": "38-300",
+                "amenity": "pharmacy",
+                "ref:csioz": "1081066",
+                "addr:housenumber": "2",
+                "addr:street": "Słoneczna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.14648246861,
+                    49.65658668922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "590",
+                "addr:postcode": "38-311",
+                "amenity": "pharmacy",
+                "ref:csioz": "1184081",
+                "addr:city": "Szymbark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.12235561693,
+                    49.62961893337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dział Farmacji Szpitalnej",
+                "amenity": "pharmacy",
+                "addr:city": "Wysowa-Zdrój",
+                "addr:postcode": "38-316",
+                "ref:csioz": "1193742",
+                "addr:housenumber": "98"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.18080550450,
+                    49.44272499540
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gorlice",
+                "addr:postcode": "38-300",
+                "amenity": "pharmacy",
+                "addr:housenumber": "15",
+                "addr:street": "3 Maja",
+                "ref:csioz": "1171093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.15721607801,
+                    49.65909266346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gorlice",
+                "addr:postcode": "38-300",
+                "addr:housenumber": "19",
+                "amenity": "pharmacy",
+                "addr:street": "Węgierska",
+                "ref:csioz": "1081122",
+                "name": "Zdrowie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16162945197,
+                    49.65122226312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gorlice",
+                "addr:flats": "2",
+                "ref:csioz": "1081106",
+                "addr:postcode": "38-300",
+                "amenity": "pharmacy",
+                "addr:housenumber": "16",
+                "addr:street": "Biecka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16260877315,
+                    49.66232617411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1081249",
+                "addr:postcode": "38-322",
+                "addr:housenumber": "766",
+                "amenity": "pharmacy",
+                "addr:city": "Łużna",
+                "name": "Apteka Prywatna Mgr Farm. Sowa Janina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.05125640531,
+                    49.71078476904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "38-340",
+                "ref:csioz": "1080986",
+                "amenity": "pharmacy",
+                "addr:street": "Rynek",
+                "addr:housenumber": "15",
+                "addr:city": "Biecz",
+                "name": "Dr. Max"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.25058870609,
+                    49.73088082940
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "38-340",
+                "addr:street": "Barianów Rokickich",
+                "amenity": "pharmacy",
+                "ref:csioz": "1081296",
+                "addr:city": "Biecz",
+                "addr:housenumber": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.24875403106,
+                    49.73021055905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gorlice",
+                "name": "Apteka Agma",
+                "addr:postcode": "38-300",
+                "amenity": "pharmacy",
+                "ref:csioz": "1081031",
+                "addr:street": "Tadeusza Kościuszki",
+                "addr:housenumber": "24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.15761787950,
+                    49.65362040603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gorlice",
+                "addr:postcode": "38-300",
+                "addr:housenumber": "8",
+                "amenity": "pharmacy",
+                "addr:street": "11 Listopada",
+                "ref:csioz": "1113304",
+                "name": "Alba-Bis"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16125959530,
+                    49.66340948619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "419",
+                "ref:csioz": "1081258",
+                "addr:city": "Szalowa",
+                "amenity": "pharmacy",
+                "addr:postcode": "38-331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02048317311,
+                    49.68237318919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gorlice",
+                "ref:csioz": "1113312",
+                "addr:postcode": "38-300",
+                "name": "\"Apteka Cefarm 36,6\"",
+                "amenity": "pharmacy",
+                "addr:street": "Podkościelna",
+                "addr:housenumber": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.15833321998,
+                    49.65695741237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gorlice",
+                "ref:csioz": "1081090",
+                "addr:postcode": "38-300",
+                "amenity": "pharmacy",
+                "addr:housenumber": "8A",
+                "addr:street": "Szpitalna",
+                "name": "Bratek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16331064114,
+                    49.65278806494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:csioz": "1080644",
+                "amenity": "pharmacy",
+                "addr:city": "Wysowa-Zdrój",
+                "addr:postcode": "38-316",
+                "addr:housenumber": "149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.17810746755,
+                    49.43608075436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Gorlice",
+                "addr:postcode": "38-300",
+                "amenity": "pharmacy",
+                "addr:street": "Węgierska",
+                "name": "Dział Farmacji Szpitalnej;Apteka Twoje Leki;Apteka Szpitalna",
+                "ref:csioz": "1217622;1081140;1149965",
+                "addr:housenumber": "21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.16254064546,
+                    49.65129766444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": "185",
+                "amenity": "pharmacy",
+                "addr:postcode": "38-321",
+                "name": "Apteka Prywatna W Moszczenicy",
+                "addr:city": "Moszczenica",
+                "ref:csioz": "1081230",
+                "addr:street": "Gorlicka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.10546423277,
+                    49.72375786809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:postcode": "38-333",
+                "amenity": "pharmacy",
+                "addr:housenumber": "207",
+                "addr:city": "Zagórzany",
+                "name": "Punkt Apteczny Zagórzany",
+                "ref:csioz": "1226213"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.15584300000,
+                    49.69865800001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:city": "Bobowa",
+                "addr:postcode": "38-350",
+                "name": "Apteka Kinga",
+                "amenity": "pharmacy",
+                "addr:street": "Rynek",
+                "ref:csioz": "1204828",
+                "addr:housenumber": "28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.94198671392,
+                    49.70766471789
                 ]
             }
         }
