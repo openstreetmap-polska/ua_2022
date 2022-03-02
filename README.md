@@ -2,7 +2,7 @@
 Projekt mapowania okolic przygranicznych dla pomocy humanitarnej, będą tutaj umieszczane wszytkie dane które otrzymamy do integracji z OSM
 
 * Zgodnie z zastosowaną nomenklaturą w pierwszych plikach, które zostały zweryfikowane (np. pliki JSON w katalogu 'Robocze') proszę o dodawanie do nich prefiksu '**zw_**'. Dzięki temu inni wolontariusze będą wiedzieli, których plików nie trzeba analizować.
-* Obecnie aktualizacja aptek jest oznaczana w zewnętrznym dokumencie, w kórym znajduje się bieżący status weryfikacji poszczególnych plików geojson. W związku z tym nie ma potrzeby dokonywania zmian nazwy plików w repozytorium Roboczy/apteki. Adres pliku z arkuszem: https://docs.google.com/spreadsheets/d/1M9Q3A6HfmyU3TecackvJ6x8Z0KDtiFTovdpb77gpCrU/
+* Obecnie aktualizacja aptek jest oznaczana w zewnętrznym dokumencie, w którym znajduje się bieżący status weryfikacji poszczególnych plików geojson. W związku z tym nie ma potrzeby dokonywania zmian nazwy plików w repozytorium Roboczy/apteki. Adres pliku z arkuszem: https://docs.google.com/spreadsheets/d/1M9Q3A6HfmyU3TecackvJ6x8Z0KDtiFTovdpb77gpCrU/
 
 Tagowanie poszczególnych danych (zalecany minimalny zestaw):
 * Apteka:
