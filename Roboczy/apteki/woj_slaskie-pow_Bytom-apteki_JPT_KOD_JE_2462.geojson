@@ -9,7 +9,6 @@
                 "name": "Apteka Pomarańczowa",
                 "addr:street": "Plac Akademicki",
                 "addr:housenumber": "3A",
-                "addr:flats": "1",
                 "addr:city": "Bytom",
                 "addr:postcode": "41-902",
                 "amenity": "pharmacy"
@@ -86,7 +85,6 @@
                 "name": "\"Apteka Cef@Rm 36,6\"",
                 "addr:street": "Alojzego Felińskiego",
                 "addr:housenumber": "63",
-                "addr:flats": "A",
                 "addr:city": "Bytom",
                 "addr:postcode": "41-908",
                 "amenity": "pharmacy"
@@ -504,7 +502,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "1",
-                "addr:flats": "005",
                 "addr:city": "Bytom",
                 "addr:postcode": "41-902",
                 "amenity": "pharmacy"
@@ -543,7 +540,6 @@
                 "name": "Na Rogu",
                 "addr:street": "Strzelców Bytomskich",
                 "addr:housenumber": "33",
-                "addr:flats": "A",
                 "addr:city": "Bytom",
                 "addr:postcode": "41-902",
                 "amenity": "pharmacy"

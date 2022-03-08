@@ -249,7 +249,6 @@
                 "ref:csioz": 1001386,
                 "addr:street": "Kościelna",
                 "addr:housenumber": "8",
-                "addr:flats": "1",
                 "addr:city": "Rytwiany",
                 "addr:postcode": "28-236",
                 "amenity": "pharmacy"
@@ -527,7 +526,6 @@
                 "name": "Jaśminowa",
                 "addr:street": "Stefana Czarnieckiego",
                 "addr:housenumber": "1",
-                "addr:flats": "1",
                 "addr:city": "Połaniec",
                 "addr:postcode": "28-230",
                 "amenity": "pharmacy"
@@ -584,7 +582,6 @@
                 "ref:csioz": 1135037,
                 "name": "\"Punkt Apteczny \"\"Nad Potokiem\"\"\"",
                 "addr:housenumber": "70",
-                "addr:flats": "2",
                 "addr:postcode": "58-124",
                 "amenity": "pharmacy",
                 "addr:place": "Strzelce"

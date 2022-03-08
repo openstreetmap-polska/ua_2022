@@ -7,7 +7,6 @@
             "properties": {
                 "ref:csioz": 1125540,
                 "addr:housenumber": "238b",
-                "addr:flats": "1",
                 "addr:postcode": "36-105",
                 "amenity": "pharmacy",
                 "addr:place": "Cmolas"
@@ -27,7 +26,6 @@
                 "name": "Polska",
                 "addr:street": "Rynek",
                 "addr:housenumber": "35",
-                "addr:flats": "4",
                 "addr:city": "Majdan Królewski",
                 "addr:postcode": "36-110",
                 "amenity": "pharmacy"

@@ -123,7 +123,6 @@
                 "name": "Arnica",
                 "addr:street": "30 Stycznia",
                 "addr:housenumber": "15",
-                "addr:flats": "03",
                 "addr:city": "Gorzów Wielkopolski",
                 "addr:postcode": "66-400",
                 "amenity": "pharmacy"
@@ -350,7 +349,6 @@
                 "ref:csioz": 1166145,
                 "addr:street": "Borowskiego",
                 "addr:housenumber": "2A",
-                "addr:flats": "3",
                 "addr:city": "Gorzów Wielkopolski",
                 "addr:postcode": "66-400",
                 "amenity": "pharmacy"
@@ -465,7 +463,6 @@
                 "name": "Dworcowa",
                 "addr:street": "Dworcowa",
                 "addr:housenumber": "2",
-                "addr:flats": "3",
                 "addr:city": "Gorzów Wielkopolski",
                 "addr:postcode": "66-400",
                 "amenity": "pharmacy"
@@ -504,7 +501,6 @@
                 "name": "Apteka Ogólnodostępna Pogodna",
                 "addr:street": "Śląska",
                 "addr:housenumber": "13",
-                "addr:flats": "1",
                 "addr:city": "Gorzów Wielkopolski",
                 "addr:postcode": "66-400",
                 "amenity": "pharmacy"
@@ -543,7 +539,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Budowlanych",
                 "addr:housenumber": "13",
-                "addr:flats": "1A",
                 "addr:city": "Gorzów Wielkopolski",
                 "addr:postcode": "66-400",
                 "amenity": "pharmacy"
@@ -714,7 +709,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Henryka Sienkiewicza",
                 "addr:housenumber": "10",
-                "addr:flats": "11",
                 "addr:city": "Gorzów Wielkopolski",
                 "addr:postcode": "66-400",
                 "amenity": "pharmacy"
@@ -790,7 +784,6 @@
                 "name": "Dom Leków",
                 "addr:street": "Słoneczna",
                 "addr:housenumber": "6",
-                "addr:flats": "3",
                 "addr:city": "Gorzów Wielkopolski",
                 "addr:postcode": "66-400",
                 "amenity": "pharmacy"
@@ -829,7 +822,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Aleksandra Fredry",
                 "addr:housenumber": "10",
-                "addr:flats": "A",
                 "addr:city": "Gorzów Wielkopolski",
                 "addr:postcode": "66-400",
                 "amenity": "pharmacy"
@@ -849,7 +841,6 @@
                 "name": "Apteka Hipokrates",
                 "addr:street": "Danuty Siedzikówny - Inki",
                 "addr:housenumber": "19A",
-                "addr:flats": "H4",
                 "addr:city": "Gorzów Wielkopolski",
                 "addr:postcode": "66-400",
                 "amenity": "pharmacy"

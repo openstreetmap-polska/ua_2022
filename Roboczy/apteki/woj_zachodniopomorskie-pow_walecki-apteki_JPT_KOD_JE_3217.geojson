@@ -275,7 +275,6 @@
                 "name": "Aspirynka",
                 "addr:street": "Plac Zwycięstwa",
                 "addr:housenumber": "2",
-                "addr:flats": "1",
                 "addr:city": "Człopa",
                 "addr:postcode": "78-630",
                 "amenity": "pharmacy"
@@ -294,7 +293,6 @@
                 "ref:csioz": 1148006,
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "12",
-                "addr:flats": "14",
                 "addr:city": "Wałcz",
                 "addr:postcode": "78-600",
                 "amenity": "pharmacy"
@@ -389,7 +387,6 @@
                 "name": "Apteka Centrum Zdrowia",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "13",
-                "addr:flats": "25",
                 "addr:city": "Wałcz",
                 "addr:postcode": "78-600",
                 "amenity": "pharmacy"

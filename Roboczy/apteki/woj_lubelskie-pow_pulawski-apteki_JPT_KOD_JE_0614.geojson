@@ -192,7 +192,6 @@
                 "name": "Apteka Fragal",
                 "addr:street": "Zygmunta Wróblewskiego",
                 "addr:housenumber": "3",
-                "addr:flats": "\"2, 6, 7\"",
                 "addr:city": "Puławy",
                 "addr:postcode": "24-100",
                 "amenity": "pharmacy"
@@ -305,7 +304,6 @@
                 "name": "Apteka Dr Zdrowie",
                 "addr:street": "Dęblińska",
                 "addr:housenumber": "18D",
-                "addr:flats": "7",
                 "addr:city": "Puławy",
                 "addr:postcode": "24-100",
                 "amenity": "pharmacy"
@@ -359,7 +357,6 @@
                 "ref:csioz": 1161581,
                 "addr:street": "Gościńczyk",
                 "addr:housenumber": "2",
-                "addr:flats": "13",
                 "addr:city": "Puławy",
                 "addr:postcode": "24-100",
                 "amenity": "pharmacy"
@@ -415,7 +412,6 @@
                 "ref:csioz": 1163027,
                 "addr:street": "Nowickiego",
                 "addr:housenumber": "2",
-                "addr:flats": "56",
                 "addr:city": "Nałęczów",
                 "addr:postcode": "24-150",
                 "amenity": "pharmacy"
@@ -713,7 +709,6 @@
                 "name": "Mediki Pharma",
                 "addr:street": "Lubelska",
                 "addr:housenumber": "32",
-                "addr:flats": "34",
                 "addr:city": "Kazimierz Dolny",
                 "addr:postcode": "24-120",
                 "amenity": "pharmacy"
@@ -789,7 +784,6 @@
                 "name": "Apteka Pomocna",
                 "addr:street": "\"gen. Fieldorfa \"\"Nila\"\"\"",
                 "addr:housenumber": "18",
-                "addr:flats": "U-2",
                 "addr:city": "Puławy",
                 "addr:postcode": "24-100",
                 "amenity": "pharmacy"

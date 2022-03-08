@@ -332,7 +332,6 @@
                 "name": "Apteka Śląska Pharmaland",
                 "addr:street": "11 Listopada",
                 "addr:housenumber": "2",
-                "addr:flats": "4",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
                 "amenity": "pharmacy"
@@ -352,7 +351,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "al. gen. Władysława Sikorskiego",
                 "addr:housenumber": "21 A",
-                "addr:flats": "2 i 4",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
                 "amenity": "pharmacy"
@@ -524,7 +522,6 @@
                 "name": "Ultrasonografia Wieloprofilowa Pracownia Diagnostyczno-Lekarska Spółka Z Ograniczoną Odpowiedzialnością - Szpital",
                 "addr:street": "11 Listopada",
                 "addr:housenumber": "2",
-                "addr:flats": "4",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
                 "amenity": "pharmacy"
@@ -786,7 +783,6 @@
                 "name": "Nasza Apteka",
                 "addr:street": "CHOPINA",
                 "addr:housenumber": "2",
-                "addr:flats": "1",
                 "addr:city": "PORĘBA",
                 "addr:postcode": "42-480",
                 "amenity": "pharmacy"

@@ -387,7 +387,6 @@
                 "name": "Brak",
                 "addr:street": "Bystra",
                 "addr:housenumber": "8",
-                "addr:flats": "3",
                 "addr:city": "Ujsoły",
                 "addr:postcode": "34-371",
                 "amenity": "pharmacy"
@@ -407,7 +406,6 @@
                 "name": "Apteka Przy Skarbówce",
                 "addr:street": "Osiedle XX-lecia II RP",
                 "addr:housenumber": "1",
-                "addr:flats": "1/2",
                 "addr:city": "Węgierska Górka",
                 "addr:postcode": "34-350",
                 "amenity": "pharmacy"
@@ -711,7 +709,6 @@
                 "name": "Św. Antoniego",
                 "addr:street": "Dworcowa",
                 "addr:housenumber": "31",
-                "addr:flats": "2",
                 "addr:city": "Milówka",
                 "addr:postcode": "34-360",
                 "amenity": "pharmacy"

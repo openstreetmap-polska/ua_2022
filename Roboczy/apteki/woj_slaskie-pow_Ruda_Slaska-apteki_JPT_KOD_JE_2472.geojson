@@ -85,7 +85,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Karola Goduli",
                 "addr:housenumber": "13",
-                "addr:flats": "1",
                 "addr:city": "Ruda Śląska",
                 "addr:postcode": "41-712",
                 "amenity": "pharmacy"
@@ -447,7 +446,6 @@
                 "name": "Apteka Zdrowit",
                 "addr:street": "Zabrzańska",
                 "addr:housenumber": "52",
-                "addr:flats": "2",
                 "addr:city": "Ruda Śląska",
                 "addr:postcode": "41-700",
                 "amenity": "pharmacy"
@@ -524,7 +522,6 @@
                 "name": "Salix",
                 "addr:street": "Grodzka",
                 "addr:housenumber": "4 C",
-                "addr:flats": "6",
                 "addr:city": "Ruda Śląska",
                 "addr:postcode": "41-706",
                 "amenity": "pharmacy"
@@ -544,7 +541,6 @@
                 "name": "Aptekarstwo-Apteka Medicamenta Et Varia",
                 "addr:street": "Alojzego Jankowskiego",
                 "addr:housenumber": "4",
-                "addr:flats": "1",
                 "addr:city": "Ruda Śląska",
                 "addr:postcode": "41-710",
                 "amenity": "pharmacy"
@@ -583,7 +579,6 @@
                 "name": "Rodzinna",
                 "addr:street": "Piotra Niedurnego",
                 "addr:housenumber": "50D",
-                "addr:flats": "2",
                 "addr:city": "Ruda Śląska",
                 "addr:postcode": "41-709",
                 "amenity": "pharmacy"
@@ -641,7 +636,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Górnośląska",
                 "addr:housenumber": "16",
-                "addr:flats": "1",
                 "addr:city": "Ruda Śląska",
                 "addr:postcode": "41-717",
                 "amenity": "pharmacy"

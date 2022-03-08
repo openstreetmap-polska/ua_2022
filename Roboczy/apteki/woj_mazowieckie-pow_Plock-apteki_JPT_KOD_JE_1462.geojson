@@ -235,7 +235,6 @@
                 "name": "Prywatna Avena 5",
                 "addr:street": "Henryka Sienkiewicza",
                 "addr:housenumber": "67",
-                "addr:flats": "7 i 8",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
                 "amenity": "pharmacy"
@@ -274,7 +273,6 @@
                 "name": "Super",
                 "addr:street": "Floriana Kobylińskiego",
                 "addr:housenumber": "6",
-                "addr:flats": "4",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
                 "amenity": "pharmacy"
@@ -370,7 +368,6 @@
                 "name": "Avena 2",
                 "addr:street": "Czwartaków",
                 "addr:housenumber": "16D",
-                "addr:flats": "2",
                 "addr:city": "Płock",
                 "addr:postcode": "09-410",
                 "amenity": "pharmacy"
@@ -409,7 +406,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Armii Krajowej",
                 "addr:housenumber": "2",
-                "addr:flats": "1",
                 "addr:city": "Płock",
                 "addr:postcode": "09-410",
                 "amenity": "pharmacy"
@@ -504,7 +500,6 @@
                 "name": "Apteka Elixir",
                 "addr:street": "Wyszogrodzka",
                 "addr:housenumber": "140",
-                "addr:flats": "21B",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
                 "amenity": "pharmacy"
@@ -676,7 +671,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "Wyszogrodzka",
                 "addr:housenumber": "127",
-                "addr:flats": "M-A-R-020",
                 "addr:city": "Płock",
                 "addr:postcode": "09-410",
                 "amenity": "pharmacy"
@@ -734,7 +728,6 @@
                 "name": "Lawenda",
                 "addr:street": "Wyszogrodzka",
                 "addr:housenumber": "144",
-                "addr:flats": "0.125",
                 "addr:city": "Płock",
                 "addr:postcode": "09-410",
                 "amenity": "pharmacy"
@@ -754,7 +747,6 @@
                 "name": "Gemini",
                 "addr:street": "Stanisława Jachowicza",
                 "addr:housenumber": "44",
-                "addr:flats": "3",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
                 "amenity": "pharmacy"

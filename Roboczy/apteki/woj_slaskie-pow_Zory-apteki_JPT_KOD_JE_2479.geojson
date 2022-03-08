@@ -179,7 +179,6 @@
                 "name": "Pharmacon",
                 "addr:street": "Sądowa",
                 "addr:housenumber": "3",
-                "addr:flats": "1",
                 "addr:city": "Żory",
                 "addr:postcode": "44-240",
                 "amenity": "pharmacy"
@@ -256,7 +255,6 @@
                 "name": "Higieja",
                 "addr:street": "DOLNE PRZEDMIEŚCIE",
                 "addr:housenumber": "7",
-                "addr:flats": "1",
                 "addr:city": "ŻORY",
                 "addr:postcode": "44-240",
                 "amenity": "pharmacy"

@@ -123,7 +123,6 @@
                 "name": "Apteka Blisko Ciebie",
                 "addr:street": "MIKOŁOWSKA",
                 "addr:housenumber": "42",
-                "addr:flats": "A",
                 "addr:city": "MYSŁOWICE",
                 "addr:postcode": "41-406",
                 "amenity": "pharmacy"
@@ -409,7 +408,6 @@
                 "name": "Apteka W Rynku",
                 "addr:street": "rynek Rynek",
                 "addr:housenumber": "21/22",
-                "addr:flats": "-",
                 "addr:city": "Mysłowice",
                 "addr:postcode": "41-400",
                 "amenity": "pharmacy"

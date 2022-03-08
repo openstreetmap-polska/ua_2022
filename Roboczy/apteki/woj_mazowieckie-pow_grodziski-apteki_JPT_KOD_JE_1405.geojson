@@ -123,7 +123,6 @@
                 "name": "Drive-Thru",
                 "addr:street": "Podwiejska",
                 "addr:housenumber": "39",
-                "addr:flats": "15",
                 "addr:city": "Milanówek",
                 "addr:postcode": "05-822",
                 "amenity": "pharmacy"
@@ -142,7 +141,6 @@
                 "ref:csioz": 1212205,
                 "addr:street": "H. Sienkiewicza",
                 "addr:housenumber": "46/50",
-                "addr:flats": "0.11",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
                 "amenity": "pharmacy"
@@ -329,7 +327,6 @@
                 "name": "Latoszek",
                 "addr:street": "Gołębia",
                 "addr:housenumber": "26",
-                "addr:flats": "4B",
                 "addr:city": "Podkowa Leśna",
                 "addr:postcode": "05-807",
                 "amenity": "pharmacy"
@@ -537,7 +534,6 @@
                 "name": "Dr. Optima",
                 "addr:street": "Królewska",
                 "addr:housenumber": "59A",
-                "addr:flats": "2",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
                 "amenity": "pharmacy"
@@ -595,7 +591,6 @@
                 "name": "Herbarium",
                 "addr:street": "Młodości",
                 "addr:housenumber": "2A",
-                "addr:flats": "1",
                 "addr:city": "Książenice",
                 "addr:postcode": "05-825",
                 "amenity": "pharmacy"

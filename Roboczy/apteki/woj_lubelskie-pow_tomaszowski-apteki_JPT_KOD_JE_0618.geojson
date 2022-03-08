@@ -99,7 +99,6 @@
                 "ref:csioz": 1154206,
                 "addr:street": "Lwowska",
                 "addr:housenumber": "56",
-                "addr:flats": "3",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
                 "amenity": "pharmacy"
@@ -172,7 +171,6 @@
                 "ref:csioz": 1155148,
                 "addr:street": "Tomaszowska",
                 "addr:housenumber": "134",
-                "addr:flats": "1",
                 "addr:city": "Ulhówek",
                 "addr:postcode": "22-678",
                 "amenity": "pharmacy"
@@ -247,7 +245,6 @@
                 "name": "Apteka Specjalistyczna Prima",
                 "addr:street": "Henryka Sienkiewicza",
                 "addr:housenumber": "12",
-                "addr:flats": "3",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
                 "amenity": "pharmacy"
@@ -266,7 +263,6 @@
                 "ref:csioz": 1223955,
                 "name": "Punkt Apteczny Mgr Farm. Iwona Ferenc",
                 "addr:housenumber": "21",
-                "addr:flats": "5",
                 "addr:postcode": "22-640",
                 "amenity": "pharmacy",
                 "addr:place": "Wożuczyn"
@@ -304,7 +300,6 @@
                 "name": "Apteka Kresowa",
                 "addr:street": "Józefa Piłsudskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "3",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
                 "amenity": "pharmacy"
@@ -377,7 +372,6 @@
                 "ref:csioz": 1154153,
                 "addr:street": "Piłsudskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "2",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
                 "amenity": "pharmacy"
@@ -561,7 +555,6 @@
                 "name": "Apteka Kresowa",
                 "addr:street": "Jana Matejki",
                 "addr:housenumber": "5",
-                "addr:flats": "25",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
                 "amenity": "pharmacy"
@@ -600,7 +593,6 @@
                 "name": "-",
                 "addr:street": "Henryka Sienkiewicza",
                 "addr:housenumber": "12",
-                "addr:flats": "1",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
                 "amenity": "pharmacy"

@@ -180,7 +180,6 @@
                 "name": "Apteka W Pafalu",
                 "addr:street": "Gdyńska",
                 "addr:housenumber": "25",
-                "addr:flats": "1",
                 "addr:city": "Świdnica",
                 "addr:postcode": "58-100",
                 "amenity": "pharmacy"
@@ -484,7 +483,6 @@
                 "name": "Prima",
                 "addr:street": "Rolnicza",
                 "addr:housenumber": "1",
-                "addr:flats": "lokal 22",
                 "addr:city": "Świdnica",
                 "addr:postcode": "58-100",
                 "amenity": "pharmacy"
@@ -523,7 +521,6 @@
                 "name": "Salus",
                 "addr:street": "Leopolda Staffa",
                 "addr:housenumber": "1a",
-                "addr:flats": "1",
                 "addr:city": "Marcinowice",
                 "addr:postcode": "58-124",
                 "amenity": "pharmacy"
@@ -1018,7 +1015,6 @@
                 "name": "Apteka Victoria",
                 "addr:street": "Ceglana",
                 "addr:housenumber": "2",
-                "addr:flats": "09.14",
                 "addr:city": "Świdnica",
                 "addr:postcode": "58-100",
                 "amenity": "pharmacy"
@@ -1057,7 +1053,6 @@
                 "name": "\"Apteka 'Vitrum'\"",
                 "addr:street": "ul. Aleja Wojska Polskiego",
                 "addr:housenumber": "80D",
-                "addr:flats": "lokal 7",
                 "addr:city": "Strzegom",
                 "addr:postcode": "58-150",
                 "amenity": "pharmacy"
@@ -1134,7 +1129,6 @@
                 "name": "Pod Koroną",
                 "addr:street": "Westerplatte",
                 "addr:housenumber": "19",
-                "addr:flats": "2",
                 "addr:city": "Świdnica",
                 "addr:postcode": "58-100",
                 "amenity": "pharmacy"

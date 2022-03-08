@@ -393,7 +393,6 @@
                 "name": "Dobra Apteka",
                 "addr:street": "Tarnowska",
                 "addr:housenumber": "121",
-                "addr:flats": "2",
                 "addr:city": "Żabno",
                 "addr:postcode": "33-240",
                 "amenity": "pharmacy"
@@ -634,7 +633,6 @@
                 "ref:csioz": 1179758,
                 "addr:street": "Rynek",
                 "addr:housenumber": "12",
-                "addr:flats": "3",
                 "addr:city": "Żabno",
                 "addr:postcode": "33-240",
                 "amenity": "pharmacy"
@@ -690,7 +688,6 @@
                 "name": "\"Apteka 'Pod Białym Orłem'\"",
                 "addr:street": "Rynek",
                 "addr:housenumber": "12",
-                "addr:flats": "1",
                 "addr:city": "Tuchów",
                 "addr:postcode": "33-170",
                 "amenity": "pharmacy"
@@ -746,7 +743,6 @@
                 "ref:csioz": 1220154,
                 "name": "Apteka Lafarma",
                 "addr:housenumber": "537",
-                "addr:flats": "2",
                 "addr:postcode": "33-171",
                 "amenity": "pharmacy",
                 "addr:place": "Pleśna"
@@ -837,7 +833,6 @@
                 "ref:csioz": 1227174,
                 "name": "\"Apteka \"\"Przy Przychodni\"\"\"",
                 "addr:housenumber": "501",
-                "addr:flats": "A",
                 "addr:postcode": "33-162",
                 "amenity": "pharmacy",
                 "addr:place": "Lubcza"
@@ -856,7 +851,6 @@
                 "ref:csioz": 1186358,
                 "name": "Lekoland",
                 "addr:housenumber": "72",
-                "addr:flats": "B",
                 "addr:postcode": "33-112",
                 "amenity": "pharmacy",
                 "addr:place": "Nowodworze"
@@ -1132,7 +1126,6 @@
                 "ref:csioz": 1181718,
                 "name": "\"Apteka 'Witaminka'\"",
                 "addr:housenumber": "670",
-                "addr:flats": "A",
                 "addr:postcode": "28-246",
                 "amenity": "pharmacy",
                 "addr:place": "Szerzyny"

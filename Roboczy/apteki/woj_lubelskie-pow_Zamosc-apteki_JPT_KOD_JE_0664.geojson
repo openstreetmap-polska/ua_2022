@@ -64,7 +64,6 @@
                 "name": "Apteka Zamojska Apteka Sda",
                 "addr:street": "Piłsudskiego",
                 "addr:housenumber": "35",
-                "addr:flats": "49",
                 "addr:city": "Zamość",
                 "addr:postcode": "22-400",
                 "amenity": "pharmacy"
@@ -268,7 +267,6 @@
                 "name": "Apteka Dyżurna",
                 "addr:street": "Sadowa",
                 "addr:housenumber": "8A",
-                "addr:flats": "2.03",
                 "addr:city": "Zamość",
                 "addr:postcode": "22-400",
                 "amenity": "pharmacy"
@@ -288,7 +286,6 @@
                 "name": "Apteka Dyżurna",
                 "addr:street": "Hrubieszowska",
                 "addr:housenumber": "9",
-                "addr:flats": "1.14",
                 "addr:city": "Zamość",
                 "addr:postcode": "22-400",
                 "amenity": "pharmacy"
@@ -566,7 +563,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Przemysłowa",
                 "addr:housenumber": "10",
-                "addr:flats": "27",
                 "addr:city": "Zamość",
                 "addr:postcode": "22-400",
                 "amenity": "pharmacy"

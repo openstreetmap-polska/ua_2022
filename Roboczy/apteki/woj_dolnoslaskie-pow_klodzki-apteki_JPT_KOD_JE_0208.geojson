@@ -142,7 +142,6 @@
                 "name": "\"Apteka \"\"Słoneczna\"\"\"",
                 "addr:street": "Morawka",
                 "addr:housenumber": "31",
-                "addr:flats": "1B",
                 "addr:city": "Stronie Śląskie",
                 "addr:postcode": "57-550",
                 "amenity": "pharmacy"
@@ -162,7 +161,6 @@
                 "name": "Pod Słowikiem",
                 "addr:street": "Wolności",
                 "addr:housenumber": "34",
-                "addr:flats": "7",
                 "addr:city": "Międzylesie",
                 "addr:postcode": "57-530",
                 "amenity": "pharmacy"
@@ -539,7 +537,6 @@
                 "name": "Słoneczna",
                 "addr:street": "Wolności",
                 "addr:housenumber": "28-29",
-                "addr:flats": "33",
                 "addr:city": "Bystrzyca Kłodzka",
                 "addr:postcode": "57-500",
                 "amenity": "pharmacy"

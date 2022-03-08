@@ -1092,7 +1092,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "marsz. Józefa Piłsudskiego",
                 "addr:housenumber": "15/23",
-                "addr:flats": "CH Galeria Łódzka",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-307",
                 "amenity": "pharmacy"
@@ -1340,7 +1339,6 @@
                 "name": "Apteka Bliska Zdrowiu",
                 "addr:street": "Powstańców Wielkopolskich",
                 "addr:housenumber": "2",
-                "addr:flats": "1",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-043",
                 "amenity": "pharmacy"
@@ -1510,7 +1508,6 @@
                 "name": "\"Apteka \"\"Zdrówko\"\"\"",
                 "addr:street": "Jana Długosza",
                 "addr:housenumber": "26",
-                "addr:flats": "1/4",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-083",
                 "amenity": "pharmacy"
@@ -3254,7 +3251,6 @@
                 "name": "Św. Franciszka",
                 "addr:street": "Sporna",
                 "addr:housenumber": "36",
-                "addr:flats": "50",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-738",
                 "amenity": "pharmacy"
@@ -3633,7 +3629,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Jana Pawła II",
                 "addr:housenumber": "30",
-                "addr:flats": "M18",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-570",
                 "amenity": "pharmacy"
@@ -3653,7 +3648,6 @@
                 "name": "A Jak Apteka",
                 "addr:street": "Augusta Cieszkowskiego",
                 "addr:housenumber": "4",
-                "addr:flats": "U4",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-504",
                 "amenity": "pharmacy"
@@ -3749,7 +3743,6 @@
                 "name": "Apteka A-Z Od Apteki Do Zdrowia",
                 "addr:street": "Władysława Broniewskiego",
                 "addr:housenumber": "62",
-                "addr:flats": "4U",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-264",
                 "amenity": "pharmacy"
@@ -3997,7 +3990,6 @@
                 "name": "\"Apteka Cef@Rm 36,6\"",
                 "addr:street": "Politechniki",
                 "addr:housenumber": "1",
-                "addr:flats": "\"0,07\"",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-590",
                 "amenity": "pharmacy"
@@ -5001,7 +4993,6 @@
                 "name": "A Jak Apteka",
                 "addr:street": "Jana Długosza",
                 "addr:housenumber": "26",
-                "addr:flats": "3",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-083",
                 "amenity": "pharmacy"
@@ -5511,7 +5502,6 @@
                 "name": "A Jak Apteka",
                 "addr:street": "Konspiracyjnego Wojska Polskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "U1",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-236",
                 "amenity": "pharmacy"
@@ -5832,7 +5822,6 @@
                 "name": "\"Apteka \"\"W Ulach\"\"\"",
                 "addr:street": "Władysława Broniewskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "paw. 17",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-162",
                 "amenity": "pharmacy"

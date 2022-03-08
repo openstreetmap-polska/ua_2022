@@ -27,7 +27,6 @@
                 "name": "Apteka Lukrecja",
                 "addr:street": "Rumuńska",
                 "addr:housenumber": "9A-G",
-                "addr:flats": "2",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
                 "amenity": "pharmacy"
@@ -66,7 +65,6 @@
                 "name": "\"Apteka Cef@Rm 36,6\"",
                 "addr:street": "Marszałka Józefa Piłsudskiego",
                 "addr:housenumber": "16",
-                "addr:flats": "2",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
                 "amenity": "pharmacy"
@@ -86,7 +84,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Marszałka Józefa Piłsudskiego",
                 "addr:housenumber": "23",
-                "addr:flats": "5",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
                 "amenity": "pharmacy"
@@ -163,7 +160,6 @@
                 "name": "Doz Apteka.Dbam O Zdrowie.Medica",
                 "addr:street": "Stanisława Staszica",
                 "addr:housenumber": "30-48",
-                "addr:flats": "4",
                 "addr:city": "Dobrzany",
                 "addr:postcode": "73-130",
                 "amenity": "pharmacy"
@@ -277,7 +273,6 @@
                 "name": "Apteka Aloes",
                 "addr:street": "Armii Krajowej",
                 "addr:housenumber": "7U",
-                "addr:flats": "2",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
                 "amenity": "pharmacy"
@@ -409,7 +404,6 @@
                 "name": "Grodzka",
                 "addr:street": "Grodzka",
                 "addr:housenumber": "6",
-                "addr:flats": "7",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
                 "amenity": "pharmacy"
@@ -619,7 +613,6 @@
                 "name": "Apteka Natura",
                 "addr:street": "Pogodna",
                 "addr:housenumber": "4",
-                "addr:flats": "2",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
                 "amenity": "pharmacy"

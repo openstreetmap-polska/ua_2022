@@ -9,7 +9,6 @@
                 "name": "Na Słowińców",
                 "addr:street": "Słowińców",
                 "addr:housenumber": "8",
-                "addr:flats": "1",
                 "addr:city": "Kołobrzeg",
                 "addr:postcode": "78-100",
                 "amenity": "pharmacy"
@@ -67,7 +66,6 @@
                 "name": "Centrum",
                 "addr:street": "Okopowa",
                 "addr:housenumber": "10a",
-                "addr:flats": "1",
                 "addr:city": "Kołobrzeg",
                 "addr:postcode": "78-100",
                 "amenity": "pharmacy"
@@ -462,7 +460,6 @@
                 "name": "Lawendowa",
                 "addr:street": "Koszalińska",
                 "addr:housenumber": "16a",
-                "addr:flats": "1",
                 "addr:city": "Rymań",
                 "addr:postcode": "78-125",
                 "amenity": "pharmacy"
@@ -501,7 +498,6 @@
                 "name": "Prima",
                 "addr:street": "Ratuszowy",
                 "addr:housenumber": "5a",
-                "addr:flats": "2",
                 "addr:city": "Kołobrzeg",
                 "addr:postcode": "78-100",
                 "amenity": "pharmacy"
@@ -597,7 +593,6 @@
                 "name": "Apteka Morska",
                 "addr:street": "Portowa",
                 "addr:housenumber": "28",
-                "addr:flats": "5",
                 "addr:city": "Kołobrzeg",
                 "addr:postcode": "78-100",
                 "amenity": "pharmacy"
@@ -617,7 +612,6 @@
                 "name": "\"Apteka Cef@Rm 36,6\"",
                 "addr:street": "Słowińców",
                 "addr:housenumber": "9",
-                "addr:flats": "37",
                 "addr:city": "Kołobrzeg",
                 "addr:postcode": "78-100",
                 "amenity": "pharmacy"

@@ -64,7 +64,6 @@
                 "name": "Ka-Med",
                 "addr:street": "Dworcowa",
                 "addr:housenumber": "1",
-                "addr:flats": "15",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
                 "amenity": "pharmacy"
@@ -217,7 +216,6 @@
                 "name": "\"Apteka Cef@Rm 36,6\"",
                 "addr:street": "Jana Pawła II",
                 "addr:housenumber": "22",
-                "addr:flats": "01",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
                 "amenity": "pharmacy"
@@ -439,7 +437,6 @@
                 "name": "Apteka Przyjazna",
                 "addr:street": "Bohaterów 14 Brygady",
                 "addr:housenumber": "17",
-                "addr:flats": "SEGMENT B",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
                 "amenity": "pharmacy"
@@ -572,7 +569,6 @@
                 "ref:csioz": 1218029,
                 "addr:street": "Główna",
                 "addr:housenumber": "13",
-                "addr:flats": "17",
                 "addr:city": "Smardzewice",
                 "addr:postcode": "97-213",
                 "amenity": "pharmacy"

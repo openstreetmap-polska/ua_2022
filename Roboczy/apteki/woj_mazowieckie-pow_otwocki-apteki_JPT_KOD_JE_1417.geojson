@@ -345,7 +345,6 @@
                 "name": "Ziko",
                 "addr:street": "Jana Matejki",
                 "addr:housenumber": "1",
-                "addr:flats": "1B",
                 "addr:city": "Otwock",
                 "addr:postcode": "05-400",
                 "amenity": "pharmacy"
@@ -893,7 +892,6 @@
                 "name": "Centrum",
                 "addr:street": "Michała Andriollego",
                 "addr:housenumber": "20",
-                "addr:flats": "10",
                 "addr:city": "Otwock",
                 "addr:postcode": "05-400",
                 "amenity": "pharmacy"
@@ -970,7 +968,6 @@
                 "name": "Główna Ii",
                 "addr:street": "Kupiecka",
                 "addr:housenumber": "1",
-                "addr:flats": "6",
                 "addr:city": "Otwock",
                 "addr:postcode": "05-400",
                 "amenity": "pharmacy"
@@ -1009,7 +1006,6 @@
                 "name": "Miętowa",
                 "addr:street": "Marszałka Piłsudskiego",
                 "addr:housenumber": "20A",
-                "addr:flats": "1",
                 "addr:city": "Józefów",
                 "addr:postcode": "05-410",
                 "amenity": "pharmacy"

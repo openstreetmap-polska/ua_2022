@@ -27,7 +27,6 @@
                 "name": "Doz Apteka. Dbam O Zdrowie. Gala",
                 "addr:street": "Plac Adama Mickiewicza",
                 "addr:housenumber": "18",
-                "addr:flats": "10",
                 "addr:city": "Biała Piska",
                 "addr:postcode": "12-230",
                 "amenity": "pharmacy"
@@ -65,7 +64,6 @@
                 "ref:csioz": 1041760,
                 "addr:street": "Henryka Sienkiewicza",
                 "addr:housenumber": "4",
-                "addr:flats": "1",
                 "addr:city": "Pisz",
                 "addr:postcode": "12-200",
                 "amenity": "pharmacy"
@@ -85,7 +83,6 @@
                 "name": "Apteka Dyżurna",
                 "addr:street": "Ignacego Daszyńskiego",
                 "addr:housenumber": "12",
-                "addr:flats": "2",
                 "addr:city": "Pisz",
                 "addr:postcode": "12-200",
                 "amenity": "pharmacy"
@@ -235,7 +232,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Rybacka",
                 "addr:housenumber": "2",
-                "addr:flats": "3",
                 "addr:city": "Pisz",
                 "addr:postcode": "12-200",
                 "amenity": "pharmacy"

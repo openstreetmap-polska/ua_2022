@@ -1204,7 +1204,6 @@
                 "ref:csioz": 1181196,
                 "addr:street": "Armii Krajowej",
                 "addr:housenumber": "101",
-                "addr:flats": "blok K/L",
                 "addr:city": "Bielsko-Biała",
                 "addr:postcode": "43-316",
                 "amenity": "pharmacy"
@@ -1224,7 +1223,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Kolista",
                 "addr:housenumber": "23",
-                "addr:flats": "6",
                 "addr:city": "Bielsko-Biała",
                 "addr:postcode": "43-300",
                 "amenity": "pharmacy"
@@ -1339,7 +1337,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Józefa Piłsudskiego",
                 "addr:housenumber": "12",
-                "addr:flats": "3",
                 "addr:city": "Bielsko-Biała",
                 "addr:postcode": "43-300",
                 "amenity": "pharmacy"
@@ -1397,7 +1394,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Mostowa",
                 "addr:housenumber": "5",
-                "addr:flats": "165",
                 "addr:city": "Bielsko-Biała",
                 "addr:postcode": "43-300",
                 "amenity": "pharmacy"
@@ -1436,7 +1432,6 @@
                 "name": "Apteka Europejska",
                 "addr:street": "Sarni Stok",
                 "addr:housenumber": "2",
-                "addr:flats": "\"12,13\"",
                 "addr:city": "Bielsko-Biała",
                 "addr:postcode": "43-300",
                 "amenity": "pharmacy"
@@ -1456,7 +1451,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Aleja gen. Władysława Andersa",
                 "addr:housenumber": "81",
-                "addr:flats": "1A",
                 "addr:city": "Bielsko-Biała",
                 "addr:postcode": "43-300",
                 "amenity": "pharmacy"

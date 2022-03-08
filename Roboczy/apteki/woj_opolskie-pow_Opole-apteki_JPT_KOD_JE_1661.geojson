@@ -180,7 +180,6 @@
                 "name": "Witaminka",
                 "addr:street": "Sosnkowskiego",
                 "addr:housenumber": "6",
-                "addr:flats": "40",
                 "addr:city": "Opole",
                 "addr:postcode": "45-273",
                 "amenity": "pharmacy"
@@ -313,7 +312,6 @@
                 "name": "Apteka Eskulap",
                 "addr:street": "Bielska",
                 "addr:housenumber": "21",
-                "addr:flats": "02",
                 "addr:city": "Opole",
                 "addr:postcode": "45-401",
                 "amenity": "pharmacy"
@@ -898,7 +896,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Krakowska",
                 "addr:housenumber": "31",
-                "addr:flats": "A",
                 "addr:city": "Opole",
                 "addr:postcode": "45-018",
                 "amenity": "pharmacy"
@@ -1032,7 +1029,6 @@
                 "name": "Apteka Społeczna Na Kościuszki Grupa Nowa Farmacja",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "5",
-                "addr:flats": "33",
                 "addr:city": "Opole",
                 "addr:postcode": "45-062",
                 "amenity": "pharmacy"
@@ -1090,7 +1086,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "1 Maja",
                 "addr:housenumber": "13",
-                "addr:flats": "1A",
                 "addr:city": "Opole",
                 "addr:postcode": "45-068",
                 "amenity": "pharmacy"
@@ -1205,7 +1200,6 @@
                 "name": "Apteki Centrum - Opolskie Centrum Leków",
                 "addr:street": "Mikołaja Kopernika",
                 "addr:housenumber": "16",
-                "addr:flats": "43",
                 "addr:city": "Opole",
                 "addr:postcode": "45-040",
                 "amenity": "pharmacy"
@@ -1263,7 +1257,6 @@
                 "name": "\"Staroń Zenobia Apteka \"\"Libra\"\"\"",
                 "addr:street": "1 Maja",
                 "addr:housenumber": "30",
-                "addr:flats": "1",
                 "addr:city": "Opole",
                 "addr:postcode": "45-355",
                 "amenity": "pharmacy"
@@ -1283,7 +1276,6 @@
                 "name": "\"Apteka \"\"Przyjazna\"\" 5\"",
                 "addr:street": "Janiny Kłopockiej",
                 "addr:housenumber": "1",
-                "addr:flats": "6",
                 "addr:city": "Opole",
                 "addr:postcode": "45-920",
                 "amenity": "pharmacy"

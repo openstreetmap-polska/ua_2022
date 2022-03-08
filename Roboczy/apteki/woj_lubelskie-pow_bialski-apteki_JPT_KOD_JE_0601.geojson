@@ -283,7 +283,6 @@
                 "name": "Nasze Apteki",
                 "addr:street": "Sienkiewicza",
                 "addr:housenumber": "16",
-                "addr:flats": "2",
                 "addr:city": "Terespol",
                 "addr:postcode": "21-550",
                 "amenity": "pharmacy"
@@ -415,7 +414,6 @@
                 "name": "Apteka Janowska",
                 "addr:street": "Partyzantów",
                 "addr:housenumber": "10",
-                "addr:flats": "7",
                 "addr:city": "Janów Podlaski",
                 "addr:postcode": "21-505",
                 "amenity": "pharmacy"
@@ -491,7 +489,6 @@
                 "name": "Centrum",
                 "addr:street": "Prymasa Stefana Wyszyńskiego",
                 "addr:housenumber": "18",
-                "addr:flats": "21",
                 "addr:city": "Międzyrzec Podlaski",
                 "addr:postcode": "21-560",
                 "amenity": "pharmacy"

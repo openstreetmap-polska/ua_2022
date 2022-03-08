@@ -332,7 +332,6 @@
                 "name": "Victoria",
                 "addr:street": "MICKIEWICZA",
                 "addr:housenumber": "19 B",
-                "addr:flats": "11",
                 "addr:city": "RACIBÓRZ",
                 "addr:postcode": "47-400",
                 "amenity": "pharmacy"
@@ -656,7 +655,6 @@
                 "name": "Apteka Pod Różami-Wojska Polskiego Centrum Farmaceutyczne",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "15",
-                "addr:flats": "11",
                 "addr:city": "Racibórz",
                 "addr:postcode": "47-400",
                 "amenity": "pharmacy"

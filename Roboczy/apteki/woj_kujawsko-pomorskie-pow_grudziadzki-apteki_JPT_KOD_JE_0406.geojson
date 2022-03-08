@@ -27,7 +27,6 @@
                 "ref:csioz": 1103635,
                 "name": "Apteka Św. Jana",
                 "addr:housenumber": "288",
-                "addr:flats": "-",
                 "addr:postcode": "86-327",
                 "amenity": "pharmacy",
                 "addr:place": "Gruta"
@@ -65,7 +64,6 @@
                 "ref:csioz": 1105277,
                 "name": "Im. Jana Pawła Ii",
                 "addr:housenumber": "57A",
-                "addr:flats": "-",
                 "addr:postcode": "86-330",
                 "amenity": "pharmacy",
                 "addr:place": "Mełno"
@@ -84,7 +82,6 @@
                 "ref:csioz": 1105312,
                 "name": "Flos",
                 "addr:housenumber": "15",
-                "addr:flats": "-",
                 "addr:postcode": "86-318",
                 "amenity": "pharmacy",
                 "addr:place": "Rogóźno"
@@ -123,7 +120,6 @@
                 "name": "Pod Orłem",
                 "addr:street": "Rynek",
                 "addr:housenumber": "35",
-                "addr:flats": "36",
                 "addr:city": "Łasin",
                 "addr:postcode": "86-320",
                 "amenity": "pharmacy"

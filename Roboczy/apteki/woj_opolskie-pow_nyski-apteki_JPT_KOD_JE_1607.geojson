@@ -9,7 +9,6 @@
                 "name": "Vita",
                 "addr:street": "Słowackiego",
                 "addr:housenumber": "4",
-                "addr:flats": "1u",
                 "addr:city": "Paczków",
                 "addr:postcode": "48-370",
                 "amenity": "pharmacy"
@@ -140,7 +139,6 @@
                 "name": "Apteka Nasza",
                 "addr:street": "Nyska",
                 "addr:housenumber": "7",
-                "addr:flats": "1",
                 "addr:city": "Otmuchów",
                 "addr:postcode": "48-385",
                 "amenity": "pharmacy"
@@ -216,7 +214,6 @@
                 "name": "Apteka Kolorowa",
                 "addr:street": "KRAKOWSKA",
                 "addr:housenumber": "15",
-                "addr:flats": "3",
                 "addr:city": "Otmuchów",
                 "addr:postcode": "48-385",
                 "amenity": "pharmacy"
@@ -631,7 +628,6 @@
                 "name": "Apteka Eliksir",
                 "addr:street": "Mariacka",
                 "addr:housenumber": "7",
-                "addr:flats": "3-4",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
                 "amenity": "pharmacy"
@@ -876,7 +872,6 @@
                 "name": "\"Apteka \"\"Na Dobre I Na Złe\"\" - Centrum Farmaceutyczne\"",
                 "addr:street": "Celna",
                 "addr:housenumber": "26",
-                "addr:flats": "5U",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
                 "amenity": "pharmacy"
@@ -991,7 +986,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Rynek",
                 "addr:housenumber": "35",
-                "addr:flats": "1U",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
                 "amenity": "pharmacy"
@@ -1030,7 +1024,6 @@
                 "name": "Na Dobre I Na Złe",
                 "addr:street": "Prudnicka",
                 "addr:housenumber": "7",
-                "addr:flats": "U2",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
                 "amenity": "pharmacy"
@@ -1069,7 +1062,6 @@
                 "name": "\"Apteka \"\"Eliksir\"\"\"",
                 "addr:street": "Prusa",
                 "addr:housenumber": "3",
-                "addr:flats": "1a",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
                 "amenity": "pharmacy"

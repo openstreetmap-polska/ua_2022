@@ -102,7 +102,6 @@
                 "name": "Południe Ii",
                 "addr:street": "Policka",
                 "addr:housenumber": "2",
-                "addr:flats": "7 i 8",
                 "addr:city": "Radom",
                 "addr:postcode": "26-612",
                 "amenity": "pharmacy"
@@ -288,7 +287,6 @@
                 "name": "Super -Pharm",
                 "addr:street": "Bolesława Chrobrego",
                 "addr:housenumber": "1",
-                "addr:flats": "017",
                 "addr:city": "Radom",
                 "addr:postcode": "26-600",
                 "amenity": "pharmacy"
@@ -403,7 +401,6 @@
                 "name": "Mgr Farm. Alina Zalewska",
                 "addr:street": "25 Czerwca",
                 "addr:housenumber": "46",
-                "addr:flats": "2",
                 "addr:city": "Radom",
                 "addr:postcode": "26-610",
                 "amenity": "pharmacy"
@@ -758,7 +755,6 @@
                 "ref:csioz": 1095274,
                 "addr:street": "Bolesława Limanowskiego",
                 "addr:housenumber": "73/75",
-                "addr:flats": "2",
                 "addr:city": "Radom",
                 "addr:postcode": "26-600",
                 "amenity": "pharmacy"
@@ -1070,7 +1066,6 @@
                 "ref:csioz": 1095720,
                 "addr:street": "Mieczysława Niedziałkowskiego",
                 "addr:housenumber": "19/21",
-                "addr:flats": "2",
                 "addr:city": "Radom",
                 "addr:postcode": "26-600",
                 "amenity": "pharmacy"
@@ -1146,7 +1141,6 @@
                 "ref:csioz": 1095773,
                 "addr:street": "Pośrednia",
                 "addr:housenumber": "29",
-                "addr:flats": "1",
                 "addr:city": "Radom",
                 "addr:postcode": "26-600",
                 "amenity": "pharmacy"
@@ -1261,7 +1255,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "Bolesława Chrobrego",
                 "addr:housenumber": "2",
-                "addr:flats": "0.18",
                 "addr:city": "Radom",
                 "addr:postcode": "26-600",
                 "amenity": "pharmacy"
@@ -1357,7 +1350,6 @@
                 "name": "Barwy Zdrowia",
                 "addr:street": "Stefanii Sempołowskiej",
                 "addr:housenumber": "5",
-                "addr:flats": "1.01",
                 "addr:city": "Radom",
                 "addr:postcode": "26-605",
                 "amenity": "pharmacy"
@@ -1415,7 +1407,6 @@
                 "name": "Codzienna",
                 "addr:street": "Ignacego Paderewskiego",
                 "addr:housenumber": "17",
-                "addr:flats": "2",
                 "addr:city": "Radom",
                 "addr:postcode": "26-605",
                 "amenity": "pharmacy"

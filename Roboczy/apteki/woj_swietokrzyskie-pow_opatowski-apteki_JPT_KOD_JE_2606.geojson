@@ -120,7 +120,6 @@
                 "name": "Apteki Polskie",
                 "addr:street": "Wzgórze",
                 "addr:housenumber": "54D",
-                "addr:flats": "1",
                 "addr:city": "Ożarów",
                 "addr:postcode": "27-530",
                 "amenity": "pharmacy"
@@ -175,7 +174,6 @@
                 "name": "Apteki Polskie",
                 "addr:street": "Szeroka",
                 "addr:housenumber": "2",
-                "addr:flats": "32",
                 "addr:city": "OPATÓW",
                 "addr:postcode": "27-500",
                 "amenity": "pharmacy"
@@ -194,7 +192,6 @@
                 "ref:csioz": 1002325,
                 "addr:street": "Szeroka",
                 "addr:housenumber": "2",
-                "addr:flats": "8",
                 "addr:city": "Opatów",
                 "addr:postcode": "27-500",
                 "amenity": "pharmacy"

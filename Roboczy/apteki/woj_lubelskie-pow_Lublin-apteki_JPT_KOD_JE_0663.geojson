@@ -212,7 +212,6 @@
                 "ref:csioz": 1157751,
                 "addr:street": "Lubartowska",
                 "addr:housenumber": "64",
-                "addr:flats": "66",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-123",
                 "amenity": "pharmacy"
@@ -360,7 +359,6 @@
                 "ref:csioz": 1158960,
                 "addr:street": "Kolorowa",
                 "addr:housenumber": "24",
-                "addr:flats": "44",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-807",
                 "amenity": "pharmacy"
@@ -659,7 +657,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Zana T.",
                 "addr:housenumber": "19",
-                "addr:flats": "1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-601",
                 "amenity": "pharmacy"
@@ -1086,7 +1083,6 @@
                 "ref:csioz": 1163922,
                 "addr:street": "Watykańska",
                 "addr:housenumber": "6",
-                "addr:flats": "\"3a, 4a\"",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-538",
                 "amenity": "pharmacy"
@@ -1161,7 +1157,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Unii Lubelskiej",
                 "addr:housenumber": "2",
-                "addr:flats": "G 16 A",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-108",
                 "amenity": "pharmacy"
@@ -1386,7 +1381,6 @@
                 "name": "Apteka Na Zana",
                 "addr:street": "Tomasza Zana",
                 "addr:housenumber": "27",
-                "addr:flats": "1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-601",
                 "amenity": "pharmacy"
@@ -1442,7 +1436,6 @@
                 "ref:csioz": 1157542,
                 "addr:street": "Jutrzenki",
                 "addr:housenumber": "10",
-                "addr:flats": "10A",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-538",
                 "amenity": "pharmacy"
@@ -1684,7 +1677,6 @@
                 "ref:csioz": 1163573,
                 "addr:street": "Popiełuszki",
                 "addr:housenumber": "28",
-                "addr:flats": "3",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-052",
                 "amenity": "pharmacy"
@@ -2071,7 +2063,6 @@
                 "name": "Apteka Prima",
                 "addr:street": "Koncertowa",
                 "addr:housenumber": "4D",
-                "addr:flats": "G",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-866",
                 "amenity": "pharmacy"
@@ -2127,7 +2118,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Wincentego Witosa",
                 "addr:housenumber": "32",
-                "addr:flats": "056A",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-315",
                 "amenity": "pharmacy"
@@ -2242,7 +2232,6 @@
                 "name": "Całotygodniowa Apteka Familijna",
                 "addr:street": "Radości",
                 "addr:housenumber": "4",
-                "addr:flats": "7",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-530",
                 "amenity": "pharmacy"
@@ -2262,7 +2251,6 @@
                 "name": "Apteka Rodzinna",
                 "addr:street": "Onyksowa",
                 "addr:housenumber": "7",
-                "addr:flats": "U 1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-582",
                 "amenity": "pharmacy"
@@ -2678,7 +2666,6 @@
                 "name": "Same Dobre Apteki Eskulap Ii Apteka Sda",
                 "addr:street": "Koncertowa",
                 "addr:housenumber": "4D",
-                "addr:flats": "E2",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-866",
                 "amenity": "pharmacy"
@@ -2811,7 +2798,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "Spółdzielczości Pracy",
                 "addr:housenumber": "36",
-                "addr:flats": "1009",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-147",
                 "amenity": "pharmacy"
@@ -2869,7 +2855,6 @@
                 "name": "Apteka Nova",
                 "addr:street": "Abramowicka",
                 "addr:housenumber": "43",
-                "addr:flats": "5",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-442",
                 "amenity": "pharmacy"
@@ -2946,7 +2931,6 @@
                 "name": "Apteka Mediki",
                 "addr:street": "Dra Witolda Chodźki",
                 "addr:housenumber": "3A",
-                "addr:flats": "1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-093",
                 "amenity": "pharmacy"
@@ -3080,7 +3064,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "Aleja Spółdzielczości Pracy",
                 "addr:housenumber": "88",
-                "addr:flats": "38",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-147",
                 "amenity": "pharmacy"
@@ -3175,7 +3158,6 @@
                 "name": "Niezapominajka Dla Całej Rodziny",
                 "addr:street": "Lwowska",
                 "addr:housenumber": "12",
-                "addr:flats": "U1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-128",
                 "amenity": "pharmacy"

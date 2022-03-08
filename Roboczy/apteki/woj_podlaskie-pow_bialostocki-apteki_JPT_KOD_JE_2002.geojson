@@ -85,7 +85,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Polna",
                 "addr:housenumber": "2",
-                "addr:flats": "3",
                 "addr:city": "Wasilków",
                 "addr:postcode": "16-010",
                 "amenity": "pharmacy"
@@ -686,7 +685,6 @@
                 "name": "Doz Apteka. Dbam O Zdrowie.",
                 "addr:street": "Główna",
                 "addr:housenumber": "53a",
-                "addr:flats": "6",
                 "addr:city": "Łapy",
                 "addr:postcode": "18-100",
                 "amenity": "pharmacy"
@@ -723,7 +721,6 @@
                 "name": "Apteka Melissa",
                 "addr:street": "Choroszczańska",
                 "addr:housenumber": "5",
-                "addr:flats": "1",
                 "addr:city": "Tykocin",
                 "addr:postcode": "16-080",
                 "amenity": "pharmacy"
@@ -762,7 +759,6 @@
                 "name": "Apteka Dolina Cisów",
                 "addr:street": "Białostocka",
                 "addr:housenumber": "104",
-                "addr:flats": "\"U3,U4,U5\"",
                 "addr:city": "Wasilków",
                 "addr:postcode": "16-010",
                 "amenity": "pharmacy"

@@ -9,7 +9,6 @@
                 "name": "Niebo",
                 "addr:street": "Kościuszki",
                 "addr:housenumber": "17",
-                "addr:flats": "1",
                 "addr:city": "Legnica",
                 "addr:postcode": "59-220",
                 "amenity": "pharmacy"
@@ -390,7 +389,6 @@
                 "name": "Apteka Dr. Optima",
                 "addr:street": "Wrocławska",
                 "addr:housenumber": "10",
-                "addr:flats": "18a",
                 "addr:city": "Legnica",
                 "addr:postcode": "59-220",
                 "amenity": "pharmacy"
@@ -809,7 +807,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie Piastów",
                 "addr:street": "ul. Najświętszej Marii Panny",
                 "addr:housenumber": "9",
-                "addr:flats": "lokal 0.10",
                 "addr:city": "Legnica",
                 "addr:postcode": "59-220",
                 "amenity": "pharmacy"

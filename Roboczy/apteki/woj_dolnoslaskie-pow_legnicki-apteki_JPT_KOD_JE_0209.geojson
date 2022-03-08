@@ -100,7 +100,6 @@
                 "name": "Punkt Apteczny Krotoszyce",
                 "addr:street": "Mikołaja Kopernika",
                 "addr:housenumber": "9",
-                "addr:flats": "lokal 2",
                 "addr:city": "Krotoszyce",
                 "addr:postcode": "59-223",
                 "amenity": "pharmacy"
@@ -196,7 +195,6 @@
                 "name": "Centrum Pharmaland",
                 "addr:street": "Rynek",
                 "addr:housenumber": "29",
-                "addr:flats": "1a",
                 "addr:city": "Chojnów",
                 "addr:postcode": "59-225",
                 "amenity": "pharmacy"
@@ -292,7 +290,6 @@
                 "name": "\"Apteka \"\"Melisa\"\"\"",
                 "addr:street": "Reymonta",
                 "addr:housenumber": "1",
-                "addr:flats": "lokal 6c-7",
                 "addr:city": "Prochowice",
                 "addr:postcode": "59-230",
                 "amenity": "pharmacy"

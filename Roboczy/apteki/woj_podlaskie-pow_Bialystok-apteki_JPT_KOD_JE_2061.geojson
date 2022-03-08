@@ -199,7 +199,6 @@
                 "name": "\"Apteka \"\"Aqua Vitae\"\" Centrum Homeopatii\"",
                 "addr:street": "Adama Mickiewicza",
                 "addr:housenumber": "39",
-                "addr:flats": "U5",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-213",
                 "amenity": "pharmacy"
@@ -389,7 +388,6 @@
                 "name": "Apteka Rodzinna",
                 "addr:street": "Przejazd",
                 "addr:housenumber": "2A",
-                "addr:flats": "4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-430",
                 "amenity": "pharmacy"
@@ -542,7 +540,6 @@
                 "name": "Św. Kosmy I Damiana",
                 "addr:street": "Władysława Raginisa",
                 "addr:housenumber": "87",
-                "addr:flats": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-157",
                 "amenity": "pharmacy"
@@ -695,7 +692,6 @@
                 "name": "Viola",
                 "addr:street": "Żelazna",
                 "addr:housenumber": "9",
-                "addr:flats": "14",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-297",
                 "amenity": "pharmacy"
@@ -771,7 +767,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Stanisława Dubois",
                 "addr:housenumber": "3",
-                "addr:flats": "7",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-349",
                 "amenity": "pharmacy"
@@ -791,7 +786,6 @@
                 "name": "Galena",
                 "addr:street": "Kardynała Stefana Wyszyńskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "82",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-888",
                 "amenity": "pharmacy"
@@ -830,7 +824,6 @@
                 "name": "Aqua Vitae",
                 "addr:street": "Legionowa",
                 "addr:housenumber": "9",
-                "addr:flats": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-281",
                 "amenity": "pharmacy"
@@ -940,7 +933,6 @@
                 "name": "Apteka Rodzinna",
                 "addr:street": "Antoniukowska",
                 "addr:housenumber": "56",
-                "addr:flats": "16 i 17",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-845",
                 "amenity": "pharmacy"
@@ -959,7 +951,6 @@
                 "ref:csioz": 1111208,
                 "addr:street": "Bolesława Chrobrego",
                 "addr:housenumber": "16A",
-                "addr:flats": "2",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-057",
                 "amenity": "pharmacy"
@@ -979,7 +970,6 @@
                 "name": "Apteka Aqua Vitae Na Stołecznej",
                 "addr:street": "Stołeczna",
                 "addr:housenumber": "7",
-                "addr:flats": "5/1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-879",
                 "amenity": "pharmacy"
@@ -1017,7 +1007,6 @@
                 "name": "Apteka Na Suraskiej",
                 "addr:street": "Suraska",
                 "addr:housenumber": "4",
-                "addr:flats": "20",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-422",
                 "amenity": "pharmacy"
@@ -1037,7 +1026,6 @@
                 "name": "Pogodna Apteka",
                 "addr:street": "Pogodna",
                 "addr:housenumber": "11A",
-                "addr:flats": "2",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-354",
                 "amenity": "pharmacy"
@@ -1112,7 +1100,6 @@
                 "name": "\"'Provita'\"",
                 "addr:street": "Jana Sobieskiego",
                 "addr:housenumber": "13",
-                "addr:flats": "lok. 7",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-013",
                 "amenity": "pharmacy"
@@ -1151,7 +1138,6 @@
                 "name": "Nowy Świat",
                 "addr:street": "Nowy Świat",
                 "addr:housenumber": "17",
-                "addr:flats": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-453",
                 "amenity": "pharmacy"
@@ -1171,7 +1157,6 @@
                 "name": "Apteka Bliska",
                 "addr:street": "Al. 1000-lecia Państwa Polskiego",
                 "addr:housenumber": "10",
-                "addr:flats": "4a i 5a",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-111",
                 "amenity": "pharmacy"
@@ -1229,7 +1214,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Pałacowa",
                 "addr:housenumber": "4",
-                "addr:flats": "2L",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-064",
                 "amenity": "pharmacy"
@@ -1287,7 +1271,6 @@
                 "name": "Apteka Provita",
                 "addr:street": "Komisji Edukacji Narodowej",
                 "addr:housenumber": "5",
-                "addr:flats": "\"lok. 4,5\"",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-687",
                 "amenity": "pharmacy"
@@ -1326,7 +1309,6 @@
                 "name": "Apteka Provita",
                 "addr:street": "Hugo Kołłątaja",
                 "addr:housenumber": "67",
-                "addr:flats": "lok. 88",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-774",
                 "amenity": "pharmacy"
@@ -1419,7 +1401,6 @@
                 "ref:csioz": 1021208,
                 "addr:street": "Słonimska",
                 "addr:housenumber": "15",
-                "addr:flats": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-028",
                 "amenity": "pharmacy"
@@ -1438,7 +1419,6 @@
                 "ref:csioz": 1021306,
                 "addr:street": "ks. Stanisława Andrukiewicza",
                 "addr:housenumber": "4",
-                "addr:flats": "2U",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-204",
                 "amenity": "pharmacy"
@@ -1835,7 +1815,6 @@
                 "name": "Sanitas",
                 "addr:street": "Sienkiewicza",
                 "addr:housenumber": "79A",
-                "addr:flats": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-003",
                 "amenity": "pharmacy"
@@ -1891,7 +1870,6 @@
                 "name": "Apteka „Malwa”",
                 "addr:street": "Pogodna",
                 "addr:housenumber": "11D",
-                "addr:flats": "1U",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-354",
                 "amenity": "pharmacy"
@@ -1949,7 +1927,6 @@
                 "name": "Bliska 24H",
                 "addr:street": "Antoniukowska",
                 "addr:housenumber": "22",
-                "addr:flats": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-845",
                 "amenity": "pharmacy"
@@ -2059,7 +2036,6 @@
                 "name": "Apteka Pod Lwem",
                 "addr:street": "Aleja Józefa Piłsudskiego",
                 "addr:housenumber": "8",
-                "addr:flats": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-445",
                 "amenity": "pharmacy"
@@ -2098,7 +2074,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "Świętojańska",
                 "addr:housenumber": "15",
-                "addr:flats": "H9",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-277",
                 "amenity": "pharmacy"
@@ -2193,7 +2168,6 @@
                 "name": "Pogodna Apteka",
                 "addr:street": "Jana Pawła II",
                 "addr:housenumber": "59",
-                "addr:flats": "U9",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-704",
                 "amenity": "pharmacy"
@@ -2213,7 +2187,6 @@
                 "name": "\"Apteka Cef@Rm 36,6\"",
                 "addr:street": "Jurowiecka",
                 "addr:housenumber": "1",
-                "addr:flats": "lok. 0.05",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-101",
                 "amenity": "pharmacy"
@@ -2233,7 +2206,6 @@
                 "name": "Pogodna Apteka",
                 "addr:street": "Wrocławska",
                 "addr:housenumber": "9",
-                "addr:flats": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-644",
                 "amenity": "pharmacy"
@@ -2291,7 +2263,6 @@
                 "name": "Apteka Społeczna Na Wiejskiej Grupa Nowa Farmacja",
                 "addr:street": "Wiejska",
                 "addr:housenumber": "71",
-                "addr:flats": "4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-351",
                 "amenity": "pharmacy"
@@ -2311,7 +2282,6 @@
                 "name": "Apteka Rodzinna Przejazd",
                 "addr:street": "Prezydenta Ryszarda  Kaczorowskiego",
                 "addr:housenumber": "7",
-                "addr:flats": "8a",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-375",
                 "amenity": "pharmacy"
@@ -2331,7 +2301,6 @@
                 "name": "Apteka Bliska",
                 "addr:street": "Władysława Wysockiego",
                 "addr:housenumber": "67",
-                "addr:flats": "A5-A6",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-168",
                 "amenity": "pharmacy"
@@ -2351,7 +2320,6 @@
                 "name": "Hebeapteka",
                 "addr:street": "Wrocławska",
                 "addr:housenumber": "20",
-                "addr:flats": "12/B",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-660",
                 "amenity": "pharmacy"
@@ -2371,7 +2339,6 @@
                 "name": "Apteka Vita",
                 "addr:street": "42 Pułku Piechoty",
                 "addr:housenumber": "131",
-                "addr:flats": "U1U2",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-181",
                 "amenity": "pharmacy"
@@ -2429,7 +2396,6 @@
                 "name": "Apteka Anika",
                 "addr:street": "Sybiraków",
                 "addr:housenumber": "4",
-                "addr:flats": "U5",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-204",
                 "amenity": "pharmacy"
@@ -2449,7 +2415,6 @@
                 "name": "\"Apteka 'Na Zdrowie' \"",
                 "addr:street": "gen. Władysława Andersa",
                 "addr:housenumber": "40",
-                "addr:flats": "89",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-113",
                 "amenity": "pharmacy"
@@ -2469,7 +2434,6 @@
                 "name": "Apteka Na Kawaleryjskiej",
                 "addr:street": "Kawaleryjska",
                 "addr:housenumber": "52",
-                "addr:flats": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-325",
                 "amenity": "pharmacy"
@@ -2488,7 +2452,6 @@
                 "ref:csioz": 1224490,
                 "addr:street": "Elizy Orzeszkowej",
                 "addr:housenumber": "17",
-                "addr:flats": "46",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-084",
                 "amenity": "pharmacy"
@@ -2527,7 +2490,6 @@
                 "name": "Apteka Provita",
                 "addr:street": "Stanisława Dubois",
                 "addr:housenumber": "3",
-                "addr:flats": "lok. 4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-349",
                 "amenity": "pharmacy"
@@ -2547,7 +2509,6 @@
                 "name": "Twoja Apteka Na Sowlańskiej",
                 "addr:street": "Sowlańska",
                 "addr:housenumber": "3",
-                "addr:flats": "U1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-560",
                 "amenity": "pharmacy"
@@ -2640,7 +2601,6 @@
                 "ref:csioz": 1229673,
                 "addr:street": "Fabryczna",
                 "addr:housenumber": "4",
-                "addr:flats": "2A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-483",
                 "amenity": "pharmacy"
@@ -2679,7 +2639,6 @@
                 "name": "Apteka Pod Lwem",
                 "addr:street": "Łąkowa",
                 "addr:housenumber": "3",
-                "addr:flats": "U1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-017",
                 "amenity": "pharmacy"

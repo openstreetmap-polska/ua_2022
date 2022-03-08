@@ -134,7 +134,6 @@
                 "ref:csioz": 1217534,
                 "name": "Słoneczko",
                 "addr:housenumber": "405A",
-                "addr:flats": "80",
                 "addr:postcode": "37-732",
                 "amenity": "pharmacy",
                 "addr:place": "Medyka"
@@ -208,7 +207,6 @@
                 "ref:csioz": 1140019,
                 "addr:street": "Rynek",
                 "addr:housenumber": "3",
-                "addr:flats": "1",
                 "addr:city": "Bircza",
                 "addr:postcode": "37-740",
                 "amenity": "pharmacy"

@@ -233,7 +233,6 @@
                 "name": "Apteka H2O",
                 "addr:street": "Gabriela Narutowicza",
                 "addr:housenumber": "71",
-                "addr:flats": "1",
                 "addr:city": "Żychlin",
                 "addr:postcode": "99-320",
                 "amenity": "pharmacy"
@@ -810,7 +809,6 @@
                 "name": "Apteka Społeczna Na Jana Pawła Ii Grupa Nowa Farmacja",
                 "addr:street": "Papieża Jana Pawła II",
                 "addr:housenumber": "3",
-                "addr:flats": "4",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
                 "amenity": "pharmacy"

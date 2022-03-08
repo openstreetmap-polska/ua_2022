@@ -391,7 +391,6 @@
                 "name": "-",
                 "addr:street": "Rynek",
                 "addr:housenumber": "6",
-                "addr:flats": "2",
                 "addr:city": "Dominów",
                 "addr:postcode": "20-388",
                 "amenity": "pharmacy"
@@ -866,7 +865,6 @@
                 "name": "Apteka Społeczna",
                 "addr:street": "Fabryczna",
                 "addr:housenumber": "6",
-                "addr:flats": "14",
                 "addr:city": "Bełżyce",
                 "addr:postcode": "24-200",
                 "amenity": "pharmacy"

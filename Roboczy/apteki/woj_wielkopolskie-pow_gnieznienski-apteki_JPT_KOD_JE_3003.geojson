@@ -234,7 +234,6 @@
                 "ref:csioz": 1055502,
                 "name": "Św.Mikołaja",
                 "addr:housenumber": "13B",
-                "addr:flats": "2",
                 "addr:postcode": "62-260",
                 "amenity": "pharmacy",
                 "addr:place": "Łubowo"
@@ -254,7 +253,6 @@
                 "name": "Św. Wawrzyńca",
                 "addr:street": "Bednarski",
                 "addr:housenumber": "2",
-                "addr:flats": "3A",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
                 "amenity": "pharmacy"
@@ -648,7 +646,6 @@
                 "ref:csioz": 1055255,
                 "addr:street": "SŁONECZNA",
                 "addr:housenumber": "27",
-                "addr:flats": "1",
                 "addr:city": "KŁECKO",
                 "addr:postcode": "62-270",
                 "amenity": "pharmacy"
@@ -839,7 +836,6 @@
                 "name": "Optima",
                 "addr:street": "KAWIARY",
                 "addr:housenumber": "25",
-                "addr:flats": "2",
                 "addr:city": "GNIEZNO",
                 "addr:postcode": "62-200",
                 "amenity": "pharmacy"
@@ -990,7 +986,6 @@
                 "name": "Apteka Społeczna Na Warszawskiej Grupa Nowa Farmacja",
                 "addr:street": "Warszawska",
                 "addr:housenumber": "12",
-                "addr:flats": "1",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
                 "amenity": "pharmacy"
@@ -1161,7 +1156,6 @@
                 "ref:csioz": 1227264,
                 "addr:street": "Witkowska",
                 "addr:housenumber": "1",
-                "addr:flats": "0/0.8",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
                 "amenity": "pharmacy"

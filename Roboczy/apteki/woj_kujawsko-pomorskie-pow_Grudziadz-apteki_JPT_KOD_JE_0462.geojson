@@ -27,7 +27,6 @@
                 "ref:csioz": 1102658,
                 "addr:street": "Sportowców",
                 "addr:housenumber": "1",
-                "addr:flats": "3",
                 "addr:city": "Grudziądz",
                 "addr:postcode": "86-300",
                 "amenity": "pharmacy"
@@ -84,7 +83,6 @@
                 "name": "Cito",
                 "addr:street": "gen. Sikorskiego",
                 "addr:housenumber": "18",
-                "addr:flats": "1",
                 "addr:city": "Grudziądz",
                 "addr:postcode": "86-300",
                 "amenity": "pharmacy"
@@ -161,7 +159,6 @@
                 "name": "Centrum",
                 "addr:street": "Toruńska",
                 "addr:housenumber": "2/4",
-                "addr:flats": "4",
                 "addr:city": "Grudziądz",
                 "addr:postcode": "86-300",
                 "amenity": "pharmacy"
@@ -352,7 +349,6 @@
                 "name": "Apteka Rodzinna Na Mastalerza",
                 "addr:street": "Kazimierza Mastalerza",
                 "addr:housenumber": "5",
-                "addr:flats": "7",
                 "addr:city": "Grudziądz",
                 "addr:postcode": "86-300",
                 "amenity": "pharmacy"
@@ -448,7 +444,6 @@
                 "name": "Apteka Szpitalna Regionalnego Szpitala Specjalistycznego Im. Dr Władysława Biegańskiego W Grudziądzu",
                 "addr:street": "dr. Ludwika Rydygiera",
                 "addr:housenumber": "15",
-                "addr:flats": "17",
                 "addr:city": "Grudziądz",
                 "addr:postcode": "86-300",
                 "amenity": "pharmacy"
@@ -582,7 +577,6 @@
                 "name": "Farmacja24",
                 "addr:street": "Legionów",
                 "addr:housenumber": "21",
-                "addr:flats": "23",
                 "addr:city": "Grudziądz",
                 "addr:postcode": "86-300",
                 "amenity": "pharmacy"

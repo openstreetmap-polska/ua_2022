@@ -330,7 +330,6 @@
                 "name": "Apteka Galicja",
                 "addr:street": "Lwowska",
                 "addr:housenumber": "35",
-                "addr:flats": "1",
                 "addr:city": "Nowy Sącz",
                 "addr:postcode": "33-300",
                 "amenity": "pharmacy"
@@ -559,7 +558,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Węgierska",
                 "addr:housenumber": "170",
-                "addr:flats": "41",
                 "addr:city": "Nowy Sącz",
                 "addr:postcode": "33-300",
                 "amenity": "pharmacy"
@@ -674,7 +672,6 @@
                 "name": "Apteka Na Błoniach",
                 "addr:street": "29 Listopada",
                 "addr:housenumber": "16A",
-                "addr:flats": "23",
                 "addr:city": "Nowy Sącz",
                 "addr:postcode": "33-300",
                 "amenity": "pharmacy"
@@ -751,7 +748,6 @@
                 "name": "Apteka Z Uśmiechem",
                 "addr:street": "Jana Sobieskiego",
                 "addr:housenumber": "14a",
-                "addr:flats": "1",
                 "addr:city": "Nowy Sącz",
                 "addr:postcode": "33-300",
                 "amenity": "pharmacy"

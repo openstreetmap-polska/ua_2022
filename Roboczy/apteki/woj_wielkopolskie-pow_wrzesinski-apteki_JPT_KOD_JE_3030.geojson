@@ -368,7 +368,6 @@
                 "name": "Medica",
                 "addr:street": "Rynek",
                 "addr:housenumber": "20",
-                "addr:flats": "21",
                 "addr:city": "Nekla",
                 "addr:postcode": "62-330",
                 "amenity": "pharmacy"
@@ -464,7 +463,6 @@
                 "name": "Mega-Pharm",
                 "addr:street": "Piastów",
                 "addr:housenumber": "16",
-                "addr:flats": "F",
                 "addr:city": "Września",
                 "addr:postcode": "62-300",
                 "amenity": "pharmacy"

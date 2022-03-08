@@ -195,7 +195,6 @@
                 "name": "Alba",
                 "addr:street": "ks. Stanisława Staszica",
                 "addr:housenumber": "16",
-                "addr:flats": "1",
                 "addr:city": "Krosno",
                 "addr:postcode": "38-400",
                 "amenity": "pharmacy"
@@ -661,7 +660,6 @@
                 "ref:csioz": 1224658,
                 "addr:street": "Bieszczadzka",
                 "addr:housenumber": "29",
-                "addr:flats": "N-35",
                 "addr:city": "Krosno",
                 "addr:postcode": "38-400",
                 "amenity": "pharmacy"

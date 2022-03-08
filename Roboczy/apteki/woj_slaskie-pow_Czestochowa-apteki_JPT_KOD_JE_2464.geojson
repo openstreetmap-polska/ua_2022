@@ -123,7 +123,6 @@
                 "name": "Brak Nazwy",
                 "addr:street": "Aleja Armii Krajowej",
                 "addr:housenumber": "1",
-                "addr:flats": "3",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"
@@ -162,7 +161,6 @@
                 "name": "Brak Nazwy",
                 "addr:street": "Bialska",
                 "addr:housenumber": "104",
-                "addr:flats": "118",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"
@@ -182,7 +180,6 @@
                 "name": "Apteka Aronia",
                 "addr:street": "Bohaterów Katynia",
                 "addr:housenumber": "25A",
-                "addr:flats": "5",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"
@@ -202,7 +199,6 @@
                 "name": "Brak Nazwy",
                 "addr:street": "Brzozowa",
                 "addr:housenumber": "2",
-                "addr:flats": "8",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"
@@ -222,7 +218,6 @@
                 "name": "Cynamonowa",
                 "addr:street": "Ferdynanda Focha",
                 "addr:housenumber": "7",
-                "addr:flats": "15",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"
@@ -280,7 +275,6 @@
                 "name": "Brak Nazwy",
                 "addr:street": "Zbigniewa Herberta",
                 "addr:housenumber": "2",
-                "addr:flats": "30",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-224",
                 "amenity": "pharmacy"
@@ -433,7 +427,6 @@
                 "name": "Apteka Od Serca",
                 "addr:street": "Norwida",
                 "addr:housenumber": "11",
-                "addr:flats": "15",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"
@@ -662,7 +655,6 @@
                 "name": "4 Pory Roku",
                 "addr:street": "Warszawska",
                 "addr:housenumber": "2",
-                "addr:flats": "14",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"
@@ -758,7 +750,6 @@
                 "name": "Spzoz- Wojewódzki Szpital Specjalistyczny Im Nmp",
                 "addr:street": "Bialska",
                 "addr:housenumber": "104",
-                "addr:flats": "118",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"
@@ -873,7 +864,6 @@
                 "name": "Pistacjowa",
                 "addr:street": "Dekabrystów",
                 "addr:housenumber": "9",
-                "addr:flats": "17",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-218",
                 "amenity": "pharmacy"
@@ -1178,7 +1168,6 @@
                 "name": "Św. Łukasza",
                 "addr:street": "Ferdynanda Focha",
                 "addr:housenumber": "4",
-                "addr:flats": "6",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"
@@ -1198,7 +1187,6 @@
                 "name": "Św. Łukasza",
                 "addr:street": "Ferdynanda Focha",
                 "addr:housenumber": "4",
-                "addr:flats": "6A",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-217",
                 "amenity": "pharmacy"
@@ -1218,7 +1206,6 @@
                 "name": "Złota",
                 "addr:street": "Kilińskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "4",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"
@@ -1238,7 +1225,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "Kisielewskiego",
                 "addr:housenumber": "8",
-                "addr:flats": "16",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"
@@ -1258,7 +1244,6 @@
                 "name": "Brak Nazwy",
                 "addr:street": "Konarskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "4",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"
@@ -1430,7 +1415,6 @@
                 "name": "Brak Nazwy",
                 "addr:street": "Ossowskiego",
                 "addr:housenumber": "12",
-                "addr:flats": "14",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-207",
                 "amenity": "pharmacy"
@@ -1487,7 +1471,6 @@
                 "name": "Combi-Med Chirurgia Krótkoterminowa",
                 "addr:street": "Dekabrystów",
                 "addr:housenumber": "17",
-                "addr:flats": "19",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-218",
                 "amenity": "pharmacy"
@@ -1526,7 +1509,6 @@
                 "name": "Apteka Nowa Farmacja W Centrum Medycznym Klara",
                 "addr:street": "Wały Dwernickiego",
                 "addr:housenumber": "43",
-                "addr:flats": "45",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-202",
                 "amenity": "pharmacy"
@@ -1546,7 +1528,6 @@
                 "name": "Euro-Apteka",
                 "addr:street": "Okulickiego",
                 "addr:housenumber": "52",
-                "addr:flats": "1",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-218",
                 "amenity": "pharmacy"
@@ -1679,7 +1660,6 @@
                 "ref:csioz": 1189234,
                 "addr:street": "Wielkoborska",
                 "addr:housenumber": "37",
-                "addr:flats": "41",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-202",
                 "amenity": "pharmacy"
@@ -1832,7 +1812,6 @@
                 "name": "Nasza",
                 "addr:street": "Kilińskiego",
                 "addr:housenumber": "72/74",
-                "addr:flats": "lok.U3",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-218",
                 "amenity": "pharmacy"
@@ -2061,7 +2040,6 @@
                 "name": "Apteka Diamentowa",
                 "addr:street": "Jagiellońska",
                 "addr:housenumber": "3/9",
-                "addr:flats": "2",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-216",
                 "amenity": "pharmacy"
@@ -2100,7 +2078,6 @@
                 "name": "\"Centrum Medyczne \"\"Olmedical\"\" - Szpital\"",
                 "addr:street": "Krynicka",
                 "addr:housenumber": "1",
-                "addr:flats": "3",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-221",
                 "amenity": "pharmacy"
@@ -2139,7 +2116,6 @@
                 "name": "\"Nzoz Centrum Opieki I Rehabilitacji \"\"Zdrowie\"\"\"",
                 "addr:street": "Łukasińskiego mjra Waleriana",
                 "addr:housenumber": "42",
-                "addr:flats": "48",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
                 "amenity": "pharmacy"

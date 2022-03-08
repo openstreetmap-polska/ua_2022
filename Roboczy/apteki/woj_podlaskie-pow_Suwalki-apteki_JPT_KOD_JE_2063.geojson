@@ -8,7 +8,6 @@
                 "ref:csioz": 1016217,
                 "addr:street": "Szpitalna",
                 "addr:housenumber": "71",
-                "addr:flats": "5",
                 "addr:city": "Suwałki",
                 "addr:postcode": "16-400",
                 "amenity": "pharmacy"
@@ -549,7 +548,6 @@
                 "name": "Apteka Anika",
                 "addr:street": "gen. Józefa Dwernickiego",
                 "addr:housenumber": "15",
-                "addr:flats": "103",
                 "addr:city": "Suwałki",
                 "addr:postcode": "16-400",
                 "amenity": "pharmacy"

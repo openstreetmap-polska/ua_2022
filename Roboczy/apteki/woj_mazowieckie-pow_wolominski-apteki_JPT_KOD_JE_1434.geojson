@@ -85,7 +85,6 @@
                 "name": "Aralia",
                 "addr:street": "Nadarzyńska",
                 "addr:housenumber": "67",
-                "addr:flats": "4",
                 "addr:city": "Kobyłka",
                 "addr:postcode": "05-230",
                 "amenity": "pharmacy"
@@ -124,7 +123,6 @@
                 "name": "Amica",
                 "addr:street": "Kolejowa",
                 "addr:housenumber": "9",
-                "addr:flats": "4",
                 "addr:city": "Zielonka",
                 "addr:postcode": "05-220",
                 "amenity": "pharmacy"
@@ -163,7 +161,6 @@
                 "name": "Amica",
                 "addr:street": "Powstańców",
                 "addr:housenumber": "33",
-                "addr:flats": "12",
                 "addr:city": "Ząbki",
                 "addr:postcode": "05-091",
                 "amenity": "pharmacy"
@@ -316,7 +313,6 @@
                 "name": "Amica",
                 "addr:street": "Aleja Niepodległości",
                 "addr:housenumber": "2",
-                "addr:flats": "5",
                 "addr:city": "Wołomin",
                 "addr:postcode": "05-200",
                 "amenity": "pharmacy"
@@ -355,7 +351,6 @@
                 "name": "Z Uśmiechem",
                 "addr:street": "Aleja Armii Krajowej",
                 "addr:housenumber": "64",
-                "addr:flats": "11",
                 "addr:city": "Wołomin",
                 "addr:postcode": "05-200",
                 "amenity": "pharmacy"
@@ -450,7 +445,6 @@
                 "ref:csioz": 1216515,
                 "addr:street": "Geodetów",
                 "addr:housenumber": "2",
-                "addr:flats": "M 38A",
                 "addr:city": "Wołomin",
                 "addr:postcode": "05-200",
                 "amenity": "pharmacy"
@@ -602,7 +596,6 @@
                 "name": "Hibiskus",
                 "addr:street": "Prymasa Stefana Wyszyńskiego",
                 "addr:housenumber": "28",
-                "addr:flats": "14",
                 "addr:city": "Zielonka",
                 "addr:postcode": "05-220",
                 "amenity": "pharmacy"
@@ -641,7 +634,6 @@
                 "name": "Z Uśmiechem",
                 "addr:street": "Prądzyńskiego",
                 "addr:housenumber": "37",
-                "addr:flats": "L2",
                 "addr:city": "Wołomin",
                 "addr:postcode": "05-200",
                 "amenity": "pharmacy"
@@ -699,7 +691,6 @@
                 "name": "Bajkowa",
                 "addr:street": "gen. Władysława Sikorskiego",
                 "addr:housenumber": "33A",
-                "addr:flats": "\"44,45\"",
                 "addr:city": "Ząbki",
                 "addr:postcode": "05-091",
                 "amenity": "pharmacy"
@@ -719,7 +710,6 @@
                 "name": "Amica",
                 "addr:street": "Wiosenna",
                 "addr:housenumber": "14",
-                "addr:flats": "U1/6",
                 "addr:city": "Ząbki",
                 "addr:postcode": "05-091",
                 "amenity": "pharmacy"
@@ -1134,7 +1124,6 @@
                 "name": "Punkt Apteczny Centrum",
                 "addr:street": "Cypriana Kamila Norwida",
                 "addr:housenumber": "6",
-                "addr:flats": "8",
                 "addr:city": "Strachówka",
                 "addr:postcode": "05-282",
                 "amenity": "pharmacy"
@@ -1229,7 +1218,6 @@
                 "name": "Apteka Herba",
                 "addr:street": "Falandysza Lecha",
                 "addr:housenumber": "11",
-                "addr:flats": "189",
                 "addr:city": "Radzymin",
                 "addr:postcode": "05-250",
                 "amenity": "pharmacy"
@@ -1286,7 +1274,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "marsz. Józefa Piłsudskiego",
                 "addr:housenumber": "200",
-                "addr:flats": "6",
                 "addr:city": "Marki",
                 "addr:postcode": "05-270",
                 "amenity": "pharmacy"

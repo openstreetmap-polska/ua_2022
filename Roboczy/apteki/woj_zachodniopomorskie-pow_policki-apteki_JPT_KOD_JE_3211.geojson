@@ -273,7 +273,6 @@
                 "name": "Macierzanka",
                 "addr:street": "Koralowa",
                 "addr:housenumber": "90",
-                "addr:flats": "2",
                 "addr:city": "Bezrzecze",
                 "addr:postcode": "71-220",
                 "amenity": "pharmacy"
@@ -387,7 +386,6 @@
                 "name": "Centrum Zdrowia",
                 "addr:street": "Bankowa",
                 "addr:housenumber": "5",
-                "addr:flats": "U1",
                 "addr:city": "Police",
                 "addr:postcode": "72-010",
                 "amenity": "pharmacy"

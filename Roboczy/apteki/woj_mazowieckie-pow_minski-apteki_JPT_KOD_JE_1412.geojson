@@ -46,7 +46,6 @@
                 "name": "Witaminka",
                 "addr:street": "Armii Krajowej",
                 "addr:housenumber": "8",
-                "addr:flats": "3",
                 "addr:city": "Mrozy",
                 "addr:postcode": "05-320",
                 "amenity": "pharmacy"
@@ -85,7 +84,6 @@
                 "name": "Na Warszawskiej",
                 "addr:street": "Warszawska",
                 "addr:housenumber": "50",
-                "addr:flats": "U3U4",
                 "addr:city": "Kałuszyn",
                 "addr:postcode": "05-310",
                 "amenity": "pharmacy"
@@ -238,7 +236,6 @@
                 "name": "Ziko",
                 "addr:street": "Konstytucji 3 Maja",
                 "addr:housenumber": "7",
-                "addr:flats": "A/01",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
                 "amenity": "pharmacy"
@@ -444,7 +441,6 @@
                 "name": "Złota",
                 "addr:street": "Cicha",
                 "addr:housenumber": "12",
-                "addr:flats": "55",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
                 "amenity": "pharmacy"
@@ -500,7 +496,6 @@
                 "name": "Ziko",
                 "addr:street": "Zygmunta Kazikowskiego",
                 "addr:housenumber": "5",
-                "addr:flats": "6",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
                 "amenity": "pharmacy"
@@ -539,7 +534,6 @@
                 "name": "Słoneczna",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "14",
-                "addr:flats": "U-2",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
                 "amenity": "pharmacy"

@@ -196,7 +196,6 @@
                 "name": "\"Apteka \"\"Panacea\"\"\"",
                 "addr:street": "Eugeniusza Kwiatkowskiego",
                 "addr:housenumber": "2A",
-                "addr:flats": "2L",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-311",
                 "amenity": "pharmacy"
@@ -368,7 +367,6 @@
                 "name": "Apteka Difarm",
                 "addr:street": "Mieszka I",
                 "addr:housenumber": "48",
-                "addr:flats": "50",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-308",
                 "amenity": "pharmacy"
@@ -784,7 +782,6 @@
                 "name": "Medicor",
                 "addr:street": "Stanisława Jabłońskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "4",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-068",
                 "amenity": "pharmacy"
@@ -880,7 +877,6 @@
                 "name": "Różana",
                 "addr:street": "Aleksandra Fredry",
                 "addr:housenumber": "20",
-                "addr:flats": "1",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-005",
                 "amenity": "pharmacy"
@@ -1331,7 +1327,6 @@
                 "name": "Lafarma",
                 "addr:street": "Warszawska",
                 "addr:housenumber": "5",
-                "addr:flats": "7",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-205",
                 "amenity": "pharmacy"
@@ -1351,7 +1346,6 @@
                 "name": "Pod Eskulapem",
                 "addr:street": "Tadeusza Rejtana",
                 "addr:housenumber": "49",
-                "addr:flats": "7",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-326",
                 "amenity": "pharmacy"
@@ -1466,7 +1460,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Wolności",
                 "addr:housenumber": "16",
-                "addr:flats": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-073",
                 "amenity": "pharmacy"
@@ -1505,7 +1498,6 @@
                 "name": "Apteka Pastylka",
                 "addr:street": "Strażacka",
                 "addr:housenumber": "27F",
-                "addr:flats": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-304",
                 "amenity": "pharmacy"
@@ -1676,7 +1668,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Strzyżowska",
                 "addr:housenumber": "42",
-                "addr:flats": "14",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-505",
                 "amenity": "pharmacy"

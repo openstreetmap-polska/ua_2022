@@ -332,7 +332,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "1",
-                "addr:flats": "2A",
                 "addr:city": "Murowana Goślina",
                 "addr:postcode": "62-095",
                 "amenity": "pharmacy"
@@ -635,7 +634,6 @@
                 "name": "Centrum Zdrowia",
                 "addr:street": "Dworcowa",
                 "addr:housenumber": "2",
-                "addr:flats": "1",
                 "addr:city": "Buk",
                 "addr:postcode": "64-320",
                 "amenity": "pharmacy"
@@ -655,7 +653,6 @@
                 "name": "Apteka Pomocna",
                 "addr:street": "Szamotulska",
                 "addr:housenumber": "26J",
-                "addr:flats": "\"G10, G11\"",
                 "addr:city": "Baranowo",
                 "addr:postcode": "62-081",
                 "amenity": "pharmacy"
@@ -807,7 +804,6 @@
                 "name": "Apteka Fabianowska",
                 "addr:street": "Miętowa",
                 "addr:housenumber": "5",
-                "addr:flats": "8",
                 "addr:city": "Plewiska",
                 "addr:postcode": "62-064",
                 "amenity": "pharmacy"
@@ -979,7 +975,6 @@
                 "name": "Zdrowoteka",
                 "addr:street": "ks. Malinowskiego",
                 "addr:housenumber": "9",
-                "addr:flats": "6",
                 "addr:city": "Komorniki",
                 "addr:postcode": "62-052",
                 "amenity": "pharmacy"
@@ -1150,7 +1145,6 @@
                 "name": "Apteka Morska",
                 "addr:street": "ul. Tarnowska",
                 "addr:housenumber": "33",
-                "addr:flats": "D",
                 "addr:city": "Lusówko",
                 "addr:postcode": "62-080",
                 "amenity": "pharmacy"
@@ -1378,7 +1372,6 @@
                 "name": "Alba Nr 3",
                 "addr:street": "Leśne",
                 "addr:housenumber": "1A",
-                "addr:flats": "8",
                 "addr:city": "Koziegłowy",
                 "addr:postcode": "62-028",
                 "amenity": "pharmacy"
@@ -1417,7 +1410,6 @@
                 "name": "\"Apteka \"\"W Pasażu\"\"\"",
                 "addr:street": "Graniczna",
                 "addr:housenumber": "63",
-                "addr:flats": "19",
                 "addr:city": "Swarzędz",
                 "addr:postcode": "62-020",
                 "amenity": "pharmacy"
@@ -1551,7 +1543,6 @@
                 "name": "Przyjazna",
                 "addr:street": "CIESZKOWSKIEGO",
                 "addr:housenumber": "5",
-                "addr:flats": "7",
                 "addr:city": "SWARZĘDZ",
                 "addr:postcode": "62-020",
                 "amenity": "pharmacy"
@@ -1647,7 +1638,6 @@
                 "name": "Przyjazna",
                 "addr:street": "Augusta Cieszkowskiego",
                 "addr:housenumber": "100/102",
-                "addr:flats": "4",
                 "addr:city": "Swarzędz",
                 "addr:postcode": "62-020",
                 "amenity": "pharmacy"
@@ -1686,7 +1676,6 @@
                 "name": "Św. Kamila",
                 "addr:street": "Zygmunta  Grudzińskiego",
                 "addr:housenumber": "7",
-                "addr:flats": "3",
                 "addr:city": "Swarzędz",
                 "addr:postcode": "62-020",
                 "amenity": "pharmacy"
@@ -1744,7 +1733,6 @@
                 "name": "Nowa",
                 "addr:street": "Graniczna",
                 "addr:housenumber": "55",
-                "addr:flats": "2",
                 "addr:city": "Swarzędz",
                 "addr:postcode": "62-020",
                 "amenity": "pharmacy"
@@ -1840,7 +1828,6 @@
                 "name": "Vita-Pharm",
                 "addr:street": "Poznańska",
                 "addr:housenumber": "6",
-                "addr:flats": "001A",
                 "addr:city": "Jasin",
                 "addr:postcode": "62-020",
                 "amenity": "pharmacy"
@@ -1955,7 +1942,6 @@
                 "name": "Parkowa",
                 "addr:street": "Krotowskiego",
                 "addr:housenumber": "16a",
-                "addr:flats": "55",
                 "addr:city": "Mosina",
                 "addr:postcode": "62-050",
                 "amenity": "pharmacy"
@@ -2580,7 +2566,6 @@
                 "name": "\"'Amfora' W Kamionkach\"",
                 "addr:street": "Poznańska",
                 "addr:housenumber": "150",
-                "addr:flats": "2",
                 "addr:city": "Kamionki",
                 "addr:postcode": "62-023",
                 "amenity": "pharmacy"

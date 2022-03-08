@@ -65,7 +65,6 @@
                 "name": "Dbam O Zdrowie",
                 "addr:street": "Aleja Komisji Edukacji Narodowej",
                 "addr:housenumber": "52",
-                "addr:flats": "\"6, 7\"",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-797",
                 "amenity": "pharmacy"
@@ -85,7 +84,6 @@
                 "name": "Przy Stryjeńskich",
                 "addr:street": "Stryjeńskich",
                 "addr:housenumber": "19",
-                "addr:flats": "9",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-791",
                 "amenity": "pharmacy"
@@ -142,7 +140,6 @@
                 "name": "Ziko",
                 "addr:street": "Aleja Komisji Edukacji Narodowej",
                 "addr:housenumber": "19",
-                "addr:flats": "2.1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-797",
                 "amenity": "pharmacy"
@@ -180,7 +177,6 @@
                 "ref:csioz": 1226326,
                 "addr:street": "Belgradzka",
                 "addr:housenumber": "3",
-                "addr:flats": "UH6",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-793",
                 "amenity": "pharmacy"
@@ -219,7 +215,6 @@
                 "name": "Z Uśmiechem",
                 "addr:street": "Indiry Gandhi",
                 "addr:housenumber": "35",
-                "addr:flats": "U07",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-776",
                 "amenity": "pharmacy"
@@ -277,7 +272,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Wąwozowa",
                 "addr:housenumber": "32",
-                "addr:flats": "U5",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-796",
                 "amenity": "pharmacy"
@@ -316,7 +310,6 @@
                 "name": "Ziko",
                 "addr:street": "Aleja Jerzego Waszyngtona",
                 "addr:housenumber": "2A",
-                "addr:flats": "2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-910",
                 "amenity": "pharmacy"
@@ -374,7 +367,6 @@
                 "name": "Apteka Cosmedica",
                 "addr:street": "Terespolska",
                 "addr:housenumber": "4",
-                "addr:flats": "512-514",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-813",
                 "amenity": "pharmacy"
@@ -579,7 +571,6 @@
                 "name": "Amica",
                 "addr:street": "Korkowa",
                 "addr:housenumber": "29",
-                "addr:flats": "U1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-502",
                 "amenity": "pharmacy"
@@ -861,7 +852,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "Kazimierza Szpotańskiego",
                 "addr:housenumber": "4",
-                "addr:flats": "025",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-760",
                 "amenity": "pharmacy"
@@ -1067,7 +1057,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Patriotów",
                 "addr:housenumber": "110",
-                "addr:flats": "14",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-844",
                 "amenity": "pharmacy"
@@ -1254,7 +1243,6 @@
                 "ref:csioz": 1170948,
                 "addr:street": "Bursztynowa",
                 "addr:housenumber": "2",
-                "addr:flats": "F",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-749",
                 "amenity": "pharmacy"
@@ -1292,7 +1280,6 @@
                 "ref:csioz": 1223851,
                 "addr:street": "Jana Pawła II",
                 "addr:housenumber": "25",
-                "addr:flats": "U4C1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "05-077",
                 "amenity": "pharmacy"
@@ -1312,7 +1299,6 @@
                 "name": "Świat Zdrowia",
                 "addr:street": "Pociskowa",
                 "addr:housenumber": "4",
-                "addr:flats": "1.07",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-471",
                 "amenity": "pharmacy"
@@ -1445,7 +1431,6 @@
                 "name": "Wawa",
                 "addr:street": "Światowida",
                 "addr:housenumber": "47",
-                "addr:flats": "10",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-144",
                 "amenity": "pharmacy"
@@ -1521,7 +1506,6 @@
                 "name": "Super-Pharm",
                 "addr:street": "Malborska",
                 "addr:housenumber": "51/53",
-                "addr:flats": "A6",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-286",
                 "amenity": "pharmacy"
@@ -1560,7 +1544,6 @@
                 "name": "Ziko",
                 "addr:street": "Odkryta",
                 "addr:housenumber": "4",
-                "addr:flats": "A",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-140",
                 "amenity": "pharmacy"
@@ -1599,7 +1582,6 @@
                 "name": "Super-Pharm",
                 "addr:street": "Światowida",
                 "addr:housenumber": "17",
-                "addr:flats": "L0-041",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-144",
                 "amenity": "pharmacy"
@@ -1695,7 +1677,6 @@
                 "name": "Nasza",
                 "addr:street": "Przy Agorze",
                 "addr:housenumber": "17",
-                "addr:flats": "1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-960",
                 "amenity": "pharmacy"
@@ -1733,7 +1714,6 @@
                 "name": "Nasza",
                 "addr:street": "Przy Agorze",
                 "addr:housenumber": "28",
-                "addr:flats": "4",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-930",
                 "amenity": "pharmacy"
@@ -1771,7 +1751,6 @@
                 "name": "Apteka Doz Dbam O Zdrowie",
                 "addr:street": "Jana Kasprowicza",
                 "addr:housenumber": "119A",
-                "addr:flats": "2U/3U",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-949",
                 "amenity": "pharmacy"
@@ -1791,7 +1770,6 @@
                 "name": "Klasyków",
                 "addr:street": "Krokwi",
                 "addr:housenumber": "36",
-                "addr:flats": "\"U-6,U-7\"",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-114",
                 "amenity": "pharmacy"
@@ -1906,7 +1884,6 @@
                 "name": "Hibiskus",
                 "addr:street": "Malborska",
                 "addr:housenumber": "1",
-                "addr:flats": "14/1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-286",
                 "amenity": "pharmacy"
@@ -1926,7 +1903,6 @@
                 "name": "Medica Vision Szpital Jednodniowy",
                 "addr:street": "Odkryta",
                 "addr:housenumber": "44B",
-                "addr:flats": "A-1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-140",
                 "amenity": "pharmacy"
@@ -2060,7 +2036,6 @@
                 "name": "Ziko",
                 "addr:street": "Ludwika Kondratowicza",
                 "addr:housenumber": "37",
-                "addr:flats": "AP.1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-285",
                 "amenity": "pharmacy"
@@ -2265,7 +2240,6 @@
                 "name": "Prima",
                 "addr:street": "Wyspowa",
                 "addr:housenumber": "2",
-                "addr:flats": "4",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-687",
                 "amenity": "pharmacy"
@@ -2304,7 +2278,6 @@
                 "name": "Ziko",
                 "addr:street": "Jana Kasprowicza",
                 "addr:housenumber": "68",
-                "addr:flats": "1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-949",
                 "amenity": "pharmacy"
@@ -2343,7 +2316,6 @@
                 "name": "Amica",
                 "addr:street": "św. Wincentego",
                 "addr:housenumber": "54",
-                "addr:flats": "\"22,22A\"",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-530",
                 "amenity": "pharmacy"
@@ -2420,7 +2392,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Modlińska",
                 "addr:housenumber": "8",
-                "addr:flats": "S11",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-053",
                 "amenity": "pharmacy"
@@ -2459,7 +2430,6 @@
                 "name": "Bliska",
                 "addr:street": "Zamkowa",
                 "addr:housenumber": "8",
-                "addr:flats": "\"U3, U4\"",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-890",
                 "amenity": "pharmacy"
@@ -2536,7 +2506,6 @@
                 "name": "Ziko",
                 "addr:street": "Jana Kasprowicza",
                 "addr:housenumber": "119",
-                "addr:flats": "U7 i U8",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-949",
                 "amenity": "pharmacy"
@@ -2556,7 +2525,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Stefana Żeromskiego",
                 "addr:housenumber": "1",
-                "addr:flats": "U10",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-887",
                 "amenity": "pharmacy"
@@ -2633,7 +2601,6 @@
                 "name": "Dbam O Zdrowie",
                 "addr:street": "Heroldów",
                 "addr:housenumber": "19E",
-                "addr:flats": "9",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-991",
                 "amenity": "pharmacy"
@@ -2803,7 +2770,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Potocka",
                 "addr:housenumber": "14",
-                "addr:flats": "6",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-652",
                 "amenity": "pharmacy"
@@ -2918,7 +2884,6 @@
                 "name": "Non Stop",
                 "addr:street": "Magiczna",
                 "addr:housenumber": "4",
-                "addr:flats": "B 07",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-289",
                 "amenity": "pharmacy"
@@ -2957,7 +2922,6 @@
                 "name": "Nowa",
                 "addr:street": "Ludwika Kondratowicza",
                 "addr:housenumber": "11",
-                "addr:flats": "U6",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-242",
                 "amenity": "pharmacy"
@@ -2996,7 +2960,6 @@
                 "name": "Lekoteka",
                 "addr:street": "Jana Kasprowicza",
                 "addr:housenumber": "53",
-                "addr:flats": "A",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-836",
                 "amenity": "pharmacy"
@@ -3016,7 +2979,6 @@
                 "name": "Miro",
                 "addr:street": "Bazyliańska",
                 "addr:housenumber": "1",
-                "addr:flats": "2 i 3",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-203",
                 "amenity": "pharmacy"
@@ -3112,7 +3074,6 @@
                 "name": "Z Uśmiechem",
                 "addr:street": "Montwiłłowska",
                 "addr:housenumber": "2",
-                "addr:flats": "\"U-4, U-5\"",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-890",
                 "amenity": "pharmacy"
@@ -3150,7 +3111,6 @@
                 "ref:csioz": 1213036,
                 "addr:street": "Światowida",
                 "addr:housenumber": "57",
-                "addr:flats": "7U",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-144",
                 "amenity": "pharmacy"
@@ -3189,7 +3149,6 @@
                 "name": "Hibiskus",
                 "addr:street": "Ludwika Kondratowicza",
                 "addr:housenumber": "37",
-                "addr:flats": "AL.1.4",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-285",
                 "amenity": "pharmacy"
@@ -3208,7 +3167,6 @@
                 "ref:csioz": 1222522,
                 "addr:street": "Dalanowska",
                 "addr:housenumber": "46",
-                "addr:flats": "U1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-566",
                 "amenity": "pharmacy"
@@ -3228,7 +3186,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "Głębocka",
                 "addr:housenumber": "15",
-                "addr:flats": "76",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-287",
                 "amenity": "pharmacy"
@@ -3267,7 +3224,6 @@
                 "name": "Słoneczna",
                 "addr:street": "Przy Agorze",
                 "addr:housenumber": "28",
-                "addr:flats": "U1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-930",
                 "amenity": "pharmacy"
@@ -3325,7 +3281,6 @@
                 "name": "Apteka Europejska",
                 "addr:street": "\"Zgrupowania AK \"\"Kampinos\"\"\"",
                 "addr:housenumber": "15",
-                "addr:flats": "031",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-943",
                 "amenity": "pharmacy"
@@ -3345,7 +3300,6 @@
                 "name": "Apteka Świat Zdrowia Luiza Tąkiel",
                 "addr:street": "Jana Kowalczyka",
                 "addr:housenumber": "11",
-                "addr:flats": "11G",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-193",
                 "amenity": "pharmacy"
@@ -3497,7 +3451,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Aleja Niepodległości",
                 "addr:housenumber": "107/109",
-                "addr:flats": "127",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-626",
                 "amenity": "pharmacy"
@@ -4357,7 +4310,6 @@
                 "name": "Ludzka",
                 "addr:street": "Obrzeżna",
                 "addr:housenumber": "5C",
-                "addr:flats": "U1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-691",
                 "amenity": "pharmacy"
@@ -4526,7 +4478,6 @@
                 "name": "K&D",
                 "addr:street": "Grójecka",
                 "addr:housenumber": "194",
-                "addr:flats": "U16",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-390",
                 "amenity": "pharmacy"
@@ -4546,7 +4497,6 @@
                 "name": "Leśna",
                 "addr:street": "Obrońców Tobruku",
                 "addr:housenumber": "29",
-                "addr:flats": "177",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-494",
                 "amenity": "pharmacy"
@@ -4641,7 +4591,6 @@
                 "ref:csioz": 1115804,
                 "addr:street": "Łucka",
                 "addr:housenumber": "20",
-                "addr:flats": "19",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-845",
                 "amenity": "pharmacy"
@@ -4680,7 +4629,6 @@
                 "name": "Pharmedil S.C",
                 "addr:street": "Aleja Wilanowska",
                 "addr:housenumber": "9",
-                "addr:flats": "2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-765",
                 "amenity": "pharmacy"
@@ -4719,7 +4667,6 @@
                 "name": "Super-Pharm",
                 "addr:street": "Okopowa",
                 "addr:housenumber": "58/72",
-                "addr:flats": "0-05A",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-042",
                 "amenity": "pharmacy"
@@ -4833,7 +4780,6 @@
                 "name": "Krajmed Centrum Nowoczesnej Laryngologii W Warszawie",
                 "addr:street": "Wałbrzyska",
                 "addr:housenumber": "11",
-                "addr:flats": "\"55, 56\"",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-739",
                 "amenity": "pharmacy"
@@ -4853,7 +4799,6 @@
                 "name": "Bliska",
                 "addr:street": "Sokołowska",
                 "addr:housenumber": "9",
-                "addr:flats": "U20",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-142",
                 "amenity": "pharmacy"
@@ -4873,7 +4818,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "Powsińska",
                 "addr:housenumber": "31",
-                "addr:flats": "138-139",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-903",
                 "amenity": "pharmacy"
@@ -4893,7 +4837,6 @@
                 "name": "Gold",
                 "addr:street": "Pokorna",
                 "addr:housenumber": "2",
-                "addr:flats": "U03",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-199",
                 "amenity": "pharmacy"
@@ -4970,7 +4913,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "Zamieniecka",
                 "addr:housenumber": "90",
-                "addr:flats": "61",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-158",
                 "amenity": "pharmacy"
@@ -5009,7 +4951,6 @@
                 "name": "Gold.Pl",
                 "addr:street": "gen. Tadeusza Pełczyńskiego",
                 "addr:housenumber": "32",
-                "addr:flats": "U-05",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-471",
                 "amenity": "pharmacy"
@@ -5029,7 +4970,6 @@
                 "name": "Farmacja24",
                 "addr:street": "Aleja Stanów Zjednoczonych",
                 "addr:housenumber": "72",
-                "addr:flats": "8",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-036",
                 "amenity": "pharmacy"
@@ -5049,7 +4989,6 @@
                 "name": "Amica",
                 "addr:street": "Kinowa",
                 "addr:housenumber": "19",
-                "addr:flats": "5",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-030",
                 "amenity": "pharmacy"
@@ -5088,7 +5027,6 @@
                 "name": "Ziko",
                 "addr:street": "Bukowińska",
                 "addr:housenumber": "22",
-                "addr:flats": "5H",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-703",
                 "amenity": "pharmacy"
@@ -5127,7 +5065,6 @@
                 "name": "Syrenka",
                 "addr:street": "Świetlików",
                 "addr:housenumber": "8",
-                "addr:flats": "210",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-389",
                 "amenity": "pharmacy"
@@ -5185,7 +5122,6 @@
                 "name": "Apteka Europejska",
                 "addr:street": "Krochmalna",
                 "addr:housenumber": "58",
-                "addr:flats": "U3",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-864",
                 "amenity": "pharmacy"
@@ -5279,7 +5215,6 @@
                 "ref:csioz": 1082419,
                 "addr:street": "Erazma Ciołka",
                 "addr:housenumber": "35",
-                "addr:flats": "42",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-445",
                 "amenity": "pharmacy"
@@ -5822,7 +5757,6 @@
                 "name": "Super-Pharm",
                 "addr:street": "Złota",
                 "addr:housenumber": "59",
-                "addr:flats": "19",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-819",
                 "amenity": "pharmacy"
@@ -5861,7 +5795,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "Bolesława Limanowskiego",
                 "addr:housenumber": "11",
-                "addr:flats": "11",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-943",
                 "amenity": "pharmacy"
@@ -5881,7 +5814,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Powstańców Śląskich",
                 "addr:housenumber": "106 D",
-                "addr:flats": "204",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-466",
                 "amenity": "pharmacy"
@@ -5939,7 +5871,6 @@
                 "name": "Ziko",
                 "addr:street": "Puławska",
                 "addr:housenumber": "101A",
-                "addr:flats": "21",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-595",
                 "amenity": "pharmacy"
@@ -6016,7 +5947,6 @@
                 "name": "Aptekarz Warszawski",
                 "addr:street": "Aleje Jerozolimskie",
                 "addr:housenumber": "21",
-                "addr:flats": "1U-8",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-508",
                 "amenity": "pharmacy"
@@ -6188,7 +6118,6 @@
                 "name": "Alchemia",
                 "addr:street": "gen. Tadeusza Bora-Komorowskiego",
                 "addr:housenumber": "56B",
-                "addr:flats": "U21",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-982",
                 "amenity": "pharmacy"
@@ -6226,7 +6155,6 @@
                 "name": "Pogodna",
                 "addr:street": "Kobielska",
                 "addr:housenumber": "23",
-                "addr:flats": "A01",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-359",
                 "amenity": "pharmacy"
@@ -6284,7 +6212,6 @@
                 "name": "Główna",
                 "addr:street": "gen. Romana Abrahama",
                 "addr:housenumber": "18",
-                "addr:flats": "310",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-982",
                 "amenity": "pharmacy"
@@ -6304,7 +6231,6 @@
                 "name": "Ziko Apteka Tanie Leki",
                 "addr:street": "Powstańców Śląskich",
                 "addr:housenumber": "126",
-                "addr:flats": "16/17",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-466",
                 "amenity": "pharmacy"
@@ -6514,7 +6440,6 @@
                 "name": "Max",
                 "addr:street": "Antoniego Edwarda Odyńca",
                 "addr:housenumber": "73",
-                "addr:flats": "2U-40",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-644",
                 "amenity": "pharmacy"
@@ -6534,7 +6459,6 @@
                 "name": "Super-Pharm",
                 "addr:street": "Puławska",
                 "addr:housenumber": "23/25",
-                "addr:flats": "U-001",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-515",
                 "amenity": "pharmacy"
@@ -6573,7 +6497,6 @@
                 "name": "Z Universamu",
                 "addr:street": "Aleja Stanów Zjednoczonych",
                 "addr:housenumber": "72",
-                "addr:flats": "9",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-036",
                 "amenity": "pharmacy"
@@ -6593,7 +6516,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Aleja Wilanowska",
                 "addr:housenumber": "89",
-                "addr:flats": "U2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-900",
                 "amenity": "pharmacy"
@@ -6613,7 +6535,6 @@
                 "name": "Centrum Medyczne Mml Szpital",
                 "addr:street": "Bagno",
                 "addr:housenumber": "2",
-                "addr:flats": "\"wejście E, lok. 3\"",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-112",
                 "amenity": "pharmacy"
@@ -6690,7 +6611,6 @@
                 "name": "Główna",
                 "addr:street": "Chełmska",
                 "addr:housenumber": "50",
-                "addr:flats": "77",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-725",
                 "amenity": "pharmacy"
@@ -6767,7 +6687,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Zygmunta Vogla",
                 "addr:housenumber": "62",
-                "addr:flats": "09",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-990",
                 "amenity": "pharmacy"
@@ -6882,7 +6801,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Adama Naruszewicza",
                 "addr:housenumber": "30",
-                "addr:flats": "U3",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-627",
                 "amenity": "pharmacy"
@@ -6959,7 +6877,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Ząbkowska",
                 "addr:housenumber": "22/24/26",
-                "addr:flats": "147",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-735",
                 "amenity": "pharmacy"
@@ -7036,7 +6953,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "Józefa Sowińskiego",
                 "addr:housenumber": "53D",
-                "addr:flats": "\"U14, U15\"",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-105",
                 "amenity": "pharmacy"
@@ -7056,7 +6972,6 @@
                 "name": "Super-Pharm",
                 "addr:street": "gen. Felicjana Sławoja Składkowskiego",
                 "addr:housenumber": "4",
-                "addr:flats": "A04",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-497",
                 "amenity": "pharmacy"
@@ -7076,7 +6991,6 @@
                 "name": "Farmacja 24",
                 "addr:street": "Jutrzenki",
                 "addr:housenumber": "156",
-                "addr:flats": "005",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-231",
                 "amenity": "pharmacy"
@@ -7115,7 +7029,6 @@
                 "name": "Namex",
                 "addr:street": "gen. Tadeusza Bora-Komorowskiego",
                 "addr:housenumber": "4",
-                "addr:flats": "201",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-982",
                 "amenity": "pharmacy"
@@ -7135,7 +7048,6 @@
                 "name": "Namex",
                 "addr:street": "Franciszka Kawy",
                 "addr:housenumber": "44",
-                "addr:flats": "5",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-496",
                 "amenity": "pharmacy"
@@ -7155,7 +7067,6 @@
                 "name": "Ziko",
                 "addr:street": "Obozowa",
                 "addr:housenumber": "16",
-                "addr:flats": "U2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-161",
                 "amenity": "pharmacy"
@@ -7175,7 +7086,6 @@
                 "name": "Super-Pharm",
                 "addr:street": "Targowa",
                 "addr:housenumber": "68",
-                "addr:flats": "A1/0.02.",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-734",
                 "amenity": "pharmacy"
@@ -7214,7 +7124,6 @@
                 "name": "Słoneczna",
                 "addr:street": "Skierniewicka",
                 "addr:housenumber": "21",
-                "addr:flats": "8C",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-230",
                 "amenity": "pharmacy"
@@ -7233,7 +7142,6 @@
                 "ref:csioz": 1219914,
                 "addr:street": "Jana Kazimierza",
                 "addr:housenumber": "45",
-                "addr:flats": "1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-248",
                 "amenity": "pharmacy"
@@ -7329,7 +7237,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Aleja Jana Pawła II",
                 "addr:housenumber": "78",
-                "addr:flats": "27",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-175",
                 "amenity": "pharmacy"
@@ -7463,7 +7370,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Krucza",
                 "addr:housenumber": "50",
-                "addr:flats": "8",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-025",
                 "amenity": "pharmacy"
@@ -7597,7 +7503,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "\"gen. Augusta Emila Fieldorfa \"\"Nila\"\"\"",
                 "addr:housenumber": "41",
-                "addr:flats": "0.004A",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-125",
                 "amenity": "pharmacy"
@@ -8119,7 +8024,6 @@
                 "ref:csioz": 1084206,
                 "addr:street": "Poligonowa",
                 "addr:housenumber": "1",
-                "addr:flats": "2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-051",
                 "amenity": "pharmacy"
@@ -8250,7 +8154,6 @@
                 "name": "Dbam O Zdrowie",
                 "addr:street": "Sandomierska",
                 "addr:housenumber": "5",
-                "addr:flats": "7",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-567",
                 "amenity": "pharmacy"
@@ -8476,7 +8379,6 @@
                 "name": "Miro",
                 "addr:street": "Plac Mirowski",
                 "addr:housenumber": "1",
-                "addr:flats": "I/Z",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-138",
                 "amenity": "pharmacy"
@@ -8590,7 +8492,6 @@
                 "name": "Orchis Małgorzata Górska",
                 "addr:street": "Środkowa",
                 "addr:housenumber": "30",
-                "addr:flats": "3",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-431",
                 "amenity": "pharmacy"
@@ -8724,7 +8625,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "\"gen. Augusta Emila Fieldorfa \"\"Nila\"\"\"",
                 "addr:housenumber": "10A",
-                "addr:flats": "U14/U15",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-984",
                 "amenity": "pharmacy"
@@ -8763,7 +8663,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "Mokotowska",
                 "addr:housenumber": "27",
-                "addr:flats": "1 i 4",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-560",
                 "amenity": "pharmacy"
@@ -8840,7 +8739,6 @@
                 "name": "Ziko",
                 "addr:street": "Marcina Kasprzaka",
                 "addr:housenumber": "24",
-                "addr:flats": "9",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-211",
                 "amenity": "pharmacy"
@@ -8992,7 +8890,6 @@
                 "name": "Amica",
                 "addr:street": "Terespolska",
                 "addr:housenumber": "4",
-                "addr:flats": "502",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-813",
                 "amenity": "pharmacy"
@@ -9030,7 +8927,6 @@
                 "name": "Moje Zdrowie",
                 "addr:street": "Stanisława Staszica",
                 "addr:housenumber": "4",
-                "addr:flats": "LU1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-188",
                 "amenity": "pharmacy"
@@ -9050,7 +8946,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Czerska",
                 "addr:housenumber": "18",
-                "addr:flats": "2U",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-732",
                 "amenity": "pharmacy"
@@ -9145,7 +9040,6 @@
                 "name": "Nasza",
                 "addr:street": "Gdańska",
                 "addr:housenumber": "2",
-                "addr:flats": "43",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-633",
                 "amenity": "pharmacy"
@@ -9165,7 +9059,6 @@
                 "name": "Namex",
                 "addr:street": "Meksykańska",
                 "addr:housenumber": "8",
-                "addr:flats": "20",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-948",
                 "amenity": "pharmacy"
@@ -9242,7 +9135,6 @@
                 "name": "Alfa",
                 "addr:street": "Grenadierów",
                 "addr:housenumber": "34",
-                "addr:flats": "U-12",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-073",
                 "amenity": "pharmacy"
@@ -9300,7 +9192,6 @@
                 "name": "Z Uśmiechem",
                 "addr:street": "Jana Kochanowskiego",
                 "addr:housenumber": "23",
-                "addr:flats": "H-2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-864",
                 "amenity": "pharmacy"
@@ -9358,7 +9249,6 @@
                 "name": "Z Universamu",
                 "addr:street": "Tadeusza Krępowieckiego",
                 "addr:housenumber": "10",
-                "addr:flats": "\"U5, U6\"",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-456",
                 "amenity": "pharmacy"
@@ -9378,7 +9268,6 @@
                 "name": "Ziko",
                 "addr:street": "Grochowska",
                 "addr:housenumber": "174/176",
-                "addr:flats": "U-5",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-357",
                 "amenity": "pharmacy"
@@ -9397,7 +9286,6 @@
                 "ref:csioz": 1202653,
                 "addr:street": "Opaczewska",
                 "addr:housenumber": "19",
-                "addr:flats": "B",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-372",
                 "amenity": "pharmacy"
@@ -9436,7 +9324,6 @@
                 "name": "Znajoma",
                 "addr:street": "Bluszczańska",
                 "addr:housenumber": "69",
-                "addr:flats": "U3",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-712",
                 "amenity": "pharmacy"
@@ -9456,7 +9343,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Plac gen. Józefa Hallera",
                 "addr:housenumber": "9",
-                "addr:flats": "138",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-464",
                 "amenity": "pharmacy"
@@ -9476,7 +9362,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "Wileńska",
                 "addr:housenumber": "14",
-                "addr:flats": "1C",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-414",
                 "amenity": "pharmacy"
@@ -9496,7 +9381,6 @@
                 "name": "Rakowiecka",
                 "addr:street": "Rakowiecka",
                 "addr:housenumber": "2B",
-                "addr:flats": "74",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-517",
                 "amenity": "pharmacy"
@@ -9909,7 +9793,6 @@
                 "name": "Nasza",
                 "addr:street": "Adama Mickiewicza",
                 "addr:housenumber": "18",
-                "addr:flats": "11/17",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-517",
                 "amenity": "pharmacy"
@@ -10173,7 +10056,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Targowa",
                 "addr:housenumber": "72",
-                "addr:flats": "14",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-734",
                 "amenity": "pharmacy"
@@ -10231,7 +10113,6 @@
                 "name": "Apteka Przy Zawiszy",
                 "addr:street": "Zawiszy",
                 "addr:housenumber": "16",
-                "addr:flats": "K",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-167",
                 "amenity": "pharmacy"
@@ -10270,7 +10151,6 @@
                 "name": "Franciszkańska",
                 "addr:street": "Franciszkańska",
                 "addr:housenumber": "14",
-                "addr:flats": "102",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-214",
                 "amenity": "pharmacy"
@@ -10309,7 +10189,6 @@
                 "name": "Ziko",
                 "addr:street": "Aleja Jana Pawła II",
                 "addr:housenumber": "45A",
-                "addr:flats": "\"39,40,41\"",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-108",
                 "amenity": "pharmacy"
@@ -10500,7 +10379,6 @@
                 "name": "\"Cef@Rm 36,6\"",
                 "addr:street": "Łukowska",
                 "addr:housenumber": "16",
-                "addr:flats": "5 i 6",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-133",
                 "amenity": "pharmacy"
@@ -10538,7 +10416,6 @@
                 "name": "Super-Pharm",
                 "addr:street": "Marszałkowska",
                 "addr:housenumber": "28A",
-                "addr:flats": "1U-42",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-576",
                 "amenity": "pharmacy"
@@ -10577,7 +10454,6 @@
                 "name": "Dbam O Zdrowie",
                 "addr:street": "Aleje Jerozolimskie",
                 "addr:housenumber": "54",
-                "addr:flats": "H 02",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-024",
                 "amenity": "pharmacy"
@@ -10635,7 +10511,6 @@
                 "name": "Ziko",
                 "addr:street": "Grójecka",
                 "addr:housenumber": "17",
-                "addr:flats": "2A",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-021",
                 "amenity": "pharmacy"
@@ -10844,7 +10719,6 @@
                 "name": "Miro",
                 "addr:street": "Zamieniecka",
                 "addr:housenumber": "54",
-                "addr:flats": "1/2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-158",
                 "amenity": "pharmacy"
@@ -10902,7 +10776,6 @@
                 "name": "Extra!",
                 "addr:street": "Antoniego Edwarda Odyńca",
                 "addr:housenumber": "71",
-                "addr:flats": "67",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-644",
                 "amenity": "pharmacy"
@@ -10960,7 +10833,6 @@
                 "name": "Wawa",
                 "addr:street": "stacja metra Centrum",
                 "addr:housenumber": "A-13",
-                "addr:flats": "1049",
                 "addr:city": "Warszawa",
                 "addr:postcode": "00-110",
                 "amenity": "pharmacy"
@@ -10999,7 +10871,6 @@
                 "name": "K&D",
                 "addr:street": "Jana Kazimierza",
                 "addr:housenumber": "7",
-                "addr:flats": "U2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-248",
                 "amenity": "pharmacy"
@@ -11057,7 +10928,6 @@
                 "name": "Hibiskus",
                 "addr:street": "Josepha Conrada",
                 "addr:housenumber": "15A",
-                "addr:flats": "1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-922",
                 "amenity": "pharmacy"
@@ -11077,7 +10947,6 @@
                 "name": "Słoneczna",
                 "addr:street": "Puławska",
                 "addr:housenumber": "71",
-                "addr:flats": "43",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-595",
                 "amenity": "pharmacy"
@@ -11097,7 +10966,6 @@
                 "name": "Namex",
                 "addr:street": "Grochowska",
                 "addr:housenumber": "200",
-                "addr:flats": "\"I, II\"",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-357",
                 "amenity": "pharmacy"
@@ -11155,7 +11023,6 @@
                 "name": "Z Uśmiechem",
                 "addr:street": "Ostrobramska",
                 "addr:housenumber": "101",
-                "addr:flats": "101A",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-041",
                 "amenity": "pharmacy"
@@ -11213,7 +11080,6 @@
                 "name": "Hibiskus",
                 "addr:street": "Dąbrowszczaków",
                 "addr:housenumber": "12",
-                "addr:flats": "140",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-484",
                 "amenity": "pharmacy"
@@ -11233,7 +11099,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "Puławska",
                 "addr:housenumber": "2",
-                "addr:flats": "0.41 0.44",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-566",
                 "amenity": "pharmacy"
@@ -11253,7 +11118,6 @@
                 "name": "Włodarzewska",
                 "addr:street": "Włodarzewska",
                 "addr:housenumber": "55B",
-                "addr:flats": "2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-384",
                 "amenity": "pharmacy"
@@ -11463,7 +11327,6 @@
                 "name": "Non Stop",
                 "addr:street": "Józefa Sowińskiego",
                 "addr:housenumber": "25",
-                "addr:flats": "U8",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-105",
                 "amenity": "pharmacy"
@@ -11521,7 +11384,6 @@
                 "name": "Namex",
                 "addr:street": "Borzymowska",
                 "addr:housenumber": "31",
-                "addr:flats": "U1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-565",
                 "amenity": "pharmacy"
@@ -11540,7 +11402,6 @@
                 "ref:csioz": 1219909,
                 "addr:street": "Juliana Ursyna Niemcewicza",
                 "addr:housenumber": "17",
-                "addr:flats": "U5",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-306",
                 "amenity": "pharmacy"
@@ -11560,7 +11421,6 @@
                 "name": "Bliska",
                 "addr:street": "Kamionkowska",
                 "addr:housenumber": "19",
-                "addr:flats": "U1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-805",
                 "amenity": "pharmacy"
@@ -11618,7 +11478,6 @@
                 "name": "Syrenka",
                 "addr:street": "Zygmunta Krasińskiego",
                 "addr:housenumber": "58",
-                "addr:flats": "U2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-755",
                 "amenity": "pharmacy"
@@ -11638,7 +11497,6 @@
                 "name": "Super-Pharm",
                 "addr:street": "Kijowska",
                 "addr:housenumber": "20",
-                "addr:flats": "0.06",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-743",
                 "amenity": "pharmacy"
@@ -11657,7 +11515,6 @@
                 "ref:csioz": 1222248,
                 "addr:street": "Jana Nowaka-Jeziorańskiego",
                 "addr:housenumber": "44",
-                "addr:flats": "U3",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-982",
                 "amenity": "pharmacy"
@@ -11694,7 +11551,6 @@
                 "ref:csioz": 1225050,
                 "addr:street": "Siedmiogrodzka",
                 "addr:housenumber": "1",
-                "addr:flats": "U10",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-204",
                 "amenity": "pharmacy"
@@ -11713,7 +11569,6 @@
                 "ref:csioz": 1226339,
                 "addr:street": "Przyokopowa",
                 "addr:housenumber": "33",
-                "addr:flats": "B2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-208",
                 "amenity": "pharmacy"
@@ -11771,7 +11626,6 @@
                 "name": "Nasmed Szpital Jednodniowy",
                 "addr:street": "Jana Nowaka-Jeziorańskiego",
                 "addr:housenumber": "7",
-                "addr:flats": "184",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-984",
                 "amenity": "pharmacy"
@@ -11791,7 +11645,6 @@
                 "name": "Revitalife Hospital",
                 "addr:street": "Tagore Rabindranatha",
                 "addr:housenumber": "3",
-                "addr:flats": "2.3",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-647",
                 "amenity": "pharmacy"
@@ -11848,7 +11701,6 @@
                 "name": "Dr. Max",
                 "addr:street": "\"Aleja \"\"Solidarności\"\"\"",
                 "addr:housenumber": "67",
-                "addr:flats": "F",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-401",
                 "amenity": "pharmacy"
@@ -11925,7 +11777,6 @@
                 "name": "Ziko",
                 "addr:street": "\"gen. Augusta Emila Fieldorfa \"\"Nila\"\"\"",
                 "addr:housenumber": "11",
-                "addr:flats": "0.14",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-984",
                 "amenity": "pharmacy"
@@ -11944,7 +11795,6 @@
                 "ref:csioz": 1230751,
                 "addr:street": "Szwedzka",
                 "addr:housenumber": "43",
-                "addr:flats": "U4",
                 "addr:city": "Warszawa",
                 "addr:postcode": "03-420",
                 "amenity": "pharmacy"
@@ -11964,7 +11814,6 @@
                 "name": "Euro-Apteka",
                 "addr:street": "Aleja Komisji Edukacji Narodowej",
                 "addr:housenumber": "83",
-                "addr:flats": "U 04",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-777",
                 "amenity": "pharmacy"
@@ -12003,7 +11852,6 @@
                 "name": "Przy Orle",
                 "addr:street": "Bukowińska",
                 "addr:housenumber": "22A",
-                "addr:flats": "1U",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-703",
                 "amenity": "pharmacy"
@@ -12059,7 +11907,6 @@
                 "ref:csioz": 1083393,
                 "addr:street": "Kazimierza Kuratowskiego",
                 "addr:housenumber": "6",
-                "addr:flats": "A",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-747",
                 "amenity": "pharmacy"
@@ -12172,7 +12019,6 @@
                 "name": "Farmacja +",
                 "addr:street": "Wawrzyńca Surowieckiego",
                 "addr:housenumber": "8",
-                "addr:flats": "U-808",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-785",
                 "amenity": "pharmacy"
@@ -12230,7 +12076,6 @@
                 "name": "Namex",
                 "addr:street": "Wincentego Rzymowskiego",
                 "addr:housenumber": "33",
-                "addr:flats": "U-1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-697",
                 "amenity": "pharmacy"
@@ -12250,7 +12095,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Kłobucka",
                 "addr:housenumber": "8B",
-                "addr:flats": "U2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-699",
                 "amenity": "pharmacy"
@@ -12458,7 +12302,6 @@
                 "name": "Doz. Dbam O Zdrowie. Ryżowa",
                 "addr:street": "Ryżowa",
                 "addr:housenumber": "44",
-                "addr:flats": "314",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-495",
                 "amenity": "pharmacy"
@@ -12497,7 +12340,6 @@
                 "name": "Doz Apteka. Dbam O Zdrowie. Radosna",
                 "addr:street": "Franciszka Klimczaka",
                 "addr:housenumber": "17",
-                "addr:flats": "205",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-797",
                 "amenity": "pharmacy"
@@ -12516,7 +12358,6 @@
                 "ref:csioz": 1116906,
                 "addr:street": "Aleja Rzeczypospolitej",
                 "addr:housenumber": "10",
-                "addr:flats": "41",
                 "addr:city": "Warszawa",
                 "addr:postcode": "04-603",
                 "amenity": "pharmacy"
@@ -12555,7 +12396,6 @@
                 "name": "Ziko",
                 "addr:street": "Aleja Niepodległości",
                 "addr:housenumber": "24/30",
-                "addr:flats": "8",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-653",
                 "amenity": "pharmacy"
@@ -12575,7 +12415,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Béli Bartóka",
                 "addr:housenumber": "8",
-                "addr:flats": "U/C",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-787",
                 "amenity": "pharmacy"
@@ -12595,7 +12434,6 @@
                 "name": "Słoneczna",
                 "addr:street": "Aleja Komisji Edukacji Narodowej",
                 "addr:housenumber": "98",
-                "addr:flats": "U-7",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-777",
                 "amenity": "pharmacy"
@@ -12615,7 +12453,6 @@
                 "name": "Super 24",
                 "addr:street": "Aleja Rzeczypospolitej",
                 "addr:housenumber": "14",
-                "addr:flats": "0.2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-972",
                 "amenity": "pharmacy"
@@ -12673,7 +12510,6 @@
                 "name": "Bliska",
                 "addr:street": "Adama Branickiego",
                 "addr:housenumber": "18",
-                "addr:flats": "U/E02",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-972",
                 "amenity": "pharmacy"
@@ -12712,7 +12548,6 @@
                 "name": "Namex",
                 "addr:street": "Aleja Wilanowska",
                 "addr:housenumber": "363",
-                "addr:flats": "51",
                 "addr:city": "Mokotów",
                 "addr:postcode": "02-665",
                 "amenity": "pharmacy"
@@ -12731,7 +12566,6 @@
                 "ref:csioz": 1218885,
                 "addr:street": "Aleja Rzeczypospolitej",
                 "addr:housenumber": "1",
-                "addr:flats": "U2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-972",
                 "amenity": "pharmacy"
@@ -12750,7 +12584,6 @@
                 "ref:csioz": 1221175,
                 "addr:street": "Aleja Wyścigowa",
                 "addr:housenumber": "14A",
-                "addr:flats": "\"U1, U2\"",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-681",
                 "amenity": "pharmacy"
@@ -12827,7 +12660,6 @@
                 "name": "Apteka Kabaty",
                 "addr:street": "Aleja Komisji Edukacji Narodowej",
                 "addr:housenumber": "22",
-                "addr:flats": "U-2",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-797",
                 "amenity": "pharmacy"
@@ -12920,7 +12752,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Aleja Komisji Edukacji Narodowej",
                 "addr:housenumber": "20",
-                "addr:flats": "U-4",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-797",
                 "amenity": "pharmacy"
@@ -12996,7 +12827,6 @@
                 "name": "Społeczna",
                 "addr:street": "Aleja Komisji Edukacji Narodowej",
                 "addr:housenumber": "55",
-                "addr:flats": "4",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-797",
                 "amenity": "pharmacy"
@@ -13016,7 +12846,6 @@
                 "name": "Niepubliczny Zakład Opieki Zdrowotnej Szpital Mazovia Leczenie Szpitalne",
                 "addr:street": "Aleja Komisji Edukacji Narodowej",
                 "addr:housenumber": "47",
-                "addr:flats": "U15",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-797",
                 "amenity": "pharmacy"
@@ -13036,7 +12865,6 @@
                 "name": "Viktoria",
                 "addr:street": "Kabacki Dukt",
                 "addr:housenumber": "18",
-                "addr:flats": "4",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-798",
                 "amenity": "pharmacy"
@@ -13319,7 +13147,6 @@
                 "name": "Ziko",
                 "addr:street": "Aleja Komisji Edukacji Narodowej",
                 "addr:housenumber": "83",
-                "addr:flats": "U9",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-777",
                 "amenity": "pharmacy"
@@ -13358,7 +13185,6 @@
                 "name": "Ziko",
                 "addr:street": "Belgradzka",
                 "addr:housenumber": "22",
-                "addr:flats": "U-1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-793",
                 "amenity": "pharmacy"
@@ -13378,7 +13204,6 @@
                 "name": "Ziko",
                 "addr:street": "Aleja Komisji Edukacji Narodowej",
                 "addr:housenumber": "57",
-                "addr:flats": "U1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-797",
                 "amenity": "pharmacy"
@@ -13398,7 +13223,6 @@
                 "name": "Farmacja 24",
                 "addr:street": "Wąwozowa",
                 "addr:housenumber": "11",
-                "addr:flats": "4",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-796",
                 "amenity": "pharmacy"
@@ -13418,7 +13242,6 @@
                 "name": "Trigon Orthopedia",
                 "addr:street": "Dereniowa",
                 "addr:housenumber": "2C",
-                "addr:flats": "226",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-776",
                 "amenity": "pharmacy"
@@ -13549,7 +13372,6 @@
                 "name": "Kolorowa",
                 "addr:street": "Kolorowa",
                 "addr:housenumber": "19",
-                "addr:flats": "137",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-495",
                 "amenity": "pharmacy"
@@ -13588,7 +13410,6 @@
                 "name": "Ziko",
                 "addr:street": "Władysława Jagiełły",
                 "addr:housenumber": "4",
-                "addr:flats": "U1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "02-495",
                 "amenity": "pharmacy"
@@ -13608,7 +13429,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Lazurowa",
                 "addr:housenumber": "69",
-                "addr:flats": "1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-314",
                 "amenity": "pharmacy"
@@ -13628,7 +13448,6 @@
                 "name": "Z Uśmiechem",
                 "addr:street": "Górczewska",
                 "addr:housenumber": "224",
-                "addr:flats": "U-1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-460",
                 "amenity": "pharmacy"
@@ -13723,7 +13542,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "gen. Tadeusza Pełczyńskiego",
                 "addr:housenumber": "32A",
-                "addr:flats": "1",
                 "addr:city": "Warszawa",
                 "addr:postcode": "01-471",
                 "amenity": "pharmacy"

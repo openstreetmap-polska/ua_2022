@@ -45,7 +45,6 @@
                 "ref:csioz": 1087871,
                 "addr:street": "Jagiellońska",
                 "addr:housenumber": "9D",
-                "addr:flats": "6",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
                 "amenity": "pharmacy"
@@ -233,7 +232,6 @@
                 "name": "Ziko",
                 "addr:street": "marsz. Józefa Piłsudskiego",
                 "addr:housenumber": "39",
-                "addr:flats": "6",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
                 "amenity": "pharmacy"
@@ -310,7 +308,6 @@
                 "name": "Z Uśmiechem",
                 "addr:street": "marsz. Józefa Piłsudskiego",
                 "addr:housenumber": "13",
-                "addr:flats": "1",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
                 "amenity": "pharmacy"
@@ -404,7 +401,6 @@
                 "name": "Afi",
                 "addr:street": "Rynek",
                 "addr:housenumber": "17",
-                "addr:flats": "1U",
                 "addr:city": "Serock",
                 "addr:postcode": "05-140",
                 "amenity": "pharmacy"
@@ -669,7 +665,6 @@
                 "name": "Ziko",
                 "addr:street": "Jerzego Siwińskiego",
                 "addr:housenumber": "11",
-                "addr:flats": "U2",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
                 "amenity": "pharmacy"
@@ -689,7 +684,6 @@
                 "name": "Punkt Apteczny Syrenka",
                 "addr:street": "Jana Kazimierza",
                 "addr:housenumber": "279",
-                "addr:flats": "7",
                 "addr:city": "Stanisławów Pierwszy",
                 "addr:postcode": "05-126",
                 "amenity": "pharmacy"
@@ -709,7 +703,6 @@
                 "name": "Syrenka",
                 "addr:street": "Pułtuska",
                 "addr:housenumber": "27",
-                "addr:flats": "2",
                 "addr:city": "Serock",
                 "addr:postcode": "05-140",
                 "amenity": "pharmacy"
@@ -729,7 +722,6 @@
                 "name": "Gemini",
                 "addr:street": "marsz. Józefa Piłsudskiego",
                 "addr:housenumber": "28",
-                "addr:flats": "U4 i U5",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
                 "amenity": "pharmacy"
@@ -749,7 +741,6 @@
                 "name": "Hebeapteka",
                 "addr:street": "marsz. Józefa Piłsudskiego",
                 "addr:housenumber": "31C",
-                "addr:flats": "7A",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
                 "amenity": "pharmacy"
@@ -826,7 +817,6 @@
                 "name": "Apteka Edyta Raczkowska",
                 "addr:street": "Akademijna",
                 "addr:housenumber": "8",
-                "addr:flats": "U1/U2",
                 "addr:city": "Jabłonna",
                 "addr:postcode": "05-110",
                 "amenity": "pharmacy"
@@ -846,7 +836,6 @@
                 "name": "Apteka Przy Rondzie",
                 "addr:street": "Stefana Kisielewskiego",
                 "addr:housenumber": "11",
-                "addr:flats": "3",
                 "addr:city": "Chotomów",
                 "addr:postcode": "05-123",
                 "amenity": "pharmacy"

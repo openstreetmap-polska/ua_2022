@@ -326,7 +326,6 @@
                 "name": "Farmacja 24",
                 "addr:street": "3 Maja",
                 "addr:housenumber": "31",
-                "addr:flats": "s1",
                 "addr:city": "Przemyśl",
                 "addr:postcode": "37-700",
                 "amenity": "pharmacy"
@@ -346,7 +345,6 @@
                 "name": "Farmacja 24",
                 "addr:street": "Wojciecha Brudzewskiego",
                 "addr:housenumber": "1",
-                "addr:flats": "0034",
                 "addr:city": "Przemyśl",
                 "addr:postcode": "37-700",
                 "amenity": "pharmacy"
@@ -535,7 +533,6 @@
                 "name": "Apteka Różana",
                 "addr:street": "Św. Jana Nepomucena",
                 "addr:housenumber": "13",
-                "addr:flats": "2/3",
                 "addr:city": "Przemyśl",
                 "addr:postcode": "37-700",
                 "amenity": "pharmacy"
@@ -650,7 +647,6 @@
                 "name": "Apteka Lafarma",
                 "addr:street": "Henryka Wieniawskiego",
                 "addr:housenumber": "28",
-                "addr:flats": "3",
                 "addr:city": "Przemyśl",
                 "addr:postcode": "37-700",
                 "amenity": "pharmacy"

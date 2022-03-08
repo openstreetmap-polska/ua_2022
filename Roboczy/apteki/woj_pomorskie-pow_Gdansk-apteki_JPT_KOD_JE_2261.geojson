@@ -444,7 +444,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Szeroka",
                 "addr:housenumber": "21",
-                "addr:flats": "22",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-835",
                 "amenity": "pharmacy"
@@ -464,7 +463,6 @@
                 "name": "Apteka Dyżurna Na Wałach",
                 "addr:street": "Wały Jagiellońskie",
                 "addr:housenumber": "28",
-                "addr:flats": "30",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-853",
                 "amenity": "pharmacy"
@@ -484,7 +482,6 @@
                 "name": "Ratuszowa",
                 "addr:street": "Długa",
                 "addr:housenumber": "54",
-                "addr:flats": "55",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-831",
                 "amenity": "pharmacy"
@@ -561,7 +558,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Targ Drzewny",
                 "addr:housenumber": "3",
-                "addr:flats": "7",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-886",
                 "amenity": "pharmacy"
@@ -843,7 +839,6 @@
                 "name": "Sanitas",
                 "addr:street": "gen. Leopolda Okulickiego",
                 "addr:housenumber": "2E",
-                "addr:flats": "10",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-041",
                 "amenity": "pharmacy"
@@ -1071,7 +1066,6 @@
                 "name": "Doz Apteka. Dbam O Zdrowie. Herba",
                 "addr:street": "Adama Mickiewicza",
                 "addr:housenumber": "1",
-                "addr:flats": "3",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-425",
                 "amenity": "pharmacy"
@@ -1091,7 +1085,6 @@
                 "name": "Antidotum",
                 "addr:street": "gen. Józefa Sowińskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "1 do 2",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-143",
                 "amenity": "pharmacy"
@@ -1149,7 +1142,6 @@
                 "name": "Polska",
                 "addr:street": "Jana Pawła II",
                 "addr:housenumber": "6D",
-                "addr:flats": "1 do 5",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-462",
                 "amenity": "pharmacy"
@@ -1302,7 +1294,6 @@
                 "name": "Trzy Żagle",
                 "addr:street": "Olsztyńska",
                 "addr:housenumber": "3C",
-                "addr:flats": "5",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-395",
                 "amenity": "pharmacy"
@@ -1645,7 +1636,6 @@
                 "name": "Avena",
                 "addr:street": "Piekarnicza",
                 "addr:housenumber": "3",
-                "addr:flats": "\"9,10\"",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-126",
                 "amenity": "pharmacy"
@@ -1778,7 +1768,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Franciszka Rakoczego",
                 "addr:housenumber": "\"9, 11\"",
-                "addr:flats": "\"U13, U14\"",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-288",
                 "amenity": "pharmacy"
@@ -1929,7 +1918,6 @@
                 "name": "Orlik",
                 "addr:street": "Władysława Cieszyńskiego",
                 "addr:housenumber": "38",
-                "addr:flats": "27",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-809",
                 "amenity": "pharmacy"
@@ -2061,7 +2049,6 @@
                 "name": "Jesionowa",
                 "addr:street": "Jesionowa",
                 "addr:housenumber": "2",
-                "addr:flats": "1",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-261",
                 "amenity": "pharmacy"
@@ -2081,7 +2068,6 @@
                 "name": "Przy Akademii",
                 "addr:street": "Marii Skłodowskiej-Curie",
                 "addr:housenumber": "3",
-                "addr:flats": "1",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-210",
                 "amenity": "pharmacy"
@@ -2101,7 +2087,6 @@
                 "name": "Apteka Oruńska Ii",
                 "addr:street": "Krzemowa",
                 "addr:housenumber": "16",
-                "addr:flats": "1",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-041",
                 "amenity": "pharmacy"
@@ -2443,7 +2428,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Wawelska",
                 "addr:housenumber": "23",
-                "addr:flats": "3C",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-034",
                 "amenity": "pharmacy"
@@ -2482,7 +2466,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Żwirki i Wigury",
                 "addr:housenumber": "12",
-                "addr:flats": "16",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-463",
                 "amenity": "pharmacy"
@@ -2540,7 +2523,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Żwirki i Wigury",
                 "addr:housenumber": "6",
-                "addr:flats": "1",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-463",
                 "amenity": "pharmacy"
@@ -2560,7 +2542,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Zbigniewa Burzyńskiego",
                 "addr:housenumber": "1",
-                "addr:flats": "2",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-462",
                 "amenity": "pharmacy"
@@ -2618,7 +2599,6 @@
                 "name": "Przyjazna",
                 "addr:street": "Pilotów",
                 "addr:housenumber": "19L",
-                "addr:flats": "4",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-460",
                 "amenity": "pharmacy"
@@ -2866,7 +2846,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Franciszka Hynka",
                 "addr:housenumber": "65",
-                "addr:flats": "3",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-465",
                 "amenity": "pharmacy"
@@ -2924,7 +2903,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Ignacego Paderewskiego",
                 "addr:housenumber": "9",
-                "addr:flats": "3",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-170",
                 "amenity": "pharmacy"
@@ -3172,7 +3150,6 @@
                 "name": "Apteka Dyżurna",
                 "addr:street": "Grunwaldzka",
                 "addr:housenumber": "104",
-                "addr:flats": "106",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-244",
                 "amenity": "pharmacy"
@@ -3572,7 +3549,6 @@
                 "name": "Dom Leków",
                 "addr:street": "Zygmunta Noskowskiego",
                 "addr:housenumber": "1",
-                "addr:flats": "1A",
                 "addr:city": "Gdańsk",
                 "addr:postcode": "80-170",
                 "amenity": "pharmacy"

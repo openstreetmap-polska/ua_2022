@@ -161,7 +161,6 @@
                 "name": "Medica",
                 "addr:street": "Stawna",
                 "addr:housenumber": "1",
-                "addr:flats": "7",
                 "addr:city": "Orpiszew",
                 "addr:postcode": "63-714",
                 "amenity": "pharmacy"
@@ -313,7 +312,6 @@
                 "name": "Nova 2",
                 "addr:street": "Bolewskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "1",
                 "addr:city": "Krotoszyn",
                 "addr:postcode": "63-700",
                 "amenity": "pharmacy"

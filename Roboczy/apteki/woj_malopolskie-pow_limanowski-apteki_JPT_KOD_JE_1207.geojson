@@ -377,7 +377,6 @@
                 "name": "\"Apteka \"\"Przyjazna Tobie\"\"\"",
                 "addr:street": "Krakowska",
                 "addr:housenumber": "8",
-                "addr:flats": "A",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
                 "amenity": "pharmacy"
@@ -936,7 +935,6 @@
                 "name": "Apteka Galicja",
                 "addr:street": "marsz. Józefa Piłsudskiego",
                 "addr:housenumber": "8",
-                "addr:flats": "1",
                 "addr:city": "Mszana Dolna",
                 "addr:postcode": "34-730",
                 "amenity": "pharmacy"
@@ -955,7 +953,6 @@
                 "ref:csioz": 1221103,
                 "addr:street": "Starowiejska",
                 "addr:housenumber": "5",
-                "addr:flats": "a",
                 "addr:city": "Mszana Dolna",
                 "addr:postcode": "34-730",
                 "amenity": "pharmacy"

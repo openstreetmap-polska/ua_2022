@@ -216,7 +216,6 @@
                 "name": "Pod Aniołem",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "57",
-                "addr:flats": "1",
                 "addr:city": "Zbąszynek",
                 "addr:postcode": "66-210",
                 "amenity": "pharmacy"
@@ -310,7 +309,6 @@
                 "name": "Aspirynka",
                 "addr:street": "Sulęcińska",
                 "addr:housenumber": "4",
-                "addr:flats": "4",
                 "addr:city": "Łagów",
                 "addr:postcode": "66-220",
                 "amenity": "pharmacy"

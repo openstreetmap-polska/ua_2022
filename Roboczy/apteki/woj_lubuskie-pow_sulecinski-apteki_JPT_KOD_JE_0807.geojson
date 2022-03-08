@@ -65,7 +65,6 @@
                 "name": "Panaceum",
                 "addr:street": "Gorzowska",
                 "addr:housenumber": "7",
-                "addr:flats": "5",
                 "addr:city": "Krzeszyce",
                 "addr:postcode": "66-435",
                 "amenity": "pharmacy"
@@ -180,7 +179,6 @@
                 "name": "Apteka Pod Platanem",
                 "addr:street": "Wiejska",
                 "addr:housenumber": "4",
-                "addr:flats": "6",
                 "addr:city": "Sulęcin",
                 "addr:postcode": "69-200",
                 "amenity": "pharmacy"

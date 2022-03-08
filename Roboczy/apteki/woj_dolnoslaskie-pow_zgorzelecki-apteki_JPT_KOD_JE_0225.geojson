@@ -85,7 +85,6 @@
                 "name": "Łużycka",
                 "addr:street": "Warszawska",
                 "addr:housenumber": "5",
-                "addr:flats": "2",
                 "addr:city": "Zgorzelec",
                 "addr:postcode": "59-900",
                 "amenity": "pharmacy"
@@ -162,7 +161,6 @@
                 "name": "Nad Nysą",
                 "addr:street": "Traugutta",
                 "addr:housenumber": "6",
-                "addr:flats": "2",
                 "addr:city": "Pieńsk",
                 "addr:postcode": "59-930",
                 "amenity": "pharmacy"
@@ -315,7 +313,6 @@
                 "name": "Apteka Społeczna Na Kościuszki Grupa Nowa Farmacja",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "49",
-                "addr:flats": "lok. 3",
                 "addr:city": "Zgorzelec",
                 "addr:postcode": "59-900",
                 "amenity": "pharmacy"
@@ -562,7 +559,6 @@
                 "name": "Dr. Max",
                 "addr:street": "ul. Armii Krajowej",
                 "addr:housenumber": "52A",
-                "addr:flats": "lokal nr 169",
                 "addr:city": "Zgorzelec",
                 "addr:postcode": "59-900",
                 "amenity": "pharmacy"

@@ -45,7 +45,6 @@
                 "ref:csioz": 1026456,
                 "addr:street": "Świętojańska",
                 "addr:housenumber": "88",
-                "addr:flats": "1",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-388",
                 "amenity": "pharmacy"
@@ -215,7 +214,6 @@
                 "name": "Apteka Morska",
                 "addr:street": "Morska",
                 "addr:housenumber": "49",
-                "addr:flats": "55",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-332",
                 "amenity": "pharmacy"
@@ -330,7 +328,6 @@
                 "name": "Apteka Dla Zdrowia",
                 "addr:street": "Warszawska",
                 "addr:housenumber": "34",
-                "addr:flats": "36",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-317",
                 "amenity": "pharmacy"
@@ -463,7 +460,6 @@
                 "name": "Datura",
                 "addr:street": "Bosmańska",
                 "addr:housenumber": "44",
-                "addr:flats": "1",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-116",
                 "amenity": "pharmacy"
@@ -673,7 +669,6 @@
                 "name": "Piko 3",
                 "addr:street": "Bernarda Chrzanowskiego",
                 "addr:housenumber": "3",
-                "addr:flats": "5",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-338",
                 "amenity": "pharmacy"
@@ -731,7 +726,6 @@
                 "name": "Mediqus",
                 "addr:street": "gen. Marii Wittekówny",
                 "addr:housenumber": "2",
-                "addr:flats": "3",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-173",
                 "amenity": "pharmacy"
@@ -903,7 +897,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Zwycięstwa",
                 "addr:housenumber": "256",
-                "addr:flats": "0.1",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-525",
                 "amenity": "pharmacy"
@@ -980,7 +973,6 @@
                 "name": "Apteka Cosmedica",
                 "addr:street": "Legionów",
                 "addr:housenumber": "112",
-                "addr:flats": "112/18",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-472",
                 "amenity": "pharmacy"
@@ -1190,7 +1182,6 @@
                 "name": "Im. Św. Jana",
                 "addr:street": "Redłowska",
                 "addr:housenumber": "39A",
-                "addr:flats": "1",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-450",
                 "amenity": "pharmacy"
@@ -1286,7 +1277,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Wójta Radtkego",
                 "addr:housenumber": "49",
-                "addr:flats": "51",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-355",
                 "amenity": "pharmacy"
@@ -1306,7 +1296,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Świętojańska",
                 "addr:housenumber": "5",
-                "addr:flats": "7",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-368",
                 "amenity": "pharmacy"
@@ -1820,7 +1809,6 @@
                 "name": "Apteka Nowe Orłowo",
                 "addr:street": "Zwycięstwa",
                 "addr:housenumber": "239",
-                "addr:flats": "1",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-521",
                 "amenity": "pharmacy"
@@ -1992,7 +1980,6 @@
                 "name": "Wolności 1 Nowa Farmacja",
                 "addr:street": "Wolności",
                 "addr:housenumber": "1",
-                "addr:flats": "lok. 1",
                 "addr:city": "Gdynia",
                 "addr:postcode": "81-324",
                 "amenity": "pharmacy"

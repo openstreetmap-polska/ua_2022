@@ -121,7 +121,6 @@
                 "name": "\"Apteka \"\"Dla Ciebie\"\"\"",
                 "addr:street": "Rynek",
                 "addr:housenumber": "6",
-                "addr:flats": "22",
                 "addr:city": "Lubawa",
                 "addr:postcode": "14-260",
                 "amenity": "pharmacy"
@@ -254,7 +253,6 @@
                 "name": "Lipowy Dwór",
                 "addr:street": "Jarosława Dąbrowskiego",
                 "addr:housenumber": "46B",
-                "addr:flats": "1A",
                 "addr:city": "Iława",
                 "addr:postcode": "14-200",
                 "amenity": "pharmacy"
@@ -331,7 +329,6 @@
                 "name": "Doz Apteka. Dbam O Zdrowie",
                 "addr:street": "Królowej Jadwigi",
                 "addr:housenumber": "6",
-                "addr:flats": "B 0.02",
                 "addr:city": "Iława",
                 "addr:postcode": "14-200",
                 "amenity": "pharmacy"
@@ -351,7 +348,6 @@
                 "name": "Apteka Społeczna Na Kopernika Grupa Nowa Farmacja",
                 "addr:street": "Mikołaja Kopernika",
                 "addr:housenumber": "5A",
-                "addr:flats": "1",
                 "addr:city": "Iława",
                 "addr:postcode": "14-200",
                 "amenity": "pharmacy"
@@ -371,7 +367,6 @@
                 "name": "Nova",
                 "addr:street": "Mikołaja Kopernika",
                 "addr:housenumber": "3",
-                "addr:flats": "4A/1",
                 "addr:city": "Iława",
                 "addr:postcode": "14-200",
                 "amenity": "pharmacy"
@@ -391,7 +386,6 @@
                 "name": "Hubertus",
                 "addr:street": "Słowiańska",
                 "addr:housenumber": "21",
-                "addr:flats": "3",
                 "addr:city": "SUSZ",
                 "addr:postcode": "14-240",
                 "amenity": "pharmacy"

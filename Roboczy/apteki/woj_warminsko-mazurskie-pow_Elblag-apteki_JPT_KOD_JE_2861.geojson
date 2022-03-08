@@ -101,7 +101,6 @@
                 "name": "Dyżurna 1",
                 "addr:street": "Robotnicza",
                 "addr:housenumber": "81",
-                "addr:flats": "83",
                 "addr:city": "ELBLĄG",
                 "addr:postcode": "82-300",
                 "amenity": "pharmacy"
@@ -330,7 +329,6 @@
                 "name": "Dom Leków",
                 "addr:street": "Grunwaldzka",
                 "addr:housenumber": "27",
-                "addr:flats": "1",
                 "addr:city": "Elbląg",
                 "addr:postcode": "82-300",
                 "amenity": "pharmacy"
@@ -350,7 +348,6 @@
                 "name": "Apteka Centrum Leków",
                 "addr:street": "Ogólna",
                 "addr:housenumber": "57",
-                "addr:flats": "1",
                 "addr:city": "Elbląg",
                 "addr:postcode": "82-300",
                 "amenity": "pharmacy"
@@ -446,7 +443,6 @@
                 "name": "Apteka Dyżurna",
                 "addr:street": "Władysława Broniewskiego",
                 "addr:housenumber": "51",
-                "addr:flats": "3",
                 "addr:city": "Elbląg",
                 "addr:postcode": "82-300",
                 "amenity": "pharmacy"
@@ -485,7 +481,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Aleja Odrodzenia",
                 "addr:housenumber": "10",
-                "addr:flats": "2",
                 "addr:city": "Elbląg",
                 "addr:postcode": "82-300",
                 "amenity": "pharmacy"
@@ -524,7 +519,6 @@
                 "name": "Przy Gildii",
                 "addr:street": "Płk. Dąbka",
                 "addr:housenumber": "136",
-                "addr:flats": "8",
                 "addr:city": "ELBLĄG",
                 "addr:postcode": "82-300",
                 "amenity": "pharmacy"
@@ -639,7 +633,6 @@
                 "name": "Apteka Centrum Leków",
                 "addr:street": "Malborska",
                 "addr:housenumber": "23",
-                "addr:flats": "4U",
                 "addr:city": "Elbląg",
                 "addr:postcode": "82-300",
                 "amenity": "pharmacy"
@@ -735,7 +728,6 @@
                 "name": "Apteka Społeczna Na 1 Maja 44 Grupa Nowa Farmacja",
                 "addr:street": "1 Maja",
                 "addr:housenumber": "44",
-                "addr:flats": "11A",
                 "addr:city": "Elbląg",
                 "addr:postcode": "82-300",
                 "amenity": "pharmacy"

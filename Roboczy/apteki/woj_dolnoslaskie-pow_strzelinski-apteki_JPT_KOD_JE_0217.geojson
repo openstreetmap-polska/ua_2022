@@ -85,7 +85,6 @@
                 "name": "Centrum Zdrowia",
                 "addr:street": "Dzierżoniowska",
                 "addr:housenumber": "5",
-                "addr:flats": "lokal 1A",
                 "addr:city": "Strzelin",
                 "addr:postcode": "57-100",
                 "amenity": "pharmacy"
@@ -237,7 +236,6 @@
                 "name": "Apteka Ogólnodostępna",
                 "addr:street": "Starowiejska",
                 "addr:housenumber": "2",
-                "addr:flats": "lokal 1",
                 "addr:city": "Borów",
                 "addr:postcode": "57-160",
                 "amenity": "pharmacy"

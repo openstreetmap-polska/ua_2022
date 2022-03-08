@@ -26,7 +26,6 @@
                 "ref:csioz": 1000418,
                 "addr:street": "Generała Tadeusza Kościuszki",
                 "addr:housenumber": "7",
-                "addr:flats": "9",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-310",
                 "amenity": "pharmacy"
@@ -84,7 +83,6 @@
                 "name": "\"Apteka Cef@Rm 36,6\"",
                 "addr:street": "Ignacego Paderewskiego",
                 "addr:housenumber": "37",
-                "addr:flats": "39",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-502",
                 "amenity": "pharmacy"
@@ -122,7 +120,6 @@
                 "ref:csioz": 1001251,
                 "addr:street": "Krakowska",
                 "addr:housenumber": "3",
-                "addr:flats": "5",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-029",
                 "amenity": "pharmacy"
@@ -142,7 +139,6 @@
                 "name": "Apteka Od Pokoleń Dr N. Farm. Marek Jędrzejczak",
                 "addr:street": "Stefana Żeromskiego",
                 "addr:housenumber": "38",
-                "addr:flats": "40",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-370",
                 "amenity": "pharmacy"
@@ -804,7 +800,6 @@
                 "name": "Apteka Na Bukówce",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "255",
-                "addr:flats": "3",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-209",
                 "amenity": "pharmacy"
@@ -842,7 +837,6 @@
                 "ref:csioz": 1000133,
                 "addr:street": "Jerzego Bogumiła Puscha",
                 "addr:housenumber": "7",
-                "addr:flats": "12c",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-635",
                 "amenity": "pharmacy"
@@ -1199,7 +1193,6 @@
                 "name": "Endomed - Centrum Diagnostyki I Leczenia Chorób Przewodu Pokarmowego",
                 "addr:street": "Zagórska",
                 "addr:housenumber": "20",
-                "addr:flats": "26",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-355",
                 "amenity": "pharmacy"
@@ -1390,7 +1383,6 @@
                 "name": "Apteka Dom Zdrowia",
                 "addr:street": "Kazimierza Kaznowskiego",
                 "addr:housenumber": "5",
-                "addr:flats": "4",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-636",
                 "amenity": "pharmacy"
@@ -1486,7 +1478,6 @@
                 "name": "Vita Plus",
                 "addr:street": "Petyhorska",
                 "addr:housenumber": "15",
-                "addr:flats": "4",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-125",
                 "amenity": "pharmacy"
@@ -1617,7 +1608,6 @@
                 "name": "Twoja Apteka",
                 "addr:street": "ul. Warszawska",
                 "addr:housenumber": "21",
-                "addr:flats": "D",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-512",
                 "amenity": "pharmacy"
@@ -1694,7 +1684,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "Radomska",
                 "addr:housenumber": "20C",
-                "addr:flats": "1",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-323",
                 "amenity": "pharmacy"
@@ -1752,7 +1741,6 @@
                 "name": "Apteka Plus",
                 "addr:street": "Robotnicza",
                 "addr:housenumber": "1",
-                "addr:flats": "2",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-662",
                 "amenity": "pharmacy"
@@ -1810,7 +1798,6 @@
                 "name": "Zakład Leczniczy Lumos Okulistyka Kielcecka W Kielcach",
                 "addr:street": "Wspólna",
                 "addr:housenumber": "1",
-                "addr:flats": "\"U2,3\"",
                 "addr:city": "Kielce",
                 "addr:postcode": "25-316",
                 "amenity": "pharmacy"

@@ -362,7 +362,6 @@
                 "name": "Hygieia",
                 "addr:street": "Władysława Jagiełły",
                 "addr:housenumber": "15",
-                "addr:flats": "1",
                 "addr:city": "Brzesko",
                 "addr:postcode": "32-800",
                 "amenity": "pharmacy"
@@ -382,7 +381,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Henryka Sienkiewicza",
                 "addr:housenumber": "5",
-                "addr:flats": "1A",
                 "addr:city": "Brzesko",
                 "addr:postcode": "32-800",
                 "amenity": "pharmacy"
@@ -475,7 +473,6 @@
                 "ref:csioz": 1210750,
                 "name": "Punkt Apteczny Bliski",
                 "addr:housenumber": "90",
-                "addr:flats": "1",
                 "addr:postcode": "32-821",
                 "amenity": "pharmacy",
                 "addr:place": "Zaborów"
@@ -588,7 +585,6 @@
                 "name": "Apteka Rumianek",
                 "addr:street": "Krakowska",
                 "addr:housenumber": "17",
-                "addr:flats": "B",
                 "addr:city": "Czchów",
                 "addr:postcode": "32-860",
                 "amenity": "pharmacy"
@@ -644,7 +640,6 @@
                 "ref:csioz": 1213411,
                 "name": "Apteka Św. Justa",
                 "addr:housenumber": "379",
-                "addr:flats": "1",
                 "addr:postcode": "32-860",
                 "amenity": "pharmacy",
                 "addr:place": "Jurków"

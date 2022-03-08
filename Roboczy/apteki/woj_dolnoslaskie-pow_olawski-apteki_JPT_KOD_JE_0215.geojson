@@ -179,7 +179,6 @@
                 "name": "Non Stop - 3 Maja",
                 "addr:street": "3 Maja",
                 "addr:housenumber": "8u",
-                "addr:flats": "4",
                 "addr:city": "Oława",
                 "addr:postcode": "55-200",
                 "amenity": "pharmacy"
@@ -199,7 +198,6 @@
                 "name": "Wratislavia Vi",
                 "addr:street": "Aleja Wolności",
                 "addr:housenumber": "1D",
-                "addr:flats": "2",
                 "addr:city": "Jelcz-Laskowice",
                 "addr:postcode": "55-220",
                 "amenity": "pharmacy"
@@ -333,7 +331,6 @@
                 "name": "Non Stop",
                 "addr:street": "Sportowa",
                 "addr:housenumber": "4",
-                "addr:flats": "/1",
                 "addr:city": "Oława",
                 "addr:postcode": "55-200",
                 "amenity": "pharmacy"
@@ -372,7 +369,6 @@
                 "name": "Osiedlowa Ii",
                 "addr:street": "ks. Franciszka Kutrowskiego",
                 "addr:housenumber": "50",
-                "addr:flats": "lokal 3B",
                 "addr:city": "Oława",
                 "addr:postcode": "55-200",
                 "amenity": "pharmacy"

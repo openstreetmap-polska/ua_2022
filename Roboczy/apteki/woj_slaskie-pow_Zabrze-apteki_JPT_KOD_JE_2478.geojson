@@ -104,7 +104,6 @@
                 "name": "Apteka Zdrowit",
                 "addr:street": "Wolności",
                 "addr:housenumber": "279",
-                "addr:flats": "2",
                 "addr:city": "Zabrze",
                 "addr:postcode": "41-800",
                 "amenity": "pharmacy"
@@ -504,7 +503,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "3 Maja",
                 "addr:housenumber": "32",
-                "addr:flats": "32A",
                 "addr:city": "Zabrze",
                 "addr:postcode": "41-800",
                 "amenity": "pharmacy"
@@ -714,7 +712,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "\"gen. Charlesa de Gaulle'a\"",
                 "addr:housenumber": "111-113",
-                "addr:flats": "6",
                 "addr:city": "Zabrze",
                 "addr:postcode": "41-800",
                 "amenity": "pharmacy"
@@ -905,7 +902,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Plac Teatralny",
                 "addr:housenumber": "12",
-                "addr:flats": "M010",
                 "addr:city": "Zabrze",
                 "addr:postcode": "41-800",
                 "amenity": "pharmacy"

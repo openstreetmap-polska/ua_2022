@@ -95,7 +95,6 @@
                 "ref:csioz": 1145916,
                 "addr:street": "Józefa Piętniewicza",
                 "addr:housenumber": "3",
-                "addr:flats": "5",
                 "addr:city": "Frysztak",
                 "addr:postcode": "38-130",
                 "amenity": "pharmacy"
@@ -113,7 +112,6 @@
             "properties": {
                 "ref:csioz": 1145927,
                 "addr:housenumber": "22",
-                "addr:flats": "1",
                 "addr:postcode": "38-126",
                 "amenity": "pharmacy",
                 "addr:place": "Markuszowa"
@@ -336,7 +334,6 @@
                 "name": "Różana",
                 "addr:street": "Plac św. Floriana",
                 "addr:housenumber": "1",
-                "addr:flats": "2",
                 "addr:city": "Frysztak",
                 "addr:postcode": "38-130",
                 "amenity": "pharmacy"

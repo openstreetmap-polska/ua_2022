@@ -46,7 +46,6 @@
                 "name": "Chc No 1",
                 "addr:street": "Armii Krajowej",
                 "addr:housenumber": "3",
-                "addr:flats": "10",
                 "addr:city": "Brwinów",
                 "addr:postcode": "05-840",
                 "amenity": "pharmacy"
@@ -104,7 +103,6 @@
                 "name": "Tonika",
                 "addr:street": "Szwedzki",
                 "addr:housenumber": "3",
-                "addr:flats": "33",
                 "addr:city": "Janki",
                 "addr:postcode": "05-090",
                 "amenity": "pharmacy"
@@ -425,7 +423,6 @@
                 "name": "Ziko",
                 "addr:street": "Warszawska",
                 "addr:housenumber": "43",
-                "addr:flats": "D5",
                 "addr:city": "Piastów",
                 "addr:postcode": "05-820",
                 "amenity": "pharmacy"
@@ -577,7 +574,6 @@
                 "name": "Wpr Apteka Ceramiczna",
                 "addr:street": "Bolesława Prusa",
                 "addr:housenumber": "35A",
-                "addr:flats": "18",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
                 "amenity": "pharmacy"
@@ -745,7 +741,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Grodziska",
                 "addr:housenumber": "46",
-                "addr:flats": "18",
                 "addr:city": "Brwinów",
                 "addr:postcode": "05-840",
                 "amenity": "pharmacy"
@@ -953,7 +948,6 @@
                 "name": "Przy Alfie",
                 "addr:street": "Powstańców Warszawy",
                 "addr:housenumber": "8A",
-                "addr:flats": "1",
                 "addr:city": "Brwinów",
                 "addr:postcode": "05-840",
                 "amenity": "pharmacy"
@@ -1046,7 +1040,6 @@
                 "ref:csioz": 1114382,
                 "addr:street": "Aleja Katowicka",
                 "addr:housenumber": "62",
-                "addr:flats": "10",
                 "addr:city": "Nadarzyn",
                 "addr:postcode": "05-830",
                 "amenity": "pharmacy"
@@ -1236,7 +1229,6 @@
                 "name": "Na Rynku",
                 "addr:street": "Szkolna",
                 "addr:housenumber": "11",
-                "addr:flats": "3 i 4",
                 "addr:city": "Raszyn",
                 "addr:postcode": "05-090",
                 "amenity": "pharmacy"

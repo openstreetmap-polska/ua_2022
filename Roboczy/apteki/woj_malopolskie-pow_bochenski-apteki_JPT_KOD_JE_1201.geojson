@@ -301,7 +301,6 @@
                 "name": "\"Apteka 'Remedium'\"",
                 "addr:street": "św. Kingi",
                 "addr:housenumber": "1",
-                "addr:flats": "2",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
                 "amenity": "pharmacy"
@@ -558,7 +557,6 @@
                 "ref:csioz": 1182073,
                 "name": "Apteka Rumianek",
                 "addr:housenumber": "473",
-                "addr:flats": "B",
                 "addr:postcode": "32-731",
                 "amenity": "pharmacy",
                 "addr:place": "Żegocina"
@@ -578,7 +576,6 @@
                 "name": "Doz Apteka. Dbam O Zdrowie.",
                 "addr:street": "Wygoda",
                 "addr:housenumber": "143",
-                "addr:flats": "A",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
                 "amenity": "pharmacy"
@@ -670,7 +667,6 @@
                 "ref:csioz": 1204267,
                 "name": "Vitaminka",
                 "addr:housenumber": "253",
-                "addr:flats": "2",
                 "addr:postcode": "32-744",
                 "amenity": "pharmacy",
                 "addr:place": "Siedlec"
@@ -727,7 +723,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "1",
-                "addr:flats": "2",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
                 "amenity": "pharmacy"

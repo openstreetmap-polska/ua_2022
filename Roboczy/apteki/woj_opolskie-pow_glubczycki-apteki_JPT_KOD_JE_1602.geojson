@@ -214,7 +214,6 @@
                 "name": "Zdrowie",
                 "addr:street": "Powstańców",
                 "addr:housenumber": "11A",
-                "addr:flats": "1",
                 "addr:city": "Głubczyce",
                 "addr:postcode": "48-100",
                 "amenity": "pharmacy"
@@ -291,7 +290,6 @@
                 "name": "Apteka Kolorowa",
                 "addr:street": "Kościuszki",
                 "addr:housenumber": "28",
-                "addr:flats": "1",
                 "addr:city": "Głubczyce",
                 "addr:postcode": "48-100",
                 "amenity": "pharmacy"

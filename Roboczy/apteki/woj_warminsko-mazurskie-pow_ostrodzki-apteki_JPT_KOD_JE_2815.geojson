@@ -28,7 +28,6 @@
                 "name": "\"Apteka \"\"Eliksir\"\" J. Kaźmierska & Wspólnicy Spółka Jawna\"",
                 "addr:street": "Kościuszki",
                 "addr:housenumber": "1",
-                "addr:flats": "5",
                 "addr:city": "Dąbrówno",
                 "addr:postcode": "14-120",
                 "amenity": "pharmacy"
@@ -103,7 +102,6 @@
                 "name": "Miejska",
                 "addr:street": "Warszawska",
                 "addr:housenumber": "5B",
-                "addr:flats": "2",
                 "addr:city": "Miłakowo",
                 "addr:postcode": "14-310",
                 "amenity": "pharmacy"
@@ -218,7 +216,6 @@
                 "name": "Apteka Społeczna Na Czarnieckiego Grupa Nowa Farmacja",
                 "addr:street": "Stefana Czarnieckiego",
                 "addr:housenumber": "32",
-                "addr:flats": "5",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
                 "amenity": "pharmacy"
@@ -238,7 +235,6 @@
                 "name": "Apteka Meritum",
                 "addr:street": "Warszawska",
                 "addr:housenumber": "17A",
-                "addr:flats": "1",
                 "addr:city": "Łukta",
                 "addr:postcode": "14-105",
                 "amenity": "pharmacy"
@@ -447,7 +443,6 @@
                 "name": "Apteka Zamkowa",
                 "addr:street": "Zamkowa",
                 "addr:housenumber": "2",
-                "addr:flats": "4",
                 "addr:city": "OSTRÓDA",
                 "addr:postcode": "14-100",
                 "amenity": "pharmacy"
@@ -522,7 +517,6 @@
                 "name": "Apteka Pharma - Land",
                 "addr:street": "Jana III Sobieskiego",
                 "addr:housenumber": "3B",
-                "addr:flats": "29",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
                 "amenity": "pharmacy"
@@ -636,7 +630,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Jana Pawła II",
                 "addr:housenumber": "9",
-                "addr:flats": "7",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
                 "amenity": "pharmacy"
@@ -673,7 +666,6 @@
             "properties": {
                 "ref:csioz": 1227130,
                 "addr:housenumber": "57",
-                "addr:flats": "14",
                 "addr:postcode": "14-107",
                 "amenity": "pharmacy",
                 "addr:place": "Gierzwałd"
@@ -693,7 +685,6 @@
                 "name": "\"Apteka \"\"Ania\"\"\"",
                 "addr:street": "Mickiewicza",
                 "addr:housenumber": "38C",
-                "addr:flats": "1",
                 "addr:city": "Morąg",
                 "addr:postcode": "14-300",
                 "amenity": "pharmacy"

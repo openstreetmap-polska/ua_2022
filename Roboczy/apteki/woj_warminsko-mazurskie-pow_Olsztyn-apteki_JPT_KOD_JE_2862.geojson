@@ -231,7 +231,6 @@
                 "name": "Avena",
                 "addr:street": "Jarosława Iwaszkiewicza",
                 "addr:housenumber": "22C",
-                "addr:flats": "02",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-900",
                 "amenity": "pharmacy"
@@ -327,7 +326,6 @@
                 "name": "\"Doz Apteka. Dbam O Zdrowie. \"\"Centrum\"\"\"",
                 "addr:street": "Konstantego Ildefonsa Gałczyńskiego",
                 "addr:housenumber": "1",
-                "addr:flats": "18",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-089",
                 "amenity": "pharmacy"
@@ -404,7 +402,6 @@
                 "name": "Apteka Lawendowa",
                 "addr:street": "Grunwaldzka",
                 "addr:housenumber": "24",
-                "addr:flats": "13",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-124",
                 "amenity": "pharmacy"
@@ -499,7 +496,6 @@
                 "name": "Verbena",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "85A",
-                "addr:flats": "13",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-554",
                 "amenity": "pharmacy"
@@ -683,7 +679,6 @@
                 "name": "Apteka Hibiskus",
                 "addr:street": "Jagiellońska",
                 "addr:housenumber": "33",
-                "addr:flats": "2",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-271",
                 "amenity": "pharmacy"
@@ -760,7 +755,6 @@
                 "name": "Gemini",
                 "addr:street": "Dąbrowszczaków",
                 "addr:housenumber": "1",
-                "addr:flats": "41",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-538",
                 "amenity": "pharmacy"
@@ -780,7 +774,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Juliana Tuwima",
                 "addr:housenumber": "26",
-                "addr:flats": "N.0.32",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-748",
                 "amenity": "pharmacy"
@@ -818,7 +811,6 @@
                 "name": "Apteka Savita",
                 "addr:street": "Aleja Wojska Polskiego",
                 "addr:housenumber": "19",
-                "addr:flats": "24",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-224",
                 "amenity": "pharmacy"
@@ -1117,7 +1109,6 @@
                 "ref:csioz": 1171162,
                 "addr:street": "Franciszka Barcza",
                 "addr:housenumber": "48",
-                "addr:flats": "8L",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-685",
                 "amenity": "pharmacy"
@@ -1137,7 +1128,6 @@
                 "name": "Doz Apteka. Dbam O Zdrowie. Elixir",
                 "addr:street": "Bolesława Limanowskiego",
                 "addr:housenumber": "1-13",
-                "addr:flats": "19",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-340",
                 "amenity": "pharmacy"
@@ -1176,7 +1166,6 @@
                 "name": "Apteka Alfa",
                 "addr:street": "Walentego Barczewskiego",
                 "addr:housenumber": "1",
-                "addr:flats": "L2",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-061",
                 "amenity": "pharmacy"
@@ -1196,7 +1185,6 @@
                 "name": "Doz Apteka. Dbam O Zdrowie",
                 "addr:street": "Aleja Marszałka Józefa Piłsudskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "8",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-576",
                 "amenity": "pharmacy"
@@ -1329,7 +1317,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "Hugona Kołłątaja",
                 "addr:housenumber": "11",
-                "addr:flats": "12",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-034",
                 "amenity": "pharmacy"
@@ -1387,7 +1374,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "Aleja Generała Władysława Sikorskiego",
                 "addr:housenumber": "2B",
-                "addr:flats": "17",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-088",
                 "amenity": "pharmacy"
@@ -1502,7 +1488,6 @@
                 "name": "Neo",
                 "addr:street": "Biskupa Tomasza Wilczyńskiego",
                 "addr:housenumber": "25D",
-                "addr:flats": "W2-2H",
                 "addr:city": "Olsztyn",
                 "addr:postcode": "10-686",
                 "amenity": "pharmacy"

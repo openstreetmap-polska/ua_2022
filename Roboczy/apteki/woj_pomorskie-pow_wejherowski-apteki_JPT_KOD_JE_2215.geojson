@@ -464,7 +464,6 @@
                 "name": "Apteka Starowiejska",
                 "addr:street": "Dąbrowskiego",
                 "addr:housenumber": "50",
-                "addr:flats": "2",
                 "addr:city": "Rumia",
                 "addr:postcode": "84-230",
                 "amenity": "pharmacy"
@@ -712,7 +711,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Dworcowa",
                 "addr:housenumber": "3",
-                "addr:flats": "lok. 1",
                 "addr:city": "Wejherowo",
                 "addr:postcode": "84-200",
                 "amenity": "pharmacy"
@@ -770,7 +768,6 @@
                 "name": "Apteka Rodzinna",
                 "addr:street": "Obwodowa",
                 "addr:housenumber": "35E",
-                "addr:flats": "\"A/14,15\"",
                 "addr:city": "Reda",
                 "addr:postcode": "84-240",
                 "amenity": "pharmacy"

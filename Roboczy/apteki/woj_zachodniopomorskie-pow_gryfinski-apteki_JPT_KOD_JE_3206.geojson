@@ -28,7 +28,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie Millennium",
                 "addr:street": "Kościuszki",
                 "addr:housenumber": "13",
-                "addr:flats": "7",
                 "addr:city": "Trzcińsko-Zdrój",
                 "addr:postcode": "74-510",
                 "amenity": "pharmacy"
@@ -310,7 +309,6 @@
                 "name": "Doz Apteka.Dbam O Zdrowie.Medica",
                 "addr:street": "Grunwaldzka",
                 "addr:housenumber": "1",
-                "addr:flats": "5",
                 "addr:city": "Banie",
                 "addr:postcode": "74-110",
                 "amenity": "pharmacy"
@@ -555,7 +553,6 @@
                 "name": "Mediq Apteka Centrum",
                 "addr:street": "Bolesława Chrobrego",
                 "addr:housenumber": "30",
-                "addr:flats": "38",
                 "addr:city": "Gryfino",
                 "addr:postcode": "74-100",
                 "amenity": "pharmacy"

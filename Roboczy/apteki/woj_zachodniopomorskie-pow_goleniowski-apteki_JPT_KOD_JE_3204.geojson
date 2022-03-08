@@ -47,7 +47,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "36",
-                "addr:flats": "4",
                 "addr:city": "Nowogard",
                 "addr:postcode": "72-200",
                 "amenity": "pharmacy"
@@ -104,7 +103,6 @@
                 "name": "Doz Apteka. Dbam O Zdrowie. Medica",
                 "addr:street": "Szkolna",
                 "addr:housenumber": "10a",
-                "addr:flats": "8",
                 "addr:city": "Maszewo",
                 "addr:postcode": "72-130",
                 "amenity": "pharmacy"
@@ -216,7 +214,6 @@
                 "name": "Apteka Na Bohaterów Warszawy Nowa Farmacja",
                 "addr:street": "Bohaterów Warszawy",
                 "addr:housenumber": "103",
-                "addr:flats": "3-4",
                 "addr:city": "Nowogard",
                 "addr:postcode": "72-200",
                 "amenity": "pharmacy"

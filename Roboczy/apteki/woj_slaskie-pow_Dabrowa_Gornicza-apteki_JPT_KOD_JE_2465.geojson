@@ -47,7 +47,6 @@
                 "name": "Kwiatowa",
                 "addr:street": "Topolowa",
                 "addr:housenumber": "26",
-                "addr:flats": "4-5",
                 "addr:city": "Dąbrowa Górnicza",
                 "addr:postcode": "41-303",
                 "amenity": "pharmacy"
@@ -275,7 +274,6 @@
                 "name": "Apteka Rodzinna",
                 "addr:street": "Aleja Józefa Piłsudskiego",
                 "addr:housenumber": "34F",
-                "addr:flats": "632A",
                 "addr:city": "Dąbrowa Górnicza",
                 "addr:postcode": "41-300",
                 "amenity": "pharmacy"
@@ -485,7 +483,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Karola Adamieckiego",
                 "addr:housenumber": "13",
-                "addr:flats": "16",
                 "addr:city": "Dąbrowa Górnicza",
                 "addr:postcode": "41-300",
                 "amenity": "pharmacy"
@@ -676,7 +673,6 @@
                 "name": "Apteka Główna Z Sercem",
                 "addr:street": "Aleja Józefa Piłsudskiego",
                 "addr:housenumber": "92",
-                "addr:flats": "segment C-4",
                 "addr:city": "Dąbrowa Górnicza",
                 "addr:postcode": "41-308",
                 "amenity": "pharmacy"
@@ -753,7 +749,6 @@
                 "name": "Brak Nazwy",
                 "addr:street": "Osiedle Robotnicze",
                 "addr:housenumber": "5",
-                "addr:flats": "2",
                 "addr:city": "Dąbrowa Górnicza",
                 "addr:postcode": "42-520",
                 "amenity": "pharmacy"

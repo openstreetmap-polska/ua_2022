@@ -256,7 +256,6 @@
                 "name": "Beżowa",
                 "addr:street": "Beżowa",
                 "addr:housenumber": "12",
-                "addr:flats": "16",
                 "addr:city": "Wrocław",
                 "addr:postcode": "54-046",
                 "amenity": "pharmacy"
@@ -504,7 +503,6 @@
                 "name": "Sielska",
                 "addr:street": "Sielska",
                 "addr:housenumber": "3",
-                "addr:flats": "9",
                 "addr:city": "Wrocław",
                 "addr:postcode": "54-144",
                 "amenity": "pharmacy"
@@ -619,7 +617,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Graniczna",
                 "addr:housenumber": "2A",
-                "addr:flats": "C.H. Futura Park",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-984",
                 "amenity": "pharmacy"
@@ -677,7 +674,6 @@
                 "name": "Hebeapteka",
                 "addr:street": "Świdnicka",
                 "addr:housenumber": "37",
-                "addr:flats": "lokal 1",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-040",
                 "amenity": "pharmacy"
@@ -735,7 +731,6 @@
                 "name": "Apteka Da Vinci",
                 "addr:street": "Dedala",
                 "addr:housenumber": "28",
-                "addr:flats": "a",
                 "addr:city": "Wrocław",
                 "addr:postcode": "54-130",
                 "amenity": "pharmacy"
@@ -774,7 +769,6 @@
                 "name": "Apteka Dla Zdrowia",
                 "addr:street": "ul. Arbuzowa",
                 "addr:housenumber": "13",
-                "addr:flats": "lokal 2",
                 "addr:city": "Wrocław",
                 "addr:postcode": "54-054",
                 "amenity": "pharmacy"
@@ -794,7 +788,6 @@
                 "name": "Apteka Expresspharm Vii",
                 "addr:street": "ul. Warmińska",
                 "addr:housenumber": "20",
-                "addr:flats": "lokal 14 i 16",
                 "addr:city": "Wrocław",
                 "addr:postcode": "54-110",
                 "amenity": "pharmacy"
@@ -947,7 +940,6 @@
                 "name": "Poleska",
                 "addr:street": "Kiełczowska",
                 "addr:housenumber": "51d",
-                "addr:flats": "1",
                 "addr:city": "Wrocław",
                 "addr:postcode": "51-315",
                 "amenity": "pharmacy"
@@ -1556,7 +1548,6 @@
                 "name": "Apteka Społeczna Na Sępa Szarzyńskiego Grupa Nowa Farmacja",
                 "addr:street": "Mikołaja Sępa-Szarzyńskiego",
                 "addr:housenumber": "51",
-                "addr:flats": "lokal 1A",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-334",
                 "amenity": "pharmacy"
@@ -1785,7 +1776,6 @@
                 "name": "\"Apteka \"\"Krzycka\"\"\"",
                 "addr:street": "Przyjaźni",
                 "addr:housenumber": "91",
-                "addr:flats": "1A",
                 "addr:city": "Wrocław",
                 "addr:postcode": "53-030",
                 "amenity": "pharmacy"
@@ -3097,7 +3087,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Legnicka",
                 "addr:housenumber": "58",
-                "addr:flats": "H 09",
                 "addr:city": "Wrocław",
                 "addr:postcode": "54-204",
                 "amenity": "pharmacy"
@@ -4048,7 +4037,6 @@
                 "name": "Śliczna",
                 "addr:street": "Armii Krajowej",
                 "addr:housenumber": "14",
-                "addr:flats": "1",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-550",
                 "amenity": "pharmacy"
@@ -4125,7 +4113,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Kwiska",
                 "addr:housenumber": "5",
-                "addr:flats": "7",
                 "addr:city": "Wrocław",
                 "addr:postcode": "54-210",
                 "amenity": "pharmacy"
@@ -4506,7 +4493,6 @@
                 "name": "\"Apteka \"\"Apteki Arnika\"\"\"",
                 "addr:street": "Zwycięska",
                 "addr:housenumber": "25-35",
-                "addr:flats": "lok. 6",
                 "addr:city": "Wrocław",
                 "addr:postcode": "53-033",
                 "amenity": "pharmacy"
@@ -4564,7 +4550,6 @@
                 "name": "Lege Artis",
                 "addr:street": "Kamieńskiego",
                 "addr:housenumber": "213",
-                "addr:flats": "U1",
                 "addr:city": "Wrocław",
                 "addr:postcode": "51-126",
                 "amenity": "pharmacy"
@@ -4717,7 +4702,6 @@
                 "name": "Amicus Iii",
                 "addr:street": "T. Kościuszki",
                 "addr:housenumber": "95",
-                "addr:flats": "2U",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-442",
                 "amenity": "pharmacy"
@@ -5003,7 +4987,6 @@
                 "name": "Apteka Zdrowie",
                 "addr:street": "Jedności Narodowej",
                 "addr:housenumber": "51/53",
-                "addr:flats": "1B",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-262",
                 "amenity": "pharmacy"
@@ -5061,7 +5044,6 @@
                 "name": "Dom Leków",
                 "addr:street": "Powstańców Śląskich",
                 "addr:housenumber": "1",
-                "addr:flats": "102",
                 "addr:city": "Wrocław",
                 "addr:postcode": "53-332",
                 "amenity": "pharmacy"
@@ -5157,7 +5139,6 @@
                 "name": "Apteka Silesia 4",
                 "addr:street": "Józefa Ignacego Kraszewskiego",
                 "addr:housenumber": "21",
-                "addr:flats": "3",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-229",
                 "amenity": "pharmacy"
@@ -5234,7 +5215,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Bolesława Drobnera",
                 "addr:housenumber": "10",
-                "addr:flats": "U2A",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-257",
                 "amenity": "pharmacy"
@@ -5292,7 +5272,6 @@
                 "name": "Dom Leków",
                 "addr:street": "marsz. Józefa Piłsudskiego",
                 "addr:housenumber": "108",
-                "addr:flats": "lokal 1 U",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-014",
                 "amenity": "pharmacy"
@@ -5331,7 +5310,6 @@
                 "name": "Apteka Przy Przychodni",
                 "addr:street": "św. Wincentego",
                 "addr:housenumber": "9",
-                "addr:flats": "lok. 1 C",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-252",
                 "amenity": "pharmacy"
@@ -5389,7 +5367,6 @@
                 "name": "Mak",
                 "addr:street": "ul. Widna",
                 "addr:housenumber": "6",
-                "addr:flats": "moduł nr 5",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-543",
                 "amenity": "pharmacy"
@@ -5409,7 +5386,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Jedności Narodowej",
                 "addr:housenumber": "51/53",
-                "addr:flats": "lokal 1A/1",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-262",
                 "amenity": "pharmacy"
@@ -5429,7 +5405,6 @@
                 "name": "Amicus Iv",
                 "addr:street": "Bezpieczna",
                 "addr:housenumber": "28a",
-                "addr:flats": "lokal U5",
                 "addr:city": "Wrocław",
                 "addr:postcode": "51-114",
                 "amenity": "pharmacy"
@@ -5449,7 +5424,6 @@
                 "name": "Miodowa",
                 "addr:street": "ul. Stefana Żeromskiego",
                 "addr:housenumber": "62",
-                "addr:flats": "lokal 3",
                 "addr:city": "Wrocław-Śródmieście",
                 "addr:postcode": "50-312",
                 "amenity": "pharmacy"
@@ -5526,7 +5500,6 @@
                 "name": "Apteka Słoneczna Biedronka",
                 "addr:street": "ul. Bezpieczna",
                 "addr:housenumber": "28a",
-                "addr:flats": "lokal U3",
                 "addr:city": "Wrocław",
                 "addr:postcode": "51-114",
                 "amenity": "pharmacy"
@@ -5603,7 +5576,6 @@
                 "name": "\"Apteka \"\"Lege Artis\"\"\"",
                 "addr:street": "Szałwiowa",
                 "addr:housenumber": "23",
-                "addr:flats": "lokal 4A",
                 "addr:city": "Wrocław",
                 "addr:postcode": "51-180",
                 "amenity": "pharmacy"
@@ -5623,7 +5595,6 @@
                 "name": "Apteka Słoneczna Biedronka",
                 "addr:street": "Słowiańska",
                 "addr:housenumber": "6",
-                "addr:flats": "lokal 1",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-235",
                 "amenity": "pharmacy"
@@ -5795,7 +5766,6 @@
                 "name": "Super-Pharm Poland",
                 "addr:street": "Grunwaldzki",
                 "addr:housenumber": "22",
-                "addr:flats": "lokal A.L.-0593",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-363",
                 "amenity": "pharmacy"
@@ -5948,7 +5918,6 @@
                 "name": "\"Dział Farmacji Szpitalnej Chirurgia Plastyczna \"\"Aestetica\"\" Dr N. Med. Jacek Jarliński\"",
                 "addr:street": "Żelazna",
                 "addr:housenumber": "54",
-                "addr:flats": "lok. 2",
                 "addr:city": "Wrocław",
                 "addr:postcode": "53-429",
                 "amenity": "pharmacy"
@@ -6025,7 +5994,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "marsz. Józefa Piłsudskiego",
                 "addr:housenumber": "105",
-                "addr:flats": "\"lokal B01.046, B01.121, B01.122\"",
                 "addr:city": "Wrocław",
                 "addr:postcode": "50-085",
                 "amenity": "pharmacy"

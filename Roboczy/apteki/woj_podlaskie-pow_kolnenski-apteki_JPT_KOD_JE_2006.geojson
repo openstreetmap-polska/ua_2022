@@ -25,7 +25,6 @@
             "properties": {
                 "ref:csioz": 1016510,
                 "addr:housenumber": "38",
-                "addr:flats": "2",
                 "addr:postcode": "11-311",
                 "amenity": "pharmacy",
                 "addr:place": "KOLNO"
@@ -83,7 +82,6 @@
                 "name": "Apteka Miętowa",
                 "addr:street": "Wincentego Witosa",
                 "addr:housenumber": "3A",
-                "addr:flats": "13",
                 "addr:city": "Kolno",
                 "addr:postcode": "18-500",
                 "amenity": "pharmacy"
@@ -230,7 +228,6 @@
                 "name": "Apteka Podlaska",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "51",
-                "addr:flats": "U2",
                 "addr:city": "Kolno",
                 "addr:postcode": "18-500",
                 "amenity": "pharmacy"
@@ -250,7 +247,6 @@
                 "name": "Główna Apteka",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "44",
-                "addr:flats": "1",
                 "addr:city": "Kolno",
                 "addr:postcode": "18-500",
                 "amenity": "pharmacy"

@@ -60,7 +60,6 @@
                 "ref:csioz": 1125789,
                 "name": "Melisa",
                 "addr:housenumber": "35",
-                "addr:flats": "35",
                 "addr:postcode": "35-106",
                 "amenity": "pharmacy",
                 "addr:place": "Kielanówka"
@@ -742,7 +741,6 @@
                 "ref:csioz": 1146135,
                 "name": "\"Apteka \"\"U Galena\"\"\"",
                 "addr:housenumber": "374",
-                "addr:flats": "1",
                 "addr:postcode": "36-042",
                 "amenity": "pharmacy",
                 "addr:place": "Lubenia"
@@ -871,7 +869,6 @@
                 "name": "Pod Zegarem",
                 "addr:street": "Kazimierza Wielkiego",
                 "addr:housenumber": "1",
-                "addr:flats": "3",
                 "addr:city": "Dynów",
                 "addr:postcode": "37-760",
                 "amenity": "pharmacy"
@@ -967,7 +964,6 @@
                 "name": "Różana",
                 "addr:street": "Rynek",
                 "addr:housenumber": "6",
-                "addr:flats": "2",
                 "addr:city": "Dynów",
                 "addr:postcode": "36-065",
                 "amenity": "pharmacy"

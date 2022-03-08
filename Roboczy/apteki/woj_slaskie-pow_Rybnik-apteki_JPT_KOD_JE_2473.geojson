@@ -368,7 +368,6 @@
                 "name": "\"Apteka Cef@Rm 36,6\"",
                 "addr:street": "Gliwicka",
                 "addr:housenumber": "45",
-                "addr:flats": "06",
                 "addr:city": "Rybnik",
                 "addr:postcode": "44-200",
                 "amenity": "pharmacy"
@@ -502,7 +501,6 @@
                 "name": "Apteka Damian",
                 "addr:street": "Raciborska",
                 "addr:housenumber": "3",
-                "addr:flats": "1",
                 "addr:city": "Rybnik",
                 "addr:postcode": "44-200",
                 "amenity": "pharmacy"
@@ -655,7 +653,6 @@
                 "name": "Apteka Paruszowiec",
                 "addr:street": "Mikołowska",
                 "addr:housenumber": "65",
-                "addr:flats": "67",
                 "addr:city": "Rybnik",
                 "addr:postcode": "44-200",
                 "amenity": "pharmacy"

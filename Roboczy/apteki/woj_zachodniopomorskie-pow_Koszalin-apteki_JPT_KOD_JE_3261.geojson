@@ -47,7 +47,6 @@
                 "name": "Apteka Plus",
                 "addr:street": "Traugutta",
                 "addr:housenumber": "31",
-                "addr:flats": "1",
                 "addr:city": "Koszalin",
                 "addr:postcode": "75-569",
                 "amenity": "pharmacy"
@@ -556,7 +555,6 @@
                 "name": "Przy Katedrze",
                 "addr:street": "Zwycięstwa",
                 "addr:housenumber": "46",
-                "addr:flats": "U12",
                 "addr:city": "Koszalin",
                 "addr:postcode": "75-038",
                 "amenity": "pharmacy"
@@ -1008,7 +1006,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Rynek Staromiejski",
                 "addr:housenumber": "9",
-                "addr:flats": "13",
                 "addr:city": "Koszalin",
                 "addr:postcode": "75-007",
                 "amenity": "pharmacy"

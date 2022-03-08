@@ -104,7 +104,6 @@
                 "name": "Anet-Med",
                 "addr:street": "11 Listopada",
                 "addr:housenumber": "171",
-                "addr:flats": "A",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
                 "amenity": "pharmacy"
@@ -789,7 +788,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "11 Listopada",
                 "addr:housenumber": "122",
-                "addr:flats": "2",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
                 "amenity": "pharmacy"
@@ -809,7 +807,6 @@
                 "name": "Apteka Przyjazna",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "25",
-                "addr:flats": "27",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-208",
                 "amenity": "pharmacy"

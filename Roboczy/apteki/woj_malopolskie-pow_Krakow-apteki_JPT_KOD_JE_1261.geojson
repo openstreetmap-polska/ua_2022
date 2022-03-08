@@ -275,7 +275,6 @@
                 "name": "Apteka Vita",
                 "addr:street": "Chmieleniec",
                 "addr:housenumber": "2",
-                "addr:flats": "LU6",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-348",
                 "amenity": "pharmacy"
@@ -351,7 +350,6 @@
                 "ref:csioz": 1074692,
                 "addr:street": "Podłęska",
                 "addr:housenumber": "17A",
-                "addr:flats": "49",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-865",
                 "amenity": "pharmacy"
@@ -503,7 +501,6 @@
                 "name": "Apteka Niezapominajka Dla Całej Rodziny",
                 "addr:street": "Torfowa",
                 "addr:housenumber": "4",
-                "addr:flats": "1",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-384",
                 "amenity": "pharmacy"
@@ -542,7 +539,6 @@
                 "name": "Niepubliczny Zakład Opieki Zdrowotnej Specjalistyczne Centrum Chirurgiczne Estetika-Nova",
                 "addr:street": "Tuchowska",
                 "addr:housenumber": "6B",
-                "addr:flats": "5",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-618",
                 "amenity": "pharmacy"
@@ -581,7 +577,6 @@
                 "name": "Apteka Fantazja",
                 "addr:street": "Borkowska",
                 "addr:housenumber": "3",
-                "addr:flats": "LU8",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-438",
                 "amenity": "pharmacy"
@@ -658,7 +653,6 @@
                 "name": "Ziko",
                 "addr:street": "Beskidzka",
                 "addr:housenumber": "30A",
-                "addr:flats": "3",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-611",
                 "amenity": "pharmacy"
@@ -847,7 +841,6 @@
                 "ref:csioz": 1037124,
                 "addr:street": "Turniejowa",
                 "addr:housenumber": "73",
-                "addr:flats": "1",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-619",
                 "amenity": "pharmacy"
@@ -1055,7 +1048,6 @@
                 "name": "Apteka Orchis",
                 "addr:street": "Adama Bochenka",
                 "addr:housenumber": "10",
-                "addr:flats": "5",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-693",
                 "amenity": "pharmacy"
@@ -1282,7 +1274,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Kordiana",
                 "addr:housenumber": "34A",
-                "addr:flats": "U3",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-653",
                 "amenity": "pharmacy"
@@ -1321,7 +1312,6 @@
                 "name": "Apteka Antek",
                 "addr:street": "Alfreda Dauna",
                 "addr:housenumber": "97",
-                "addr:flats": "U10-U11",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-629",
                 "amenity": "pharmacy"
@@ -1379,7 +1369,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Czerwone Maki",
                 "addr:housenumber": "33",
-                "addr:flats": "0.3",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-392",
                 "amenity": "pharmacy"
@@ -1437,7 +1426,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Turniejowa",
                 "addr:housenumber": "73F",
-                "addr:flats": "70",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-619",
                 "amenity": "pharmacy"
@@ -1495,7 +1483,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Osiedle Jagiellońskie",
                 "addr:housenumber": "19",
-                "addr:flats": "23U",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-834",
                 "amenity": "pharmacy"
@@ -1515,7 +1502,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Osiedle Oświecenia",
                 "addr:housenumber": "21",
-                "addr:flats": "9A",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-635",
                 "amenity": "pharmacy"
@@ -1779,7 +1765,6 @@
                 "ref:csioz": 1077519,
                 "addr:street": "Sołtysowska",
                 "addr:housenumber": "12A",
-                "addr:flats": "5U",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-870",
                 "amenity": "pharmacy"
@@ -1818,7 +1803,6 @@
                 "name": "Apteka Zdrowie",
                 "addr:street": "Osiedle 2 Pułku Lotniczego",
                 "addr:housenumber": "1",
-                "addr:flats": "3",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-867",
                 "amenity": "pharmacy"
@@ -1838,7 +1822,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Osiedle Centrum C",
                 "addr:housenumber": "9",
-                "addr:flats": "2",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-931",
                 "amenity": "pharmacy"
@@ -1877,7 +1860,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Osiedle Urocze",
                 "addr:housenumber": "1",
-                "addr:flats": "U005",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-952",
                 "amenity": "pharmacy"
@@ -2144,7 +2126,6 @@
                 "name": "Doz Apteka. Dbam O Zdrowie. Vita",
                 "addr:street": "gen. Leopolda Okulickiego",
                 "addr:housenumber": "51",
-                "addr:flats": "290",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-637",
                 "amenity": "pharmacy"
@@ -2352,7 +2333,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Osiedle Centrum C",
                 "addr:housenumber": "1",
-                "addr:flats": "U2",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-929",
                 "amenity": "pharmacy"
@@ -2429,7 +2409,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Osiedle Dywizjonu 303",
                 "addr:housenumber": "62F",
-                "addr:flats": "LU4",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-875",
                 "amenity": "pharmacy"
@@ -2487,7 +2466,6 @@
                 "name": "Niezapominajka Dla Całej Rodziny",
                 "addr:street": "Bieńczycki Plac Targowy",
                 "addr:housenumber": "11",
-                "addr:flats": "1",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-831",
                 "amenity": "pharmacy"
@@ -2526,7 +2504,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Osiedle Złotego Wieku",
                 "addr:housenumber": "19",
-                "addr:flats": "20",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-616",
                 "amenity": "pharmacy"
@@ -2733,7 +2710,6 @@
                 "ref:csioz": 1035115,
                 "addr:street": "Prądnicka",
                 "addr:housenumber": "85",
-                "addr:flats": "87",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-202",
                 "amenity": "pharmacy"
@@ -2790,7 +2766,6 @@
                 "name": "\"Apteka \"\"Pod Liściem Mięty\"\"\"",
                 "addr:street": "Wrocławska",
                 "addr:housenumber": "8",
-                "addr:flats": "1",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-006",
                 "amenity": "pharmacy"
@@ -2810,7 +2785,6 @@
                 "name": "Ziko",
                 "addr:street": "Bratysławska",
                 "addr:housenumber": "2",
-                "addr:flats": "6B",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-201",
                 "amenity": "pharmacy"
@@ -2962,7 +2936,6 @@
                 "ref:csioz": 1036852,
                 "addr:street": "Zygmunta Miłkowskiego",
                 "addr:housenumber": "3",
-                "addr:flats": "1",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-349",
                 "amenity": "pharmacy"
@@ -3321,7 +3294,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Rusznikarska",
                 "addr:housenumber": "14",
-                "addr:flats": "1",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-261",
                 "amenity": "pharmacy"
@@ -3751,7 +3723,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Pawia",
                 "addr:housenumber": "5a",
-                "addr:flats": "K-330",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-154",
                 "amenity": "pharmacy"
@@ -3828,7 +3799,6 @@
                 "name": "Scm-Oddział Chirurgii Jednego Dnia",
                 "addr:street": "Grzegórzecka",
                 "addr:housenumber": "67C",
-                "addr:flats": "U6",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-559",
                 "amenity": "pharmacy"
@@ -4375,7 +4345,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "gen. Augusta Fieldorfa-Nila",
                 "addr:housenumber": "14",
-                "addr:flats": "JU2B",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-209",
                 "amenity": "pharmacy"
@@ -4452,7 +4421,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Józefa Mehoffera",
                 "addr:housenumber": "17",
-                "addr:flats": "9",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-322",
                 "amenity": "pharmacy"
@@ -4661,7 +4629,6 @@
                 "name": "Hygieia",
                 "addr:street": "Kalwaryjska",
                 "addr:housenumber": "48",
-                "addr:flats": "52",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-504",
                 "amenity": "pharmacy"
@@ -4774,7 +4741,6 @@
                 "name": "Apteka Mieszczańska- Mgr Farm. Andrzej Snopkowski I Wspólnicy Spólka Jawna",
                 "addr:street": "Mieszczańska",
                 "addr:housenumber": "2",
-                "addr:flats": "1U",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-313",
                 "amenity": "pharmacy"
@@ -4924,7 +4890,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Henryka Kamieńskiego",
                 "addr:housenumber": "11",
-                "addr:flats": "E22",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-644",
                 "amenity": "pharmacy"
@@ -5392,7 +5357,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Pawia",
                 "addr:housenumber": "5",
-                "addr:flats": "20",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-154",
                 "amenity": "pharmacy"
@@ -5431,7 +5395,6 @@
                 "name": "„Dr. Max”",
                 "addr:street": "Stawowa",
                 "addr:housenumber": "61",
-                "addr:flats": "16",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-346",
                 "amenity": "pharmacy"
@@ -5716,7 +5679,6 @@
                 "name": "Doz Apteka. Dbam O Zdrowie",
                 "addr:street": "Stanisława Klimeckiego",
                 "addr:housenumber": "1",
-                "addr:flats": "1.04.B",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-705",
                 "amenity": "pharmacy"
@@ -5793,7 +5755,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Kobierzyńska",
                 "addr:housenumber": "93",
-                "addr:flats": "10U",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-382",
                 "amenity": "pharmacy"
@@ -5832,7 +5793,6 @@
                 "name": "Apteka Nowa Nadzieja",
                 "addr:street": "Śliczna",
                 "addr:housenumber": "34B",
-                "addr:flats": "U2",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-444",
                 "amenity": "pharmacy"
@@ -5871,7 +5831,6 @@
                 "name": "Centrum Medyczne Evita Chirurgia Jednego Dnia",
                 "addr:street": "Szlak",
                 "addr:housenumber": "28",
-                "addr:flats": "8",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-153",
                 "amenity": "pharmacy"
@@ -5891,7 +5850,6 @@
                 "name": "Regenmed Szpital",
                 "addr:street": "Grzegórzecka",
                 "addr:housenumber": "67C",
-                "addr:flats": "U6",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-559",
                 "amenity": "pharmacy"
@@ -5968,7 +5926,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Pawia",
                 "addr:housenumber": "5",
-                "addr:flats": "00-640/00",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-154",
                 "amenity": "pharmacy"
@@ -6045,7 +6002,6 @@
                 "name": "Vidium Medica Centrum Chirurgii Laserowej",
                 "addr:street": "Kluczborska",
                 "addr:housenumber": "17",
-                "addr:flats": "6",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-271",
                 "amenity": "pharmacy"
@@ -6160,7 +6116,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "płk. Francesco Nullo",
                 "addr:housenumber": "42",
-                "addr:flats": "U4",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-543",
                 "amenity": "pharmacy"
@@ -6180,7 +6135,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Henryka Kamieńskiego",
                 "addr:housenumber": "11",
-                "addr:flats": "E19+E20+E21",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-644",
                 "amenity": "pharmacy"
@@ -6200,7 +6154,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Aleja gen. Tadeusza Bora-Komorowskiego",
                 "addr:housenumber": "41",
-                "addr:flats": "M007",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-001",
                 "amenity": "pharmacy"
@@ -6220,7 +6173,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Grażyny",
                 "addr:housenumber": "4",
-                "addr:flats": "5",
                 "addr:city": "Kraków",
                 "addr:postcode": "31-217",
                 "amenity": "pharmacy"
@@ -6259,7 +6211,6 @@
                 "name": "Szpital Dworska",
                 "addr:street": "Dworska",
                 "addr:housenumber": "1B",
-                "addr:flats": "1LU",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-314",
                 "amenity": "pharmacy"
@@ -6298,7 +6249,6 @@
                 "name": "Niezapominajka Dla Całej Rodziny",
                 "addr:street": "Plac Inwalidów",
                 "addr:housenumber": "8",
-                "addr:flats": "1",
                 "addr:city": "Kraków",
                 "addr:postcode": "30-033",
                 "amenity": "pharmacy"

@@ -408,7 +408,6 @@
                 "name": "Apteka Krokus",
                 "addr:street": "Kościuszki",
                 "addr:housenumber": "12",
-                "addr:flats": "45",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
                 "amenity": "pharmacy"
@@ -447,7 +446,6 @@
                 "name": "Dobra Apteka",
                 "addr:street": "Pułaskiego",
                 "addr:housenumber": "6B",
-                "addr:flats": "1",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
                 "amenity": "pharmacy"

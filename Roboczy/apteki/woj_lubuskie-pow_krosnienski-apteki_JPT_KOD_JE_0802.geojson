@@ -45,7 +45,6 @@
                 "ref:csioz": 1148112,
                 "addr:street": "Śląska",
                 "addr:housenumber": "37A",
-                "addr:flats": "1",
                 "addr:city": "Gubin",
                 "addr:postcode": "66-620",
                 "amenity": "pharmacy"
@@ -234,7 +233,6 @@
                 "name": "Poznańska Od Zawsze",
                 "addr:street": "Poznańska",
                 "addr:housenumber": "19",
-                "addr:flats": "LU3",
                 "addr:city": "Krosno Odrzańskie",
                 "addr:postcode": "66-600",
                 "amenity": "pharmacy"

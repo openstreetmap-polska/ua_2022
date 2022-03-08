@@ -235,7 +235,6 @@
                 "name": "Prestige Numer 1",
                 "addr:street": "Kazimierza Jarząbka",
                 "addr:housenumber": "26",
-                "addr:flats": "221",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
                 "amenity": "pharmacy"
@@ -441,7 +440,6 @@
                 "ref:csioz": 1114766,
                 "addr:street": "Nadrzeczna",
                 "addr:housenumber": "3F",
-                "addr:flats": "1",
                 "addr:city": "Wólka Kosowska",
                 "addr:postcode": "05-552",
                 "amenity": "pharmacy"
@@ -461,7 +459,6 @@
                 "name": "Centralna",
                 "addr:street": "Puławska",
                 "addr:housenumber": "43",
-                "addr:flats": "6",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
                 "amenity": "pharmacy"
@@ -481,7 +478,6 @@
                 "name": "Zdrowie Piaseczna",
                 "addr:street": "Aleja Kalin",
                 "addr:housenumber": "55",
-                "addr:flats": "6",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
                 "amenity": "pharmacy"
@@ -558,7 +554,6 @@
                 "name": "Centralna",
                 "addr:street": "Fabryczna",
                 "addr:housenumber": "2",
-                "addr:flats": "27",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
                 "amenity": "pharmacy"
@@ -595,7 +590,6 @@
                 "name": "Papaya 6",
                 "addr:street": "mjr. Edwarda Ziółkowskiego",
                 "addr:housenumber": "8/10",
-                "addr:flats": "1",
                 "addr:city": "Tarczyn",
                 "addr:postcode": "05-555",
                 "amenity": "pharmacy"
@@ -1082,7 +1076,6 @@
                 "name": "Główna",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "28",
-                "addr:flats": "78",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
                 "amenity": "pharmacy"
@@ -1121,7 +1114,6 @@
                 "name": "Julianowska",
                 "addr:street": "Julianowska",
                 "addr:housenumber": "88J",
-                "addr:flats": "1",
                 "addr:city": "Julianów",
                 "addr:postcode": "05-550",
                 "amenity": "pharmacy"
@@ -1443,7 +1435,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Nowa",
                 "addr:housenumber": "4A",
-                "addr:flats": "B.05",
                 "addr:city": "Stara Iwiczna",
                 "addr:postcode": "05-500",
                 "amenity": "pharmacy"

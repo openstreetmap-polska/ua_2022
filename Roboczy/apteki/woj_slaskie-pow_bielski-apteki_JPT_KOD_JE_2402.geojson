@@ -104,7 +104,6 @@
                 "name": "Zdrowie",
                 "addr:street": "Henryka Sienkiewicza",
                 "addr:housenumber": "4",
-                "addr:flats": "1",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
                 "amenity": "pharmacy"
@@ -445,7 +444,6 @@
                 "name": "W Rynku",
                 "addr:street": "pl. Jana Pawła II",
                 "addr:housenumber": "4",
-                "addr:flats": "1",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
                 "amenity": "pharmacy"
@@ -710,7 +708,6 @@
                 "ref:csioz": 1120218,
                 "name": "Familia",
                 "addr:housenumber": "541",
-                "addr:flats": "6",
                 "addr:postcode": "43-394",
                 "amenity": "pharmacy",
                 "addr:place": "Rudzica"

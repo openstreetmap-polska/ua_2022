@@ -161,7 +161,6 @@
                 "name": "Sante",
                 "addr:street": "Karpacka",
                 "addr:housenumber": "33",
-                "addr:flats": "II",
                 "addr:city": "Świętochłowice",
                 "addr:postcode": "41-608",
                 "amenity": "pharmacy"
@@ -238,7 +237,6 @@
                 "name": "Hygieia",
                 "addr:street": "ul. Śląska",
                 "addr:housenumber": "109",
-                "addr:flats": "6B",
                 "addr:city": "Świętochłowice",
                 "addr:postcode": "41-600",
                 "amenity": "pharmacy"

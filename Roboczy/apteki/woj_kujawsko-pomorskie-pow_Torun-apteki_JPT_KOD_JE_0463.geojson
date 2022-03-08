@@ -9,7 +9,6 @@
                 "name": "Św. Faustyny",
                 "addr:street": "Św. Faustyny",
                 "addr:housenumber": "14",
-                "addr:flats": "4a",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -48,7 +47,6 @@
                 "name": "Herba",
                 "addr:street": "Storczykowa",
                 "addr:housenumber": "8",
-                "addr:flats": "10",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -125,7 +123,6 @@
                 "name": "Apteka Pod Łabędziem",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "43",
-                "addr:flats": "47",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -183,7 +180,6 @@
                 "name": "Super-Pharm",
                 "addr:street": "Czerwona Droga",
                 "addr:housenumber": "1",
-                "addr:flats": "6",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -203,7 +199,6 @@
                 "name": "Apteka Podgórna",
                 "addr:street": "Podgórna",
                 "addr:housenumber": "13d",
-                "addr:flats": "5",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -261,7 +256,6 @@
                 "name": "Toruńska",
                 "addr:street": "Szosa Chełmińska",
                 "addr:housenumber": "84/86",
-                "addr:flats": "-",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -357,7 +351,6 @@
                 "name": "Apteka Szpitalna I Wojewódzkiego Szpitala Zespolonego Im. Ludwika Rydygiera W Toruniu",
                 "addr:street": "św. Józefa",
                 "addr:housenumber": "53",
-                "addr:flats": "59",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -377,7 +370,6 @@
                 "name": "Wojewódzki Ośrodek Terapii Uzależnień I Współuzależnienia W Toruniu",
                 "addr:street": "Włocławska",
                 "addr:housenumber": "233",
-                "addr:flats": "235",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -416,7 +408,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "Bolesława Chrobrego",
                 "addr:housenumber": "1",
-                "addr:flats": "3",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -568,7 +559,6 @@
                 "ref:csioz": 1101094,
                 "addr:street": "św. Józefa",
                 "addr:housenumber": "53",
-                "addr:flats": "59",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -740,7 +730,6 @@
                 "name": "Im. J. Korczaka",
                 "addr:street": "Ignacego Łyskowskiego",
                 "addr:housenumber": "29",
-                "addr:flats": "35",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -760,7 +749,6 @@
                 "name": "\"Apteka 'Nova' S.C.\"",
                 "addr:street": "Józefa Wybickiego",
                 "addr:housenumber": "47",
-                "addr:flats": "49",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -1027,7 +1015,6 @@
                 "name": "Apteka Szpitalna Iii Wojewódzkiego Szpitala Zespolonego Im. Ludwika Rydygiera W Toruniu",
                 "addr:street": "Zygmunta Krasińskiego",
                 "addr:housenumber": "4",
-                "addr:flats": "4a",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -1047,7 +1034,6 @@
                 "name": "Apteka Szpitalna Specjalistycznego Szpitala Miejskiego Im. M. Kopernika W Toruniu",
                 "addr:street": "Stefana Batorego",
                 "addr:housenumber": "17",
-                "addr:flats": "19",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -1086,7 +1072,6 @@
                 "name": "Bliska",
                 "addr:street": "Juliana Fałata",
                 "addr:housenumber": "35",
-                "addr:flats": "37",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -1144,7 +1129,6 @@
                 "name": "\"'Medapteka'\"",
                 "addr:street": "Władysława Dziewulskiego",
                 "addr:housenumber": "21",
-                "addr:flats": "pawilon 314",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -1297,7 +1281,6 @@
                 "name": "Gemini",
                 "addr:street": "Królowej Jadwigi",
                 "addr:housenumber": "9",
-                "addr:flats": "-",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -1393,7 +1376,6 @@
                 "name": "Apteka Bliska Tobie",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "43",
-                "addr:flats": "45",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -1413,7 +1395,6 @@
                 "name": "\"'Pharmaland'\"",
                 "addr:street": "Władysława Broniewskiego",
                 "addr:housenumber": "90",
-                "addr:flats": "0089",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -1471,7 +1452,6 @@
                 "name": "Apteka Puls",
                 "addr:street": "Ludwika Rydygiera",
                 "addr:housenumber": "26B",
-                "addr:flats": "-",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -1567,7 +1547,6 @@
                 "name": "Z Uśmiechem",
                 "addr:street": "Kardynała Stefana Wyszyńskiego",
                 "addr:housenumber": "19",
-                "addr:flats": "003",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"
@@ -1625,7 +1604,6 @@
                 "name": "Lubicka",
                 "addr:street": "Lubicka",
                 "addr:housenumber": "53",
-                "addr:flats": "-",
                 "addr:city": "Toruń",
                 "addr:postcode": "87-100",
                 "amenity": "pharmacy"

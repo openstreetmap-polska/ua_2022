@@ -236,7 +236,6 @@
                 "name": "Duos",
                 "addr:street": "Adama Mickiewicza",
                 "addr:housenumber": "10",
-                "addr:flats": "1",
                 "addr:city": "Chorzów",
                 "addr:postcode": "41-500",
                 "amenity": "pharmacy"
@@ -559,7 +558,6 @@
                 "name": "Sieciowa Nr 15",
                 "addr:street": "Graniczna",
                 "addr:housenumber": "15",
-                "addr:flats": "4",
                 "addr:city": "Chorzów",
                 "addr:postcode": "41-506",
                 "amenity": "pharmacy"
@@ -712,7 +710,6 @@
                 "name": "Hygieia",
                 "addr:street": "Wolności",
                 "addr:housenumber": "40",
-                "addr:flats": "1",
                 "addr:city": "Chorzów",
                 "addr:postcode": "41-500",
                 "amenity": "pharmacy"
@@ -789,7 +786,6 @@
                 "name": "Apteka Rodzinna",
                 "addr:street": "Graniczna",
                 "addr:housenumber": "88",
-                "addr:flats": "3",
                 "addr:city": "Chorzów",
                 "addr:postcode": "41-506",
                 "amenity": "pharmacy"

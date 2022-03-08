@@ -653,7 +653,6 @@
                 "name": "Niezapominajka Dla Całej Rodziny",
                 "addr:street": "Armii Krajowej",
                 "addr:housenumber": "35",
-                "addr:flats": "lokal 1",
                 "addr:city": "Lubin",
                 "addr:postcode": "59-300",
                 "amenity": "pharmacy"
@@ -711,7 +710,6 @@
                 "name": "Miedziowa",
                 "addr:street": "Pawia",
                 "addr:housenumber": "67",
-                "addr:flats": "1",
                 "addr:city": "Lubin",
                 "addr:postcode": "59-300",
                 "amenity": "pharmacy"
@@ -731,7 +729,6 @@
                 "name": "Eliksir",
                 "addr:street": "Rynek",
                 "addr:housenumber": "13",
-                "addr:flats": "lok. 1",
                 "addr:city": "Chobienia",
                 "addr:postcode": "59-305",
                 "amenity": "pharmacy"
@@ -770,7 +767,6 @@
                 "name": "Apteka Na Rynku",
                 "addr:street": "Zwycięstwa",
                 "addr:housenumber": "16",
-                "addr:flats": "1",
                 "addr:city": "Rudna",
                 "addr:postcode": "59-305",
                 "amenity": "pharmacy"

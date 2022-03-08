@@ -172,7 +172,6 @@
             "properties": {
                 "ref:csioz": 1077284,
                 "addr:housenumber": "317",
-                "addr:flats": "1",
                 "addr:postcode": "32-412",
                 "amenity": "pharmacy",
                 "addr:place": "Wiśniowa"
@@ -593,7 +592,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Słoneczna",
                 "addr:housenumber": "2E",
-                "addr:flats": "lok. 0.15",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
                 "amenity": "pharmacy"

@@ -482,7 +482,6 @@
                 "ref:csioz": 1157503,
                 "addr:street": "Rynek",
                 "addr:housenumber": "I",
-                "addr:flats": "15A",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
                 "amenity": "pharmacy"
@@ -612,7 +611,6 @@
                 "name": "Apteka Vita W Galerii Topaz",
                 "addr:street": "Lubelska",
                 "addr:housenumber": "95B",
-                "addr:flats": "L2",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
                 "amenity": "pharmacy"
@@ -744,7 +742,6 @@
                 "ref:csioz": 1162021,
                 "addr:street": "22-go Lipca",
                 "addr:housenumber": "2",
-                "addr:flats": "4",
                 "addr:city": "Abramów",
                 "addr:postcode": "21-143",
                 "amenity": "pharmacy"

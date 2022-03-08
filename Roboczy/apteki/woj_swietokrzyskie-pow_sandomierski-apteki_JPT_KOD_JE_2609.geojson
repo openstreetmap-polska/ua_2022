@@ -266,7 +266,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Por. Tadeusza Króla",
                 "addr:housenumber": "1",
-                "addr:flats": "1",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
                 "amenity": "pharmacy"
@@ -396,7 +395,6 @@
                 "name": "Arnika",
                 "addr:street": "Adama Mickiewicza",
                 "addr:housenumber": "51A",
-                "addr:flats": "2",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
                 "amenity": "pharmacy"
@@ -622,7 +620,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "Armii Krajowej",
                 "addr:housenumber": "10",
-                "addr:flats": "1",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
                 "amenity": "pharmacy"

@@ -194,7 +194,6 @@
                 "name": "Apteka Główna Wisła",
                 "addr:street": "Jawornik",
                 "addr:housenumber": "1a",
-                "addr:flats": "4",
                 "addr:city": "Wisła",
                 "addr:postcode": "43-460",
                 "amenity": "pharmacy"
@@ -803,7 +802,6 @@
                 "name": "Medea 2",
                 "addr:street": "Bolesława Limanowskiego",
                 "addr:housenumber": "9",
-                "addr:flats": "1",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
                 "amenity": "pharmacy"
@@ -1315,7 +1313,6 @@
                 "ref:csioz": 1203912,
                 "addr:street": "Sanatoryjna",
                 "addr:housenumber": "7",
-                "addr:flats": "AHP",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
                 "amenity": "pharmacy"
@@ -1411,7 +1408,6 @@
                 "name": "\"Nzoz Centrum Lekarskie 'Alfa' Sp. J. Ryszard Sędziak I Wspólnicy - Opieka Całodobowa\"",
                 "addr:street": "Gustawa Morcinka",
                 "addr:housenumber": "16B",
-                "addr:flats": "lok. 2",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
                 "amenity": "pharmacy"

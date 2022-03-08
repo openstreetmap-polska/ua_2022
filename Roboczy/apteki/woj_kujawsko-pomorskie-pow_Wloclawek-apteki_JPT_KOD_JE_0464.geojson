@@ -84,7 +84,6 @@
                 "name": "Apteka Wieniecka Tanie Leki",
                 "addr:street": "Wieniecka",
                 "addr:housenumber": "14",
-                "addr:flats": "1",
                 "addr:city": "Włocławek",
                 "addr:postcode": "87-800",
                 "amenity": "pharmacy"
@@ -199,7 +198,6 @@
                 "name": "Witaminka",
                 "addr:street": "Kruszyńska",
                 "addr:housenumber": "17",
-                "addr:flats": "27",
                 "addr:city": "Włocławek",
                 "addr:postcode": "87-800",
                 "amenity": "pharmacy"
@@ -314,7 +312,6 @@
                 "name": "Apteka Społeczna Na Placu Wolności Grupa Nowa Farmacja",
                 "addr:street": "Plac Wolności",
                 "addr:housenumber": "8",
-                "addr:flats": "9",
                 "addr:city": "Włocławek",
                 "addr:postcode": "87-800",
                 "amenity": "pharmacy"
@@ -522,7 +519,6 @@
                 "name": "Pigułka",
                 "addr:street": "Królewiecka",
                 "addr:housenumber": "41/43",
-                "addr:flats": "50",
                 "addr:city": "Włocławek",
                 "addr:postcode": "87-800",
                 "amenity": "pharmacy"
@@ -561,7 +557,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "16B",
-                "addr:flats": "C0/1+C0/2",
                 "addr:city": "Włocławek",
                 "addr:postcode": "87-800",
                 "amenity": "pharmacy"
@@ -657,7 +652,6 @@
                 "name": "Victoria Iv",
                 "addr:street": "Kazimierza Łady",
                 "addr:housenumber": "10",
-                "addr:flats": "-",
                 "addr:city": "Włocławek",
                 "addr:postcode": "87-800",
                 "amenity": "pharmacy"
@@ -734,7 +728,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Żytnia",
                 "addr:housenumber": "66",
-                "addr:flats": "68",
                 "addr:city": "Włocławek",
                 "addr:postcode": "87-806",
                 "amenity": "pharmacy"

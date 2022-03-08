@@ -84,7 +84,6 @@
                 "name": "Apteka Hipokrates",
                 "addr:street": "Mielczarskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "7",
                 "addr:city": "Sławno",
                 "addr:postcode": "76-100",
                 "amenity": "pharmacy"
@@ -123,7 +122,6 @@
                 "name": "Miętowa",
                 "addr:street": "Powstańców Warszawskich",
                 "addr:housenumber": "18",
-                "addr:flats": "1",
                 "addr:city": "Darłowo",
                 "addr:postcode": "76-150",
                 "amenity": "pharmacy"

@@ -85,7 +85,6 @@
                 "name": "Acer",
                 "addr:street": "ks. kard. Wyszyńskiego",
                 "addr:housenumber": "6",
-                "addr:flats": "41",
                 "addr:city": "Łomża",
                 "addr:postcode": "18-400",
                 "amenity": "pharmacy"
@@ -143,7 +142,6 @@
                 "name": "Apteka Flos Mgr Farm. Iwona Ruszczyk",
                 "addr:street": "ks. kard. Wyszyńskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "15-16",
                 "addr:city": "Łomża",
                 "addr:postcode": "18-400",
                 "amenity": "pharmacy"
@@ -163,7 +161,6 @@
                 "name": "Medicines",
                 "addr:street": "Kazańska",
                 "addr:housenumber": "10",
-                "addr:flats": "7",
                 "addr:city": "Łomża",
                 "addr:postcode": "18-400",
                 "amenity": "pharmacy"
@@ -388,7 +385,6 @@
                 "name": "Apteka Abc Marta Misiewicz",
                 "addr:street": "Stanisława Małachowskiego",
                 "addr:housenumber": "6",
-                "addr:flats": "50",
                 "addr:city": "Łomża",
                 "addr:postcode": "18-400",
                 "amenity": "pharmacy"
@@ -501,7 +497,6 @@
                 "name": "Apteka Rodzinna",
                 "addr:street": "Sybiraków",
                 "addr:housenumber": "20B",
-                "addr:flats": "1A",
                 "addr:city": "Łomża",
                 "addr:postcode": "18-400",
                 "amenity": "pharmacy"
@@ -521,7 +516,6 @@
                 "name": "Nowa Apteka Rodzinna Epidauros",
                 "addr:street": "Księżnej Anny",
                 "addr:housenumber": "29",
-                "addr:flats": "1",
                 "addr:city": "Łomża",
                 "addr:postcode": "18-400",
                 "amenity": "pharmacy"
@@ -598,7 +592,6 @@
                 "name": "Hebeapteka",
                 "addr:street": "marsz. Józefa  Piłsudskiego",
                 "addr:housenumber": "121A",
-                "addr:flats": "4",
                 "addr:city": "Łomża",
                 "addr:postcode": "18-400",
                 "amenity": "pharmacy"

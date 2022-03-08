@@ -45,7 +45,6 @@
                 "name": "Apteka Rodzinna",
                 "addr:street": "Kościuszki",
                 "addr:housenumber": "47",
-                "addr:flats": "5",
                 "addr:city": "Trzebinia",
                 "addr:postcode": "32-540",
                 "amenity": "pharmacy"
@@ -179,7 +178,6 @@
                 "name": "Pod Złotą Gwiazdą",
                 "addr:street": "Topolowa",
                 "addr:housenumber": "16",
-                "addr:flats": "20",
                 "addr:city": "Chrzanów",
                 "addr:postcode": "32-500",
                 "amenity": "pharmacy"
@@ -894,7 +892,6 @@
                 "name": "Apteka Pod Orłem",
                 "addr:street": "1 Maja",
                 "addr:housenumber": "7",
-                "addr:flats": "2",
                 "addr:city": "Libiąż",
                 "addr:postcode": "32-590",
                 "amenity": "pharmacy"

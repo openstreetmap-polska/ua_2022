@@ -368,7 +368,6 @@
                 "name": "Sokal",
                 "addr:street": "Ludowa",
                 "addr:housenumber": "11",
-                "addr:flats": "A-B",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
                 "amenity": "pharmacy"
@@ -932,7 +931,6 @@
                 "name": "Sokal",
                 "addr:street": "14 LUTEGO",
                 "addr:housenumber": "26",
-                "addr:flats": "028",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
                 "amenity": "pharmacy"

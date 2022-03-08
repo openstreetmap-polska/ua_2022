@@ -504,7 +504,6 @@
                 "name": "Rodzinna",
                 "addr:street": "Przemysłowa",
                 "addr:housenumber": "22A",
-                "addr:flats": "\"5, 6\"",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
                 "amenity": "pharmacy"
@@ -617,7 +616,6 @@
                 "name": "\"'Apteka Doz Dbam O Zdrowie'\"",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "46",
-                "addr:flats": "1",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
                 "amenity": "pharmacy"

@@ -256,7 +256,6 @@
                 "name": "\"Apteka Zdrowit'\"",
                 "addr:street": "kard. Stefana Wyszyńskiego",
                 "addr:housenumber": "14",
-                "addr:flats": "1",
                 "addr:city": "Pyskowice",
                 "addr:postcode": "44-120",
                 "amenity": "pharmacy"
@@ -313,7 +312,6 @@
                 "name": "Apteka Zdrowit",
                 "addr:street": "1 Maja",
                 "addr:housenumber": "74",
-                "addr:flats": "3",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-190",
                 "amenity": "pharmacy"

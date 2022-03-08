@@ -160,7 +160,6 @@
                 "name": "Dr.Max",
                 "addr:street": "1 Maja",
                 "addr:housenumber": "7A",
-                "addr:flats": "H 06",
                 "addr:city": "Biskupiec",
                 "addr:postcode": "11-300",
                 "amenity": "pharmacy"
@@ -442,7 +441,6 @@
                 "name": "Apteka Sana",
                 "addr:street": "Tęczowy Las",
                 "addr:housenumber": "5",
-                "addr:flats": "U3",
                 "addr:city": "Bartąg",
                 "addr:postcode": "10-687",
                 "amenity": "pharmacy"
@@ -499,7 +497,6 @@
                 "name": "Pod Moździerzem",
                 "addr:street": "Mazurska",
                 "addr:housenumber": "4",
-                "addr:flats": "5",
                 "addr:city": "Barczewo",
                 "addr:postcode": "11-010",
                 "amenity": "pharmacy"
@@ -538,7 +535,6 @@
                 "name": "Apteka Warmińska",
                 "addr:street": "Spółdzielcza",
                 "addr:housenumber": "2A",
-                "addr:flats": "E2",
                 "addr:city": "Dywity",
                 "addr:postcode": "11-001",
                 "amenity": "pharmacy"
@@ -688,7 +684,6 @@
                 "name": "Apteki Arnika",
                 "addr:street": "Mazurska",
                 "addr:housenumber": "2",
-                "addr:flats": "1",
                 "addr:city": "Stawiguda",
                 "addr:postcode": "11-034",
                 "amenity": "pharmacy"
@@ -746,7 +741,6 @@
                 "name": "Apteka Prima",
                 "addr:street": "650-lecia Jonkowa",
                 "addr:housenumber": "9",
-                "addr:flats": "1",
                 "addr:city": "Jonkowo",
                 "addr:postcode": "11-042",
                 "amenity": "pharmacy"

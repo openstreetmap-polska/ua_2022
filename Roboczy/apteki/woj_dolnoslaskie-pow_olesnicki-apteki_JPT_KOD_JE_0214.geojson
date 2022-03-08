@@ -123,7 +123,6 @@
                 "name": "Nova",
                 "addr:street": "Jana Kilińskiego",
                 "addr:housenumber": "6",
-                "addr:flats": "/4",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
                 "amenity": "pharmacy"
@@ -428,7 +427,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "ul. Marii Skłodowskiej-Curie",
                 "addr:housenumber": "2-4",
-                "addr:flats": "lokal 4 i 5",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
                 "amenity": "pharmacy"

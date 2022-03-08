@@ -103,7 +103,6 @@
                 "name": "Miro",
                 "addr:street": "Floriana",
                 "addr:housenumber": "2",
-                "addr:flats": "U7",
                 "addr:city": "Ożarów Mazowiecki",
                 "addr:postcode": "05-850",
                 "amenity": "pharmacy"
@@ -274,7 +273,6 @@
                 "name": "Aptekarz W Łomiankach",
                 "addr:street": "Brukowa",
                 "addr:housenumber": "25",
-                "addr:flats": "40",
                 "addr:city": "Łomianki",
                 "addr:postcode": "05-092",
                 "amenity": "pharmacy"
@@ -424,7 +422,6 @@
                 "name": "Hebeapteka",
                 "addr:street": "Warszawska",
                 "addr:housenumber": "201",
-                "addr:flats": "14",
                 "addr:city": "Kiełpin Poduchowny",
                 "addr:postcode": "05-092",
                 "amenity": "pharmacy"
@@ -555,7 +552,6 @@
                 "name": "Apteki Centrum - Mazowieckie Centrum Leków",
                 "addr:street": "Partyzantów",
                 "addr:housenumber": "2A",
-                "addr:flats": "4",
                 "addr:city": "Leszno",
                 "addr:postcode": "05-084",
                 "amenity": "pharmacy"

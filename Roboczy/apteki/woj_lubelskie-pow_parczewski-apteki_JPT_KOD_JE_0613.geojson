@@ -193,7 +193,6 @@
                 "ref:csioz": 1044121,
                 "name": "Hibiscus",
                 "addr:housenumber": "15",
-                "addr:flats": "1",
                 "addr:postcode": "62-271",
                 "amenity": "pharmacy",
                 "addr:place": "DZIAŁYŃ"
@@ -285,7 +284,6 @@
                 "name": "Apteka Społeczna",
                 "addr:street": "Zwycięstwa",
                 "addr:housenumber": "9",
-                "addr:flats": "1.5B",
                 "addr:city": "Parczew",
                 "addr:postcode": "21-200",
                 "amenity": "pharmacy"

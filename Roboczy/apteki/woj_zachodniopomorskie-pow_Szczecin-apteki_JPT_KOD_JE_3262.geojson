@@ -197,7 +197,6 @@
                 "name": "Pod Filarami",
                 "addr:street": "Jasna",
                 "addr:housenumber": "3",
-                "addr:flats": "16",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-777",
                 "amenity": "pharmacy"
@@ -348,7 +347,6 @@
                 "name": "Medicament",
                 "addr:street": "bł. Wincentego Kadłubka",
                 "addr:housenumber": "10",
-                "addr:flats": "11",
                 "addr:city": "Szczecin",
                 "addr:postcode": "71-521",
                 "amenity": "pharmacy"
@@ -501,7 +499,6 @@
                 "name": "Apteka Rubinowa",
                 "addr:street": "Antoniego Ledóchowskiego",
                 "addr:housenumber": "16",
-                "addr:flats": "U3",
                 "addr:city": "Szczecin",
                 "addr:postcode": "71-004",
                 "amenity": "pharmacy"
@@ -691,7 +688,6 @@
                 "name": "Alfa",
                 "addr:street": "Bazarowa",
                 "addr:housenumber": "26",
-                "addr:flats": "28a",
                 "addr:city": "Szczecin",
                 "addr:postcode": "71-614",
                 "amenity": "pharmacy"
@@ -787,7 +783,6 @@
                 "name": "Apteka Z Sercem",
                 "addr:street": "Bolesława Krzywoustego",
                 "addr:housenumber": "9-10",
-                "addr:flats": "06",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-250",
                 "amenity": "pharmacy"
@@ -939,7 +934,6 @@
                 "name": "Amicus",
                 "addr:street": "Jagiellońska",
                 "addr:housenumber": "34a",
-                "addr:flats": "2",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-382",
                 "amenity": "pharmacy"
@@ -959,7 +953,6 @@
                 "name": "Galenica",
                 "addr:street": "Przyjaciół Żołnierza",
                 "addr:housenumber": "39",
-                "addr:flats": "41",
                 "addr:city": "Szczecin",
                 "addr:postcode": "71-670",
                 "amenity": "pharmacy"
@@ -1074,7 +1067,6 @@
                 "name": "Apteka Zdrowie",
                 "addr:street": "Santocka",
                 "addr:housenumber": "18",
-                "addr:flats": "8",
                 "addr:city": "Szczecin",
                 "addr:postcode": "71-113",
                 "amenity": "pharmacy"
@@ -1246,7 +1238,6 @@
                 "name": "Apteka Potulicka",
                 "addr:street": "Potulicka",
                 "addr:housenumber": "19",
-                "addr:flats": "1",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-234",
                 "amenity": "pharmacy"
@@ -1412,7 +1403,6 @@
                 "name": "Alfa",
                 "addr:street": "Andrzeja Struga",
                 "addr:housenumber": "18",
-                "addr:flats": "1.4",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-784",
                 "amenity": "pharmacy"
@@ -1489,7 +1479,6 @@
                 "name": "\"Apteka Cef@Rm 36,6 \"",
                 "addr:street": "Stanisława Więckowskiego",
                 "addr:housenumber": "1",
-                "addr:flats": "2",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-411",
                 "amenity": "pharmacy"
@@ -1509,7 +1498,6 @@
                 "name": "\"Apteka Cef@Rm 36,6\"",
                 "addr:street": "Ku Słońcu",
                 "addr:housenumber": "22d",
-                "addr:flats": "1",
                 "addr:city": "Szczecin",
                 "addr:postcode": "71-073",
                 "amenity": "pharmacy"
@@ -1776,7 +1764,6 @@
                 "name": "Apteka Na Redzie",
                 "addr:street": "Krakowska",
                 "addr:housenumber": "67",
-                "addr:flats": "68",
                 "addr:city": "Szczecin",
                 "addr:postcode": "71-017",
                 "amenity": "pharmacy"
@@ -1891,7 +1878,6 @@
                 "name": "Dbam O Zdrowie",
                 "addr:street": "Młodzieży Polskiej",
                 "addr:housenumber": "30a",
-                "addr:flats": "32",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-774",
                 "amenity": "pharmacy"
@@ -2177,7 +2163,6 @@
                 "name": "Korona",
                 "addr:street": "Bolesława Śmiałego",
                 "addr:housenumber": "22",
-                "addr:flats": "1",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-347",
                 "amenity": "pharmacy"
@@ -2235,7 +2220,6 @@
                 "name": "Zdrowie",
                 "addr:street": "ks. Hugona Kołłątaja",
                 "addr:housenumber": "1",
-                "addr:flats": "10",
                 "addr:city": "Szczecin",
                 "addr:postcode": "71-525",
                 "amenity": "pharmacy"
@@ -2426,7 +2410,6 @@
                 "name": "Centrum",
                 "addr:street": "Bolesława Krzywoustego",
                 "addr:housenumber": "56",
-                "addr:flats": "1",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-315",
                 "amenity": "pharmacy"
@@ -2465,7 +2448,6 @@
                 "name": "Tilia",
                 "addr:street": "Kaszubska",
                 "addr:housenumber": "60",
-                "addr:flats": "2",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-402",
                 "amenity": "pharmacy"
@@ -2675,7 +2657,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "Maciejkowa",
                 "addr:housenumber": "37",
-                "addr:flats": "U3",
                 "addr:city": "Szczecin",
                 "addr:postcode": "71-784",
                 "amenity": "pharmacy"
@@ -2865,7 +2846,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "Kolonistów",
                 "addr:housenumber": "81",
-                "addr:flats": "U1",
                 "addr:city": "Szczecin",
                 "addr:postcode": "71-806",
                 "amenity": "pharmacy"
@@ -2885,7 +2865,6 @@
                 "name": "Gemini",
                 "addr:street": "Santocka",
                 "addr:housenumber": "18",
-                "addr:flats": "5-6",
                 "addr:city": "Szczecin",
                 "addr:postcode": "71-113",
                 "amenity": "pharmacy"
@@ -2905,7 +2884,6 @@
                 "name": "Apteka Osiedlowa",
                 "addr:street": "Niedźwiedzia",
                 "addr:housenumber": "15",
-                "addr:flats": "U3",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-793",
                 "amenity": "pharmacy"
@@ -2925,7 +2903,6 @@
                 "name": "Dom Leków",
                 "addr:street": "Piastów",
                 "addr:housenumber": "54",
-                "addr:flats": "1",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-311",
                 "amenity": "pharmacy"
@@ -3153,7 +3130,6 @@
                 "name": "Apteka Centrum Zdrowia",
                 "addr:street": "Powstańców Wielkopolskich",
                 "addr:housenumber": "66",
-                "addr:flats": "68",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-111",
                 "amenity": "pharmacy"
@@ -3191,7 +3167,6 @@
                 "ref:csioz": 1224983,
                 "addr:street": "Mieczysława Niedziałkowskiego",
                 "addr:housenumber": "47",
-                "addr:flats": "5",
                 "addr:city": "Szczecin",
                 "addr:postcode": "71-403",
                 "amenity": "pharmacy"
@@ -3229,7 +3204,6 @@
                 "name": "Apteka Na Żydowcach",
                 "addr:street": "Romana Dmowskiego",
                 "addr:housenumber": "54",
-                "addr:flats": "2",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-714",
                 "amenity": "pharmacy"
@@ -3306,7 +3280,6 @@
                 "name": "Regionalne Centrum Krwiodawstwa I Krwiolecznictwa W Szczecinie",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "80",
-                "addr:flats": "82",
                 "addr:city": "Szczecin",
                 "addr:postcode": "70-482",
                 "amenity": "pharmacy"

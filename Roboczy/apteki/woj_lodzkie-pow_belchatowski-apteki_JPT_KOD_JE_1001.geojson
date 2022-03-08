@@ -404,7 +404,6 @@
                 "name": "Euro Apteka",
                 "addr:street": "Czapliniecka",
                 "addr:housenumber": "93",
-                "addr:flats": "95",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
                 "amenity": "pharmacy"
@@ -763,7 +762,6 @@
                 "name": "Tęczowa",
                 "addr:street": "Bolesława Chrobrego",
                 "addr:housenumber": "26",
-                "addr:flats": "\"A,B,C\"",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
                 "amenity": "pharmacy"

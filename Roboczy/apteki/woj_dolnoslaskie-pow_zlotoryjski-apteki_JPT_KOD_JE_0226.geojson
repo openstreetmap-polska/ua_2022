@@ -64,7 +64,6 @@
                 "name": "Basztowa",
                 "addr:street": "Basztowa",
                 "addr:housenumber": "36",
-                "addr:flats": "1",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
                 "amenity": "pharmacy"
@@ -103,7 +102,6 @@
                 "name": "Vita",
                 "addr:street": "Rynek",
                 "addr:housenumber": "6",
-                "addr:flats": "1",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
                 "amenity": "pharmacy"
@@ -311,7 +309,6 @@
                 "name": "Centrum Zdrowia",
                 "addr:street": "Staromiejska",
                 "addr:housenumber": "2",
-                "addr:flats": "lok. B",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "70-785",
                 "amenity": "pharmacy"

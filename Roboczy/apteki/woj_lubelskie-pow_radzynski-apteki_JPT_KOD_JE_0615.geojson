@@ -194,7 +194,6 @@
                 "name": "Apteka Lokalna Tomasz Kuna",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "11",
-                "addr:flats": "1",
                 "addr:city": "Komarówka Podlaska",
                 "addr:postcode": "21-311",
                 "amenity": "pharmacy"
@@ -472,7 +471,6 @@
                 "name": "\"Apteka \"\"Rodzinna\"\"\"",
                 "addr:street": "Rynek",
                 "addr:housenumber": "10",
-                "addr:flats": "J",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
                 "amenity": "pharmacy"

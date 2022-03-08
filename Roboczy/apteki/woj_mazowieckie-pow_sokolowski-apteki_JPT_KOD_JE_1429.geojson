@@ -142,7 +142,6 @@
                 "name": "Farmacja Choma Ceny Hurtowe",
                 "addr:street": "Wolności",
                 "addr:housenumber": "52",
-                "addr:flats": "5",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
                 "amenity": "pharmacy"
@@ -256,7 +255,6 @@
                 "name": "Prima",
                 "addr:street": "Węgrowska",
                 "addr:housenumber": "3",
-                "addr:flats": "7",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
                 "amenity": "pharmacy"
@@ -295,7 +293,6 @@
                 "name": "Apteka Pigułka",
                 "addr:street": "Słoneczna",
                 "addr:housenumber": "8",
-                "addr:flats": "2",
                 "addr:city": "Kosów Lacki",
                 "addr:postcode": "08-330",
                 "amenity": "pharmacy"

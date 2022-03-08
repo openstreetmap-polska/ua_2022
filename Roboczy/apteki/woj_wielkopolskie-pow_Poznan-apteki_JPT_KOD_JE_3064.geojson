@@ -28,7 +28,6 @@
                 "name": "Pod Złotą Wagą",
                 "addr:street": "Chojnicka",
                 "addr:housenumber": "51",
-                "addr:flats": "1",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-480",
                 "amenity": "pharmacy"
@@ -143,7 +142,6 @@
                 "name": "Na Rusa",
                 "addr:street": "Bliźniąt",
                 "addr:housenumber": "12",
-                "addr:flats": "4",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-244",
                 "amenity": "pharmacy"
@@ -294,7 +292,6 @@
                 "name": "Św. Kamila",
                 "addr:street": "Mogileńska",
                 "addr:housenumber": "10",
-                "addr:flats": "35",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-052",
                 "amenity": "pharmacy"
@@ -408,7 +405,6 @@
                 "name": "Franowo",
                 "addr:street": "Szwedzka",
                 "addr:housenumber": "6A",
-                "addr:flats": "2",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-285",
                 "amenity": "pharmacy"
@@ -636,7 +632,6 @@
                 "name": "Na Zawadach",
                 "addr:street": "Stanisława Małachowskiego",
                 "addr:housenumber": "27",
-                "addr:flats": "1N",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-129",
                 "amenity": "pharmacy"
@@ -770,7 +765,6 @@
                 "name": "Dom Leków",
                 "addr:street": "Naramowicka",
                 "addr:housenumber": "164",
-                "addr:flats": "1",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-619",
                 "amenity": "pharmacy"
@@ -790,7 +784,6 @@
                 "name": "Medkon",
                 "addr:street": "Naramowicka",
                 "addr:housenumber": "47",
-                "addr:flats": "112-113",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-664",
                 "amenity": "pharmacy"
@@ -923,7 +916,6 @@
                 "name": "Super-Pharm",
                 "addr:street": "Maltańska",
                 "addr:housenumber": "1",
-                "addr:flats": "0-156",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-131",
                 "amenity": "pharmacy"
@@ -1208,7 +1200,6 @@
                 "name": "Apteka Iluminata 2",
                 "addr:street": "Rubież",
                 "addr:housenumber": "14",
-                "addr:flats": "40",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-612",
                 "amenity": "pharmacy"
@@ -1247,7 +1238,6 @@
                 "name": "Apteka Św. Kamila",
                 "addr:street": "Ludwika Zamenhofa",
                 "addr:housenumber": "133",
-                "addr:flats": "6B",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-131",
                 "amenity": "pharmacy"
@@ -1324,7 +1314,6 @@
                 "name": "Dom Leków",
                 "addr:street": "Piastowskie",
                 "addr:housenumber": "77",
-                "addr:flats": "14",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-159",
                 "amenity": "pharmacy"
@@ -1456,7 +1445,6 @@
                 "name": "Pharmacon",
                 "addr:street": "Budzisława",
                 "addr:housenumber": "1",
-                "addr:flats": "2",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-608",
                 "amenity": "pharmacy"
@@ -1514,7 +1502,6 @@
                 "name": "Medkon",
                 "addr:street": "Krańcowa",
                 "addr:housenumber": "62",
-                "addr:flats": "U5",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-036",
                 "amenity": "pharmacy"
@@ -1534,7 +1521,6 @@
                 "name": "Medkon",
                 "addr:street": "Stare Żegrze",
                 "addr:housenumber": "14",
-                "addr:flats": "64A",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-249",
                 "amenity": "pharmacy"
@@ -1610,7 +1596,6 @@
                 "name": "Zdrowa Wielkopolska",
                 "addr:street": "Osinowa",
                 "addr:housenumber": "14",
-                "addr:flats": "16",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-451",
                 "amenity": "pharmacy"
@@ -1801,7 +1786,6 @@
                 "name": "Przyjazna",
                 "addr:street": "Falista",
                 "addr:housenumber": "4A",
-                "addr:flats": "5N",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-249",
                 "amenity": "pharmacy"
@@ -1858,7 +1842,6 @@
                 "ref:csioz": 1048069,
                 "addr:street": "Ostatnia",
                 "addr:housenumber": "45",
-                "addr:flats": "1",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-102",
                 "amenity": "pharmacy"
@@ -1935,7 +1918,6 @@
                 "name": "Dom Leków",
                 "addr:street": "28 Czerwca 1956 r.",
                 "addr:housenumber": "384",
-                "addr:flats": "19",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-441",
                 "amenity": "pharmacy"
@@ -2087,7 +2069,6 @@
                 "ref:csioz": 1044336,
                 "addr:street": "SZPITALNA",
                 "addr:housenumber": "27",
-                "addr:flats": "33",
                 "addr:city": "POZNAŃ",
                 "addr:postcode": "60-572",
                 "amenity": "pharmacy"
@@ -2125,7 +2106,6 @@
                 "name": "\"Lokalizacja: Poznań, Ul. Długa 1/2, Poznań, Ul. Szamarzewskiego 82/84\"",
                 "addr:street": "DŁUGA",
                 "addr:housenumber": "1",
-                "addr:flats": "2",
                 "addr:city": "POZNAŃ",
                 "addr:postcode": "61-848",
                 "amenity": "pharmacy"
@@ -2486,7 +2466,6 @@
                 "name": "Prima",
                 "addr:street": "Augustyna Szamarzewskiego",
                 "addr:housenumber": "44",
-                "addr:flats": "3A",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-522",
                 "amenity": "pharmacy"
@@ -2771,7 +2750,6 @@
                 "name": "Ab - Lek",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "6",
-                "addr:flats": "8",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-637",
                 "amenity": "pharmacy"
@@ -2810,7 +2788,6 @@
                 "name": "Św. Jerzego",
                 "addr:street": "Jerzego św.",
                 "addr:housenumber": "7",
-                "addr:flats": "9",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-546",
                 "amenity": "pharmacy"
@@ -2887,7 +2864,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie. Kaja",
                 "addr:street": "Macieja Palacza",
                 "addr:housenumber": "141",
-                "addr:flats": "143",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-279",
                 "amenity": "pharmacy"
@@ -2963,7 +2939,6 @@
                 "name": "Verbena",
                 "addr:street": "Długa",
                 "addr:housenumber": "1",
-                "addr:flats": "2",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-848",
                 "amenity": "pharmacy"
@@ -3078,7 +3053,6 @@
                 "name": "Witaminka Centrum Leków",
                 "addr:street": "OPIEŃSKIEGO",
                 "addr:housenumber": "1",
-                "addr:flats": "36",
                 "addr:city": "POZNAŃ",
                 "addr:postcode": "60-685",
                 "amenity": "pharmacy"
@@ -3117,7 +3091,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "ŚW. MARCIN",
                 "addr:housenumber": "58",
-                "addr:flats": "64",
                 "addr:city": "POZNAŃ",
                 "addr:postcode": "61-807",
                 "amenity": "pharmacy"
@@ -3137,7 +3110,6 @@
                 "name": "Apteka Cosmedica",
                 "addr:street": "BUKOWSKA",
                 "addr:housenumber": "156",
-                "addr:flats": "B 604",
                 "addr:city": "POZNAŃ",
                 "addr:postcode": "60-198",
                 "amenity": "pharmacy"
@@ -3232,7 +3204,6 @@
                 "name": "Prima",
                 "addr:street": "Słowiańska",
                 "addr:housenumber": "53B",
-                "addr:flats": "L1",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-664",
                 "amenity": "pharmacy"
@@ -3252,7 +3223,6 @@
                 "name": "Dom Leków",
                 "addr:street": "28 Czerwca 1956 r.",
                 "addr:housenumber": "144",
-                "addr:flats": "1",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-485",
                 "amenity": "pharmacy"
@@ -3348,7 +3318,6 @@
                 "name": "Dom Leków",
                 "addr:street": "Grochowska",
                 "addr:housenumber": "83",
-                "addr:flats": "85",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-266",
                 "amenity": "pharmacy"
@@ -3368,7 +3337,6 @@
                 "name": "Doz Apteka. Dbam O Zdrowie Farmacjanna",
                 "addr:street": "Jana Keplera",
                 "addr:housenumber": "1",
-                "addr:flats": "2/B",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-158",
                 "amenity": "pharmacy"
@@ -3445,7 +3413,6 @@
                 "name": "Dr Zdrowie",
                 "addr:street": "Kaspra Drużbickiego",
                 "addr:housenumber": "2",
-                "addr:flats": "089",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-693",
                 "amenity": "pharmacy"
@@ -3573,7 +3540,6 @@
                 "name": "\"Lokalizacja: Poznań, Ul. Juraszów 7/19, Kowanówko,Ul. Sanatoryjna 34                \"",
                 "addr:street": "JURASZÓW",
                 "addr:housenumber": "7",
-                "addr:flats": "19",
                 "addr:city": "POZNAŃ",
                 "addr:postcode": "60-479",
                 "amenity": "pharmacy"
@@ -3610,7 +3576,6 @@
                 "ref:csioz": 1044407,
                 "addr:street": "KRYSIEWICZA",
                 "addr:housenumber": "7",
-                "addr:flats": "8",
                 "addr:city": "POZNAŃ",
                 "addr:postcode": "61-825",
                 "amenity": "pharmacy"
@@ -3647,7 +3612,6 @@
                 "ref:csioz": 1044665,
                 "addr:street": "GRUNWALDZKA",
                 "addr:housenumber": "16",
-                "addr:flats": "18",
                 "addr:city": "POZNAŃ",
                 "addr:postcode": "60-780",
                 "amenity": "pharmacy"
@@ -3724,7 +3688,6 @@
                 "name": "Słoneczna Ii",
                 "addr:street": "Swoboda",
                 "addr:housenumber": "22",
-                "addr:flats": "24",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-391",
                 "amenity": "pharmacy"
@@ -3782,7 +3745,6 @@
                 "name": "Prima",
                 "addr:street": "GALILEUSZA",
                 "addr:housenumber": "8",
-                "addr:flats": "13",
                 "addr:city": "POZNAŃ",
                 "addr:postcode": "60-159",
                 "amenity": "pharmacy"
@@ -3992,7 +3954,6 @@
                 "name": "Alga",
                 "addr:street": "Tatrzańska",
                 "addr:housenumber": "1",
-                "addr:flats": "5",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-413",
                 "amenity": "pharmacy"
@@ -4715,7 +4676,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Bolesława Chrobrego",
                 "addr:housenumber": "101",
-                "addr:flats": "7",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-681",
                 "amenity": "pharmacy"
@@ -4754,7 +4714,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Jana Henryka Dąbrowskiego",
                 "addr:housenumber": "140",
-                "addr:flats": "142",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-577",
                 "amenity": "pharmacy"
@@ -4812,7 +4771,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Głogowska",
                 "addr:housenumber": "132",
-                "addr:flats": "140",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-243",
                 "amenity": "pharmacy"
@@ -4832,7 +4790,6 @@
                 "name": "Super-Pharm Apteka",
                 "addr:street": "Półwiejska",
                 "addr:housenumber": "42",
-                "addr:flats": "226",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-888",
                 "amenity": "pharmacy"
@@ -5058,7 +5015,6 @@
                 "name": "Hebeapteka",
                 "addr:street": "Wierzbięcice",
                 "addr:housenumber": "36",
-                "addr:flats": "38",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-568",
                 "amenity": "pharmacy"
@@ -5078,7 +5034,6 @@
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:street": "Aleje Solidarności",
                 "addr:housenumber": "47",
-                "addr:flats": "0.26",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-693",
                 "amenity": "pharmacy"
@@ -5136,7 +5091,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Wierzbięcice",
                 "addr:housenumber": "36",
-                "addr:flats": "2",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-568",
                 "amenity": "pharmacy"
@@ -5251,7 +5205,6 @@
                 "name": "Dom Leków",
                 "addr:street": "Gwarna",
                 "addr:housenumber": "5",
-                "addr:flats": "2",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-702",
                 "amenity": "pharmacy"
@@ -5328,7 +5281,6 @@
                 "name": "Medkon",
                 "addr:street": "Garbary",
                 "addr:housenumber": "71",
-                "addr:flats": "5",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-758",
                 "amenity": "pharmacy"
@@ -5367,7 +5319,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Wiosny Ludów",
                 "addr:housenumber": "2",
-                "addr:flats": "024",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-831",
                 "amenity": "pharmacy"
@@ -5463,7 +5414,6 @@
                 "name": "Pod Sasanką",
                 "addr:street": "Krakowska",
                 "addr:housenumber": "32",
-                "addr:flats": "2",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-893",
                 "amenity": "pharmacy"
@@ -5577,7 +5527,6 @@
                 "name": "Apteka Marcelin",
                 "addr:street": "Marcelińska",
                 "addr:housenumber": "102",
-                "addr:flats": "\"200, 201, 202\"",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-324",
                 "amenity": "pharmacy"
@@ -5653,7 +5602,6 @@
                 "name": "Apteka Passiflora",
                 "addr:street": "Brzask",
                 "addr:housenumber": "10A",
-                "addr:flats": "206",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-369",
                 "amenity": "pharmacy"
@@ -5749,7 +5697,6 @@
                 "name": "Medkon",
                 "addr:street": "Jutrzenka",
                 "addr:housenumber": "8",
-                "addr:flats": "H1",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-335",
                 "amenity": "pharmacy"
@@ -5788,7 +5735,6 @@
                 "name": "Przyjazna",
                 "addr:street": "ul. Obornicka",
                 "addr:housenumber": "260",
-                "addr:flats": "A",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-693",
                 "amenity": "pharmacy"
@@ -5863,7 +5809,6 @@
                 "ref:csioz": 1219083,
                 "addr:street": "Zofii Nałkowskiej",
                 "addr:housenumber": "59",
-                "addr:flats": "U3",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-533",
                 "amenity": "pharmacy"
@@ -5883,7 +5828,6 @@
                 "name": "Dobra",
                 "addr:street": "Jana III Sobieskiego",
                 "addr:housenumber": "103",
-                "addr:flats": "9",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-688",
                 "amenity": "pharmacy"
@@ -5903,7 +5847,6 @@
                 "name": "Dom Leków",
                 "addr:street": "im. Karola Kurpińskiego",
                 "addr:housenumber": "10",
-                "addr:flats": "L4",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-681",
                 "amenity": "pharmacy"
@@ -5923,7 +5866,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie",
                 "addr:street": "Stanisława Matyi",
                 "addr:housenumber": "2",
-                "addr:flats": "A.02",
                 "addr:city": "Poznań",
                 "addr:postcode": "61-586",
                 "amenity": "pharmacy"
@@ -5961,7 +5903,6 @@
                 "name": "Doz Apteka Dbam O Zdrowie Kwiaty Polne",
                 "addr:street": "Stefana Batorego",
                 "addr:housenumber": "79",
-                "addr:flats": "U4",
                 "addr:city": "Poznań",
                 "addr:postcode": "60-687",
                 "amenity": "pharmacy"

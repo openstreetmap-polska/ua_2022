@@ -83,7 +83,6 @@
                 "name": "Apteka Alba",
                 "addr:street": "Juliusza Słowackiego",
                 "addr:housenumber": "71",
-                "addr:flats": "1",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
                 "amenity": "pharmacy"
@@ -160,7 +159,6 @@
                 "name": "Apteka Miodowa Na Piaskach",
                 "addr:street": "Koszykowa",
                 "addr:housenumber": "2",
-                "addr:flats": "1",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
                 "amenity": "pharmacy"

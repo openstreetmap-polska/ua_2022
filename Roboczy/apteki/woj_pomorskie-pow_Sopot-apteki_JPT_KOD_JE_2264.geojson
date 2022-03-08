@@ -85,7 +85,6 @@
                 "name": "Dział Farmacji Szpitalnej W Zakładzie Leczniczym: Oddziały Lecznictwa Stacjonarnego",
                 "addr:street": "Bolesława Chrobrego",
                 "addr:housenumber": "6",
-                "addr:flats": "8",
                 "addr:city": "Sopot",
                 "addr:postcode": "81-756",
                 "amenity": "pharmacy"
@@ -105,7 +104,6 @@
                 "name": "\"Dział Farmacji Szpitalnej W Centrum Medycznym \"\"Sopmed\"\"\"",
                 "addr:street": "Bolesława Chrobrego",
                 "addr:housenumber": "6",
-                "addr:flats": "8",
                 "addr:city": "Sopot",
                 "addr:postcode": "81-756",
                 "amenity": "pharmacy"
@@ -239,7 +237,6 @@
                 "name": "Gemini",
                 "addr:street": "Bolesława Chrobrego",
                 "addr:housenumber": "1",
-                "addr:flats": "2",
                 "addr:city": "Sopot",
                 "addr:postcode": "81-756",
                 "amenity": "pharmacy"
@@ -278,7 +275,6 @@
                 "name": "Dział Farmacji Szpitalnej W Sanatorium",
                 "addr:street": "Bitwy pod Płowcami",
                 "addr:housenumber": "63",
-                "addr:flats": "65",
                 "addr:city": "Sopot",
                 "addr:postcode": "81-731",
                 "amenity": "pharmacy"

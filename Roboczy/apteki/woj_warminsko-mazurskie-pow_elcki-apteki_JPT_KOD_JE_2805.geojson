@@ -251,7 +251,6 @@
                 "name": "Arnica",
                 "addr:street": "Jana Pawła II",
                 "addr:housenumber": "15A",
-                "addr:flats": "3",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
                 "amenity": "pharmacy"
@@ -328,7 +327,6 @@
                 "name": "Melisa",
                 "addr:street": "Jana Pawła II",
                 "addr:housenumber": "5A",
-                "addr:flats": "5",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
                 "amenity": "pharmacy"
@@ -367,7 +365,6 @@
                 "name": "Wileńska",
                 "addr:street": "marsz. Józefa Piłsudskiego",
                 "addr:housenumber": "9",
-                "addr:flats": "3",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
                 "amenity": "pharmacy"
@@ -611,7 +608,6 @@
                 "name": "Dr.Max",
                 "addr:street": "Adama Mickiewicza",
                 "addr:housenumber": "19",
-                "addr:flats": "L 6d",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
                 "amenity": "pharmacy"
@@ -650,7 +646,6 @@
                 "name": "Eko-Farmacja",
                 "addr:street": "Juliana Tuwima",
                 "addr:housenumber": "20",
-                "addr:flats": "1U",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
                 "amenity": "pharmacy"

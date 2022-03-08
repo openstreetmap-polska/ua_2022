@@ -8,7 +8,6 @@
                 "ref:csioz": 1158055,
                 "addr:street": "Rynek",
                 "addr:housenumber": "24",
-                "addr:flats": "21",
                 "addr:city": "Annopol",
                 "amenity": "pharmacy"
             },
@@ -660,7 +659,6 @@
                 "name": "Apteka Nova",
                 "addr:street": "Jana Kochanowskiego",
                 "addr:housenumber": "1",
-                "addr:flats": "2A",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-200",
                 "amenity": "pharmacy"
@@ -713,7 +711,6 @@
                 "ref:csioz": 1171905,
                 "name": "Nowa Rzeczycka",
                 "addr:housenumber": "56",
-                "addr:flats": "1.3. A",
                 "addr:postcode": "23-230",
                 "amenity": "pharmacy",
                 "addr:place": "Rzeczyca Ziemiańska"

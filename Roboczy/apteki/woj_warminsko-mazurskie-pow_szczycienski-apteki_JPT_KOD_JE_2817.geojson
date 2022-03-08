@@ -63,7 +63,6 @@
                 "ref:csioz": 1016532,
                 "name": "Punkt Apteczny Zdrowie",
                 "addr:housenumber": "71",
-                "addr:flats": "3",
                 "addr:postcode": "12-100",
                 "amenity": "pharmacy",
                 "addr:place": "Lipowiec"
@@ -140,7 +139,6 @@
                 "name": "Apteka Mazurska",
                 "addr:street": "Rynek",
                 "addr:housenumber": "1",
-                "addr:flats": "3",
                 "addr:city": "Rozogi",
                 "addr:postcode": "12-114",
                 "amenity": "pharmacy"
@@ -197,7 +195,6 @@
                 "name": "Apteka Zdrowie",
                 "addr:street": "Polska",
                 "addr:housenumber": "35",
-                "addr:flats": "2",
                 "addr:city": "Szczytno",
                 "addr:postcode": "12-100",
                 "amenity": "pharmacy"
@@ -330,7 +327,6 @@
                 "name": "Apteka Dyżurna",
                 "addr:street": "Odrodzenia",
                 "addr:housenumber": "23-25",
-                "addr:flats": "9",
                 "addr:city": "Szczytno",
                 "addr:postcode": "12-100",
                 "amenity": "pharmacy"
@@ -350,7 +346,6 @@
                 "name": "Apteka Prima",
                 "addr:street": "Odrodzenia",
                 "addr:housenumber": "39",
-                "addr:flats": "5",
                 "addr:city": "Szczytno",
                 "addr:postcode": "12-100",
                 "amenity": "pharmacy"

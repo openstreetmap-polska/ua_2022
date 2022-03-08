@@ -199,7 +199,6 @@
                 "name": "Europejska",
                 "addr:street": "Chorzowska",
                 "addr:housenumber": "107",
-                "addr:flats": "M31",
                 "addr:city": "Katowice",
                 "addr:postcode": "40-101",
                 "amenity": "pharmacy"
@@ -561,7 +560,6 @@
                 "name": "Apteka Na Francuskiej Tanie Leki",
                 "addr:street": "ks. Józefa Szafranka",
                 "addr:housenumber": "2-4",
-                "addr:flats": "1",
                 "addr:city": "Katowice",
                 "addr:postcode": "40-025",
                 "amenity": "pharmacy"
@@ -790,7 +788,6 @@
                 "name": "Apteka Na Dworcu",
                 "addr:street": "Plac Szewczyka",
                 "addr:housenumber": "1_1.4",
-                "addr:flats": "40",
                 "addr:city": "Katowice",
                 "addr:postcode": "40-098",
                 "amenity": "pharmacy"
@@ -829,7 +826,6 @@
                 "name": "Apteka 4 Pory Roku",
                 "addr:street": "1 Maja",
                 "addr:housenumber": "22",
-                "addr:flats": "1A",
                 "addr:city": "Katowice",
                 "addr:postcode": "40-284",
                 "amenity": "pharmacy"
@@ -1475,7 +1471,6 @@
                 "name": "Agafarmax",
                 "addr:street": "Księcia Józefa Poniatowskiego",
                 "addr:housenumber": "14 V",
-                "addr:flats": "2",
                 "addr:city": "Katowice",
                 "addr:postcode": "40-055",
                 "amenity": "pharmacy"
@@ -1628,7 +1623,6 @@
                 "name": "Aqua Vitae",
                 "addr:street": "Sokolska",
                 "addr:housenumber": "78",
-                "addr:flats": "80",
                 "addr:city": "Katowice",
                 "addr:postcode": "40-087",
                 "amenity": "pharmacy"
@@ -1971,7 +1965,6 @@
                 "name": "Apteka Rodzinna",
                 "addr:street": "Bolesława Chrobrego",
                 "addr:housenumber": "29",
-                "addr:flats": "II",
                 "addr:city": "Katowice",
                 "addr:postcode": "40-881",
                 "amenity": "pharmacy"
@@ -2181,7 +2174,6 @@
                 "name": "Apteka Książęca",
                 "addr:street": "Kijowska",
                 "addr:housenumber": "44",
-                "addr:flats": "1U",
                 "addr:city": "Katowice",
                 "addr:postcode": "40-754",
                 "amenity": "pharmacy"
@@ -2239,7 +2231,6 @@
                 "name": "Apteka Bliska",
                 "addr:street": "Zawiszy Czarnego",
                 "addr:housenumber": "16A",
-                "addr:flats": "IV",
                 "addr:city": "Katowice",
                 "addr:postcode": "40-872",
                 "amenity": "pharmacy"
@@ -2259,7 +2250,6 @@
                 "name": "Apteka C-Plus",
                 "addr:street": "ul. Stanisława Łętowskiego",
                 "addr:housenumber": "16",
-                "addr:flats": "A",
                 "addr:city": "Katowice",
                 "addr:postcode": "40-648",
                 "amenity": "pharmacy"
@@ -2279,7 +2269,6 @@
                 "name": "Apteka Główna",
                 "addr:street": "ul. Szewska",
                 "addr:housenumber": "11",
-                "addr:flats": "09",
                 "addr:city": "Katowice",
                 "addr:postcode": "40-649",
                 "amenity": "pharmacy"
@@ -2525,7 +2514,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "229",
-                "addr:flats": "A.L.-0620",
                 "addr:city": "Katowice",
                 "addr:postcode": "40-600",
                 "amenity": "pharmacy"

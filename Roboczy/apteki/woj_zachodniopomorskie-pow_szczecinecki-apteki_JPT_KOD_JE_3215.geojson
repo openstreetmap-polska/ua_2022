@@ -46,7 +46,6 @@
                 "name": "Przyjazna",
                 "addr:street": "Aleja Niepodległości",
                 "addr:housenumber": "12",
-                "addr:flats": "9-10",
                 "addr:city": "Borne Sulinowo",
                 "addr:postcode": "78-449",
                 "amenity": "pharmacy"
@@ -292,7 +291,6 @@
                 "name": "Apteka Nova",
                 "addr:street": "Nadrzeczna",
                 "addr:housenumber": "2a",
-                "addr:flats": "1a",
                 "addr:city": "Biały Bór",
                 "addr:postcode": "78-425",
                 "amenity": "pharmacy"
@@ -311,7 +309,6 @@
                 "ref:csioz": 1138452,
                 "name": "Arnika",
                 "addr:housenumber": "65",
-                "addr:flats": "6",
                 "addr:postcode": "78-411",
                 "amenity": "pharmacy",
                 "addr:place": "Wierzchowo"
@@ -385,7 +382,6 @@
                 "ref:csioz": 1151418,
                 "addr:street": "Kilińskiego",
                 "addr:housenumber": "7",
-                "addr:flats": "\"4 , 6\"",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
                 "amenity": "pharmacy"

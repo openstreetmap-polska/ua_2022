@@ -27,7 +27,6 @@
                 "ref:csioz": 1106128,
                 "addr:street": "Kurpińskiego",
                 "addr:housenumber": "3",
-                "addr:flats": "2",
                 "addr:city": "Chełm",
                 "addr:postcode": "22-100",
                 "amenity": "pharmacy"
@@ -104,7 +103,6 @@
                 "name": "Apteka Na Deptaku",
                 "addr:street": "Lwowska",
                 "addr:housenumber": "21",
-                "addr:flats": "7",
                 "addr:city": "Chełm",
                 "addr:postcode": "22-100",
                 "amenity": "pharmacy"
@@ -237,7 +235,6 @@
                 "name": "Apteka Pomocna",
                 "addr:street": "Szpitalna",
                 "addr:housenumber": "40",
-                "addr:flats": "A",
                 "addr:city": "Chełm",
                 "addr:postcode": "22-100",
                 "amenity": "pharmacy"
@@ -426,7 +423,6 @@
                 "name": "Apteka Dr. Optima",
                 "addr:street": "3 Maja",
                 "addr:housenumber": "22",
-                "addr:flats": "02",
                 "addr:city": "Chełm",
                 "addr:postcode": "22-100",
                 "amenity": "pharmacy"

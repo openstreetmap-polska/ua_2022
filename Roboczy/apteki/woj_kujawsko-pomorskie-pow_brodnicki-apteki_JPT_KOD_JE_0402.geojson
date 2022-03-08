@@ -473,7 +473,6 @@
                 "name": "Zespół Opieki Zdrowotnej W Brodnicy",
                 "addr:street": "Wiejska",
                 "addr:housenumber": "9",
-                "addr:flats": "-",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
                 "amenity": "pharmacy"
@@ -529,7 +528,6 @@
                 "ref:csioz": 1102952,
                 "name": "Pod Kasztanami",
                 "addr:housenumber": "93",
-                "addr:flats": "6",
                 "addr:postcode": "87-335",
                 "amenity": "pharmacy",
                 "addr:place": "Świedziebnia"

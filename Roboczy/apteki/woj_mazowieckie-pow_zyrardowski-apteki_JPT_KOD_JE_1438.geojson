@@ -141,7 +141,6 @@
                 "name": "Ziko",
                 "addr:street": "1 Maja",
                 "addr:housenumber": "40",
-                "addr:flats": "0.07",
                 "addr:city": "Żyrardów",
                 "addr:postcode": "96-300",
                 "amenity": "pharmacy"
@@ -498,7 +497,6 @@
                 "name": "Przy Dworcu",
                 "addr:street": "Polskiej Organizacji Wojskowej",
                 "addr:housenumber": "2D",
-                "addr:flats": "11",
                 "addr:city": "Żyrardów",
                 "addr:postcode": "96-300",
                 "amenity": "pharmacy"

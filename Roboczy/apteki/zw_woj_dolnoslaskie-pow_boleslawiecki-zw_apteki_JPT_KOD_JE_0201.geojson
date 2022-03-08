@@ -85,7 +85,6 @@
                 "name": "\"\"\"W Centrum\"\"\"",
                 "addr:street": "Rynek",
                 "addr:housenumber": "3",
-                "addr:flats": "1",
                 "addr:city": "Nowogrodziec",
                 "addr:postcode": "59-730",
                 "amenity": "pharmacy"
@@ -255,7 +254,6 @@
                 "name": "Medica",
                 "addr:street": "Rynek",
                 "addr:housenumber": "21",
-                "addr:flats": "lok. 2",
                 "addr:city": "Nowogrodziec",
                 "addr:postcode": "59-730",
                 "amenity": "pharmacy"
@@ -427,7 +425,6 @@
                 "name": "Apteka Im. Szymona Fabiana",
                 "addr:street": "Adama Asnyka",
                 "addr:housenumber": "21",
-                "addr:flats": "9a",
                 "addr:city": "Bolesławiec",
                 "addr:postcode": "59-700",
                 "amenity": "pharmacy"
@@ -523,7 +520,6 @@
                 "name": "Prima",
                 "addr:street": "Jeleniogórska",
                 "addr:housenumber": "3",
-                "addr:flats": "lokal 3",
                 "addr:city": "Bolesławiec",
                 "addr:postcode": "59-700",
                 "amenity": "pharmacy"
@@ -562,7 +558,6 @@
                 "name": "Apteka Dr. Optima",
                 "addr:street": "ul. Komuny Paryskiej",
                 "addr:housenumber": "\"12,13,13a\"",
-                "addr:flats": "lokal 6",
                 "addr:city": "Bolesławiec",
                 "addr:postcode": "59-700",
                 "amenity": "pharmacy"

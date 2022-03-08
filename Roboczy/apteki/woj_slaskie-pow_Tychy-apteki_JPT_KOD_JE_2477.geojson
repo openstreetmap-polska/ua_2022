@@ -85,7 +85,6 @@
                 "name": "Pod Arkadami 3",
                 "addr:street": "K. Darwina",
                 "addr:housenumber": "25 B",
-                "addr:flats": "4",
                 "addr:city": "Tychy",
                 "addr:postcode": "43-100",
                 "amenity": "pharmacy"
@@ -654,7 +653,6 @@
                 "name": "Apteka Śląska",
                 "addr:street": "Bielska",
                 "addr:housenumber": "135b",
-                "addr:flats": "18",
                 "addr:city": "Tychy",
                 "addr:postcode": "43-100",
                 "amenity": "pharmacy"
@@ -693,7 +691,6 @@
                 "name": "Apteka Agafarmax Tychy",
                 "addr:street": "marsz. Piłsudskiego",
                 "addr:housenumber": "8",
-                "addr:flats": "1/1",
                 "addr:city": "Tychy",
                 "addr:postcode": "43-100",
                 "amenity": "pharmacy"

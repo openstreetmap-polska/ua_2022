@@ -389,7 +389,6 @@
                 "name": "\"\"\"Leśna 3\"\"\"",
                 "addr:street": "Szarych Szeregów",
                 "addr:housenumber": "1a",
-                "addr:flats": "3",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-829",
                 "amenity": "pharmacy"
@@ -732,7 +731,6 @@
                 "name": "Prima",
                 "addr:street": "Ugory",
                 "addr:housenumber": "2",
-                "addr:flats": "7",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-132",
                 "amenity": "pharmacy"
@@ -828,7 +826,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Marii Curie Skłodowskiej",
                 "addr:housenumber": "33A",
-                "addr:flats": "3",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-733",
                 "amenity": "pharmacy"
@@ -1228,7 +1225,6 @@
                 "name": "Apteka Biziela Ii",
                 "addr:street": "Wojska Polskiego",
                 "addr:housenumber": "15",
-                "addr:flats": "9",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-825",
                 "amenity": "pharmacy"
@@ -1495,7 +1491,6 @@
                 "name": "Alba Iii",
                 "addr:street": "Grunwaldzka",
                 "addr:housenumber": "71",
-                "addr:flats": "4",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-239",
                 "amenity": "pharmacy"
@@ -2427,7 +2422,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Gdańska",
                 "addr:housenumber": "161",
-                "addr:flats": "1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-674",
                 "amenity": "pharmacy"
@@ -2599,7 +2593,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Gdańska",
                 "addr:housenumber": "1",
-                "addr:flats": "\"2,7\"",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-005",
                 "amenity": "pharmacy"
@@ -2714,7 +2707,6 @@
                 "name": "Z Uśmiechem",
                 "addr:street": "Samotna",
                 "addr:housenumber": "4",
-                "addr:flats": "U1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-794",
                 "amenity": "pharmacy"

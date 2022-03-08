@@ -63,7 +63,6 @@
                 "name": "T&P",
                 "addr:street": "Rynek",
                 "addr:housenumber": "10",
-                "addr:flats": "1",
                 "addr:city": "Nur",
                 "addr:postcode": "07-322",
                 "amenity": "pharmacy"
@@ -325,7 +324,6 @@
                 "name": "Dr Max",
                 "addr:street": "Ludwika Mieczkowskiego",
                 "addr:housenumber": "23",
-                "addr:flats": "1.1",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
                 "amenity": "pharmacy"
@@ -401,7 +399,6 @@
                 "name": "Na Partyzantów Nowa Farmacja",
                 "addr:street": "Partyzantów",
                 "addr:housenumber": "15",
-                "addr:flats": "3",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
                 "amenity": "pharmacy"

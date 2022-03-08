@@ -224,7 +224,6 @@
                 "ref:csioz": 1206010,
                 "name": "Apteka Pod Justem",
                 "addr:housenumber": "377",
-                "addr:flats": "B",
                 "addr:postcode": "33-314",
                 "amenity": "pharmacy",
                 "addr:place": "Łososina Dolna"
@@ -500,7 +499,6 @@
                 "ref:csioz": 1204393,
                 "addr:street": "Rynek",
                 "addr:housenumber": "6",
-                "addr:flats": "1",
                 "addr:city": "Muszyna",
                 "addr:postcode": "33-370",
                 "amenity": "pharmacy"
@@ -1052,7 +1050,6 @@
                 "ref:csioz": 1209520,
                 "name": "Nowa",
                 "addr:housenumber": "210",
-                "addr:flats": "A",
                 "addr:postcode": "33-386",
                 "amenity": "pharmacy",
                 "addr:place": "Podegrodzie"

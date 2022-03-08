@@ -158,7 +158,6 @@
                 "ref:csioz": 1110758,
                 "addr:street": "Kazimierza Pułaskiego",
                 "addr:housenumber": "2",
-                "addr:flats": "3B",
                 "addr:city": "Warka",
                 "addr:postcode": "05-660",
                 "amenity": "pharmacy"
@@ -178,7 +177,6 @@
                 "name": "Papaya 2",
                 "addr:street": "Armii Krajowej",
                 "addr:housenumber": "50B",
-                "addr:flats": "1.8",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
                 "amenity": "pharmacy"
@@ -293,7 +291,6 @@
                 "name": "Codzienna",
                 "addr:street": "Bankowa",
                 "addr:housenumber": "1",
-                "addr:flats": "U-4",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
                 "amenity": "pharmacy"
@@ -444,7 +441,6 @@
                 "name": "Farmacja I Uroda",
                 "addr:street": "Tomasza Nocznickiego",
                 "addr:housenumber": "4",
-                "addr:flats": "1",
                 "addr:city": "Belsk Duży",
                 "addr:postcode": "05-622",
                 "amenity": "pharmacy"

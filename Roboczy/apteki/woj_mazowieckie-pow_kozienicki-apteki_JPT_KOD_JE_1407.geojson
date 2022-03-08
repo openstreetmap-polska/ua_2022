@@ -136,7 +136,6 @@
                 "ref:csioz": 1094781,
                 "addr:street": "Mikołaja Kopernika",
                 "addr:housenumber": "7B",
-                "addr:flats": "4",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
                 "amenity": "pharmacy"
@@ -193,7 +192,6 @@
                 "ref:csioz": 1201240,
                 "addr:street": "Radomska",
                 "addr:housenumber": "1",
-                "addr:flats": "1",
                 "addr:city": "Brzóza",
                 "addr:postcode": "26-903",
                 "amenity": "pharmacy"
@@ -361,7 +359,6 @@
             "properties": {
                 "ref:csioz": 1211619,
                 "addr:housenumber": "55",
-                "addr:flats": "2",
                 "addr:postcode": "26-900",
                 "amenity": "pharmacy",
                 "addr:place": "Świerże Górne"
@@ -381,7 +378,6 @@
                 "name": "Multilek",
                 "addr:street": "Warszawska",
                 "addr:housenumber": "59D",
-                "addr:flats": "3",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
                 "amenity": "pharmacy"

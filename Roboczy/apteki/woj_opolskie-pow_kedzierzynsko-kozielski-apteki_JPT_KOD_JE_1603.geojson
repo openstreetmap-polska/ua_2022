@@ -83,7 +83,6 @@
                 "name": "\"Apteka \"\"Na Zdrowie\"\"\"",
                 "addr:street": "Powstańców",
                 "addr:housenumber": "8",
-                "addr:flats": "1",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-220",
                 "amenity": "pharmacy"
@@ -497,7 +496,6 @@
                 "name": "Ziko Apteka",
                 "addr:street": "Armii Krajowej",
                 "addr:housenumber": "38",
-                "addr:flats": "040",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-220",
                 "amenity": "pharmacy"

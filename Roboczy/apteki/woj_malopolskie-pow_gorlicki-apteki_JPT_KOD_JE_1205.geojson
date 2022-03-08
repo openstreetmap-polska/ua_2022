@@ -267,7 +267,6 @@
                 "ref:csioz": 1081106,
                 "addr:street": "Biecka",
                 "addr:housenumber": "16",
-                "addr:flats": "2",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
                 "amenity": "pharmacy"
@@ -411,7 +410,6 @@
                 "name": "Alba Iii",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "42",
-                "addr:flats": "M",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
                 "amenity": "pharmacy"
@@ -469,7 +467,6 @@
                 "name": "Apteka Społeczna Na Legionów Grupa Nowa Farmacja",
                 "addr:street": "Legionów",
                 "addr:housenumber": "12",
-                "addr:flats": "1",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
                 "amenity": "pharmacy"

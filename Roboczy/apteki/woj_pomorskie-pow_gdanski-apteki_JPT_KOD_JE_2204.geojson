@@ -9,7 +9,6 @@
                 "name": "Tęczowa",
                 "addr:street": "Współczesna",
                 "addr:housenumber": "1",
-                "addr:flats": "E",
                 "addr:city": "Borkowo",
                 "addr:postcode": "80-180",
                 "amenity": "pharmacy"
@@ -141,7 +140,6 @@
                 "name": "Anafarm",
                 "addr:street": "Henryka Sienkiewicza",
                 "addr:housenumber": "7",
-                "addr:flats": "A",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
                 "amenity": "pharmacy"
@@ -256,7 +254,6 @@
                 "name": "Apteka Przyjazna Doz - Dbam O Zdrowie",
                 "addr:street": "Antoniego Dobrowolskiego",
                 "addr:housenumber": "8",
-                "addr:flats": "1.5",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
                 "amenity": "pharmacy"
@@ -390,7 +387,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Aleja ks. Józefa Waląga",
                 "addr:housenumber": "4",
-                "addr:flats": "6",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
                 "amenity": "pharmacy"
@@ -485,7 +481,6 @@
                 "name": "Multipharm",
                 "addr:street": "Jana Kasprowicza",
                 "addr:housenumber": "52",
-                "addr:flats": "3",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
                 "amenity": "pharmacy"
@@ -524,7 +519,6 @@
                 "name": "Anafarm",
                 "addr:street": "Bajki",
                 "addr:housenumber": "6",
-                "addr:flats": "1",
                 "addr:city": "Rotmanka",
                 "addr:postcode": "83-010",
                 "amenity": "pharmacy"

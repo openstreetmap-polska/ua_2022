@@ -9,7 +9,6 @@
                 "name": "Pod Lipami",
                 "addr:street": "Lipowa",
                 "addr:housenumber": "2",
-                "addr:flats": "3",
                 "addr:city": "Wąsowo",
                 "addr:postcode": "64-316",
                 "amenity": "pharmacy"
@@ -445,7 +444,6 @@
                 "name": "Apteka Prima",
                 "addr:street": "Na Kępie",
                 "addr:housenumber": "7B",
-                "addr:flats": "2",
                 "addr:city": "Zbąszyń",
                 "addr:postcode": "64-360",
                 "amenity": "pharmacy"
@@ -503,7 +501,6 @@
                 "name": "Apteka Prima",
                 "addr:street": "Senatorska",
                 "addr:housenumber": "25",
-                "addr:flats": "2",
                 "addr:city": "Zbąszyń",
                 "addr:postcode": "64-360",
                 "amenity": "pharmacy"

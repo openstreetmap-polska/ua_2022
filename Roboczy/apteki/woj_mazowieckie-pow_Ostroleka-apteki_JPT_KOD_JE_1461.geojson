@@ -254,7 +254,6 @@
                 "name": "Apteka W Galerii",
                 "addr:street": "\"Gen. Augusta Emila Fieldorfa \"\"Nila\"\"\"",
                 "addr:housenumber": "28",
-                "addr:flats": "22",
                 "addr:city": "Ostrołęka",
                 "addr:postcode": "07-410",
                 "amenity": "pharmacy"
@@ -350,7 +349,6 @@
                 "name": "Za Rogiem",
                 "addr:street": "Henryka Sienkiewicza",
                 "addr:housenumber": "55",
-                "addr:flats": "\"5, 6\"",
                 "addr:city": "Ostrołęka",
                 "addr:postcode": "07-410",
                 "amenity": "pharmacy"
@@ -503,7 +501,6 @@
                 "name": "Nowa Tomasz Bobrowski",
                 "addr:street": "Aleja Jana Pawła II",
                 "addr:housenumber": "120A",
-                "addr:flats": "B",
                 "addr:city": "Ostrołęka",
                 "addr:postcode": "07-410",
                 "amenity": "pharmacy"

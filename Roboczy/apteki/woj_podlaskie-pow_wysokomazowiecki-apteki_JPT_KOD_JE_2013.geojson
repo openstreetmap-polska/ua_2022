@@ -214,7 +214,6 @@
                 "name": "Pogodna",
                 "addr:street": "Białostocka",
                 "addr:housenumber": "4/4",
-                "addr:flats": "C",
                 "addr:city": "Wysokie Mazowieckie",
                 "addr:postcode": "18-200",
                 "amenity": "pharmacy"
@@ -289,7 +288,6 @@
                 "ref:csioz": 1182708,
                 "addr:street": "Główna",
                 "addr:housenumber": "6",
-                "addr:flats": "2",
                 "addr:city": "Nowe Piekuty",
                 "addr:postcode": "18-212",
                 "amenity": "pharmacy"

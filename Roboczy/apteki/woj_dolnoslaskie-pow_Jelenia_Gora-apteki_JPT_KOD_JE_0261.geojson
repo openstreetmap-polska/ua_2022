@@ -123,7 +123,6 @@
                 "name": "Apteka Zabobrze - Majowa",
                 "addr:street": "1 Maja",
                 "addr:housenumber": "6",
-                "addr:flats": "1",
                 "addr:city": "Jelenia Góra",
                 "addr:postcode": "58-500",
                 "amenity": "pharmacy"
@@ -485,7 +484,6 @@
                 "name": "Cosmedica",
                 "addr:street": "Podwale",
                 "addr:housenumber": "25",
-                "addr:flats": "0069a",
                 "addr:city": "Jelenia Góra",
                 "addr:postcode": "58-500",
                 "amenity": "pharmacy"
@@ -562,7 +560,6 @@
                 "name": "\"Apteka \"\"Kowarska\"\"\"",
                 "addr:street": "Jana Kochanowskiego",
                 "addr:housenumber": "5a",
-                "addr:flats": "lokal 3",
                 "addr:city": "Jelenia Góra",
                 "addr:postcode": "58-500",
                 "amenity": "pharmacy"

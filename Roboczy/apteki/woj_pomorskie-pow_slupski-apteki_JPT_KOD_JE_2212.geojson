@@ -45,7 +45,6 @@
             "properties": {
                 "ref:csioz": 1033830,
                 "addr:housenumber": "12",
-                "addr:flats": "11",
                 "addr:postcode": "76-270",
                 "amenity": "pharmacy",
                 "addr:place": "Objazda"
@@ -103,7 +102,6 @@
                 "name": "\"Dział Farmacji Szpitalnej W Niepublicznym Zakładzie Lecznictwa Uzdrowiskowego Sanatorium \"\"Tęcza\"\", Spółdzielnia Pracy Sanatorium Uzdrowiskowe \"\"Tęcza\"\"\"",
                 "addr:street": "Fryderyka Chopina",
                 "addr:housenumber": "1",
-                "addr:flats": "3",
                 "addr:city": "Ustka",
                 "addr:postcode": "76-270",
                 "amenity": "pharmacy"
@@ -463,7 +461,6 @@
             "properties": {
                 "ref:csioz": 1034089,
                 "addr:housenumber": "59",
-                "addr:flats": "7",
                 "addr:postcode": "77-113",
                 "amenity": "pharmacy",
                 "addr:place": "Budowo"

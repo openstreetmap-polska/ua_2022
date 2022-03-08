@@ -140,7 +140,6 @@
                 "ref:csioz": 1102523,
                 "name": "Puls 9",
                 "addr:housenumber": "62B",
-                "addr:flats": "-",
                 "addr:postcode": "87-123",
                 "amenity": "pharmacy",
                 "addr:place": "Dobrzejewice"
@@ -481,7 +480,6 @@
                 "name": "Apteka Puls",
                 "addr:street": "Paderewskiego",
                 "addr:housenumber": "3",
-                "addr:flats": "-",
                 "addr:city": "Lubicz Górny",
                 "addr:postcode": "87-162",
                 "amenity": "pharmacy"

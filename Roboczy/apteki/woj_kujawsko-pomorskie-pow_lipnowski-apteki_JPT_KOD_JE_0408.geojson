@@ -46,7 +46,6 @@
                 "name": "Apteka Centralna",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "2",
-                "addr:flats": "5",
                 "addr:city": "Lipno",
                 "addr:postcode": "87-600",
                 "amenity": "pharmacy"
@@ -324,7 +323,6 @@
             "properties": {
                 "ref:csioz": 1170904,
                 "addr:housenumber": "4",
-                "addr:flats": "1",
                 "addr:postcode": "87-610",
                 "amenity": "pharmacy",
                 "addr:place": "Grochowalsk"

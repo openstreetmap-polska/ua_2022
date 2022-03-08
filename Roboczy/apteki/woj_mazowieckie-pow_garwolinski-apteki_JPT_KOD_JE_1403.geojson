@@ -194,7 +194,6 @@
                 "name": "Na Romanówce",
                 "addr:street": "Janusza Korczaka",
                 "addr:housenumber": "35",
-                "addr:flats": "1",
                 "addr:city": "Garwolin",
                 "addr:postcode": "08-400",
                 "amenity": "pharmacy"
@@ -214,7 +213,6 @@
                 "name": "Na Dobrej Mgr Farm. Paweł Głaszczka",
                 "addr:street": "Dobra",
                 "addr:housenumber": "1",
-                "addr:flats": "4-5",
                 "addr:city": "Garwolin",
                 "addr:postcode": "08-400",
                 "amenity": "pharmacy"
@@ -287,7 +285,6 @@
                 "name": "Orchis Małgorzata Górska",
                 "addr:street": "Targowa",
                 "addr:housenumber": "1C",
-                "addr:flats": "8",
                 "addr:city": "Garwolin",
                 "addr:postcode": "08-400",
                 "amenity": "pharmacy"
@@ -512,7 +509,6 @@
                 "ref:csioz": 1096523,
                 "addr:street": "Nadwodna",
                 "addr:housenumber": "13",
-                "addr:flats": "2",
                 "addr:city": "Garwolin",
                 "addr:postcode": "08-400",
                 "amenity": "pharmacy"

@@ -103,7 +103,6 @@
                 "name": "Sana",
                 "addr:street": "Terebelska",
                 "addr:housenumber": "49",
-                "addr:flats": "5",
                 "addr:city": "Biała Podlaska",
                 "addr:postcode": "21-500",
                 "amenity": "pharmacy"
@@ -216,7 +215,6 @@
                 "name": "Apteka Szpitalna",
                 "addr:street": "Terebelska",
                 "addr:housenumber": "57",
-                "addr:flats": "65",
                 "addr:city": "Biała Podlaska",
                 "addr:postcode": "21-500",
                 "amenity": "pharmacy"
@@ -424,7 +422,6 @@
                 "name": "Farmacja 24",
                 "addr:street": "Jana III Sobieskiego",
                 "addr:housenumber": "9",
-                "addr:flats": "6/7",
                 "addr:city": "Biała Podlaska",
                 "addr:postcode": "21-500",
                 "amenity": "pharmacy"

@@ -294,7 +294,6 @@
                 "name": "Duos",
                 "addr:street": "Rybnicka",
                 "addr:housenumber": "207",
-                "addr:flats": "45",
                 "addr:city": "Gliwice",
                 "addr:postcode": "44-122",
                 "amenity": "pharmacy"
@@ -599,7 +598,6 @@
                 "name": "Apteka Corax",
                 "addr:street": "Rubinowa",
                 "addr:housenumber": "4 A",
-                "addr:flats": "U",
                 "addr:city": "Gliwice",
                 "addr:postcode": "44-121",
                 "amenity": "pharmacy"
@@ -695,7 +693,6 @@
                 "name": "Staromiejska",
                 "addr:street": "Tadeusza Kościuszki",
                 "addr:housenumber": "30",
-                "addr:flats": "1",
                 "addr:city": "Gliwice",
                 "addr:postcode": "44-100",
                 "amenity": "pharmacy"
@@ -1000,7 +997,6 @@
                 "name": "Pharmacon",
                 "addr:street": "Cichociemnych",
                 "addr:housenumber": "18",
-                "addr:flats": "6",
                 "addr:city": "Gliwice",
                 "addr:postcode": "44-122",
                 "amenity": "pharmacy"
@@ -1324,7 +1320,6 @@
                 "name": "Apteka Zdrowit+",
                 "addr:street": "Ignacego Paderewskiego",
                 "addr:housenumber": "56",
-                "addr:flats": "D",
                 "addr:city": "Gliwice",
                 "addr:postcode": "44-105",
                 "amenity": "pharmacy"
@@ -1401,7 +1396,6 @@
                 "name": "Apteka Ligocka",
                 "addr:street": "Górników",
                 "addr:housenumber": "28",
-                "addr:flats": "2",
                 "addr:city": "Gliwice",
                 "addr:postcode": "44-100",
                 "amenity": "pharmacy"

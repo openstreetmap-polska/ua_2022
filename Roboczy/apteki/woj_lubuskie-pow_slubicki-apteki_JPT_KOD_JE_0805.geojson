@@ -84,7 +84,6 @@
                 "name": "Nowa",
                 "addr:street": "Mickiewicza",
                 "addr:housenumber": "21",
-                "addr:flats": "2",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
                 "amenity": "pharmacy"
@@ -141,7 +140,6 @@
                 "ref:csioz": 1150666,
                 "addr:street": "Kostrzyńska",
                 "addr:housenumber": "1",
-                "addr:flats": "4",
                 "addr:city": "Górzyca",
                 "addr:postcode": "69-113",
                 "amenity": "pharmacy"
@@ -292,7 +290,6 @@
                 "name": "Nowa",
                 "addr:street": "Chopina",
                 "addr:housenumber": "7",
-                "addr:flats": "4",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
                 "amenity": "pharmacy"

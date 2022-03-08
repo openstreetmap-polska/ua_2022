@@ -85,7 +85,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Bohaterów Westerplatte",
                 "addr:housenumber": "4",
-                "addr:flats": "6",
                 "addr:city": "Zielona Góra",
                 "addr:postcode": "65-034",
                 "amenity": "pharmacy"
@@ -295,7 +294,6 @@
                 "name": "Dr. Max",
                 "addr:street": "Stefana Wyszyńskiego",
                 "addr:housenumber": "99",
-                "addr:flats": "1",
                 "addr:city": "Zielona Góra",
                 "addr:postcode": "65-001",
                 "amenity": "pharmacy"
@@ -786,7 +784,6 @@
                 "name": "Jaskółcza",
                 "addr:street": "Kukułcza",
                 "addr:housenumber": "10",
-                "addr:flats": "1",
                 "addr:city": "Zielona Góra",
                 "addr:postcode": "65-472",
                 "amenity": "pharmacy"
@@ -976,7 +973,6 @@
                 "name": "\"'Apteka Hygea'\"",
                 "addr:street": "Stefana Wyszyńskiego",
                 "addr:housenumber": "32D",
-                "addr:flats": "10",
                 "addr:city": "Zielona Góra",
                 "addr:postcode": "65-001",
                 "amenity": "pharmacy"
@@ -1091,7 +1087,6 @@
                 "name": "Apteka Gemini",
                 "addr:street": "Stefana Wyszyńskiego",
                 "addr:housenumber": "29",
-                "addr:flats": "1",
                 "addr:city": "Zielona Góra",
                 "addr:postcode": "65-536",
                 "amenity": "pharmacy"
@@ -1130,7 +1125,6 @@
                 "name": "Stylowa 3",
                 "addr:street": "Słowacka",
                 "addr:housenumber": "27",
-                "addr:flats": "12-13",
                 "addr:city": "Zielona Góra",
                 "addr:postcode": "65-943",
                 "amenity": "pharmacy"
@@ -1187,7 +1181,6 @@
                 "name": "\"Apteka \"\"99\"\"\"",
                 "addr:street": "Stanisława Staszica",
                 "addr:housenumber": "9",
-                "addr:flats": "AB",
                 "addr:city": "Zielona Góra",
                 "addr:postcode": "65-001",
                 "amenity": "pharmacy"

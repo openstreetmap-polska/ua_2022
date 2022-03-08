@@ -237,7 +237,6 @@
                 "name": "Alba",
                 "addr:street": "Bolesława Chrobrego",
                 "addr:housenumber": "16",
-                "addr:flats": "4",
                 "addr:city": "Nakło Nad Notecią",
                 "addr:postcode": "89-100",
                 "amenity": "pharmacy"
@@ -485,7 +484,6 @@
                 "name": "Punkt Apteczny Centrum",
                 "addr:street": "Bydgoska",
                 "addr:housenumber": "9",
-                "addr:flats": "1",
                 "addr:city": "Rynarzewo",
                 "addr:postcode": "89-200",
                 "amenity": "pharmacy"

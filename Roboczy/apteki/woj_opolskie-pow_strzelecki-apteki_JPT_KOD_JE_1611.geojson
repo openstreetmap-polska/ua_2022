@@ -46,7 +46,6 @@
                 "name": "Doz Apteka.Dbam O Zdrowie",
                 "addr:street": "Marka Prawego",
                 "addr:housenumber": "7",
-                "addr:flats": "1E",
                 "addr:city": "Strzelce Opolskie",
                 "addr:postcode": "47-100",
                 "amenity": "pharmacy"
@@ -122,7 +121,6 @@
                 "name": "Apteka Słoneczna",
                 "addr:street": "Rynek",
                 "addr:housenumber": "4",
-                "addr:flats": "2",
                 "addr:city": "Strzelce Opolskie",
                 "addr:postcode": "47-100",
                 "amenity": "pharmacy"
@@ -293,7 +291,6 @@
                 "name": "Dobra Apteka",
                 "addr:street": "Opolska",
                 "addr:housenumber": "55",
-                "addr:flats": "2",
                 "addr:city": "Zawadzkie",
                 "addr:postcode": "47-120",
                 "amenity": "pharmacy"
@@ -408,7 +405,6 @@
                 "name": "Apteka Goździkowej",
                 "addr:street": "1 Maja",
                 "addr:housenumber": "13B",
-                "addr:flats": "2",
                 "addr:city": "Ujazd",
                 "addr:postcode": "47-143",
                 "amenity": "pharmacy"
@@ -466,7 +462,6 @@
                 "name": "\"Apteka \"\"Na Schodkach\"\"\"",
                 "addr:street": "Opolska",
                 "addr:housenumber": "18",
-                "addr:flats": "14",
                 "addr:city": "Zawadzkie",
                 "addr:postcode": "47-120",
                 "amenity": "pharmacy"
@@ -486,7 +481,6 @@
                 "name": "\"Apteka Rodzinna \"\"Ewa\"\"\"",
                 "addr:street": "Nowa Kolonia",
                 "addr:housenumber": "14c",
-                "addr:flats": "1",
                 "addr:city": "Jemielnica",
                 "addr:postcode": "47-133",
                 "amenity": "pharmacy"
