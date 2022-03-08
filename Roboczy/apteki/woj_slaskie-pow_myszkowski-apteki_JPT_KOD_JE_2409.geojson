@@ -11,7 +11,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Koziegłowy",
                 "addr:postcode": "42-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "PORAJ",
                 "addr:postcode": "42-360",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Poraj",
                 "addr:postcode": "42-360",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "PORAJ",
                 "addr:postcode": "42-297",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Poraj",
                 "addr:postcode": "42-360",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Koziegłowy",
                 "addr:postcode": "42-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "130",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "93",
                 "addr:city": "MYSZKÓW",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "5/3",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "53 C",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "ŻARKI LETNISKO",
                 "addr:postcode": "42-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Żarki",
                 "addr:postcode": "42-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "27A",
                 "addr:city": "Koziegłowy",
                 "addr:postcode": "42-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Żarki-Letnisko",
                 "addr:postcode": "42-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +331,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +351,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +371,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -372,7 +391,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Żarki",
                 "addr:postcode": "42-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +411,8 @@
                 "addr:housenumber": "66",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +431,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +451,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -448,7 +471,8 @@
                 "addr:housenumber": "6B",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +491,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -486,7 +511,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Żarki",
                 "addr:postcode": "42-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -505,7 +531,8 @@
                 "addr:housenumber": "6a",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -523,7 +550,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Myszków",
                 "addr:postcode": "42-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -542,7 +570,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Niegowa",
                 "addr:postcode": "42-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -560,7 +589,8 @@
                 "addr:housenumber": "78 A",
                 "addr:postcode": "42-320",
                 "amenity": "pharmacy",
-                "addr:place": "Sokolniki"
+                "addr:place": "Sokolniki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

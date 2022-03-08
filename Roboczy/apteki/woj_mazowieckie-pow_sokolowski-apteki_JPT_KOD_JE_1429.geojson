@@ -11,7 +11,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Repki",
                 "addr:postcode": "08-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Jabłonna Lacka",
                 "addr:postcode": "08-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "19",
                 "addr:postcode": "08-307",
                 "amenity": "pharmacy",
-                "addr:place": "Sawice Wieś"
+                "addr:place": "Sawice Wieś",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +270,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sokołów Podlaski",
                 "addr:postcode": "08-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -276,7 +290,8 @@
                 "addr:housenumber": "45",
                 "addr:city": "Kosów Lacki",
                 "addr:postcode": "08-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -295,7 +310,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kosów Lacki",
                 "addr:postcode": "08-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "25",
                 "addr:postcode": "08-322",
                 "amenity": "pharmacy",
-                "addr:place": "Ceranów"
+                "addr:place": "Ceranów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "9A",
                 "addr:city": "Sterdyń",
                 "addr:postcode": "08-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "75",
                 "addr:city": "Sabnie",
                 "addr:postcode": "08-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

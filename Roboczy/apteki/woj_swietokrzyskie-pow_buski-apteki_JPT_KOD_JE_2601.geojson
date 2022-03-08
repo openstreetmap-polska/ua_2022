@@ -9,7 +9,8 @@
                 "addr:housenumber": "41",
                 "addr:postcode": "28-142",
                 "amenity": "pharmacy",
-                "addr:place": "Tuczępy"
+                "addr:place": "Tuczępy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +27,8 @@
                 "addr:housenumber": "147",
                 "addr:postcode": "28-114",
                 "amenity": "pharmacy",
-                "addr:place": "Gnojno"
+                "addr:place": "Gnojno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -43,7 +45,8 @@
                 "addr:housenumber": "133",
                 "addr:postcode": "28-136",
                 "amenity": "pharmacy",
-                "addr:place": "Brzostków"
+                "addr:place": "Brzostków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -62,7 +65,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Nowy Korczyn",
                 "addr:postcode": "28-136",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -80,7 +84,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Nowy Korczyn",
                 "addr:postcode": "28-136",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -98,7 +103,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -116,7 +122,8 @@
                 "addr:housenumber": "65a",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +141,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Stopnica",
                 "addr:postcode": "28-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -152,7 +160,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "PACANÓW",
                 "addr:postcode": "28-133",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +180,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "BUSKO-ZDRÓJ",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -189,7 +199,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -208,7 +219,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Solec-Zdrój",
                 "addr:postcode": "28-131",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -227,7 +239,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -246,7 +259,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -265,7 +279,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Pacanów",
                 "addr:postcode": "28-133",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -284,7 +299,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -303,7 +319,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Wiślica",
                 "addr:postcode": "28-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -322,7 +339,8 @@
                 "addr:housenumber": "11a",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -341,7 +359,8 @@
                 "addr:housenumber": "67D",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -360,7 +379,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -378,7 +398,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +418,8 @@
                 "addr:housenumber": "106",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -416,7 +438,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Wiślica",
                 "addr:postcode": "28-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -434,7 +457,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -453,7 +477,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +497,8 @@
                 "addr:housenumber": "14A",
                 "addr:city": "Solec-Zdrój",
                 "addr:postcode": "28-131",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -491,7 +517,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -510,7 +537,8 @@
                 "addr:housenumber": "67",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -529,7 +557,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Wiślica",
                 "addr:postcode": "28-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -548,7 +577,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -567,7 +597,8 @@
                 "addr:housenumber": "115",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -586,7 +617,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -605,7 +637,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -624,7 +657,8 @@
                 "addr:housenumber": "67",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -643,7 +677,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Stopnica",
                 "addr:postcode": "28-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -662,7 +697,8 @@
                 "addr:housenumber": "2a",
                 "addr:city": "Busko-Zdrój",
                 "addr:postcode": "28-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

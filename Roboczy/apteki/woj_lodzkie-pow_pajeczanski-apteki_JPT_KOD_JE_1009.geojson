@@ -10,7 +10,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Działoszyn",
                 "addr:postcode": "98-355",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "29A",
                 "addr:city": "Pajęczno",
                 "addr:postcode": "98-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "21C",
                 "addr:city": "Działoszyn",
                 "addr:postcode": "98-355",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "1C",
                 "addr:city": "Działoszyn",
                 "addr:postcode": "98-355",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Pajęczno",
                 "addr:postcode": "98-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Pajęczno",
                 "addr:postcode": "98-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "59",
                 "addr:city": "Nowa Brzeźnica",
                 "addr:postcode": "98-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Nowa Brzeźnica",
                 "addr:postcode": "98-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Strzelce Wielkie",
                 "addr:postcode": "98-337",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Pajęczno",
                 "addr:postcode": "98-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Działoszyn",
                 "addr:postcode": "98-355",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "89",
                 "addr:city": "Pajęczno",
                 "addr:postcode": "98-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Działoszyn",
                 "addr:postcode": "98-355",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "13/15",
                 "addr:city": "Pajęczno",
                 "addr:postcode": "98-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Pajęczno",
                 "addr:postcode": "98-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Trębaczew",
                 "addr:postcode": "98-355",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -308,7 +324,8 @@
                 "addr:housenumber": "94",
                 "addr:postcode": "27-540",
                 "amenity": "pharmacy",
-                "addr:place": "Lipnik"
+                "addr:place": "Lipnik",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -326,7 +343,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Kiełczygłów",
                 "addr:postcode": "98-358",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -345,7 +363,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rząśnia",
                 "addr:postcode": "97-518",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -364,7 +383,8 @@
                 "addr:housenumber": "9A",
                 "addr:city": "Siemkowice",
                 "addr:postcode": "98-354",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +403,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sulmierzyce",
                 "addr:postcode": "98-338",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -401,7 +422,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Radoszewice",
                 "addr:postcode": "98-354",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Drawsko Pomorskie",
                 "addr:postcode": "78-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Kalisz Pomorski",
                 "addr:postcode": "78-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "22a",
                 "addr:city": "Kalisz Pomorski",
                 "addr:postcode": "78-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Drawsko Pomorskie",
                 "addr:postcode": "78-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Drawsko Pomorskie",
                 "addr:postcode": "78-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Drawsko Pomorskie",
                 "addr:postcode": "78-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Drawsko Pomorskie",
                 "addr:postcode": "78-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Złocieniec",
                 "addr:postcode": "78-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Wierzchowo",
                 "addr:postcode": "78-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "2-4",
                 "addr:city": "Złocieniec",
                 "addr:postcode": "78-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Czaplinek",
                 "addr:postcode": "78-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Czaplinek",
                 "addr:postcode": "78-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Złocieniec",
                 "addr:postcode": "78-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +270,8 @@
                 "addr:housenumber": "15-17",
                 "addr:city": "Czaplinek",
                 "addr:postcode": "78-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -276,7 +290,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Złocieniec",
                 "addr:postcode": "78-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -295,7 +310,8 @@
                 "addr:housenumber": "11d",
                 "addr:city": "Złocieniec",
                 "addr:postcode": "78-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -314,7 +330,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Złocieniec",
                 "addr:postcode": "78-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +349,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Złocieniec",
                 "addr:postcode": "78-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +369,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Złocieniec",
                 "addr:postcode": "78-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +389,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Czaplinek",
                 "addr:postcode": "78-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

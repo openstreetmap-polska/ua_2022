@@ -11,7 +11,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Tychowo",
                 "addr:postcode": "73-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Białogard",
                 "addr:postcode": "78-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Białogard",
                 "addr:postcode": "78-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Karlino",
                 "addr:postcode": "78-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Białogard",
                 "addr:postcode": "78-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Białogard",
                 "addr:postcode": "78-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "5",
                 "addr:postcode": "78-217",
                 "amenity": "pharmacy",
-                "addr:place": "Stanomino"
+                "addr:place": "Stanomino",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Białogard",
                 "addr:postcode": "78-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Białogard",
                 "addr:postcode": "78-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Białogard",
                 "addr:postcode": "78-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Białogard",
                 "addr:postcode": "78-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "29D",
                 "addr:city": "Białogard",
                 "addr:postcode": "78-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

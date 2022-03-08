@@ -11,7 +11,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "72",
                 "addr:city": "Żychlin",
                 "addr:postcode": "99-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "15",
                 "addr:postcode": "99-311",
                 "amenity": "pharmacy",
-                "addr:place": "Plecka Dąbrowa"
+                "addr:place": "Plecka Dąbrowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Żychlin",
                 "addr:postcode": "99-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "30A",
                 "addr:postcode": "99-320",
                 "amenity": "pharmacy",
-                "addr:place": "Bedlno"
+                "addr:place": "Bedlno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "71",
                 "addr:city": "Żychlin",
                 "addr:postcode": "99-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "23B",
                 "addr:city": "Krośniewice",
                 "addr:postcode": "99-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Żychlin",
                 "addr:postcode": "99-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "12",
                 "addr:postcode": "99-314",
                 "amenity": "pharmacy",
-                "addr:place": "Krzyżanów"
+                "addr:place": "Krzyżanów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +342,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Krośniewice",
                 "addr:postcode": "99-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -344,7 +362,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -363,7 +382,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +400,8 @@
                 "addr:housenumber": "25/1",
                 "addr:postcode": "99-322",
                 "amenity": "pharmacy",
-                "addr:place": "Oporów"
+                "addr:place": "Oporów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -399,7 +420,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -417,7 +439,8 @@
                 "addr:housenumber": "17",
                 "addr:postcode": "99-350",
                 "amenity": "pharmacy",
-                "addr:place": "Ostrowy"
+                "addr:place": "Ostrowy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -436,7 +459,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -455,7 +479,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -474,7 +499,8 @@
                 "addr:housenumber": "18/20",
                 "addr:city": "Krośniewice",
                 "addr:postcode": "99-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -493,7 +519,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -510,7 +537,8 @@
                 "addr:housenumber": "9A",
                 "addr:postcode": "99-306",
                 "amenity": "pharmacy",
-                "addr:place": "Łanięta"
+                "addr:place": "Łanięta",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -529,7 +557,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "KUTNO",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -547,7 +576,8 @@
                 "addr:housenumber": "1/2",
                 "addr:city": "Strzelce",
                 "addr:postcode": "99-037",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -566,7 +596,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -585,7 +616,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -604,7 +636,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Żychlin",
                 "addr:postcode": "99-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -622,7 +655,8 @@
                 "addr:housenumber": "7",
                 "addr:postcode": "99-350",
                 "amenity": "pharmacy",
-                "addr:place": "Wołodrza"
+                "addr:place": "Wołodrza",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -641,7 +675,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Dąbrowice",
                 "addr:postcode": "99-352",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -660,7 +695,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -679,7 +715,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -698,7 +735,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -716,7 +754,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -735,7 +774,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -754,7 +794,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Żychlin",
                 "addr:postcode": "99-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -773,7 +814,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -792,7 +834,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -811,7 +854,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kutno",
                 "addr:postcode": "99-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

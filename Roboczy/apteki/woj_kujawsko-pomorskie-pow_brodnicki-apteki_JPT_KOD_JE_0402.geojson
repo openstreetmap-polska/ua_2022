@@ -11,7 +11,8 @@
                 "addr:housenumber": "29B",
                 "addr:city": "Jabłonowo Pomorskie",
                 "addr:postcode": "87-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "21",
                 "addr:postcode": "87-327",
                 "amenity": "pharmacy",
-                "addr:place": "Bobrowo"
+                "addr:place": "Bobrowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Jabłonowo Pomorskie",
                 "addr:postcode": "87-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "39",
                 "addr:postcode": "87-326",
                 "amenity": "pharmacy",
-                "addr:place": "Nieżywięć"
+                "addr:place": "Nieżywięć",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "14",
                 "addr:postcode": "87-327",
                 "amenity": "pharmacy",
-                "addr:place": "Wichulec"
+                "addr:place": "Wichulec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "27",
                 "addr:postcode": "87-312",
                 "amenity": "pharmacy",
-                "addr:place": "Pokrzydowo"
+                "addr:place": "Pokrzydowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "176",
                 "addr:postcode": "87-313",
                 "amenity": "pharmacy",
-                "addr:place": "Brzozie"
+                "addr:place": "Brzozie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -269,7 +283,8 @@
                 "addr:housenumber": "36B",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -288,7 +303,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -326,7 +343,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +361,8 @@
                 "addr:housenumber": "82",
                 "addr:postcode": "87-340",
                 "amenity": "pharmacy",
-                "addr:place": "Osiek"
+                "addr:place": "Osiek",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -362,7 +381,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +401,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -400,7 +421,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -419,7 +441,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -438,7 +461,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -456,7 +480,8 @@
                 "addr:housenumber": "63",
                 "addr:postcode": "63-112",
                 "amenity": "pharmacy",
-                "addr:place": "Brodnica"
+                "addr:place": "Brodnica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -475,7 +500,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Brodnica",
                 "addr:postcode": "87-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -494,7 +520,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Górzno",
                 "addr:postcode": "87-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -512,7 +539,8 @@
                 "addr:housenumber": "15",
                 "addr:postcode": "87-322",
                 "amenity": "pharmacy",
-                "addr:place": "Jastrzębie"
+                "addr:place": "Jastrzębie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -530,7 +558,8 @@
                 "addr:housenumber": "93",
                 "addr:postcode": "87-335",
                 "amenity": "pharmacy",
-                "addr:place": "Świedziebnia"
+                "addr:place": "Świedziebnia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Borkowo",
                 "addr:postcode": "80-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "32 A",
                 "addr:city": "Kowale",
                 "addr:postcode": "80-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "7B",
                 "addr:city": "Kolbudy",
                 "addr:postcode": "83-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Przywidz",
                 "addr:postcode": "83-047",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "27J",
                 "addr:city": "Trąbki Wielkie",
                 "addr:postcode": "83-034",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sobowidz",
                 "addr:postcode": "83-033",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mierzeszyn",
                 "addr:postcode": "83-041",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +249,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Pszczółki",
                 "addr:postcode": "83-032",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +309,8 @@
                 "addr:housenumber": "66",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +349,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Kolbudy",
                 "addr:postcode": "83-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +369,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Pszczółki",
                 "addr:postcode": "83-032",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +389,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -389,7 +409,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -408,7 +429,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +448,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Pszczółki",
                 "addr:postcode": "83-032",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -445,7 +468,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kolbudy",
                 "addr:postcode": "83-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -464,7 +488,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Cedry Wielkie",
                 "addr:postcode": "83-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -483,7 +508,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -502,7 +528,8 @@
                 "addr:housenumber": "101A",
                 "addr:city": "Cieplewo",
                 "addr:postcode": "83-031",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -521,7 +548,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Rotmanka",
                 "addr:postcode": "83-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -540,7 +568,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Pruszcz Gdański",
                 "addr:postcode": "83-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -559,7 +588,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Straszyn",
                 "addr:postcode": "83-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -578,7 +608,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Suchy Dąb",
                 "addr:postcode": "83-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -597,7 +628,8 @@
                 "addr:housenumber": "1C",
                 "addr:city": "Pszczółki",
                 "addr:postcode": "83-032",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

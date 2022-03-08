@@ -11,7 +11,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Włoszczowa",
                 "addr:postcode": "29-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Krasocin",
                 "addr:postcode": "29-105",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "42",
                 "addr:postcode": "29-130",
                 "amenity": "pharmacy",
-                "addr:place": "Moskorzew"
+                "addr:place": "Moskorzew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Włoszczowa",
                 "addr:postcode": "29-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Chlewice",
                 "addr:postcode": "29-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Włoszczowa",
                 "addr:postcode": "29-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "99",
                 "addr:postcode": "29-135",
                 "amenity": "pharmacy",
-                "addr:place": "Radków"
+                "addr:place": "Radków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +144,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Kluczewsko",
                 "addr:postcode": "29-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +164,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Bukowa",
                 "addr:postcode": "29-105",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -174,7 +183,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Oleszno",
                 "addr:postcode": "29-105",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -193,7 +203,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Włoszczowa",
                 "addr:postcode": "29-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Włoszczowa",
                 "addr:postcode": "29-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Secemin",
                 "addr:postcode": "29-145",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Włoszczowa",
                 "addr:postcode": "29-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -269,7 +283,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Włoszczowa",
                 "addr:postcode": "29-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "150",
                 "addr:postcode": "29-135",
                 "amenity": "pharmacy",
-                "addr:place": "Radków"
+                "addr:place": "Radków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +322,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Kluczewsko",
                 "addr:postcode": "29-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +342,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Włoszczowa",
                 "addr:postcode": "29-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +361,8 @@
                 "addr:housenumber": "5B",
                 "addr:city": "Secemin",
                 "addr:postcode": "29-145",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

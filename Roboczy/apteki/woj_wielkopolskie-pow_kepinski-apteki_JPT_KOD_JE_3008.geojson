@@ -9,7 +9,8 @@
                 "addr:housenumber": "90",
                 "addr:postcode": "63-642",
                 "amenity": "pharmacy",
-                "addr:place": "PERZÓW"
+                "addr:place": "PERZÓW",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "KĘPNO",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "KĘPNO",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "48",
                 "addr:city": "BRALIN",
                 "addr:postcode": "63-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "KĘPNO",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "KĘPNO",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "ŁĘKA OPATOWSKA",
                 "addr:postcode": "63-645",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "98",
                 "addr:postcode": "63-600",
                 "amenity": "pharmacy",
-                "addr:place": "MYJOMICE"
+                "addr:place": "MYJOMICE",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "KĘPNO",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "16A",
                 "addr:city": "Laski",
                 "addr:postcode": "63-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "145",
                 "addr:postcode": "63-611",
                 "amenity": "pharmacy",
-                "addr:place": "MROCZEŃ"
+                "addr:place": "MROCZEŃ",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "55A",
                 "addr:postcode": "63-600",
                 "amenity": "pharmacy",
-                "addr:place": "MIKORZYN"
+                "addr:place": "MIKORZYN",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "TRZCINICA",
                 "addr:postcode": "63-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "RYCHTAL",
                 "addr:postcode": "63-630",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "KĘPNO",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "48",
                 "addr:city": "KĘPNO",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +322,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "KĘPNO",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +342,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "KĘPNO",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +361,8 @@
                 "addr:housenumber": "29A",
                 "addr:city": "SŁUPIA POD KĘPNEM",
                 "addr:postcode": "63-604",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -362,7 +381,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "KĘPNO",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +401,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kępno",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -399,7 +420,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Kępno",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -418,7 +440,8 @@
                 "addr:housenumber": "4E",
                 "addr:city": "Baranów",
                 "addr:postcode": "63-604",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -437,7 +460,8 @@
                 "addr:housenumber": "59",
                 "addr:city": "Opatów",
                 "addr:postcode": "63-645",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -456,7 +480,8 @@
                 "addr:housenumber": "48A",
                 "addr:city": "Kępno",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Lędziny",
                 "addr:postcode": "43-143",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "LĘDZINY",
                 "addr:postcode": "43-143",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "149",
                 "addr:city": "LĘDZINY",
                 "addr:postcode": "43-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Lędziny",
                 "addr:postcode": "43-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "LĘDZINY",
                 "addr:postcode": "43-143",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Bieruń",
                 "addr:postcode": "43-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Bieruń",
                 "addr:postcode": "43-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Bieruń",
                 "addr:postcode": "43-155",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Bieruń",
                 "addr:postcode": "43-155",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bieruń",
                 "addr:postcode": "43-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "LĘDZINY",
                 "addr:postcode": "43-143",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Lędziny",
                 "addr:postcode": "43-143",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Imielin",
                 "addr:postcode": "41-407",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "98",
                 "addr:city": "Chełm Śląski",
                 "addr:postcode": "41-403",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Bieruń",
                 "addr:postcode": "43-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "66",
                 "addr:city": "Chełm Śląski",
                 "addr:postcode": "41-403",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -314,7 +330,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Bieruń",
                 "addr:postcode": "43-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -333,7 +350,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Bieruń",
                 "addr:postcode": "43-155",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -352,7 +370,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Bieruń",
                 "addr:postcode": "43-155",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -371,7 +390,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Bojszowy",
                 "addr:postcode": "43-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -390,7 +410,8 @@
                 "addr:housenumber": "74",
                 "addr:city": "Bojszowy",
                 "addr:postcode": "43-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

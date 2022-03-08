@@ -10,7 +10,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "SZYDŁÓW",
                 "addr:postcode": "28-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "10C",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Bogoria",
                 "addr:postcode": "28-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Bogoria",
                 "addr:postcode": "28-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "62",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "116",
                 "addr:postcode": "28-200",
                 "amenity": "pharmacy",
-                "addr:place": "Wiśniowa"
+                "addr:place": "Wiśniowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "78",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -233,7 +245,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +264,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Rytwiany",
                 "addr:postcode": "28-236",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -270,7 +284,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Koniemłoty",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Koniemłoty",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -308,7 +324,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +344,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -346,7 +364,8 @@
                 "addr:housenumber": "76A",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -365,7 +384,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Bogoria",
                 "addr:postcode": "28-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +403,8 @@
                 "addr:housenumber": "119",
                 "addr:city": "Staszów",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -400,7 +421,8 @@
                 "addr:housenumber": "62",
                 "addr:postcode": "28-210",
                 "amenity": "pharmacy",
-                "addr:place": "Jurkowice"
+                "addr:place": "Jurkowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -419,7 +441,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Osiek",
                 "addr:postcode": "28-221",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -438,7 +461,8 @@
                 "addr:housenumber": "18A",
                 "addr:city": "Osiek",
                 "addr:postcode": "28-221",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -457,7 +481,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "28-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -474,7 +499,8 @@
                 "addr:housenumber": "73",
                 "addr:postcode": "28-232",
                 "amenity": "pharmacy",
-                "addr:place": "ŁUBNICE"
+                "addr:place": "ŁUBNICE",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -492,7 +518,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Połaniec",
                 "addr:postcode": "28-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -509,7 +536,8 @@
                 "addr:housenumber": "24",
                 "addr:postcode": "28-230",
                 "amenity": "pharmacy",
-                "addr:place": "Zawada"
+                "addr:place": "Zawada",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -528,7 +556,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Połaniec",
                 "addr:postcode": "28-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -547,7 +576,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Połaniec",
                 "addr:postcode": "28-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -566,7 +596,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Połaniec",
                 "addr:postcode": "28-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -584,7 +615,8 @@
                 "addr:housenumber": "70",
                 "addr:postcode": "58-124",
                 "amenity": "pharmacy",
-                "addr:place": "Strzelce"
+                "addr:place": "Strzelce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

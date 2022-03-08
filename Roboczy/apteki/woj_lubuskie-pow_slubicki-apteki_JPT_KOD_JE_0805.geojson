@@ -11,7 +11,8 @@
                 "addr:housenumber": "22b",
                 "addr:city": "Ośno Lubuskie",
                 "addr:postcode": "69-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "5j",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Górzyca",
                 "addr:postcode": "69-113",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Cybinka",
                 "addr:postcode": "69-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Cybinka",
                 "addr:postcode": "69-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Ośno Lubuskie",
                 "addr:postcode": "69-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Rzepin",
                 "addr:postcode": "69-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Rzepin",
                 "addr:postcode": "69-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Kowalów",
                 "addr:postcode": "69-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +387,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "3a",
                 "addr:city": "Słubice",
                 "addr:postcode": "69-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -10,7 +10,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Błędów",
                 "addr:postcode": "05-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "11/13",
                 "addr:city": "Mogielnica",
                 "addr:postcode": "05-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Mogielnica",
                 "addr:postcode": "05-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Mogielnica",
                 "addr:postcode": "05-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mogielnica",
                 "addr:postcode": "05-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Belsk Duży",
                 "addr:postcode": "05-622",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "4B",
                 "addr:city": "Jasieniec",
                 "addr:postcode": "05-604",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Warka",
                 "addr:postcode": "05-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "50B",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Warka",
                 "addr:postcode": "05-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Goszczyn",
                 "addr:postcode": "05-610",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +387,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Warka",
                 "addr:postcode": "05-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -386,7 +406,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Warka",
                 "addr:postcode": "05-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -405,7 +426,8 @@
                 "addr:housenumber": "28/71",
                 "addr:city": "Warka",
                 "addr:postcode": "05-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -424,7 +446,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Chynów",
                 "addr:postcode": "05-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -443,7 +466,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Belsk Duży",
                 "addr:postcode": "05-622",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -462,7 +486,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Nowe Miasto nad Pilicą",
                 "addr:postcode": "26-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -481,7 +506,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Nowe Miasto nad Pilicą",
                 "addr:postcode": "26-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -499,7 +525,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Nowe Miasto nad Pilicą",
                 "addr:postcode": "26-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -518,7 +545,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Nowe Miasto nad Pilicą",
                 "addr:postcode": "26-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +565,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Nowe Miasto nad Pilicą",
                 "addr:postcode": "26-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -556,7 +585,8 @@
                 "addr:housenumber": "29/33",
                 "addr:city": "Nowe Miasto nad Pilicą",
                 "addr:postcode": "26-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -573,7 +603,8 @@
                 "addr:housenumber": "133A",
                 "addr:postcode": "05-620",
                 "amenity": "pharmacy",
-                "addr:place": "Wilków Drugi"
+                "addr:place": "Wilków Drugi",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -592,7 +623,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Błędów",
                 "addr:postcode": "05-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -611,7 +643,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -630,7 +663,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Warka",
                 "addr:postcode": "05-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -648,7 +682,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Chynów",
                 "addr:postcode": "05-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +702,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -686,7 +722,8 @@
                 "addr:housenumber": "B",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -704,7 +741,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -722,7 +760,8 @@
                 "addr:housenumber": "1",
                 "addr:postcode": "05-652",
                 "amenity": "pharmacy",
-                "addr:place": "Jeziora"
+                "addr:place": "Jeziora",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -740,7 +779,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Warka",
                 "addr:postcode": "05-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -759,7 +799,8 @@
                 "addr:housenumber": "28C",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -778,7 +819,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Grójec",
                 "addr:postcode": "05-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

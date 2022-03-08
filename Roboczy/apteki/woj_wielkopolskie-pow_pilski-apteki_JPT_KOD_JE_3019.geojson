@@ -11,7 +11,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "OSIEK NAD NOTECIĄ",
                 "addr:postcode": "89-333",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Osiek nad Notecią",
                 "addr:postcode": "89-333",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Wyrzysk",
                 "addr:postcode": "89-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Łobżenica",
                 "addr:postcode": "89-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "WYRZYSK",
                 "addr:postcode": "89-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "WYRZYSK",
                 "addr:postcode": "89-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Łobżenica",
                 "addr:postcode": "89-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "WYRZYSK",
                 "addr:postcode": "89-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wyrzysk",
                 "addr:postcode": "89-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Łobżenica",
                 "addr:postcode": "89-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "47",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Wysoka",
                 "addr:postcode": "89-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +249,8 @@
                 "addr:housenumber": "16B",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Stara Łubianka",
                 "addr:postcode": "64-930",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +309,8 @@
                 "addr:housenumber": "54A",
                 "addr:city": "Białośliwie",
                 "addr:postcode": "89-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +349,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Wysoka",
                 "addr:postcode": "89-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +369,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Ujście",
                 "addr:postcode": "64-850",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +389,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -389,7 +409,8 @@
                 "addr:housenumber": "33B",
                 "addr:city": "PIŁA",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -408,7 +429,8 @@
                 "addr:housenumber": "33-35",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -427,7 +449,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "PIŁA",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +469,8 @@
                 "addr:housenumber": "99",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -465,7 +489,8 @@
                 "addr:housenumber": "135",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -484,7 +509,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "PIŁA",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -503,7 +529,8 @@
                 "addr:housenumber": "105",
                 "addr:city": "PIŁA",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -522,7 +549,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -541,7 +569,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -560,7 +589,8 @@
                 "addr:housenumber": "1D",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -579,7 +609,8 @@
                 "addr:housenumber": "13A",
                 "addr:city": "PIŁA",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -598,7 +629,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -617,7 +649,8 @@
                 "addr:housenumber": "102",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -636,7 +669,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Ujście",
                 "addr:postcode": "64-850",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -655,7 +689,8 @@
                 "addr:housenumber": "162",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -674,7 +709,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -692,7 +728,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Ujście",
                 "addr:postcode": "64-850",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -711,7 +748,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Białośliwie",
                 "addr:postcode": "89-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -730,7 +768,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -749,7 +788,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -767,7 +807,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -786,7 +827,8 @@
                 "addr:housenumber": "18A",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -804,7 +846,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -822,7 +865,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kruszewo",
                 "addr:postcode": "64-706",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -841,7 +885,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "KACZORY",
                 "addr:postcode": "64-810",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -859,7 +904,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "PIŁA",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -877,7 +923,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "PIŁA",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -896,7 +943,8 @@
                 "addr:housenumber": "68",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -914,7 +962,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -933,7 +982,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -951,7 +1001,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -969,7 +1020,8 @@
                 "addr:housenumber": "2A",
                 "addr:postcode": "64-920",
                 "amenity": "pharmacy",
-                "addr:place": "Jaraczewo"
+                "addr:place": "Jaraczewo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -988,7 +1040,8 @@
                 "addr:housenumber": "10B",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1007,7 +1060,8 @@
                 "addr:housenumber": "56A",
                 "addr:city": "Miasteczko Krajeńskie",
                 "addr:postcode": "89-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1026,7 +1080,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kaczory",
                 "addr:postcode": "64-810",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1045,7 +1100,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1063,7 +1119,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1081,7 +1138,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Piła",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

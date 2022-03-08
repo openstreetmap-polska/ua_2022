@@ -11,7 +11,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Kamienna Góra",
                 "addr:postcode": "58-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Kamienna Góra",
                 "addr:postcode": "58-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kamienna Góra",
                 "addr:postcode": "58-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Marciszów",
                 "addr:postcode": "58-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Krzeszów",
                 "addr:postcode": "58-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kamienna Góra",
                 "addr:postcode": "58-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Kamienna Góra",
                 "addr:postcode": "58-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Kamienna Góra",
                 "addr:postcode": "58-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "96",
                 "addr:postcode": "58-420",
                 "amenity": "pharmacy",
-                "addr:place": "Miszkowice"
+                "addr:place": "Miszkowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kamienna Góra",
                 "addr:postcode": "58-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Kamienna Góra",
                 "addr:postcode": "58-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kamienna Góra",
                 "addr:postcode": "58-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +249,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Kamienna Góra",
                 "addr:postcode": "58-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Chełmsko Śląskie",
                 "addr:postcode": "58-407",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Lubawka",
                 "addr:postcode": "58-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -10,7 +10,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dobra",
                 "addr:postcode": "47-364",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Gogolin",
                 "addr:postcode": "47-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "2a",
                 "addr:city": "Gogolin",
                 "addr:postcode": "47-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Krapkowice",
                 "addr:postcode": "47-303",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Krapkowice",
                 "addr:postcode": "47-303",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "20a",
                 "addr:city": "Krapkowice",
                 "addr:postcode": "47-303",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Walce",
                 "addr:postcode": "47-344",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Dąbrówka Górna",
                 "addr:postcode": "47-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Krapkowice",
                 "addr:postcode": "47-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Krapkowice",
                 "addr:postcode": "47-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Krapkowice",
                 "addr:postcode": "47-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Krapkowice",
                 "addr:postcode": "47-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Strzeleczki",
                 "addr:postcode": "47-364",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Zdzieszowice",
                 "addr:postcode": "47-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Zdzieszowice",
                 "addr:postcode": "47-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Zdzieszowice",
                 "addr:postcode": "47-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Krapkowice",
                 "addr:postcode": "47-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Krapkowice",
                 "addr:postcode": "47-303",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "1 A",
                 "addr:city": "Moszna",
                 "addr:postcode": "47-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +387,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Krapkowice",
                 "addr:postcode": "47-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Gogolin",
                 "addr:postcode": "47-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -406,7 +427,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Kamień Śląski",
                 "addr:postcode": "47-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +447,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Zdzieszowice",
                 "addr:postcode": "47-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -10,7 +10,8 @@
                 "addr:housenumber": "1475",
                 "addr:postcode": "43-470",
                 "amenity": "pharmacy",
-                "addr:place": "Istebna"
+                "addr:place": "Istebna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "68",
                 "addr:postcode": "43-470",
                 "amenity": "pharmacy",
-                "addr:place": "Istebna"
+                "addr:place": "Istebna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "783",
                 "addr:postcode": "43-474",
                 "amenity": "pharmacy",
-                "addr:place": "Koniaków"
+                "addr:place": "Koniaków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "500",
                 "addr:postcode": "43-470",
                 "amenity": "pharmacy",
-                "addr:place": "Istebna"
+                "addr:place": "Istebna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "61c",
                 "addr:city": "Wisła",
                 "addr:postcode": "43-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "641",
                 "addr:postcode": "43-476",
                 "amenity": "pharmacy",
-                "addr:place": "Jaworzynka"
+                "addr:place": "Jaworzynka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Wisła",
                 "addr:postcode": "43-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Wisła",
                 "addr:postcode": "43-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Wisła",
                 "addr:postcode": "43-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Wisła",
                 "addr:postcode": "43-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Wisła",
                 "addr:postcode": "43-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "34A",
                 "addr:city": "Brenna",
                 "addr:postcode": "43-438",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "38B",
                 "addr:city": "Brenna",
                 "addr:postcode": "43-438",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Ustroń",
                 "addr:postcode": "44-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "33A",
                 "addr:city": "Chybie",
                 "addr:postcode": "43-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Chybie",
                 "addr:postcode": "43-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +346,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -348,7 +366,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Górki Małe",
                 "addr:postcode": "43-436",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +386,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Górki Wielkie",
                 "addr:postcode": "43-436",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -386,7 +406,8 @@
                 "addr:housenumber": "25B",
                 "addr:city": "Hażlach",
                 "addr:postcode": "43-419",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -405,7 +426,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -424,7 +446,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -443,7 +466,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -462,7 +486,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -481,7 +506,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -500,7 +526,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Drogomyśl",
                 "addr:postcode": "43-424",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -519,7 +546,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "KACZYCE",
                 "addr:postcode": "43-417",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -538,7 +566,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Ogrodzona",
                 "addr:postcode": "43-426",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -557,7 +586,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Puńców",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +606,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Zebrzydowice",
                 "addr:postcode": "43-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -595,7 +626,8 @@
                 "addr:housenumber": "3B",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -614,7 +646,8 @@
                 "addr:housenumber": "73",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -633,7 +666,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Pogwizdów",
                 "addr:postcode": "43-418",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -652,7 +686,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Goleszów",
                 "addr:postcode": "43-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -671,7 +706,8 @@
                 "addr:housenumber": "2C",
                 "addr:city": "Zebrzydowice",
                 "addr:postcode": "43-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -690,7 +726,8 @@
                 "addr:housenumber": "45a",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -709,7 +746,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -728,7 +766,8 @@
                 "addr:housenumber": "62",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -747,7 +786,8 @@
                 "addr:housenumber": "65",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -766,7 +806,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -785,7 +826,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -804,7 +846,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +866,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -842,7 +886,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -861,7 +906,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Dębowiec",
                 "addr:postcode": "43-426",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -880,7 +926,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Kończyce Małe",
                 "addr:postcode": "43-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -899,7 +946,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -918,7 +966,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -937,7 +986,8 @@
                 "addr:housenumber": "16B",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -956,7 +1006,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -975,7 +1026,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -994,7 +1046,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1013,7 +1066,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1032,7 +1086,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Strumień",
                 "addr:postcode": "43-246",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1051,7 +1106,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1070,7 +1126,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1089,7 +1146,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1108,7 +1166,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Strumień",
                 "addr:postcode": "43-246",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1127,7 +1186,8 @@
                 "addr:housenumber": "76",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1146,7 +1206,8 @@
                 "addr:housenumber": "137",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1165,7 +1226,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1184,7 +1246,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1203,7 +1266,8 @@
                 "addr:housenumber": "68",
                 "addr:city": "Pruchna",
                 "addr:postcode": "43-523",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1221,7 +1285,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Zaborze",
                 "addr:postcode": "42-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1240,7 +1305,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kończyce Wielkie",
                 "addr:postcode": "43-419",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1259,7 +1325,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1278,7 +1345,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1297,7 +1365,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1315,7 +1384,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1334,7 +1404,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1353,7 +1424,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1372,7 +1444,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Goleszów",
                 "addr:postcode": "43-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1391,7 +1464,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1410,7 +1484,8 @@
                 "addr:housenumber": "16B",
                 "addr:city": "Skoczów",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1429,7 +1504,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1448,7 +1524,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1467,7 +1544,8 @@
                 "addr:housenumber": "101",
                 "addr:city": "Ochaby Małe",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1486,7 +1564,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1505,7 +1584,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Pierściec",
                 "addr:postcode": "43-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1524,7 +1604,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1543,7 +1624,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Ustroń",
                 "addr:postcode": "43-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1562,7 +1644,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Cieszyn",
                 "addr:postcode": "43-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

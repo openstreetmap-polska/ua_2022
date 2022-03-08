@@ -10,7 +10,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Trzebiatów",
                 "addr:postcode": "72-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "65",
                 "addr:city": "Gryfice",
                 "addr:postcode": "72-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Niechorze",
                 "addr:postcode": "72-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "75",
                 "addr:city": "Pobierowo",
                 "addr:postcode": "72-346",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Trzebiatów",
                 "addr:postcode": "72-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "1c",
                 "addr:city": "Płoty",
                 "addr:postcode": "72-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Cerkwica",
                 "addr:postcode": "72-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Rewal",
                 "addr:postcode": "72-344",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Gryfice",
                 "addr:postcode": "72-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Gryfice",
                 "addr:postcode": "72-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Pobierowo",
                 "addr:postcode": "72-346",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Gryfice",
                 "addr:postcode": "72-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Gryfice",
                 "addr:postcode": "72-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Gryfice",
                 "addr:postcode": "72-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "60",
                 "addr:city": "Trzebiatów",
                 "addr:postcode": "72-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Gryfice",
                 "addr:postcode": "72-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Płoty",
                 "addr:postcode": "72-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Trzebiatów",
                 "addr:postcode": "73-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Trzebiatów",
                 "addr:postcode": "72-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +386,8 @@
                 "addr:housenumber": "3H",
                 "addr:city": "Mrzeżyno",
                 "addr:postcode": "72-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -386,7 +406,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Brojce",
                 "addr:postcode": "72-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

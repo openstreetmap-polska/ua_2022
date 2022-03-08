@@ -11,7 +11,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "WŁADYSŁAWÓW",
                 "addr:postcode": "62-710",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "WŁADYSŁAWÓW",
                 "addr:postcode": "62-710",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "BRUDZEW",
                 "addr:postcode": "62-720",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "53",
                 "addr:postcode": "62-704",
                 "amenity": "pharmacy",
-                "addr:place": "KOWALE PAŃSKIE KOLONIA"
+                "addr:place": "KOWALE PAŃSKIE KOLONIA",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "TUREK",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "TUREK",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "DOBRA",
                 "addr:postcode": "62-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "TUREK",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "TUREK",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "MALANÓW",
                 "addr:postcode": "62-709",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "TUREK",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Dobra",
                 "addr:postcode": "62-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +249,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Turek",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Turek",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "TUREK",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "TUREK",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "TUREK",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "TUREK",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "PRZYKONA",
                 "addr:postcode": "62-731",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +387,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "GRZYMISZEW",
                 "addr:postcode": "62-740",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "TULISZKÓW",
                 "addr:postcode": "62-740",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -405,7 +426,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "TUREK",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +445,8 @@
                 "addr:housenumber": "4A",
                 "addr:postcode": "62-709",
                 "amenity": "pharmacy",
-                "addr:place": "Malanów"
+                "addr:place": "Malanów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -441,7 +464,8 @@
                 "addr:housenumber": "37A",
                 "addr:postcode": "62-704",
                 "amenity": "pharmacy",
-                "addr:place": "Tokary Pierwsze"
+                "addr:place": "Tokary Pierwsze",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -460,7 +484,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Turek",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -479,7 +504,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Tuliszków",
                 "addr:postcode": "62-740",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +524,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Turek",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -517,7 +544,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Turek",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -536,7 +564,8 @@
                 "addr:housenumber": "3a",
                 "addr:city": "Turek",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -555,7 +584,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Turek",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -574,7 +604,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Brudzew",
                 "addr:postcode": "62-720",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -593,7 +624,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Turek",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -612,7 +644,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Turek",
                 "addr:postcode": "62-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -631,7 +664,8 @@
                 "addr:housenumber": "20A",
                 "addr:city": "Wyszyna",
                 "addr:postcode": "62-710",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -650,7 +684,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Malanów",
                 "addr:postcode": "62-709",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

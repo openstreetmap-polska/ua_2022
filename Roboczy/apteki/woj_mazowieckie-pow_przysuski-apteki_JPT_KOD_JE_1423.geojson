@@ -10,7 +10,8 @@
                 "addr:housenumber": "6/8",
                 "addr:city": "Odrzywół",
                 "addr:postcode": "26-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Gielniów",
                 "addr:postcode": "26-434",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Przysucha",
                 "addr:postcode": "26-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Klwów",
                 "addr:postcode": "26-415",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Przysucha",
                 "addr:postcode": "26-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Przysucha",
                 "addr:postcode": "26-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Przysucha",
                 "addr:postcode": "26-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "6B",
                 "addr:city": "Przysucha",
                 "addr:postcode": "26-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Przysucha",
                 "addr:postcode": "26-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "1",
                 "addr:postcode": "26-400",
                 "amenity": "pharmacy",
-                "addr:place": "Mariówka"
+                "addr:place": "Mariówka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -193,7 +203,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Rusinów",
                 "addr:postcode": "26-411",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Przysucha",
                 "addr:postcode": "26-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "13B",
                 "addr:city": "Borkowice",
                 "addr:postcode": "26-422",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "14a",
                 "addr:city": "Skrzynno",
                 "addr:postcode": "26-432",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "10/9",
                 "addr:city": "Potworów",
                 "addr:postcode": "26-414",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -286,7 +301,8 @@
                 "addr:housenumber": "86",
                 "addr:city": "Wieniawa",
                 "addr:postcode": "26-432",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

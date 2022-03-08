@@ -11,7 +11,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "BESTWINA",
                 "addr:postcode": "43-512",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Buczkowice",
                 "addr:postcode": "43-374",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Bystra",
                 "addr:postcode": "43-360",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "189",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "18 A",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Dankowice",
                 "addr:postcode": "43-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "933",
                 "addr:postcode": "43-385",
                 "amenity": "pharmacy",
-                "addr:place": "Jasienica"
+                "addr:place": "Jasienica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Kaniów",
                 "addr:postcode": "43-514",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Kobiernice",
                 "addr:postcode": "43-356",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Kozy",
                 "addr:postcode": "43-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kozy",
                 "addr:postcode": "43-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "433",
                 "addr:postcode": "43-392",
                 "amenity": "pharmacy",
-                "addr:place": "Międzyrzecze Górne"
+                "addr:place": "Międzyrzecze Górne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Porąbka",
                 "addr:postcode": "43-353",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +309,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Szczyrk",
                 "addr:postcode": "43-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "69",
                 "addr:city": "Szczyrk",
                 "addr:postcode": "43-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +349,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Szczyrk",
                 "addr:postcode": "43-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +369,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Wilamowice",
                 "addr:postcode": "43-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +389,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Wilkowice",
                 "addr:postcode": "43-365",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -389,7 +409,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "ZABRZEG",
                 "addr:postcode": "43-516",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -408,7 +429,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "LIGOTA",
                 "addr:postcode": "43-518",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -427,7 +449,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Jaworze",
                 "addr:postcode": "43-384",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +469,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -465,7 +489,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -484,7 +509,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -503,7 +529,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -522,7 +549,8 @@
                 "addr:housenumber": "83",
                 "addr:city": "Jaworze",
                 "addr:postcode": "43-384",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -541,7 +569,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Czaniec",
                 "addr:postcode": "34-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -560,7 +589,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -579,7 +609,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Jaworze",
                 "addr:postcode": "43-384",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -598,7 +629,8 @@
                 "addr:housenumber": "138",
                 "addr:city": "Jaworze",
                 "addr:postcode": "43-384",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -616,7 +648,8 @@
                 "addr:housenumber": "22",
                 "addr:postcode": "43-391",
                 "amenity": "pharmacy",
-                "addr:place": "Mazańcowice"
+                "addr:place": "Mazańcowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -635,7 +668,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Wilkowice",
                 "addr:postcode": "43-365",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +688,8 @@
                 "addr:housenumber": "46A",
                 "addr:city": "Pisarzowice",
                 "addr:postcode": "43-332",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -673,7 +708,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kozy",
                 "addr:postcode": "43-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -692,7 +728,8 @@
                 "addr:housenumber": "147",
                 "addr:city": "Kozy",
                 "addr:postcode": "43-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -710,7 +747,8 @@
                 "addr:housenumber": "541",
                 "addr:postcode": "43-394",
                 "amenity": "pharmacy",
-                "addr:place": "Rudzica"
+                "addr:place": "Rudzica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -729,7 +767,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Bystra",
                 "addr:postcode": "43-360",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -747,7 +786,8 @@
                 "addr:housenumber": "845",
                 "addr:postcode": "43-385",
                 "amenity": "pharmacy",
-                "addr:place": "Jasienica"
+                "addr:place": "Jasienica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -766,7 +806,8 @@
                 "addr:housenumber": "83",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -785,7 +826,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Kobiernice",
                 "addr:postcode": "43-356",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -804,7 +846,8 @@
                 "addr:housenumber": "1307",
                 "addr:city": "Buczkowice",
                 "addr:postcode": "43-374",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +866,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -842,7 +886,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -861,7 +906,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -880,7 +926,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Wilamowice",
                 "addr:postcode": "43-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -899,7 +946,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Czechowice-Dziedzice",
                 "addr:postcode": "43-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -918,7 +966,8 @@
                 "addr:housenumber": "135",
                 "addr:city": "Szczyrk",
                 "addr:postcode": "43-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -937,7 +986,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Pisarzowice",
                 "addr:postcode": "43-332",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -955,7 +1005,8 @@
                 "addr:housenumber": "1045",
                 "addr:postcode": "43-391",
                 "amenity": "pharmacy",
-                "addr:place": "Mazańcowice"
+                "addr:place": "Mazańcowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -974,7 +1025,8 @@
                 "addr:housenumber": "860",
                 "addr:city": "Rybarzowice",
                 "addr:postcode": "43-378",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -993,7 +1045,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Czaniec",
                 "addr:postcode": "43-354",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

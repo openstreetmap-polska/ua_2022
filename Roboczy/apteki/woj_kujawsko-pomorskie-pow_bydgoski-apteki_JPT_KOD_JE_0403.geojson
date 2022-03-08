@@ -11,7 +11,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Łochowo",
                 "addr:postcode": "86-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sicienko",
                 "addr:postcode": "86-014",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łochowo",
                 "addr:postcode": "86-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Łochowo",
                 "addr:postcode": "86-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mąkowarsko",
                 "addr:postcode": "86-013",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Osielsko",
                 "addr:postcode": "86-031",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Solec Kujawski",
                 "addr:postcode": "86-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Solec Kujawski",
                 "addr:postcode": "86-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Brzoza",
                 "addr:postcode": "86-061",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Niemcz",
                 "addr:postcode": "86-032",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Solec Kujawski",
                 "addr:postcode": "86-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "14c",
                 "addr:city": "Nowa Wieś Wielka",
                 "addr:postcode": "86-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Białe Błota",
                 "addr:postcode": "86-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Dąbrowa Chełmińska",
                 "addr:postcode": "86-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Brzoza",
                 "addr:postcode": "86-061",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Ostromecko",
                 "addr:postcode": "86-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "37d",
                 "addr:city": "Białe Błota",
                 "addr:postcode": "86-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Białe Błota",
                 "addr:postcode": "86-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "5a",
                 "addr:city": "Nowa Wieś Wielka",
                 "addr:postcode": "86-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +388,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Solec Kujawski",
                 "addr:postcode": "86-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -388,7 +408,8 @@
                 "addr:housenumber": "69",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-372",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +428,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Wtelno",
                 "addr:postcode": "86-011",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +447,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Solec Kujawski",
                 "addr:postcode": "85-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -444,7 +467,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Osielsko",
                 "addr:postcode": "86-031",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -463,7 +487,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Czarże",
                 "addr:postcode": "86-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -482,7 +507,8 @@
                 "addr:housenumber": "5a",
                 "addr:city": "Osielsko",
                 "addr:postcode": "86-031",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -501,7 +527,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Maksymilianowo",
                 "addr:postcode": "86-021",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -520,7 +547,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Solec Kujawski",
                 "addr:postcode": "86-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -539,7 +567,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Osielsko",
                 "addr:postcode": "86-031",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -558,7 +587,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Osielsko",
                 "addr:postcode": "86-031",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -577,7 +607,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Koronowo",
                 "addr:postcode": "86-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -596,7 +627,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Koronowo",
                 "addr:postcode": "86-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +647,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Koronowo",
                 "addr:postcode": "86-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -634,7 +667,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Koronowo",
                 "addr:postcode": "86-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -653,7 +687,8 @@
                 "addr:housenumber": "2b",
                 "addr:city": "Dobrcz",
                 "addr:postcode": "89-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -672,7 +707,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Koronowo",
                 "addr:postcode": "86-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -691,7 +727,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Dobrcz",
                 "addr:postcode": "86-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -710,7 +747,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Kotomierz",
                 "addr:postcode": "86-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -729,7 +767,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Wudzyn",
                 "addr:postcode": "86-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -748,7 +787,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Koronowo",
                 "addr:postcode": "86-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

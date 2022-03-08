@@ -10,7 +10,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Piątek",
                 "addr:postcode": "99-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "56",
                 "addr:postcode": "99-107",
                 "amenity": "pharmacy",
-                "addr:place": "Mazew"
+                "addr:place": "Mazew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "addr:housenumber": "36",
                 "addr:postcode": "99-107",
                 "amenity": "pharmacy",
-                "addr:place": "Daszyna"
+                "addr:place": "Daszyna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Witonia",
                 "addr:postcode": "99-335",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Świnice Warckie",
                 "addr:postcode": "99-335",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Grabów",
                 "addr:postcode": "99-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "18",
                 "addr:postcode": "99-150",
                 "amenity": "pharmacy",
-                "addr:place": "Stara Sobótka"
+                "addr:place": "Stara Sobótka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Grabów",
                 "addr:postcode": "99-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Grabów",
                 "addr:postcode": "99-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Łęczyca",
                 "addr:postcode": "99-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Piątek",
                 "addr:postcode": "99-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +225,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łęczyca",
                 "addr:postcode": "99-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -233,7 +245,8 @@
                 "addr:housenumber": "77",
                 "addr:city": "Łęczyca",
                 "addr:postcode": "99-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -252,7 +265,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Łęczyca",
                 "addr:postcode": "99-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -271,7 +285,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łęczyca",
                 "addr:postcode": "99-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +305,8 @@
                 "addr:housenumber": "7C",
                 "addr:city": "Łęczyca",
                 "addr:postcode": "99-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +325,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Łęczyca",
                 "addr:postcode": "99-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +344,8 @@
                 "addr:housenumber": "50",
                 "addr:postcode": "99-122",
                 "amenity": "pharmacy",
-                "addr:place": "Góra Świętej Małgorzaty"
+                "addr:place": "Góra Świętej Małgorzaty",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -345,7 +363,8 @@
                 "addr:housenumber": "28",
                 "addr:postcode": "99-100",
                 "amenity": "pharmacy",
-                "addr:place": "Leźnica Mała"
+                "addr:place": "Leźnica Mała",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -364,7 +383,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Łęczyca",
                 "addr:postcode": "99-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +403,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łęczyca",
                 "addr:postcode": "99-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -402,7 +423,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łęczyca",
                 "addr:postcode": "99-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +443,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Piątek",
                 "addr:postcode": "99-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -440,7 +463,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Łęczyca",
                 "addr:postcode": "99-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

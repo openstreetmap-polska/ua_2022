@@ -11,7 +11,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mrozów",
                 "addr:postcode": "55-028",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Mrozów",
                 "addr:postcode": "55-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Lutynia",
                 "addr:postcode": "55-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "22/3",
                 "addr:city": "Pisarzowice",
                 "addr:postcode": "55-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Udanin",
                 "addr:postcode": "59-258",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Środa Śląska",
                 "addr:postcode": "55-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Środa Śląska",
                 "addr:postcode": "55-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "26/28",
                 "addr:city": "Środa Śląska",
                 "addr:postcode": "55-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "12C",
                 "addr:city": "Kostomłoty",
                 "addr:postcode": "55-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Środa Śląska",
                 "addr:postcode": "55-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "56B",
                 "addr:city": "Malczyce",
                 "addr:postcode": "55-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Malczyce",
                 "addr:postcode": "55-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Środa Śląska",
                 "addr:postcode": "55-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "76",
                 "addr:city": "Środa Śląska",
                 "addr:postcode": "55-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Środa Śląska",
                 "addr:postcode": "55-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Rakoszyce",
                 "addr:postcode": "55-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +331,8 @@
                 "addr:housenumber": "26C",
                 "addr:city": "Środa Śląska",
                 "addr:postcode": "55-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +351,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Malczyce",
                 "addr:postcode": "55-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +371,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Szczepanów",
                 "addr:postcode": "55-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

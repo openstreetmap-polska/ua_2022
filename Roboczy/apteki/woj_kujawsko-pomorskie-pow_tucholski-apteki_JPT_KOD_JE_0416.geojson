@@ -11,7 +11,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Gostycyn",
                 "addr:postcode": "89-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Kęsowo",
                 "addr:postcode": "89-506",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Tuchola",
                 "addr:postcode": "89-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Tuchola",
                 "addr:postcode": "89-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Tuchola",
                 "addr:postcode": "89-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "7a",
                 "addr:city": "Śliwice",
                 "addr:postcode": "89-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Tuchola",
                 "addr:postcode": "89-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Tuchola",
                 "addr:postcode": "89-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "10a",
                 "addr:city": "Tuchola",
                 "addr:postcode": "89-501",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Cekcyn",
                 "addr:postcode": "89-511",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "14-18",
                 "addr:city": "Tuchola",
                 "addr:postcode": "89-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Bysław",
                 "addr:postcode": "89-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Lubiewo",
                 "addr:postcode": "89-526",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

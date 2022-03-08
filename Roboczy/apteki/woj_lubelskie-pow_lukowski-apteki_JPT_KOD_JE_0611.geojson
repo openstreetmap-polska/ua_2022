@@ -10,7 +10,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Huta Dąbrowa",
                 "addr:postcode": "21-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Stoczek Łukowski",
                 "addr:postcode": "21-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "3b/1",
                 "addr:city": "Okrzeja",
                 "addr:postcode": "21-480",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Serokomla",
                 "addr:postcode": "21-413",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "48B",
                 "addr:postcode": "21-481",
                 "amenity": "pharmacy",
-                "addr:place": "Wola Gułowska"
+                "addr:place": "Wola Gułowska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "7A",
                 "addr:postcode": "21-405",
                 "amenity": "pharmacy",
-                "addr:place": "Zembry"
+                "addr:place": "Zembry",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +144,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -155,7 +163,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -174,7 +183,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -193,7 +203,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -211,7 +222,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -230,7 +242,8 @@
                 "addr:housenumber": "66",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +261,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Stoczek Łukowski",
                 "addr:postcode": "21-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +281,8 @@
                 "addr:housenumber": "15 A",
                 "addr:city": "Serokomla",
                 "addr:postcode": "21-413",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -285,7 +300,8 @@
                 "addr:street": "Doktora Andrzeja Rogalińskiego",
                 "addr:housenumber": "3",
                 "addr:city": "Łuków",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -304,7 +320,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -321,7 +338,8 @@
                 "addr:housenumber": "57",
                 "addr:postcode": "21-426",
                 "amenity": "pharmacy",
-                "addr:place": "Wola Mysłowska"
+                "addr:place": "Wola Mysłowska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -339,7 +357,8 @@
                 "addr:housenumber": "40 A",
                 "addr:postcode": "21-426",
                 "amenity": "pharmacy",
-                "addr:place": "Wandów"
+                "addr:place": "Wandów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -358,7 +377,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -376,7 +396,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Stoczek Łukowski",
                 "addr:postcode": "21-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -395,7 +416,8 @@
                 "addr:housenumber": "25A",
                 "addr:city": "Krzywda",
                 "addr:postcode": "21-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -414,7 +436,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -432,7 +455,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Adamów",
                 "addr:postcode": "21-412",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -451,7 +475,8 @@
                 "addr:housenumber": "8B",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -469,7 +494,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Stoczek Łukowski",
                 "addr:postcode": "21-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -487,7 +513,8 @@
                 "addr:housenumber": "54 A",
                 "addr:postcode": "21-422",
                 "amenity": "pharmacy",
-                "addr:place": "Stanin"
+                "addr:place": "Stanin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -506,7 +533,8 @@
                 "addr:housenumber": "22A",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -525,7 +553,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -544,7 +573,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Adamów",
                 "addr:postcode": "21-412",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -563,7 +593,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -581,7 +612,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Okrzeja",
                 "addr:postcode": "21-480",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -599,7 +631,8 @@
                 "addr:housenumber": "35 A",
                 "addr:postcode": "21-400",
                 "amenity": "pharmacy",
-                "addr:place": "Gręzówka"
+                "addr:place": "Gręzówka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -618,7 +651,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -636,7 +670,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Krzywda",
                 "addr:postcode": "21-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +689,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Jedlanka",
                 "addr:postcode": "21-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -673,7 +709,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Wojcieszków",
                 "addr:postcode": "21-411",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -692,7 +729,8 @@
                 "addr:housenumber": "10 B",
                 "addr:city": "Łuków",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

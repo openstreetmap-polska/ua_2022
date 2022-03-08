@@ -11,7 +11,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Twardogóra",
                 "addr:postcode": "56-416",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Bierutów",
                 "addr:postcode": "56-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Twardogóra",
                 "addr:postcode": "56-416",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Bierutów",
                 "addr:postcode": "56-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Dobroszyce",
                 "addr:postcode": "56-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Twardogóra",
                 "addr:postcode": "56-416",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Twardogóra",
                 "addr:postcode": "56-416",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +331,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +351,8 @@
                 "addr:housenumber": "47",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +371,8 @@
                 "addr:housenumber": "9 AB",
                 "addr:city": "Bierutów",
                 "addr:postcode": "56-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -372,7 +391,8 @@
                 "addr:housenumber": "\"4o, 4n\"",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +411,8 @@
                 "addr:housenumber": "1D",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +431,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +451,8 @@
                 "addr:housenumber": "2-4",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -448,7 +471,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +491,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Oleśnica",
                 "addr:postcode": "56-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -486,7 +511,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Dobroszyce",
                 "addr:postcode": "56-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -505,7 +531,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Syców",
                 "addr:postcode": "56-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +551,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Międzybórz",
                 "addr:postcode": "56-513",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +571,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Syców",
                 "addr:postcode": "56-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -562,7 +591,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Syców",
                 "addr:postcode": "56-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -581,7 +611,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Międzybórz",
                 "addr:postcode": "56-513",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -600,7 +631,8 @@
                 "addr:housenumber": "7B",
                 "addr:city": "Dziadowa Kłoda",
                 "addr:postcode": "56-504",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -619,7 +651,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Syców",
                 "addr:postcode": "56-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -638,7 +671,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Syców",
                 "addr:postcode": "56-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -657,7 +691,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Syców",
                 "addr:postcode": "56-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -676,7 +711,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Syców",
                 "addr:postcode": "56-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

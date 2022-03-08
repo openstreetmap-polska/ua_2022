@@ -9,7 +9,8 @@
                 "addr:street": "Rynek",
                 "addr:housenumber": "24",
                 "addr:city": "Annopol",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Annopol",
                 "addr:postcode": "23-235",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Annopol",
                 "addr:postcode": "23-235",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -63,7 +66,8 @@
                 "addr:street": "Rynek",
                 "addr:housenumber": "10",
                 "addr:city": "Annopol",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +225,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Zakrzówek",
                 "addr:postcode": "23-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +264,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Urzędów",
                 "addr:postcode": "23-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -269,7 +283,8 @@
                 "addr:housenumber": "1 g",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -288,7 +303,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Zakrzówek",
                 "addr:postcode": "23-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +342,8 @@
                 "addr:housenumber": "37",
                 "addr:postcode": "23-211",
                 "amenity": "pharmacy",
-                "addr:place": "Wilkołaz Pierwszy"
+                "addr:place": "Wilkołaz Pierwszy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -344,7 +362,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -363,7 +382,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Urzędów",
                 "addr:postcode": "23-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -382,7 +402,8 @@
                 "addr:housenumber": "9a",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -400,7 +421,8 @@
                 "addr:housenumber": "6",
                 "addr:postcode": "23-250",
                 "amenity": "pharmacy",
-                "addr:place": "Popkowice"
+                "addr:place": "Popkowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -418,7 +440,8 @@
                 "addr:housenumber": "159",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -436,7 +459,8 @@
                 "addr:housenumber": "202",
                 "addr:postcode": "23-230",
                 "amenity": "pharmacy",
-                "addr:place": "Olbięcin"
+                "addr:place": "Olbięcin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -454,7 +478,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -473,7 +498,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -492,7 +518,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -510,7 +537,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -529,7 +557,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -548,7 +577,8 @@
                 "addr:housenumber": "7a",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -566,7 +596,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -585,7 +616,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Zakrzówek",
                 "addr:postcode": "23-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -604,7 +636,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -623,7 +656,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -642,7 +676,8 @@
                 "addr:housenumber": "56a",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -661,7 +696,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kraśnik",
                 "addr:postcode": "23-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -678,7 +714,8 @@
                 "addr:housenumber": "57A",
                 "addr:postcode": "23-275",
                 "amenity": "pharmacy",
-                "addr:place": "Gościeradów Ukazowy"
+                "addr:place": "Gościeradów Ukazowy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -695,7 +732,8 @@
                 "addr:housenumber": "115",
                 "addr:postcode": "23-225",
                 "amenity": "pharmacy",
-                "addr:place": "Polichna II"
+                "addr:place": "Polichna II",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -713,7 +751,8 @@
                 "addr:housenumber": "56",
                 "addr:postcode": "23-230",
                 "amenity": "pharmacy",
-                "addr:place": "Rzeczyca Ziemiańska"
+                "addr:place": "Rzeczyca Ziemiańska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -731,7 +770,8 @@
                 "addr:housenumber": "71A",
                 "addr:postcode": "23-230",
                 "amenity": "pharmacy",
-                "addr:place": "Trzydnik Duży"
+                "addr:place": "Trzydnik Duży",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -749,7 +789,8 @@
                 "addr:housenumber": "156",
                 "addr:postcode": "23-275",
                 "amenity": "pharmacy",
-                "addr:place": "Gościeradów Ukazowy"
+                "addr:place": "Gościeradów Ukazowy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

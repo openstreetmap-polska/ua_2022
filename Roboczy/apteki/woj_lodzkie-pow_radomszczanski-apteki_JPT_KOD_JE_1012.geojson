@@ -11,7 +11,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Wielgomłyny",
                 "addr:postcode": "97-525",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Maluszyn",
                 "addr:postcode": "97-532",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Maluszyn",
                 "addr:postcode": "97-532",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "26F",
                 "addr:city": "Przedbórz",
                 "addr:postcode": "97-750",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "4C",
                 "addr:city": "Przedbórz",
                 "addr:postcode": "97-570",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Przedbórz",
                 "addr:postcode": "97-570",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "47",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "2/6",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Kodrąb",
                 "addr:postcode": "97-512",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Gomunice",
                 "addr:postcode": "97-545",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Gidle",
                 "addr:postcode": "97-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Gidle",
                 "addr:postcode": "97-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +387,8 @@
                 "addr:housenumber": "12/14",
                 "addr:city": "Kamieńsk",
                 "addr:postcode": "97-360",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "72",
                 "addr:city": "Żytno",
                 "addr:postcode": "97-532",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -406,7 +427,8 @@
                 "addr:housenumber": "20D",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -424,7 +446,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Borzykowa",
                 "addr:postcode": "97-532",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -443,7 +466,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -461,7 +485,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -480,7 +505,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -499,7 +525,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -518,7 +545,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +565,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -556,7 +585,8 @@
                 "addr:housenumber": "63-65",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -574,7 +604,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Gomunice",
                 "addr:postcode": "97-545",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -593,7 +624,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -612,7 +644,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -631,7 +664,8 @@
                 "addr:housenumber": "29-37",
                 "addr:city": "Radomsko",
                 "addr:postcode": "97-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -650,7 +684,8 @@
                 "addr:housenumber": "79",
                 "addr:city": "Kobiele Wielkie",
                 "addr:postcode": "97-524",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -669,7 +704,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Kamieńsk",
                 "addr:postcode": "97-360",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -688,7 +724,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Dobryszyce",
                 "addr:postcode": "97-505",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -707,7 +744,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Lgota Wielka",
                 "addr:postcode": "97-565",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -726,7 +764,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Ładzice",
                 "addr:postcode": "97-561",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -745,7 +784,8 @@
                 "addr:housenumber": "81",
                 "addr:city": "Lgota Wielka",
                 "addr:postcode": "97-565",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

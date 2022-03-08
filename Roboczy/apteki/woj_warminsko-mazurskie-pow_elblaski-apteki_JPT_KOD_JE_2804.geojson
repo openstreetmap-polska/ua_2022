@@ -11,7 +11,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "GRONOWO ELBLĄSKIE",
                 "addr:postcode": "82-335",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "70",
                 "addr:postcode": "82-325",
                 "amenity": "pharmacy",
-                "addr:place": "MARKUSY"
+                "addr:place": "MARKUSY",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "62",
                 "addr:postcode": "14-407",
                 "amenity": "pharmacy",
-                "addr:place": "Godkowo"
+                "addr:place": "Godkowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "24A",
                 "addr:city": "PASŁĘK",
                 "addr:postcode": "14-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "MILEJEWO",
                 "addr:postcode": "82-316",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "32B",
                 "addr:city": "Młynary",
                 "addr:postcode": "14-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "PASŁĘK",
                 "addr:postcode": "14-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "PASŁĘK",
                 "addr:postcode": "14-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "PASŁĘK",
                 "addr:postcode": "14-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "24A",
                 "addr:city": "Pasłęk",
                 "addr:postcode": "14-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "60",
                 "addr:city": "Pasłęk",
                 "addr:postcode": "14-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +225,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "PASŁĘK",
                 "addr:postcode": "14-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -233,7 +245,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "TOLKMICKO",
                 "addr:postcode": "82-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "119B",
                 "addr:postcode": "14-411",
                 "amenity": "pharmacy",
-                "addr:place": "Rychliki"
+                "addr:place": "Rychliki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

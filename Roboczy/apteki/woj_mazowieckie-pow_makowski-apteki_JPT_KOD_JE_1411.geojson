@@ -11,7 +11,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Karniewo",
                 "addr:postcode": "06-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Maków Mazowiecki",
                 "addr:postcode": "06-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Maków Mazowiecki",
                 "addr:postcode": "06-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "41A",
                 "addr:postcode": "06-232",
                 "amenity": "pharmacy",
-                "addr:place": "Czerwonka Włościańska"
+                "addr:place": "Czerwonka Włościańska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Maków Mazowiecki",
                 "addr:postcode": "06-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "22",
                 "addr:postcode": "06-225",
                 "amenity": "pharmacy",
-                "addr:place": "Rzewnie"
+                "addr:place": "Rzewnie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Maków Mazowiecki",
                 "addr:postcode": "06-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Krasnosielc",
                 "addr:postcode": "06-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +164,8 @@
                 "addr:housenumber": "2C/3",
                 "addr:city": "Sypniewo",
                 "addr:postcode": "06-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -174,7 +183,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Krasnosielc",
                 "addr:postcode": "06-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -193,7 +203,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Maków Mazowiecki",
                 "addr:postcode": "06-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Maków Mazowiecki",
                 "addr:postcode": "06-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Maków Mazowiecki",
                 "addr:postcode": "06-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "58A",
                 "addr:postcode": "06-214",
                 "amenity": "pharmacy",
-                "addr:place": "Drążdżewo"
+                "addr:place": "Drążdżewo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +281,8 @@
                 "addr:housenumber": "98",
                 "addr:postcode": "06-211",
                 "amenity": "pharmacy",
-                "addr:place": "Szczuki"
+                "addr:place": "Szczuki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -284,7 +299,8 @@
                 "addr:housenumber": "45",
                 "addr:postcode": "06-220",
                 "amenity": "pharmacy",
-                "addr:place": "Stary Szelków"
+                "addr:place": "Stary Szelków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -302,7 +318,8 @@
                 "addr:housenumber": "84a",
                 "addr:postcode": "06-210",
                 "amenity": "pharmacy",
-                "addr:place": "Płoniawy-Bramura"
+                "addr:place": "Płoniawy-Bramura",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -320,7 +337,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Różan",
                 "addr:postcode": "06-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -339,7 +357,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Różan",
                 "addr:postcode": "06-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -358,7 +377,8 @@
                 "addr:housenumber": "7a",
                 "addr:city": "Młynarze",
                 "addr:postcode": "06-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

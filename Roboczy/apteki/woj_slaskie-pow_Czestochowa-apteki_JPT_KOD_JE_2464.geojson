@@ -11,7 +11,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "25a",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-207",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "207",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "104",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "25A",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +331,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +351,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +371,8 @@
                 "addr:housenumber": "29 A",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -372,7 +391,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +411,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +431,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +451,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -448,7 +471,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +491,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -486,7 +511,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -505,7 +531,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +551,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +571,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -562,7 +591,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -581,7 +611,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -600,7 +631,8 @@
                 "addr:housenumber": "112",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -619,7 +651,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -638,7 +671,8 @@
                 "addr:housenumber": "73",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-226",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -657,7 +691,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -676,7 +711,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -695,7 +731,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -714,7 +751,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -733,7 +771,8 @@
                 "addr:housenumber": "88",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -752,7 +791,8 @@
                 "addr:housenumber": "104",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +811,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -790,7 +831,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-209",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -809,7 +851,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -828,7 +871,8 @@
                 "addr:housenumber": "45a",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -847,7 +891,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-229",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -866,7 +911,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -885,7 +931,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -904,7 +951,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -923,7 +971,8 @@
                 "addr:housenumber": "360",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-209",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -942,7 +991,8 @@
                 "addr:housenumber": "250",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-221",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -961,7 +1011,8 @@
                 "addr:housenumber": "113a",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -980,7 +1031,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -999,7 +1051,8 @@
                 "addr:housenumber": "68",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1018,7 +1071,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1037,7 +1091,8 @@
                 "addr:housenumber": "166",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1056,7 +1111,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1075,7 +1131,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-226",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1094,7 +1151,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1113,7 +1171,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1132,7 +1191,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1151,7 +1211,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1170,7 +1231,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1189,7 +1251,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1208,7 +1271,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1227,7 +1291,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1246,7 +1311,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1331,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-271",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1284,7 +1351,8 @@
                 "addr:housenumber": "45",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1303,7 +1371,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1322,7 +1391,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1341,7 +1411,8 @@
                 "addr:housenumber": "68",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1360,7 +1431,8 @@
                 "addr:housenumber": "61/67A",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1379,7 +1451,8 @@
                 "addr:housenumber": "93",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-229",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1398,7 +1471,8 @@
                 "addr:housenumber": "14 A",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1417,7 +1491,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-207",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1436,7 +1511,8 @@
                 "addr:housenumber": "80/82",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1454,7 +1530,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1473,7 +1550,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1492,7 +1570,8 @@
                 "addr:housenumber": "43/45",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1511,7 +1590,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1530,7 +1610,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1549,7 +1630,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-271",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1568,7 +1650,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1587,7 +1670,8 @@
                 "addr:housenumber": "7B",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1606,7 +1690,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1625,7 +1710,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1644,7 +1730,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1662,7 +1749,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1681,7 +1769,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1700,7 +1789,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1719,7 +1809,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-207",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1738,7 +1829,8 @@
                 "addr:housenumber": "64",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1757,7 +1849,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1776,7 +1869,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-207",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1795,7 +1889,8 @@
                 "addr:housenumber": "17/19",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1814,7 +1909,8 @@
                 "addr:housenumber": "72/74",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1833,7 +1929,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1852,7 +1949,8 @@
                 "addr:housenumber": "41b",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-215",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1871,7 +1969,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1890,7 +1989,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1909,7 +2009,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,7 +2029,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1947,7 +2049,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1966,7 +2069,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1985,7 +2089,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2004,7 +2109,8 @@
                 "addr:housenumber": "39A",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2023,7 +2129,8 @@
                 "addr:housenumber": "112",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-209",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2042,7 +2149,8 @@
                 "addr:housenumber": "3/9",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2061,7 +2169,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2080,7 +2189,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-221",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2099,7 +2209,8 @@
                 "addr:housenumber": "139B",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2118,7 +2229,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Częstochowa",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -10,7 +10,8 @@
                 "addr:housenumber": "89",
                 "addr:city": "Płock",
                 "addr:postcode": "09-408",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Płock",
                 "addr:postcode": "09-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Płock",
                 "addr:postcode": "09-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "12C",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Płock",
                 "addr:postcode": "09-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Płock",
                 "addr:postcode": "09-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Płock",
                 "addr:postcode": "09-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +249,8 @@
                 "addr:housenumber": "67",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +309,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Płock",
                 "addr:postcode": "09-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Płock",
                 "addr:postcode": "09-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +349,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +369,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Płock",
                 "addr:postcode": "09-411",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +389,8 @@
                 "addr:housenumber": "16D",
                 "addr:city": "Płock",
                 "addr:postcode": "09-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -389,7 +409,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Płock",
                 "addr:postcode": "09-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -408,7 +429,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Płock",
                 "addr:postcode": "09-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +448,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -445,7 +468,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -464,7 +488,8 @@
                 "addr:housenumber": "6/1",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -483,7 +508,8 @@
                 "addr:housenumber": "163",
                 "addr:city": "Płock",
                 "addr:postcode": "09-409",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -502,7 +528,8 @@
                 "addr:housenumber": "140",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -521,7 +548,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -540,7 +568,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Płock",
                 "addr:postcode": "09-407",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -559,7 +588,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -578,7 +608,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Płock",
                 "addr:postcode": "09-409",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -597,7 +628,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Płock",
                 "addr:postcode": "09-407",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -616,7 +648,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -635,7 +668,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +688,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Płock",
                 "addr:postcode": "09-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -673,7 +708,8 @@
                 "addr:housenumber": "127",
                 "addr:city": "Płock",
                 "addr:postcode": "09-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -692,7 +728,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Płock",
                 "addr:postcode": "09-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -711,7 +748,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Płock",
                 "addr:postcode": "09-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -730,7 +768,8 @@
                 "addr:housenumber": "144",
                 "addr:city": "Płock",
                 "addr:postcode": "09-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -749,7 +788,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -768,7 +808,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -787,7 +828,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Płock",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -806,7 +848,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Płock",
                 "addr:postcode": "09-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

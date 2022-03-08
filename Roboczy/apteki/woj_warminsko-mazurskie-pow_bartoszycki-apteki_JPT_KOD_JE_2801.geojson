@@ -11,7 +11,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Sępopol",
                 "addr:postcode": "11-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Sępopol",
                 "addr:postcode": "11-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Bisztynek",
                 "addr:postcode": "11-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "43",
                 "addr:postcode": "11-200",
                 "amenity": "pharmacy",
-                "addr:place": "WOJCIECHY"
+                "addr:place": "WOJCIECHY",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Bartoszyce",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Bartoszyce",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Górowo Iławeckie",
                 "addr:postcode": "11-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "18",
                 "addr:postcode": "11-200",
                 "amenity": "pharmacy",
-                "addr:place": "Bezledy"
+                "addr:place": "Bezledy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +164,8 @@
                 "addr:housenumber": "9B",
                 "addr:postcode": "11-220",
                 "amenity": "pharmacy",
-                "addr:place": "Kandyty"
+                "addr:place": "Kandyty",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Bartoszyce",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "19B",
                 "addr:city": "Bartoszyce",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "27A",
                 "addr:city": "Bartoszyce",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Bartoszyce",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Bartoszyce",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Bartoszyce",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -286,7 +301,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Górowo Iławeckie",
                 "addr:postcode": "11-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -304,7 +320,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "BARTOSZYCE",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -323,7 +340,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Bartoszyce",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +360,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Górowo Iławeckie",
                 "addr:postcode": "11-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +380,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Bartoszyce",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +400,8 @@
                 "addr:housenumber": "33-34-35",
                 "addr:city": "Bartoszyce",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -399,7 +420,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Bartoszyce",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

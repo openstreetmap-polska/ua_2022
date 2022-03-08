@@ -10,7 +10,8 @@
                 "addr:housenumber": "55A",
                 "addr:postcode": "97-306",
                 "amenity": "pharmacy",
-                "addr:place": "Grabica"
+                "addr:place": "Grabica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Moszczenica",
                 "addr:postcode": "97-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "60",
                 "addr:city": "Wola Moszczenicka",
                 "addr:postcode": "97-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Gomulin",
                 "addr:postcode": "97-371",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Wola Moszczenicka",
                 "addr:postcode": "97-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sulejów",
                 "addr:postcode": "97-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Sulejów",
                 "addr:postcode": "97-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "40D",
                 "addr:postcode": "26-337",
                 "amenity": "pharmacy",
-                "addr:place": "Aleksandrów"
+                "addr:place": "Aleksandrów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Wolbórz",
                 "addr:postcode": "97-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "26/30",
                 "addr:city": "Sulejów",
                 "addr:postcode": "97-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ręczno",
                 "addr:postcode": "97-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Sulejów",
                 "addr:postcode": "97-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "76",
                 "addr:postcode": "26-337",
                 "amenity": "pharmacy",
-                "addr:place": "Dąbrowa nad Czarną"
+                "addr:place": "Dąbrowa nad Czarną",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Wolbórz",
                 "addr:postcode": "97-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "67",
                 "addr:city": "Wolbórz",
                 "addr:postcode": "97-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Włodzimierzów",
                 "addr:postcode": "97-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Ręczno",
                 "addr:postcode": "97-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -328,7 +345,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Wola Krzysztoporska",
                 "addr:postcode": "97-371",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -347,7 +365,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Rozprza",
                 "addr:postcode": "97-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -365,7 +384,8 @@
                 "addr:housenumber": "50",
                 "addr:postcode": "97-371",
                 "amenity": "pharmacy",
-                "addr:place": "Parzniewice Duże"
+                "addr:place": "Parzniewice Duże",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -384,7 +404,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Niechcice",
                 "addr:postcode": "97-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -403,7 +424,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Gorzkowice",
                 "addr:postcode": "97-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -422,7 +444,8 @@
                 "addr:housenumber": "13A",
                 "addr:city": "Rozprza",
                 "addr:postcode": "97-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -441,7 +464,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Gorzkowice",
                 "addr:postcode": "97-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +483,8 @@
                 "addr:housenumber": "10",
                 "addr:postcode": "97-352",
                 "amenity": "pharmacy",
-                "addr:place": "Trzepnica-Kolonia"
+                "addr:place": "Trzepnica-Kolonia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -478,7 +503,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Wola Krzysztoporska",
                 "addr:postcode": "97-371",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -496,7 +522,8 @@
                 "addr:housenumber": "128",
                 "addr:postcode": "28-506",
                 "amenity": "pharmacy",
-                "addr:place": "Czarnocin"
+                "addr:place": "Czarnocin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -515,7 +542,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Czarnocin",
                 "addr:postcode": "97-318",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -534,7 +562,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Srock",
                 "addr:postcode": "97-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -9,7 +9,8 @@
                 "addr:housenumber": "198",
                 "addr:postcode": "38-324",
                 "amenity": "pharmacy",
-                "addr:place": "Siedliska"
+                "addr:place": "Siedliska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Boguchwała",
                 "addr:postcode": "36-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -44,7 +46,8 @@
                 "addr:housenumber": "88",
                 "addr:postcode": "36-025",
                 "amenity": "pharmacy",
-                "addr:place": "Dylągówka"
+                "addr:place": "Dylągówka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -62,7 +65,8 @@
                 "addr:housenumber": "35",
                 "addr:postcode": "35-106",
                 "amenity": "pharmacy",
-                "addr:place": "Kielanówka"
+                "addr:place": "Kielanówka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +83,8 @@
                 "addr:housenumber": "215",
                 "addr:postcode": "36-053",
                 "amenity": "pharmacy",
-                "addr:place": "Łowisko"
+                "addr:place": "Łowisko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -96,7 +101,8 @@
                 "addr:housenumber": "302",
                 "addr:postcode": "36-061",
                 "amenity": "pharmacy",
-                "addr:place": "Wysoka Głogowska"
+                "addr:place": "Wysoka Głogowska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -113,7 +119,8 @@
                 "addr:housenumber": "170",
                 "addr:postcode": "36-004",
                 "amenity": "pharmacy",
-                "addr:place": "Łąka"
+                "addr:place": "Łąka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -130,7 +137,8 @@
                 "addr:housenumber": "695A",
                 "addr:postcode": "36-052",
                 "amenity": "pharmacy",
-                "addr:place": "Nienadówka"
+                "addr:place": "Nienadówka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -148,7 +156,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Sokołów Małopolski",
                 "addr:postcode": "36-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -167,7 +176,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sokołów Małopolski",
                 "addr:postcode": "36-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +196,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Boguchwała",
                 "addr:postcode": "36-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -204,7 +215,8 @@
                 "addr:housenumber": "200",
                 "addr:postcode": "36-007",
                 "amenity": "pharmacy",
-                "addr:place": "Malawa"
+                "addr:place": "Malawa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -222,7 +234,8 @@
                 "addr:housenumber": "104",
                 "addr:postcode": "36-024",
                 "amenity": "pharmacy",
-                "addr:place": "Hyżne"
+                "addr:place": "Hyżne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +252,8 @@
                 "addr:housenumber": "972",
                 "addr:postcode": "36-047",
                 "amenity": "pharmacy",
-                "addr:place": "Niechobrz"
+                "addr:place": "Niechobrz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +270,8 @@
                 "addr:housenumber": "426",
                 "addr:postcode": "36-004",
                 "amenity": "pharmacy",
-                "addr:place": "Łukawiec"
+                "addr:place": "Łukawiec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +288,8 @@
                 "addr:housenumber": "600",
                 "addr:postcode": "36-060",
                 "amenity": "pharmacy",
-                "addr:place": "Rudna Mała"
+                "addr:place": "Rudna Mała",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +307,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Górno",
                 "addr:postcode": "36-051",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -308,7 +325,8 @@
                 "addr:housenumber": "393",
                 "addr:postcode": "36-002",
                 "amenity": "pharmacy",
-                "addr:place": "Stobierna"
+                "addr:place": "Stobierna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -326,7 +344,8 @@
                 "addr:housenumber": "242",
                 "addr:postcode": "36-050",
                 "amenity": "pharmacy",
-                "addr:place": "Turza"
+                "addr:place": "Turza",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +362,8 @@
                 "addr:housenumber": "66A",
                 "addr:postcode": "36-002",
                 "amenity": "pharmacy",
-                "addr:place": "Tajęcina"
+                "addr:place": "Tajęcina",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +381,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Boguchwała",
                 "addr:postcode": "36-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -379,7 +400,8 @@
                 "addr:housenumber": "50A",
                 "addr:postcode": "36-016",
                 "amenity": "pharmacy",
-                "addr:place": "Chmielnik"
+                "addr:place": "Chmielnik",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -398,7 +420,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Głogów Małopolski",
                 "addr:postcode": "36-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -417,7 +440,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Głogów Małopolski",
                 "addr:postcode": "36-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -435,7 +459,8 @@
                 "addr:housenumber": "23a",
                 "addr:city": "Górno",
                 "addr:postcode": "36-051",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -454,7 +479,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Głogów Małopolski",
                 "addr:postcode": "36-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +498,8 @@
                 "addr:housenumber": "866",
                 "addr:postcode": "36-001",
                 "amenity": "pharmacy",
-                "addr:place": "Trzebownisko"
+                "addr:place": "Trzebownisko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -491,7 +518,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Tyczyn",
                 "addr:postcode": "36-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -508,7 +536,8 @@
                 "addr:housenumber": "246",
                 "addr:postcode": "36-062",
                 "amenity": "pharmacy",
-                "addr:place": "Zaczernie"
+                "addr:place": "Zaczernie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -525,7 +554,8 @@
                 "addr:housenumber": "583",
                 "addr:postcode": "36-002",
                 "amenity": "pharmacy",
-                "addr:place": "Jasionka"
+                "addr:place": "Jasionka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +573,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Głogów Małopolski",
                 "addr:postcode": "36-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -560,7 +591,8 @@
                 "addr:housenumber": "33",
                 "addr:postcode": "36-007",
                 "amenity": "pharmacy",
-                "addr:place": "Krasne"
+                "addr:place": "Krasne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -578,7 +610,8 @@
                 "addr:housenumber": "84",
                 "addr:postcode": "36-020",
                 "amenity": "pharmacy",
-                "addr:place": "Borek Stary"
+                "addr:place": "Borek Stary",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -597,7 +630,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Sokołów Małopolski",
                 "addr:postcode": "36-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +649,8 @@
                 "addr:housenumber": "67A",
                 "addr:postcode": "36-046",
                 "amenity": "pharmacy",
-                "addr:place": "Zgłobień"
+                "addr:place": "Zgłobień",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -633,7 +668,8 @@
                 "addr:housenumber": "795",
                 "addr:postcode": "36-047",
                 "amenity": "pharmacy",
-                "addr:place": "Niechobrz"
+                "addr:place": "Niechobrz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -652,7 +688,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Tyczyn",
                 "addr:postcode": "36-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -671,7 +708,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Głogów Małopolski",
                 "addr:postcode": "36-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -689,7 +727,8 @@
                 "addr:housenumber": "817",
                 "addr:postcode": "36-001",
                 "amenity": "pharmacy",
-                "addr:place": "Trzebownisko"
+                "addr:place": "Trzebownisko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -708,7 +747,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Sokołów Małopolski",
                 "addr:postcode": "36-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -725,7 +765,8 @@
                 "addr:housenumber": "33",
                 "addr:postcode": "36-007",
                 "amenity": "pharmacy",
-                "addr:place": "Krasne"
+                "addr:place": "Krasne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -743,7 +784,8 @@
                 "addr:housenumber": "374",
                 "addr:postcode": "36-042",
                 "amenity": "pharmacy",
-                "addr:place": "Lubenia"
+                "addr:place": "Lubenia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -761,7 +803,8 @@
                 "addr:housenumber": "20B",
                 "addr:postcode": "36-007",
                 "amenity": "pharmacy",
-                "addr:place": "Krasne"
+                "addr:place": "Krasne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -779,7 +822,8 @@
                 "addr:housenumber": "13",
                 "addr:postcode": "36-055",
                 "amenity": "pharmacy",
-                "addr:place": "Bratkowice"
+                "addr:place": "Bratkowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -797,7 +841,8 @@
                 "addr:housenumber": "164",
                 "addr:postcode": "36-072",
                 "amenity": "pharmacy",
-                "addr:place": "Świlcza"
+                "addr:place": "Świlcza",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -815,7 +860,8 @@
                 "addr:housenumber": "313",
                 "addr:postcode": "36-053",
                 "amenity": "pharmacy",
-                "addr:place": "Kamień"
+                "addr:place": "Kamień",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -833,7 +879,8 @@
                 "addr:housenumber": "746A",
                 "addr:postcode": "36-007",
                 "amenity": "pharmacy",
-                "addr:place": "Krasne"
+                "addr:place": "Krasne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -852,7 +899,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Tyczyn",
                 "addr:postcode": "36-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -871,7 +919,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Dynów",
                 "addr:postcode": "37-760",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -890,7 +939,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Błażowa",
                 "addr:postcode": "36-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -909,7 +959,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Dynów",
                 "addr:postcode": "36-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -928,7 +979,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Błażowa",
                 "addr:postcode": "36-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -947,7 +999,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Dynów",
                 "addr:postcode": "36-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -966,7 +1019,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Dynów",
                 "addr:postcode": "36-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -984,7 +1038,8 @@
                 "addr:housenumber": "320",
                 "addr:postcode": "36-067",
                 "amenity": "pharmacy",
-                "addr:place": "Harta"
+                "addr:place": "Harta",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

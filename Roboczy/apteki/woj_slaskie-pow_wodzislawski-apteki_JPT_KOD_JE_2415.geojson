@@ -11,7 +11,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "48",
                 "addr:city": "Gorzyce",
                 "addr:postcode": "44-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "PSZÓW",
                 "addr:postcode": "44-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Pszów",
                 "addr:postcode": "44-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Radlin",
                 "addr:postcode": "44-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Rydułtowy",
                 "addr:postcode": "44-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "20 A",
                 "addr:city": "Rydułtowy",
                 "addr:postcode": "44-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "48",
                 "addr:city": "Rydułtowy",
                 "addr:postcode": "44-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Rydułtowy",
                 "addr:postcode": "42-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Syrynia",
                 "addr:postcode": "44-361",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "62A",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-286",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "CZYŻOWICE",
                 "addr:postcode": "42-352",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "60 A",
                 "addr:city": "GODÓW",
                 "addr:postcode": "44-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +331,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Godów",
                 "addr:postcode": "44-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +351,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "GOŁKOWICE",
                 "addr:postcode": "44-341",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +371,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "TURZA ŚLĄSKA",
                 "addr:postcode": "44-351",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -372,7 +391,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "GORZYCE",
                 "addr:postcode": "44-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +411,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +431,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +451,8 @@
                 "addr:housenumber": "289",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-373",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -447,7 +470,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Rogów",
                 "addr:postcode": "44-362",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -466,7 +490,8 @@
                 "addr:housenumber": "12a",
                 "addr:city": "Czyżowice",
                 "addr:postcode": "44-352",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +510,8 @@
                 "addr:housenumber": "151",
                 "addr:city": "Skrzyszów",
                 "addr:postcode": "44-348",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -504,7 +530,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Skrzyszów",
                 "addr:postcode": "44-348",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -523,7 +550,8 @@
                 "addr:housenumber": "164",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -542,7 +570,8 @@
                 "addr:housenumber": "55",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -561,7 +590,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -580,7 +610,8 @@
                 "addr:housenumber": "119",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -599,7 +630,8 @@
                 "addr:housenumber": "51",
                 "addr:city": "WODZISŁAW ŚLĄSKI",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -618,7 +650,8 @@
                 "addr:housenumber": "68",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -637,7 +670,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Gorzyce",
                 "addr:postcode": "44-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -656,7 +690,8 @@
                 "addr:housenumber": "47",
                 "addr:city": "Rydułtowy",
                 "addr:postcode": "44-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -675,7 +710,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Pszów",
                 "addr:postcode": "44-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -694,7 +730,8 @@
                 "addr:housenumber": "144",
                 "addr:city": "Rydułtowy",
                 "addr:postcode": "44-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -713,7 +750,8 @@
                 "addr:housenumber": "81",
                 "addr:city": "Mszana",
                 "addr:postcode": "44-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -732,7 +770,8 @@
                 "addr:housenumber": "12c",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -751,7 +790,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -770,7 +810,8 @@
                 "addr:housenumber": "3a",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -789,7 +830,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -808,7 +850,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Turza Śląska",
                 "addr:postcode": "44-351",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -827,7 +870,8 @@
                 "addr:housenumber": "94A",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -846,7 +890,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Olza",
                 "addr:postcode": "44-353",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -865,7 +910,8 @@
                 "addr:housenumber": "76",
                 "addr:city": "Wodzisław Śląski",
                 "addr:postcode": "44-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -884,7 +930,8 @@
                 "addr:housenumber": "92",
                 "addr:city": "Gołkowice",
                 "addr:postcode": "44-341",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -903,7 +950,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "LUBOMIA",
                 "addr:postcode": "44-360",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -922,7 +970,8 @@
                 "addr:housenumber": "78",
                 "addr:city": "Połomia",
                 "addr:postcode": "44-323",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -941,7 +990,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Radlin",
                 "addr:postcode": "44-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -960,7 +1010,8 @@
                 "addr:housenumber": "154",
                 "addr:city": "MARKLOWICE",
                 "addr:postcode": "44-321",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -979,7 +1030,8 @@
                 "addr:housenumber": "32 D",
                 "addr:city": "Radlin",
                 "addr:postcode": "44-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -998,7 +1050,8 @@
                 "addr:housenumber": "150",
                 "addr:city": "Rydułtowy",
                 "addr:postcode": "44-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1016,7 +1069,8 @@
                 "addr:housenumber": "47",
                 "addr:city": "Rydułtowy",
                 "addr:postcode": "44-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1035,7 +1089,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Radlin",
                 "addr:postcode": "44-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1054,7 +1109,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Radlin",
                 "addr:postcode": "44-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1073,7 +1129,8 @@
                 "addr:housenumber": "150",
                 "addr:city": "Rydułtowy",
                 "addr:postcode": "44-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

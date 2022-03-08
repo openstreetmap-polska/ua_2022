@@ -10,7 +10,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "PAKOSŁAW",
                 "addr:postcode": "63-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "RAWICZ",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rawicz",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "MIEJSKA GÓRKA",
                 "addr:postcode": "63-910",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "MIEJSKA GÓRKA",
                 "addr:postcode": "63-910",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "28C",
                 "addr:city": "RAWICZ",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Rawicz",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Rawicz",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "BOJANOWO",
                 "addr:postcode": "63-940",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "PAKOSŁAW",
                 "addr:postcode": "63-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "RAWICZ",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "RAWICZ",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "RAWICZ",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +270,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Miejska Górka",
                 "addr:postcode": "63-910",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "RAWICZ",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "RAWICZ",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rawicz",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Rawicz",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Rawicz",
                 "addr:postcode": "63-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +388,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Bojanowo",
                 "addr:postcode": "63-940",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -388,7 +408,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Jutrosin",
                 "addr:postcode": "63-930",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +428,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Jutrosin",
                 "addr:postcode": "63-930",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +448,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "JUTROSIN",
                 "addr:postcode": "63-930",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

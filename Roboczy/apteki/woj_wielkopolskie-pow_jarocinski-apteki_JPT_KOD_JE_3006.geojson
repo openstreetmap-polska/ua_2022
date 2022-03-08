@@ -11,7 +11,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "KOTLIN",
                 "addr:postcode": "63-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "15B",
                 "addr:city": "ŻERKÓW",
                 "addr:postcode": "63-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "7G",
                 "addr:city": "ŻERKÓW",
                 "addr:postcode": "63-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "JAROCIN",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "5a",
                 "addr:city": "WITASZYCE",
                 "addr:postcode": "62-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "CIELCZA",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "JAROCIN",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "30A",
                 "addr:city": "JAROCIN",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "16A",
                 "addr:city": "JAROCIN",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "JAROCIN",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "JARACZEWO",
                 "addr:postcode": "63-233",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "JAROCIN",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "JAROCIN",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "GOLINA",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "RUSKO",
                 "addr:postcode": "63-233",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "MIESZKÓW",
                 "addr:postcode": "63-242",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "22A",
                 "addr:postcode": "23-155",
                 "amenity": "pharmacy",
-                "addr:place": "Zakrzew"
+                "addr:place": "Zakrzew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +349,8 @@
                 "addr:housenumber": "51",
                 "addr:city": "Jarocin",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +369,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "KOTLIN",
                 "addr:postcode": "63-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +389,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "JAROCIN",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -389,7 +409,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "JAROCIN",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -408,7 +429,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Jarocin",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -427,7 +449,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Jarocin",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +469,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Jarocin",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -465,7 +489,8 @@
                 "addr:housenumber": "3C",
                 "addr:city": "Żerków",
                 "addr:postcode": "63-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -484,7 +509,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Jarocin",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -503,7 +529,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Jaraczewo",
                 "addr:postcode": "63-233",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -522,7 +549,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Jarocin",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -541,7 +569,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Jarocin",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -560,7 +589,8 @@
                 "addr:housenumber": "60",
                 "addr:city": "Wilkowyja",
                 "addr:postcode": "63-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

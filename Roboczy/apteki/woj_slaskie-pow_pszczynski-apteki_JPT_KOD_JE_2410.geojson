@@ -11,7 +11,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "ŁĄKA",
                 "addr:postcode": "43-241",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "2 D",
                 "addr:city": "Goczałkowice-Zdrój",
                 "addr:postcode": "43-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "1 A",
                 "addr:city": "PSZCZYNA",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "PSZCZYNA",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "PSZCZYNA",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Pszczyna",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "PSZCZYNA",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "PSZCZYNA",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wola",
                 "addr:postcode": "43-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "CZARKÓW",
                 "addr:postcode": "43-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "GÓRA",
                 "addr:postcode": "43-227",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Grzawa",
                 "addr:postcode": "43-227",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Kobiór",
                 "addr:postcode": "43-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +270,8 @@
                 "addr:housenumber": "128",
                 "addr:city": "Rudołtowice",
                 "addr:postcode": "43-229",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -276,7 +290,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Grzawa",
                 "addr:postcode": "43-227",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -295,7 +310,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Pszczyna",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -314,7 +330,8 @@
                 "addr:housenumber": "72",
                 "addr:city": "Goczałkowice-Zdrój",
                 "addr:postcode": "43-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -333,7 +350,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Goczałkowice-Zdrój",
                 "addr:postcode": "43-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -352,7 +370,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Jankowice",
                 "addr:postcode": "43-215",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -371,7 +390,8 @@
                 "addr:housenumber": "23 A",
                 "addr:city": "PIASEK",
                 "addr:postcode": "43-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -390,7 +410,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Pszczyna",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -409,7 +430,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Pszczyna",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -428,7 +450,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Wola",
                 "addr:postcode": "43-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -447,7 +470,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Wola",
                 "addr:postcode": "43-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -466,7 +490,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Pszczyna",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +510,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Pszczyna",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -504,7 +530,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Ćwiklice",
                 "addr:postcode": "43-229",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -523,7 +550,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Pszczyna",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -541,7 +569,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Pszczyna",
                 "addr:postcode": "32-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -560,7 +589,8 @@
                 "addr:housenumber": "51",
                 "addr:city": "Goczałkowice-Zdrój",
                 "addr:postcode": "43-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -579,7 +609,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Pniówek",
                 "addr:postcode": "43-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -598,7 +629,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Suszec",
                 "addr:postcode": "43-267",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -617,7 +649,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "BRZEŹCE",
                 "addr:postcode": "43-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -636,7 +669,8 @@
                 "addr:housenumber": "6 A",
                 "addr:city": "Golasowice",
                 "addr:postcode": "43-252",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -655,7 +689,8 @@
                 "addr:housenumber": "72 A",
                 "addr:city": "PAWŁOWICE",
                 "addr:postcode": "43-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -674,7 +709,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "WARSZOWICE",
                 "addr:postcode": "43-254",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +729,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Studzionka",
                 "addr:postcode": "43-245",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -712,7 +749,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Pielgrzymowice",
                 "addr:postcode": "43-252",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -730,7 +768,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Wisła Wielka",
                 "addr:postcode": "43-243",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -749,7 +788,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Pawłowice",
                 "addr:postcode": "43-251",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -768,7 +808,8 @@
                 "addr:housenumber": "62A",
                 "addr:city": "Pawłowice",
                 "addr:postcode": "43-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -787,7 +828,8 @@
                 "addr:housenumber": "59A",
                 "addr:city": "Pawłowice",
                 "addr:postcode": "43-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -806,7 +848,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Pawłowice",
                 "addr:postcode": "43-251",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -825,7 +868,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Kobielice",
                 "addr:postcode": "43-262",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

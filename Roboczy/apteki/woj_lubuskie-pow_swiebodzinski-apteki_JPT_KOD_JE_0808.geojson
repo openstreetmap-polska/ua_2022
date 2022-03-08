@@ -11,7 +11,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Świebodzin",
                 "addr:postcode": "66-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "2D",
                 "addr:postcode": "66-615",
                 "amenity": "pharmacy",
-                "addr:place": "Gronów"
+                "addr:place": "Gronów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Świebodzin",
                 "addr:postcode": "66-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Świebodzin",
                 "addr:postcode": "66-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Świebodzin",
                 "addr:postcode": "66-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Świebodzin",
                 "addr:postcode": "66-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Świebodzin",
                 "addr:postcode": "66-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Świebodzin",
                 "addr:postcode": "66-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Świebodzin",
                 "addr:postcode": "66-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Świebodzin",
                 "addr:postcode": "66-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Zbąszynek",
                 "addr:postcode": "66-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Zbąszynek",
                 "addr:postcode": "66-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Lubrza",
                 "addr:postcode": "66-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Łagów",
                 "addr:postcode": "66-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Świebodzin",
                 "addr:postcode": "66-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Świebodzin",
                 "addr:postcode": "66-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łagów",
                 "addr:postcode": "66-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Zbąszynek",
                 "addr:postcode": "66-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "30 A",
                 "addr:city": "Szczaniec",
                 "addr:postcode": "66-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -366,7 +385,8 @@
                 "addr:housenumber": "49a",
                 "addr:postcode": "66-213",
                 "amenity": "pharmacy",
-                "addr:place": "Skąpe"
+                "addr:place": "Skąpe",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +403,8 @@
                 "addr:housenumber": "5",
                 "addr:postcode": "66-212",
                 "amenity": "pharmacy",
-                "addr:place": "Cibórz"
+                "addr:place": "Cibórz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

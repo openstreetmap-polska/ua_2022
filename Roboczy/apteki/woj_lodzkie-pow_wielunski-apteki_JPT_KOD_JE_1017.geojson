@@ -9,7 +9,8 @@
                 "addr:housenumber": "11",
                 "addr:postcode": "98-350",
                 "amenity": "pharmacy",
-                "addr:place": "Biała-Parcela"
+                "addr:place": "Biała-Parcela",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +27,8 @@
                 "addr:housenumber": "233",
                 "addr:postcode": "98-345",
                 "amenity": "pharmacy",
-                "addr:place": "Mokrsko"
+                "addr:place": "Mokrsko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Skomlin",
                 "addr:postcode": "98-346",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -62,7 +65,8 @@
                 "addr:housenumber": "246",
                 "addr:postcode": "98-345",
                 "amenity": "pharmacy",
-                "addr:place": "Mokrsko"
+                "addr:place": "Mokrsko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -80,7 +84,8 @@
                 "addr:housenumber": "76",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -98,7 +103,8 @@
                 "addr:housenumber": "56/10",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -117,7 +123,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -136,7 +143,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Wierzchlas",
                 "addr:postcode": "98-324",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -154,7 +162,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +180,8 @@
                 "addr:housenumber": "191I",
                 "addr:postcode": "98-310",
                 "amenity": "pharmacy",
-                "addr:place": "Czarnożyły"
+                "addr:place": "Czarnożyły",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -190,7 +200,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -209,7 +220,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -228,7 +240,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -247,7 +260,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -266,7 +280,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Kraszkowice",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -285,7 +300,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -304,7 +320,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -323,7 +340,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +360,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +380,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +400,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -399,7 +420,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Osjaków",
                 "addr:postcode": "98-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -417,7 +439,8 @@
                 "addr:housenumber": "38",
                 "addr:postcode": "97-515",
                 "amenity": "pharmacy",
-                "addr:place": "Masłowice"
+                "addr:place": "Masłowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -436,7 +459,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -455,7 +479,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -474,7 +499,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -493,7 +519,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -512,7 +539,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -531,7 +559,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -550,7 +579,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -569,7 +599,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -587,7 +618,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -606,7 +638,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -625,7 +658,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Wieluń",
                 "addr:postcode": "98-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -642,7 +676,8 @@
                 "addr:housenumber": "115",
                 "addr:postcode": "98-311",
                 "amenity": "pharmacy",
-                "addr:place": "Ostrówek"
+                "addr:place": "Ostrówek",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -661,7 +696,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Konopnica",
                 "addr:postcode": "98-313",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -678,7 +714,8 @@
                 "addr:housenumber": "48A",
                 "addr:postcode": "98-313",
                 "amenity": "pharmacy",
-                "addr:place": "Szynkielów"
+                "addr:place": "Szynkielów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -696,7 +733,8 @@
                 "addr:housenumber": "159A",
                 "addr:postcode": "98-324",
                 "amenity": "pharmacy",
-                "addr:place": "Mierzyce"
+                "addr:place": "Mierzyce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -713,7 +751,8 @@
                 "addr:housenumber": "108A",
                 "addr:postcode": "98-355",
                 "amenity": "pharmacy",
-                "addr:place": "Dzietrzniki"
+                "addr:place": "Dzietrzniki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -730,7 +769,8 @@
                 "addr:housenumber": "50A",
                 "addr:postcode": "98-335",
                 "amenity": "pharmacy",
-                "addr:place": "Pątnów"
+                "addr:place": "Pątnów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

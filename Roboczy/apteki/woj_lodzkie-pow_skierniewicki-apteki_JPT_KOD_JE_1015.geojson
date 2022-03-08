@@ -11,7 +11,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Głuchów",
                 "addr:postcode": "96-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "74",
                 "addr:postcode": "96-111",
                 "amenity": "pharmacy",
-                "addr:place": "Kowiesy"
+                "addr:place": "Kowiesy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Maków",
                 "addr:postcode": "96-124",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "82",
                 "addr:city": "Godzianów",
                 "addr:postcode": "96-126",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Głuchów",
                 "addr:postcode": "96-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Lipce Reymontowskie",
                 "addr:postcode": "96-127",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "133",
                 "addr:postcode": "96-128",
                 "amenity": "pharmacy",
-                "addr:place": "Słupia"
+                "addr:place": "Słupia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "1",
                 "addr:postcode": "96-115",
                 "amenity": "pharmacy",
-                "addr:place": "Nowy Kawęczyn"
+                "addr:place": "Nowy Kawęczyn",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Bolimów",
                 "addr:postcode": "99-417",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

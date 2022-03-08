@@ -10,7 +10,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Kałuszyn",
                 "addr:postcode": "05-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kałuszyn",
                 "addr:postcode": "05-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Mrozy",
                 "addr:postcode": "05-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "29A",
                 "addr:city": "Latowicz",
                 "addr:postcode": "05-334",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Kałuszyn",
                 "addr:postcode": "05-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "2/4",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "180",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "5/4",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +270,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Stojadła",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Stanisławów",
                 "addr:postcode": "05-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +309,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Siennica",
                 "addr:postcode": "05-332",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "26C",
                 "addr:city": "Dobre",
                 "addr:postcode": "05-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Cegłów",
                 "addr:postcode": "05-319",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Dębe Wielkie",
                 "addr:postcode": "05-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +388,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Dębe Wielkie",
                 "addr:postcode": "05-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Dobre",
                 "addr:postcode": "05-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -405,7 +426,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Jakubów",
                 "addr:postcode": "05-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -424,7 +446,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -443,7 +466,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -461,7 +485,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Stanisławów",
                 "addr:postcode": "05-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -479,7 +504,8 @@
                 "addr:housenumber": "5A",
                 "addr:postcode": "05-332",
                 "amenity": "pharmacy",
-                "addr:place": "Drożdżówka"
+                "addr:place": "Drożdżówka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +524,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -517,7 +544,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-302",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -536,7 +564,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -555,7 +584,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -574,7 +604,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -593,7 +624,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -611,7 +643,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Wielgolas",
                 "addr:postcode": "05-334",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -630,7 +663,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Mińsk Mazowiecki",
                 "addr:postcode": "05-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -648,7 +682,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Pustelnik",
                 "addr:postcode": "05-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +702,8 @@
                 "addr:housenumber": "7B",
                 "addr:city": "Sulejówek",
                 "addr:postcode": "05-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -686,7 +722,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sulejówek",
                 "addr:postcode": "05-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -704,7 +741,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Halinów",
                 "addr:postcode": "05-074",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -723,7 +761,8 @@
                 "addr:housenumber": "87",
                 "addr:city": "Sulejówek",
                 "addr:postcode": "05-071",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -742,7 +781,8 @@
                 "addr:housenumber": "2N",
                 "addr:city": "Sulejówek",
                 "addr:postcode": "05-071",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -760,7 +800,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Sulejówek",
                 "addr:postcode": "05-071",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -779,7 +820,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sulejówek",
                 "addr:postcode": "05-071",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -798,7 +840,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sulejówek",
                 "addr:postcode": "05-071",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -817,7 +860,8 @@
                 "addr:housenumber": "2H",
                 "addr:city": "Sulejówek",
                 "addr:postcode": "05-071",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -835,7 +879,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Okuniew",
                 "addr:postcode": "05-079",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -854,7 +899,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Sulejówek",
                 "addr:postcode": "05-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -873,7 +919,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Halinów",
                 "addr:postcode": "05-074",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -892,7 +939,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Halinów",
                 "addr:postcode": "05-074",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

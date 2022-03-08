@@ -11,7 +11,8 @@
                 "addr:housenumber": "368",
                 "addr:city": "Gostyń",
                 "addr:postcode": "43-176",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Łaziska Górne",
                 "addr:postcode": "43-170",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "ŁAZISKA GÓRNE",
                 "addr:postcode": "43-170",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "ŁAZISKA GÓRNE",
                 "addr:postcode": "43-170",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Wyry",
                 "addr:postcode": "43-175",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Mikołów",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Mikołów",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Łaziska Górne",
                 "addr:postcode": "43-170",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mikołów",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Mikołów",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Mikołów",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "MIKOŁÓW",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Mikołów",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "MIKOŁÓW",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "MIKOŁÓW",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "MIKOŁÓW",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +331,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Mikołów",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +351,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Mikołów",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +371,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łaziska Górne",
                 "addr:postcode": "43-170",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -372,7 +391,8 @@
                 "addr:housenumber": "12B",
                 "addr:city": "Łaziska Górne",
                 "addr:postcode": "43-170",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +411,8 @@
                 "addr:housenumber": "208",
                 "addr:city": "Orzesze",
                 "addr:postcode": "43-187",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +431,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Mikołów",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +451,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Łaziska Górne",
                 "addr:postcode": "43-170",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -448,7 +471,8 @@
                 "addr:housenumber": "70 A",
                 "addr:city": "Mikołów",
                 "addr:postcode": "43-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +491,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Ornontowice",
                 "addr:postcode": "43-178",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -486,7 +511,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "ORZESZE",
                 "addr:postcode": "43-186",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -505,7 +531,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "ORZESZE",
                 "addr:postcode": "43-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +551,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Ornontowice",
                 "addr:postcode": "43-178",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +571,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Orzesze",
                 "addr:postcode": "43-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -562,7 +591,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Mikołów",
                 "addr:postcode": "43-196",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -581,7 +611,8 @@
                 "addr:housenumber": "144",
                 "addr:city": "Orzesze",
                 "addr:postcode": "43-187",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -600,7 +631,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Orzesze",
                 "addr:postcode": "43-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -619,7 +651,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Orzesze",
                 "addr:postcode": "43-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

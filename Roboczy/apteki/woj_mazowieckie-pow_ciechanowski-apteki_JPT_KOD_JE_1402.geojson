@@ -11,7 +11,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Glinojeck",
                 "addr:postcode": "06-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "24/3",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "20A",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "71B",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Ojrzeń",
                 "addr:postcode": "06-456",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "1/2",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "43",
                 "addr:postcode": "06-452",
                 "amenity": "pharmacy",
-                "addr:place": "Ościsłowo"
+                "addr:place": "Ościsłowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Regimin",
                 "addr:postcode": "06-461",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +346,8 @@
                 "addr:housenumber": "13I",
                 "addr:city": "Glinojeck",
                 "addr:postcode": "06-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -347,7 +365,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Grudusk",
                 "addr:postcode": "06-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -366,7 +385,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -385,7 +405,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -404,7 +425,8 @@
                 "addr:housenumber": "18A",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +445,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -442,7 +465,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -460,7 +484,8 @@
                 "addr:housenumber": "65",
                 "addr:postcode": "06-406",
                 "amenity": "pharmacy",
-                "addr:place": "Władysławowo"
+                "addr:place": "Władysławowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -479,7 +504,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +524,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Ciechanów",
                 "addr:postcode": "06-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -515,7 +542,8 @@
                 "addr:housenumber": "36A",
                 "addr:postcode": "06-430",
                 "amenity": "pharmacy",
-                "addr:place": "Soboklęszcz"
+                "addr:place": "Soboklęszcz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -533,7 +561,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Opinogóra Górna",
                 "addr:postcode": "06-406",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -551,7 +580,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Gąsocin",
                 "addr:postcode": "06-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -569,7 +599,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Gołymin-Ośrodek",
                 "addr:postcode": "06-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

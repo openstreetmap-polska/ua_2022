@@ -10,7 +10,8 @@
                 "addr:housenumber": "23C",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Nowy Staw",
                 "addr:postcode": "82-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "71",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "75",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Stare Pole",
                 "addr:postcode": "82-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "29C",
                 "addr:city": "Lichnowy",
                 "addr:postcode": "82-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "48",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "105/106",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "4b-4c",
                 "addr:city": "Nowy Staw",
                 "addr:postcode": "82-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Malbork",
                 "addr:postcode": "82-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +388,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Miłoradz",
                 "addr:postcode": "82-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

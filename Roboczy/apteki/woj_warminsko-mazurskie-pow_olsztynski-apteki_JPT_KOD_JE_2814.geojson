@@ -11,7 +11,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Biskupiec",
                 "addr:postcode": "11-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Biskupiec",
                 "addr:postcode": "11-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Biskupiec",
                 "addr:postcode": "11-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Biskupiec",
                 "addr:postcode": "11-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Biskupiec",
                 "addr:postcode": "11-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "12A",
                 "addr:city": "Biskupiec",
                 "addr:postcode": "11-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Biskupiec",
                 "addr:postcode": "11-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Biskupiec",
                 "addr:postcode": "11-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Biskupiec",
                 "addr:postcode": "11-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "35",
                 "addr:postcode": "11-008",
                 "amenity": "pharmacy",
-                "addr:place": "Świątki"
+                "addr:place": "Świątki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "OLSZTYN",
                 "addr:postcode": "10-687",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Dobre Miasto",
                 "addr:postcode": "11-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Dobre Miasto",
                 "addr:postcode": "11-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Dobre Miasto",
                 "addr:postcode": "11-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Dobre Miasto",
                 "addr:postcode": "11-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Gietrzwałd",
                 "addr:postcode": "11-036",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "14",
                 "addr:postcode": "11-001",
                 "amenity": "pharmacy",
-                "addr:place": "Tuławki"
+                "addr:place": "Tuławki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +346,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Olsztynek",
                 "addr:postcode": "11-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -348,7 +366,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Dobre Miasto",
                 "addr:postcode": "11-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +386,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Barczewo",
                 "addr:postcode": "11-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -386,7 +406,8 @@
                 "addr:housenumber": "10a",
                 "addr:city": "Olsztynek",
                 "addr:postcode": "11-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -405,7 +426,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Olsztynek",
                 "addr:postcode": "11-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -424,7 +446,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Dobre Miasto",
                 "addr:postcode": "11-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -443,7 +466,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Bartąg",
                 "addr:postcode": "10-687",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -461,7 +485,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Jeziorany",
                 "addr:postcode": "11-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -480,7 +505,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Barczewo",
                 "addr:postcode": "11-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -499,7 +525,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Barczewo",
                 "addr:postcode": "11-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -518,7 +545,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Barczewo",
                 "addr:postcode": "11-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +565,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Dywity",
                 "addr:postcode": "11-001",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -556,7 +585,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Jeziorany",
                 "addr:postcode": "11-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -575,7 +605,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Olsztynek",
                 "addr:postcode": "11-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -594,7 +625,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Olsztynek",
                 "addr:postcode": "11-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -611,7 +643,8 @@
                 "addr:housenumber": "21",
                 "addr:postcode": "11-015",
                 "amenity": "pharmacy",
-                "addr:place": "Ameryka"
+                "addr:place": "Ameryka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -629,7 +662,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "BARCZEWO",
                 "addr:postcode": "11-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -648,7 +682,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Dobre Miasto",
                 "addr:postcode": "11-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +702,8 @@
                 "addr:housenumber": "10B",
                 "addr:city": "DOBRE MIASTO",
                 "addr:postcode": "11-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -686,7 +722,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Stawiguda",
                 "addr:postcode": "11-034",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -705,7 +742,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Dobre Miasto",
                 "addr:postcode": "11-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -724,7 +762,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Jeziorany",
                 "addr:postcode": "11-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -743,7 +782,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Jonkowo",
                 "addr:postcode": "11-042",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -762,7 +802,8 @@
                 "addr:housenumber": "1C",
                 "addr:city": "Wadąg",
                 "addr:postcode": "10-373",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -779,7 +820,8 @@
                 "addr:housenumber": "1",
                 "addr:postcode": "11-036",
                 "amenity": "pharmacy",
-                "addr:place": "Biesal"
+                "addr:place": "Biesal",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

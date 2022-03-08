@@ -10,7 +10,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Stare Juchy",
                 "addr:postcode": "19-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kalinowo",
                 "addr:postcode": "19-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "58",
                 "addr:postcode": "19-314",
                 "amenity": "pharmacy",
-                "addr:place": "Pisanica"
+                "addr:place": "Pisanica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Prostki",
                 "addr:postcode": "19-335",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Straduny",
                 "addr:postcode": "19-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "EŁK",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "10B",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +346,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -348,7 +366,8 @@
                 "addr:housenumber": "45",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +386,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -386,7 +406,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -405,7 +426,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +445,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "EŁK",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -441,7 +464,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "EŁK",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -460,7 +484,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -478,7 +503,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "EŁK",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -497,7 +523,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -515,7 +542,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "EŁK",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -534,7 +562,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -553,7 +582,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "PROSTKI",
                 "addr:postcode": "19-335",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -572,7 +602,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -591,7 +622,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -610,7 +642,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -629,7 +662,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -648,7 +682,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Ełk",
                 "addr:postcode": "19-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

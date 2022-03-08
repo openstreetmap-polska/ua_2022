@@ -9,7 +9,8 @@
                 "addr:housenumber": "57",
                 "addr:postcode": "27-225",
                 "amenity": "pharmacy",
-                "addr:place": "Pawłów"
+                "addr:place": "Pawłów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "42",
                 "addr:postcode": "27-225",
                 "amenity": "pharmacy",
-                "addr:place": "Chybice"
+                "addr:place": "Chybice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Styków",
                 "addr:postcode": "27-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "84 a",
                 "addr:postcode": "27-225",
                 "amenity": "pharmacy",
-                "addr:place": "Kałków-Godów"
+                "addr:place": "Kałków-Godów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "MIRZEC",
                 "addr:postcode": "27-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -269,7 +283,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -288,7 +303,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +322,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "LUBIENIA",
                 "addr:postcode": "27-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +342,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -344,7 +362,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Krynki",
                 "addr:postcode": "27-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -363,7 +382,8 @@
                 "addr:housenumber": "70",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +401,8 @@
                 "addr:housenumber": "118",
                 "addr:postcode": "27-220",
                 "amenity": "pharmacy",
-                "addr:place": "Jagodne"
+                "addr:place": "Jagodne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -400,7 +421,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -419,7 +441,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -438,7 +461,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -457,7 +481,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -476,7 +501,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -494,7 +520,8 @@
                 "addr:housenumber": "16B",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -513,7 +540,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -532,7 +560,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -551,7 +580,8 @@
                 "addr:housenumber": "70",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -569,7 +599,8 @@
                 "addr:housenumber": "20",
                 "addr:postcode": "27-215",
                 "amenity": "pharmacy",
-                "addr:place": "Wąchock"
+                "addr:place": "Wąchock",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -588,7 +619,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -607,7 +639,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -626,7 +659,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -645,7 +679,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -663,7 +698,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -682,7 +718,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Starachowice",
                 "addr:postcode": "27-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

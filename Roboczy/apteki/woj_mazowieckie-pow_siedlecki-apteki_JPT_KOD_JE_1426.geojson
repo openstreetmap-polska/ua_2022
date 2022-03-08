@@ -11,7 +11,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dąbrówka-Ług",
                 "addr:postcode": "08-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "18C",
                 "addr:postcode": "08-113",
                 "amenity": "pharmacy",
-                "addr:place": "Domanice-Kolonia"
+                "addr:place": "Domanice-Kolonia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "65",
                 "addr:postcode": "08-117",
                 "amenity": "pharmacy",
-                "addr:place": "Oleśnica"
+                "addr:place": "Oleśnica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Zbuczyn",
                 "addr:postcode": "08-106",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "1",
                 "addr:postcode": "62-652",
                 "amenity": "pharmacy",
-                "addr:place": "CHODÓW"
+                "addr:place": "CHODÓW",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Kotuń",
                 "addr:postcode": "08-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "33",
                 "addr:postcode": "08-111",
                 "amenity": "pharmacy",
-                "addr:place": "Krzesk-Królowa Niwa"
+                "addr:place": "Krzesk-Królowa Niwa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Przesmyki",
                 "addr:postcode": "08-109",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Suchożebry",
                 "addr:postcode": "08-125",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wiśniew",
                 "addr:postcode": "08-112",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Mokobody",
                 "addr:postcode": "08-124",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "19A",
                 "addr:postcode": "08-130",
                 "amenity": "pharmacy",
-                "addr:place": "Żeliszew Podkościelny"
+                "addr:place": "Żeliszew Podkościelny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Korczew",
                 "addr:postcode": "08-108",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Seroczyn",
                 "addr:postcode": "08-116",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -269,7 +283,8 @@
                 "addr:housenumber": "70A",
                 "addr:city": "Hołubla",
                 "addr:postcode": "08-107",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "132",
                 "addr:postcode": "08-117",
                 "amenity": "pharmacy",
-                "addr:place": "Oleśnica"
+                "addr:place": "Oleśnica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +322,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Skórzec",
                 "addr:postcode": "08-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +342,8 @@
                 "addr:housenumber": "28/30",
                 "addr:city": "Mordy",
                 "addr:postcode": "08-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

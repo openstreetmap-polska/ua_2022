@@ -11,7 +11,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Grębków",
                 "addr:postcode": "07-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Węgrów",
                 "addr:postcode": "07-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "86A",
                 "addr:postcode": "07-111",
                 "amenity": "pharmacy",
-                "addr:place": "Wierzbno"
+                "addr:place": "Wierzbno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Korytnica",
                 "addr:postcode": "07-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "28",
                 "addr:postcode": "07-100",
                 "amenity": "pharmacy",
-                "addr:place": "Wyszków"
+                "addr:place": "Wyszków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Węgrów",
                 "addr:postcode": "07-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Węgrów",
                 "addr:postcode": "07-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Węgrów",
                 "addr:postcode": "07-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Węgrów",
                 "addr:postcode": "07-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "201",
                 "addr:city": "Węgrów",
                 "addr:postcode": "07-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "23/24",
                 "addr:city": "Węgrów",
                 "addr:postcode": "07-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Węgrów",
                 "addr:postcode": "07-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Miedzna",
                 "addr:postcode": "07-106",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +264,8 @@
                 "addr:housenumber": "39",
                 "addr:postcode": "21-102",
                 "amenity": "pharmacy",
-                "addr:place": "Ostrówek"
+                "addr:place": "Ostrówek",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -270,7 +284,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Łochów",
                 "addr:postcode": "07-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łochów",
                 "addr:postcode": "07-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "82",
                 "addr:city": "Sadowne",
                 "addr:postcode": "07-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +342,8 @@
                 "addr:housenumber": "67",
                 "addr:city": "Łochów",
                 "addr:postcode": "07-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -344,7 +362,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łochów",
                 "addr:postcode": "07-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -363,7 +382,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Łochów",
                 "addr:postcode": "07-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +401,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Sadowne",
                 "addr:postcode": "07-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -400,7 +421,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Stoczek",
                 "addr:postcode": "07-104",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

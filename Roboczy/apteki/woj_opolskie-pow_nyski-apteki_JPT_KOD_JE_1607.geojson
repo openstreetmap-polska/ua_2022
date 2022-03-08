@@ -11,7 +11,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Paczków",
                 "addr:postcode": "48-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Paczków",
                 "addr:postcode": "48-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Paczków",
                 "addr:postcode": "48-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kamiennik",
                 "addr:postcode": "48-388",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Otmuchów",
                 "addr:postcode": "48-385",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "39b",
                 "addr:city": "Otmuchów",
                 "addr:postcode": "48-385",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Otmuchów",
                 "addr:postcode": "48-385",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Otmuchów",
                 "addr:postcode": "48-385",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Paczków",
                 "addr:postcode": "48-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Paczków",
                 "addr:postcode": "48-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Paczków",
                 "addr:postcode": "48-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Otmuchów",
                 "addr:postcode": "48-385",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Głuchołazy",
                 "addr:postcode": "48-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Korfantów",
                 "addr:postcode": "48-317",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Łambinowice",
                 "addr:postcode": "48-316",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +305,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +325,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -328,7 +345,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Skoroszyce",
                 "addr:postcode": "48-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -346,7 +364,8 @@
                 "addr:housenumber": "16",
                 "addr:postcode": "48-315",
                 "amenity": "pharmacy",
-                "addr:place": "Jasienica Dolna"
+                "addr:place": "Jasienica Dolna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -365,7 +384,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -384,7 +404,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Głuchołazy",
                 "addr:postcode": "48-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -403,7 +424,8 @@
                 "addr:housenumber": "67 c",
                 "addr:city": "Chróścina",
                 "addr:postcode": "48-319",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -422,7 +444,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Głuchołazy",
                 "addr:postcode": "48-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -441,7 +464,8 @@
                 "addr:housenumber": "2 A",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -460,7 +484,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-303",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -479,7 +504,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Głuchołazy",
                 "addr:postcode": "48-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -497,7 +523,8 @@
                 "addr:housenumber": "21",
                 "addr:postcode": "56-200",
                 "amenity": "pharmacy",
-                "addr:place": "Chróścina"
+                "addr:place": "Chróścina",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -516,7 +543,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -535,7 +563,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Korfantów",
                 "addr:postcode": "48-317",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -554,7 +583,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Głuchołazy",
                 "addr:postcode": "48-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -573,7 +603,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -592,7 +623,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -611,7 +643,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -630,7 +663,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -649,7 +683,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -668,7 +703,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -686,7 +722,8 @@
                 "addr:housenumber": "12a",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -705,7 +742,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -724,7 +762,8 @@
                 "addr:housenumber": "47",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-303",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -742,7 +781,8 @@
                 "addr:housenumber": "21A",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -760,7 +800,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -779,7 +820,8 @@
                 "addr:housenumber": "11c",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -798,7 +840,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Korfantów",
                 "addr:postcode": "48-317",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -817,7 +860,8 @@
                 "addr:housenumber": "1-3",
                 "addr:city": "Głuchołazy",
                 "addr:postcode": "48-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +880,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Głuchołazy",
                 "addr:postcode": "48-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -855,7 +900,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -874,7 +920,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -893,7 +940,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Głuchołazy",
                 "addr:postcode": "48-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -912,7 +960,8 @@
                 "addr:housenumber": "16 A i B",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -931,7 +980,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Korfantów",
                 "addr:postcode": "48-317",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -950,7 +1000,8 @@
                 "addr:housenumber": "23a",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -969,7 +1020,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Łambinowice",
                 "addr:postcode": "48-316",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -988,7 +1040,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1007,7 +1060,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Głuchołazy",
                 "addr:postcode": "48-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1026,7 +1080,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1045,7 +1100,8 @@
                 "addr:housenumber": "18A",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1064,7 +1120,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1140,8 @@
                 "addr:housenumber": "7B",
                 "addr:city": "Nysa",
                 "addr:postcode": "48-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1102,7 +1160,8 @@
                 "addr:housenumber": "12/14",
                 "addr:city": "Głuchołazy",
                 "addr:postcode": "48-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1121,7 +1180,8 @@
                 "addr:housenumber": "7 B",
                 "addr:city": "Głuchołazy",
                 "addr:postcode": "48-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

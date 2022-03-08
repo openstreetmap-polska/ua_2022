@@ -10,7 +10,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Lewin Brzeski",
                 "addr:postcode": "49-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Lewin Brzeski",
                 "addr:postcode": "49-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Lewin Brzeski",
                 "addr:postcode": "49-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "121 A",
                 "addr:city": "Łosiów",
                 "addr:postcode": "49-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Skorogoszcz",
                 "addr:postcode": "49-345",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Grodków",
                 "addr:postcode": "49-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Grodków",
                 "addr:postcode": "49-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "37D",
                 "addr:city": "Lewin Brzeski",
                 "addr:postcode": "49-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Grodków",
                 "addr:postcode": "49-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "8-9",
                 "addr:city": "Grodków",
                 "addr:postcode": "49-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "13-14",
                 "addr:city": "Grodków",
                 "addr:postcode": "49-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-305",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-305",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Lubsza",
                 "addr:postcode": "49-313",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Skarbimierz Osiedle",
                 "addr:postcode": "49-318",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +387,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "24A",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -406,7 +427,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +447,8 @@
                 "addr:housenumber": "12b",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -444,7 +467,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-305",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -463,7 +487,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -482,7 +507,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -501,7 +527,8 @@
                 "addr:housenumber": "7-7A",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -520,7 +547,8 @@
                 "addr:housenumber": "\"11 \"\"O\"\"\"",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -539,7 +567,8 @@
                 "addr:housenumber": "17-19",
                 "addr:city": "Brzeg",
                 "addr:postcode": "49-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

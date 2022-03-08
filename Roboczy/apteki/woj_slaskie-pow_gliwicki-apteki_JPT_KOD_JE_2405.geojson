@@ -11,7 +11,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Pilchowice",
                 "addr:postcode": "44-145",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-193",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-196",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Paniówki",
                 "addr:postcode": "44-177",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Pyskowice",
                 "addr:postcode": "44-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Pyskowice",
                 "addr:postcode": "44-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "KOTULIN",
                 "addr:postcode": "44-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "PONISZOWICE",
                 "addr:postcode": "44-172",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "75",
                 "addr:city": "RUDZINIEC",
                 "addr:postcode": "44-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "12 A",
                 "addr:city": "TACISZÓW",
                 "addr:postcode": "44-171",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "123",
                 "addr:city": "Wilcza",
                 "addr:postcode": "44-189",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "ŻERNICA",
                 "addr:postcode": "44-144",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Pilchowice",
                 "addr:postcode": "44-145",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Pyskowice",
                 "addr:postcode": "44-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Toszek",
                 "addr:postcode": "44-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -295,7 +310,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Świbie",
                 "addr:postcode": "44-187",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -314,7 +330,8 @@
                 "addr:housenumber": "74",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -333,7 +350,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Chudów",
                 "addr:postcode": "44-177",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -352,7 +370,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-194",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +389,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -389,7 +409,8 @@
                 "addr:housenumber": "76",
                 "addr:city": "Gierałtowice",
                 "addr:postcode": "44-186",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -408,7 +429,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -427,7 +449,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-194",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +469,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-194",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -465,7 +489,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -484,7 +509,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-194",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -503,7 +529,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -522,7 +549,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -541,7 +569,8 @@
                 "addr:housenumber": "29B",
                 "addr:city": "Przyszowice",
                 "addr:postcode": "44-178",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -560,7 +589,8 @@
                 "addr:housenumber": "83",
                 "addr:city": "Pyskowice",
                 "addr:postcode": "44-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -579,7 +609,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Sośnicowice",
                 "addr:postcode": "44-153",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -598,7 +629,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Toszek",
                 "addr:postcode": "44-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -617,7 +649,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "KNURÓW",
                 "addr:postcode": "44-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -636,7 +669,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "PYSKOWICE",
                 "addr:postcode": "44-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -655,7 +689,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "TOSZEK",
                 "addr:postcode": "44-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -674,7 +709,8 @@
                 "addr:housenumber": "25A",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-194",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +729,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Knurów",
                 "addr:postcode": "44-193",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -712,7 +749,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Pyskowice",
                 "addr:postcode": "44-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -731,7 +769,8 @@
                 "addr:housenumber": "47",
                 "addr:city": "Wielowieś",
                 "addr:postcode": "44-187",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -750,7 +789,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Pilchowice",
                 "addr:postcode": "44-145",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -769,7 +809,8 @@
                 "addr:housenumber": "2 b",
                 "addr:city": "Przyszowice",
                 "addr:postcode": "44-178",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -788,7 +829,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Toszek",
                 "addr:postcode": "44-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -807,7 +849,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Nieborowice",
                 "addr:postcode": "44-144",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

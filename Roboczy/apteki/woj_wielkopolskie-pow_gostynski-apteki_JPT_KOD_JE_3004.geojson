@@ -10,7 +10,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Gostyń",
                 "addr:postcode": "63-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Poniec",
                 "addr:postcode": "64-125",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Poniec",
                 "addr:postcode": "64-125",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Krobia",
                 "addr:postcode": "63-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Pudliszki",
                 "addr:postcode": "63-842",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Gostyń",
                 "addr:postcode": "63-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Gostyń",
                 "addr:postcode": "63-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Gostyń",
                 "addr:postcode": "63-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "80",
                 "addr:postcode": "63-805",
                 "amenity": "pharmacy",
-                "addr:place": "Łęka Wielka"
+                "addr:place": "Łęka Wielka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Gostyń",
                 "addr:postcode": "63-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Pępowo",
                 "addr:postcode": "63-830",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Gostyń",
                 "addr:postcode": "63-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Krobia",
                 "addr:postcode": "63-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "95E",
                 "addr:city": "Krobia",
                 "addr:postcode": "63-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Gostyń",
                 "addr:postcode": "63-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "PIASKI",
                 "addr:postcode": "63-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +325,8 @@
                 "addr:housenumber": "8-9",
                 "addr:city": "Gostyń",
                 "addr:postcode": "63-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -328,7 +345,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Gostyń",
                 "addr:postcode": "63-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -347,7 +365,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Gostyń",
                 "addr:postcode": "63-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -365,7 +384,8 @@
                 "addr:housenumber": "70A",
                 "addr:postcode": "63-820",
                 "amenity": "pharmacy",
-                "addr:place": "Bodzewo"
+                "addr:place": "Bodzewo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -384,7 +404,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Piaski",
                 "addr:postcode": "63-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -403,7 +424,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Gostyń",
                 "addr:postcode": "63-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +443,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Pogorzela",
                 "addr:postcode": "63-860",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -439,7 +462,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Borek Wielkopolski",
                 "addr:postcode": "63-810",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -458,7 +482,8 @@
                 "addr:housenumber": "55",
                 "addr:city": "Borek Wielkopolski",
                 "addr:postcode": "63-810",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -477,7 +502,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Pogorzela",
                 "addr:postcode": "63-860",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -495,7 +521,8 @@
                 "addr:housenumber": "2A",
                 "addr:postcode": "63-820",
                 "amenity": "pharmacy",
-                "addr:place": "Szelejewo Drugie"
+                "addr:place": "Szelejewo Drugie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

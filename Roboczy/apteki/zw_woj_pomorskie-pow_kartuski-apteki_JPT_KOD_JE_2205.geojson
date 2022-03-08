@@ -11,7 +11,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Sierakowice",
                 "addr:postcode": "83-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "11",
                 "addr:postcode": "83-328",
                 "amenity": "pharmacy",
-                "addr:place": "Sianowo"
+                "addr:place": "Sianowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "14 A",
                 "addr:city": "Sierakowice",
                 "addr:postcode": "83-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Miechucino",
                 "addr:postcode": "83-334",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sierakowice",
                 "addr:postcode": "83-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Sierakowice",
                 "addr:postcode": "83-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Chmielno",
                 "addr:postcode": "83-333",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "22D",
                 "addr:city": "Żukowo",
                 "addr:postcode": "83-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Żukowo",
                 "addr:postcode": "83-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Kartuzy",
                 "addr:postcode": "83-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Przodkowo",
                 "addr:postcode": "83-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Kartuzy",
                 "addr:postcode": "83-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Banino",
                 "addr:postcode": "80-297",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +270,8 @@
                 "addr:housenumber": "62",
                 "addr:city": "Banino",
                 "addr:postcode": "80-297",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -276,7 +290,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kartuzy",
                 "addr:postcode": "83-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -295,7 +310,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Kartuzy",
                 "addr:postcode": "83-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -314,7 +330,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Kartuzy",
                 "addr:postcode": "83-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -333,7 +350,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Kartuzy",
                 "addr:postcode": "83-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -352,7 +370,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Żukowo",
                 "addr:postcode": "83-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -371,7 +390,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Żukowo",
                 "addr:postcode": "83-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -390,7 +410,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Przodkowo",
                 "addr:postcode": "83-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -409,7 +430,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Żukowo",
                 "addr:postcode": "83-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -428,7 +450,8 @@
                 "addr:housenumber": "59A",
                 "addr:city": "Żukowo",
                 "addr:postcode": "83-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -447,7 +470,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Kartuzy",
                 "addr:postcode": "83-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -466,7 +490,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Borowo",
                 "addr:postcode": "83-332",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +510,8 @@
                 "addr:housenumber": "135",
                 "addr:city": "Chwaszczyno",
                 "addr:postcode": "80-209",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -504,7 +530,8 @@
                 "addr:housenumber": "112 A",
                 "addr:city": "Banino",
                 "addr:postcode": "80-297",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -523,7 +550,8 @@
                 "addr:housenumber": "145",
                 "addr:city": "Chwaszczyno",
                 "addr:postcode": "80-209",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -542,7 +570,8 @@
                 "addr:housenumber": "16 B",
                 "addr:city": "Przodkowo",
                 "addr:postcode": "83-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -561,7 +590,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Kartuzy",
                 "addr:postcode": "83-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -580,7 +610,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Kartuzy",
                 "addr:postcode": "83-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -599,7 +630,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Pępowo",
                 "addr:postcode": "83-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -618,7 +650,8 @@
                 "addr:housenumber": "22 B",
                 "addr:city": "Sulęczyno",
                 "addr:postcode": "83-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -637,7 +670,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Szymbark",
                 "addr:postcode": "83-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -656,7 +690,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Gołubie",
                 "addr:postcode": "83-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -675,7 +710,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Stężyca",
                 "addr:postcode": "83-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +729,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Klukowa Huta",
                 "addr:postcode": "83-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -711,7 +748,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Kamienica Szlachecka",
                 "addr:postcode": "83-323",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -730,7 +768,8 @@
                 "addr:housenumber": "36D",
                 "addr:city": "Kiełpino",
                 "addr:postcode": "83-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -749,7 +788,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Somonino",
                 "addr:postcode": "83-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -767,7 +807,8 @@
                 "addr:housenumber": "29",
                 "addr:postcode": "83-315",
                 "amenity": "pharmacy",
-                "addr:place": "Wieżyca"
+                "addr:place": "Wieżyca",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -786,7 +827,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Somonino",
                 "addr:postcode": "83-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

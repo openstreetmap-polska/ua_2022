@@ -11,7 +11,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Gorzyce",
                 "addr:postcode": "39-432",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Gorzyce",
                 "addr:postcode": "39-432",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Baranów Sandomierski",
                 "addr:postcode": "39-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Gorzyce",
                 "addr:postcode": "39-432",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Gorzyce",
                 "addr:postcode": "39-432",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Trześń",
                 "addr:postcode": "39-432",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "89",
                 "addr:postcode": "39-400",
                 "amenity": "pharmacy",
-                "addr:place": "Stale"
+                "addr:place": "Stale",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Baranów Sandomierski",
                 "addr:postcode": "39-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Chmielów",
                 "addr:postcode": "39-442",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "1E",
                 "addr:city": "Grębów",
                 "addr:postcode": "39-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Grębów",
                 "addr:postcode": "39-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "36",
                 "addr:postcode": "39-450",
                 "amenity": "pharmacy",
-                "addr:place": "Ślęzaki"
+                "addr:place": "Ślęzaki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Nowa Dęba",
                 "addr:postcode": "39-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +264,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Nowa Dęba",
                 "addr:postcode": "39-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -270,7 +284,8 @@
                 "addr:housenumber": "18F",
                 "addr:city": "Nowa Dęba",
                 "addr:postcode": "39-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -288,7 +303,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Nowa Dęba",
                 "addr:postcode": "39-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "1b",
                 "addr:city": "Nowa Dęba",
                 "addr:postcode": "39-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -326,7 +343,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Nowa Dęba",
                 "addr:postcode": "39-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -344,7 +362,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Nowa Dęba",
                 "addr:postcode": "39-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -362,7 +381,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Wola Baranowska",
                 "addr:postcode": "39-451",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

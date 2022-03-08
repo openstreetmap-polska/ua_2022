@@ -11,7 +11,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "77-79",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "17/19",
                 "addr:city": "Głowno",
                 "addr:postcode": "95-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "28A",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Biała",
                 "addr:postcode": "95-001",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "35",
                 "addr:postcode": "95-015",
                 "amenity": "pharmacy",
-                "addr:place": "Popów Głowieński"
+                "addr:place": "Popów Głowieński",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "59",
                 "addr:city": "Głowno",
                 "addr:postcode": "95-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "43A",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Emilia",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "32/34",
                 "addr:city": "Głowno",
                 "addr:postcode": "95-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "64A",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +309,8 @@
                 "addr:housenumber": "38A",
                 "addr:city": "Głowno",
                 "addr:postcode": "95-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "71/73",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +349,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "18",
                 "addr:postcode": "95-044",
                 "amenity": "pharmacy",
-                "addr:place": "Leśmierz"
+                "addr:place": "Leśmierz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +387,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Parzęczew",
                 "addr:postcode": "95-045",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -386,7 +406,8 @@
                 "addr:housenumber": "1/3",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -405,7 +426,8 @@
                 "addr:housenumber": "25C",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -424,7 +446,8 @@
                 "addr:housenumber": "23A",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -443,7 +466,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Ozorków",
                 "addr:postcode": "95-035",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -462,7 +486,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Głowno",
                 "addr:postcode": "95-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -481,7 +506,8 @@
                 "addr:housenumber": "45/47",
                 "addr:city": "Głowno",
                 "addr:postcode": "95-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -500,7 +526,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -519,7 +546,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Smardzew",
                 "addr:postcode": "95-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -538,7 +566,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -557,7 +586,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +606,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Ozorków",
                 "addr:postcode": "95-035",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -595,7 +626,8 @@
                 "addr:housenumber": "23A",
                 "addr:city": "Grotniki",
                 "addr:postcode": "95-073",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -614,7 +646,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Stryków",
                 "addr:postcode": "95-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -632,7 +665,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Głowno",
                 "addr:postcode": "95-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -651,7 +685,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -668,7 +703,8 @@
                 "addr:housenumber": "57",
                 "addr:postcode": "95-035",
                 "amenity": "pharmacy",
-                "addr:place": "Solca Wielka"
+                "addr:place": "Solca Wielka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -687,7 +723,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Ozorków",
                 "addr:postcode": "95-035",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -705,7 +742,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Gieczno",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -724,7 +762,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -743,7 +782,8 @@
                 "addr:housenumber": "39K",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -762,7 +802,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Ozorków",
                 "addr:postcode": "95-035",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -780,7 +821,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Stryków",
                 "addr:postcode": "95-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -799,7 +841,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Stryków",
                 "addr:postcode": "95-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -818,7 +861,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Ozorków",
                 "addr:postcode": "95-035",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -837,7 +881,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Stryków",
                 "addr:postcode": "95-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -856,7 +901,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -875,7 +921,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Głowno",
                 "addr:postcode": "95-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -894,7 +941,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -913,7 +961,8 @@
                 "addr:housenumber": "14A",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -931,7 +980,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -950,7 +1000,8 @@
                 "addr:housenumber": "42/44",
                 "addr:city": "Jedlicze A",
                 "addr:postcode": "95-073",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -969,7 +1020,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Zgierz",
                 "addr:postcode": "95-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -988,7 +1040,8 @@
                 "addr:housenumber": "2/4",
                 "addr:city": "Ozorków",
                 "addr:postcode": "95-035",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1007,7 +1060,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ozorków",
                 "addr:postcode": "95-035",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1026,7 +1080,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Bratoszewice",
                 "addr:postcode": "95-011",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1044,7 +1099,8 @@
                 "addr:housenumber": "32/34",
                 "addr:city": "Głowno",
                 "addr:postcode": "95-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1063,7 +1119,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Aleksandrów Łódzki",
                 "addr:postcode": "95-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1082,7 +1139,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Aleksandrów Łódzki",
                 "addr:postcode": "95-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1100,7 +1158,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Aleksandrów Łódzki",
                 "addr:postcode": "95-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1118,7 +1177,8 @@
                 "addr:housenumber": "69",
                 "addr:city": "Aleksandrów Łódzki",
                 "addr:postcode": "95-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1137,7 +1197,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Aleksandrów Łódzki",
                 "addr:postcode": "95-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1156,7 +1217,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Aleksandrów Łódzki",
                 "addr:postcode": "95-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1174,7 +1236,8 @@
                 "addr:housenumber": "39",
                 "addr:postcode": "95-070",
                 "amenity": "pharmacy",
-                "addr:place": "Bełdów"
+                "addr:place": "Bełdów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1193,7 +1256,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Aleksandrów Łódzki",
                 "addr:postcode": "95-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1212,7 +1276,8 @@
                 "addr:housenumber": "2/4",
                 "addr:city": "Aleksandrów Łódzki",
                 "addr:postcode": "95-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1230,7 +1295,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Rąbień",
                 "addr:postcode": "95-071",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1249,7 +1315,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Aleksandrów Łódzki",
                 "addr:postcode": "95-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1268,7 +1335,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Aleksandrów Łódzki",
                 "addr:postcode": "95-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1287,7 +1355,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Aleksandrów Łódzki",
                 "addr:postcode": "95-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

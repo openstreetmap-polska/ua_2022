@@ -10,7 +10,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Leśnica",
                 "addr:postcode": "47-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Strzelce Opolskie",
                 "addr:postcode": "47-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Strzelce Opolskie",
                 "addr:postcode": "47-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Strzelce Opolskie",
                 "addr:postcode": "47-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rozmierz",
                 "addr:postcode": "47-171",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Strzelce Opolskie",
                 "addr:postcode": "47-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Strzelce Opolskie",
                 "addr:postcode": "47-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Strzelce Opolskie",
                 "addr:postcode": "47-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Izbicko",
                 "addr:postcode": "47-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "36A",
                 "addr:city": "Strzelce Opolskie",
                 "addr:postcode": "47-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Strzelce Opolskie",
                 "addr:postcode": "47-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kadłub",
                 "addr:postcode": "47-175",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Strzelce Opolskie",
                 "addr:postcode": "47-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Strzelce Opolskie",
                 "addr:postcode": "47-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Leśnica",
                 "addr:postcode": "34-406",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "55",
                 "addr:city": "Zawadzkie",
                 "addr:postcode": "47-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Zawadzkie",
                 "addr:postcode": "47-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Zawadzkie",
                 "addr:postcode": "47-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "70",
                 "addr:city": "Zawadzkie",
                 "addr:postcode": "47-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +388,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Błotnica Strzelecka",
                 "addr:postcode": "47-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -388,7 +408,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Jemielnica",
                 "addr:postcode": "47-133",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +428,8 @@
                 "addr:housenumber": "13B",
                 "addr:city": "Ujazd",
                 "addr:postcode": "47-143",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +448,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Kielcza",
                 "addr:postcode": "47-126",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -445,7 +468,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Ujazd",
                 "addr:postcode": "47-143",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -464,7 +488,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Zawadzkie",
                 "addr:postcode": "47-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -483,7 +508,8 @@
                 "addr:housenumber": "14c",
                 "addr:city": "Jemielnica",
                 "addr:postcode": "47-133",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -502,7 +528,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Kolonowskie",
                 "addr:postcode": "47-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

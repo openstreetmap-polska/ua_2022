@@ -11,7 +11,8 @@
                 "addr:housenumber": "10 D",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "77",
                 "addr:postcode": "21-307",
                 "amenity": "pharmacy",
-                "addr:place": "Ulan Majorat"
+                "addr:place": "Ulan Majorat",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Komarówka Podlaska",
                 "addr:postcode": "21-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Wola Osowińska",
                 "addr:postcode": "21-147",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Czemierniki",
                 "addr:postcode": "21-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "119C",
                 "addr:postcode": "21-302",
                 "amenity": "pharmacy",
-                "addr:place": "Brzozowica Duża"
+                "addr:place": "Brzozowica Duża",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Komarówka Podlaska",
                 "addr:postcode": "21-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "110",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Wohyń",
                 "addr:postcode": "21-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +264,8 @@
                 "addr:housenumber": "56a",
                 "addr:postcode": "21-030",
                 "amenity": "pharmacy",
-                "addr:place": "Marynin"
+                "addr:place": "Marynin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -270,7 +284,8 @@
                 "addr:housenumber": "3a",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "111",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +342,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Kąkolewnica",
                 "addr:postcode": "21-302",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -344,7 +362,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -362,7 +381,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Borki",
                 "addr:postcode": "21-345",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +401,8 @@
                 "addr:housenumber": "111",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -399,7 +420,8 @@
                 "addr:housenumber": "48",
                 "addr:postcode": "21-310",
                 "amenity": "pharmacy",
-                "addr:place": "Kuraszew"
+                "addr:place": "Kuraszew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -416,7 +438,8 @@
                 "name": "Dział Farmacji Szpitalnej",
                 "addr:street": "35",
                 "addr:city": "Ustrzesz",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -435,7 +458,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -454,7 +478,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Czemierniki",
                 "addr:postcode": "21-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -473,7 +498,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Radzyń Podlaski",
                 "addr:postcode": "21-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -491,7 +517,8 @@
                 "addr:housenumber": "131D",
                 "addr:postcode": "21-302",
                 "amenity": "pharmacy",
-                "addr:place": "Polskowola"
+                "addr:place": "Polskowola",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

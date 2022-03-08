@@ -11,7 +11,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "LĄDEK",
                 "addr:postcode": "62-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "ORCHOWO",
                 "addr:postcode": "62-436",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "ZAGÓRÓW",
                 "addr:postcode": "62-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "53",
                 "addr:postcode": "62-410",
                 "amenity": "pharmacy",
-                "addr:place": "TRĄBCZYN"
+                "addr:place": "TRĄBCZYN",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "25A",
                 "addr:city": "POWIDZ",
                 "addr:postcode": "62-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "SŁUPCA",
                 "addr:postcode": "62-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "7D",
                 "addr:city": "SŁUPCA",
                 "addr:postcode": "62-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "ZAGÓRÓW",
                 "addr:postcode": "62-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "SŁUPCA",
                 "addr:postcode": "62-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "ORCHOWO",
                 "addr:postcode": "62-436",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "LĄDEK",
                 "addr:postcode": "62-406",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "51",
                 "addr:postcode": "62-400",
                 "amenity": "pharmacy",
-                "addr:place": "CIENIN ZABORNY"
+                "addr:place": "CIENIN ZABORNY",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "GIEWARTÓW",
                 "addr:postcode": "62-403",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "20A",
                 "addr:city": "SŁUPCA",
                 "addr:postcode": "62-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "SŁUPCA",
                 "addr:postcode": "62-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "SŁUPCA",
                 "addr:postcode": "62-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +325,8 @@
                 "addr:housenumber": "7",
                 "addr:postcode": "62-400",
                 "amenity": "pharmacy",
-                "addr:place": "Słupca"
+                "addr:place": "Słupca",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -328,7 +345,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Słupca",
                 "addr:postcode": "62-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -347,7 +365,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Zagórów",
                 "addr:postcode": "62-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -366,7 +385,8 @@
                 "addr:housenumber": "16a",
                 "addr:city": "Słupca",
                 "addr:postcode": "62-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -385,7 +405,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Giewartów",
                 "addr:postcode": "62-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -404,7 +425,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Ostrowite",
                 "addr:postcode": "62-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +445,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "STRZAŁKOWO",
                 "addr:postcode": "62-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -442,7 +465,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "STRZAŁKOWO",
                 "addr:postcode": "62-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -461,7 +485,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Strzałkowo",
                 "addr:postcode": "62-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

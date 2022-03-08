@@ -11,7 +11,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dalików",
                 "addr:postcode": "99-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "63",
                 "addr:postcode": "99-232",
                 "amenity": "pharmacy",
-                "addr:place": "Zadzim"
+                "addr:place": "Zadzim",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Pęczniew",
                 "addr:postcode": "99-235",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Uniejów",
                 "addr:postcode": "99-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Poddębice",
                 "addr:postcode": "99-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Uniejów",
                 "addr:postcode": "99-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wartkowice",
                 "addr:postcode": "99-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "18A",
                 "addr:city": "Poddębice",
                 "addr:postcode": "99-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Poddębice",
                 "addr:postcode": "99-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "37A",
                 "addr:city": "Poddębice",
                 "addr:postcode": "99-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Poddębice",
                 "addr:postcode": "99-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Poddębice",
                 "addr:postcode": "99-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "17/19",
                 "addr:city": "Poddębice",
                 "addr:postcode": "99-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Poddębice",
                 "addr:postcode": "99-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "22A",
                 "addr:city": "Poddębice",
                 "addr:postcode": "99-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Uniejów",
                 "addr:postcode": "99-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Uniejów",
                 "addr:postcode": "99-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +346,8 @@
                 "addr:housenumber": "34",
                 "addr:postcode": "99-200",
                 "amenity": "pharmacy",
-                "addr:place": "Niemysłów"
+                "addr:place": "Niemysłów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -10,7 +10,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Brwinów",
                 "addr:postcode": "05-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Brwinów",
                 "addr:postcode": "05-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Brwinów",
                 "addr:postcode": "05-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "27B",
                 "addr:city": "Owczarnia",
                 "addr:postcode": "05-807",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Janki",
                 "addr:postcode": "05-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Janki",
                 "addr:postcode": "05-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Falenty",
                 "addr:postcode": "05-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "27",
                 "addr:postcode": "26-010",
                 "amenity": "pharmacy",
-                "addr:place": "Stara Wieś"
+                "addr:place": "Stara Wieś",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kajetany",
                 "addr:postcode": "05-830",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Kajetany",
                 "addr:postcode": "05-830",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Łady",
                 "addr:postcode": "05-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "2/4",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Michałowice",
                 "addr:postcode": "05-816",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "16A",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Piastów",
                 "addr:postcode": "05-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "1D/98",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "2/4",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "2/4",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-802",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +388,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -406,7 +427,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Piastów",
                 "addr:postcode": "05-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +447,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Piastów",
                 "addr:postcode": "05-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -444,7 +467,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-803",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -463,7 +487,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -481,7 +506,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Brwinów",
                 "addr:postcode": "05-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -500,7 +526,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Brwinów",
                 "addr:postcode": "05-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -519,7 +546,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Komorów",
                 "addr:postcode": "05-806",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -538,7 +566,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-804",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -557,7 +586,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Piastów",
                 "addr:postcode": "05-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +606,8 @@
                 "addr:housenumber": "35A",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -594,7 +625,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Piastów",
                 "addr:postcode": "05-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -613,7 +645,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -632,7 +665,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Michałowice",
                 "addr:postcode": "05-816",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -650,7 +684,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Piastów",
                 "addr:postcode": "05-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -668,7 +703,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Piastów",
                 "addr:postcode": "05-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -686,7 +722,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -705,7 +742,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Komorów",
                 "addr:postcode": "05-806",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -724,7 +762,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Otrębusy",
                 "addr:postcode": "05-805",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -743,7 +782,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Brwinów",
                 "addr:postcode": "05-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -761,7 +801,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Brwinów",
                 "addr:postcode": "05-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -779,7 +820,8 @@
                 "addr:housenumber": "41A",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -798,7 +840,8 @@
                 "addr:housenumber": "20B",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-804",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -817,7 +860,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +880,8 @@
                 "addr:housenumber": "50A",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -855,7 +900,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-800",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -874,7 +920,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Pruszków",
                 "addr:postcode": "05-803",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -893,7 +940,8 @@
                 "addr:housenumber": "1E",
                 "addr:city": "Michałowice",
                 "addr:postcode": "05-816",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -912,7 +960,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Otrębusy",
                 "addr:postcode": "05-805",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -931,7 +980,8 @@
                 "addr:housenumber": "12A",
                 "addr:city": "Piastów",
                 "addr:postcode": "05-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -950,7 +1000,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Brwinów",
                 "addr:postcode": "05-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -969,7 +1020,8 @@
                 "addr:housenumber": "104",
                 "addr:city": "Granica",
                 "addr:postcode": "05-806",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -987,7 +1039,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Nadarzyn",
                 "addr:postcode": "05-830",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1005,7 +1058,8 @@
                 "addr:housenumber": "6B",
                 "addr:city": "Nadarzyn",
                 "addr:postcode": "05-830",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1024,7 +1078,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Nadarzyn",
                 "addr:postcode": "05-830",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1042,7 +1097,8 @@
                 "addr:housenumber": "62",
                 "addr:city": "Nadarzyn",
                 "addr:postcode": "05-830",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1061,7 +1117,8 @@
                 "addr:housenumber": "58A",
                 "addr:city": "Nadarzyn",
                 "addr:postcode": "05-830",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1080,7 +1137,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Kajetany",
                 "addr:postcode": "05-830",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1099,7 +1157,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Młochów",
                 "addr:postcode": "05-831",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1118,7 +1177,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Raszyn",
                 "addr:postcode": "05-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1137,7 +1197,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Raszyn",
                 "addr:postcode": "05-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1155,7 +1216,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Raszyn",
                 "addr:postcode": "05-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1174,7 +1236,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Raszyn",
                 "addr:postcode": "05-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1193,7 +1256,8 @@
                 "addr:housenumber": "11B",
                 "addr:city": "Dawidy",
                 "addr:postcode": "05-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1212,7 +1276,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Raszyn",
                 "addr:postcode": "05-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1231,7 +1296,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Raszyn",
                 "addr:postcode": "05-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

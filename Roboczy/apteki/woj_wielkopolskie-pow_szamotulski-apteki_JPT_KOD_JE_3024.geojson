@@ -10,7 +10,8 @@
                 "addr:housenumber": "10",
                 "addr:postcode": "64-550",
                 "amenity": "pharmacy",
-                "addr:place": "Duszniki"
+                "addr:place": "Duszniki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Otorowo",
                 "addr:postcode": "64-628",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "PNIEWY",
                 "addr:postcode": "62-045",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Pniewy",
                 "addr:postcode": "62-045",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Pniewy",
                 "addr:postcode": "62-045",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Pniewy",
                 "addr:postcode": "62-045",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Duszniki",
                 "addr:postcode": "64-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Ostroróg",
                 "addr:postcode": "64-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "22C",
                 "addr:city": "Pniewy",
                 "addr:postcode": "62-045",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Duszniki",
                 "addr:postcode": "64-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Duszniki",
                 "addr:postcode": "64-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Duszniki",
                 "addr:postcode": "64-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "SZAMOTUŁY",
                 "addr:postcode": "64-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "SZAMOTUŁY",
                 "addr:postcode": "64-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "16A",
                 "addr:city": "Szamotuły",
                 "addr:postcode": "64-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Szamotuły",
                 "addr:postcode": "64-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "SZAMOTUŁY",
                 "addr:postcode": "64-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Szamotuły",
                 "addr:postcode": "64-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Pamiątkowo",
                 "addr:postcode": "64-514",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +387,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Szamotuły",
                 "addr:postcode": "64-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Szamotuły",
                 "addr:postcode": "64-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -406,7 +427,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Kaźmierz",
                 "addr:postcode": "64-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +447,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "KAŹMIERZ",
                 "addr:postcode": "64-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -444,7 +467,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Kaźmierz",
                 "addr:postcode": "64-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -463,7 +487,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Szamotuły",
                 "addr:postcode": "64-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -482,7 +507,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Szamotuły",
                 "addr:postcode": "64-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -501,7 +527,8 @@
                 "addr:housenumber": "10E",
                 "addr:city": "Wronki",
                 "addr:postcode": "64-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -519,7 +546,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "WRONKI",
                 "addr:postcode": "64-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -538,7 +566,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Obrzycko",
                 "addr:postcode": "64-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -557,7 +586,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Wronki",
                 "addr:postcode": "64-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +606,8 @@
                 "addr:housenumber": "12A",
                 "addr:city": "Wronki",
                 "addr:postcode": "64-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -595,7 +626,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Wronki",
                 "addr:postcode": "64-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -614,7 +646,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wronki",
                 "addr:postcode": "64-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -633,7 +666,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Grzebienisko",
                 "addr:postcode": "64-553",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

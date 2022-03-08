@@ -11,7 +11,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "415",
                 "addr:postcode": "32-437",
                 "amenity": "pharmacy",
-                "addr:place": "Skomielna Czarna"
+                "addr:place": "Skomielna Czarna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Dobczyce",
                 "addr:postcode": "32-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "791",
                 "addr:postcode": "32-431",
                 "amenity": "pharmacy",
-                "addr:place": "Stróża"
+                "addr:place": "Stróża",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "1",
                 "addr:postcode": "32-432",
                 "amenity": "pharmacy",
-                "addr:place": "Pcim"
+                "addr:place": "Pcim",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sułkowice",
                 "addr:postcode": "32-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "925",
                 "addr:postcode": "32-442",
                 "amenity": "pharmacy",
-                "addr:place": "Krzywaczka"
+                "addr:place": "Krzywaczka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Dobczyce",
                 "addr:postcode": "32-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Dobczyce",
                 "addr:postcode": "32-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -174,7 +183,8 @@
                 "addr:housenumber": "317",
                 "addr:postcode": "32-412",
                 "amenity": "pharmacy",
-                "addr:place": "Wiśniowa"
+                "addr:place": "Wiśniowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -192,7 +202,8 @@
                 "addr:housenumber": "400",
                 "addr:postcode": "32-436",
                 "amenity": "pharmacy",
-                "addr:place": "Tokarnia"
+                "addr:place": "Tokarnia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -210,7 +221,8 @@
                 "addr:housenumber": "182",
                 "addr:postcode": "32-438",
                 "amenity": "pharmacy",
-                "addr:place": "Trzebunia"
+                "addr:place": "Trzebunia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -228,7 +240,8 @@
                 "addr:housenumber": "1238",
                 "addr:postcode": "32-447",
                 "amenity": "pharmacy",
-                "addr:place": "Siepraw"
+                "addr:place": "Siepraw",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -247,7 +260,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -265,7 +279,8 @@
                 "addr:housenumber": "581",
                 "addr:postcode": "32-425",
                 "amenity": "pharmacy",
-                "addr:place": "Trzemeśnia"
+                "addr:place": "Trzemeśnia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -283,7 +298,8 @@
                 "addr:housenumber": "615",
                 "addr:postcode": "32-432",
                 "amenity": "pharmacy",
-                "addr:place": "Pcim"
+                "addr:place": "Pcim",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -300,7 +316,8 @@
                 "addr:housenumber": "313",
                 "addr:postcode": "32-415",
                 "amenity": "pharmacy",
-                "addr:place": "Raciechowice"
+                "addr:place": "Raciechowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -318,7 +335,8 @@
                 "addr:housenumber": "2D",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -337,7 +355,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -356,7 +375,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Sułkowice",
                 "addr:postcode": "32-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -373,7 +393,8 @@
                 "addr:housenumber": "317",
                 "addr:postcode": "32-412",
                 "amenity": "pharmacy",
-                "addr:place": "Wiśniowa"
+                "addr:place": "Wiśniowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +412,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -409,7 +431,8 @@
                 "addr:housenumber": "782",
                 "addr:postcode": "32-447",
                 "amenity": "pharmacy",
-                "addr:place": "Siepraw"
+                "addr:place": "Siepraw",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -428,7 +451,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +470,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -464,7 +489,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Dobczyce",
                 "addr:postcode": "32-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -483,7 +509,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -502,7 +529,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -521,7 +549,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -539,7 +568,8 @@
                 "addr:housenumber": "321",
                 "addr:postcode": "32-415",
                 "amenity": "pharmacy",
-                "addr:place": "Raciechowice"
+                "addr:place": "Raciechowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -556,7 +586,8 @@
                 "addr:housenumber": "223",
                 "addr:postcode": "32-433",
                 "amenity": "pharmacy",
-                "addr:place": "Lubień"
+                "addr:place": "Lubień",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -575,7 +606,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -594,7 +626,8 @@
                 "addr:housenumber": "2E",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -613,7 +646,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Myślenice",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -632,7 +666,8 @@
                 "addr:housenumber": "6j",
                 "addr:city": "Dobczyce",
                 "addr:postcode": "32-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -650,7 +685,8 @@
                 "addr:housenumber": "77",
                 "addr:postcode": "32-444",
                 "amenity": "pharmacy",
-                "addr:place": "Głogoczów"
+                "addr:place": "Głogoczów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -669,7 +705,8 @@
                 "addr:housenumber": "16a",
                 "addr:city": "Dobczyce",
                 "addr:postcode": "32-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -688,7 +725,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dobczyce",
                 "addr:postcode": "32-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -705,7 +743,8 @@
                 "addr:housenumber": "391",
                 "addr:postcode": "32-434",
                 "amenity": "pharmacy",
-                "addr:place": "Skomielna Biała"
+                "addr:place": "Skomielna Biała",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

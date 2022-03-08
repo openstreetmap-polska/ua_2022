@@ -10,7 +10,8 @@
                 "addr:housenumber": "4B",
                 "addr:city": "Łekno",
                 "addr:postcode": "62-105",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "MIEŚCISKO",
                 "addr:postcode": "62-290",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "DAMASŁAWEK",
                 "addr:postcode": "62-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "74",
                 "addr:city": "WĄGROWIEC",
                 "addr:postcode": "62-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "59",
                 "addr:city": "Wągrowiec",
                 "addr:postcode": "62-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Wągrowiec",
                 "addr:postcode": "62-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Gołańcz",
                 "addr:postcode": "62-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "GOŁAŃCZ",
                 "addr:postcode": "62-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Wągrowiec",
                 "addr:postcode": "62-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "WĄGROWIEC",
                 "addr:postcode": "62-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "WĄGROWIEC",
                 "addr:postcode": "62-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Wągrowiec",
                 "addr:postcode": "62-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Wągrowiec",
                 "addr:postcode": "62-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Wapno",
                 "addr:postcode": "62-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Damasławek",
                 "addr:postcode": "62-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wągrowiec",
                 "addr:postcode": "62-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Wągrowiec",
                 "addr:postcode": "62-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +346,8 @@
                 "addr:housenumber": "4B",
                 "addr:city": "Skoki",
                 "addr:postcode": "62-085",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -348,7 +366,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Skoki",
                 "addr:postcode": "62-085",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +386,8 @@
                 "addr:housenumber": "3C",
                 "addr:city": "Skoki",
                 "addr:postcode": "62-085",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -385,7 +405,8 @@
                 "addr:housenumber": "55",
                 "addr:postcode": "62-100",
                 "amenity": "pharmacy",
-                "addr:place": "Żelice"
+                "addr:place": "Żelice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

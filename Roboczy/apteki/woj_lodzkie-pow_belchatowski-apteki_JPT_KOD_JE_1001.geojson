@@ -11,7 +11,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Zelów",
                 "addr:postcode": "97-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Zelów",
                 "addr:postcode": "97-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "82",
                 "addr:postcode": "97-403",
                 "amenity": "pharmacy",
-                "addr:place": "Wadlew"
+                "addr:place": "Wadlew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Zelów",
                 "addr:postcode": "97-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Zelów",
                 "addr:postcode": "97-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "18",
                 "addr:postcode": "97-403",
                 "amenity": "pharmacy",
-                "addr:place": "Drużbice"
+                "addr:place": "Drużbice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "82",
                 "addr:city": "Kleszczów",
                 "addr:postcode": "97-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Kleszczów",
                 "addr:postcode": "97-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "148I",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Szczerców",
                 "addr:postcode": "97-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Szczerców",
                 "addr:postcode": "97-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +388,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "51",
                 "addr:postcode": "97-415",
                 "amenity": "pharmacy",
-                "addr:place": "Kluki"
+                "addr:place": "Kluki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -406,7 +427,8 @@
                 "addr:housenumber": "93",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +447,8 @@
                 "addr:housenumber": "93/95",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -444,7 +467,8 @@
                 "addr:housenumber": "123",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -462,7 +486,8 @@
                 "addr:housenumber": "1A",
                 "addr:postcode": "97-420",
                 "amenity": "pharmacy",
-                "addr:place": "Dubie"
+                "addr:place": "Dubie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -481,7 +506,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -500,7 +526,8 @@
                 "addr:housenumber": "89",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -518,7 +545,8 @@
                 "addr:housenumber": "13",
                 "addr:postcode": "97-438",
                 "amenity": "pharmacy",
-                "addr:place": "Wola Wiązowa"
+                "addr:place": "Wola Wiązowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +565,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -556,7 +585,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Szczerców",
                 "addr:postcode": "97-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -574,7 +604,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Rusiec",
                 "addr:postcode": "97-438",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -593,7 +624,8 @@
                 "addr:housenumber": "69",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -612,7 +644,8 @@
                 "addr:housenumber": "123",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -631,7 +664,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -650,7 +684,8 @@
                 "addr:housenumber": "33B",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -669,7 +704,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -688,7 +724,8 @@
                 "addr:housenumber": "22A",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -707,7 +744,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -726,7 +764,8 @@
                 "addr:housenumber": "123",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -745,7 +784,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -764,7 +804,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -783,7 +824,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Szczerców",
                 "addr:postcode": "97-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -802,7 +844,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Rusiec",
                 "addr:postcode": "97-438",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -821,7 +864,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -840,7 +884,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Bełchatów",
                 "addr:postcode": "97-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

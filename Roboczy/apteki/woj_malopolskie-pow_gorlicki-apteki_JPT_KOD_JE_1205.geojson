@@ -9,7 +9,8 @@
                 "addr:housenumber": "419",
                 "addr:postcode": "38-331",
                 "amenity": "pharmacy",
-                "addr:place": "Szalowa"
+                "addr:place": "Szalowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "494",
                 "addr:postcode": "38-303",
                 "amenity": "pharmacy",
-                "addr:place": "Dominikowice"
+                "addr:place": "Dominikowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "55",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "185",
                 "addr:city": "Moszczenica",
                 "addr:postcode": "38-321",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "766",
                 "addr:postcode": "38-322",
                 "amenity": "pharmacy",
-                "addr:place": "Łużna"
+                "addr:place": "Łużna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "167A",
                 "addr:city": "Biecz",
                 "addr:postcode": "38-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Biecz",
                 "addr:postcode": "38-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Biecz",
                 "addr:postcode": "38-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +225,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bobowa",
                 "addr:postcode": "38-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "323",
                 "addr:postcode": "38-307",
                 "amenity": "pharmacy",
-                "addr:place": "Sękowa"
+                "addr:place": "Sękowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +264,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -269,7 +283,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "246",
                 "addr:postcode": "38-322",
                 "amenity": "pharmacy",
-                "addr:place": "Mszanka"
+                "addr:place": "Mszanka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -304,7 +320,8 @@
                 "addr:housenumber": "446",
                 "addr:postcode": "38-304",
                 "amenity": "pharmacy",
-                "addr:place": "Kryg"
+                "addr:place": "Kryg",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -321,7 +338,8 @@
                 "addr:housenumber": "44",
                 "addr:postcode": "38-305",
                 "amenity": "pharmacy",
-                "addr:place": "Lipinki"
+                "addr:place": "Lipinki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -338,7 +356,8 @@
                 "addr:housenumber": "652",
                 "addr:postcode": "38-306",
                 "amenity": "pharmacy",
-                "addr:place": "Libusza"
+                "addr:place": "Libusza",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -356,7 +375,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Bobowa",
                 "addr:postcode": "38-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -375,7 +395,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -393,7 +414,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -412,7 +434,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -431,7 +454,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -450,7 +474,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Bobowa",
                 "addr:postcode": "38-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -469,7 +494,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -488,7 +514,8 @@
                 "addr:housenumber": "51",
                 "addr:city": "Bobowa",
                 "addr:postcode": "38-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -506,7 +533,8 @@
                 "addr:housenumber": "207",
                 "addr:postcode": "38-333",
                 "amenity": "pharmacy",
-                "addr:place": "Zagórzany"
+                "addr:place": "Zagórzany",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -525,7 +553,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Biecz",
                 "addr:postcode": "38-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +572,8 @@
                 "addr:housenumber": "84",
                 "addr:postcode": "38-315",
                 "amenity": "pharmacy",
-                "addr:place": "Śnietnica"
+                "addr:place": "Śnietnica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -561,7 +591,8 @@
                 "addr:housenumber": "917",
                 "addr:postcode": "38-312",
                 "amenity": "pharmacy",
-                "addr:place": "Ropa"
+                "addr:place": "Ropa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -579,7 +610,8 @@
                 "addr:housenumber": "6E",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -596,7 +628,8 @@
                 "addr:housenumber": "149",
                 "addr:postcode": "38-316",
                 "amenity": "pharmacy",
-                "addr:place": "Wysowa-Zdrój"
+                "addr:place": "Wysowa-Zdrój",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +648,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -634,7 +668,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -653,7 +688,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -672,7 +708,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -690,7 +727,8 @@
                 "addr:housenumber": "522",
                 "addr:postcode": "38-305",
                 "amenity": "pharmacy",
-                "addr:place": "Lipinki"
+                "addr:place": "Lipinki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -707,7 +745,8 @@
                 "addr:housenumber": "680",
                 "addr:postcode": "38-312",
                 "amenity": "pharmacy",
-                "addr:place": "Ropa"
+                "addr:place": "Ropa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -724,7 +763,8 @@
                 "addr:housenumber": "155",
                 "addr:postcode": "38-315",
                 "amenity": "pharmacy",
-                "addr:place": "Uście Gorlickie"
+                "addr:place": "Uście Gorlickie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -743,7 +783,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -760,7 +801,8 @@
                 "addr:housenumber": "590",
                 "addr:postcode": "38-311",
                 "amenity": "pharmacy",
-                "addr:place": "Szymbark"
+                "addr:place": "Szymbark",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -778,7 +820,8 @@
                 "addr:housenumber": "98",
                 "addr:postcode": "38-316",
                 "amenity": "pharmacy",
-                "addr:place": "Wysowa-Zdrój"
+                "addr:place": "Wysowa-Zdrój",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -797,7 +840,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -816,7 +860,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Gorlice",
                 "addr:postcode": "38-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

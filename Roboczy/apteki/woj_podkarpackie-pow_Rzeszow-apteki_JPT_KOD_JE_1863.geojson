@@ -11,7 +11,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-045",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-017",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "132",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-301",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-045",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-201",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-073",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "60",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-301",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "8B",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-506",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-201",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-201",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-509",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-001",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +388,8 @@
                 "addr:housenumber": "48",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-308",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -388,7 +408,8 @@
                 "addr:housenumber": "88",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-604",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +428,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-312",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +447,8 @@
                 "addr:housenumber": "69",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -444,7 +467,8 @@
                 "addr:housenumber": "65",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -463,7 +487,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-064",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -482,7 +507,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -501,7 +527,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-055",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -520,7 +547,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-006",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -539,7 +567,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-118",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -558,7 +587,8 @@
                 "addr:housenumber": "51A",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -577,7 +607,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-508",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -596,7 +627,8 @@
                 "addr:housenumber": "6B",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-302",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -614,7 +646,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-301",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -632,7 +665,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-025",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -651,7 +685,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-115",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -670,7 +705,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-119",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -689,7 +725,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-021",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -708,7 +745,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -727,7 +765,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-604",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -746,7 +785,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-001",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -765,7 +805,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-001",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -784,7 +825,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-068",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -803,7 +845,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-082",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -822,7 +865,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-611",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -841,7 +885,8 @@
                 "addr:housenumber": "17F",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-068",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -860,7 +905,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-222",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -879,7 +925,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -898,7 +945,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-077",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -916,7 +964,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-026",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -934,7 +983,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-623",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -952,7 +1002,8 @@
                 "addr:housenumber": "22 A",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -970,7 +1021,8 @@
                 "addr:housenumber": "181",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-317",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -988,7 +1040,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1007,7 +1060,8 @@
                 "addr:housenumber": "76",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1026,7 +1080,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-11",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1045,7 +1100,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-241",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1064,7 +1120,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-055",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1140,8 @@
                 "addr:housenumber": "60",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-301",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1102,7 +1160,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-241",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1121,7 +1180,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-001",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1140,7 +1200,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-206",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1158,7 +1219,8 @@
                 "addr:housenumber": "33A",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-036",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1177,7 +1239,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1196,7 +1259,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1215,7 +1279,8 @@
                 "addr:housenumber": "21a",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1234,7 +1299,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-021",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1253,7 +1319,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-505",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1272,7 +1339,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-301",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1291,7 +1359,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-011",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1310,7 +1379,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1329,7 +1399,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1348,7 +1419,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1367,7 +1439,8 @@
                 "addr:housenumber": "8a",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-016",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1386,7 +1459,8 @@
                 "addr:housenumber": "60",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-036",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1405,7 +1479,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-233",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1424,7 +1499,8 @@
                 "addr:housenumber": "120",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1443,7 +1519,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1462,7 +1539,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-073",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1481,7 +1559,8 @@
                 "addr:housenumber": "51",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1500,7 +1579,8 @@
                 "addr:housenumber": "27F",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1519,7 +1599,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-036",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1538,7 +1619,8 @@
                 "addr:housenumber": "64",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-301",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1557,7 +1639,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1576,7 +1659,8 @@
                 "addr:housenumber": "181",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-317",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1595,7 +1679,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-201",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1613,7 +1698,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-323",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1632,7 +1718,8 @@
                 "addr:housenumber": "181",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-317",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1651,7 +1738,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-045",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1670,7 +1758,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-505",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1689,7 +1778,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-001",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1708,7 +1798,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1727,7 +1818,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-036",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1745,7 +1837,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-323",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1764,7 +1857,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-959",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1783,7 +1877,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-064",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1802,7 +1897,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1821,7 +1917,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-209",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1839,7 +1936,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-301",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1858,7 +1956,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-301",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1877,7 +1976,8 @@
                 "addr:housenumber": "20A",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1895,7 +1995,8 @@
                 "addr:housenumber": "22a",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-309",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1914,7 +2015,8 @@
                 "addr:housenumber": "6B",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-302",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1932,7 +2034,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1950,7 +2053,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1969,7 +2073,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1988,7 +2093,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-209",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2007,7 +2113,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2026,7 +2133,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-073",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2045,7 +2153,8 @@
                 "addr:housenumber": "433",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2064,7 +2173,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-241",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2083,7 +2193,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2102,7 +2213,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Rzeszów",
                 "addr:postcode": "35-309",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

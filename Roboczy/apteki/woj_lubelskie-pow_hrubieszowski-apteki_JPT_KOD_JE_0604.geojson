@@ -9,7 +9,8 @@
                 "addr:housenumber": "37",
                 "addr:postcode": "22-546",
                 "amenity": "pharmacy",
-                "addr:place": "Turkowice"
+                "addr:place": "Turkowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +27,8 @@
                 "addr:housenumber": "258",
                 "addr:postcode": "22-554",
                 "amenity": "pharmacy",
-                "addr:place": "Nieledew"
+                "addr:place": "Nieledew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -43,7 +45,8 @@
                 "addr:housenumber": "28",
                 "addr:postcode": "22-510",
                 "amenity": "pharmacy",
-                "addr:place": "Teratyn"
+                "addr:place": "Teratyn",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -61,7 +64,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Kryłów",
                 "addr:postcode": "22-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +83,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -97,7 +102,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Horodło",
                 "addr:postcode": "22-523",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -116,7 +122,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Werbkowice",
                 "addr:postcode": "22-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -135,7 +142,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -153,7 +161,8 @@
                 "addr:housenumber": "92",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +180,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -189,7 +199,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -207,7 +218,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +237,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Uchanie",
                 "addr:postcode": "22-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -244,7 +257,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Mircze",
                 "addr:postcode": "22-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -261,7 +275,8 @@
                 "addr:housenumber": "146",
                 "addr:postcode": "22-554",
                 "amenity": "pharmacy",
-                "addr:place": "Trzeszczany"
+                "addr:place": "Trzeszczany",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -279,7 +294,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -297,7 +313,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -314,7 +331,8 @@
                 "addr:housenumber": "134",
                 "addr:postcode": "22-500",
                 "amenity": "pharmacy",
-                "addr:place": "Dziekanów"
+                "addr:place": "Dziekanów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -333,7 +351,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Werbkowice",
                 "addr:postcode": "22-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +370,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +389,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -388,7 +409,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Strzyżów",
                 "addr:postcode": "22-523",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +429,8 @@
                 "addr:housenumber": "2a",
                 "addr:city": "Dołhobyczów",
                 "addr:postcode": "22-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +449,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "21-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -445,7 +469,8 @@
                 "addr:housenumber": "33A",
                 "addr:city": "Werbkowice",
                 "addr:postcode": "22-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -464,7 +489,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -483,7 +509,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -502,7 +529,8 @@
                 "addr:housenumber": "3c",
                 "addr:city": "Mircze",
                 "addr:postcode": "22-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -521,7 +549,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -540,7 +569,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Hrubieszów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

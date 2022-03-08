@@ -10,7 +10,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Tarnawatka",
                 "addr:postcode": "22-604",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "69",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "16a",
                 "addr:city": "Łaszczów",
                 "addr:postcode": "22-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +144,8 @@
                 "addr:housenumber": "85",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -155,7 +163,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +182,8 @@
                 "addr:housenumber": "134",
                 "addr:city": "Ulhówek",
                 "addr:postcode": "22-678",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -191,7 +201,8 @@
                 "addr:housenumber": "104",
                 "addr:city": "Rachanie",
                 "addr:postcode": "22-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -209,7 +220,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -228,7 +240,8 @@
                 "addr:housenumber": "2 A",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -247,7 +260,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -265,7 +279,8 @@
                 "addr:housenumber": "21",
                 "addr:postcode": "22-640",
                 "amenity": "pharmacy",
-                "addr:place": "Wożuczyn"
+                "addr:place": "Wożuczyn",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -283,7 +298,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Tyszowce",
                 "addr:postcode": "22-630",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -302,7 +318,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -320,7 +337,8 @@
                 "addr:housenumber": "27A",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -338,7 +356,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Jarczów",
                 "addr:postcode": "22-664",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -356,7 +375,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -374,7 +394,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -392,7 +413,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lubycza Królewska",
                 "addr:postcode": "22-680",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +432,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Tyszowce",
                 "addr:postcode": "22-630",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +452,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lubycza Królewska",
                 "addr:postcode": "22-680",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +470,8 @@
                 "addr:housenumber": "84 D",
                 "addr:postcode": "22-610",
                 "amenity": "pharmacy",
-                "addr:place": "Krynice"
+                "addr:place": "Krynice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -464,7 +489,8 @@
                 "addr:housenumber": "36 c",
                 "addr:city": "Bełżec",
                 "addr:postcode": "22-670",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -482,7 +508,8 @@
                 "addr:housenumber": "75",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -500,7 +527,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łaszczów",
                 "addr:postcode": "22-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -519,7 +547,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -538,7 +567,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -557,7 +587,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +607,8 @@
                 "addr:housenumber": "116 B",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -595,7 +627,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -614,7 +647,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Tomaszów Lubelski",
                 "addr:postcode": "22-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -633,7 +667,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Tyszowce",
                 "addr:postcode": "22-630",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -652,7 +687,8 @@
                 "addr:housenumber": "2 A",
                 "addr:city": "Susiec",
                 "addr:postcode": "22-672",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -670,7 +706,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Susiec",
                 "addr:postcode": "22-672",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -688,7 +725,8 @@
                 "addr:housenumber": "112A",
                 "addr:postcode": "22-672",
                 "amenity": "pharmacy",
-                "addr:place": "Majdan Sopocki Pierwszy"
+                "addr:place": "Majdan Sopocki Pierwszy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

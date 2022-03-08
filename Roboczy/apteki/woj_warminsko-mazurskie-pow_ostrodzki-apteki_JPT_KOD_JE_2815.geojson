@@ -11,7 +11,8 @@
                 "addr:housenumber": "9B",
                 "addr:city": "Dąbrówno",
                 "addr:postcode": "14-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Dąbrówno",
                 "addr:postcode": "14-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Morąg",
                 "addr:postcode": "14-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "OSTRÓDA",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "MAŁDYTY",
                 "addr:postcode": "14-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "5B",
                 "addr:city": "Miłakowo",
                 "addr:postcode": "14-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "MIŁOMŁYN",
                 "addr:postcode": "14-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "MIŁOMŁYN",
                 "addr:postcode": "14-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Morąg",
                 "addr:postcode": "14-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Morąg",
                 "addr:postcode": "14-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "15/II",
                 "addr:city": "OSTRÓDA",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +249,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Łukta",
                 "addr:postcode": "14-105",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "7",
                 "addr:postcode": "88-231",
                 "amenity": "pharmacy",
-                "addr:place": "Nowy Dwór"
+                "addr:place": "Nowy Dwór",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "MORĄG",
                 "addr:postcode": "14-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "42A",
                 "addr:city": "Morąg",
                 "addr:postcode": "14-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "MORĄG",
                 "addr:postcode": "14-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +388,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "OSTRÓDA",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -388,7 +408,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +428,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "OSTRÓDA",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +448,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "OSTRÓDA",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -445,7 +468,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "OSTRÓDA",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -463,7 +487,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -481,7 +506,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "OSTRÓDA",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -500,7 +526,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "MORĄG",
                 "addr:postcode": "14-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -519,7 +546,8 @@
                 "addr:housenumber": "3B",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -538,7 +566,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -557,7 +586,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +606,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łukta",
                 "addr:postcode": "14-105",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -595,7 +626,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Morąg",
                 "addr:postcode": "14-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -613,7 +645,8 @@
                 "addr:housenumber": "37A",
                 "addr:postcode": "14-100",
                 "amenity": "pharmacy",
-                "addr:place": "Samborowo"
+                "addr:place": "Samborowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -632,7 +665,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -651,7 +685,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Ostróda",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -668,7 +703,8 @@
                 "addr:housenumber": "57",
                 "addr:postcode": "14-107",
                 "amenity": "pharmacy",
-                "addr:place": "Gierzwałd"
+                "addr:place": "Gierzwałd",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -687,7 +723,8 @@
                 "addr:housenumber": "38C",
                 "addr:city": "Morąg",
                 "addr:postcode": "14-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

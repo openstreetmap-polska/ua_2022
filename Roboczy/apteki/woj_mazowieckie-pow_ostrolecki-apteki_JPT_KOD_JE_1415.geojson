@@ -9,7 +9,8 @@
                 "addr:housenumber": "21A",
                 "addr:postcode": "07-440",
                 "amenity": "pharmacy",
-                "addr:place": "Kunin"
+                "addr:place": "Kunin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Myszyniec",
                 "addr:postcode": "07-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "18A",
                 "addr:city": "Baranowo",
                 "addr:postcode": "06-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Myszyniec",
                 "addr:postcode": "07-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Myszyniec",
                 "addr:postcode": "07-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "40",
                 "addr:postcode": "07-431",
                 "amenity": "pharmacy",
-                "addr:place": "Czarnia"
+                "addr:place": "Czarnia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Baranowo",
                 "addr:postcode": "06-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +144,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Kadzidło",
                 "addr:postcode": "07-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -155,7 +163,8 @@
                 "addr:housenumber": "48",
                 "addr:city": "Lelis",
                 "addr:postcode": "07-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +182,8 @@
                 "addr:housenumber": "40A",
                 "addr:city": "Łyse",
                 "addr:postcode": "07-437",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -192,7 +202,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Czerwin",
                 "addr:postcode": "07-407",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -211,7 +222,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Czerwin",
                 "addr:postcode": "07-407",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -228,7 +240,8 @@
                 "addr:housenumber": "46B",
                 "addr:postcode": "07-437",
                 "amenity": "pharmacy",
-                "addr:place": "Zalas"
+                "addr:place": "Zalas",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -246,7 +259,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łyse",
                 "addr:postcode": "07-437",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -265,7 +279,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Kadzidło",
                 "addr:postcode": "07-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -284,7 +299,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Kadzidło",
                 "addr:postcode": "07-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -302,7 +318,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Goworowo",
                 "addr:postcode": "07-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -320,7 +337,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Goworowo",
                 "addr:postcode": "07-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -338,7 +356,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Olszewo-Borki",
                 "addr:postcode": "07-415",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -357,7 +376,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Rzekuń",
                 "addr:postcode": "07-411",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -376,7 +396,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Kadzidło",
                 "addr:postcode": "07-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -395,7 +416,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Nowa Wieś",
                 "addr:postcode": "07-416",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -413,7 +435,8 @@
                 "addr:housenumber": "4B",
                 "addr:city": "Troszyn",
                 "addr:postcode": "07-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

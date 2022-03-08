@@ -11,7 +11,8 @@
                 "addr:housenumber": "59",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "9D",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Chotomów",
                 "addr:postcode": "05-123",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Jabłonna",
                 "addr:postcode": "05-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "57A",
                 "addr:city": "Skrzeszew",
                 "addr:postcode": "05-124",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Chotomów",
                 "addr:postcode": "05-123",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "29A",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-119",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Jabłonna",
                 "addr:postcode": "05-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "6D",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +346,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -347,7 +365,8 @@
                 "addr:housenumber": "21B",
                 "addr:city": "Michałów-Reginów",
                 "addr:postcode": "05-119",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -366,7 +385,8 @@
                 "addr:housenumber": "106",
                 "addr:city": "Nieporęt",
                 "addr:postcode": "05-126",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -384,7 +404,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Nieporęt",
                 "addr:postcode": "05-126",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -403,7 +424,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Serock",
                 "addr:postcode": "05-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +443,8 @@
                 "addr:housenumber": "85",
                 "addr:city": "Wieliszew",
                 "addr:postcode": "05-135",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -440,7 +463,8 @@
                 "addr:housenumber": "66",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +483,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -478,7 +503,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -497,7 +523,8 @@
                 "addr:housenumber": "9B",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -516,7 +543,8 @@
                 "addr:housenumber": "11B",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -535,7 +563,8 @@
                 "addr:housenumber": "61A",
                 "addr:city": "Wieliszew",
                 "addr:postcode": "05-135",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -554,7 +583,8 @@
                 "addr:housenumber": "115",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-119",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -573,7 +603,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Wieliszew",
                 "addr:postcode": "05-135",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -592,7 +623,8 @@
                 "addr:housenumber": "53D",
                 "addr:city": "Serock",
                 "addr:postcode": "05-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -611,7 +643,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-119",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -630,7 +663,8 @@
                 "addr:housenumber": "72",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -648,7 +682,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Serock",
                 "addr:postcode": "05-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +702,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -686,7 +722,8 @@
                 "addr:housenumber": "279",
                 "addr:city": "Stanisławów Pierwszy",
                 "addr:postcode": "05-126",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -705,7 +742,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Serock",
                 "addr:postcode": "05-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -724,7 +762,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -743,7 +782,8 @@
                 "addr:housenumber": "31C",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -762,7 +802,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Jabłonna",
                 "addr:postcode": "05-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -781,7 +822,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Wieliszew",
                 "addr:postcode": "05-135",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -800,7 +842,8 @@
                 "addr:housenumber": "99",
                 "addr:city": "Łajski",
                 "addr:postcode": "05-119",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -819,7 +862,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Jabłonna",
                 "addr:postcode": "05-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -838,7 +882,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Chotomów",
                 "addr:postcode": "05-123",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -857,7 +902,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Legionowo",
                 "addr:postcode": "05-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -876,7 +922,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Serock",
                 "addr:postcode": "86-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

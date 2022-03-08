@@ -11,7 +11,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Gostynin",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Gostynin",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Gostynin",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Gostynin",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "29/1",
                 "addr:city": "Pacyna",
                 "addr:postcode": "09-541",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Gorzewo",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Gostynin",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Gostynin",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Gostynin",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Gostynin",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "31A",
                 "addr:city": "Gostynin",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "37A",
                 "addr:city": "Gostynin",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Szczawin Kościelny",
                 "addr:postcode": "09-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Gorzewo",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Gostynin",
                 "addr:postcode": "09-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "171",
                 "addr:city": "Sanniki",
                 "addr:postcode": "09-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "169",
                 "addr:city": "Sanniki",
                 "addr:postcode": "09-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "136",
                 "addr:city": "Sanniki",
                 "addr:postcode": "09-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -348,7 +366,8 @@
                 "addr:housenumber": "26",
                 "addr:postcode": "09-541",
                 "amenity": "pharmacy",
-                "addr:place": "Skrzeszewy"
+                "addr:place": "Skrzeszewy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

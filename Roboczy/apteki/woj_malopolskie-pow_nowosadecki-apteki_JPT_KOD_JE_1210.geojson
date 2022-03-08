@@ -11,7 +11,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Tęgoborze",
                 "addr:postcode": "33-312",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "377",
                 "addr:postcode": "33-314",
                 "amenity": "pharmacy",
-                "addr:place": "Łososina Dolna"
+                "addr:place": "Łososina Dolna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "406",
                 "addr:postcode": "33-316",
                 "amenity": "pharmacy",
-                "addr:place": "Rożnów"
+                "addr:place": "Rożnów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "54",
                 "addr:postcode": "33-318",
                 "amenity": "pharmacy",
-                "addr:place": "Gródek nad Dunajcem"
+                "addr:place": "Gródek nad Dunajcem",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "338",
                 "addr:postcode": "33-322",
                 "amenity": "pharmacy",
-                "addr:place": "Korzenna"
+                "addr:place": "Korzenna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "425",
                 "addr:postcode": "33-322",
                 "amenity": "pharmacy",
-                "addr:place": "Korzenna"
+                "addr:place": "Korzenna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "154",
                 "addr:city": "Tęgoborze",
                 "addr:postcode": "33-312",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -136,7 +143,8 @@
                 "addr:housenumber": "585",
                 "addr:postcode": "33-331",
                 "amenity": "pharmacy",
-                "addr:place": "Stróże"
+                "addr:place": "Stróże",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -154,7 +162,8 @@
                 "addr:housenumber": "622",
                 "addr:postcode": "33-331",
                 "amenity": "pharmacy",
-                "addr:place": "Stróże"
+                "addr:place": "Stróże",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -172,7 +181,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Grybów",
                 "addr:postcode": "33-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -190,7 +200,8 @@
                 "addr:housenumber": "527",
                 "addr:postcode": "33-326",
                 "amenity": "pharmacy",
-                "addr:place": "Paszyn"
+                "addr:place": "Paszyn",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -208,7 +219,8 @@
                 "addr:housenumber": "45",
                 "addr:postcode": "33-311",
                 "amenity": "pharmacy",
-                "addr:place": "Wielogłowy"
+                "addr:place": "Wielogłowy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -226,7 +238,8 @@
                 "addr:housenumber": "377",
                 "addr:postcode": "33-314",
                 "amenity": "pharmacy",
-                "addr:place": "Łososina Dolna"
+                "addr:place": "Łososina Dolna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -244,7 +257,8 @@
                 "addr:housenumber": "228",
                 "addr:postcode": "33-322",
                 "amenity": "pharmacy",
-                "addr:place": "Siedlce"
+                "addr:place": "Siedlce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -262,7 +276,8 @@
                 "addr:housenumber": "181",
                 "addr:postcode": "33-325",
                 "amenity": "pharmacy",
-                "addr:place": "Krużlowa Wyżna"
+                "addr:place": "Krużlowa Wyżna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -281,7 +296,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Grybów",
                 "addr:postcode": "33-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -299,7 +315,8 @@
                 "addr:housenumber": "253",
                 "addr:postcode": "33-336",
                 "amenity": "pharmacy",
-                "addr:place": "Łabowa"
+                "addr:place": "Łabowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -316,7 +333,8 @@
                 "addr:housenumber": "265",
                 "addr:postcode": "33-343",
                 "amenity": "pharmacy",
-                "addr:place": "Rytro"
+                "addr:place": "Rytro",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +352,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +370,8 @@
                 "addr:housenumber": "258",
                 "addr:postcode": "33-389",
                 "amenity": "pharmacy",
-                "addr:place": "Jazowsko"
+                "addr:place": "Jazowsko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +389,8 @@
                 "addr:housenumber": "426",
                 "addr:postcode": "33-386",
                 "amenity": "pharmacy",
-                "addr:place": "Podegrodzie"
+                "addr:place": "Podegrodzie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -388,7 +409,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Stary Sącz",
                 "addr:postcode": "33-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +429,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Grybów",
                 "addr:postcode": "33-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +449,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Chełmiec",
                 "addr:postcode": "33-395",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -445,7 +469,8 @@
                 "addr:housenumber": "142",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -464,7 +489,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Tylicz",
                 "addr:postcode": "33-383",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -483,7 +509,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Stary Sącz",
                 "addr:postcode": "33-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -501,7 +528,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Muszyna",
                 "addr:postcode": "33-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -520,7 +548,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +566,8 @@
                 "addr:housenumber": "396",
                 "addr:postcode": "33-386",
                 "amenity": "pharmacy",
-                "addr:place": "Brzezna"
+                "addr:place": "Brzezna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -556,7 +586,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Piwniczna-Zdrój",
                 "addr:postcode": "33-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -574,7 +605,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Grybów",
                 "addr:postcode": "33-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -592,7 +624,8 @@
                 "addr:housenumber": "270",
                 "addr:postcode": "38-330",
                 "amenity": "pharmacy",
-                "addr:place": "Stróże"
+                "addr:place": "Stróże",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -610,7 +643,8 @@
                 "addr:housenumber": "633",
                 "addr:postcode": "33-333",
                 "amenity": "pharmacy",
-                "addr:place": "Ptaszkowa"
+                "addr:place": "Ptaszkowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -627,7 +661,8 @@
                 "addr:housenumber": "254",
                 "addr:postcode": "33-332",
                 "amenity": "pharmacy",
-                "addr:place": "Florynka"
+                "addr:place": "Florynka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -645,7 +680,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Nawojowa",
                 "addr:postcode": "33-335",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -664,7 +700,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Grybów",
                 "addr:postcode": "33-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -683,7 +720,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Stary Sącz",
                 "addr:postcode": "33-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -702,7 +740,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Muszyna",
                 "addr:postcode": "33-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -721,7 +760,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -740,7 +780,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -759,7 +800,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -778,7 +820,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -795,7 +838,8 @@
                 "addr:housenumber": "422",
                 "addr:postcode": "33-342",
                 "amenity": "pharmacy",
-                "addr:place": "Barcice"
+                "addr:place": "Barcice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -814,7 +858,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Grybów",
                 "addr:postcode": "33-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -833,7 +878,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -850,7 +896,8 @@
                 "addr:housenumber": "1",
                 "addr:postcode": "33-390",
                 "amenity": "pharmacy",
-                "addr:place": "Łącko"
+                "addr:place": "Łącko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -868,7 +915,8 @@
                 "addr:housenumber": "10",
                 "addr:postcode": "33-394",
                 "amenity": "pharmacy",
-                "addr:place": "Chomranice"
+                "addr:place": "Chomranice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -886,7 +934,8 @@
                 "addr:housenumber": "541",
                 "addr:postcode": "33-343",
                 "amenity": "pharmacy",
-                "addr:place": "Rytro"
+                "addr:place": "Rytro",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -904,7 +953,8 @@
                 "addr:housenumber": "512",
                 "addr:postcode": "33-334",
                 "amenity": "pharmacy",
-                "addr:place": "Kamionka Wielka"
+                "addr:place": "Kamionka Wielka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -921,7 +971,8 @@
                 "addr:housenumber": "140",
                 "addr:postcode": "33-390",
                 "amenity": "pharmacy",
-                "addr:place": "Czarny Potok"
+                "addr:place": "Czarny Potok",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -940,7 +991,8 @@
                 "addr:housenumber": "83",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -959,7 +1011,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Nawojowa",
                 "addr:postcode": "33-335",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -978,7 +1031,8 @@
                 "addr:housenumber": "139",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -997,7 +1051,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Stary Sącz",
                 "addr:postcode": "33-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1015,7 +1070,8 @@
                 "addr:housenumber": "284",
                 "addr:postcode": "33-335",
                 "amenity": "pharmacy",
-                "addr:place": "Łabowa"
+                "addr:place": "Łabowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1034,7 +1090,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1052,7 +1109,8 @@
                 "addr:housenumber": "210",
                 "addr:postcode": "33-386",
                 "amenity": "pharmacy",
-                "addr:place": "Podegrodzie"
+                "addr:place": "Podegrodzie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1071,7 +1129,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Stary Sącz",
                 "addr:postcode": "33-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1089,7 +1148,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Piwniczna-Zdrój",
                 "addr:postcode": "33-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1107,7 +1167,8 @@
                 "addr:housenumber": "850",
                 "addr:postcode": "33-333",
                 "amenity": "pharmacy",
-                "addr:place": "Ptaszkowa"
+                "addr:place": "Ptaszkowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1125,7 +1186,8 @@
                 "addr:housenumber": "843",
                 "addr:postcode": "33-390",
                 "amenity": "pharmacy",
-                "addr:place": "Łącko"
+                "addr:place": "Łącko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1143,7 +1205,8 @@
                 "addr:housenumber": "963",
                 "addr:postcode": "33-390",
                 "amenity": "pharmacy",
-                "addr:place": "Łącko"
+                "addr:place": "Łącko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1162,7 +1225,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1181,7 +1245,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Krynica-Zdrój",
                 "addr:postcode": "33-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1199,7 +1264,8 @@
                 "addr:housenumber": "24",
                 "addr:postcode": "33-388",
                 "amenity": "pharmacy",
-                "addr:place": "Gołkowice Dolne"
+                "addr:place": "Gołkowice Dolne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1217,7 +1283,8 @@
                 "addr:housenumber": "645",
                 "addr:postcode": "33-386",
                 "amenity": "pharmacy",
-                "addr:place": "Brzezna"
+                "addr:place": "Brzezna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

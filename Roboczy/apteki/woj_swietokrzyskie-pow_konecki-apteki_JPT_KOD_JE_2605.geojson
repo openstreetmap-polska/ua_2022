@@ -10,7 +10,8 @@
                 "addr:housenumber": "33 A",
                 "addr:postcode": "26-234",
                 "amenity": "pharmacy",
-                "addr:place": "Słupia"
+                "addr:place": "Słupia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "3a",
                 "addr:city": "Radoszyce",
                 "addr:postcode": "26-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "FAŁKÓW",
                 "addr:postcode": "26-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Radoszyce",
                 "addr:postcode": "26-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "105",
                 "addr:city": "Czermno",
                 "addr:postcode": "26-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "99A",
                 "addr:postcode": "26-242",
                 "amenity": "pharmacy",
-                "addr:place": "Ruda Maleniecka"
+                "addr:place": "Ruda Maleniecka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +144,8 @@
                 "addr:housenumber": "52",
                 "addr:postcode": "26-220",
                 "amenity": "pharmacy",
-                "addr:place": "Krasna"
+                "addr:place": "Krasna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +164,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -193,7 +203,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Stąporków",
                 "addr:postcode": "26-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -211,7 +222,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -229,7 +241,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Stąporków",
                 "addr:postcode": "26-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +261,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +281,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -286,7 +301,8 @@
                 "addr:housenumber": "125C",
                 "addr:city": "Stąporków",
                 "addr:postcode": "26-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -305,7 +321,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +360,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "KOŃSKIE",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -360,7 +379,8 @@
                 "addr:housenumber": "91",
                 "addr:postcode": "26-212",
                 "amenity": "pharmacy",
-                "addr:place": "Smyków"
+                "addr:place": "Smyków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -379,7 +399,8 @@
                 "addr:housenumber": "89",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -398,7 +419,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -417,7 +439,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -436,7 +459,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -454,7 +478,8 @@
                 "addr:housenumber": "45A",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -473,7 +498,8 @@
                 "addr:housenumber": "41 B",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -492,7 +518,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Gowarczów",
                 "addr:postcode": "26-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -510,7 +537,8 @@
                 "addr:housenumber": "43",
                 "addr:postcode": "26-220",
                 "amenity": "pharmacy",
-                "addr:place": "Czarniecka Góra"
+                "addr:place": "Czarniecka Góra",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -529,7 +557,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Końskie",
                 "addr:postcode": "26-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -548,7 +577,8 @@
                 "addr:housenumber": "151",
                 "addr:city": "Stąporków",
                 "addr:postcode": "26-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -566,7 +596,8 @@
                 "addr:housenumber": "1A",
                 "addr:postcode": "26-225",
                 "amenity": "pharmacy",
-                "addr:place": "Ruda Białaczowska"
+                "addr:place": "Ruda Białaczowska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

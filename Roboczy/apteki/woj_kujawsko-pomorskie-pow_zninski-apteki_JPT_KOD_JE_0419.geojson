@@ -11,7 +11,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Gąsawa",
                 "addr:postcode": "88-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Żnin",
                 "addr:postcode": "88-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Rogowo",
                 "addr:postcode": "88-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Janowiec Wielkopolski",
                 "addr:postcode": "88-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "1F",
                 "addr:city": "Żnin",
                 "addr:postcode": "88-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Żnin",
                 "addr:postcode": "88-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Żnin",
                 "addr:postcode": "88-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Żnin",
                 "addr:postcode": "88-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Żnin",
                 "addr:postcode": "88-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "1c",
                 "addr:city": "Żnin",
                 "addr:postcode": "88-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Janowiec Wielkopolski",
                 "addr:postcode": "88-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "14B",
                 "addr:city": "Żnin",
                 "addr:postcode": "88-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Gąsawa",
                 "addr:postcode": "88-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +270,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Rogowo",
                 "addr:postcode": "88-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -276,7 +290,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Żnin",
                 "addr:postcode": "88-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -295,7 +310,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Łabiszyn",
                 "addr:postcode": "89-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -314,7 +330,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Barcin",
                 "addr:postcode": "88-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -333,7 +350,8 @@
                 "addr:housenumber": "1G",
                 "addr:city": "Barcin",
                 "addr:postcode": "88-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -352,7 +370,8 @@
                 "addr:housenumber": "43b",
                 "addr:city": "Barcin",
                 "addr:postcode": "88-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -371,7 +390,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łabiszyn",
                 "addr:postcode": "89-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -390,7 +410,8 @@
                 "addr:housenumber": "2D",
                 "addr:city": "Piechcin",
                 "addr:postcode": "88-192",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -409,7 +430,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Barcin",
                 "addr:postcode": "88-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -428,7 +450,8 @@
                 "addr:housenumber": "22a",
                 "addr:city": "Łabiszyn",
                 "addr:postcode": "89-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

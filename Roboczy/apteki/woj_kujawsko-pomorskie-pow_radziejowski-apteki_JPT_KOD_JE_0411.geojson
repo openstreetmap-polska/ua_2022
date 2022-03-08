@@ -10,7 +10,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Osięciny",
                 "addr:postcode": "88-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Osięciny",
                 "addr:postcode": "88-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "104",
                 "addr:postcode": "88-200",
                 "amenity": "pharmacy",
-                "addr:place": "Czołowo"
+                "addr:place": "Czołowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Osięciny",
                 "addr:postcode": "88-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Radziejów",
                 "addr:postcode": "88-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Radziejów",
                 "addr:postcode": "88-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Dobre",
                 "addr:postcode": "88-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Radziejów",
                 "addr:postcode": "88-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Radziejów",
                 "addr:postcode": "88-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Radziejów",
                 "addr:postcode": "88-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dobre",
                 "addr:postcode": "88-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Radziejów",
                 "addr:postcode": "88-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +249,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Osięciny",
                 "addr:postcode": "88-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Piotrków Kujawski",
                 "addr:postcode": "88-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Piotrków Kujawski",
                 "addr:postcode": "88-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +309,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Piotrków Kujawski",
                 "addr:postcode": "88-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "120",
                 "addr:postcode": "87-875",
                 "amenity": "pharmacy",
-                "addr:place": "Topólka"
+                "addr:place": "Topólka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Piotrków Kujawski",
                 "addr:postcode": "88-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -348,7 +366,8 @@
                 "addr:housenumber": "24",
                 "addr:postcode": "88-230",
                 "amenity": "pharmacy",
-                "addr:place": "Nowa Wieś"
+                "addr:place": "Nowa Wieś",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -366,7 +385,8 @@
                 "addr:housenumber": "51",
                 "addr:postcode": "88-231",
                 "amenity": "pharmacy",
-                "addr:place": "Bytoń"
+                "addr:place": "Bytoń",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Czersk",
                 "addr:postcode": "89-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "2D",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-604",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Czersk",
                 "addr:postcode": "89-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-604",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Konarzyny",
                 "addr:postcode": "89-607",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Leśno",
                 "addr:postcode": "89-634",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "89",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "18A",
                 "addr:city": "Rytel",
                 "addr:postcode": "89-642",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +270,8 @@
                 "addr:housenumber": "3B",
                 "addr:city": "Brusy",
                 "addr:postcode": "89-632",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -276,7 +290,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -295,7 +310,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "26A",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +349,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Brusy",
                 "addr:postcode": "89-632",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +369,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +389,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -389,7 +409,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -408,7 +429,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -427,7 +449,8 @@
                 "addr:housenumber": "7F",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-604",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +469,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -465,7 +489,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-604",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -484,7 +509,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -503,7 +529,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -522,7 +549,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Czersk",
                 "addr:postcode": "89-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -541,7 +569,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -560,7 +589,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -579,7 +609,8 @@
                 "addr:housenumber": "2 b",
                 "addr:city": "Lipienice",
                 "addr:postcode": "89-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -598,7 +629,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -617,7 +649,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Chojnice",
                 "addr:postcode": "89-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -636,7 +669,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Brusy",
                 "addr:postcode": "89-632",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

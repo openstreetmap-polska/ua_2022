@@ -11,7 +11,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Czerwińsk nad Wisłą",
                 "addr:postcode": "09-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "23A",
                 "addr:city": "Nacpolsk",
                 "addr:postcode": "09-162",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "12B/2",
                 "addr:postcode": "09-152",
                 "amenity": "pharmacy",
-                "addr:place": "Naruszewo"
+                "addr:place": "Naruszewo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "17C",
                 "addr:city": "Czerwińsk nad Wisłą",
                 "addr:postcode": "09-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "59B",
                 "addr:postcode": "09-142",
                 "amenity": "pharmacy",
-                "addr:place": "Załuski"
+                "addr:place": "Załuski",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -118,7 +124,8 @@
                 "addr:housenumber": "28",
                 "addr:postcode": "09-164",
                 "amenity": "pharmacy",
-                "addr:place": "Dzierzążnia"
+                "addr:place": "Dzierzążnia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -135,7 +142,8 @@
                 "addr:housenumber": "51",
                 "addr:postcode": "09-131",
                 "amenity": "pharmacy",
-                "addr:place": "Joniec"
+                "addr:place": "Joniec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -153,7 +161,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Sochocin",
                 "addr:postcode": "09-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +180,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -190,7 +200,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Raciąż",
                 "addr:postcode": "09-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -208,7 +219,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Raciąż",
                 "addr:postcode": "09-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -225,7 +237,8 @@
                 "addr:housenumber": "13",
                 "addr:postcode": "09-140",
                 "amenity": "pharmacy",
-                "addr:place": "Unieck"
+                "addr:place": "Unieck",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -243,7 +256,8 @@
                 "addr:housenumber": "23A",
                 "addr:postcode": "09-140",
                 "amenity": "pharmacy",
-                "addr:place": "Kraszewo-Czubaki"
+                "addr:place": "Kraszewo-Czubaki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -262,7 +276,8 @@
                 "addr:housenumber": "59",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -281,7 +296,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -300,7 +316,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -318,7 +335,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Nowe Miasto",
                 "addr:postcode": "09-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -336,7 +354,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +374,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -373,7 +393,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +412,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -409,7 +431,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -427,7 +450,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Baboszewo",
                 "addr:postcode": "09-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +470,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Raciąż",
                 "addr:postcode": "09-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -465,7 +490,8 @@
                 "addr:housenumber": "24B",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -484,7 +510,8 @@
                 "addr:housenumber": "75B",
                 "addr:city": "Nowe Miasto",
                 "addr:postcode": "09-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -503,7 +530,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -521,7 +549,8 @@
                 "addr:housenumber": "51",
                 "addr:postcode": "09-131",
                 "amenity": "pharmacy",
-                "addr:place": "Joniec"
+                "addr:place": "Joniec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -540,7 +569,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Płońsk",
                 "addr:postcode": "09-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -558,7 +588,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sochocin",
                 "addr:postcode": "09-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

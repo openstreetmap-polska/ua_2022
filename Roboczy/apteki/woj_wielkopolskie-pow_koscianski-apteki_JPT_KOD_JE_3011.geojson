@@ -10,7 +10,8 @@
                 "addr:housenumber": "117",
                 "addr:postcode": "64-010",
                 "amenity": "pharmacy",
-                "addr:place": "Bieżyń"
+                "addr:place": "Bieżyń",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "ŚMIGIEL",
                 "addr:postcode": "64-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Jerka",
                 "addr:postcode": "64-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Śmigiel",
                 "addr:postcode": "64-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "ŚMIGIEL",
                 "addr:postcode": "64-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "STARE BOJANOWO",
                 "addr:postcode": "64-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Śmigiel",
                 "addr:postcode": "64-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "25A",
                 "addr:city": "Krzywiń",
                 "addr:postcode": "64-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "44",
                 "addr:postcode": "64-030",
                 "amenity": "pharmacy",
-                "addr:place": "Wonieść"
+                "addr:place": "Wonieść",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Głuchowo",
                 "addr:postcode": "64-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Czempiń",
                 "addr:postcode": "64-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Czempiń",
                 "addr:postcode": "64-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "82C",
                 "addr:city": "KOŚCIAN",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "KOŚCIAN",
                 "addr:postcode": "64-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "53A",
                 "addr:city": "KOŚCIAN",
                 "addr:postcode": "64-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "KOŚCIAN",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "KOŚCIAN",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "12 E",
                 "addr:city": "KOŚCIAN",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Kościan",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +387,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Czempiń",
                 "addr:postcode": "64-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "CZEMPIŃ",
                 "addr:postcode": "64-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -406,7 +427,8 @@
                 "addr:housenumber": "51A",
                 "addr:city": "KOŚCIAN",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -424,7 +446,8 @@
                 "addr:housenumber": "74",
                 "addr:city": "KOŚCIAN",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -443,7 +466,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "KOŚCIAN",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -462,7 +486,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "KOŚCIAN",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -480,7 +505,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "KOŚCIAN",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -499,7 +525,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "KOŚCIAN",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -518,7 +545,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Kościan",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +565,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Kościan",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -556,7 +585,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Kościan",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -575,7 +605,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kościan",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -594,7 +625,8 @@
                 "addr:housenumber": "100",
                 "addr:city": "Kurza Góra",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -612,7 +644,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Racot",
                 "addr:postcode": "64-000",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "5c",
                 "addr:city": "Kłobuck",
                 "addr:postcode": "42-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Kamyk",
                 "addr:postcode": "42-125",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kamyk",
                 "addr:postcode": "42-125",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Kłobuck",
                 "addr:postcode": "42-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Kłobuck",
                 "addr:postcode": "42-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "5 B",
                 "addr:city": "Kłobuck",
                 "addr:postcode": "42-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "1F",
                 "addr:city": "Kłobuck",
                 "addr:postcode": "42-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Kłobuck",
                 "addr:postcode": "42-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "21",
                 "addr:postcode": "42-165",
                 "amenity": "pharmacy",
-                "addr:place": "Lipie"
+                "addr:place": "Lipie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "OSTROWY NAD OKSZĄ",
                 "addr:postcode": "42-122",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "PANKI",
                 "addr:postcode": "42-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "PANKI",
                 "addr:postcode": "42-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Parzymiechy",
                 "addr:postcode": "42-164",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +270,8 @@
                 "addr:housenumber": "73",
                 "addr:city": "Wąsosz Górny",
                 "addr:postcode": "42-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -276,7 +290,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Wręczyca Wielka",
                 "addr:postcode": "42-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -295,7 +310,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Wręczyca Wielka",
                 "addr:postcode": "42-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -314,7 +330,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "LINDÓW",
                 "addr:postcode": "42-166",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -333,7 +350,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "MIEDŹNO",
                 "addr:postcode": "42-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -352,7 +370,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "OPATÓW",
                 "addr:postcode": "42-152",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -371,7 +390,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "TRUSKOLASY",
                 "addr:postcode": "42-134",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -390,7 +410,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "ZAJĄCZKI DRUGIE",
                 "addr:postcode": "42-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -409,7 +430,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "ZAWADY",
                 "addr:postcode": "42-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -428,7 +450,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Truskolasy",
                 "addr:postcode": "42-134",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +469,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Złochowice",
                 "addr:postcode": "42-152",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -464,7 +488,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Kłobuck",
                 "addr:postcode": "42-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -483,7 +508,8 @@
                 "addr:housenumber": "91",
                 "addr:city": "Czarna Wieś",
                 "addr:postcode": "42-133",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -502,7 +528,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Kłobuck",
                 "addr:postcode": "42-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -521,7 +548,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Kłobuck",
                 "addr:postcode": "42-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -540,7 +568,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Krzepice",
                 "addr:postcode": "42-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -559,7 +588,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Krzepice",
                 "addr:postcode": "42-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -578,7 +608,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Krzepice",
                 "addr:postcode": "42-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -597,7 +628,8 @@
                 "addr:housenumber": "18A",
                 "addr:city": "MIEDŹNO",
                 "addr:postcode": "42-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -616,7 +648,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Przystajń",
                 "addr:postcode": "42-141",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -635,7 +668,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "PRZYSTAJŃ",
                 "addr:postcode": "42-141",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +688,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Truskolasy",
                 "addr:postcode": "42-134",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -673,7 +708,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Parzymiechy",
                 "addr:postcode": "42-164",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -691,7 +727,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Kłobuck",
                 "addr:postcode": "42-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -710,7 +747,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Popów",
                 "addr:postcode": "42-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -729,7 +767,8 @@
                 "addr:housenumber": "9a",
                 "addr:city": "Ługi-Radły",
                 "addr:postcode": "42-142",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -748,7 +787,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Rębielice Królewskie",
                 "addr:postcode": "42-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -766,7 +806,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Starokrzepice",
                 "addr:postcode": "42-161",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -785,7 +826,8 @@
                 "addr:housenumber": "209",
                 "addr:city": "Starokrzepice",
                 "addr:postcode": "42-161",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -804,7 +846,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Przystajń",
                 "addr:postcode": "42-141",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +866,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Krzepice",
                 "addr:postcode": "42-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -842,7 +886,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Krzepice",
                 "addr:postcode": "42-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -861,7 +906,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Kłobuck",
                 "addr:postcode": "42-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -879,7 +925,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Krzepice",
                 "addr:postcode": "42-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -898,7 +945,8 @@
                 "addr:housenumber": "55",
                 "addr:city": "Kalej",
                 "addr:postcode": "42-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -917,7 +965,8 @@
                 "addr:housenumber": "31B",
                 "addr:city": "Kłobuck",
                 "addr:postcode": "42-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -934,7 +983,8 @@
                 "addr:housenumber": "32",
                 "addr:postcode": "42-133",
                 "amenity": "pharmacy",
-                "addr:place": "Puszczew"
+                "addr:place": "Puszczew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -952,7 +1002,8 @@
                 "addr:housenumber": "44",
                 "addr:postcode": "42-160",
                 "amenity": "pharmacy",
-                "addr:place": "Zajączki Pierwsze"
+                "addr:place": "Zajączki Pierwsze",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -971,7 +1022,8 @@
                 "addr:housenumber": "24C",
                 "addr:city": "Kalej",
                 "addr:postcode": "42-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

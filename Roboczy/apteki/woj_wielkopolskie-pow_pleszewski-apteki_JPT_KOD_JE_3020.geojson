@@ -11,7 +11,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "PLESZEW",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "PLESZEW",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "20A",
                 "addr:city": "PLESZEW",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "PLESZEW",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "DOBRZYCA",
                 "addr:postcode": "63-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "36A",
                 "addr:postcode": "63-300",
                 "amenity": "pharmacy",
-                "addr:place": "SOWINA BŁOTNA"
+                "addr:place": "SOWINA BŁOTNA",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "125A",
                 "addr:city": "PLESZEW",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "17",
                 "addr:postcode": "63-304",
                 "amenity": "pharmacy",
-                "addr:place": "CZERMIN"
+                "addr:place": "CZERMIN",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "GIZAŁKI",
                 "addr:postcode": "63-308",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "DOBRZYCA",
                 "addr:postcode": "63-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "PLESZEW",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +225,8 @@
                 "addr:housenumber": "125 A",
                 "addr:city": "Pleszew",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -233,7 +245,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Pleszew",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -252,7 +265,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "PLESZEW",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -271,7 +285,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "PLESZEW",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +305,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "PLESZEW",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +325,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "PLESZEW",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -328,7 +345,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "PLESZEW",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -347,7 +365,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Pleszew",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -366,7 +385,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Pleszew",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -385,7 +405,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Pleszew",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -404,7 +425,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "CHOCZ",
                 "addr:postcode": "63-313",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +445,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "GOŁUCHÓW",
                 "addr:postcode": "63-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

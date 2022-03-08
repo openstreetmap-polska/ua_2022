@@ -9,7 +9,8 @@
                 "addr:housenumber": "53",
                 "addr:postcode": "96-206",
                 "amenity": "pharmacy",
-                "addr:place": "Kaleń"
+                "addr:place": "Kaleń",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Rawa Mazowiecka",
                 "addr:postcode": "96-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "3BC",
                 "addr:city": "Rawa Mazowiecka",
                 "addr:postcode": "96-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "68",
                 "addr:city": "Rawa Mazowiecka",
                 "addr:postcode": "96-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Rawa Mazowiecka",
                 "addr:postcode": "96-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "3",
                 "addr:postcode": "96-230",
                 "amenity": "pharmacy",
-                "addr:place": "Dańków"
+                "addr:place": "Dańków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "86",
                 "addr:postcode": "96-232",
                 "amenity": "pharmacy",
-                "addr:place": "Regnów"
+                "addr:place": "Regnów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Biała Rawska",
                 "addr:postcode": "96-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Biała Rawska",
                 "addr:postcode": "96-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Rawa Mazowiecka",
                 "addr:postcode": "96-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "32B",
                 "addr:city": "Biała Rawska",
                 "addr:postcode": "96-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Rawa Mazowiecka",
                 "addr:postcode": "96-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rawa Mazowiecka",
                 "addr:postcode": "96-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Rawa Mazowiecka",
                 "addr:postcode": "96-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "55",
                 "addr:city": "Biała Rawska",
                 "addr:postcode": "96-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

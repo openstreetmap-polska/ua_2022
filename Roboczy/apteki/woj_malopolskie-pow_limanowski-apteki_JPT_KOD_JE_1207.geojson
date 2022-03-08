@@ -11,7 +11,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "61B",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "482",
                 "addr:postcode": "34-650",
                 "amenity": "pharmacy",
-                "addr:place": "Tymbark"
+                "addr:place": "Tymbark",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "157",
                 "addr:postcode": "34-652",
                 "amenity": "pharmacy",
-                "addr:place": "Nowe Rybie"
+                "addr:place": "Nowe Rybie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "419",
                 "addr:postcode": "34-602",
                 "amenity": "pharmacy",
-                "addr:place": "Laskowa"
+                "addr:place": "Laskowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -230,7 +242,8 @@
                 "addr:housenumber": "717",
                 "addr:postcode": "34-602",
                 "amenity": "pharmacy",
-                "addr:place": "Laskowa"
+                "addr:place": "Laskowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +322,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "597",
                 "addr:postcode": "34-615",
                 "amenity": "pharmacy",
-                "addr:place": "Słopnice"
+                "addr:place": "Słopnice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +360,8 @@
                 "addr:housenumber": "888",
                 "addr:postcode": "34-615",
                 "amenity": "pharmacy",
-                "addr:place": "Słopnice"
+                "addr:place": "Słopnice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -360,7 +379,8 @@
                 "addr:housenumber": "215",
                 "addr:postcode": "34-650",
                 "amenity": "pharmacy",
-                "addr:place": "Tymbark"
+                "addr:place": "Tymbark",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -379,7 +399,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Limanowa",
                 "addr:postcode": "34-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +418,8 @@
                 "addr:housenumber": "426",
                 "addr:postcode": "34-642",
                 "amenity": "pharmacy",
-                "addr:place": "Dobra"
+                "addr:place": "Dobra",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -415,7 +437,8 @@
                 "addr:housenumber": "180",
                 "addr:postcode": "34-620",
                 "amenity": "pharmacy",
-                "addr:place": "Jodłownik"
+                "addr:place": "Jodłownik",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -434,7 +457,8 @@
                 "addr:housenumber": "4C",
                 "addr:city": "Mszana Dolna",
                 "addr:postcode": "34-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -453,7 +477,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Mszana Dolna",
                 "addr:postcode": "34-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +497,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Mszana Dolna",
                 "addr:postcode": "34-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -490,7 +516,8 @@
                 "addr:housenumber": "734",
                 "addr:postcode": "34-642",
                 "amenity": "pharmacy",
-                "addr:place": "Dobra"
+                "addr:place": "Dobra",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -508,7 +535,8 @@
                 "addr:housenumber": "188",
                 "addr:postcode": "34-623",
                 "amenity": "pharmacy",
-                "addr:place": "Szczyrzyc"
+                "addr:place": "Szczyrzyc",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -526,7 +554,8 @@
                 "addr:housenumber": "259",
                 "addr:postcode": "34-620",
                 "amenity": "pharmacy",
-                "addr:place": "Jodłownik"
+                "addr:place": "Jodłownik",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -544,7 +573,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Mszana Dolna",
                 "addr:postcode": "34-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -562,7 +592,8 @@
                 "addr:housenumber": "617",
                 "addr:postcode": "34-734",
                 "amenity": "pharmacy",
-                "addr:place": "Kasinka Mała"
+                "addr:place": "Kasinka Mała",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -580,7 +611,8 @@
                 "addr:housenumber": "107",
                 "addr:postcode": "34-623",
                 "amenity": "pharmacy",
-                "addr:place": "Szczyrzyc"
+                "addr:place": "Szczyrzyc",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -598,7 +630,8 @@
                 "addr:housenumber": "49",
                 "addr:postcode": "34-621",
                 "amenity": "pharmacy",
-                "addr:place": "Krasne-Lasocice"
+                "addr:place": "Krasne-Lasocice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +648,8 @@
                 "addr:housenumber": "279",
                 "addr:postcode": "34-625",
                 "amenity": "pharmacy",
-                "addr:place": "Skrzydlna"
+                "addr:place": "Skrzydlna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -633,7 +667,8 @@
                 "addr:housenumber": "546",
                 "addr:postcode": "34-741",
                 "amenity": "pharmacy",
-                "addr:place": "Kasina Wielka"
+                "addr:place": "Kasina Wielka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -651,7 +686,8 @@
                 "addr:housenumber": "536",
                 "addr:postcode": "34-654",
                 "amenity": "pharmacy",
-                "addr:place": "Męcina"
+                "addr:place": "Męcina",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -668,7 +704,8 @@
                 "addr:housenumber": "2",
                 "addr:postcode": "34-603",
                 "amenity": "pharmacy",
-                "addr:place": "Ujanowice"
+                "addr:place": "Ujanowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -686,7 +723,8 @@
                 "addr:housenumber": "880",
                 "addr:postcode": "34-654",
                 "amenity": "pharmacy",
-                "addr:place": "Męcina"
+                "addr:place": "Męcina",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -704,7 +742,8 @@
                 "addr:housenumber": "8",
                 "addr:postcode": "34-606",
                 "amenity": "pharmacy",
-                "addr:place": "Łukowica"
+                "addr:place": "Łukowica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -722,7 +761,8 @@
                 "addr:housenumber": "46A",
                 "addr:postcode": "34-608",
                 "amenity": "pharmacy",
-                "addr:place": "Kamienica"
+                "addr:place": "Kamienica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -740,7 +780,8 @@
                 "addr:housenumber": "425",
                 "addr:postcode": "34-607",
                 "amenity": "pharmacy",
-                "addr:place": "Szczawa"
+                "addr:place": "Szczawa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -758,7 +799,8 @@
                 "addr:housenumber": "283",
                 "addr:postcode": "34-606",
                 "amenity": "pharmacy",
-                "addr:place": "Łukowica"
+                "addr:place": "Łukowica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -776,7 +818,8 @@
                 "addr:housenumber": "353",
                 "addr:postcode": "34-735",
                 "amenity": "pharmacy",
-                "addr:place": "Niedźwiedź"
+                "addr:place": "Niedźwiedź",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -795,7 +838,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Mszana Dolna",
                 "addr:postcode": "34-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -812,7 +856,8 @@
                 "addr:housenumber": "723",
                 "addr:postcode": "34-608",
                 "amenity": "pharmacy",
-                "addr:place": "Kamienica"
+                "addr:place": "Kamienica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -829,7 +874,8 @@
                 "addr:housenumber": "407",
                 "addr:postcode": "34-604",
                 "amenity": "pharmacy",
-                "addr:place": "Przyszowa"
+                "addr:place": "Przyszowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -846,7 +892,8 @@
                 "addr:housenumber": "52A",
                 "addr:postcode": "34-643",
                 "amenity": "pharmacy",
-                "addr:place": "Jurków"
+                "addr:place": "Jurków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -865,7 +912,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Mszana Dolna",
                 "addr:postcode": "34-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -883,7 +931,8 @@
                 "addr:housenumber": "218",
                 "addr:postcode": "34-730",
                 "amenity": "pharmacy",
-                "addr:place": "Raba Niżna"
+                "addr:place": "Raba Niżna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -901,7 +950,8 @@
                 "addr:housenumber": "573",
                 "addr:postcode": "34-733",
                 "amenity": "pharmacy",
-                "addr:place": "Mszana Górna"
+                "addr:place": "Mszana Górna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -918,7 +968,8 @@
                 "addr:housenumber": "693",
                 "addr:postcode": "34-735",
                 "amenity": "pharmacy",
-                "addr:place": "Niedźwiedź"
+                "addr:place": "Niedźwiedź",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -937,7 +988,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Mszana Dolna",
                 "addr:postcode": "34-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -955,7 +1007,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Mszana Dolna",
                 "addr:postcode": "34-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -973,7 +1026,8 @@
                 "addr:housenumber": "533",
                 "addr:postcode": "34-606",
                 "amenity": "pharmacy",
-                "addr:place": "Łukowica"
+                "addr:place": "Łukowica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

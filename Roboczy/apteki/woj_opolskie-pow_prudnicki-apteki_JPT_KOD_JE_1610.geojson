@@ -10,7 +10,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Biała",
                 "addr:postcode": "48-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Biała",
                 "addr:postcode": "48-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Głogówek",
                 "addr:postcode": "48-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Głogówek",
                 "addr:postcode": "48-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łącznik",
                 "addr:postcode": "48-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Prudnik",
                 "addr:postcode": "48-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Prudnik",
                 "addr:postcode": "48-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Prudnik",
                 "addr:postcode": "48-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Prudnik",
                 "addr:postcode": "48-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "29A",
                 "addr:postcode": "48-217",
                 "amenity": "pharmacy",
-                "addr:place": "Gostomia"
+                "addr:place": "Gostomia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Biała",
                 "addr:postcode": "48-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "15a",
                 "addr:city": "Głogówek",
                 "addr:postcode": "48-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "2a",
                 "addr:city": "Biała",
                 "addr:postcode": "48-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Głogówek",
                 "addr:postcode": "48-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Prudnik",
                 "addr:postcode": "48-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Prudnik",
                 "addr:postcode": "48-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Prudnik",
                 "addr:postcode": "48-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +344,8 @@
                 "addr:housenumber": "186A",
                 "addr:postcode": "48-250",
                 "amenity": "pharmacy",
-                "addr:place": "Biedrzychowice"
+                "addr:place": "Biedrzychowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -346,7 +364,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Prudnik",
                 "addr:postcode": "48-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -365,7 +384,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Prudnik",
                 "addr:postcode": "48-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -384,7 +404,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Głogówek",
                 "addr:postcode": "48-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "8B",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "1C",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "OBORNIKI WIELKOPOLSKIE",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "11G",
                 "addr:postcode": "64-600",
                 "amenity": "pharmacy",
-                "addr:place": "Bogdanowo"
+                "addr:place": "Bogdanowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "68",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "78",
                 "addr:city": "Oborniki",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "RYCZYWÓŁ",
                 "addr:postcode": "64-630",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Rogoźno",
                 "addr:postcode": "64-610",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Rogoźno",
                 "addr:postcode": "64-610",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +387,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "ROGOŹNO",
                 "addr:postcode": "64-610",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Rogoźno",
                 "addr:postcode": "64-610",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -406,7 +427,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Ryczywół",
                 "addr:postcode": "64-630",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -424,7 +446,8 @@
                 "addr:housenumber": "71",
                 "addr:postcode": "64-603",
                 "amenity": "pharmacy",
-                "addr:place": "Ludomy"
+                "addr:place": "Ludomy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -442,7 +465,8 @@
                 "addr:housenumber": "99",
                 "addr:postcode": "64-608",
                 "amenity": "pharmacy",
-                "addr:place": "Parkowo"
+                "addr:place": "Parkowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

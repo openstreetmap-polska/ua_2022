@@ -10,7 +10,8 @@
                 "addr:housenumber": "109F",
                 "addr:postcode": "59-524",
                 "amenity": "pharmacy",
-                "addr:place": "Pielgrzymka"
+                "addr:place": "Pielgrzymka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "4a",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "56A",
                 "addr:postcode": "59-516",
                 "amenity": "pharmacy",
-                "addr:place": "Zagrodno"
+                "addr:place": "Zagrodno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "59-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "62a",
                 "addr:postcode": "59-516",
                 "amenity": "pharmacy",
-                "addr:place": "Zagrodno"
+                "addr:place": "Zagrodno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Złotoryja",
                 "addr:postcode": "70-785",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Świerzawa",
                 "addr:postcode": "59-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "95",
                 "addr:city": "Wojcieszów",
                 "addr:postcode": "59-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -10,7 +10,8 @@
                 "addr:housenumber": "65",
                 "addr:city": "Jedlicze",
                 "addr:postcode": "38-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "53",
                 "addr:postcode": "38-420",
                 "amenity": "pharmacy",
-                "addr:place": "Kombornia"
+                "addr:place": "Kombornia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Jedlicze",
                 "addr:postcode": "38-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Korczyna",
                 "addr:postcode": "38-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Korczyna",
                 "addr:postcode": "38-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Korczyna",
                 "addr:postcode": "38-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "323",
                 "addr:postcode": "38-460",
                 "amenity": "pharmacy",
-                "addr:place": "Jaszczew"
+                "addr:place": "Jaszczew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Krościenko Wyżne",
                 "addr:postcode": "38-422",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Odrzykoń",
                 "addr:postcode": "38-406",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Jedlicze",
                 "addr:postcode": "38-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "31c",
                 "addr:postcode": "38-471",
                 "amenity": "pharmacy",
-                "addr:place": "Wojaszówka"
+                "addr:place": "Wojaszówka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Rymanów Zdrój",
                 "addr:postcode": "38-481",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -230,7 +242,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Iwonicz Zdrój",
                 "addr:postcode": "38-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Iwonicz Zdrój",
                 "addr:postcode": "38-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Dukla",
                 "addr:postcode": "38-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Dukla",
                 "addr:postcode": "38-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -305,7 +321,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Iwonicz",
                 "addr:postcode": "38-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -323,7 +340,8 @@
                 "addr:housenumber": "57",
                 "addr:postcode": "38-459",
                 "amenity": "pharmacy",
-                "addr:place": "Kopytowa"
+                "addr:place": "Kopytowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -341,7 +359,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Rogi",
                 "addr:postcode": "38-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -360,7 +379,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Rymanów-Zdrój",
                 "addr:postcode": "38-481",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -378,7 +398,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Targowiska",
                 "addr:postcode": "38-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +418,8 @@
                 "addr:housenumber": "12a",
                 "addr:city": "Wróblik Szlachecki",
                 "addr:postcode": "38-523",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -415,7 +437,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Iwonicz-Zdrój",
                 "addr:postcode": "38-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -434,7 +457,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Miejsce Piastowe",
                 "addr:postcode": "38-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -452,7 +476,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Iwonicz-Zdrój",
                 "addr:postcode": "38-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -471,7 +496,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dukla",
                 "addr:postcode": "38-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -490,7 +516,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Dukla",
                 "addr:postcode": "38-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -509,7 +536,8 @@
                 "addr:housenumber": "2b",
                 "addr:city": "Głowienka",
                 "addr:postcode": "38-455",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -528,7 +556,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Iwonicz-Zdrój",
                 "addr:postcode": "38-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -545,7 +574,8 @@
                 "addr:housenumber": "313",
                 "addr:postcode": "38-462",
                 "amenity": "pharmacy",
-                "addr:place": "Kobylany"
+                "addr:place": "Kobylany",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -563,7 +593,8 @@
                 "addr:housenumber": "291a",
                 "addr:postcode": "38-441",
                 "amenity": "pharmacy",
-                "addr:place": "Lubatowa"
+                "addr:place": "Lubatowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -581,7 +612,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Łężany",
                 "addr:postcode": "38-423",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -599,7 +631,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Miejsce Piastowe",
                 "addr:postcode": "38-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -618,7 +651,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rymanów",
                 "addr:postcode": "38-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -636,7 +670,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Rymanów",
                 "addr:postcode": "38-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -655,7 +690,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Rymanów-Zdrój",
                 "addr:postcode": "38-521",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -674,7 +710,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Zręcin",
                 "addr:postcode": "38-457",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +730,8 @@
                 "addr:housenumber": "18a",
                 "addr:city": "Zręcin",
                 "addr:postcode": "38-457",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -710,7 +748,8 @@
                 "addr:housenumber": "2",
                 "addr:postcode": "38-525",
                 "amenity": "pharmacy",
-                "addr:place": "Jaśliska"
+                "addr:place": "Jaśliska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -729,7 +768,8 @@
                 "addr:housenumber": "5a",
                 "addr:city": "Rymanów",
                 "addr:postcode": "38-480",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -748,7 +788,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Dukla",
                 "addr:postcode": "38-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -766,7 +807,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Iwonicz-Zdrój",
                 "addr:postcode": "38-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -785,7 +827,8 @@
                 "addr:housenumber": "92a",
                 "addr:city": "Iwonicz",
                 "addr:postcode": "38-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -802,7 +845,8 @@
                 "addr:housenumber": "30",
                 "addr:postcode": "38-451",
                 "amenity": "pharmacy",
-                "addr:place": "Równe"
+                "addr:place": "Równe",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -820,7 +864,8 @@
                 "addr:housenumber": "83",
                 "addr:postcode": "38-456",
                 "amenity": "pharmacy",
-                "addr:place": "Łęki Dukielskie"
+                "addr:place": "Łęki Dukielskie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -839,7 +884,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Iwonicz-Zdrój",
                 "addr:postcode": "38-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

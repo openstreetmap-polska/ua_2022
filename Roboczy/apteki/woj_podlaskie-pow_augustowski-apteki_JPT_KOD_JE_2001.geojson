@@ -9,7 +9,8 @@
                 "addr:housenumber": "54",
                 "addr:postcode": "16-304",
                 "amenity": "pharmacy",
-                "addr:place": "Nowinka"
+                "addr:place": "Nowinka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lipsk",
                 "addr:postcode": "16-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "53D",
                 "addr:postcode": "16-326",
                 "amenity": "pharmacy",
-                "addr:place": "Płaska"
+                "addr:place": "Płaska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "51",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "55",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -193,7 +203,8 @@
                 "addr:housenumber": "12C",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Lipsk",
                 "addr:postcode": "16-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -230,7 +242,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -305,7 +321,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +360,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Sztabin",
                 "addr:postcode": "16-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +380,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +400,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -399,7 +420,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Bargłów Kościelny",
                 "addr:postcode": "16-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -418,7 +440,8 @@
                 "addr:housenumber": "8c",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -437,7 +460,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -456,7 +480,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Augustów",
                 "addr:postcode": "16-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -475,7 +500,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Lipsk",
                 "addr:postcode": "16-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

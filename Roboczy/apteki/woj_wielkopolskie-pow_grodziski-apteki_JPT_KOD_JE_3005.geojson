@@ -11,7 +11,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Jabłonna",
                 "addr:postcode": "64-308",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Grodzisk Wielkopolski",
                 "addr:postcode": "62-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Grodzisk Wielkopolski",
                 "addr:postcode": "62-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Grodzisk Wielkopolski",
                 "addr:postcode": "62-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Grodzisk Wielkopolski",
                 "addr:postcode": "62-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Kamieniec",
                 "addr:postcode": "64-061",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Grodzisk Wielkopolski",
                 "addr:postcode": "62-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Grodzisk Wielkopolski",
                 "addr:postcode": "62-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Grodzisk Wielkopolski",
                 "addr:postcode": "62-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rakoniewice",
                 "addr:postcode": "62-067",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Grodzisk Wielkopolski",
                 "addr:postcode": "62-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "111",
                 "addr:city": "Grodzisk Wielkopolski",
                 "addr:postcode": "62-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +249,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Kamieniec",
                 "addr:postcode": "64-061",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Rakoniewice",
                 "addr:postcode": "62-067",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Grodzisk Wielkopolski",
                 "addr:postcode": "62-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +309,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Rakoniewice",
                 "addr:postcode": "62-067",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Rostarzewo",
                 "addr:postcode": "62-068",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +349,8 @@
                 "addr:housenumber": "13A",
                 "addr:city": "Rakoniewice",
                 "addr:postcode": "62-067",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +369,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Wielichowo",
                 "addr:postcode": "64-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +389,8 @@
                 "addr:housenumber": "46B",
                 "addr:city": "Grodzisk Wielkopolski",
                 "addr:postcode": "62-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -389,7 +409,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Wielichowo",
                 "addr:postcode": "64-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +428,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Rakoniewice",
                 "addr:postcode": "62-067",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +448,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Granowo",
                 "addr:postcode": "62-066",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -445,7 +468,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Granowo",
                 "addr:postcode": "62-066",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

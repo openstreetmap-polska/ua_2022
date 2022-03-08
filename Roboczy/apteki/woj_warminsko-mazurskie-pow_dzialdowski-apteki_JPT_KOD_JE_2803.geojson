@@ -11,7 +11,8 @@
                 "addr:housenumber": "2E",
                 "addr:city": "Stare Dłutowo",
                 "addr:postcode": "13-203",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "68",
                 "addr:postcode": "13-214",
                 "amenity": "pharmacy",
-                "addr:place": "Ruszkowo"
+                "addr:place": "Ruszkowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "21A",
                 "addr:city": "Działdowo",
                 "addr:postcode": "13-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "9A",
                 "addr:city": "Działdowo",
                 "addr:postcode": "13-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "42F",
                 "addr:city": "Lidzbark",
                 "addr:postcode": "13-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Płośnica",
                 "addr:postcode": "13-206",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "60",
                 "addr:city": "Rybno",
                 "addr:postcode": "13-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +144,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "DZIAŁDOWO",
                 "addr:postcode": "13-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +164,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lidzbark",
                 "addr:postcode": "13-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Działdowo",
                 "addr:postcode": "13-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Lidzbark",
                 "addr:postcode": "13-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Działdowo",
                 "addr:postcode": "13-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Iłowo-Osada",
                 "addr:postcode": "13-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Działdowo",
                 "addr:postcode": "13-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -269,7 +283,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Działdowo",
                 "addr:postcode": "13-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -288,7 +303,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Działdowo",
                 "addr:postcode": "13-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +322,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Iłowo-Osada",
                 "addr:postcode": "13-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +342,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Lidzbark",
                 "addr:postcode": "13-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +361,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Lidzbark",
                 "addr:postcode": "13-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -362,7 +381,8 @@
                 "addr:housenumber": "13D",
                 "addr:city": "Działdowo",
                 "addr:postcode": "13-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +400,8 @@
                 "addr:housenumber": "92",
                 "addr:postcode": "13-206",
                 "amenity": "pharmacy",
-                "addr:place": "Niechłonin"
+                "addr:place": "Niechłonin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -399,7 +420,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Działdowo",
                 "addr:postcode": "13-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -418,7 +440,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Działdowo",
                 "addr:postcode": "13-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -437,7 +460,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Lidzbark",
                 "addr:postcode": "13-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -454,7 +478,8 @@
                 "addr:housenumber": "124",
                 "addr:postcode": "13-200",
                 "amenity": "pharmacy",
-                "addr:place": "Kisiny"
+                "addr:place": "Kisiny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -473,7 +498,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Działdowo",
                 "addr:postcode": "13-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

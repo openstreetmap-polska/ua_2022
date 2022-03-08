@@ -11,7 +11,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Kowalewo Pomorskie",
                 "addr:postcode": "87-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kowalewo Pomorskie",
                 "addr:postcode": "87-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "30A",
                 "addr:city": "Golub-Dobrzyń",
                 "addr:postcode": "87-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "86",
                 "addr:postcode": "87-423",
                 "amenity": "pharmacy",
-                "addr:place": "Wrocki"
+                "addr:place": "Wrocki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Golub-Dobrzyń",
                 "addr:postcode": "87-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Golub-Dobrzyń",
                 "addr:postcode": "87-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Golub-Dobrzyń",
                 "addr:postcode": "87-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "1E",
                 "addr:city": "Golub-Dobrzyń",
                 "addr:postcode": "87-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "176",
                 "addr:postcode": "87-408",
                 "amenity": "pharmacy",
-                "addr:place": "Ciechocin"
+                "addr:place": "Ciechocin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Kowalewo Pomorskie",
                 "addr:postcode": "87-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Golub-Dobrzyń",
                 "addr:postcode": "87-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Golub-Dobrzyń",
                 "addr:postcode": "87-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "10",
                 "addr:postcode": "87-404",
                 "amenity": "pharmacy",
-                "addr:place": "Radomin"
+                "addr:place": "Radomin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -252,7 +265,8 @@
                 "addr:housenumber": "149",
                 "addr:postcode": "87-645",
                 "amenity": "pharmacy",
-                "addr:place": "Zbójno"
+                "addr:place": "Zbójno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -269,7 +283,8 @@
                 "addr:housenumber": "3",
                 "addr:postcode": "87-410",
                 "amenity": "pharmacy",
-                "addr:place": "Wielkie Rychnowo"
+                "addr:place": "Wielkie Rychnowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

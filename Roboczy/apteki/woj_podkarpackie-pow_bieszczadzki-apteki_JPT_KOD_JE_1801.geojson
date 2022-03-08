@@ -10,7 +10,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Ustrzyki Dolne",
                 "addr:postcode": "38-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ustrzyki Dolne",
                 "addr:postcode": "38-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Ustrzyki Dolne",
                 "addr:postcode": "38-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Ustrzyki Dolne",
                 "addr:postcode": "38-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "75",
                 "addr:postcode": "38-710",
                 "amenity": "pharmacy",
-                "addr:place": "Czarna Górna"
+                "addr:place": "Czarna Górna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "83",
                 "addr:postcode": "38-713",
                 "amenity": "pharmacy",
-                "addr:place": "Lutowiska"
+                "addr:place": "Lutowiska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Ustrzyki Dolne",
                 "addr:postcode": "38-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Ustrzyki Dolne",
                 "addr:postcode": "38-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Ustrzyki Dolne",
                 "addr:postcode": "38-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

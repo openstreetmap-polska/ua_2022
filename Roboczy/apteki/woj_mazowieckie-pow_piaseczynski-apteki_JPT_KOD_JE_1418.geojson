@@ -11,7 +11,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mysiadło",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Nowa Wola",
                 "addr:postcode": "05-506",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Góra Kalwaria",
                 "addr:postcode": "05-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "97C",
                 "addr:city": "Góra Kalwaria",
                 "addr:postcode": "05-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Tarczyn",
                 "addr:postcode": "05-555",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Tarczyn",
                 "addr:postcode": "05-555",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Góra Kalwaria",
                 "addr:postcode": "05-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Henryków-Urocze",
                 "addr:postcode": "05-504",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +249,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "44B",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -348,7 +366,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-501",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +386,8 @@
                 "addr:housenumber": "76A",
                 "addr:city": "Prażmów",
                 "addr:postcode": "05-505",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -386,7 +406,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łazy",
                 "addr:postcode": "05-552",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -405,7 +426,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Józefosław",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -424,7 +446,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -442,7 +465,8 @@
                 "addr:housenumber": "3F",
                 "addr:city": "Wólka Kosowska",
                 "addr:postcode": "05-552",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -461,7 +485,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -480,7 +505,8 @@
                 "addr:housenumber": "55",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -499,7 +525,8 @@
                 "addr:housenumber": "12/14",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -518,7 +545,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +565,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -556,7 +585,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -573,7 +603,8 @@
                 "addr:housenumber": "14",
                 "addr:postcode": "05-530",
                 "amenity": "pharmacy",
-                "addr:place": "Sobików"
+                "addr:place": "Sobików",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -592,7 +623,8 @@
                 "addr:housenumber": "8/10",
                 "addr:city": "Tarczyn",
                 "addr:postcode": "05-555",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -611,7 +643,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Łazy",
                 "addr:postcode": "05-552",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -630,7 +663,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -649,7 +683,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wólka Kosowska",
                 "addr:postcode": "05-552",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -668,7 +703,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -686,7 +722,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Łubna",
                 "addr:postcode": "05-532",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -704,7 +741,8 @@
                 "addr:housenumber": "5",
                 "addr:postcode": "05-532",
                 "amenity": "pharmacy",
-                "addr:place": "Szymanów"
+                "addr:place": "Szymanów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -723,7 +761,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -742,7 +781,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -761,7 +801,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -779,7 +820,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -798,7 +840,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Mroków",
                 "addr:postcode": "05-552",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -817,7 +860,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Zalesie Górne",
                 "addr:postcode": "05-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +880,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Góra Kalwaria",
                 "addr:postcode": "05-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -855,7 +900,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Ustanów",
                 "addr:postcode": "05-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -874,7 +920,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -893,7 +940,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -911,7 +959,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -930,7 +979,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Baniocha",
                 "addr:postcode": "05-532",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -949,7 +999,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -968,7 +1019,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -986,7 +1038,8 @@
                 "addr:housenumber": "2/4",
                 "addr:city": "Góra Kalwaria",
                 "addr:postcode": "05-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1004,7 +1057,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1022,7 +1076,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1041,7 +1096,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1059,7 +1115,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1078,7 +1135,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1097,7 +1155,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1116,7 +1175,8 @@
                 "addr:housenumber": "88J",
                 "addr:city": "Julianów",
                 "addr:postcode": "05-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1135,7 +1195,8 @@
                 "addr:housenumber": "14C",
                 "addr:city": "Zamienie",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1153,7 +1214,8 @@
                 "addr:housenumber": "20F",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1172,7 +1234,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Tarczyn",
                 "addr:postcode": "05-555",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1191,7 +1254,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Zalesie Górne",
                 "addr:postcode": "05-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1210,7 +1274,8 @@
                 "addr:housenumber": "94",
                 "addr:city": "Bielawa",
                 "addr:postcode": "05-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1228,7 +1293,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Góra Kalwaria",
                 "addr:postcode": "05-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1247,7 +1313,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1266,7 +1333,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bielawa",
                 "addr:postcode": "05-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1285,7 +1353,8 @@
                 "addr:housenumber": "63",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1304,7 +1373,8 @@
                 "addr:housenumber": "65",
                 "addr:city": "Góra Kalwaria",
                 "addr:postcode": "05-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1323,7 +1393,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1342,7 +1413,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1361,7 +1433,8 @@
                 "addr:housenumber": "7/9",
                 "addr:city": "Konstancin-Jeziorna",
                 "addr:postcode": "05-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1380,7 +1453,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1399,7 +1473,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1418,7 +1493,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Ławki",
                 "addr:postcode": "05-505",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1437,7 +1513,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Stara Iwiczna",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1456,7 +1533,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Magdalenka",
                 "addr:postcode": "05-506",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1474,7 +1552,8 @@
                 "addr:housenumber": "275",
                 "addr:city": "Magdalenka",
                 "addr:postcode": "05-506",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1493,7 +1572,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Piaseczno",
                 "addr:postcode": "05-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

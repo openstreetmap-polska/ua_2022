@@ -10,7 +10,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Brok",
                 "addr:postcode": "07-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "16A",
                 "addr:city": "Zaręby Kościelne",
                 "addr:postcode": "07-323",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Boguty Pianki",
                 "addr:postcode": "07-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Nur",
                 "addr:postcode": "07-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Małkinia Górna",
                 "addr:postcode": "07-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "65",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Małkinia Górna",
                 "addr:postcode": "07-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "112",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -269,7 +283,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -288,7 +303,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Andrzejewo",
                 "addr:postcode": "07-305",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Małkinia Górna",
                 "addr:postcode": "07-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -326,7 +343,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -344,7 +362,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Szulborze Wielkie",
                 "addr:postcode": "07-324",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -363,7 +382,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -382,7 +402,8 @@
                 "addr:housenumber": "20A",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -401,7 +422,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +442,8 @@
                 "addr:housenumber": "68",
                 "addr:city": "Ostrów Mazowiecka",
                 "addr:postcode": "07-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -437,7 +460,8 @@
                 "addr:housenumber": "165",
                 "addr:postcode": "07-319",
                 "amenity": "pharmacy",
-                "addr:place": "Prostyń"
+                "addr:place": "Prostyń",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -455,7 +479,8 @@
                 "addr:housenumber": "29/1",
                 "addr:city": "Jasienica",
                 "addr:postcode": "07-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +497,8 @@
                 "addr:housenumber": "31",
                 "addr:postcode": "07-302",
                 "amenity": "pharmacy",
-                "addr:place": "Jelonki"
+                "addr:place": "Jelonki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -491,7 +517,8 @@
                 "addr:housenumber": "39A",
                 "addr:city": "Wąsewo",
                 "addr:postcode": "07-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -508,7 +535,8 @@
                 "addr:housenumber": "42",
                 "addr:postcode": "07-303",
                 "amenity": "pharmacy",
-                "addr:place": "Stary Lubotyń"
+                "addr:place": "Stary Lubotyń",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

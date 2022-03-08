@@ -10,7 +10,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Kobylanka",
                 "addr:postcode": "73-108",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "9A-G",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "81",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Ińsko",
                 "addr:postcode": "73-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "30-48",
                 "addr:city": "Dobrzany",
                 "addr:postcode": "73-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "6c",
                 "addr:city": "Stargard",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "74",
                 "addr:city": "Chociwel",
                 "addr:postcode": "73-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +249,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "7U",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +309,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "30c",
                 "addr:postcode": "73-112",
                 "amenity": "pharmacy",
-                "addr:place": "Stara Dąbrowa"
+                "addr:place": "Stara Dąbrowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "12a",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Suchań",
                 "addr:postcode": "73-132",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +387,8 @@
                 "addr:housenumber": "1c",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -406,7 +427,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +447,8 @@
                 "addr:housenumber": "21a",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -444,7 +467,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -463,7 +487,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Stargard",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -482,7 +507,8 @@
                 "addr:housenumber": "3a",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -501,7 +527,8 @@
                 "addr:housenumber": "73",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -520,7 +547,8 @@
                 "addr:housenumber": "25A",
                 "addr:city": "Ińsko",
                 "addr:postcode": "73-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -539,7 +567,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -558,7 +587,8 @@
                 "addr:housenumber": "24c",
                 "addr:city": "Dobrzany",
                 "addr:postcode": "73-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -577,7 +607,8 @@
                 "addr:housenumber": "2c",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -596,7 +627,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +647,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -634,7 +667,8 @@
                 "addr:housenumber": "22c",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -653,7 +687,8 @@
                 "addr:housenumber": "21a",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -672,7 +707,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Marianowo",
                 "addr:postcode": "73-121",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -691,7 +727,8 @@
                 "addr:housenumber": "\"8, 10\"",
                 "addr:city": "Stargard Szczeciński",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -710,7 +747,8 @@
                 "addr:housenumber": "64b",
                 "addr:city": "Chociwel",
                 "addr:postcode": "73-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -729,7 +767,8 @@
                 "addr:housenumber": "A17",
                 "addr:city": "Stargard",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -748,7 +787,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Dolice",
                 "addr:postcode": "73-115",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -767,7 +807,8 @@
                 "addr:housenumber": "90",
                 "addr:city": "Stargard",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -786,7 +827,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Stargard",
                 "addr:postcode": "73-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

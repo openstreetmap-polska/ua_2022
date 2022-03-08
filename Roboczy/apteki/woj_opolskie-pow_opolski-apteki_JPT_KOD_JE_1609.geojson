@@ -11,7 +11,8 @@
                 "addr:housenumber": "1b",
                 "addr:city": "Prószków",
                 "addr:postcode": "46-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Daniec",
                 "addr:postcode": "46-053",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Nakło",
                 "addr:postcode": "46-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Górki",
                 "addr:postcode": "46-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Tarnów Opolski",
                 "addr:postcode": "46-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Zimnice Wielkie",
                 "addr:postcode": "46-061",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Tułowice",
                 "addr:postcode": "49-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Tarnów Opolski",
                 "addr:postcode": "46-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Tułowice",
                 "addr:postcode": "49-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Chróścice",
                 "addr:postcode": "46-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "2 B",
                 "addr:city": "Chrząstowice",
                 "addr:postcode": "46-053",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Dobrzeń Wielki",
                 "addr:postcode": "46-081",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -233,7 +245,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Kup",
                 "addr:postcode": "46-082",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -252,7 +265,8 @@
                 "addr:housenumber": "70a",
                 "addr:city": "Łubniany",
                 "addr:postcode": "46-024",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -271,7 +285,8 @@
                 "addr:housenumber": "30B",
                 "addr:city": "Niemodlin",
                 "addr:postcode": "49-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Niemodlin",
                 "addr:postcode": "49-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -308,7 +324,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Zawada",
                 "addr:postcode": "46-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +344,8 @@
                 "addr:housenumber": "36a",
                 "addr:city": "Dąbrowa",
                 "addr:postcode": "49-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -345,7 +363,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Kadłub Turawski",
                 "addr:postcode": "46-046",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -364,7 +383,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Luboszyce",
                 "addr:postcode": "46-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +403,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Żelazna",
                 "addr:postcode": "49-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -402,7 +423,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Stare Siołkowice",
                 "addr:postcode": "46-083",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +443,8 @@
                 "addr:housenumber": "2a",
                 "addr:city": "Komprachcice",
                 "addr:postcode": "46-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -440,7 +463,8 @@
                 "addr:housenumber": "25-26",
                 "addr:city": "Niemodlin",
                 "addr:postcode": "49-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +483,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Jełowa",
                 "addr:postcode": "46-025",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -477,7 +502,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Osowiec",
                 "addr:postcode": "45-023",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -495,7 +521,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Ozimek",
                 "addr:postcode": "46-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -514,7 +541,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Ozimek",
                 "addr:postcode": "46-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -532,7 +560,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ozimek",
                 "addr:postcode": "46-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -551,7 +580,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Ozimek",
                 "addr:postcode": "46-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -570,7 +600,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Niemodlin",
                 "addr:postcode": "49-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -589,7 +620,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Ozimek",
                 "addr:postcode": "46-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -608,7 +640,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Stare Siołkowice",
                 "addr:postcode": "46-083",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -627,7 +660,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Kup",
                 "addr:postcode": "46-082",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -645,7 +679,8 @@
                 "addr:housenumber": "39 c",
                 "addr:city": "Turawa",
                 "addr:postcode": "46-045",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -664,7 +699,8 @@
                 "addr:housenumber": "39A",
                 "addr:city": "Turawa",
                 "addr:postcode": "46-045",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -683,7 +719,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Popielów",
                 "addr:postcode": "46-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -702,7 +739,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Zawada",
                 "addr:postcode": "46-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -721,7 +759,8 @@
                 "addr:housenumber": "6-8",
                 "addr:city": "Niemodlin",
                 "addr:postcode": "49-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -740,7 +779,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Dobrzeń Wielki",
                 "addr:postcode": "46-081",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -759,7 +799,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Gracze",
                 "addr:postcode": "49-156",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -777,7 +818,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Murów",
                 "addr:postcode": "46-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -796,7 +838,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Stare Budkowice",
                 "addr:postcode": "46-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -815,7 +858,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Karłowice",
                 "addr:postcode": "46-037",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

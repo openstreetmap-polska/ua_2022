@@ -10,7 +10,8 @@
                 "addr:housenumber": "32a",
                 "addr:city": "Koprzywnica",
                 "addr:postcode": "27-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Dwikozy",
                 "addr:postcode": "27-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Klimontów",
                 "addr:postcode": "27-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "44C",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Koprzywnica",
                 "addr:postcode": "27-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "30A",
                 "addr:postcode": "27-612",
                 "amenity": "pharmacy",
-                "addr:place": "Wilczyce"
+                "addr:place": "Wilczyce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "7",
                 "addr:postcode": "27-640",
                 "amenity": "pharmacy",
-                "addr:place": "Goźlice"
+                "addr:place": "Goźlice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "144",
                 "addr:postcode": "27-641",
                 "amenity": "pharmacy",
-                "addr:place": "Kleczanów"
+                "addr:place": "Kleczanów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "78",
                 "addr:postcode": "27-670",
                 "amenity": "pharmacy",
-                "addr:place": "Sulisławice"
+                "addr:place": "Sulisławice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Koprzywnica",
                 "addr:postcode": "27-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +322,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "43",
                 "addr:postcode": "27-650",
                 "amenity": "pharmacy",
-                "addr:place": "Samborzec"
+                "addr:place": "Samborzec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +361,8 @@
                 "addr:housenumber": "63",
                 "addr:city": "Klimontów",
                 "addr:postcode": "27-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +380,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -378,7 +398,8 @@
                 "addr:housenumber": "71",
                 "addr:postcode": "27-650",
                 "amenity": "pharmacy",
-                "addr:place": "Samborzec"
+                "addr:place": "Samborzec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +418,8 @@
                 "addr:housenumber": "51A",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -416,7 +438,8 @@
                 "addr:housenumber": "76A",
                 "addr:city": "Klimontów",
                 "addr:postcode": "27-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -435,7 +458,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -453,7 +477,8 @@
                 "addr:housenumber": "173",
                 "addr:postcode": "27-612",
                 "amenity": "pharmacy",
-                "addr:place": "Wilczyce"
+                "addr:place": "Wilczyce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +497,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -491,7 +517,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Zawichost",
                 "addr:postcode": "27-630",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -510,7 +537,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -528,7 +556,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -547,7 +576,8 @@
                 "addr:housenumber": "63 A",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -565,7 +595,8 @@
                 "addr:housenumber": "50",
                 "addr:postcode": "27-670",
                 "amenity": "pharmacy",
-                "addr:place": "Łoniów"
+                "addr:place": "Łoniów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -584,7 +615,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Zawichost",
                 "addr:postcode": "27-630",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -603,7 +635,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Klimontów",
                 "addr:postcode": "27-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -622,7 +655,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -641,7 +675,8 @@
                 "addr:housenumber": "41a",
                 "addr:city": "Sandomierz",
                 "addr:postcode": "27-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -659,7 +694,8 @@
                 "addr:housenumber": "29",
                 "addr:postcode": "27-670",
                 "amenity": "pharmacy",
-                "addr:place": "Świniary Stare"
+                "addr:place": "Świniary Stare",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -677,7 +713,8 @@
                 "addr:housenumber": "50A",
                 "addr:postcode": "27-650",
                 "amenity": "pharmacy",
-                "addr:place": "Samborzec"
+                "addr:place": "Samborzec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -694,7 +731,8 @@
                 "addr:housenumber": "124A",
                 "addr:postcode": "27-630",
                 "amenity": "pharmacy",
-                "addr:place": "Czyżów Szlachecki"
+                "addr:place": "Czyżów Szlachecki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -713,7 +751,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Dwikozy",
                 "addr:postcode": "27-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -9,7 +9,8 @@
                 "addr:housenumber": "82a",
                 "addr:postcode": "32-206",
                 "amenity": "pharmacy",
-                "addr:place": "Krzeszów"
+                "addr:place": "Krzeszów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "123",
                 "addr:city": "Sucha Beskidzka",
                 "addr:postcode": "34-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "91",
                 "addr:city": "Sucha Beskidzka",
                 "addr:postcode": "34-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Sucha Beskidzka",
                 "addr:postcode": "34-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "23",
                 "addr:postcode": "34-205",
                 "amenity": "pharmacy",
-                "addr:place": "Stryszawa"
+                "addr:place": "Stryszawa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "460",
                 "addr:postcode": "34-211",
                 "amenity": "pharmacy",
-                "addr:place": "Budzów"
+                "addr:place": "Budzów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Sucha Beskidzka",
                 "addr:postcode": "34-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "721",
                 "addr:postcode": "34-236",
                 "amenity": "pharmacy",
-                "addr:place": "Sidzina"
+                "addr:place": "Sidzina",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Sucha Beskidzka",
                 "addr:postcode": "34-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Sucha Beskidzka",
                 "addr:postcode": "34-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "1560",
                 "addr:postcode": "34-222",
                 "amenity": "pharmacy",
-                "addr:place": "Zawoja"
+                "addr:place": "Zawoja",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "541",
                 "addr:postcode": "34-210",
                 "amenity": "pharmacy",
-                "addr:place": "Zembrzyce"
+                "addr:place": "Zembrzyce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Maków Podhalański",
                 "addr:postcode": "34-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "833",
                 "addr:postcode": "34-222",
                 "amenity": "pharmacy",
-                "addr:place": "Zawoja"
+                "addr:place": "Zawoja",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Maków Podhalański",
                 "addr:postcode": "34-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sucha Beskidzka",
                 "addr:postcode": "34-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +322,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Sucha Beskidzka",
                 "addr:postcode": "34-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "169",
                 "addr:city": "Sucha Beskidzka",
                 "addr:postcode": "34-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +361,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Maków Podhalański",
                 "addr:postcode": "34-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -360,7 +379,8 @@
                 "addr:housenumber": "410",
                 "addr:postcode": "34-212",
                 "amenity": "pharmacy",
-                "addr:place": "Bieńkówka"
+                "addr:place": "Bieńkówka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -378,7 +398,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Sucha Beskidzka",
                 "addr:postcode": "34-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -395,7 +416,8 @@
                 "addr:housenumber": "448",
                 "addr:postcode": "34-221",
                 "amenity": "pharmacy",
-                "addr:place": "Skawica"
+                "addr:place": "Skawica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -412,7 +434,8 @@
                 "addr:housenumber": "195 B",
                 "addr:postcode": "34-232",
                 "amenity": "pharmacy",
-                "addr:place": "Lachowice"
+                "addr:place": "Lachowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -430,7 +453,8 @@
                 "addr:housenumber": "32A",
                 "addr:postcode": "34-205",
                 "amenity": "pharmacy",
-                "addr:place": "Stryszawa"
+                "addr:place": "Stryszawa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -449,7 +473,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Sucha Beskidzka",
                 "addr:postcode": "34-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -468,7 +493,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Maków Podhalański",
                 "addr:postcode": "34-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -486,7 +512,8 @@
                 "addr:housenumber": "542 A",
                 "addr:postcode": "34-231",
                 "amenity": "pharmacy",
-                "addr:place": "Juszczyn"
+                "addr:place": "Juszczyn",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -504,7 +531,8 @@
                 "addr:housenumber": "540",
                 "addr:postcode": "34-786",
                 "amenity": "pharmacy",
-                "addr:place": "Osielec"
+                "addr:place": "Osielec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -522,7 +550,8 @@
                 "addr:housenumber": "353A",
                 "addr:postcode": "34-235",
                 "amenity": "pharmacy",
-                "addr:place": "Bystra Podhalańska"
+                "addr:place": "Bystra Podhalańska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -541,7 +570,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Jordanów",
                 "addr:postcode": "34-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -560,7 +590,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Jordanów",
                 "addr:postcode": "34-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -577,7 +608,8 @@
                 "addr:housenumber": "477",
                 "addr:postcode": "34-785",
                 "amenity": "pharmacy",
-                "addr:place": "Naprawa"
+                "addr:place": "Naprawa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -595,7 +627,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Jordanów",
                 "addr:postcode": "34-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -613,7 +646,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Jordanów",
                 "addr:postcode": "34-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -630,7 +664,8 @@
                 "addr:housenumber": "465",
                 "addr:postcode": "34-242",
                 "amenity": "pharmacy",
-                "addr:place": "Łętownia"
+                "addr:place": "Łętownia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

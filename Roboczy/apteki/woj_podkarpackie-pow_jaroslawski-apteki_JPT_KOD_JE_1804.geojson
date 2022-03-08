@@ -10,7 +10,8 @@
                 "addr:housenumber": "4a",
                 "addr:city": "Radymno",
                 "addr:postcode": "37-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Radymno",
                 "addr:postcode": "37-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Radymno",
                 "addr:postcode": "37-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Radymno",
                 "addr:postcode": "37-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "141",
                 "addr:postcode": "37-544",
                 "amenity": "pharmacy",
-                "addr:place": "Zapałów"
+                "addr:place": "Zapałów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "35A",
                 "addr:postcode": "37-543",
                 "amenity": "pharmacy",
-                "addr:place": "Laszki"
+                "addr:place": "Laszki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Radymno",
                 "addr:postcode": "37-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "70",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "24a",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "65",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "235",
                 "addr:postcode": "37-561",
                 "amenity": "pharmacy",
-                "addr:place": "Chłopice"
+                "addr:place": "Chłopice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Pruchnik",
                 "addr:postcode": "37-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "645",
                 "addr:postcode": "37-562",
                 "amenity": "pharmacy",
-                "addr:place": "Rokietnica"
+                "addr:place": "Rokietnica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +361,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Szówsko",
                 "addr:postcode": "37-522",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -362,7 +381,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Wiązownica",
                 "addr:postcode": "37-522",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +401,8 @@
                 "addr:housenumber": "64",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -400,7 +421,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -419,7 +441,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -438,7 +461,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -456,7 +480,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -474,7 +499,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -492,7 +518,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -511,7 +538,8 @@
                 "addr:housenumber": "29a",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -529,7 +557,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -548,7 +577,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -567,7 +597,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -585,7 +616,8 @@
                 "addr:housenumber": "201",
                 "addr:postcode": "37-565",
                 "amenity": "pharmacy",
-                "addr:place": "Roźwienica"
+                "addr:place": "Roźwienica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -603,7 +635,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Wiązownica",
                 "addr:postcode": "37-522",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -622,7 +655,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -641,7 +675,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Pruchnik",
                 "addr:postcode": "37-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -660,7 +695,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -679,7 +715,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -698,7 +735,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -717,7 +755,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -735,7 +774,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -754,7 +794,8 @@
                 "addr:housenumber": "47B",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -772,7 +813,8 @@
                 "addr:housenumber": "147",
                 "addr:postcode": "37-554",
                 "amenity": "pharmacy",
-                "addr:place": "Łowce"
+                "addr:place": "Łowce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -791,7 +833,8 @@
                 "addr:housenumber": "11a",
                 "addr:city": "Pruchnik",
                 "addr:postcode": "37-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -809,7 +852,8 @@
                 "addr:housenumber": "128C",
                 "addr:postcode": "37-511",
                 "amenity": "pharmacy",
-                "addr:place": "Wólka Pełkińska"
+                "addr:place": "Wólka Pełkińska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -828,7 +872,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -847,7 +892,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Jarosław",
                 "addr:postcode": "37-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

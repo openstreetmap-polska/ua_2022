@@ -11,7 +11,8 @@
                 "addr:housenumber": "73",
                 "addr:city": "Żydowo",
                 "addr:postcode": "62-241",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "GNIEZNO",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Czerniejewo",
                 "addr:postcode": "62-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Trzemeszno",
                 "addr:postcode": "62-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Witkowo",
                 "addr:postcode": "62-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Witkowo",
                 "addr:postcode": "62-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "1F",
                 "addr:city": "GNIEZNO",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "45",
                 "addr:city": "GNIEZNO",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "13B",
                 "addr:postcode": "62-260",
                 "amenity": "pharmacy",
-                "addr:place": "Łubowo"
+                "addr:place": "Łubowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "2D",
                 "addr:postcode": "62-260",
                 "amenity": "pharmacy",
-                "addr:place": "Łubowo"
+                "addr:place": "Łubowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "83",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Witkowo",
                 "addr:postcode": "62-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +386,8 @@
                 "addr:housenumber": "20b",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -385,7 +405,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "GNIEZNO",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -403,7 +424,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "GNIEZNO",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +443,8 @@
                 "addr:housenumber": "11",
                 "addr:postcode": "62-212",
                 "amenity": "pharmacy",
-                "addr:place": "Mieleszyn"
+                "addr:place": "Mieleszyn",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -440,7 +463,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "NIECHANOWO",
                 "addr:postcode": "62-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +483,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "KŁECKO",
                 "addr:postcode": "62-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -478,7 +503,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -497,7 +523,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Kiszkowo",
                 "addr:postcode": "62-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -516,7 +543,8 @@
                 "addr:housenumber": "92",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -535,7 +563,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -554,7 +583,8 @@
                 "addr:housenumber": "13A",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -573,7 +603,8 @@
                 "addr:housenumber": "69",
                 "addr:city": "GNIEZNO",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -592,7 +623,8 @@
                 "addr:housenumber": "23A",
                 "addr:city": "WITKOWO",
                 "addr:postcode": "62-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -611,7 +643,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "TRZEMESZNO",
                 "addr:postcode": "62-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -630,7 +663,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "CZERNIEJEWO",
                 "addr:postcode": "62-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -648,7 +682,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "KŁECKO",
                 "addr:postcode": "62-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +702,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -686,7 +722,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -705,7 +742,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -724,7 +762,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -743,7 +782,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Trzemeszno",
                 "addr:postcode": "62-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -762,7 +802,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -781,7 +822,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "GNIEZNO",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -800,7 +842,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Trzemeszno",
                 "addr:postcode": "62-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -819,7 +862,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -838,7 +882,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "GNIEZNO",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -857,7 +902,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -876,7 +922,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -895,7 +942,8 @@
                 "addr:housenumber": "9A",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -914,7 +962,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -933,7 +982,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -951,7 +1001,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Kiszkowo",
                 "addr:postcode": "62-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -969,7 +1020,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -988,7 +1040,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1007,7 +1060,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1026,7 +1080,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Trzemeszno",
                 "addr:postcode": "62-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1045,7 +1100,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Witkowo",
                 "addr:postcode": "62-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1064,7 +1120,8 @@
                 "addr:housenumber": "12 A",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1140,8 @@
                 "addr:housenumber": "16-18",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1102,7 +1160,8 @@
                 "addr:housenumber": "76",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1121,7 +1180,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1140,7 +1200,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Niechanowo",
                 "addr:postcode": "62-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1158,7 +1219,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1177,7 +1239,8 @@
                 "addr:housenumber": "25K",
                 "addr:city": "Gniezno",
                 "addr:postcode": "62-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

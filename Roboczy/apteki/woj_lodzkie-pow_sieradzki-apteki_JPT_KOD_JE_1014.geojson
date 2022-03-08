@@ -11,7 +11,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Burzenin",
                 "addr:postcode": "98-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Brzeźnio",
                 "addr:postcode": "98-275",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Brzeźnio",
                 "addr:postcode": "98-275",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Złoczew",
                 "addr:postcode": "98-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "8/10",
                 "addr:city": "Złoczew",
                 "addr:postcode": "98-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Złoczew",
                 "addr:postcode": "98-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Złoczew",
                 "addr:postcode": "98-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "13A",
                 "addr:city": "Złoczew",
                 "addr:postcode": "98-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Błaszki",
                 "addr:postcode": "98-235",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +249,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Błaszki",
                 "addr:postcode": "98-235",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "24A",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "59",
                 "addr:city": "Błaszki",
                 "addr:postcode": "98-235",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +309,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "80",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +349,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +369,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +388,8 @@
                 "addr:housenumber": "109A",
                 "addr:postcode": "98-235",
                 "amenity": "pharmacy",
-                "addr:place": "Gruszczyce"
+                "addr:place": "Gruszczyce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -388,7 +408,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +428,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +448,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -445,7 +468,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -464,7 +488,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -481,7 +506,8 @@
                 "addr:housenumber": "10C",
                 "addr:postcode": "98-285",
                 "amenity": "pharmacy",
-                "addr:place": "Wróblew"
+                "addr:place": "Wróblew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -500,7 +526,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -519,7 +546,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -538,7 +566,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -557,7 +586,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +606,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -595,7 +626,8 @@
                 "addr:housenumber": "1D",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -614,7 +646,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -633,7 +666,8 @@
                 "addr:housenumber": "5/7",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -652,7 +686,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Błaszki",
                 "addr:postcode": "98-235",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -670,7 +705,8 @@
                 "addr:housenumber": "111",
                 "addr:postcode": "98-235",
                 "amenity": "pharmacy",
-                "addr:place": "Gruszczyce"
+                "addr:place": "Gruszczyce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -689,7 +725,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Sieradz",
                 "addr:postcode": "98-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -708,7 +745,8 @@
                 "addr:housenumber": "94",
                 "addr:city": "Brąszewice",
                 "addr:postcode": "98-277",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -726,7 +764,8 @@
                 "addr:housenumber": "29A",
                 "addr:city": "Klonowa",
                 "addr:postcode": "98-273",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -745,7 +784,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Warta",
                 "addr:postcode": "98-290",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -763,7 +803,8 @@
                 "addr:housenumber": "107A",
                 "addr:postcode": "98-235",
                 "amenity": "pharmacy",
-                "addr:place": "Kalinowa"
+                "addr:place": "Kalinowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -782,7 +823,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Warta",
                 "addr:postcode": "98-290",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -801,7 +843,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Warta",
                 "addr:postcode": "98-290",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -820,7 +863,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Warta",
                 "addr:postcode": "98-290",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -839,7 +883,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Goszczanów",
                 "addr:postcode": "98-215",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -857,7 +902,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Warta",
                 "addr:postcode": "98-290",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -876,7 +922,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Rossoszyca",
                 "addr:postcode": "98-290",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

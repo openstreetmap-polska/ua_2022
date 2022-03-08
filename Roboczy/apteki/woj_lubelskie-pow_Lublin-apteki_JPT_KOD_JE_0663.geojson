@@ -11,7 +11,8 @@
                 "addr:housenumber": "20A",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-552",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "230",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-582",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-618",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "5 B",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-838",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-492",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-214",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "100",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-718",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-207",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-504",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +225,8 @@
                 "addr:housenumber": "64",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-123",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-880",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-473",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-603",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-049",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +322,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-335",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-337",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +361,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-701",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +380,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-807",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +400,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-144",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -398,7 +419,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-843",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -417,7 +439,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-819",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -436,7 +459,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-538",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -455,7 +479,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-625",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -474,7 +499,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-243",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -492,7 +518,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-605",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -511,7 +538,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-468",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -529,7 +557,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-492",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -547,7 +576,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-618",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -565,7 +595,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-863",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -584,7 +615,8 @@
                 "addr:housenumber": "15 c",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-126",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -602,7 +634,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-006",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -621,7 +654,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-555",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -640,7 +674,8 @@
                 "addr:housenumber": "2E",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-607",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -659,7 +694,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-601",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -678,7 +714,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-121",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -696,7 +733,8 @@
                 "addr:housenumber": "44a",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-609",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -714,7 +752,8 @@
                 "addr:street": "Krężnicka",
                 "addr:housenumber": "121",
                 "addr:city": "Lublin",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -733,7 +772,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-027",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -752,7 +792,8 @@
                 "addr:housenumber": "83",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-119",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +812,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-078",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -790,7 +832,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -809,7 +852,8 @@
                 "addr:housenumber": "106",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -828,7 +872,8 @@
                 "addr:housenumber": "53a",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-803",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -847,7 +892,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-081",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -865,7 +911,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-828",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -883,7 +930,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-625",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -902,7 +950,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-861",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -920,7 +969,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-857",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -938,7 +988,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-115",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -956,7 +1007,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -974,7 +1026,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-247",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -993,7 +1046,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-603",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1011,7 +1065,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-542",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1029,7 +1084,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1048,7 +1104,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-093",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1067,7 +1124,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-092",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1085,7 +1143,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-538",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1103,7 +1162,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-541",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1122,7 +1182,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-853",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1140,7 +1201,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1159,7 +1221,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-108",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1177,7 +1240,8 @@
                 "addr:street": "Onyksowa",
                 "addr:housenumber": "12",
                 "addr:city": "Lublin",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1196,7 +1260,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-582",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1214,7 +1279,8 @@
                 "addr:street": "Kazimierza Jaczewskiego",
                 "addr:housenumber": "2",
                 "addr:city": "Lublin",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1233,7 +1299,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-141",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1252,7 +1319,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-537",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1271,7 +1339,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-319",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1289,7 +1358,8 @@
                 "addr:street": "Południowa",
                 "addr:housenumber": "5",
                 "addr:city": "Lublin",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1308,7 +1378,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-008",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1327,7 +1398,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-857",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1345,7 +1417,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-058",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1364,7 +1437,8 @@
                 "addr:housenumber": "4/6/8",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-092",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1383,7 +1457,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-601",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1401,7 +1476,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-418",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1420,7 +1496,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-607",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1438,7 +1515,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-538",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1457,7 +1535,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-128",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1475,7 +1554,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-281",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1493,7 +1573,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-819",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1512,7 +1593,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-092",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1530,7 +1612,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-735",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1549,7 +1632,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-043",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1567,7 +1651,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-032",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1586,7 +1671,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-352",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1605,7 +1691,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1624,7 +1711,8 @@
                 "addr:housenumber": "103",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1642,7 +1730,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-844",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1661,7 +1750,8 @@
                 "addr:housenumber": "33 a",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-723",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1679,7 +1769,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-052",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1698,7 +1789,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-081",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1716,7 +1808,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-611",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1734,7 +1827,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-338",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1752,7 +1846,8 @@
                 "addr:housenumber": "112",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1771,7 +1866,8 @@
                 "addr:housenumber": "13B",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-442",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1789,7 +1885,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-121",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1807,7 +1904,8 @@
                 "addr:housenumber": "252",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-444",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1826,7 +1924,8 @@
                 "addr:housenumber": "7a",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1844,7 +1943,8 @@
                 "addr:housenumber": "2G",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-137",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1862,7 +1962,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-612",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1881,7 +1982,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-152",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1899,7 +2001,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-049",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1917,7 +2020,8 @@
                 "addr:housenumber": "2-8",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1935,7 +2039,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1954,7 +2059,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-535",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1973,7 +2079,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-129",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1992,7 +2099,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-576",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2010,7 +2118,8 @@
                 "addr:housenumber": "138",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2028,7 +2137,8 @@
                 "addr:housenumber": "108",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2046,7 +2156,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-093",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2065,7 +2176,8 @@
                 "addr:housenumber": "4D",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-866",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2083,7 +2195,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2101,7 +2214,8 @@
                 "addr:housenumber": "11a",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-109",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2120,7 +2234,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2139,7 +2254,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-629",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2158,7 +2274,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2177,7 +2294,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2196,7 +2314,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-884",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2215,7 +2334,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-577",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2234,7 +2354,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2253,7 +2374,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-582",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2272,7 +2394,8 @@
                 "addr:housenumber": "100",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-718",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2291,7 +2414,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-442",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2310,7 +2434,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-089",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2329,7 +2454,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-093",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2348,7 +2474,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2367,7 +2494,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-954",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2386,7 +2514,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2404,7 +2533,8 @@
                 "addr:street": "Stanisława Staszica",
                 "addr:housenumber": "16",
                 "addr:city": "Lublin",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2423,7 +2553,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-362",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2441,7 +2572,8 @@
                 "addr:street": "Witolda Chodźki",
                 "addr:housenumber": "13",
                 "addr:city": "Lublin",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2460,7 +2592,8 @@
                 "addr:housenumber": "14 A",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-406",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2479,7 +2612,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2497,7 +2631,8 @@
                 "addr:street": "Lędzian",
                 "addr:housenumber": "49",
                 "addr:city": "Lublin",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2516,7 +2651,8 @@
                 "addr:housenumber": "141",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-459",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2535,7 +2671,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2554,7 +2691,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2573,7 +2711,8 @@
                 "addr:housenumber": "35 A",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-034",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2592,7 +2731,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2611,7 +2751,8 @@
                 "addr:housenumber": "1/U1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-576",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2630,7 +2771,8 @@
                 "addr:housenumber": "22D",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-827",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2649,7 +2791,8 @@
                 "addr:housenumber": "70",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-076",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2668,7 +2811,8 @@
                 "addr:housenumber": "4D",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-866",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2687,7 +2831,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-043",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2706,7 +2851,8 @@
                 "addr:housenumber": "6 A",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-555",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2725,7 +2871,8 @@
                 "addr:housenumber": "8 A",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-612",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2744,7 +2891,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-049",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2763,7 +2911,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2781,7 +2930,8 @@
                 "addr:street": "Kazimierza Jaczewskiego",
                 "addr:housenumber": "2",
                 "addr:city": "Lublin",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2800,7 +2950,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-147",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2819,7 +2970,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-554",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2838,7 +2990,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-853",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2857,7 +3010,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-442",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2876,7 +3030,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-632",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2895,7 +3050,8 @@
                 "addr:housenumber": "59",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-422",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2914,7 +3070,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-045",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2933,7 +3090,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-093",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2952,7 +3110,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-442",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2971,7 +3130,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-854",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2990,7 +3150,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-033",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3009,7 +3170,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-126",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3028,7 +3190,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3047,7 +3210,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-074",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3066,7 +3230,8 @@
                 "addr:housenumber": "88",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-147",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3085,7 +3250,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-518",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3103,7 +3269,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-078",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3122,7 +3289,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3141,7 +3309,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-281",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3160,7 +3329,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Lublin",
                 "addr:postcode": "20-128",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

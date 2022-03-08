@@ -11,7 +11,8 @@
                 "addr:housenumber": "5a",
                 "addr:city": "Borne Sulinowo",
                 "addr:postcode": "78-449",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Łubowo",
                 "addr:postcode": "78-445",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Borne Sulinowo",
                 "addr:postcode": "78-449",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "38c",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "47-49B",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "75-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "64",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "73",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "60",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Barwice",
                 "addr:postcode": "78-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "38b",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "2a",
                 "addr:city": "Biały Bór",
                 "addr:postcode": "78-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "65",
                 "addr:postcode": "78-411",
                 "amenity": "pharmacy",
-                "addr:place": "Wierzchowo"
+                "addr:place": "Wierzchowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "18d",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -348,7 +366,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -366,7 +385,8 @@
                 "addr:housenumber": "38b",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -384,7 +404,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -402,7 +423,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +443,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -440,7 +463,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -458,7 +482,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -477,7 +502,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -496,7 +522,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -515,7 +542,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -534,7 +562,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Biały Bór",
                 "addr:postcode": "78-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -553,7 +582,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Grzmiąca",
                 "addr:postcode": "78-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -572,7 +602,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Barwice",
                 "addr:postcode": "78-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -591,7 +622,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Barwice",
                 "addr:postcode": "78-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -609,7 +641,8 @@
                 "addr:housenumber": "85A",
                 "addr:city": "Szczecinek",
                 "addr:postcode": "78-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Kobylnica",
                 "addr:postcode": "76-251",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Smołdzino",
                 "addr:postcode": "76-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "12",
                 "addr:postcode": "76-270",
                 "amenity": "pharmacy",
-                "addr:place": "Objazda"
+                "addr:place": "Objazda",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "14B",
                 "addr:city": "Sycewice",
                 "addr:postcode": "76-251",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Rowy",
                 "addr:postcode": "76-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Ustka",
                 "addr:postcode": "76-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Gardna Wielka",
                 "addr:postcode": "76-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Kobylnica",
                 "addr:postcode": "76-251",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "4 A",
                 "addr:city": "Jezierzyce",
                 "addr:postcode": "76-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Ustka",
                 "addr:postcode": "76-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "27A",
                 "addr:city": "Ustka",
                 "addr:postcode": "76-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Ustka",
                 "addr:postcode": "76-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +249,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Ustka",
                 "addr:postcode": "76-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -256,7 +269,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Ustka",
                 "addr:postcode": "76-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Kobylnica",
                 "addr:postcode": "76-251",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +309,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Ustka",
                 "addr:postcode": "76-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Ustka",
                 "addr:postcode": "76-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +349,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ustka",
                 "addr:postcode": "76-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +369,8 @@
                 "addr:housenumber": "3 A",
                 "addr:city": "Siemianice",
                 "addr:postcode": "76-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +389,8 @@
                 "addr:housenumber": "7 a",
                 "addr:city": "Ustka",
                 "addr:postcode": "76-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -389,7 +409,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Dębnica Kaszubska",
                 "addr:postcode": "76-248",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -408,7 +429,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kobylnica",
                 "addr:postcode": "76-251",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -427,7 +449,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Rowy",
                 "addr:postcode": "76-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +469,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Główczyce",
                 "addr:postcode": "76-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -463,7 +487,8 @@
                 "addr:housenumber": "59",
                 "addr:postcode": "77-113",
                 "amenity": "pharmacy",
-                "addr:place": "Budowo"
+                "addr:place": "Budowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -481,7 +506,8 @@
                 "addr:housenumber": "15",
                 "addr:postcode": "76-220",
                 "amenity": "pharmacy",
-                "addr:place": "Stowięcino"
+                "addr:place": "Stowięcino",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -499,7 +525,8 @@
                 "addr:housenumber": "12 A",
                 "addr:postcode": "76-220",
                 "amenity": "pharmacy",
-                "addr:place": "Pobłocie"
+                "addr:place": "Pobłocie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -517,7 +544,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Potęgowo",
                 "addr:postcode": "76-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -536,7 +564,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kępice",
                 "addr:postcode": "77-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -555,7 +584,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kępice",
                 "addr:postcode": "77-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Pyrzyce",
                 "addr:postcode": "74-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Pyrzyce",
                 "addr:postcode": "74-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Pyrzyce",
                 "addr:postcode": "74-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Pyrzyce",
                 "addr:postcode": "74-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "18A",
                 "addr:city": "Pyrzyce",
                 "addr:postcode": "74-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Pyrzyce",
                 "addr:postcode": "74-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Pyrzyce",
                 "addr:postcode": "74-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lipiany",
                 "addr:postcode": "74-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Pyrzyce",
                 "addr:postcode": "74-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Lipiany",
                 "addr:postcode": "74-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "56",
                 "addr:postcode": "74-210",
                 "amenity": "pharmacy",
-                "addr:place": "Przelewice"
+                "addr:place": "Przelewice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "34a",
                 "addr:city": "Bielice",
                 "addr:postcode": "74-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "38",
                 "addr:postcode": "74-201",
                 "amenity": "pharmacy",
-                "addr:place": "Warnice"
+                "addr:place": "Warnice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

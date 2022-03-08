@@ -9,7 +9,8 @@
                 "addr:housenumber": "551",
                 "addr:postcode": "34-483",
                 "amenity": "pharmacy",
-                "addr:place": "Lipnica Wielka"
+                "addr:place": "Lipnica Wielka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Jabłonka",
                 "addr:postcode": "34-480",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "499",
                 "addr:postcode": "34-484",
                 "amenity": "pharmacy",
-                "addr:place": "Zubrzyca Górna"
+                "addr:place": "Zubrzyca Górna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "301B",
                 "addr:postcode": "34-482",
                 "amenity": "pharmacy",
-                "addr:place": "Lipnica Mała"
+                "addr:place": "Lipnica Mała",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Jabłonka",
                 "addr:postcode": "34-480",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Jabłonka",
                 "addr:postcode": "34-480",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "639",
                 "addr:postcode": "34-713",
                 "amenity": "pharmacy",
-                "addr:place": "Skawa"
+                "addr:place": "Skawa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "26",
                 "addr:postcode": "34-745",
                 "amenity": "pharmacy",
-                "addr:place": "Spytkowice"
+                "addr:place": "Spytkowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "40a",
                 "addr:postcode": "34-404",
                 "amenity": "pharmacy",
-                "addr:place": "Klikuszowa"
+                "addr:place": "Klikuszowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "136",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +264,8 @@
                 "addr:housenumber": "96",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -270,7 +284,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Krościenko nad Dunajcem",
                 "addr:postcode": "34-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Rabka-Zdrój",
                 "addr:postcode": "34-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -308,7 +324,8 @@
                 "addr:housenumber": "37D",
                 "addr:city": "Szaflary",
                 "addr:postcode": "34-424",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -326,7 +343,8 @@
                 "addr:housenumber": "55",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -344,7 +362,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Szczawnica",
                 "addr:postcode": "34-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -362,7 +381,8 @@
                 "addr:housenumber": "169A",
                 "addr:city": "Łapsze Niżne",
                 "addr:postcode": "34-442",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +400,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Czarny Dunajec",
                 "addr:postcode": "34-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -398,7 +419,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Maniowy",
                 "addr:postcode": "34-436",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -416,7 +438,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Krościenko nad Dunajcem",
                 "addr:postcode": "34-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -435,7 +458,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -454,7 +478,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Maniowy",
                 "addr:postcode": "34-436",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +497,8 @@
                 "addr:housenumber": "2",
                 "addr:postcode": "34-723",
                 "amenity": "pharmacy",
-                "addr:place": "Sieniawa"
+                "addr:place": "Sieniawa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -491,7 +517,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Czarny Dunajec",
                 "addr:postcode": "34-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -510,7 +537,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Rabka-Zdrój",
                 "addr:postcode": "34-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -529,7 +557,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -546,7 +575,8 @@
                 "addr:housenumber": "140A",
                 "addr:postcode": "34-408",
                 "amenity": "pharmacy",
-                "addr:place": "Pieniążkowice"
+                "addr:place": "Pieniążkowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -564,7 +594,8 @@
                 "addr:housenumber": "719",
                 "addr:postcode": "34-745",
                 "amenity": "pharmacy",
-                "addr:place": "Spytkowice"
+                "addr:place": "Spytkowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -582,7 +613,8 @@
                 "addr:housenumber": "64",
                 "addr:postcode": "34-721",
                 "amenity": "pharmacy",
-                "addr:place": "Raba Wyżna"
+                "addr:place": "Raba Wyżna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -601,7 +633,8 @@
                 "addr:housenumber": "103A",
                 "addr:city": "Ochotnica Dolna",
                 "addr:postcode": "34-452",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -620,7 +653,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Rabka-Zdrój",
                 "addr:postcode": "34-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -638,7 +672,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -657,7 +692,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Szczawnica",
                 "addr:postcode": "34-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -676,7 +712,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Rabka-Zdrój",
                 "addr:postcode": "34-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -695,7 +732,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -713,7 +751,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Rabka-Zdrój",
                 "addr:postcode": "34-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -731,7 +770,8 @@
                 "addr:housenumber": "6a",
                 "addr:city": "Rabka-Zdrój",
                 "addr:postcode": "34-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -749,7 +789,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -767,7 +808,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Czarny Dunajec",
                 "addr:postcode": "34-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -785,7 +827,8 @@
                 "addr:housenumber": "435a",
                 "addr:postcode": "34-721",
                 "amenity": "pharmacy",
-                "addr:place": "Raba Wyżna"
+                "addr:place": "Raba Wyżna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -803,7 +846,8 @@
                 "addr:housenumber": "38 a",
                 "addr:postcode": "32-721",
                 "amenity": "pharmacy",
-                "addr:place": "Raba Wyżna"
+                "addr:place": "Raba Wyżna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -822,7 +866,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -841,7 +886,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -860,7 +906,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -879,7 +926,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -898,7 +946,8 @@
                 "addr:housenumber": "20B",
                 "addr:city": "Rabka-Zdrój",
                 "addr:postcode": "34-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -917,7 +966,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Szczawnica",
                 "addr:postcode": "34-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -935,7 +985,8 @@
                 "addr:housenumber": "16A",
                 "addr:postcode": "34-407",
                 "amenity": "pharmacy",
-                "addr:place": "Ciche"
+                "addr:place": "Ciche",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -953,7 +1004,8 @@
                 "addr:housenumber": "101C",
                 "addr:city": "Ochotnica Górna",
                 "addr:postcode": "34-453",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -971,7 +1023,8 @@
                 "addr:housenumber": "95",
                 "addr:city": "Ludźmierz",
                 "addr:postcode": "34-471",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -988,7 +1041,8 @@
                 "addr:housenumber": "127",
                 "addr:postcode": "34-472",
                 "amenity": "pharmacy",
-                "addr:place": "Piekielnik"
+                "addr:place": "Piekielnik",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1005,7 +1059,8 @@
                 "addr:housenumber": "303",
                 "addr:postcode": "34-422",
                 "amenity": "pharmacy",
-                "addr:place": "Podwilk"
+                "addr:place": "Podwilk",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1024,7 +1079,8 @@
                 "addr:housenumber": "3B",
                 "addr:city": "Rabka-Zdrój",
                 "addr:postcode": "34-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1043,7 +1099,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ostrowsko",
                 "addr:postcode": "34-431",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1062,7 +1119,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Rabka-Zdrój",
                 "addr:postcode": "34-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1081,7 +1139,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Rabka-Zdrój",
                 "addr:postcode": "34-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1100,7 +1159,8 @@
                 "addr:housenumber": "294",
                 "addr:city": "Waksmund",
                 "addr:postcode": "34-431",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1119,7 +1179,8 @@
                 "addr:housenumber": "294",
                 "addr:city": "Waksmund",
                 "addr:postcode": "34-431",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1138,7 +1199,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Rabka-Zdrój",
                 "addr:postcode": "34-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1157,7 +1219,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1174,7 +1237,8 @@
                 "addr:housenumber": "557a",
                 "addr:postcode": "34-721",
                 "amenity": "pharmacy",
-                "addr:place": "Raba Wyżna"
+                "addr:place": "Raba Wyżna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1193,7 +1257,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Sromowce Niżne",
                 "addr:postcode": "34-443",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1212,7 +1277,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1231,7 +1297,8 @@
                 "addr:housenumber": "111",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1250,7 +1317,8 @@
                 "addr:housenumber": "223",
                 "addr:city": "Tylmanowa",
                 "addr:postcode": "34-451",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1269,7 +1337,8 @@
                 "addr:housenumber": "111",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1288,7 +1357,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1306,7 +1376,8 @@
                 "addr:housenumber": "180",
                 "addr:postcode": "34-452",
                 "amenity": "pharmacy",
-                "addr:place": "Ochotnica Dolna"
+                "addr:place": "Ochotnica Dolna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1325,7 +1396,8 @@
                 "addr:housenumber": "79",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1344,7 +1416,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Nowy Targ",
                 "addr:postcode": "34-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1363,7 +1436,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Krościenko nad Dunajcem",
                 "addr:postcode": "34-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

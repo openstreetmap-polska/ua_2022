@@ -11,7 +11,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kroczyce",
                 "addr:postcode": "42-345",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Kroczyce",
                 "addr:postcode": "42-345",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Łazy",
                 "addr:postcode": "42-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "ŁAZY",
                 "addr:postcode": "45-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "OGRODZIENIEC",
                 "addr:postcode": "42-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "PILICA",
                 "addr:postcode": "42-436",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "ZAWIERCIE",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "ZAWIERCIE",
                 "addr:postcode": "42-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "ZAWIERCIE",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "ZAWIERCIE",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "ZAWIERCIE",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "81F",
                 "addr:city": "ZAWIERCIE",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "46 B",
                 "addr:city": "ZAWIERCIE",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "ZAWIERCIE",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +331,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "PRADŁA",
                 "addr:postcode": "42-427",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +351,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +371,8 @@
                 "addr:housenumber": "21 A",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -372,7 +391,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "ŁAZY",
                 "addr:postcode": "42-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +411,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "PILICA",
                 "addr:postcode": "42 436",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +431,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "ZAWIERCIE",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +451,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "ZAWIERCIE",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -448,7 +471,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +491,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "ZAWIERCIE",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -486,7 +511,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -505,7 +531,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +551,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -542,7 +570,8 @@
                 "addr:housenumber": "42A",
                 "addr:postcode": "42-436",
                 "amenity": "pharmacy",
-                "addr:place": "Kocikowa"
+                "addr:place": "Kocikowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -561,7 +590,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -579,7 +609,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Pilica",
                 "addr:postcode": "42-436",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -598,7 +629,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Włodowice",
                 "addr:postcode": "42-421",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -617,7 +649,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Zawiercie",
                 "addr:postcode": "42-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -635,7 +668,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Ogrodzieniec",
                 "addr:postcode": "42-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +688,8 @@
                 "addr:housenumber": "135b",
                 "addr:city": "Wierbka",
                 "addr:postcode": "42-436",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -673,7 +708,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Szczekociny",
                 "addr:postcode": "42-445",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -692,7 +728,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Szczekociny",
                 "addr:postcode": "42-445",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -711,7 +748,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Szczekociny",
                 "addr:postcode": "42-445",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -730,7 +768,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Szczekociny",
                 "addr:postcode": "42-445",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -749,7 +788,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "ŻARNOWIEC",
                 "addr:postcode": "42-439",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -766,7 +806,8 @@
                 "addr:housenumber": "128",
                 "addr:postcode": "42-446",
                 "amenity": "pharmacy",
-                "addr:place": "Irządze"
+                "addr:place": "Irządze",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -785,7 +826,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "PORĘBA",
                 "addr:postcode": "42-480",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -804,7 +846,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Poręba",
                 "addr:postcode": "42-480",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +866,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "PORĘBA",
                 "addr:postcode": "42-480",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-203",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-209",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "171",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "120",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "2 A",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "36A",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "47",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +331,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-209",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +351,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +371,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -372,7 +391,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +411,8 @@
                 "addr:housenumber": "32A",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +431,8 @@
                 "addr:housenumber": "35 A-E",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +451,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -448,7 +471,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +491,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -486,7 +511,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-214",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -505,7 +531,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +551,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +571,8 @@
                 "addr:housenumber": "8 B",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-207",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -562,7 +591,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -581,7 +611,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -600,7 +631,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -619,7 +651,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -638,7 +671,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-207",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -657,7 +691,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -676,7 +711,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -695,7 +731,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -714,7 +751,8 @@
                 "addr:housenumber": "27B",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -733,7 +771,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -752,7 +791,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +811,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -790,7 +831,8 @@
                 "addr:housenumber": "122",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -809,7 +851,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -828,7 +871,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -847,7 +891,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -866,7 +911,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -885,7 +931,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -904,7 +951,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -923,7 +971,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -942,7 +991,8 @@
                 "addr:housenumber": "7 A",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -961,7 +1011,8 @@
                 "addr:housenumber": "108",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -980,7 +1031,8 @@
                 "addr:housenumber": "14 B",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -999,7 +1051,8 @@
                 "addr:housenumber": "124",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "42-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1018,7 +1071,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1037,7 +1091,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1056,7 +1111,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1075,7 +1131,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1094,7 +1151,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "SOSNOWIEC",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1113,7 +1171,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1132,7 +1191,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1151,7 +1211,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1170,7 +1231,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1189,7 +1251,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1208,7 +1271,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1227,7 +1291,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1246,7 +1311,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-215",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1331,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1284,7 +1351,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1303,7 +1371,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "31-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1322,7 +1391,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-214",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1341,7 +1411,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1359,7 +1430,8 @@
                 "addr:housenumber": "131",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1378,7 +1450,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1397,7 +1470,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1416,7 +1490,8 @@
                 "addr:housenumber": "8a",
                 "addr:city": "Sosnowiec",
                 "addr:postcode": "41-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1435,7 +1510,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "SOSNOWIEC",
                 "addr:postcode": "41-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

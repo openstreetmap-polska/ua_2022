@@ -10,7 +10,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Miechów",
                 "addr:postcode": "32-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Miechów",
                 "addr:postcode": "32-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Miechów",
                 "addr:postcode": "32-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Książ Wielki",
                 "addr:postcode": "32-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Miechów",
                 "addr:postcode": "32-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Miechów",
                 "addr:postcode": "32-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Miechów",
                 "addr:postcode": "32-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Miechów",
                 "addr:postcode": "32-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "80D",
                 "addr:postcode": "32-075",
                 "amenity": "pharmacy",
-                "addr:place": "Gołcza"
+                "addr:place": "Gołcza",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "50a",
                 "addr:city": "Miechów-Charsznica",
                 "addr:postcode": "32-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "15C",
                 "addr:city": "Książ Wielki",
                 "addr:postcode": "32-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Miechów",
                 "addr:postcode": "32-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Książ Wielki",
                 "addr:postcode": "32-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +264,8 @@
                 "addr:housenumber": "25",
                 "addr:postcode": "32-218",
                 "amenity": "pharmacy",
-                "addr:place": "Dziaduszyce"
+                "addr:place": "Dziaduszyce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -269,7 +283,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Miechów-Charsznica",
                 "addr:postcode": "32-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -288,7 +303,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Miechów-Charsznica",
                 "addr:postcode": "32-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Miechów",
                 "addr:postcode": "32-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "63",
                 "addr:postcode": "32-241",
                 "amenity": "pharmacy",
-                "addr:place": "Kozłów"
+                "addr:place": "Kozłów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +360,8 @@
                 "addr:housenumber": "67",
                 "addr:postcode": "32-218",
                 "amenity": "pharmacy",
-                "addr:place": "Kalina Wielka"
+                "addr:place": "Kalina Wielka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +380,8 @@
                 "addr:housenumber": "10B",
                 "addr:city": "Miechów",
                 "addr:postcode": "32-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -378,7 +398,8 @@
                 "addr:housenumber": "112",
                 "addr:postcode": "32-075",
                 "amenity": "pharmacy",
-                "addr:place": "Szreniawa"
+                "addr:place": "Szreniawa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +418,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Miechów",
                 "addr:postcode": "32-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -415,7 +437,8 @@
                 "addr:housenumber": "12",
                 "addr:postcode": "32-210",
                 "amenity": "pharmacy",
-                "addr:place": "Książ Mały"
+                "addr:place": "Książ Mały",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

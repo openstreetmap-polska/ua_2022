@@ -11,7 +11,8 @@
                 "addr:housenumber": "225",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-451",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-415",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "67",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "24/26",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-602",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "93",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-341",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-404",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "30A",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "67A",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-324",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łódź-Śródmieście",
                 "addr:postcode": "91-427",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-273",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "96",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-141",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "72",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-071",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "107",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-468",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-157",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-339",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +331,8 @@
                 "addr:housenumber": "100",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +351,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-303",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +371,8 @@
                 "addr:housenumber": "62/64",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-409",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -372,7 +391,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-498",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +411,8 @@
                 "addr:housenumber": "196A",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-031",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +431,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +451,8 @@
                 "addr:housenumber": "61/63",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-558",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -448,7 +471,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-760",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +491,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-046",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -486,7 +511,8 @@
                 "addr:housenumber": "191",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-447",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -505,7 +531,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-134",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +551,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-151",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +571,8 @@
                 "addr:housenumber": "90",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-134",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -562,7 +591,8 @@
                 "addr:housenumber": "104",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-042",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -581,7 +611,8 @@
                 "addr:housenumber": "11/13",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-193",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -600,7 +631,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-153",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -619,7 +651,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-309",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -638,7 +671,8 @@
                 "addr:housenumber": "42A",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-059",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -657,7 +691,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-525",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -676,7 +711,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-836",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -695,7 +731,8 @@
                 "addr:housenumber": "80",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-049",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -714,7 +751,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-048",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -733,7 +771,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-502",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -752,7 +791,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-624",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +811,8 @@
                 "addr:housenumber": "39C",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-371",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -790,7 +831,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -809,7 +851,8 @@
                 "addr:housenumber": "146",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-041",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -828,7 +871,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-496",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -847,7 +891,8 @@
                 "addr:housenumber": "96",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -866,7 +911,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-003",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -885,7 +931,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-046",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -904,7 +951,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -923,7 +971,8 @@
                 "addr:housenumber": "8/10",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-042",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -942,7 +991,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -961,7 +1011,8 @@
                 "addr:housenumber": "115A",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-041",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -980,7 +1031,8 @@
                 "addr:housenumber": "42/44",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -999,7 +1051,8 @@
                 "addr:housenumber": "79C",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-004",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1018,7 +1071,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-142",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1037,7 +1091,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-043",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1056,7 +1111,8 @@
                 "addr:housenumber": "29/31",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-839",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1075,7 +1131,8 @@
                 "addr:housenumber": "45",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-848",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1094,7 +1151,8 @@
                 "addr:housenumber": "15/23",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1113,7 +1171,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-328",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1132,7 +1191,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-056",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1151,7 +1211,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-035",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1170,7 +1231,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1189,7 +1251,8 @@
                 "addr:housenumber": "229",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-496",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1208,7 +1271,8 @@
                 "addr:housenumber": "181",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1227,7 +1291,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-053",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1246,7 +1311,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-048",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1331,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1284,7 +1351,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-046",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1303,7 +1371,8 @@
                 "addr:housenumber": "3/5",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-237",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1322,7 +1391,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Łódź-Widzew",
                 "addr:postcode": "92-508",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1341,7 +1411,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-043",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1360,7 +1431,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-552",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1379,7 +1451,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-051",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1398,7 +1471,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1416,7 +1490,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-029",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1435,7 +1510,8 @@
                 "addr:housenumber": "25A",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-547",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1454,7 +1530,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-053",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1472,7 +1549,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-528",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1491,7 +1569,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1510,7 +1589,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-083",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1529,7 +1609,8 @@
                 "addr:housenumber": "341",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-647",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1548,7 +1629,8 @@
                 "addr:housenumber": "11 BL.19",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-504",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1566,7 +1648,8 @@
                 "addr:housenumber": "96",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1585,7 +1668,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1604,7 +1688,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-703",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1623,7 +1708,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-308",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1642,7 +1728,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1661,7 +1748,8 @@
                 "addr:housenumber": "134",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-054",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1680,7 +1768,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-413",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1699,7 +1788,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-515",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1718,7 +1808,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-431",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1737,7 +1828,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-515",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1756,7 +1848,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-513",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1775,7 +1868,8 @@
                 "addr:housenumber": "63",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-518",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1794,7 +1888,8 @@
                 "addr:housenumber": "292",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-004",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1813,7 +1908,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-439",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1832,7 +1928,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-515",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1851,7 +1948,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-516",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1870,7 +1968,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-417",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1889,7 +1988,8 @@
                 "addr:housenumber": "20/22",
                 "addr:city": "Łódź-Widzew",
                 "addr:postcode": "92-109",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1908,7 +2008,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1927,7 +2028,8 @@
                 "addr:housenumber": "106/108",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-438",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1946,7 +2048,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-135",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1965,7 +2068,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-607",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1984,7 +2088,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-265",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2003,7 +2108,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-503",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2022,7 +2128,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-704",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2041,7 +2148,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2060,7 +2168,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-059",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2079,7 +2188,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-043",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2097,7 +2207,8 @@
                 "addr:housenumber": "218",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2116,7 +2227,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-504",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2135,7 +2247,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-128",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2154,7 +2267,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-046",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2173,7 +2287,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-009",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2192,7 +2307,8 @@
                 "addr:housenumber": "100",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-004",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2211,7 +2327,8 @@
                 "addr:housenumber": "108A",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-456",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2230,7 +2347,8 @@
                 "addr:housenumber": "121",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-334",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2249,7 +2367,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-044",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2267,7 +2386,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-149",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2286,7 +2406,8 @@
                 "addr:housenumber": "198",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-317",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2305,7 +2426,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-061",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2324,7 +2446,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-166",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2343,7 +2466,8 @@
                 "addr:housenumber": "22/24",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2362,7 +2486,8 @@
                 "addr:housenumber": "9A",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-252",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2381,7 +2506,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-624",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2400,7 +2526,8 @@
                 "addr:housenumber": "47",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-016",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2419,7 +2546,8 @@
                 "addr:housenumber": "94",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-347",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2438,7 +2566,8 @@
                 "addr:housenumber": "42/44",
                 "addr:city": "Łódź-Polesie",
                 "addr:postcode": "90-741",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2457,7 +2586,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-024",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2476,7 +2606,8 @@
                 "addr:housenumber": "92",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-139",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2495,7 +2626,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2514,7 +2646,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-238",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2533,7 +2666,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2551,7 +2685,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-277",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2570,7 +2705,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2589,7 +2725,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-089",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2608,7 +2745,8 @@
                 "addr:housenumber": "83",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-708",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2627,7 +2765,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-431",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2646,7 +2785,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2665,7 +2805,8 @@
                 "addr:housenumber": "67",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-422",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2684,7 +2825,8 @@
                 "addr:housenumber": "196A",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-027",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2703,7 +2845,8 @@
                 "addr:housenumber": "61A",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-357",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2722,7 +2865,8 @@
                 "addr:housenumber": "1/3",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2741,7 +2885,8 @@
                 "addr:housenumber": "3/4",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-227",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2760,7 +2905,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-457",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2779,7 +2925,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-474",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2798,7 +2945,8 @@
                 "addr:housenumber": "60",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2817,7 +2965,8 @@
                 "addr:housenumber": "71",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-007",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2836,7 +2985,8 @@
                 "addr:housenumber": "27/29",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-103",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2855,7 +3005,8 @@
                 "addr:housenumber": "165/169",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-447",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2874,7 +3025,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-003",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2892,7 +3044,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-503",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2911,7 +3064,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2930,7 +3084,8 @@
                 "addr:housenumber": "45",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2949,7 +3104,8 @@
                 "addr:housenumber": "80",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-409",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2968,7 +3124,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2987,7 +3144,8 @@
                 "addr:housenumber": "69",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-562",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3006,7 +3164,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-141",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3025,7 +3184,8 @@
                 "addr:housenumber": "140A",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-054",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3044,7 +3204,8 @@
                 "addr:housenumber": "60/62",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-256",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3063,7 +3224,8 @@
                 "addr:housenumber": "1/5",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-347",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3082,7 +3244,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3101,7 +3264,8 @@
                 "addr:housenumber": "94",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-202",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3120,7 +3284,8 @@
                 "addr:housenumber": "286",
                 "addr:city": "Łódź-Górna",
                 "addr:postcode": "93-034",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3139,7 +3304,8 @@
                 "addr:housenumber": "281/289",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-338",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3158,7 +3324,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3177,7 +3344,8 @@
                 "addr:housenumber": "6/10",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-750",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3196,7 +3364,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-519",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3215,7 +3384,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-328",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3234,7 +3404,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-203",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3253,7 +3424,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-738",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3272,7 +3444,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-357",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3291,7 +3464,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3310,7 +3484,8 @@
                 "addr:housenumber": "67/69",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-102",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3329,7 +3504,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-032",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3348,7 +3524,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-818",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3367,7 +3544,8 @@
                 "addr:housenumber": "47",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-523",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3386,7 +3564,8 @@
                 "addr:housenumber": "60/62",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-221",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3405,7 +3584,8 @@
                 "addr:housenumber": "15B",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-177",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3424,7 +3604,8 @@
                 "addr:housenumber": "67",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-258",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3443,7 +3624,8 @@
                 "addr:housenumber": "19/20",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-452",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3461,7 +3643,8 @@
                 "addr:housenumber": "40/46",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-466",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3480,7 +3663,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-358",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3498,7 +3682,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-718",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3517,7 +3702,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-173",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3536,7 +3722,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3555,7 +3742,8 @@
                 "addr:housenumber": "245 (CH Port Łódź)",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-457",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3574,7 +3762,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-496",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3593,7 +3782,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-054",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3612,7 +3802,8 @@
                 "addr:housenumber": "55",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3631,7 +3822,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-570",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3650,7 +3842,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-504",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3669,7 +3862,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3688,7 +3882,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-078",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3707,7 +3902,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-472",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3726,7 +3922,8 @@
                 "addr:housenumber": "170",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3745,7 +3942,8 @@
                 "addr:housenumber": "62",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-264",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3764,7 +3962,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3783,7 +3982,8 @@
                 "addr:housenumber": "2/6",
                 "addr:city": "ŁÓDŹ",
                 "addr:postcode": "91-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3802,7 +4002,8 @@
                 "addr:housenumber": "118 B",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-471",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3821,7 +4022,8 @@
                 "addr:housenumber": "148",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-711",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3840,7 +4042,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-318",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3859,7 +4062,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-496",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3878,7 +4082,8 @@
                 "addr:housenumber": "62",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3897,7 +4102,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3916,7 +4122,8 @@
                 "addr:housenumber": "99",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3935,7 +4142,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-046",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3954,7 +4162,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-464",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3973,7 +4182,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-032",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -3992,7 +4202,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-590",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4011,7 +4222,8 @@
                 "addr:housenumber": "113",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-549",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4030,7 +4242,8 @@
                 "addr:housenumber": "66",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-338",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4049,7 +4262,8 @@
                 "addr:housenumber": "51/53",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-238",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4068,7 +4282,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-034",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4086,7 +4301,8 @@
                 "addr:housenumber": "87",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-271",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4105,7 +4321,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-376",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4124,7 +4341,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-496",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4143,7 +4361,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-047",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4162,7 +4381,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-414",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4180,7 +4400,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4198,7 +4419,8 @@
                 "addr:housenumber": "1/5",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-161",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4217,7 +4439,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-248",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4236,7 +4459,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-848",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4255,7 +4479,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-135",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4273,7 +4498,8 @@
                 "addr:housenumber": "83",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4292,7 +4518,8 @@
                 "addr:housenumber": "89",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-271",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4311,7 +4538,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-134",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4330,7 +4558,8 @@
                 "addr:housenumber": "86",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4349,7 +4578,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-438",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4368,7 +4598,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-490",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4387,7 +4618,8 @@
                 "addr:housenumber": "193",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-447",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4406,7 +4638,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-318",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4425,7 +4658,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-342",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4444,7 +4678,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-357",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4463,7 +4698,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-056",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4482,7 +4718,8 @@
                 "addr:housenumber": "107",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4501,7 +4738,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-058",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4520,7 +4758,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-498",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4539,7 +4778,8 @@
                 "addr:housenumber": "61 BL.391",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-074",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4558,7 +4798,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-042",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4577,7 +4818,8 @@
                 "addr:housenumber": "38/40",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-142",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4596,7 +4838,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-416",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4615,7 +4858,8 @@
                 "addr:housenumber": "51/53",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-238",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4634,7 +4878,8 @@
                 "addr:housenumber": "24/32",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-102",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4653,7 +4898,8 @@
                 "addr:housenumber": "247",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-035",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4672,7 +4918,8 @@
                 "addr:housenumber": "68",
                 "addr:city": "Łódź-Bałuty",
                 "addr:postcode": "91-809",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4691,7 +4938,8 @@
                 "addr:housenumber": "51",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-008",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4710,7 +4958,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-051",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4729,7 +4978,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-104",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4748,7 +4998,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-513",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4767,7 +5018,8 @@
                 "addr:housenumber": "296",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4786,7 +5038,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-046",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4805,7 +5058,8 @@
                 "addr:housenumber": "15/17",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-570",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4824,7 +5078,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4843,7 +5098,8 @@
                 "addr:housenumber": "128/152",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-104",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4862,7 +5118,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4881,7 +5138,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-334",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4900,7 +5158,8 @@
                 "addr:housenumber": "51/53",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-129",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4919,7 +5178,8 @@
                 "addr:housenumber": "62",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-513",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4938,7 +5198,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-348",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4957,7 +5218,8 @@
                 "addr:housenumber": "91A",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-201",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4976,7 +5238,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-804",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -4995,7 +5258,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-083",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5014,7 +5278,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-418",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5032,7 +5297,8 @@
                 "addr:housenumber": "191/195",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-531",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5050,7 +5316,8 @@
                 "addr:housenumber": "1/5",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-347",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5069,7 +5336,8 @@
                 "addr:housenumber": "8/10",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5088,7 +5356,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-357",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5107,7 +5376,8 @@
                 "addr:housenumber": "137/141",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-302",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5126,7 +5396,8 @@
                 "addr:housenumber": "281/289",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-338",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5144,7 +5415,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-113",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5163,7 +5435,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5182,7 +5455,8 @@
                 "addr:housenumber": "71",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-329",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5201,7 +5475,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-552",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5220,7 +5495,8 @@
                 "addr:housenumber": "232",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-133",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5238,7 +5514,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-552",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5257,7 +5534,8 @@
                 "addr:housenumber": "77",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5276,7 +5554,8 @@
                 "addr:housenumber": "81/83",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-402",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5295,7 +5574,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5314,7 +5594,8 @@
                 "addr:housenumber": "76",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5333,7 +5614,8 @@
                 "addr:housenumber": "109A",
                 "addr:city": "Łódź",
                 "addr:postcode": "94-007",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5352,7 +5634,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-485",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5371,7 +5654,8 @@
                 "addr:housenumber": "192",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-368",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5390,7 +5674,8 @@
                 "addr:housenumber": "57/59",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-188",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5409,7 +5694,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-308",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5428,7 +5714,8 @@
                 "addr:housenumber": "100",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-357",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5447,7 +5734,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Łódź-Polesie",
                 "addr:postcode": "94-042",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5466,7 +5754,8 @@
                 "addr:housenumber": "50A",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-172",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5485,7 +5774,8 @@
                 "addr:housenumber": "11B",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5504,7 +5794,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-236",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5523,7 +5814,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-335",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5542,7 +5834,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-252",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5561,7 +5854,8 @@
                 "addr:housenumber": "49/53",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-839",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5580,7 +5874,8 @@
                 "addr:housenumber": "124B",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-239",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5599,7 +5894,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-496",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5618,7 +5914,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-078",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5637,7 +5934,8 @@
                 "addr:housenumber": "63",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-271",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5656,7 +5954,8 @@
                 "addr:housenumber": "281/289 BUD.A",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-338",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5675,7 +5974,8 @@
                 "addr:housenumber": "47",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-309",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5694,7 +5994,8 @@
                 "addr:housenumber": "113",
                 "addr:city": "Łódź",
                 "addr:postcode": "90-549",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5712,7 +6013,8 @@
                 "addr:housenumber": "17/25",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-433",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5730,7 +6032,8 @@
                 "addr:housenumber": "251",
                 "addr:city": "Łódź",
                 "addr:postcode": "92-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5749,7 +6052,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5767,7 +6071,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-408",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5786,7 +6091,8 @@
                 "addr:housenumber": "62",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-513",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5805,7 +6111,8 @@
                 "addr:housenumber": "124",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-286",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5824,7 +6131,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-162",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5843,7 +6151,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Łódź",
                 "addr:postcode": "93-018",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -5862,7 +6171,8 @@
                 "addr:housenumber": "159",
                 "addr:city": "Łódź",
                 "addr:postcode": "91-229",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

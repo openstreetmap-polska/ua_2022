@@ -9,7 +9,8 @@
                 "addr:housenumber": "29",
                 "addr:postcode": "59-225",
                 "amenity": "pharmacy",
-                "addr:place": "Krzywa"
+                "addr:place": "Krzywa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "20A",
                 "addr:city": "Legnickie Pole",
                 "addr:postcode": "59-241",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "54",
                 "addr:postcode": "59-243",
                 "amenity": "pharmacy",
-                "addr:place": "Tyniec Legnicki"
+                "addr:place": "Tyniec Legnicki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "37",
                 "addr:postcode": "59-216",
                 "amenity": "pharmacy",
-                "addr:place": "Jaśkowice Legnickie"
+                "addr:place": "Jaśkowice Legnickie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Kunice",
                 "addr:postcode": "59-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Krotoszyce",
                 "addr:postcode": "59-223",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Chojnów",
                 "addr:postcode": "59-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Chojnów",
                 "addr:postcode": "59-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Miłkowice",
                 "addr:postcode": "59-222",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Prochowice",
                 "addr:postcode": "59-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Chojnów",
                 "addr:postcode": "59-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Chojnów",
                 "addr:postcode": "59-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Chojnów",
                 "addr:postcode": "59-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Chojnów",
                 "addr:postcode": "59-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Chojnów",
                 "addr:postcode": "39-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Prochowice",
                 "addr:postcode": "59-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

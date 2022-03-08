@@ -11,7 +11,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Józefów n/Wisłą",
                 "addr:postcode": "24-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "28",
                 "addr:postcode": "24-313",
                 "amenity": "pharmacy",
-                "addr:place": "Zagłoba"
+                "addr:place": "Zagłoba",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Józefów nad Wisłą",
                 "addr:postcode": "23-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "214",
                 "addr:postcode": "24-350",
                 "amenity": "pharmacy",
-                "addr:place": "Ratoszyn Drugi"
+                "addr:place": "Ratoszyn Drugi",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "74",
                 "addr:postcode": "24-320",
                 "amenity": "pharmacy",
-                "addr:place": "Niezabitów"
+                "addr:place": "Niezabitów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Poniatowa",
                 "addr:postcode": "24-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -118,7 +124,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Poniatowa",
                 "addr:postcode": "24-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -136,7 +143,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Poniatowa",
                 "addr:postcode": "24-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -153,7 +161,8 @@
                 "addr:housenumber": "300",
                 "addr:postcode": "24-310",
                 "amenity": "pharmacy",
-                "addr:place": "Karczmiska Drugie"
+                "addr:place": "Karczmiska Drugie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +180,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Chodel",
                 "addr:postcode": "24-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -189,7 +199,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Poniatowa",
                 "addr:postcode": "24-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -208,7 +219,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Opole Lubelskie",
                 "addr:postcode": "24-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -227,7 +239,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Opole Lubelskie",
                 "addr:postcode": "24-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -245,7 +258,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wrzelowiec",
                 "addr:postcode": "24-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -263,7 +277,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Opole Lubelskie",
                 "addr:postcode": "24-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -281,7 +296,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Opole Lubelskie",
                 "addr:postcode": "24-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -299,7 +315,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Opole Lubelskie",
                 "addr:postcode": "24-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -317,7 +334,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Poniatowa",
                 "addr:postcode": "24-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -336,7 +354,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Chodel",
                 "addr:postcode": "24-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +374,8 @@
                 "addr:housenumber": "13a",
                 "addr:city": "Poniatowa",
                 "addr:postcode": "24-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -374,7 +394,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Poniatowa",
                 "addr:postcode": "24-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -393,7 +414,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Opole Lubelskie",
                 "addr:postcode": "24-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -412,7 +434,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Opole Lubelskie",
                 "addr:postcode": "24-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -431,7 +454,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Opole Lubelskie",
                 "addr:postcode": "24-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -449,7 +473,8 @@
                 "addr:housenumber": "74",
                 "addr:postcode": "24-320",
                 "amenity": "pharmacy",
-                "addr:place": "Niezabitów"
+                "addr:place": "Niezabitów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -466,7 +491,8 @@
                 "addr:housenumber": "30",
                 "addr:postcode": "24-300",
                 "amenity": "pharmacy",
-                "addr:place": "Boiska Stare"
+                "addr:place": "Boiska Stare",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

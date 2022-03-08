@@ -11,7 +11,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "3/7",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Iłów",
                 "addr:postcode": "96-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "19A",
                 "addr:city": "Szymanów",
                 "addr:postcode": "96-516",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Teresin",
                 "addr:postcode": "96-515",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Rybno",
                 "addr:postcode": "96-514",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "44/46",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "49",
                 "addr:postcode": "96-521",
                 "amenity": "pharmacy",
-                "addr:place": "Brzozów Stary"
+                "addr:place": "Brzozów Stary",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "3/7",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "122",
                 "addr:postcode": "05-088",
                 "amenity": "pharmacy",
-                "addr:place": "Brochów"
+                "addr:place": "Brochów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Teresin",
                 "addr:postcode": "96-515",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Teresin",
                 "addr:postcode": "96-515",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "39/41",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "41A",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -328,7 +345,8 @@
                 "addr:housenumber": "50A",
                 "addr:postcode": "96-513",
                 "amenity": "pharmacy",
-                "addr:place": "Nowa Sucha"
+                "addr:place": "Nowa Sucha",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -346,7 +364,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Młodzieszyn",
                 "addr:postcode": "96-512",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -364,7 +383,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +403,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-503",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -402,7 +423,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +443,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -440,7 +463,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +483,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -478,7 +503,8 @@
                 "addr:housenumber": "119",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -497,7 +523,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -516,7 +543,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-503",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -535,7 +563,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Paprotnia",
                 "addr:postcode": "96-515",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -554,7 +583,8 @@
                 "addr:housenumber": "119",
                 "addr:city": "Sochaczew",
                 "addr:postcode": "96-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -572,7 +602,8 @@
                 "addr:housenumber": "117",
                 "addr:postcode": "96-503",
                 "amenity": "pharmacy",
-                "addr:place": "Żuków"
+                "addr:place": "Żuków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

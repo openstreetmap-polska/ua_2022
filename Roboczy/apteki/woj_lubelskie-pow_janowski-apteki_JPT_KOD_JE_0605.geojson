@@ -9,7 +9,8 @@
                 "addr:housenumber": "84",
                 "addr:postcode": "23-320",
                 "amenity": "pharmacy",
-                "addr:place": "Batorz Pierwszy"
+                "addr:place": "Batorz Pierwszy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "33",
                 "addr:postcode": "23-313",
                 "amenity": "pharmacy",
-                "addr:place": "Potoczek"
+                "addr:place": "Potoczek",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -44,7 +46,8 @@
                 "addr:housenumber": "106",
                 "addr:postcode": "23-306",
                 "amenity": "pharmacy",
-                "addr:place": "Zdziłowice Drugie"
+                "addr:place": "Zdziłowice Drugie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -61,7 +64,8 @@
                 "addr:housenumber": "158",
                 "addr:postcode": "23-310",
                 "amenity": "pharmacy",
-                "addr:place": "Wierzchowiska Pierwsze"
+                "addr:place": "Wierzchowiska Pierwsze",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +82,8 @@
                 "addr:housenumber": "113",
                 "addr:postcode": "23-304",
                 "amenity": "pharmacy",
-                "addr:place": "Krzemień Pierwszy"
+                "addr:place": "Krzemień Pierwszy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -96,7 +101,8 @@
                 "addr:housenumber": "77",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -114,7 +120,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -132,7 +139,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Modliborzyce",
                 "addr:postcode": "23-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -149,7 +157,8 @@
                 "addr:housenumber": "88A",
                 "addr:postcode": "23-302",
                 "amenity": "pharmacy",
-                "addr:place": "Godziszów Pierwszy"
+                "addr:place": "Godziszów Pierwszy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -167,7 +176,8 @@
                 "addr:housenumber": "77",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +196,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -205,7 +216,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -224,7 +236,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -241,7 +254,8 @@
                 "addr:housenumber": "107",
                 "addr:postcode": "23-313",
                 "amenity": "pharmacy",
-                "addr:place": "Potok Wielki"
+                "addr:place": "Potok Wielki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -260,7 +274,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -278,7 +293,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +312,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -314,7 +331,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +350,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +370,8 @@
                 "addr:housenumber": "149",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +390,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -389,7 +410,8 @@
                 "addr:housenumber": "149",
                 "addr:city": "Janów Lubelski",
                 "addr:postcode": "23-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +429,8 @@
                 "addr:housenumber": "111",
                 "addr:postcode": "23-305",
                 "amenity": "pharmacy",
-                "addr:place": "Chrzanów"
+                "addr:place": "Chrzanów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

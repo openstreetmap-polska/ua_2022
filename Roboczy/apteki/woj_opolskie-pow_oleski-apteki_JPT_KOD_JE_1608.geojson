@@ -11,7 +11,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Dobrodzień",
                 "addr:postcode": "46-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dobrodzień",
                 "addr:postcode": "46-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Dobrodzień",
                 "addr:postcode": "46-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "23A",
                 "addr:city": "Zębowice",
                 "addr:postcode": "46-048",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Dobrodzień",
                 "addr:postcode": "46-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dobrodzień",
                 "addr:postcode": "46-380",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Rudniki",
                 "addr:postcode": "46-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rudniki",
                 "addr:postcode": "46-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "180",
                 "addr:postcode": "46-325",
                 "amenity": "pharmacy",
-                "addr:place": "Żytniów"
+                "addr:place": "Żytniów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Radłów",
                 "addr:postcode": "46-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Gorzów Śląski",
                 "addr:postcode": "46-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Gorzów Śląski",
                 "addr:postcode": "46-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Olesno",
                 "addr:postcode": "46-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -252,7 +265,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Olesno",
                 "addr:postcode": "46-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -270,7 +284,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Olesno",
                 "addr:postcode": "46-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Olesno",
                 "addr:postcode": "46-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -308,7 +324,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Olesno",
                 "addr:postcode": "46-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +344,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Praszka",
                 "addr:postcode": "46-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -346,7 +364,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Praszka",
                 "addr:postcode": "46-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -364,7 +383,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Praszka",
                 "addr:postcode": "46-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +403,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Olesno",
                 "addr:postcode": "46-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -402,7 +423,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Praszka",
                 "addr:postcode": "46-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +443,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Olesno",
                 "addr:postcode": "46-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -440,7 +463,8 @@
                 "addr:housenumber": "5B",
                 "addr:city": "Olesno",
                 "addr:postcode": "46-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +483,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Praszka",
                 "addr:postcode": "46-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -478,7 +503,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Gorzów Śląski",
                 "addr:postcode": "46-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -497,7 +523,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Olesno",
                 "addr:postcode": "46-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -516,7 +543,8 @@
                 "addr:housenumber": "15F",
                 "addr:city": "Olesno",
                 "addr:postcode": "46-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

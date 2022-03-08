@@ -11,7 +11,8 @@
                 "addr:housenumber": "23 b",
                 "addr:city": "Łobez",
                 "addr:postcode": "73-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Łobez",
                 "addr:postcode": "73-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Łobez",
                 "addr:postcode": "73-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łobez",
                 "addr:postcode": "73-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Łobez",
                 "addr:postcode": "73-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łobez",
                 "addr:postcode": "73-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Dobra",
                 "addr:postcode": "72-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "68",
                 "addr:city": "Resko",
                 "addr:postcode": "72-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "14A",
                 "addr:city": "Resko",
                 "addr:postcode": "72-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "92",
                 "addr:postcode": "72-314",
                 "amenity": "pharmacy",
-                "addr:place": "Radowo Małe"
+                "addr:place": "Radowo Małe",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Węgorzyno",
                 "addr:postcode": "73-155",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Łobez",
                 "addr:postcode": "73-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "1",
                 "addr:postcode": "73-150",
                 "amenity": "pharmacy",
-                "addr:place": "Grabowo"
+                "addr:place": "Grabowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -9,7 +9,8 @@
                 "addr:housenumber": "98",
                 "addr:postcode": "05-152",
                 "amenity": "pharmacy",
-                "addr:place": "Sowia Wola"
+                "addr:place": "Sowia Wola",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Czosnów",
                 "addr:postcode": "05-152",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-102",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Brody",
                 "addr:postcode": "05-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "5/18",
                 "addr:city": "Stare Pieścirogi",
                 "addr:postcode": "05-191",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Cieksyn",
                 "addr:postcode": "05-192",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Kazuń-Bielany",
                 "addr:postcode": "05-152",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +225,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -233,7 +245,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-101",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -252,7 +265,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-101",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -271,7 +285,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Pomiechówek",
                 "addr:postcode": "05-180",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "33A",
                 "addr:city": "Zakroczym",
                 "addr:postcode": "05-170",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -326,7 +343,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -345,7 +363,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-101",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -364,7 +383,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +403,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -402,7 +423,8 @@
                 "addr:housenumber": "376",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +443,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -440,7 +463,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Leoncin",
                 "addr:postcode": "05-155",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +483,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Nowy Dwór Mazowiecki",
                 "addr:postcode": "05-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -478,7 +503,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Nasielsk",
                 "addr:postcode": "05-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -497,7 +523,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Nasielsk",
                 "addr:postcode": "05-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -515,7 +542,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Nasielsk",
                 "addr:postcode": "05-190",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

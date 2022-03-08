@@ -11,7 +11,8 @@
                 "addr:housenumber": "69",
                 "addr:city": "Gilowice",
                 "addr:postcode": "34-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Jeleśnia",
                 "addr:postcode": "34-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "248",
                 "addr:city": "Jeleśnia",
                 "addr:postcode": "34-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "142",
                 "addr:postcode": "34-332",
                 "amenity": "pharmacy",
-                "addr:place": "Koszarawa"
+                "addr:place": "Koszarawa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Ślemień",
                 "addr:postcode": "34-323",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Gilowice",
                 "addr:postcode": "34-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Jeleśnia",
                 "addr:postcode": "34-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Jeleśnia",
                 "addr:postcode": "34-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Międzybrodzie Bialskie",
                 "addr:postcode": "34-312",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Międzybrodzie Bialskie",
                 "addr:postcode": "34-312",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "58B",
                 "addr:city": "Łękawica",
                 "addr:postcode": "34-321",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Łodygowice",
                 "addr:postcode": "34-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "addr:housenumber": "76",
                 "addr:city": "Łodygowice",
                 "addr:postcode": "34-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +270,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Czernichów",
                 "addr:postcode": "34-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -275,7 +289,8 @@
                 "addr:housenumber": "227",
                 "addr:postcode": "34-382",
                 "amenity": "pharmacy",
-                "addr:place": "Brzuśnik"
+                "addr:place": "Brzuśnik",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +309,8 @@
                 "addr:housenumber": "147",
                 "addr:city": "Lipowa",
                 "addr:postcode": "34-324",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -313,7 +329,8 @@
                 "addr:housenumber": "83",
                 "addr:city": "Radziechowy",
                 "addr:postcode": "34-381",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +349,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Rajcza",
                 "addr:postcode": "34-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -351,7 +369,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Rajcza",
                 "addr:postcode": "34-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +389,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Węgierska Górka",
                 "addr:postcode": "34-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -389,7 +409,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Ujsoły",
                 "addr:postcode": "34-371",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -408,7 +429,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Węgierska Górka",
                 "addr:postcode": "34-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -427,7 +449,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Węgierska Górka",
                 "addr:postcode": "34-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +469,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Wieprz",
                 "addr:postcode": "34-381",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -465,7 +489,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -484,7 +509,8 @@
                 "addr:housenumber": "78",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -503,7 +529,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -522,7 +549,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -541,7 +569,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -560,7 +589,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -579,7 +609,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -598,7 +629,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "ŻYWIEC",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -617,7 +649,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -636,7 +669,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -654,7 +688,8 @@
                 "addr:housenumber": "251A",
                 "addr:postcode": "34-371",
                 "amenity": "pharmacy",
-                "addr:place": "Złatna"
+                "addr:place": "Złatna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -673,7 +708,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -692,7 +728,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Milówka",
                 "addr:postcode": "34-360",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -711,7 +748,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Milówka",
                 "addr:postcode": "34-360",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -730,7 +768,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Milówka",
                 "addr:postcode": "34-360",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -749,7 +788,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Pewel Mała",
                 "addr:postcode": "34-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -768,7 +808,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -787,7 +828,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -806,7 +848,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -825,7 +868,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Rajcza",
                 "addr:postcode": "34-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -844,7 +888,8 @@
                 "addr:housenumber": "60",
                 "addr:city": "Pietrzykowice",
                 "addr:postcode": "34-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -863,7 +908,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -882,7 +928,8 @@
                 "addr:housenumber": "45",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -901,7 +948,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Węgierska Górka",
                 "addr:postcode": "34-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -920,7 +968,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -939,7 +988,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -958,7 +1008,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Żywiec",
                 "addr:postcode": "34-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -976,7 +1027,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Pewel Mała",
                 "addr:postcode": "34-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -995,7 +1047,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Lipowa",
                 "addr:postcode": "34-324",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

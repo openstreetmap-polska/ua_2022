@@ -9,7 +9,8 @@
                 "addr:housenumber": "101A",
                 "addr:postcode": "06-121",
                 "amenity": "pharmacy",
-                "addr:place": "Dzierżenin"
+                "addr:place": "Dzierżenin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Winnica",
                 "addr:postcode": "06-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "35A",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Pokrzywnica",
                 "addr:postcode": "06-121",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "130",
                 "addr:city": "Zatory",
                 "addr:postcode": "07-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-102",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-102",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "187",
                 "addr:postcode": "07-215",
                 "amenity": "pharmacy",
-                "addr:place": "Obryte"
+                "addr:place": "Obryte",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -193,7 +203,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -211,7 +222,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -229,7 +241,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +261,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -266,7 +280,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Świercze",
                 "addr:postcode": "06-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -285,7 +300,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -304,7 +320,8 @@
                 "addr:housenumber": "9D",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -323,7 +340,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -341,7 +359,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Pniewo",
                 "addr:postcode": "07-214",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -360,7 +379,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -379,7 +399,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Pułtusk",
                 "addr:postcode": "06-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

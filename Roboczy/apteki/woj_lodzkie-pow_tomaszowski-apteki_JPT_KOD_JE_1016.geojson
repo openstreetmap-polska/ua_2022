@@ -11,7 +11,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Ujazd",
                 "addr:postcode": "97-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Ujazd",
                 "addr:postcode": "97-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "62",
                 "addr:city": "Budziszewice",
                 "addr:postcode": "97-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "1/3",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Spała",
                 "addr:postcode": "92-215",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "8/10",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lubochnia",
                 "addr:postcode": "97-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +305,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +325,8 @@
                 "addr:housenumber": "88",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -328,7 +345,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -347,7 +365,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -366,7 +385,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +403,8 @@
                 "addr:housenumber": "1",
                 "addr:postcode": "62-840",
                 "amenity": "pharmacy",
-                "addr:place": "SOKOŁÓWKA"
+                "addr:place": "SOKOŁÓWKA",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -401,7 +422,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Rzeczyca",
                 "addr:postcode": "97-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +442,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -439,7 +462,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -458,7 +482,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -477,7 +502,8 @@
                 "addr:housenumber": "90",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -496,7 +522,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -515,7 +542,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -534,7 +562,8 @@
                 "addr:housenumber": "62",
                 "addr:city": "Czerniewice",
                 "addr:postcode": "97-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -553,7 +582,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -571,7 +601,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Smardzewice",
                 "addr:postcode": "97-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -590,7 +621,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -609,7 +641,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -628,7 +661,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -647,7 +681,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -665,7 +700,8 @@
                 "addr:housenumber": "41",
                 "addr:postcode": "97-225",
                 "amenity": "pharmacy",
-                "addr:place": "Osiedle Niewiadów"
+                "addr:place": "Osiedle Niewiadów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -683,7 +719,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -702,7 +739,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Żelechlinek",
                 "addr:postcode": "97-226",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -721,7 +759,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -740,7 +779,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -759,7 +799,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Tomaszów Mazowiecki",
                 "addr:postcode": "97-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -778,7 +819,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Będków",
                 "addr:postcode": "97-319",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -797,7 +839,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Rokiciny-Kolonia",
                 "addr:postcode": "97-221",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

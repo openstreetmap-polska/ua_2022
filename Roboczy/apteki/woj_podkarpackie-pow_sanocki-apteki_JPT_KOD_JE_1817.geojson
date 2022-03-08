@@ -11,7 +11,8 @@
                 "addr:housenumber": "66",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "31A",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Besko",
                 "addr:postcode": "38-524",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "291",
                 "addr:postcode": "38-505",
                 "amenity": "pharmacy",
-                "addr:place": "Bukowsko"
+                "addr:place": "Bukowsko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "160",
                 "addr:postcode": "38-543",
                 "amenity": "pharmacy",
-                "addr:place": "Komańcza"
+                "addr:place": "Komańcza",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +144,8 @@
                 "addr:housenumber": "81",
                 "addr:postcode": "38-616",
                 "amenity": "pharmacy",
-                "addr:place": "Tarnawa Górna"
+                "addr:place": "Tarnawa Górna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -155,7 +163,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Zagórz",
                 "addr:postcode": "38-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -174,7 +183,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Zagórz",
                 "addr:postcode": "38-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -192,7 +202,8 @@
                 "addr:housenumber": "234",
                 "addr:postcode": "38-530",
                 "amenity": "pharmacy",
-                "addr:place": "Jaćmierz"
+                "addr:place": "Jaćmierz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -211,7 +222,8 @@
                 "addr:housenumber": "134",
                 "addr:city": "Zarszyn",
                 "addr:postcode": "38-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -229,7 +241,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -247,7 +260,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -265,7 +279,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -284,7 +299,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -303,7 +319,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -322,7 +339,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -341,7 +359,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -360,7 +379,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -379,7 +399,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -398,7 +419,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -417,7 +439,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -436,7 +459,8 @@
                 "addr:housenumber": "24A",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -455,7 +479,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -474,7 +499,8 @@
                 "addr:housenumber": "11a",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -493,7 +519,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -511,7 +538,8 @@
                 "addr:housenumber": "30",
                 "addr:postcode": "38-503",
                 "amenity": "pharmacy",
-                "addr:place": "Mrzygłód"
+                "addr:place": "Mrzygłód",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -529,7 +557,8 @@
                 "addr:housenumber": "85",
                 "addr:city": "Nowosielce",
                 "addr:postcode": "38-533",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -546,7 +575,8 @@
                 "addr:housenumber": "93",
                 "addr:postcode": "38-505",
                 "amenity": "pharmacy",
-                "addr:place": "Nowotaniec"
+                "addr:place": "Nowotaniec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -565,7 +595,8 @@
                 "addr:housenumber": "78",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -584,7 +615,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -603,7 +635,8 @@
                 "addr:housenumber": "1 A",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -620,7 +653,8 @@
                 "addr:housenumber": "1A",
                 "addr:postcode": "38-542",
                 "amenity": "pharmacy",
-                "addr:place": "Rzepedź"
+                "addr:place": "Rzepedź",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -639,7 +673,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -658,7 +693,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -677,7 +713,8 @@
                 "addr:housenumber": "5a",
                 "addr:city": "Besko",
                 "addr:postcode": "37-524",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -696,7 +733,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Besko",
                 "addr:postcode": "38-524",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -715,7 +753,8 @@
                 "addr:housenumber": "147",
                 "addr:city": "Długie",
                 "addr:postcode": "38-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -733,7 +772,8 @@
                 "addr:housenumber": "238",
                 "addr:postcode": "38-535",
                 "amenity": "pharmacy",
-                "addr:place": "Tyrawa Wołoska"
+                "addr:place": "Tyrawa Wołoska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -752,7 +792,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +812,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -790,7 +832,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sanok",
                 "addr:postcode": "38-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

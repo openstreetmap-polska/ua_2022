@@ -10,7 +10,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Sieciechów",
                 "addr:postcode": "26-922",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Zajezierze",
                 "addr:postcode": "26-922",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Gniewoszów",
                 "addr:postcode": "26-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "97A",
                 "addr:city": "Garbatka-Letnisko",
                 "addr:postcode": "26-930",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Garbatka-Letnisko",
                 "addr:postcode": "26-930",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "81A",
                 "addr:postcode": "26-930",
                 "amenity": "pharmacy",
-                "addr:place": "Bogucin"
+                "addr:place": "Bogucin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Głowaczów",
                 "addr:postcode": "26-903",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "7B",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Brzóza",
                 "addr:postcode": "26-903",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +322,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +342,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -344,7 +362,8 @@
                 "addr:housenumber": "10 Z",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +380,8 @@
                 "addr:housenumber": "55",
                 "addr:postcode": "26-900",
                 "amenity": "pharmacy",
-                "addr:place": "Świerże Górne"
+                "addr:place": "Świerże Górne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +400,8 @@
                 "addr:housenumber": "59D",
                 "addr:city": "Kozienice",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +418,8 @@
                 "addr:housenumber": "18",
                 "addr:postcode": "26-914",
                 "amenity": "pharmacy",
-                "addr:place": "Mniszew"
+                "addr:place": "Mniszew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -415,7 +437,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Grabów nad Pilicą",
                 "addr:postcode": "26-902",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -433,7 +456,8 @@
                 "addr:housenumber": "14A",
                 "addr:city": "Magnuszew",
                 "addr:postcode": "26-910",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

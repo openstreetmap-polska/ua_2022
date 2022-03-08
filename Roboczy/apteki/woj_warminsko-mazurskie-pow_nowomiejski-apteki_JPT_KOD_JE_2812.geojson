@@ -10,7 +10,8 @@
                 "addr:housenumber": "138",
                 "addr:postcode": "13-334",
                 "amenity": "pharmacy",
-                "addr:place": "Łąkorz"
+                "addr:place": "Łąkorz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Biskupiec",
                 "addr:postcode": "13-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "NOWE MIASTO LUBAWSKIE",
                 "addr:postcode": "13-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "19",
                 "addr:postcode": "13-306",
                 "amenity": "pharmacy",
-                "addr:place": "TERESZEWO"
+                "addr:place": "TERESZEWO",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "BISKUPIEC",
                 "addr:postcode": "13-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Nowe Miasto Lubawskie",
                 "addr:postcode": "13-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "NOWE MIASTO LUBAWSKIE",
                 "addr:postcode": "13-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "NOWE MIASTO LUBAWSKIE",
                 "addr:postcode": "13-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "11B",
                 "addr:city": "Nowe Miasto Lubawskie",
                 "addr:postcode": "13-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "41A",
                 "addr:postcode": "13-330",
                 "amenity": "pharmacy",
-                "addr:place": "Krotoszyny"
+                "addr:place": "Krotoszyny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -193,7 +203,8 @@
                 "addr:housenumber": "17C",
                 "addr:postcode": "13-324",
                 "amenity": "pharmacy",
-                "addr:place": "Nowe Grodziczno"
+                "addr:place": "Nowe Grodziczno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Mszanowo",
                 "addr:postcode": "13-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Nowe Miasto Lubawskie",
                 "addr:postcode": "13-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kurzętnik",
                 "addr:postcode": "13-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -269,7 +283,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Kurzętnik",
                 "addr:postcode": "13-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

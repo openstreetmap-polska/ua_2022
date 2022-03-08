@@ -10,7 +10,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Łomazy",
                 "addr:postcode": "21-532",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "122",
                 "addr:city": "Rossosz",
                 "addr:postcode": "21-533",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Piszczac",
                 "addr:postcode": "21-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -63,7 +66,8 @@
                 "addr:housenumber": "26A",
                 "addr:postcode": "21-523",
                 "amenity": "pharmacy",
-                "addr:place": "Tuczna"
+                "addr:place": "Tuczna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "9B",
                 "addr:city": "Sławatycze",
                 "addr:postcode": "21-515",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kodeń",
                 "addr:postcode": "21-509",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Wisznice",
                 "addr:postcode": "21-580",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "55",
                 "addr:postcode": "21-504",
                 "amenity": "pharmacy",
-                "addr:place": "Rokitno"
+                "addr:place": "Rokitno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Terespol",
                 "addr:postcode": "21-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Wisznice",
                 "addr:postcode": "21-580",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -193,7 +203,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Zalesie",
                 "addr:postcode": "21-512",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -211,7 +222,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Kodeń",
                 "addr:postcode": "21-509",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -229,7 +241,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Terespol",
                 "addr:postcode": "21-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +261,8 @@
                 "addr:housenumber": "35c",
                 "addr:city": "Wisznice",
                 "addr:postcode": "21-580",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -266,7 +280,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Piszczac",
                 "addr:postcode": "21-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -285,7 +300,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Terespol",
                 "addr:postcode": "21-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -304,7 +320,8 @@
                 "addr:housenumber": "85A",
                 "addr:city": "Terespol",
                 "addr:postcode": "21-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -323,7 +340,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Małaszewicze",
                 "addr:postcode": "21-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -341,7 +359,8 @@
                 "addr:housenumber": "21A",
                 "addr:postcode": "21-500",
                 "amenity": "pharmacy",
-                "addr:place": "Woskrzenice Duże"
+                "addr:place": "Woskrzenice Duże",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -360,7 +379,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kobylany",
                 "addr:postcode": "21-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -379,7 +399,8 @@
                 "addr:housenumber": "120",
                 "addr:city": "Rossosz",
                 "addr:postcode": "21-533",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +418,8 @@
                 "addr:housenumber": "29c",
                 "addr:postcode": "21-512",
                 "amenity": "pharmacy",
-                "addr:place": "Horbów-Kolonia"
+                "addr:place": "Horbów-Kolonia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -416,7 +438,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Janów Podlaski",
                 "addr:postcode": "21-505",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -434,7 +457,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Drelów",
                 "addr:postcode": "21-570",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -453,7 +477,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Międzyrzec Podlaski",
                 "addr:postcode": "21-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -472,7 +497,8 @@
                 "addr:housenumber": "47",
                 "addr:city": "Międzyrzec Podlaski",
                 "addr:postcode": "21-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -491,7 +517,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Międzyrzec Podlaski",
                 "addr:postcode": "21-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -510,7 +537,8 @@
                 "addr:housenumber": "1c",
                 "addr:city": "Międzyrzec Podlaski",
                 "addr:postcode": "21-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -528,7 +556,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Konstantynów",
                 "addr:postcode": "21-543",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -546,7 +575,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Leśna Podlaska",
                 "addr:postcode": "21-542",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -565,7 +595,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Międzyrzec Podlaski",
                 "addr:postcode": "21-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -584,7 +615,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Międzyrzec Podlaski",
                 "addr:postcode": "21-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -603,7 +635,8 @@
                 "addr:housenumber": "2-4",
                 "addr:city": "Międzyrzec Podlaski",
                 "addr:postcode": "21-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -621,7 +654,8 @@
                 "addr:housenumber": "8",
                 "addr:postcode": "21-564",
                 "amenity": "pharmacy",
-                "addr:place": "Tłuściec"
+                "addr:place": "Tłuściec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -640,7 +674,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Międzyrzec Podlaski",
                 "addr:postcode": "21-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -659,7 +694,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Międzyrzec Podlaski",
                 "addr:postcode": "21-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -678,7 +714,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Międzyrzec Podlaski",
                 "addr:postcode": "21-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -696,7 +733,8 @@
                 "addr:housenumber": "76",
                 "addr:postcode": "21-560",
                 "amenity": "pharmacy",
-                "addr:place": "Rogoźnica"
+                "addr:place": "Rogoźnica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

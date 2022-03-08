@@ -11,7 +11,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Lubsko",
                 "addr:postcode": "68-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Lubsko",
                 "addr:postcode": "68-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lubsko",
                 "addr:postcode": "68-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Tuplice",
                 "addr:postcode": "68-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "3B",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -218,7 +229,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Brody",
                 "addr:postcode": "68-343",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Lipinki Łużyckie",
                 "addr:postcode": "68-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Trzebiel",
                 "addr:postcode": "68-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Trzebiel",
                 "addr:postcode": "68-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Mirostowice Dolne",
                 "addr:postcode": "68-206",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -368,7 +387,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Przewóz",
                 "addr:postcode": "68-132",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +407,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Bronowice",
                 "addr:postcode": "68-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -405,7 +426,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Jasień",
                 "addr:postcode": "68-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -424,7 +446,8 @@
                 "addr:housenumber": "20A",
                 "addr:city": "Jasień",
                 "addr:postcode": "68-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -443,7 +466,8 @@
                 "addr:housenumber": "31e",
                 "addr:city": "Lubsko",
                 "addr:postcode": "68-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -461,7 +485,8 @@
                 "addr:housenumber": "17-19",
                 "addr:city": "Lubsko",
                 "addr:postcode": "68-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -479,7 +504,8 @@
                 "addr:housenumber": "87",
                 "addr:city": "Lubsko",
                 "addr:postcode": "68-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +524,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -517,7 +544,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łęknica",
                 "addr:postcode": "68-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -536,7 +564,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Łęknica",
                 "addr:postcode": "68-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -554,7 +583,8 @@
                 "addr:housenumber": "75",
                 "addr:postcode": "68-343",
                 "amenity": "pharmacy",
-                "addr:place": "Zasieki"
+                "addr:place": "Zasieki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -572,7 +602,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -591,7 +622,8 @@
                 "addr:housenumber": "28b",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -609,7 +641,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -628,7 +661,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -647,7 +681,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -665,7 +700,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Trzebiel",
                 "addr:postcode": "68-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -684,7 +720,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -703,7 +740,8 @@
                 "addr:housenumber": "11 D",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -722,7 +760,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -741,7 +780,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -759,7 +799,8 @@
                 "addr:housenumber": "2C",
                 "addr:city": "Bieniów",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -777,7 +818,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Łęknica",
                 "addr:postcode": "68-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -796,7 +838,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lubsko",
                 "addr:postcode": "68-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -815,7 +858,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Lubsko",
                 "addr:postcode": "68-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -834,7 +878,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -853,7 +898,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Żary",
                 "addr:postcode": "68-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

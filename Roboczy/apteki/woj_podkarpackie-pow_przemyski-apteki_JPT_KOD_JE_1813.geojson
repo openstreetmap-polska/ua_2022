@@ -10,7 +10,8 @@
                 "addr:housenumber": "218",
                 "addr:city": "Żurawica",
                 "addr:postcode": "37-710",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "479a",
                 "addr:postcode": "37-732",
                 "amenity": "pharmacy",
-                "addr:place": "Medyka"
+                "addr:place": "Medyka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "addr:housenumber": "69a",
                 "addr:postcode": "37-723",
                 "amenity": "pharmacy",
-                "addr:place": "Stubno"
+                "addr:place": "Stubno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -62,7 +65,8 @@
                 "addr:housenumber": "55",
                 "addr:postcode": "37-716",
                 "amenity": "pharmacy",
-                "addr:place": "Wacławice"
+                "addr:place": "Wacławice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +85,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Żurawica",
                 "addr:postcode": "37-710",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Orły",
                 "addr:postcode": "37-716",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -118,7 +124,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Orły",
                 "addr:postcode": "37-716",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -136,7 +143,8 @@
                 "addr:housenumber": "405A",
                 "addr:postcode": "37-732",
                 "amenity": "pharmacy",
-                "addr:place": "Medyka"
+                "addr:place": "Medyka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -155,7 +163,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Żurawica",
                 "addr:postcode": "37-710",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -173,7 +182,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Żurawica",
                 "addr:postcode": "37-710",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -191,7 +201,8 @@
                 "addr:housenumber": "214a",
                 "addr:postcode": "37-722",
                 "amenity": "pharmacy",
-                "addr:place": "Wyszatyce"
+                "addr:place": "Wyszatyce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -209,7 +220,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Bircza",
                 "addr:postcode": "37-740",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -226,7 +238,8 @@
                 "addr:housenumber": "67",
                 "addr:postcode": "37-754",
                 "amenity": "pharmacy",
-                "addr:place": "Krzywcza"
+                "addr:place": "Krzywcza",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -245,7 +258,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Dubiecko",
                 "addr:postcode": "37-750",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -264,7 +278,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Dubiecko",
                 "addr:postcode": "37-750",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -282,7 +297,8 @@
                 "addr:housenumber": "138",
                 "addr:postcode": "37-741",
                 "amenity": "pharmacy",
-                "addr:place": "Krasiczyn"
+                "addr:place": "Krasiczyn",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -300,7 +316,8 @@
                 "addr:housenumber": "11",
                 "addr:postcode": "37-750",
                 "amenity": "pharmacy",
-                "addr:place": "Winne-Podbukowina"
+                "addr:place": "Winne-Podbukowina",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

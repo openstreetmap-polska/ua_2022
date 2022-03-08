@@ -10,7 +10,8 @@
                 "addr:housenumber": "651",
                 "addr:postcode": "32-014",
                 "amenity": "pharmacy",
-                "addr:place": "Kłaj"
+                "addr:place": "Kłaj",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "53",
                 "addr:postcode": "32-007",
                 "amenity": "pharmacy",
-                "addr:place": "Zabierzów Bocheński"
+                "addr:place": "Zabierzów Bocheński",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "addr:housenumber": "820",
                 "addr:postcode": "32-015",
                 "amenity": "pharmacy",
-                "addr:place": "Kłaj"
+                "addr:place": "Kłaj",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -63,7 +66,8 @@
                 "addr:housenumber": "53",
                 "addr:postcode": "32-420",
                 "amenity": "pharmacy",
-                "addr:place": "Gdów"
+                "addr:place": "Gdów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +85,8 @@
                 "addr:housenumber": "336",
                 "addr:postcode": "32-420",
                 "amenity": "pharmacy",
-                "addr:place": "Gdów"
+                "addr:place": "Gdów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -98,7 +103,8 @@
                 "addr:housenumber": "294",
                 "addr:postcode": "32-420",
                 "amenity": "pharmacy",
-                "addr:place": "Gdów"
+                "addr:place": "Gdów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -116,7 +122,8 @@
                 "addr:housenumber": "331",
                 "addr:postcode": "32-420",
                 "amenity": "pharmacy",
-                "addr:place": "Gdów"
+                "addr:place": "Gdów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +141,8 @@
                 "addr:housenumber": "242",
                 "addr:postcode": "32-020",
                 "amenity": "pharmacy",
-                "addr:place": "Gorzków"
+                "addr:place": "Gorzków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -152,7 +160,8 @@
                 "addr:housenumber": "666",
                 "addr:postcode": "32-020",
                 "amenity": "pharmacy",
-                "addr:place": "Koźmice Wielkie"
+                "addr:place": "Koźmice Wielkie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -171,7 +180,8 @@
                 "addr:housenumber": "36 A",
                 "addr:city": "Wieliczka",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -190,7 +200,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Wieliczka",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -207,7 +218,8 @@
                 "addr:housenumber": "140",
                 "addr:postcode": "32-020",
                 "amenity": "pharmacy",
-                "addr:place": "Chorągwica"
+                "addr:place": "Chorągwica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -226,7 +238,8 @@
                 "addr:housenumber": "28A",
                 "addr:city": "Niepołomice",
                 "addr:postcode": "32-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -245,7 +258,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Wieliczka",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -263,7 +277,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Wieliczka",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -280,7 +295,8 @@
                 "addr:housenumber": "121",
                 "addr:postcode": "32-013",
                 "amenity": "pharmacy",
-                "addr:place": "Niegowić"
+                "addr:place": "Niegowić",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -299,7 +315,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Niepołomice",
                 "addr:postcode": "32-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -317,7 +334,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Wieliczka",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -336,7 +354,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Wieliczka",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -355,7 +374,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Wieliczka",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -374,7 +394,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Wieliczka",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +412,8 @@
                 "addr:housenumber": "605",
                 "addr:postcode": "32-003",
                 "amenity": "pharmacy",
-                "addr:place": "Podłęże"
+                "addr:place": "Podłęże",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +432,8 @@
                 "addr:housenumber": "20A",
                 "addr:city": "Wieliczka",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +452,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Niepołomice",
                 "addr:postcode": "32-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -447,7 +471,8 @@
                 "addr:housenumber": "340",
                 "addr:postcode": "32-020",
                 "amenity": "pharmacy",
-                "addr:place": "Trąbki"
+                "addr:place": "Trąbki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -466,7 +491,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Niepołomice",
                 "addr:postcode": "32-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +511,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Wieliczka",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -504,7 +531,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Niepołomice",
                 "addr:postcode": "32-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -523,7 +551,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Wieliczka",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -541,7 +570,8 @@
                 "addr:housenumber": "519",
                 "addr:postcode": "32-002",
                 "amenity": "pharmacy",
-                "addr:place": "Kokotów"
+                "addr:place": "Kokotów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -559,7 +589,8 @@
                 "addr:housenumber": "730",
                 "addr:postcode": "32-003",
                 "amenity": "pharmacy",
-                "addr:place": "Podłęże"
+                "addr:place": "Podłęże",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +607,8 @@
                 "addr:housenumber": "79",
                 "addr:postcode": "32-014",
                 "amenity": "pharmacy",
-                "addr:place": "Brzezie"
+                "addr:place": "Brzezie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -594,7 +626,8 @@
                 "addr:housenumber": "580",
                 "addr:postcode": "32-005",
                 "amenity": "pharmacy",
-                "addr:place": "Staniątki"
+                "addr:place": "Staniątki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

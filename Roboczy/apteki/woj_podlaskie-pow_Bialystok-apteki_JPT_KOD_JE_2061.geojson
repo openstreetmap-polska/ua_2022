@@ -11,7 +11,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-845",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-278",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-950",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-811",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "59C",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-794",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-662",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-034",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "55A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-222",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-117",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-348",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "25A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-703",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-054",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "8C",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-054",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +331,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-644",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +351,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-873",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +371,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-427",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -371,7 +390,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-727",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -390,7 +410,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -409,7 +430,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-269",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -428,7 +450,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-274",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -447,7 +470,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-265",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -466,7 +490,8 @@
                 "addr:housenumber": "81",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-201",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +510,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -504,7 +530,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-281",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -523,7 +550,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-027",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -542,7 +570,8 @@
                 "addr:housenumber": "87",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-157",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -561,7 +590,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-687",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -580,7 +610,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -599,7 +630,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-028",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -618,7 +650,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -637,7 +670,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-377",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -656,7 +690,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-745",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -675,7 +710,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-399",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -694,7 +730,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-297",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -712,7 +749,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-297",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -731,7 +769,8 @@
                 "addr:housenumber": "11C",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-354",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -750,7 +789,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -769,7 +809,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-349",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -788,7 +829,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-888",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -807,7 +849,8 @@
                 "addr:housenumber": "67",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-649",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -826,7 +869,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-281",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -844,7 +888,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-097",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -862,7 +907,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-482",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -880,7 +926,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -898,7 +945,8 @@
                 "addr:housenumber": "12A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-879",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -916,7 +964,8 @@
                 "addr:housenumber": "79",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-003",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -935,7 +984,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-845",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -953,7 +1003,8 @@
                 "addr:housenumber": "16A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-057",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -972,7 +1023,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-879",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -990,7 +1042,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-435",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1009,7 +1062,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-422",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1028,7 +1082,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-354",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1047,7 +1102,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1065,7 +1121,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-471",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1140,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-950",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1102,7 +1160,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-013",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1121,7 +1180,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-057",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1140,7 +1200,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-453",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1159,7 +1220,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1178,7 +1240,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-044",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1197,7 +1260,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-312",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1216,7 +1280,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-064",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1235,7 +1300,8 @@
                 "addr:housenumber": "92",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-370",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1254,7 +1320,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-701",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1273,7 +1340,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-687",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1292,7 +1360,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-042",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1311,7 +1380,8 @@
                 "addr:housenumber": "67",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-774",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1329,7 +1399,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-756",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1348,7 +1419,8 @@
                 "addr:housenumber": "1C",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-661",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1367,7 +1439,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-404",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1385,7 +1458,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-349",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1403,7 +1477,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-028",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1421,7 +1496,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1440,7 +1516,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-666",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1459,7 +1536,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-740",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1478,7 +1556,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-579",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1497,7 +1576,8 @@
                 "addr:housenumber": "71/73",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-950",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1516,7 +1596,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1535,7 +1616,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-422",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1554,7 +1636,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1573,7 +1656,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1592,7 +1676,8 @@
                 "addr:housenumber": "79",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-201",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1611,7 +1696,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-183",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1630,7 +1716,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-748",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1649,7 +1736,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-863",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1668,7 +1756,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-814",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1687,7 +1776,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-617",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1706,7 +1796,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-092",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1725,7 +1816,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-453",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1743,7 +1835,8 @@
                 "addr:housenumber": "84",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-680",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1761,7 +1854,8 @@
                 "addr:housenumber": "69",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-531",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1779,7 +1873,8 @@
                 "addr:housenumber": "69",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-337",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1798,7 +1893,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-617",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1817,7 +1913,8 @@
                 "addr:housenumber": "79A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-003",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1835,7 +1932,8 @@
                 "addr:housenumber": "88",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-668",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1853,7 +1951,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-121",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1872,7 +1971,8 @@
                 "addr:housenumber": "11D",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-354",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1891,7 +1991,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-424",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1910,7 +2011,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-008",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1929,7 +2031,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-845",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1947,7 +2050,8 @@
                 "addr:housenumber": "9A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-044",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1965,7 +2069,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-013",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1983,7 +2088,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-276",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2001,7 +2107,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-274",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2019,7 +2126,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-732",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2038,7 +2146,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-445",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2057,7 +2166,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-096",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2076,7 +2186,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-277",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2094,7 +2205,8 @@
                 "addr:housenumber": "51",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-763",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2113,7 +2225,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-691",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2132,7 +2245,8 @@
                 "addr:housenumber": "85",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-649",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2151,7 +2265,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-674",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2170,7 +2285,8 @@
                 "addr:housenumber": "59",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-704",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2189,7 +2305,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-101",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2208,7 +2325,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-644",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2227,7 +2345,8 @@
                 "addr:housenumber": "22C",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-146",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2246,7 +2365,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2265,7 +2385,8 @@
                 "addr:housenumber": "71",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-351",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2284,7 +2405,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-375",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2303,7 +2425,8 @@
                 "addr:housenumber": "67",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-168",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2322,7 +2445,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2341,7 +2465,8 @@
                 "addr:housenumber": "131",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-181",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2360,7 +2485,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-687",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2379,7 +2505,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-703",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2398,7 +2525,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2417,7 +2545,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-113",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2436,7 +2565,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2454,7 +2584,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-084",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2473,7 +2604,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2492,7 +2624,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-349",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2511,7 +2644,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2530,7 +2664,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-483",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2548,7 +2683,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-062",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2566,7 +2702,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-950",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2585,7 +2722,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2603,7 +2741,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-483",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2622,7 +2761,8 @@
                 "addr:housenumber": "17B",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-814",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2641,7 +2781,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-017",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2660,7 +2801,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-863",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2679,7 +2821,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-369",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2698,7 +2841,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Białystok",
                 "addr:postcode": "15-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

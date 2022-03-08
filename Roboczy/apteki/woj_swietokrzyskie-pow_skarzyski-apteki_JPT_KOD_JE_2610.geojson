@@ -9,7 +9,8 @@
                 "addr:housenumber": "1C",
                 "addr:postcode": "26-140",
                 "amenity": "pharmacy",
-                "addr:place": "Kamionki"
+                "addr:place": "Kamionki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "87A",
                 "addr:postcode": "26-140",
                 "amenity": "pharmacy",
-                "addr:place": "Łączna"
+                "addr:place": "Łączna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Suchedniów",
                 "addr:postcode": "26-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -63,7 +66,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Bliżyn",
                 "addr:postcode": "26-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +85,8 @@
                 "addr:housenumber": "2a",
                 "addr:city": "Skarżysko Kościelne",
                 "addr:postcode": "26-115",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -118,7 +124,8 @@
                 "addr:housenumber": "34B",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +144,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +164,8 @@
                 "addr:housenumber": "104",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -174,7 +183,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -192,7 +202,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -211,7 +222,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "SKARŻYSKO-KAMIENNA",
                 "addr:postcode": "26-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -230,7 +242,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Suchedniów",
                 "addr:postcode": "26-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "SKARŻYSKO-KAMIENNA",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Suchedniów",
                 "addr:postcode": "26-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +322,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +342,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -344,7 +362,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -362,7 +381,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +401,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -400,7 +421,8 @@
                 "addr:housenumber": "55",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -419,7 +441,8 @@
                 "addr:housenumber": "88",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -438,7 +461,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -457,7 +481,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -476,7 +501,8 @@
                 "addr:housenumber": "65",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -495,7 +521,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Bliżyn",
                 "addr:postcode": "26-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -514,7 +541,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Skarżysko-Kamienna",
                 "addr:postcode": "26-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -533,7 +561,8 @@
                 "addr:housenumber": "16 A",
                 "addr:city": "Skarżysko Kościelne",
                 "addr:postcode": "26-115",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

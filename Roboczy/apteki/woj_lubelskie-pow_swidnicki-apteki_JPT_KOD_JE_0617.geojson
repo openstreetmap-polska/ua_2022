@@ -9,7 +9,8 @@
                 "addr:housenumber": "84",
                 "addr:postcode": "21-065",
                 "amenity": "pharmacy",
-                "addr:place": "Rybczewice Drugie"
+                "addr:place": "Rybczewice Drugie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Piaski",
                 "addr:postcode": "21-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Trawniki",
                 "addr:postcode": "21-044",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -63,7 +66,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Piaski",
                 "addr:postcode": "21-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +85,8 @@
                 "addr:housenumber": "120C",
                 "addr:postcode": "21-065",
                 "amenity": "pharmacy",
-                "addr:place": "Rybczewice Drugie"
+                "addr:place": "Rybczewice Drugie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -99,7 +104,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Piaski",
                 "addr:postcode": "21-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -117,7 +123,8 @@
                 "addr:housenumber": "22A",
                 "addr:city": "Biskupice",
                 "addr:postcode": "21-043",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -135,7 +142,8 @@
                 "addr:housenumber": "529a",
                 "addr:postcode": "21-044",
                 "amenity": "pharmacy",
-                "addr:place": "Trawniki"
+                "addr:place": "Trawniki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -153,7 +161,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -172,7 +181,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -191,7 +201,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -210,7 +221,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -229,7 +241,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +261,8 @@
                 "addr:housenumber": "20 B",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +281,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -286,7 +301,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Mełgiew",
                 "addr:postcode": "21-007",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -304,7 +320,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -323,7 +340,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +360,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +380,8 @@
                 "addr:housenumber": "8 i",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +400,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -399,7 +420,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -418,7 +440,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -437,7 +460,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -456,7 +480,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -475,7 +500,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -494,7 +520,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Świdnik",
                 "addr:postcode": "21-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

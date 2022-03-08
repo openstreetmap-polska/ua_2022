@@ -11,7 +11,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Brzozów",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Brzozów",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Brzozów",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Brzozów",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Brzozów",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "84A",
                 "addr:postcode": "36-213",
                 "amenity": "pharmacy",
-                "addr:place": "Haczów"
+                "addr:place": "Haczów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Brzozów",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Brzozów",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Brzozów",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Brzozów",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "95",
                 "addr:postcode": "36-213",
                 "amenity": "pharmacy",
-                "addr:place": "Haczów"
+                "addr:place": "Haczów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +225,8 @@
                 "addr:housenumber": "471",
                 "addr:postcode": "36-221",
                 "amenity": "pharmacy",
-                "addr:place": "Blizne"
+                "addr:place": "Blizne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "53",
                 "addr:postcode": "36-206",
                 "amenity": "pharmacy",
-                "addr:place": "Humniska"
+                "addr:place": "Humniska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "143A",
                 "addr:postcode": "36-204",
                 "amenity": "pharmacy",
-                "addr:place": "Niebocko"
+                "addr:place": "Niebocko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Brzozów",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -286,7 +301,8 @@
                 "addr:housenumber": "312",
                 "addr:postcode": "36-204",
                 "amenity": "pharmacy",
-                "addr:place": "Dydnia"
+                "addr:place": "Dydnia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -304,7 +320,8 @@
                 "addr:housenumber": "216",
                 "addr:postcode": "36-220",
                 "amenity": "pharmacy",
-                "addr:place": "Jasienica Rosielna"
+                "addr:place": "Jasienica Rosielna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -322,7 +339,8 @@
                 "addr:housenumber": "379",
                 "addr:postcode": "36-203",
                 "amenity": "pharmacy",
-                "addr:place": "Izdebki"
+                "addr:place": "Izdebki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -341,7 +359,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Brzozów",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -359,7 +378,8 @@
                 "addr:housenumber": "676",
                 "addr:postcode": "36-200",
                 "amenity": "pharmacy",
-                "addr:place": "Przysietnica"
+                "addr:place": "Przysietnica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -377,7 +397,8 @@
                 "addr:housenumber": "621A",
                 "addr:postcode": "36-200",
                 "amenity": "pharmacy",
-                "addr:place": "Stara Wieś"
+                "addr:place": "Stara Wieś",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -395,7 +416,8 @@
                 "addr:housenumber": "323",
                 "addr:postcode": "36-230",
                 "amenity": "pharmacy",
-                "addr:place": "Domaradz"
+                "addr:place": "Domaradz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -413,7 +435,8 @@
                 "addr:housenumber": "71",
                 "addr:postcode": "36-230",
                 "amenity": "pharmacy",
-                "addr:place": "Golcowa"
+                "addr:place": "Golcowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -430,7 +453,8 @@
                 "addr:housenumber": "230",
                 "addr:postcode": "38-245",
                 "amenity": "pharmacy",
-                "addr:place": "Nozdrzec"
+                "addr:place": "Nozdrzec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -447,7 +471,8 @@
                 "addr:housenumber": "432A",
                 "addr:postcode": "36-233",
                 "amenity": "pharmacy",
-                "addr:place": "Wesoła"
+                "addr:place": "Wesoła",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -465,7 +490,8 @@
                 "addr:housenumber": "275",
                 "addr:postcode": "36-200",
                 "amenity": "pharmacy",
-                "addr:place": "Grabownica Starzeńska"
+                "addr:place": "Grabownica Starzeńska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -482,7 +508,8 @@
                 "addr:housenumber": "396",
                 "addr:postcode": "36-207",
                 "amenity": "pharmacy",
-                "addr:place": "Grabownica Starzeńska"
+                "addr:place": "Grabownica Starzeńska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -500,7 +527,8 @@
                 "addr:housenumber": "282A",
                 "addr:postcode": "36-211",
                 "amenity": "pharmacy",
-                "addr:place": "Jasionów"
+                "addr:place": "Jasionów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -517,7 +545,8 @@
                 "addr:housenumber": "87a",
                 "addr:postcode": "36-212",
                 "amenity": "pharmacy",
-                "addr:place": "Trześniów"
+                "addr:place": "Trześniów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -9,7 +9,8 @@
                 "addr:housenumber": "6",
                 "addr:postcode": "87-522",
                 "amenity": "pharmacy",
-                "addr:place": "Ostrowite"
+                "addr:place": "Ostrowite",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "20A",
                 "addr:postcode": "87-337",
                 "amenity": "pharmacy",
-                "addr:place": "Wąpielsk"
+                "addr:place": "Wąpielsk",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Rypin",
                 "addr:postcode": "87-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rypin",
                 "addr:postcode": "87-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "44",
                 "addr:postcode": "87-515",
                 "amenity": "pharmacy",
-                "addr:place": "Rogowo"
+                "addr:place": "Rogowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "137",
                 "addr:postcode": "87-510",
                 "amenity": "pharmacy",
-                "addr:place": "Okalewo"
+                "addr:place": "Okalewo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Rypin",
                 "addr:postcode": "87-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Rypin",
                 "addr:postcode": "87-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +164,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Rypin",
                 "addr:postcode": "87-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Skrwilno",
                 "addr:postcode": "87-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Rypin",
                 "addr:postcode": "87-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Rypin",
                 "addr:postcode": "87-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "1E",
                 "addr:city": "Rypin",
                 "addr:postcode": "87-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +264,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Rypin",
                 "addr:postcode": "87-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "GODZIESZE",
                 "addr:postcode": "62-872",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "GODZIESZE",
                 "addr:postcode": "62-872",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "BRZEZINY",
                 "addr:postcode": "62-874",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Iwanowice",
                 "addr:postcode": "62-865",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Brzeziny",
                 "addr:postcode": "62-874",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "73A",
                 "addr:postcode": "62-812",
                 "amenity": "pharmacy",
-                "addr:place": "JASTRZĘBNIKI"
+                "addr:place": "JASTRZĘBNIKI",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "STAWISZYN",
                 "addr:postcode": "62-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "LISKÓW",
                 "addr:postcode": "62-850",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Stawiszyn",
                 "addr:postcode": "62-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "116",
                 "addr:postcode": "62-831",
                 "amenity": "pharmacy",
-                "addr:place": "KORZENIEW"
+                "addr:place": "KORZENIEW",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "54",
                 "addr:postcode": "62-814",
                 "amenity": "pharmacy",
-                "addr:place": "Blizanów"
+                "addr:place": "Blizanów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "171 B",
                 "addr:postcode": "62-830",
                 "amenity": "pharmacy",
-                "addr:place": "Zbiersk-Cukrownia"
+                "addr:place": "Zbiersk-Cukrownia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "134C",
                 "addr:postcode": "62-817",
                 "amenity": "pharmacy",
-                "addr:place": "ŻELAZKÓW"
+                "addr:place": "ŻELAZKÓW",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +261,8 @@
                 "addr:housenumber": "109",
                 "addr:postcode": "62-817",
                 "amenity": "pharmacy",
-                "addr:place": "ŻELAZKÓW"
+                "addr:place": "ŻELAZKÓW",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -266,7 +280,8 @@
                 "addr:housenumber": "17B",
                 "addr:postcode": "62-834",
                 "amenity": "pharmacy",
-                "addr:place": "Ceków-Kolonia"
+                "addr:place": "Ceków-Kolonia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -284,7 +299,8 @@
                 "addr:housenumber": "22",
                 "addr:postcode": "62-831",
                 "amenity": "pharmacy",
-                "addr:place": "Mycielin"
+                "addr:place": "Mycielin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -302,7 +318,8 @@
                 "addr:housenumber": "2",
                 "addr:postcode": "62-834",
                 "amenity": "pharmacy",
-                "addr:place": "Kamień"
+                "addr:place": "Kamień",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -320,7 +337,8 @@
                 "addr:housenumber": "246",
                 "addr:postcode": "62-830",
                 "amenity": "pharmacy",
-                "addr:place": "Zbiersk-Cukrownia"
+                "addr:place": "Zbiersk-Cukrownia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -339,7 +357,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Opatówek",
                 "addr:postcode": "62-860",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -357,7 +376,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "KOŹMINEK",
                 "addr:postcode": "62-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -376,7 +396,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Opatówek",
                 "addr:postcode": "62-860",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -393,7 +414,8 @@
                 "addr:housenumber": "113",
                 "addr:postcode": "62-872",
                 "amenity": "pharmacy",
-                "addr:place": "Wolica"
+                "addr:place": "Wolica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -411,7 +433,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Staw",
                 "addr:postcode": "62-865",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -430,7 +453,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "KOŹMINEK",
                 "addr:postcode": "62-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -449,7 +473,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "OPATÓWEK",
                 "addr:postcode": "62-860",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +492,8 @@
                 "addr:housenumber": "31",
                 "addr:postcode": "62-865",
                 "amenity": "pharmacy",
-                "addr:place": "Szczytniki"
+                "addr:place": "Szczytniki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -486,7 +512,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Opatówek",
                 "addr:postcode": "62-860",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -504,7 +531,8 @@
                 "addr:housenumber": "62",
                 "addr:postcode": "62-872",
                 "amenity": "pharmacy",
-                "addr:place": "Wolica"
+                "addr:place": "Wolica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

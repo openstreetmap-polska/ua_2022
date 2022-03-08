@@ -10,7 +10,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Solec nad Wisłą",
                 "addr:postcode": "27-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Sienno",
                 "addr:postcode": "27-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Grabowiec",
                 "addr:postcode": "27-353",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "68",
                 "addr:postcode": "27-330",
                 "amenity": "pharmacy",
-                "addr:place": "Pawłowice"
+                "addr:place": "Pawłowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lipsko",
                 "addr:postcode": "27-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Ciepielów",
                 "addr:postcode": "27-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Lipsko",
                 "addr:postcode": "27-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Lipsko",
                 "addr:postcode": "27-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Lipsko",
                 "addr:postcode": "27-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "63",
                 "addr:postcode": "48-364",
                 "amenity": "pharmacy",
-                "addr:place": "Kałków"
+                "addr:place": "Kałków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lipsko",
                 "addr:postcode": "27-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Lipsko",
                 "addr:postcode": "27-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -230,7 +242,8 @@
                 "addr:housenumber": "4",
                 "addr:postcode": "27-353",
                 "amenity": "pharmacy",
-                "addr:place": "Rzeczniówek"
+                "addr:place": "Rzeczniówek",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Grabowiec",
                 "addr:postcode": "22-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

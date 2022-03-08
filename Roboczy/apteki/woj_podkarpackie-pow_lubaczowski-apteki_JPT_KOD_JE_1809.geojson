@@ -11,7 +11,8 @@
                 "addr:housenumber": "168",
                 "addr:city": "Lubaczów",
                 "addr:postcode": "37-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Lubaczów",
                 "addr:postcode": "37-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Lubaczów",
                 "addr:postcode": "37-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "3C",
                 "addr:city": "Lubaczów",
                 "addr:postcode": "37-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "168M",
                 "addr:city": "Lubaczów",
                 "addr:postcode": "37-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Horyniec-Zdrój",
                 "addr:postcode": "37-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lubaczów",
                 "addr:postcode": "37-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "131",
                 "addr:postcode": "37-611",
                 "amenity": "pharmacy",
-                "addr:place": "Niemstów"
+                "addr:place": "Niemstów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "18",
                 "addr:postcode": "37-620",
                 "amenity": "pharmacy",
-                "addr:place": "Podemszczyzna"
+                "addr:place": "Podemszczyzna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Horyniec-Zdrój",
                 "addr:postcode": "37-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Nowe Sioło",
                 "addr:postcode": "37-611",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +225,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Cieszanów",
                 "addr:postcode": "37-611",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -233,7 +245,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Cieszanów",
                 "addr:postcode": "37-611",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +264,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Horyniec-Zdrój",
                 "addr:postcode": "37-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -270,7 +284,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Lubaczów",
                 "addr:postcode": "37-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "2-3",
                 "addr:city": "Lubaczów",
                 "addr:postcode": "37-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "2a",
                 "addr:city": "Narol",
                 "addr:postcode": "37-610",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -326,7 +343,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Lubaczów",
                 "addr:postcode": "37-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -345,7 +363,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Oleszyce",
                 "addr:postcode": "37-630",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -364,7 +383,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Oleszyce",
                 "addr:postcode": "37-630",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -382,7 +402,8 @@
                 "addr:housenumber": "74",
                 "addr:city": "Stary Dzików",
                 "addr:postcode": "37-632",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -400,7 +421,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Wielkie Oczy",
                 "addr:postcode": "37-627",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -419,7 +441,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Cieszanów",
                 "addr:postcode": "37-611",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -438,7 +461,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Lubaczów",
                 "addr:postcode": "37-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -455,7 +479,8 @@
                 "addr:housenumber": "121A",
                 "addr:postcode": "37-613",
                 "amenity": "pharmacy",
-                "addr:place": "Ruda Różaniecka"
+                "addr:place": "Ruda Różaniecka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

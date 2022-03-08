@@ -9,7 +9,8 @@
                 "addr:housenumber": "76A",
                 "addr:postcode": "08-206",
                 "amenity": "pharmacy",
-                "addr:place": "Huszlew"
+                "addr:place": "Huszlew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Łosice",
                 "addr:postcode": "08-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "addr:housenumber": "30A",
                 "addr:postcode": "08-207",
                 "amenity": "pharmacy",
-                "addr:place": "Olszanka"
+                "addr:place": "Olszanka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Łosice",
                 "addr:postcode": "08-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "1b",
                 "addr:city": "Łosice",
                 "addr:postcode": "08-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Łosice",
                 "addr:postcode": "08-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łosice",
                 "addr:postcode": "08-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Łosice",
                 "addr:postcode": "08-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Łosice",
                 "addr:postcode": "08-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Platerów",
                 "addr:postcode": "08-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Sarnaki",
                 "addr:postcode": "08-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "284",
                 "addr:postcode": "08-205",
                 "amenity": "pharmacy",
-                "addr:place": "Stara Kornica"
+                "addr:place": "Stara Kornica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Łosice",
                 "addr:postcode": "08-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "23A",
                 "addr:postcode": "08-205",
                 "amenity": "pharmacy",
-                "addr:place": "Nowa Kornica"
+                "addr:place": "Nowa Kornica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

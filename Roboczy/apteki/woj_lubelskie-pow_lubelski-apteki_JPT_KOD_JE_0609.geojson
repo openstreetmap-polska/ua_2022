@@ -9,7 +9,8 @@
                 "addr:housenumber": "6",
                 "addr:postcode": "23-145",
                 "amenity": "pharmacy",
-                "addr:place": "Wysokie"
+                "addr:place": "Wysokie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Bychawa",
                 "addr:postcode": "23-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -44,7 +46,8 @@
                 "addr:street": "marsz. Józefa Piłsudskiego",
                 "addr:housenumber": "28",
                 "addr:city": "Bychawa",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -63,7 +66,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Bychawa",
                 "addr:postcode": "23-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +85,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Krzczonów-Wójtostwo",
                 "addr:postcode": "23-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Bychawa",
                 "addr:postcode": "23-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Bychawa",
                 "addr:postcode": "23-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +144,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Krzczonów",
                 "addr:postcode": "23-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +164,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Wysokie",
                 "addr:postcode": "23-145",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Bychawa",
                 "addr:postcode": "23-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Krzczonów",
                 "addr:postcode": "23-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Bychawa",
                 "addr:postcode": "23-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "2A",
                 "addr:postcode": "23-145",
                 "amenity": "pharmacy",
-                "addr:place": "Giełczew"
+                "addr:place": "Giełczew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +261,8 @@
                 "addr:housenumber": "42",
                 "addr:postcode": "21-008",
                 "amenity": "pharmacy",
-                "addr:place": "Tomaszowice-Kolonia"
+                "addr:place": "Tomaszowice-Kolonia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +281,8 @@
                 "addr:housenumber": "81",
                 "addr:city": "Niedrzwica Kościelna",
                 "addr:postcode": "24-222",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -285,7 +300,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Niemce",
                 "addr:postcode": "21-025",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -302,7 +318,8 @@
                 "addr:housenumber": "165",
                 "addr:postcode": "20-388",
                 "amenity": "pharmacy",
-                "addr:place": "Mętów"
+                "addr:place": "Mętów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -320,7 +337,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Niedrzwica Duża",
                 "addr:postcode": "24-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -339,7 +357,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Niedrzwica Duża",
                 "addr:postcode": "24-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -356,7 +375,8 @@
                 "addr:housenumber": "80",
                 "addr:postcode": "21-030",
                 "amenity": "pharmacy",
-                "addr:place": "Kozubszczyzna"
+                "addr:place": "Kozubszczyzna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -374,7 +394,8 @@
                 "addr:housenumber": "67 A",
                 "addr:postcode": "21-030",
                 "amenity": "pharmacy",
-                "addr:place": "Kozubszczyzna"
+                "addr:place": "Kozubszczyzna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -393,7 +414,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Dominów",
                 "addr:postcode": "20-388",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -411,7 +433,8 @@
                 "addr:housenumber": "144D",
                 "addr:postcode": "21-008",
                 "amenity": "pharmacy",
-                "addr:place": "Dąbrowica"
+                "addr:place": "Dąbrowica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +452,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Turka",
                 "addr:postcode": "21-258",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -447,7 +471,8 @@
                 "addr:housenumber": "154B",
                 "addr:postcode": "23-107",
                 "amenity": "pharmacy",
-                "addr:place": "Piotrowice"
+                "addr:place": "Piotrowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -465,7 +490,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Turka",
                 "addr:postcode": "21-258",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -483,7 +509,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Niemce",
                 "addr:postcode": "21-025",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -500,7 +527,8 @@
                 "addr:housenumber": "16",
                 "addr:postcode": "23-114",
                 "amenity": "pharmacy",
-                "addr:place": "Jabłonna-Majątek"
+                "addr:place": "Jabłonna-Majątek",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -519,7 +547,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Niemce",
                 "addr:postcode": "21-025",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -537,7 +566,8 @@
                 "addr:housenumber": "17c",
                 "addr:postcode": "20-258",
                 "amenity": "pharmacy",
-                "addr:place": "Wólka"
+                "addr:place": "Wólka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -555,7 +585,8 @@
                 "addr:housenumber": "51B",
                 "addr:city": "Jastków Panieńszczyzna",
                 "addr:postcode": "21-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -574,7 +605,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Dys",
                 "addr:postcode": "20-003",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -593,7 +625,8 @@
                 "addr:housenumber": "23A",
                 "addr:city": "Krasienin-Kolonia",
                 "addr:postcode": "21-025",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -611,7 +644,8 @@
                 "addr:housenumber": "6 C",
                 "addr:postcode": "20-258",
                 "amenity": "pharmacy",
-                "addr:place": "Wólka"
+                "addr:place": "Wólka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -630,7 +664,8 @@
                 "addr:housenumber": "160",
                 "addr:city": "Niemce",
                 "addr:postcode": "21-025",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -647,7 +682,8 @@
                 "addr:housenumber": "35C",
                 "addr:postcode": "24-200",
                 "amenity": "pharmacy",
-                "addr:place": "Krężnica Okrągła"
+                "addr:place": "Krężnica Okrągła",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -665,7 +701,8 @@
                 "addr:housenumber": "229",
                 "addr:postcode": "24-224",
                 "amenity": "pharmacy",
-                "addr:place": "Borzechów"
+                "addr:place": "Borzechów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -683,7 +720,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Bełżyce",
                 "addr:postcode": "24-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -700,7 +738,8 @@
                 "addr:housenumber": "34",
                 "addr:postcode": "21-080",
                 "amenity": "pharmacy",
-                "addr:place": "Garbów"
+                "addr:place": "Garbów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -719,7 +758,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Garbów",
                 "addr:postcode": "21-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -737,7 +777,8 @@
                 "addr:housenumber": "10",
                 "addr:postcode": "24-204",
                 "amenity": "pharmacy",
-                "addr:place": "Palikije I"
+                "addr:place": "Palikije I",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -755,7 +796,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Bełżyce",
                 "addr:postcode": "24-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -774,7 +816,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Bełżyce",
                 "addr:postcode": "24-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -792,7 +835,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Bełżyce",
                 "addr:postcode": "24-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -810,7 +854,8 @@
                 "addr:housenumber": "45",
                 "addr:city": "Bełżyce",
                 "addr:postcode": "24-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -829,7 +874,8 @@
                 "addr:housenumber": "90",
                 "addr:city": "Bełżyce",
                 "addr:postcode": "24-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -848,7 +894,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Zagrody",
                 "addr:postcode": "21-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -867,7 +914,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Bełżyce",
                 "addr:postcode": "24-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -886,7 +934,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Bełżyce",
                 "addr:postcode": "24-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

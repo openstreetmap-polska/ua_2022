@@ -11,7 +11,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Mietków",
                 "addr:postcode": "55-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Siechnice",
                 "addr:postcode": "55-011",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kamieniec Wrocławski",
                 "addr:postcode": "55-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Szczodre",
                 "addr:postcode": "55-095",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kiełczów",
                 "addr:postcode": "55-093",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Siechnice",
                 "addr:postcode": "55-011",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Długołęka",
                 "addr:postcode": "55-095",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Kiełczów",
                 "addr:postcode": "55-093",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Żerniki Wrocławskie",
                 "addr:postcode": "55-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Długołęka",
                 "addr:postcode": "55-095",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Brzezia Łąka",
                 "addr:postcode": "56-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "3 i 3A",
                 "addr:city": "Radwanice",
                 "addr:postcode": "55-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Dobrzykowice",
                 "addr:postcode": "55-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Czernica",
                 "addr:postcode": "55-003",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Siedlec",
                 "addr:postcode": "55-095",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "140",
                 "addr:city": "Kamieniec Wrocławski",
                 "addr:postcode": "55-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +331,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Łozina",
                 "addr:postcode": "55-095",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +351,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Siechnice",
                 "addr:postcode": "55-011",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +371,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Wysoka",
                 "addr:postcode": "52-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -372,7 +391,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Kąty Wrocławskie",
                 "addr:postcode": "55-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +411,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Sobótka",
                 "addr:postcode": "55-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +431,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Gniechowice",
                 "addr:postcode": "55-042",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +451,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sobótka",
                 "addr:postcode": "55-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -448,7 +471,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Wojkowice",
                 "addr:postcode": "55-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +491,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Święta Katarzyna",
                 "addr:postcode": "55-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -486,7 +511,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Kąty Wrocławskie",
                 "addr:postcode": "55-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -505,7 +531,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Wierzbice Wrocławskie",
                 "addr:postcode": "55-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +551,8 @@
                 "addr:housenumber": "9A",
                 "addr:city": "Sobótka",
                 "addr:postcode": "55-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +571,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Sobótka",
                 "addr:postcode": "55-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -562,7 +591,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Kobierzyce",
                 "addr:postcode": "55-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -581,7 +611,8 @@
                 "addr:housenumber": "1b",
                 "addr:city": "Kąty Wrocławskie",
                 "addr:postcode": "55-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -600,7 +631,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Żórawina",
                 "addr:postcode": "55-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -619,7 +651,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Bielany Wrocławskie",
                 "addr:postcode": "55-075",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -638,7 +671,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Jordanów Śląski",
                 "addr:postcode": "55-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -657,7 +691,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Tyniec Mały",
                 "addr:postcode": "55-041",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -676,7 +711,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Kobierzyce",
                 "addr:postcode": "55-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -695,7 +731,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Kąty Wrocławskie",
                 "addr:postcode": "55-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -714,7 +751,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Komorowice",
                 "addr:postcode": "52-229",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -733,7 +771,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Święta Katarzyna",
                 "addr:postcode": "55-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -752,7 +791,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sobótka",
                 "addr:postcode": "55-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +811,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Smolec",
                 "addr:postcode": "55-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -790,7 +831,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Smolec",
                 "addr:postcode": "55-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -809,7 +851,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Bielany Wrocławskie",
                 "addr:postcode": "55-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -828,7 +871,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Smolec",
                 "addr:postcode": "55-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -846,7 +890,8 @@
                 "addr:housenumber": "21",
                 "addr:postcode": "55-080",
                 "amenity": "pharmacy",
-                "addr:place": "Jaszkotle"
+                "addr:place": "Jaszkotle",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

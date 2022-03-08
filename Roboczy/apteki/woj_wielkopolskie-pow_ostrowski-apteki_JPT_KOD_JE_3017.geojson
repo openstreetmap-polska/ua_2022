@@ -10,7 +10,8 @@
                 "addr:housenumber": "34B",
                 "addr:city": "SIEROSZEWICE",
                 "addr:postcode": "63-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "WIELOWIEŚ",
                 "addr:postcode": "63-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "113",
                 "addr:postcode": "63-405",
                 "amenity": "pharmacy",
-                "addr:place": "Parczew"
+                "addr:place": "Parczew",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "72",
                 "addr:city": "Strzyżew",
                 "addr:postcode": "63-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "NOWE SKALMIERZYCE",
                 "addr:postcode": "63-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -103,7 +108,8 @@
                 "addr:housenumber": "1/A",
                 "addr:city": "Nowe Skalmierzyce",
                 "addr:postcode": "63-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "LEWKÓW",
                 "addr:postcode": "63-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Nowe Skalmierzyce",
                 "addr:postcode": "63-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "25A",
                 "addr:postcode": "63-421",
                 "amenity": "pharmacy",
-                "addr:place": "CZARNYLAS"
+                "addr:place": "CZARNYLAS",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "SOŚNIE",
                 "addr:postcode": "63-435",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -196,7 +206,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Ligota",
                 "addr:postcode": "63-441",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "RASZKÓW",
                 "addr:postcode": "63-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "120",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "RASZKÓW",
                 "addr:postcode": "63-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +346,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -348,7 +366,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "RASZKÓW",
                 "addr:postcode": "63-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -365,7 +384,8 @@
                 "addr:housenumber": "127",
                 "addr:postcode": "63-410",
                 "amenity": "pharmacy",
-                "addr:place": "Daniszyn"
+                "addr:place": "Daniszyn",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -384,7 +404,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -402,7 +423,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +443,8 @@
                 "addr:housenumber": "13A",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -440,7 +463,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "ODOLANÓW",
                 "addr:postcode": "63-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +483,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -478,7 +503,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -497,7 +523,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -516,7 +543,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -535,7 +563,8 @@
                 "addr:housenumber": "81",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -554,7 +583,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -573,7 +603,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -592,7 +623,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "ODOLANÓW",
                 "addr:postcode": "63-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -611,7 +643,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -629,7 +662,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -648,7 +682,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -667,7 +702,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -686,7 +722,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -704,7 +741,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "ODOLANÓW",
                 "addr:postcode": "63-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -723,7 +761,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "PRZYGODZICE",
                 "addr:postcode": "63-421",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -742,7 +781,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "ODOLANÓW",
                 "addr:postcode": "63-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -761,7 +801,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -780,7 +821,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -799,7 +841,8 @@
                 "addr:housenumber": "71",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -818,7 +861,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +880,8 @@
                 "addr:housenumber": "155",
                 "addr:postcode": "63-400",
                 "amenity": "pharmacy",
-                "addr:place": "Lamki"
+                "addr:place": "Lamki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -855,7 +900,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -874,7 +920,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -893,7 +940,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -912,7 +960,8 @@
                 "addr:housenumber": "13-15",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -931,7 +980,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -950,7 +1000,8 @@
                 "addr:housenumber": "150 B",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -969,7 +1020,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -988,7 +1040,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Ostrów Wielkopolski",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1007,7 +1060,8 @@
                 "addr:housenumber": "95B",
                 "addr:city": "Gorzyce Wielkie",
                 "addr:postcode": "63-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

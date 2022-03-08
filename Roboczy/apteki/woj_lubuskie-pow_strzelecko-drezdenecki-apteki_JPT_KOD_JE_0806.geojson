@@ -11,7 +11,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dobiegniew",
                 "addr:postcode": "66-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "38A",
                 "addr:city": "Drezdenko",
                 "addr:postcode": "66-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Drezdenko",
                 "addr:postcode": "66-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "39A",
                 "addr:city": "Drezdenko",
                 "addr:postcode": "66-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "116",
                 "addr:postcode": "66-535",
                 "amenity": "pharmacy",
-                "addr:place": "Gościm"
+                "addr:place": "Gościm",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Drezdenko",
                 "addr:postcode": "66-533",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "7",
                 "addr:postcode": "23-235",
                 "amenity": "pharmacy",
-                "addr:place": "Kosin"
+                "addr:place": "Kosin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Strzelce Krajeńskie",
                 "addr:postcode": "66-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Strzelce Krajeńskie",
                 "addr:postcode": "66-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Strzelce Krajeńskie",
                 "addr:postcode": "66-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Drezdenko",
                 "addr:postcode": "66-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "37g",
                 "addr:city": "Dobiegniew",
                 "addr:postcode": "66-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "34B",
                 "addr:city": "Stare Kurowo",
                 "addr:postcode": "66-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Drezdenko",
                 "addr:postcode": "66-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Strzelce Krajeńskie",
                 "addr:postcode": "66-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Zwierzyn",
                 "addr:postcode": "66-542",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Strzelce Krajeńskie",
                 "addr:postcode": "66-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

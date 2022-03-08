@@ -9,7 +9,8 @@
                 "addr:housenumber": "21",
                 "addr:postcode": "62-660",
                 "amenity": "pharmacy",
-                "addr:place": "CHEŁMNO NAD NEREM"
+                "addr:place": "CHEŁMNO NAD NEREM",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "KŁODAWA",
                 "addr:postcode": "62-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Kościelec",
                 "addr:postcode": "62-604",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "PRZEDECZ",
                 "addr:postcode": "62-635",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "KŁODAWA",
                 "addr:postcode": "62-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "KŁODAWA",
                 "addr:postcode": "62-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "41",
                 "addr:postcode": "62-661",
                 "amenity": "pharmacy",
-                "addr:place": "ADAMIN"
+                "addr:place": "ADAMIN",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "KOŁO",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "KOŁO",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "KOŁO",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "GRZEGORZEW",
                 "addr:postcode": "62-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "45",
                 "addr:postcode": "62-600",
                 "amenity": "pharmacy",
-                "addr:place": "WRZĄCA WIELKA"
+                "addr:place": "WRZĄCA WIELKA",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "BABIAK",
                 "addr:postcode": "62-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Koło",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "BRDÓW",
                 "addr:postcode": "62-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Przedecz",
                 "addr:postcode": "62-635",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Koło",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +344,8 @@
                 "addr:housenumber": "88",
                 "addr:postcode": "62-613",
                 "amenity": "pharmacy",
-                "addr:place": "DĘBY SZLACHECKIE"
+                "addr:place": "DĘBY SZLACHECKIE",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -346,7 +364,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "BABIAK",
                 "addr:postcode": "62-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -365,7 +384,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "DĄBIE",
                 "addr:postcode": "62-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -384,7 +404,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "KŁODAWA",
                 "addr:postcode": "62-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -403,7 +424,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "KOŁO",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -422,7 +444,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "KOŁO",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -441,7 +464,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "KOŁO",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -460,7 +484,8 @@
                 "addr:housenumber": "5C",
                 "addr:city": "KOŁO",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -478,7 +503,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "KOŁO",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -497,7 +523,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Koło",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -516,7 +543,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Babiak",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -535,7 +563,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Koło",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -554,7 +583,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Koło",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -573,7 +603,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Koło",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -592,7 +623,8 @@
                 "addr:housenumber": "5B",
                 "addr:city": "Grzegorzew",
                 "addr:postcode": "62-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

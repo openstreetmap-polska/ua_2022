@@ -10,7 +10,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Pawłowiczki",
                 "addr:postcode": "47-280",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Gościęcin",
                 "addr:postcode": "47-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "96B",
                 "addr:city": "Łany",
                 "addr:postcode": "47-253",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -215,7 +226,8 @@
                 "addr:housenumber": "74",
                 "addr:postcode": "48-314",
                 "amenity": "pharmacy",
-                "addr:place": "Reńska Wieś"
+                "addr:place": "Reńska Wieś",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-232",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Reńska Wieś",
                 "addr:postcode": "47-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Polska Cerekiew",
                 "addr:postcode": "47-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -328,7 +345,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -347,7 +365,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -365,7 +384,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -384,7 +404,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-223",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -403,7 +424,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-206",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -422,7 +444,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -441,7 +464,8 @@
                 "addr:housenumber": "25a",
                 "addr:city": "Poborszów",
                 "addr:postcode": "47-214",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -460,7 +484,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Długomiłowice",
                 "addr:postcode": "47-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -479,7 +504,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +524,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -517,7 +544,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -536,7 +564,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -555,7 +584,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Bierawa",
                 "addr:postcode": "47-240",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -574,7 +604,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -593,7 +624,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -612,7 +644,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Dziergowice",
                 "addr:postcode": "47-244",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -630,7 +663,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Wronin",
                 "addr:postcode": "47-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -649,7 +683,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Kędzierzyn-Koźle",
                 "addr:postcode": "47-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

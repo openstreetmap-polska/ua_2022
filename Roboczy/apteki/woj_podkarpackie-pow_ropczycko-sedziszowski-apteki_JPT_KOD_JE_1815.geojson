@@ -9,7 +9,8 @@
                 "addr:housenumber": "119B",
                 "addr:postcode": "39-102",
                 "amenity": "pharmacy",
-                "addr:place": "Lubzina"
+                "addr:place": "Lubzina",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -26,7 +27,8 @@
                 "addr:housenumber": "10",
                 "addr:postcode": "39-107",
                 "amenity": "pharmacy",
-                "addr:place": "Niedźwiada"
+                "addr:place": "Niedźwiada",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -44,7 +46,8 @@
                 "addr:housenumber": "248",
                 "addr:postcode": "39-106",
                 "amenity": "pharmacy",
-                "addr:place": "Łączki Kucharskie"
+                "addr:place": "Łączki Kucharskie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -61,7 +64,8 @@
                 "addr:housenumber": "206",
                 "addr:postcode": "39-110",
                 "amenity": "pharmacy",
-                "addr:place": "Wielopole Skrzyńskie"
+                "addr:place": "Wielopole Skrzyńskie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +82,8 @@
                 "addr:housenumber": "229",
                 "addr:postcode": "39-110",
                 "amenity": "pharmacy",
-                "addr:place": "Wielopole Skrzyńskie"
+                "addr:place": "Wielopole Skrzyńskie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -97,7 +102,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Ropczyce",
                 "addr:postcode": "39-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -116,7 +122,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Ropczyce",
                 "addr:postcode": "39-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +141,8 @@
                 "addr:housenumber": "18A",
                 "addr:city": "Sędziszów Małopolski",
                 "addr:postcode": "39-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -153,7 +161,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Sędziszów Małopolski",
                 "addr:postcode": "39-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -170,7 +179,8 @@
                 "addr:housenumber": "260",
                 "addr:postcode": "39-110",
                 "amenity": "pharmacy",
-                "addr:place": "Wielopole Skrzyńskie"
+                "addr:place": "Wielopole Skrzyńskie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -189,7 +199,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Sędziszów Małopolski",
                 "addr:postcode": "39-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -208,7 +219,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Sędziszów Małopolski",
                 "addr:postcode": "39-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -226,7 +238,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Ropczyce",
                 "addr:postcode": "39-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -245,7 +258,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sędziszów Małopolski",
                 "addr:postcode": "39-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -264,7 +278,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Sędziszów Małopolski",
                 "addr:postcode": "39-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -282,7 +297,8 @@
                 "addr:housenumber": "224 a",
                 "addr:postcode": "39-103",
                 "amenity": "pharmacy",
-                "addr:place": "Ostrów"
+                "addr:place": "Ostrów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -301,7 +317,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Ropczyce",
                 "addr:postcode": "39-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -318,7 +335,8 @@
                 "addr:housenumber": "182",
                 "addr:postcode": "33-395",
                 "amenity": "pharmacy",
-                "addr:place": "Klęczany"
+                "addr:place": "Klęczany",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -336,7 +354,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Sędziszów Małopolski",
                 "addr:postcode": "39-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +372,8 @@
                 "addr:housenumber": "219",
                 "addr:postcode": "39-122",
                 "amenity": "pharmacy",
-                "addr:place": "Kamionka"
+                "addr:place": "Kamionka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +390,8 @@
                 "addr:housenumber": "81",
                 "addr:postcode": "39-124",
                 "amenity": "pharmacy",
-                "addr:place": "Iwierzyce"
+                "addr:place": "Iwierzyce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -388,7 +409,8 @@
                 "addr:housenumber": "45",
                 "addr:city": "Ropczyce",
                 "addr:postcode": "39-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +429,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Ropczyce",
                 "addr:postcode": "39-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +448,8 @@
                 "addr:housenumber": "226",
                 "addr:postcode": "39-103",
                 "amenity": "pharmacy",
-                "addr:place": "Ostrów"
+                "addr:place": "Ostrów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -442,7 +466,8 @@
                 "addr:housenumber": "367",
                 "addr:postcode": "39-126",
                 "amenity": "pharmacy",
-                "addr:place": "Zagorzyce"
+                "addr:place": "Zagorzyce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -461,7 +486,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Ropczyce",
                 "addr:postcode": "39-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -480,7 +506,8 @@
                 "addr:housenumber": "54A",
                 "addr:city": "Sędziszów Małopolski",
                 "addr:postcode": "39-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -499,7 +526,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Sędziszów Małopolski",
                 "addr:postcode": "39-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -518,7 +546,8 @@
                 "addr:housenumber": "25b",
                 "addr:city": "Sędziszów Małopolski",
                 "addr:postcode": "39-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -535,7 +564,8 @@
                 "addr:housenumber": "145",
                 "addr:postcode": "39-123",
                 "amenity": "pharmacy",
-                "addr:place": "Czarna Sędziszowska"
+                "addr:place": "Czarna Sędziszowska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -554,7 +584,8 @@
                 "addr:housenumber": "54A",
                 "addr:city": "Ropczyce",
                 "addr:postcode": "39-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

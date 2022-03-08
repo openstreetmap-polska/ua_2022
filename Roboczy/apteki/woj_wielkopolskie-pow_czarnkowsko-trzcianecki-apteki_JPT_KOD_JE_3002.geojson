@@ -11,7 +11,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Trzcianka",
                 "addr:postcode": "64-980",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "KRZYŻ WIELKOPOLSKI",
                 "addr:postcode": "64-760",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Trzcianka",
                 "addr:postcode": "64-980",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "TRZCIANKA",
                 "addr:postcode": "64-980",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Wieleń",
                 "addr:postcode": "64-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Czarnków",
                 "addr:postcode": "64-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "15",
                 "addr:postcode": "64-708",
                 "amenity": "pharmacy",
-                "addr:place": "Huta"
+                "addr:place": "Huta",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Rosko",
                 "addr:postcode": "62-709",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "64",
                 "addr:postcode": "64-711",
                 "amenity": "pharmacy",
-                "addr:place": "Młynkowo"
+                "addr:place": "Młynkowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Drawsko",
                 "addr:postcode": "64-733",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "24 B",
                 "addr:city": "Trzcianka",
                 "addr:postcode": "64-980",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Czarnków",
                 "addr:postcode": "64-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Połajewo",
                 "addr:postcode": "64-710",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Czarnków",
                 "addr:postcode": "64-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Połajewo",
                 "addr:postcode": "64-710",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "WIELEŃ",
                 "addr:postcode": "64-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "103A",
                 "addr:city": "CZARNKÓW",
                 "addr:postcode": "64-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "98",
                 "addr:city": "Czarnków",
                 "addr:postcode": "64-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "74",
                 "addr:city": "Czarnków",
                 "addr:postcode": "64-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +388,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Trzcianka",
                 "addr:postcode": "64-980",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -388,7 +408,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Lubasz",
                 "addr:postcode": "64-720",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +428,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Krzyż Wielkopolski",
                 "addr:postcode": "64-761",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +448,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Czarnków",
                 "addr:postcode": "64-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -445,7 +468,8 @@
                 "addr:housenumber": "74",
                 "addr:city": "Wieleń",
                 "addr:postcode": "64-720",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -464,7 +488,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Trzcianka",
                 "addr:postcode": "64-980",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -483,7 +508,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Trzcianka",
                 "addr:postcode": "64-980",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -502,7 +528,8 @@
                 "addr:housenumber": "93",
                 "addr:city": "Czarnków",
                 "addr:postcode": "64-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -520,7 +547,8 @@
                 "addr:housenumber": "35",
                 "addr:postcode": "64-980",
                 "amenity": "pharmacy",
-                "addr:place": "Siedlisko"
+                "addr:place": "Siedlisko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -538,7 +566,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "TRZCIANKA",
                 "addr:postcode": "64-980",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -556,7 +585,8 @@
                 "addr:housenumber": "96",
                 "addr:city": "CZARNKÓW",
                 "addr:postcode": "64-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -575,7 +605,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Krzyż Wielkopolski",
                 "addr:postcode": "64-761",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -594,7 +625,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Trzcianka",
                 "addr:postcode": "64-980",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

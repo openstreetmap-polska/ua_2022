@@ -9,7 +9,8 @@
                 "addr:housenumber": "238b",
                 "addr:postcode": "36-105",
                 "amenity": "pharmacy",
-                "addr:place": "Cmolas"
+                "addr:place": "Cmolas",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Majdan Królewski",
                 "addr:postcode": "36-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Majdan Królewski",
                 "addr:postcode": "36-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "431",
                 "addr:postcode": "36-147",
                 "amenity": "pharmacy",
-                "addr:place": "Niwiska"
+                "addr:place": "Niwiska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Nowy Dzikowiec",
                 "addr:postcode": "36-122",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Raniżów",
                 "addr:postcode": "36-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Kolbuszowa",
                 "addr:postcode": "36-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "279",
                 "addr:postcode": "36-123",
                 "amenity": "pharmacy",
-                "addr:place": "Lipnica"
+                "addr:place": "Lipnica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "184",
                 "addr:postcode": "36-100",
                 "amenity": "pharmacy",
-                "addr:place": "Przedbórz"
+                "addr:place": "Przedbórz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Kolbuszowa",
                 "addr:postcode": "36-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Kolbuszowa",
                 "addr:postcode": "36-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "213",
                 "addr:postcode": "36-145",
                 "amenity": "pharmacy",
-                "addr:place": "Widełka"
+                "addr:place": "Widełka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -229,7 +241,8 @@
                 "addr:housenumber": "315",
                 "addr:postcode": "36-125",
                 "amenity": "pharmacy",
-                "addr:place": "Wola Raniżowska"
+                "addr:place": "Wola Raniżowska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +261,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kolbuszowa",
                 "addr:postcode": "36-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +281,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Kolbuszowa",
                 "addr:postcode": "36-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -286,7 +301,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Kolbuszowa Dolna",
                 "addr:postcode": "36-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -305,7 +321,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Kolbuszowa",
                 "addr:postcode": "36-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -323,7 +340,8 @@
                 "addr:housenumber": "201",
                 "addr:postcode": "36-147",
                 "amenity": "pharmacy",
-                "addr:place": "Siedlanka"
+                "addr:place": "Siedlanka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

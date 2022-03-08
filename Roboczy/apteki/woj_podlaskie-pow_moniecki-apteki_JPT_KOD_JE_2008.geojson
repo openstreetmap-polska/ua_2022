@@ -10,7 +10,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Trzcianne",
                 "addr:postcode": "19-104",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "96",
                 "addr:city": "Knyszyn",
                 "addr:postcode": "19-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "addr:housenumber": "4",
                 "addr:postcode": "19-111",
                 "amenity": "pharmacy",
-                "addr:place": "Krypno Wielkie"
+                "addr:place": "Krypno Wielkie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "59A",
                 "addr:city": "Knyszyn",
                 "addr:postcode": "19-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Knyszyn",
                 "addr:postcode": "19-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "142A",
                 "addr:postcode": "19-124",
                 "amenity": "pharmacy",
-                "addr:place": "Dolistowo Stare"
+                "addr:place": "Dolistowo Stare",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -118,7 +124,8 @@
                 "addr:housenumber": "12",
                 "addr:postcode": "19-124",
                 "amenity": "pharmacy",
-                "addr:place": "Jaświły"
+                "addr:place": "Jaświły",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +144,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Goniądz",
                 "addr:postcode": "19-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +164,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Mońki",
                 "addr:postcode": "19-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Mońki",
                 "addr:postcode": "19-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -193,7 +203,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Mońki",
                 "addr:postcode": "19-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Mońki",
                 "addr:postcode": "19-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Mońki",
                 "addr:postcode": "19-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Jasionówka",
                 "addr:postcode": "19-122",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

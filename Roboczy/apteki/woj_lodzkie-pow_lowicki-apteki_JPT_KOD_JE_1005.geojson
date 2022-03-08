@@ -11,7 +11,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Łyszkowice",
                 "addr:postcode": "99-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Kiernozia",
                 "addr:postcode": "99-412",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Kiernozia",
                 "addr:postcode": "99-412",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Łyszkowice",
                 "addr:postcode": "99-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "209",
                 "addr:postcode": "99-416",
                 "amenity": "pharmacy",
-                "addr:place": "Nieborów"
+                "addr:place": "Nieborów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "101",
                 "addr:postcode": "99-414",
                 "amenity": "pharmacy",
-                "addr:place": "Kocierzew Południowy"
+                "addr:place": "Kocierzew Południowy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Bełchów",
                 "addr:postcode": "99-418",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "6b",
                 "addr:city": "Łyszkowice",
                 "addr:postcode": "99-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "53A",
                 "addr:postcode": "99-413",
                 "amenity": "pharmacy",
-                "addr:place": "Chąśno"
+                "addr:place": "Chąśno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +346,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -346,7 +364,8 @@
                 "addr:housenumber": "34",
                 "addr:postcode": "99-440",
                 "amenity": "pharmacy",
-                "addr:place": "Zduny"
+                "addr:place": "Zduny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -365,7 +384,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Bielawy",
                 "addr:postcode": "99-423",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -384,7 +404,8 @@
                 "addr:housenumber": "45",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -403,7 +424,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +443,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -440,7 +463,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -459,7 +483,8 @@
                 "addr:housenumber": "10/12",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -477,7 +502,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -496,7 +522,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -515,7 +542,8 @@
                 "addr:housenumber": "45/47",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -534,7 +562,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -553,7 +582,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Łowicz",
                 "addr:postcode": "99-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -572,7 +602,8 @@
                 "addr:housenumber": "12A",
                 "addr:city": "Kiernozia",
                 "addr:postcode": "99-412",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -591,7 +622,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Domaniewice",
                 "addr:postcode": "99-434",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -610,7 +642,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Domaniewice",
                 "addr:postcode": "99-434",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -627,7 +660,8 @@
                 "addr:housenumber": "1A",
                 "addr:postcode": "99-440",
                 "amenity": "pharmacy",
-                "addr:place": "Zduny"
+                "addr:place": "Zduny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

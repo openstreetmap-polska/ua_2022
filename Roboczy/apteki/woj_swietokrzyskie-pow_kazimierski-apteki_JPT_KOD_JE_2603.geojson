@@ -10,7 +10,8 @@
                 "addr:housenumber": "28a",
                 "addr:city": "Kazimierza Wielka",
                 "addr:postcode": "28-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Kazimierza Wielka",
                 "addr:postcode": "28-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "5B",
                 "addr:city": "Kazimierza Wielka",
                 "addr:postcode": "28-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Skalbmierz",
                 "addr:postcode": "28-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Skalbmierz",
                 "addr:postcode": "28-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Kazimierza Wielka",
                 "addr:postcode": "28-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "27G",
                 "addr:city": "Kazimierza Wielka",
                 "addr:postcode": "28-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Kazimierza Wielka",
                 "addr:postcode": "28-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Kazimierza Wielka",
                 "addr:postcode": "28-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Skalbmierz",
                 "addr:postcode": "28-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Kazimierza Wielka",
                 "addr:postcode": "28-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +225,8 @@
                 "addr:housenumber": "25A",
                 "addr:city": "Kazimierza Wielka",
                 "addr:postcode": "28-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Opatowiec",
                 "addr:postcode": "28-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "236/C",
                 "addr:postcode": "28-512",
                 "amenity": "pharmacy",
-                "addr:place": "Bejsce"
+                "addr:place": "Bejsce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +281,8 @@
                 "addr:housenumber": "43A",
                 "addr:postcode": "28-520",
                 "amenity": "pharmacy",
-                "addr:place": "Krzczonów"
+                "addr:place": "Krzczonów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

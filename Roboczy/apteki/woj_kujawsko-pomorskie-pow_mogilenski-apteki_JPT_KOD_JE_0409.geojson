@@ -11,7 +11,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Mogilno",
                 "addr:postcode": "88-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Dąbrowa",
                 "addr:postcode": "88-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "31a",
                 "addr:city": "Strzelno",
                 "addr:postcode": "88-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Strzelno",
                 "addr:postcode": "88-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Mogilno",
                 "addr:postcode": "88-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Strzelno",
                 "addr:postcode": "88-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "85",
                 "addr:postcode": "88-342",
                 "amenity": "pharmacy",
-                "addr:place": "Wylatowo"
+                "addr:place": "Wylatowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Mogilno",
                 "addr:postcode": "88-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mogilno",
                 "addr:postcode": "88-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Mogilno",
                 "addr:postcode": "88-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Strzelno",
                 "addr:postcode": "88-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "3a",
                 "addr:city": "Mogilno",
                 "addr:postcode": "88-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Strzelno",
                 "addr:postcode": "88-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "16a",
                 "addr:postcode": "88-324",
                 "amenity": "pharmacy",
-                "addr:place": "Jeziora Wielkie"
+                "addr:place": "Jeziora Wielkie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

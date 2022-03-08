@@ -11,7 +11,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Lesko",
                 "addr:postcode": "38-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Lesko",
                 "addr:postcode": "38-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Baligród",
                 "addr:postcode": "38-606",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Lesko",
                 "addr:postcode": "38-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "210",
                 "addr:postcode": "38-722",
                 "amenity": "pharmacy",
-                "addr:place": "Olszanica"
+                "addr:place": "Olszanica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "26",
                 "addr:postcode": "38-607",
                 "amenity": "pharmacy",
-                "addr:place": "Cisna"
+                "addr:place": "Cisna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Lesko",
                 "addr:postcode": "38-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lesko",
                 "addr:postcode": "38-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Lesko",
                 "addr:postcode": "38-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Polańczyk",
                 "addr:postcode": "38-610",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Polańczyk",
                 "addr:postcode": "38-610",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "208",
                 "addr:postcode": "38-722",
                 "amenity": "pharmacy",
-                "addr:place": "Olszanica"
+                "addr:place": "Olszanica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +128,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kańczuga",
                 "addr:postcode": "37-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "375",
                 "addr:postcode": "37-204",
                 "amenity": "pharmacy",
-                "addr:place": "Tryńcza"
+                "addr:place": "Tryńcza",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +164,8 @@
                 "addr:housenumber": "137A",
                 "addr:postcode": "37-207",
                 "amenity": "pharmacy",
-                "addr:place": "Białoboki"
+                "addr:place": "Białoboki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -174,7 +183,8 @@
                 "addr:housenumber": "139",
                 "addr:postcode": "37-232",
                 "amenity": "pharmacy",
-                "addr:place": "Manasterz"
+                "addr:place": "Manasterz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -192,7 +202,8 @@
                 "addr:housenumber": "215",
                 "addr:postcode": "37-232",
                 "amenity": "pharmacy",
-                "addr:place": "Jawornik Polski"
+                "addr:place": "Jawornik Polski",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -211,7 +222,8 @@
                 "addr:housenumber": "4a",
                 "addr:city": "Sieniawa",
                 "addr:postcode": "37-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -230,7 +242,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Zarzecze",
                 "addr:postcode": "37-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +261,8 @@
                 "addr:housenumber": "484",
                 "addr:postcode": "37-200",
                 "amenity": "pharmacy",
-                "addr:place": "Urzejowice"
+                "addr:place": "Urzejowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -265,7 +279,8 @@
                 "addr:housenumber": "599",
                 "addr:postcode": "37-200",
                 "amenity": "pharmacy",
-                "addr:place": "Rozbórz"
+                "addr:place": "Rozbórz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -284,7 +299,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -302,7 +318,8 @@
                 "addr:housenumber": "227",
                 "addr:postcode": "37-205",
                 "amenity": "pharmacy",
-                "addr:place": "Siennów"
+                "addr:place": "Siennów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -321,7 +338,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Kańczuga",
                 "addr:postcode": "37-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -340,7 +358,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Kańczuga",
                 "addr:postcode": "37-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -359,7 +378,8 @@
                 "addr:housenumber": "39A",
                 "addr:city": "Kańczuga",
                 "addr:postcode": "37-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -378,7 +398,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +418,8 @@
                 "addr:housenumber": "4C",
                 "addr:city": "Sieniawa",
                 "addr:postcode": "37-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -416,7 +438,8 @@
                 "addr:housenumber": "2F",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -435,7 +458,8 @@
                 "addr:housenumber": "2a",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -454,7 +478,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -473,7 +498,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -491,7 +517,8 @@
                 "addr:housenumber": "643",
                 "addr:postcode": "37-203",
                 "amenity": "pharmacy",
-                "addr:place": "Gniewczyna Łańcucka"
+                "addr:place": "Gniewczyna Łańcucka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -510,7 +537,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Sieniawa",
                 "addr:postcode": "37-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -528,7 +556,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -547,7 +576,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Zarzecze",
                 "addr:postcode": "37-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -566,7 +596,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Przeworsk",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -584,7 +615,8 @@
                 "addr:housenumber": "96",
                 "addr:postcode": "37-206",
                 "amenity": "pharmacy",
-                "addr:place": "Sietesz"
+                "addr:place": "Sietesz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

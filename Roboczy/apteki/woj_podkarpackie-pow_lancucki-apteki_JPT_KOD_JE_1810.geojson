@@ -9,7 +9,8 @@
                 "addr:housenumber": "1362",
                 "addr:postcode": "37-120",
                 "amenity": "pharmacy",
-                "addr:place": "Markowa"
+                "addr:place": "Markowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Żołynia",
                 "addr:postcode": "37-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Żołynia",
                 "addr:postcode": "37-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Żołynia",
                 "addr:postcode": "37-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Żołynia",
                 "addr:postcode": "37-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "180",
                 "addr:postcode": "37-112",
                 "amenity": "pharmacy",
-                "addr:place": "Kosina"
+                "addr:place": "Kosina",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -118,7 +124,8 @@
                 "addr:housenumber": "3",
                 "addr:postcode": "37-114",
                 "amenity": "pharmacy",
-                "addr:place": "Białobrzegi"
+                "addr:place": "Białobrzegi",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -136,7 +143,8 @@
                 "addr:housenumber": "1679",
                 "addr:postcode": "37-120",
                 "amenity": "pharmacy",
-                "addr:place": "Markowa"
+                "addr:place": "Markowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -153,7 +161,8 @@
                 "addr:housenumber": "1035",
                 "addr:postcode": "37-112",
                 "amenity": "pharmacy",
-                "addr:place": "Kosina"
+                "addr:place": "Kosina",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -170,7 +179,8 @@
                 "addr:housenumber": "66",
                 "addr:postcode": "37-114",
                 "amenity": "pharmacy",
-                "addr:place": "Budy Łańcuckie"
+                "addr:place": "Budy Łańcuckie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -188,7 +198,8 @@
                 "addr:housenumber": "1",
                 "addr:postcode": "37-121",
                 "amenity": "pharmacy",
-                "addr:place": "Husów"
+                "addr:place": "Husów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -205,7 +216,8 @@
                 "addr:housenumber": "376",
                 "addr:postcode": "37-112",
                 "amenity": "pharmacy",
-                "addr:place": "Rogóżno"
+                "addr:place": "Rogóżno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -222,7 +234,8 @@
                 "addr:housenumber": "285",
                 "addr:postcode": "37-124",
                 "amenity": "pharmacy",
-                "addr:place": "Kraczkowa"
+                "addr:place": "Kraczkowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -241,7 +254,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -260,7 +274,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -279,7 +294,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -298,7 +314,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -317,7 +334,8 @@
                 "addr:housenumber": "78",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -336,7 +354,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +372,8 @@
                 "addr:housenumber": "262c",
                 "addr:postcode": "37-125",
                 "amenity": "pharmacy",
-                "addr:place": "Czarna"
+                "addr:place": "Czarna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -370,7 +390,8 @@
                 "addr:housenumber": "676",
                 "addr:postcode": "37-127",
                 "amenity": "pharmacy",
-                "addr:place": "Krzemienica"
+                "addr:place": "Krzemienica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -387,7 +408,8 @@
                 "addr:housenumber": "427",
                 "addr:postcode": "37-111",
                 "amenity": "pharmacy",
-                "addr:place": "Rakszawa"
+                "addr:place": "Rakszawa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -406,7 +428,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +446,8 @@
                 "addr:housenumber": "619",
                 "addr:postcode": "37-126",
                 "amenity": "pharmacy",
-                "addr:place": "Medynia Głogowska"
+                "addr:place": "Medynia Głogowska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -442,7 +466,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -461,7 +486,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -480,7 +506,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -499,7 +526,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -517,7 +545,8 @@
                 "addr:housenumber": "1054a",
                 "addr:postcode": "37-122",
                 "amenity": "pharmacy",
-                "addr:place": "Albigowa"
+                "addr:place": "Albigowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -536,7 +565,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -554,7 +584,8 @@
                 "addr:housenumber": "344 A",
                 "addr:postcode": "37-111",
                 "amenity": "pharmacy",
-                "addr:place": "Rakszawa"
+                "addr:place": "Rakszawa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -573,7 +604,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Łańcut",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -590,7 +622,8 @@
                 "addr:housenumber": "222",
                 "addr:postcode": "37-100",
                 "amenity": "pharmacy",
-                "addr:place": "Dąbrówki"
+                "addr:place": "Dąbrówki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -608,7 +641,8 @@
                 "addr:housenumber": "150",
                 "addr:postcode": "37-110",
                 "amenity": "pharmacy",
-                "addr:place": "Brzóza Stadnicka"
+                "addr:place": "Brzóza Stadnicka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -10,7 +10,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Białopole",
                 "addr:postcode": "22-135",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Wojsławice",
                 "addr:postcode": "22-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Wojsławice",
                 "addr:postcode": "22-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dubienka",
                 "addr:postcode": "22-145",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "97",
                 "addr:postcode": "22-122",
                 "amenity": "pharmacy",
-                "addr:place": "Leśniowice"
+                "addr:place": "Leśniowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kamień",
                 "addr:postcode": "22-113",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -119,7 +125,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Żmudź",
                 "addr:postcode": "22-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Ruda-Huta",
                 "addr:postcode": "22-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Sawin",
                 "addr:postcode": "22-107",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Sawin",
                 "addr:postcode": "22-107",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Dorohusk-Osada",
                 "addr:postcode": "22-175",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "44 A",
                 "addr:postcode": "22-171",
                 "amenity": "pharmacy",
-                "addr:place": "Liszno"
+                "addr:place": "Liszno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Rejowiec Fabryczny",
                 "addr:postcode": "22-170",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "118",
                 "addr:city": "Rejowiec",
                 "addr:postcode": "22-360",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Wierzbica-Osiedle",
                 "addr:postcode": "22-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Siedliszcze",
                 "addr:postcode": "22-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -305,7 +321,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wierzbica-Osiedle",
                 "addr:postcode": "22-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "99",
                 "addr:city": "Rejowiec Fabryczny",
                 "addr:postcode": "22-170",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +361,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Siedliszcze",
                 "addr:postcode": "22-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

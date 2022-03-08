@@ -11,7 +11,8 @@
                 "addr:housenumber": "3a",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "77",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Frampol",
                 "addr:postcode": "23-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "87A",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +164,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -174,7 +183,8 @@
                 "addr:housenumber": "138",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -192,7 +202,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Goraj",
                 "addr:postcode": "23-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -211,7 +222,8 @@
                 "addr:housenumber": "67",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -230,7 +242,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -249,7 +262,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Turobin",
                 "addr:postcode": "23-465",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -268,7 +282,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -286,7 +301,8 @@
                 "addr:housenumber": "35 a",
                 "addr:city": "Józefów",
                 "addr:postcode": "23-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -304,7 +320,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -322,7 +339,8 @@
                 "addr:housenumber": "97",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -340,7 +358,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Frampol",
                 "addr:postcode": "23-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -359,7 +378,8 @@
                 "addr:housenumber": "2 A",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -377,7 +397,8 @@
                 "addr:housenumber": "56 a",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -395,7 +416,8 @@
                 "addr:housenumber": "112",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -414,7 +436,8 @@
                 "addr:housenumber": "95",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -432,7 +455,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Józefów",
                 "addr:postcode": "23-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -450,7 +474,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Goraj",
                 "addr:postcode": "23-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +492,8 @@
                 "addr:housenumber": "380",
                 "addr:postcode": "23-408",
                 "amenity": "pharmacy",
-                "addr:place": "Aleksandrów"
+                "addr:place": "Aleksandrów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +511,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Turobin",
                 "addr:postcode": "22-465",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -504,7 +531,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -523,7 +551,8 @@
                 "addr:housenumber": "309 a",
                 "addr:city": "Tereszpol - Zaorenda",
                 "addr:postcode": "23-407",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -542,7 +571,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -559,7 +589,8 @@
                 "addr:housenumber": "38",
                 "addr:postcode": "23-414",
                 "amenity": "pharmacy",
-                "addr:place": "Majdan Nowy"
+                "addr:place": "Majdan Nowy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -577,7 +608,8 @@
                 "addr:housenumber": "23 a",
                 "addr:postcode": "23-400",
                 "amenity": "pharmacy",
-                "addr:place": "Sól"
+                "addr:place": "Sól",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -596,7 +628,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Józefów",
                 "addr:postcode": "23-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -615,7 +648,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -634,7 +668,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Biłgoraj",
                 "addr:postcode": "22-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -653,7 +688,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Frampol",
                 "addr:postcode": "23-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -672,7 +708,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Turobin",
                 "addr:postcode": "23-465",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -690,7 +727,8 @@
                 "addr:housenumber": "51",
                 "addr:postcode": "23-412",
                 "amenity": "pharmacy",
-                "addr:place": "Łukowa"
+                "addr:place": "Łukowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -707,7 +745,8 @@
                 "addr:housenumber": "543 A",
                 "addr:postcode": "23-412",
                 "amenity": "pharmacy",
-                "addr:place": "Łukowa"
+                "addr:place": "Łukowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -725,7 +764,8 @@
                 "addr:housenumber": "35 B",
                 "addr:postcode": "23-413",
                 "amenity": "pharmacy",
-                "addr:place": "Obsza"
+                "addr:place": "Obsza",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -743,7 +783,8 @@
                 "addr:housenumber": "50 A",
                 "addr:postcode": "23-412",
                 "amenity": "pharmacy",
-                "addr:place": "Łukowa"
+                "addr:place": "Łukowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -761,7 +802,8 @@
                 "addr:housenumber": "194E",
                 "addr:postcode": "23-423",
                 "amenity": "pharmacy",
-                "addr:place": "Potok Górny"
+                "addr:place": "Potok Górny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -778,7 +820,8 @@
                 "addr:housenumber": "50",
                 "addr:postcode": "23-425",
                 "amenity": "pharmacy",
-                "addr:place": "Biszcza"
+                "addr:place": "Biszcza",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -795,7 +838,8 @@
                 "addr:housenumber": "2A",
                 "addr:postcode": "23-423",
                 "amenity": "pharmacy",
-                "addr:place": "Lipiny Górne-Lewki"
+                "addr:place": "Lipiny Górne-Lewki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -814,7 +858,8 @@
                 "addr:housenumber": "89a",
                 "addr:city": "Tarnogród",
                 "addr:postcode": "23-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -832,7 +877,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Tarnogród",
                 "addr:postcode": "23-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -851,7 +897,8 @@
                 "addr:housenumber": "75",
                 "addr:city": "Tarnogród",
                 "addr:postcode": "23-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -870,7 +917,8 @@
                 "addr:housenumber": "18 A",
                 "addr:city": "Księżpol",
                 "addr:postcode": "23-415",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -10,7 +10,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Czudec",
                 "addr:postcode": "38-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Czudec",
                 "addr:postcode": "38-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "addr:housenumber": "139",
                 "addr:postcode": "38-114",
                 "amenity": "pharmacy",
-                "addr:place": "Niebylec"
+                "addr:place": "Niebylec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -62,7 +65,8 @@
                 "addr:housenumber": "337",
                 "addr:postcode": "38-112",
                 "amenity": "pharmacy",
-                "addr:place": "Lutcza"
+                "addr:place": "Lutcza",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -79,7 +83,8 @@
                 "addr:housenumber": "4c",
                 "addr:postcode": "38-114",
                 "amenity": "pharmacy",
-                "addr:place": "Małówka"
+                "addr:place": "Małówka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -97,7 +102,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Frysztak",
                 "addr:postcode": "38-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -114,7 +120,8 @@
                 "addr:housenumber": "22",
                 "addr:postcode": "38-126",
                 "amenity": "pharmacy",
-                "addr:place": "Markuszowa"
+                "addr:place": "Markuszowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -131,7 +138,8 @@
                 "addr:housenumber": "136",
                 "addr:postcode": "38-124",
                 "amenity": "pharmacy",
-                "addr:place": "Wiśniowa"
+                "addr:place": "Wiśniowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -150,7 +158,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Frysztak",
                 "addr:postcode": "38-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -169,7 +178,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Frysztak",
                 "addr:postcode": "38-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -186,7 +196,8 @@
                 "addr:housenumber": "67",
                 "addr:postcode": "38-114",
                 "amenity": "pharmacy",
-                "addr:place": "Niebylec"
+                "addr:place": "Niebylec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -205,7 +216,8 @@
                 "addr:housenumber": "8a",
                 "addr:city": "Strzyżów",
                 "addr:postcode": "38-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -224,7 +236,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Strzyżów",
                 "addr:postcode": "38-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -242,7 +255,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Strzyżów",
                 "addr:postcode": "38-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -261,7 +275,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Strzyżów",
                 "addr:postcode": "38-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -280,7 +295,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Strzyżów",
                 "addr:postcode": "38-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -298,7 +314,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Frysztak",
                 "addr:postcode": "38-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -317,7 +334,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Strzyżów",
                 "addr:postcode": "38-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -336,7 +354,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Frysztak",
                 "addr:postcode": "38-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -354,7 +373,8 @@
                 "addr:housenumber": "466A",
                 "addr:postcode": "38-122",
                 "amenity": "pharmacy",
-                "addr:place": "Dobrzechów"
+                "addr:place": "Dobrzechów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

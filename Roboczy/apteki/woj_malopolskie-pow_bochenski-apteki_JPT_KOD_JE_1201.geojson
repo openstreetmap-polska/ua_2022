@@ -10,7 +10,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -141,7 +148,8 @@
                 "addr:housenumber": "213",
                 "addr:postcode": "32-700",
                 "amenity": "pharmacy",
-                "addr:place": "Cikowice"
+                "addr:place": "Cikowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "19",
                 "addr:postcode": "32-008",
                 "amenity": "pharmacy",
-                "addr:place": "Dziewin"
+                "addr:place": "Dziewin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "407",
                 "addr:postcode": "32-731",
                 "amenity": "pharmacy",
-                "addr:place": "Łąkta Górna"
+                "addr:place": "Łąkta Górna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "185",
                 "addr:postcode": "32-740",
                 "amenity": "pharmacy",
-                "addr:place": "Łapanów"
+                "addr:place": "Łapanów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "204",
                 "addr:postcode": "32-744",
                 "amenity": "pharmacy",
-                "addr:place": "Łapczyca"
+                "addr:place": "Łapczyca",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -230,7 +242,8 @@
                 "addr:housenumber": "25",
                 "addr:postcode": "32-740",
                 "amenity": "pharmacy",
-                "addr:place": "Łapanów"
+                "addr:place": "Łapanów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -247,7 +260,8 @@
                 "addr:housenumber": "444",
                 "addr:postcode": "32-015",
                 "amenity": "pharmacy",
-                "addr:place": "Stanisławice"
+                "addr:place": "Stanisławice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -266,7 +280,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -284,7 +299,8 @@
                 "addr:housenumber": "548",
                 "addr:postcode": "32-700",
                 "amenity": "pharmacy",
-                "addr:place": "Proszówki"
+                "addr:place": "Proszówki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -303,7 +319,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -321,7 +338,8 @@
                 "addr:housenumber": "9",
                 "addr:postcode": "32-725",
                 "amenity": "pharmacy",
-                "addr:place": "Rajbrot"
+                "addr:place": "Rajbrot",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -339,7 +357,8 @@
                 "addr:housenumber": "234",
                 "addr:postcode": "32-733",
                 "amenity": "pharmacy",
-                "addr:place": "Trzciana"
+                "addr:place": "Trzciana",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -356,7 +375,8 @@
                 "addr:housenumber": "93",
                 "addr:postcode": "32-733",
                 "amenity": "pharmacy",
-                "addr:place": "Trzciana"
+                "addr:place": "Trzciana",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -375,7 +395,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -393,7 +414,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -411,7 +433,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -428,7 +451,8 @@
                 "addr:housenumber": "188",
                 "addr:postcode": "32-711",
                 "amenity": "pharmacy",
-                "addr:place": "Bogucice"
+                "addr:place": "Bogucice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -447,7 +471,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Nowy Wiśnicz",
                 "addr:postcode": "32-720",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -466,7 +491,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Rzezawa",
                 "addr:postcode": "32-765",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -484,7 +510,8 @@
                 "addr:housenumber": "96",
                 "addr:postcode": "32-700",
                 "amenity": "pharmacy",
-                "addr:place": "Zawada"
+                "addr:place": "Zawada",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -503,7 +530,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Rzezawa",
                 "addr:postcode": "32-765",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -522,7 +550,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -541,7 +570,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -559,7 +589,8 @@
                 "addr:housenumber": "473",
                 "addr:postcode": "32-731",
                 "amenity": "pharmacy",
-                "addr:place": "Żegocina"
+                "addr:place": "Żegocina",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -578,7 +609,8 @@
                 "addr:housenumber": "143",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -595,7 +627,8 @@
                 "addr:housenumber": "240",
                 "addr:postcode": "32-731",
                 "amenity": "pharmacy",
-                "addr:place": "Żegocina"
+                "addr:place": "Żegocina",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -614,7 +647,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -632,7 +666,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Nowy Wiśnicz",
                 "addr:postcode": "32-720",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -651,7 +686,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -669,7 +705,8 @@
                 "addr:housenumber": "253",
                 "addr:postcode": "32-744",
                 "amenity": "pharmacy",
-                "addr:place": "Siedlec"
+                "addr:place": "Siedlec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -687,7 +724,8 @@
                 "addr:housenumber": "18",
                 "addr:postcode": "32-740",
                 "amenity": "pharmacy",
-                "addr:place": "Łapanów"
+                "addr:place": "Łapanów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -706,7 +744,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -725,7 +764,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bochnia",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -743,7 +783,8 @@
                 "addr:housenumber": "311",
                 "addr:postcode": "32-722",
                 "amenity": "pharmacy",
-                "addr:place": "Królówka"
+                "addr:place": "Królówka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -761,7 +802,8 @@
                 "addr:housenumber": "50",
                 "addr:postcode": "32-724",
                 "amenity": "pharmacy",
-                "addr:place": "Lipnica Murowana"
+                "addr:place": "Lipnica Murowana",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -779,7 +821,8 @@
                 "addr:housenumber": "83",
                 "addr:postcode": "32-724",
                 "amenity": "pharmacy",
-                "addr:place": "Lipnica Murowana"
+                "addr:place": "Lipnica Murowana",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

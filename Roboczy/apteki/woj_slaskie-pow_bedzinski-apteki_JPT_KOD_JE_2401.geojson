@@ -11,7 +11,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Czeladź",
                 "addr:postcode": "41-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "282",
                 "addr:city": "Wojkowice",
                 "addr:postcode": "42-580",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "125",
                 "addr:city": "Mierzęcice",
                 "addr:postcode": "42-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Psary",
                 "addr:postcode": "42-512",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "BĘDZIN",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Będzin",
                 "addr:postcode": "41-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wojkowice",
                 "addr:postcode": "42-580",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "76",
                 "addr:city": "Mierzęcice",
                 "addr:postcode": "42-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "294",
                 "addr:city": "Wojkowice",
                 "addr:postcode": "42-580",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-504",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Brudzowice",
                 "addr:postcode": "42-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -314,7 +330,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sączów",
                 "addr:postcode": "42-595",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -333,7 +350,8 @@
                 "addr:housenumber": "51",
                 "addr:city": "Dobieszowice",
                 "addr:postcode": "42-584",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -352,7 +370,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Sławków",
                 "addr:postcode": "41-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -371,7 +390,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Sławków",
                 "addr:postcode": "41-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -389,7 +409,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Sławków",
                 "addr:postcode": "41-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -408,7 +429,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -427,7 +449,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -446,7 +469,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -465,7 +489,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -484,7 +509,8 @@
                 "addr:housenumber": "83",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -503,7 +529,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -522,7 +549,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -541,7 +569,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-504",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -560,7 +589,8 @@
                 "addr:housenumber": "62",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -579,7 +609,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -598,7 +629,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -617,7 +649,8 @@
                 "addr:housenumber": "25 A",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -636,7 +669,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -655,7 +689,8 @@
                 "addr:housenumber": "104",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -674,7 +709,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-504",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -693,7 +729,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -712,7 +749,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-506",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -731,7 +769,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Będzin",
                 "addr:postcode": "42-506",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -750,7 +789,8 @@
                 "addr:housenumber": "21b",
                 "addr:city": "BĘDZIN",
                 "addr:postcode": "42-506",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -769,7 +809,8 @@
                 "addr:housenumber": "1 A",
                 "addr:city": "CZELADŹ",
                 "addr:postcode": "41-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -788,7 +829,8 @@
                 "addr:housenumber": "80",
                 "addr:city": "Czeladź",
                 "addr:postcode": "41-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -807,7 +849,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Czeladź",
                 "addr:postcode": "41-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -826,7 +869,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Czeladź",
                 "addr:postcode": "41-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -845,7 +889,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Czeladź",
                 "addr:postcode": "41-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -864,7 +909,8 @@
                 "addr:housenumber": "38A",
                 "addr:city": "Czeladź",
                 "addr:postcode": "41-253",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -883,7 +929,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Czeladź",
                 "addr:postcode": "41-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -902,7 +949,8 @@
                 "addr:housenumber": "227i",
                 "addr:city": "Czeladź",
                 "addr:postcode": "41-253",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -921,7 +969,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Czeladź",
                 "addr:postcode": "41-253",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -940,7 +989,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Czeladź",
                 "addr:postcode": "41-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -959,7 +1009,8 @@
                 "addr:housenumber": "8 A",
                 "addr:city": "Czeladź",
                 "addr:postcode": "41-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -978,7 +1029,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Brudzowice",
                 "addr:postcode": "42-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -997,7 +1049,8 @@
                 "addr:housenumber": "137",
                 "addr:city": "MIERZĘCICE",
                 "addr:postcode": "42-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1016,7 +1069,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Siewierz",
                 "addr:postcode": "42-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1035,7 +1089,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Siewierz",
                 "addr:postcode": "42-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1054,7 +1109,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Gródków",
                 "addr:postcode": "42-575",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1073,7 +1129,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Siewierz",
                 "addr:postcode": "42-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1092,7 +1149,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Siewierz",
                 "addr:postcode": "42-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1111,7 +1169,8 @@
                 "addr:housenumber": "49A",
                 "addr:city": "Siemonia",
                 "addr:postcode": "42-595",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1130,7 +1189,8 @@
                 "addr:housenumber": "220B",
                 "addr:city": "Rogoźnik",
                 "addr:postcode": "42-582",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1148,7 +1208,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Siewierz",
                 "addr:postcode": "42-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "1b",
                 "addr:city": "Nisko",
                 "addr:postcode": "37-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "2b",
                 "addr:city": "Nisko",
                 "addr:postcode": "37-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "2b",
                 "addr:city": "Nisko",
                 "addr:postcode": "37-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "8a",
                 "addr:city": "Nisko",
                 "addr:postcode": "37-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "54a",
                 "addr:city": "Nisko",
                 "addr:postcode": "37-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -101,7 +106,8 @@
                 "addr:housenumber": "62",
                 "addr:postcode": "37-405",
                 "amenity": "pharmacy",
-                "addr:place": "Jarocin"
+                "addr:place": "Jarocin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Nisko",
                 "addr:postcode": "37-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Nisko",
                 "addr:postcode": "37-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Ulanów",
                 "addr:postcode": "37-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Huta Krzeszowska",
                 "addr:postcode": "37-413",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "111A",
                 "addr:postcode": "37-413",
                 "amenity": "pharmacy",
-                "addr:place": "Harasiuki"
+                "addr:place": "Harasiuki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Nisko",
                 "addr:postcode": "37-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -231,7 +243,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Zarzecze",
                 "addr:postcode": "37-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +263,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Ulanów",
                 "addr:postcode": "37-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -269,7 +283,8 @@
                 "addr:housenumber": "18B",
                 "addr:city": "Nisko",
                 "addr:postcode": "37-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -287,7 +302,8 @@
                 "addr:housenumber": "652 C",
                 "addr:postcode": "37-430",
                 "amenity": "pharmacy",
-                "addr:place": "Jeżowe"
+                "addr:place": "Jeżowe",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -305,7 +321,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Rudnik nad Sanem",
                 "addr:postcode": "37-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Rudnik nad Sanem",
                 "addr:postcode": "37-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +361,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Rudnik nad Sanem",
                 "addr:postcode": "37-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -362,7 +381,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Rudnik nad Sanem",
                 "addr:postcode": "37-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +400,8 @@
                 "addr:housenumber": "662B",
                 "addr:postcode": "37-430",
                 "amenity": "pharmacy",
-                "addr:place": "Jeżowe"
+                "addr:place": "Jeżowe",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -398,7 +419,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Krzeszów",
                 "addr:postcode": "37-418",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -417,7 +439,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Krzeszów",
                 "addr:postcode": "37-418",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

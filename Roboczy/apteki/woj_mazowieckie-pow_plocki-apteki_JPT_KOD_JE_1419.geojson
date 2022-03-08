@@ -11,7 +11,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Wyszogród",
                 "addr:postcode": "09-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Wyszogród",
                 "addr:postcode": "09-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Chodkowo-Działki",
                 "addr:postcode": "09-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "9A",
                 "addr:city": "Nowe Miszewo",
                 "addr:postcode": "09-471",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "9A",
                 "addr:city": "Mała Wieś",
                 "addr:postcode": "09-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Bodzanów",
                 "addr:postcode": "09-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Słubice",
                 "addr:postcode": "09-533",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Bulkowo-Kolonia",
                 "addr:postcode": "09-454",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Radzanowo",
                 "addr:postcode": "09-451",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "4",
                 "addr:postcode": "09-454",
                 "amenity": "pharmacy",
-                "addr:place": "Nowe Łubki"
+                "addr:place": "Nowe Łubki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "59",
                 "addr:postcode": "09-460",
                 "amenity": "pharmacy",
-                "addr:place": "Ciućkowo"
+                "addr:place": "Ciućkowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "31A",
                 "addr:city": "Staroźreby",
                 "addr:postcode": "09-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "22",
                 "addr:postcode": "09-230",
                 "amenity": "pharmacy",
-                "addr:place": "Zągoty"
+                "addr:place": "Zągoty",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Staroźreby",
                 "addr:postcode": "09-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -271,7 +285,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Drobin",
                 "addr:postcode": "09-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Bielsk",
                 "addr:postcode": "09-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Nowa Góra",
                 "addr:postcode": "09-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -326,7 +343,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Brudzeń Duży",
                 "addr:postcode": "09-414",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -345,7 +363,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Drobin",
                 "addr:postcode": "09-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -364,7 +383,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Bielsk",
                 "addr:postcode": "09-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +403,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Brudzeń Duży",
                 "addr:postcode": "09-414",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -402,7 +423,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Nowe Proboszczewice",
                 "addr:postcode": "09-412",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +443,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Biała",
                 "addr:postcode": "09-411",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -440,7 +463,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Gąbin",
                 "addr:postcode": "09-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -458,7 +482,8 @@
                 "addr:housenumber": "20",
                 "addr:postcode": "36-053",
                 "amenity": "pharmacy",
-                "addr:place": "Nowy Kamień"
+                "addr:place": "Nowy Kamień",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -477,7 +502,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Maszewo Duże",
                 "addr:postcode": "09-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -496,7 +522,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Gąbin",
                 "addr:postcode": "09-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -515,7 +542,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Dobrzyków",
                 "addr:postcode": "09-522",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -534,7 +562,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Słupno",
                 "addr:postcode": "09-472",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -553,7 +582,8 @@
                 "addr:housenumber": "20D",
                 "addr:city": "Gąbin",
                 "addr:postcode": "09-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -572,7 +602,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Łąck",
                 "addr:postcode": "09-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Nowa Sarzyna",
                 "addr:postcode": "37-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "78",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Nowa Sarzyna",
                 "addr:postcode": "37-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "387",
                 "addr:postcode": "37-300",
                 "amenity": "pharmacy",
-                "addr:place": "Wierzawice"
+                "addr:place": "Wierzawice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "4B",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -138,7 +145,8 @@
                 "addr:housenumber": "530A",
                 "addr:postcode": "37-303",
                 "amenity": "pharmacy",
-                "addr:place": "Kuryłówka"
+                "addr:place": "Kuryłówka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Nowa Sarzyna",
                 "addr:postcode": "37-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "2D",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Nowa Sarzyna",
                 "addr:postcode": "37-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +225,8 @@
                 "addr:housenumber": "66",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -233,7 +245,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -252,7 +265,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -270,7 +284,8 @@
                 "addr:housenumber": "208",
                 "addr:postcode": "37-310",
                 "amenity": "pharmacy",
-                "addr:place": "Sarzyna"
+                "addr:place": "Sarzyna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "125C",
                 "addr:postcode": "37-306",
                 "amenity": "pharmacy",
-                "addr:place": "Grodzisko Dolne"
+                "addr:place": "Grodzisko Dolne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "482",
                 "addr:postcode": "37-307",
                 "amenity": "pharmacy",
-                "addr:place": "Brzóza Królewska"
+                "addr:place": "Brzóza Królewska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -342,7 +360,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +380,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -378,7 +398,8 @@
                 "addr:housenumber": "338",
                 "addr:postcode": "37-300",
                 "amenity": "pharmacy",
-                "addr:place": "Giedlarowa"
+                "addr:place": "Giedlarowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +418,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -415,7 +437,8 @@
                 "addr:housenumber": "126G",
                 "addr:postcode": "37-306",
                 "amenity": "pharmacy",
-                "addr:place": "Grodzisko Dolne"
+                "addr:place": "Grodzisko Dolne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -434,7 +457,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Leżajsk",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -451,7 +475,8 @@
                 "addr:housenumber": "110",
                 "addr:postcode": "37-300",
                 "amenity": "pharmacy",
-                "addr:place": "PISKOROWICE"
+                "addr:place": "PISKOROWICE",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -468,7 +493,8 @@
                 "addr:housenumber": "310A",
                 "addr:postcode": "37-051",
                 "amenity": "pharmacy",
-                "addr:place": "Łętownia"
+                "addr:place": "Łętownia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -485,7 +511,8 @@
                 "addr:housenumber": "147C",
                 "addr:postcode": "37-311",
                 "amenity": "pharmacy",
-                "addr:place": "Wola Zarczycka"
+                "addr:place": "Wola Zarczycka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -503,7 +530,8 @@
                 "addr:housenumber": "405 E",
                 "addr:postcode": "37-310",
                 "amenity": "pharmacy",
-                "addr:place": "Wola Zarczycka"
+                "addr:place": "Wola Zarczycka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

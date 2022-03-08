@@ -10,7 +10,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Padew Narodowa",
                 "addr:postcode": "39-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "27C",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "66A",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "51B",
                 "addr:postcode": "39-332",
                 "amenity": "pharmacy",
-                "addr:place": "Tuszów Narodowy"
+                "addr:place": "Tuszów Narodowy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "80a",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "6D",
                 "addr:postcode": "39-307",
                 "amenity": "pharmacy",
-                "addr:place": "Gawłuszowice"
+                "addr:place": "Gawłuszowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +325,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -326,7 +343,8 @@
                 "addr:housenumber": "260",
                 "addr:postcode": "39-322",
                 "amenity": "pharmacy",
-                "addr:place": "Rzemień"
+                "addr:place": "Rzemień",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -344,7 +362,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -362,7 +381,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +401,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -400,7 +421,8 @@
                 "addr:housenumber": "8a",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -419,7 +441,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -437,7 +460,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -456,7 +480,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -475,7 +500,8 @@
                 "addr:housenumber": "19A",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -492,7 +518,8 @@
                 "addr:housenumber": "333A",
                 "addr:postcode": "39-305",
                 "amenity": "pharmacy",
-                "addr:place": "Borowa"
+                "addr:place": "Borowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -510,7 +537,8 @@
                 "addr:housenumber": "112",
                 "addr:postcode": "39-331",
                 "amenity": "pharmacy",
-                "addr:place": "Chorzelów"
+                "addr:place": "Chorzelów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -528,7 +556,8 @@
                 "addr:housenumber": "763",
                 "addr:postcode": "39-331",
                 "amenity": "pharmacy",
-                "addr:place": "Chorzelów"
+                "addr:place": "Chorzelów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -546,7 +575,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Padew Narodowa",
                 "addr:postcode": "39-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -564,7 +594,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Padew Narodowa",
                 "addr:postcode": "39-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -583,7 +614,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Przecław",
                 "addr:postcode": "39-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -602,7 +634,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -621,7 +654,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -639,7 +673,8 @@
                 "addr:housenumber": "138a",
                 "addr:postcode": "39-321",
                 "amenity": "pharmacy",
-                "addr:place": "Tuszyma"
+                "addr:place": "Tuszyma",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -658,7 +693,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -676,7 +712,8 @@
                 "addr:housenumber": "421C",
                 "addr:postcode": "39-331",
                 "amenity": "pharmacy",
-                "addr:place": "Chorzelów"
+                "addr:place": "Chorzelów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -695,7 +732,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -714,7 +752,8 @@
                 "addr:housenumber": "1C",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-302",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -733,7 +772,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Mielec",
                 "addr:postcode": "39-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -750,7 +790,8 @@
                 "addr:housenumber": "43",
                 "addr:postcode": "39-304",
                 "amenity": "pharmacy",
-                "addr:place": "Czermin"
+                "addr:place": "Czermin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -768,7 +809,8 @@
                 "addr:housenumber": "470",
                 "addr:postcode": "39-304",
                 "amenity": "pharmacy",
-                "addr:place": "Czermin"
+                "addr:place": "Czermin",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -785,7 +827,8 @@
                 "addr:housenumber": "136",
                 "addr:postcode": "39-308",
                 "amenity": "pharmacy",
-                "addr:place": "Wadowice Górne"
+                "addr:place": "Wadowice Górne",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -804,7 +847,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Radomyśl Wielki",
                 "addr:postcode": "39-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -823,7 +867,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Radomyśl Wielki",
                 "addr:postcode": "39-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -842,7 +887,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Radomyśl Wielki",
                 "addr:postcode": "39-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

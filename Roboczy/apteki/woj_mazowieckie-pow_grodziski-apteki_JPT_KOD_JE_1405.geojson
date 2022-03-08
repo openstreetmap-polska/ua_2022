@@ -11,7 +11,8 @@
                 "addr:housenumber": "9A",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "17A/17",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Milanówek",
                 "addr:postcode": "05-822",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Milanówek",
                 "addr:postcode": "05-822",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Milanówek",
                 "addr:postcode": "05-822",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "addr:housenumber": "46/50",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Chylice-Kolonia",
                 "addr:postcode": "96-313",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "53",
                 "addr:city": "Baranów",
                 "addr:postcode": "96-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Międzyborów",
                 "addr:postcode": "96-316",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Żabia Wola",
                 "addr:postcode": "96-321",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "50",
                 "addr:postcode": "96-314",
                 "amenity": "pharmacy",
-                "addr:place": "Gole"
+                "addr:place": "Gole",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Międzyborów",
                 "addr:postcode": "96-316",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +346,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Podkowa Leśna",
                 "addr:postcode": "05-807",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -347,7 +365,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Milanówek",
                 "addr:postcode": "05-822",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -366,7 +385,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Podkowa Leśna",
                 "addr:postcode": "05-807",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -385,7 +405,8 @@
                 "addr:housenumber": "11B",
                 "addr:city": "Milanówek",
                 "addr:postcode": "05-822",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -404,7 +425,8 @@
                 "addr:housenumber": "1G",
                 "addr:city": "Podkowa Leśna",
                 "addr:postcode": "05-807",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +445,8 @@
                 "addr:housenumber": "10/1",
                 "addr:city": "Milanówek",
                 "addr:postcode": "05-822",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -442,7 +465,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -460,7 +484,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -479,7 +504,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -498,7 +524,8 @@
                 "addr:housenumber": "136A",
                 "addr:city": "Książenice",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -517,7 +544,8 @@
                 "addr:housenumber": "27B",
                 "addr:city": "Jaktorów",
                 "addr:postcode": "96-313",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -536,7 +564,8 @@
                 "addr:housenumber": "59A",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -555,7 +584,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -574,7 +604,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -593,7 +624,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Książenice",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -612,7 +644,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Grodzisk Mazowiecki",
                 "addr:postcode": "05-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -631,7 +664,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Żelechów",
                 "addr:postcode": "96-321",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

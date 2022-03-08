@@ -9,7 +9,8 @@
                 "addr:housenumber": "46A",
                 "addr:postcode": "21-222",
                 "amenity": "pharmacy",
-                "addr:place": "Podedwórze"
+                "addr:place": "Podedwórze",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -27,7 +28,8 @@
                 "addr:housenumber": "64",
                 "addr:postcode": "21-211",
                 "amenity": "pharmacy",
-                "addr:place": "Kodeniec"
+                "addr:place": "Kodeniec",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Jabłoń",
                 "addr:postcode": "21-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Sosnowica",
                 "addr:postcode": "21-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Sosnowica",
                 "addr:postcode": "21-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Parczew",
                 "addr:postcode": "21-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Parczew",
                 "addr:postcode": "21-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Siemień",
                 "addr:postcode": "21-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "136",
                 "addr:city": "Parczew",
                 "addr:postcode": "21-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Parczew",
                 "addr:postcode": "21-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "15",
                 "addr:postcode": "62-271",
                 "amenity": "pharmacy",
-                "addr:place": "DZIAŁYŃ"
+                "addr:place": "DZIAŁYŃ",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +223,8 @@
                 "addr:housenumber": "140",
                 "addr:postcode": "21-220",
                 "amenity": "pharmacy",
-                "addr:place": "\"Siemień, Gródek Szlachecki\""
+                "addr:place": "\"Siemień, Gródek Szlachecki\"",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -230,7 +242,8 @@
                 "addr:housenumber": "9A",
                 "addr:city": "Parczew",
                 "addr:postcode": "21-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +261,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Parczew",
                 "addr:postcode": "21-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -267,7 +281,8 @@
                 "addr:housenumber": "136",
                 "addr:city": "Parczew",
                 "addr:postcode": "21-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -286,7 +301,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Parczew",
                 "addr:postcode": "21-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -305,7 +321,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Parczew",
                 "addr:postcode": "21-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Milanów",
                 "addr:postcode": "21-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +361,8 @@
                 "addr:housenumber": "117",
                 "addr:city": "Parczew",
                 "addr:postcode": "21-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -362,7 +381,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Milanów",
                 "addr:postcode": "21-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

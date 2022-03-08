@@ -10,7 +10,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Szreńsk",
                 "addr:postcode": "06-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Konopki",
                 "addr:postcode": "06-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +47,8 @@
                 "addr:housenumber": "193",
                 "addr:postcode": "06-545",
                 "amenity": "pharmacy",
-                "addr:place": "Lipowiec Kościelny"
+                "addr:place": "Lipowiec Kościelny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -62,7 +65,8 @@
                 "addr:housenumber": "37",
                 "addr:postcode": "06-458",
                 "amenity": "pharmacy",
-                "addr:place": "Niedzbórz"
+                "addr:place": "Niedzbórz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +85,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -100,7 +105,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -118,7 +124,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -137,7 +144,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -156,7 +164,8 @@
                 "addr:housenumber": "39A",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Strzegowo",
                 "addr:postcode": "06-445",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -193,7 +203,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dzierzgowo",
                 "addr:postcode": "06-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -211,7 +222,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Radzanów",
                 "addr:postcode": "06-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -229,7 +241,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -248,7 +261,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -266,7 +280,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -285,7 +300,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -304,7 +320,8 @@
                 "addr:housenumber": "13A",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -323,7 +340,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -341,7 +359,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -359,7 +378,8 @@
                 "addr:housenumber": "8A",
                 "addr:city": "Dzierzgowo",
                 "addr:postcode": "06-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -378,7 +398,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +418,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -416,7 +438,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -435,7 +458,8 @@
                 "addr:housenumber": "35",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -454,7 +478,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -473,7 +498,8 @@
                 "addr:housenumber": "21B",
                 "addr:city": "Mława",
                 "addr:postcode": "06-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -490,7 +516,8 @@
                 "addr:housenumber": "44",
                 "addr:postcode": "06-513",
                 "amenity": "pharmacy",
-                "addr:place": "Wieczfnia Kościelna"
+                "addr:place": "Wieczfnia Kościelna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

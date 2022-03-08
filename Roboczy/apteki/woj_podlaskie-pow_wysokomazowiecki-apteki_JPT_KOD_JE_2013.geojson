@@ -10,7 +10,8 @@
                 "addr:housenumber": "5B",
                 "addr:city": "Czyżew",
                 "addr:postcode": "18-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "12A",
                 "addr:city": "Czyżew",
                 "addr:postcode": "18-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Ciechanowiec",
                 "addr:postcode": "18-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Ciechanowiec",
                 "addr:postcode": "18-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "4C",
                 "addr:city": "Klukowo",
                 "addr:postcode": "18-214",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Ciechanowiec",
                 "addr:postcode": "18-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Czyżew",
                 "addr:postcode": "18-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "52",
                 "addr:postcode": "18-200",
                 "amenity": "pharmacy",
-                "addr:place": "Jabłonka Kościelna"
+                "addr:place": "Jabłonka Kościelna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Jabłoń Kościelna",
                 "addr:postcode": "18-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kulesze Kościelne",
                 "addr:postcode": "18-208",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "17A",
                 "addr:city": "Wysokie Mazowieckie",
                 "addr:postcode": "18-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "4/4",
                 "addr:city": "Wysokie Mazowieckie",
                 "addr:postcode": "18-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Wysokie Mazowieckie",
                 "addr:postcode": "18-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Szepietowo",
                 "addr:postcode": "18-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Sokoły",
                 "addr:postcode": "18-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +305,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Nowe Piekuty",
                 "addr:postcode": "18-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +325,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Wysokie Mazowieckie",
                 "addr:postcode": "18-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +344,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Kobylin-Borzymy",
                 "addr:postcode": "18-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -345,7 +363,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Sokoły",
                 "addr:postcode": "18-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -363,7 +382,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Wysokie Mazowieckie",
                 "addr:postcode": "18-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -382,7 +402,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Szepietowo",
                 "addr:postcode": "18-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -400,7 +421,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Wysokie Mazowieckie",
                 "addr:postcode": "18-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -419,7 +441,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Wysokie Mazowieckie",
                 "addr:postcode": "18-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -438,7 +461,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Wysokie Mazowieckie",
                 "addr:postcode": "18-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -455,7 +479,8 @@
                 "addr:housenumber": "46",
                 "addr:postcode": "18-218",
                 "amenity": "pharmacy",
-                "addr:place": "Dworaki-Staśki"
+                "addr:place": "Dworaki-Staśki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -10,7 +10,8 @@
                 "addr:housenumber": "11 A",
                 "addr:city": "Skierbieszów",
                 "addr:postcode": "22-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Skierbieszów",
                 "addr:postcode": "22-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -46,7 +48,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Grabowiec",
                 "addr:postcode": "22-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +67,8 @@
                 "addr:housenumber": "82 a",
                 "addr:postcode": "22-424",
                 "amenity": "pharmacy",
-                "addr:place": "Sitno"
+                "addr:place": "Sitno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -82,7 +86,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Łabunie",
                 "addr:postcode": "22-437",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -99,7 +104,8 @@
                 "addr:housenumber": "109",
                 "addr:postcode": "22-455",
                 "amenity": "pharmacy",
-                "addr:place": "Miączyn"
+                "addr:place": "Miączyn",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -117,7 +123,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Komarów - Osada",
                 "addr:postcode": "22-435",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -135,7 +142,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Komarów - Osada",
                 "addr:postcode": "22-435",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -154,7 +162,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Łabunie",
                 "addr:postcode": "22-437",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -172,7 +181,8 @@
                 "addr:housenumber": "10c/8",
                 "addr:city": "Michalów",
                 "addr:postcode": "22-448",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -190,7 +200,8 @@
                 "addr:housenumber": "19A",
                 "addr:postcode": "22-448",
                 "amenity": "pharmacy",
-                "addr:place": "Tworyczów"
+                "addr:place": "Tworyczów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -208,7 +219,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Zwierzyniec",
                 "addr:postcode": "22-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -226,7 +238,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Szczebrzeszyn",
                 "addr:postcode": "22-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -243,7 +256,8 @@
                 "addr:housenumber": "197",
                 "addr:postcode": "22-400",
                 "amenity": "pharmacy",
-                "addr:place": "Lipsko"
+                "addr:place": "Lipsko",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -260,7 +274,8 @@
                 "addr:housenumber": "152",
                 "addr:postcode": "22-400",
                 "amenity": "pharmacy",
-                "addr:place": "Wysokie"
+                "addr:place": "Wysokie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +292,8 @@
                 "addr:housenumber": "279",
                 "addr:postcode": "22-413",
                 "amenity": "pharmacy",
-                "addr:place": "Nielisz"
+                "addr:place": "Nielisz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -294,7 +310,8 @@
                 "addr:housenumber": "237 a",
                 "addr:postcode": "22-443",
                 "amenity": "pharmacy",
-                "addr:place": "Suchowola"
+                "addr:place": "Suchowola",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +329,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Radecznica",
                 "addr:postcode": "22-463",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +349,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Zwierzyniec",
                 "addr:postcode": "22-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +368,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Szczebrzeszyn",
                 "addr:postcode": "22-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +387,8 @@
                 "addr:housenumber": "152",
                 "addr:postcode": "22-400",
                 "amenity": "pharmacy",
-                "addr:place": "Wysokie"
+                "addr:place": "Wysokie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -385,7 +406,8 @@
                 "addr:housenumber": "30 a",
                 "addr:city": "Krasnobród",
                 "addr:postcode": "22-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -403,7 +425,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Krasnobród",
                 "addr:postcode": "22-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -421,7 +444,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Krasnobród",
                 "addr:postcode": "22-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -438,7 +462,8 @@
                 "addr:housenumber": "272",
                 "addr:postcode": "22-400",
                 "amenity": "pharmacy",
-                "addr:place": "Zawada"
+                "addr:place": "Zawada",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -457,7 +482,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Radecznica",
                 "addr:postcode": "22-463",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -474,7 +500,8 @@
                 "addr:housenumber": "98 A",
                 "addr:postcode": "22-463",
                 "amenity": "pharmacy",
-                "addr:place": "Gorajec Stara Wieś"
+                "addr:place": "Gorajec Stara Wieś",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -492,7 +519,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Krasnobród",
                 "addr:postcode": "22-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -510,7 +538,8 @@
                 "addr:housenumber": "7 a",
                 "addr:city": "Szczebrzeszyn",
                 "addr:postcode": "22-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -528,7 +557,8 @@
                 "addr:housenumber": "64",
                 "addr:city": "Szczebrzeszyn",
                 "addr:postcode": "22-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -546,7 +576,8 @@
                 "addr:housenumber": "40",
                 "addr:city": "Szczebrzeszyn",
                 "addr:postcode": "22-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -564,7 +595,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Dębowiec",
                 "addr:postcode": "22-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -583,7 +615,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Zwierzyniec",
                 "addr:postcode": "22-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -602,7 +635,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Radecznica",
                 "addr:postcode": "22-463",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -621,7 +655,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Szczebrzeszyn",
                 "addr:postcode": "22-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -639,7 +674,8 @@
                 "addr:housenumber": "106",
                 "addr:postcode": "22-442",
                 "amenity": "pharmacy",
-                "addr:place": "Adamów"
+                "addr:place": "Adamów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -657,7 +693,8 @@
                 "addr:housenumber": "20",
                 "addr:postcode": "22-417",
                 "amenity": "pharmacy",
-                "addr:place": "Wierzba"
+                "addr:place": "Wierzba",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -676,7 +713,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Bodaczów",
                 "addr:postcode": "22-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -695,7 +733,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Szczebrzeszyn",
                 "addr:postcode": "22-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

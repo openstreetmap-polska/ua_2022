@@ -11,7 +11,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Dzierzgoń",
                 "addr:postcode": "82-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "5",
                 "addr:postcode": "82-450",
                 "amenity": "pharmacy",
-                "addr:place": "Myślice"
+                "addr:place": "Myślice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Dzierzgoń",
                 "addr:postcode": "82-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Nowiny",
                 "addr:postcode": "26-052",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Mikołajki Pomorskie",
                 "addr:postcode": "82-433",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Sztum",
                 "addr:postcode": "82-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "50",
                 "addr:city": "Sztum",
                 "addr:postcode": "82-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -140,7 +147,8 @@
                 "addr:housenumber": "9 c",
                 "addr:postcode": "82-410",
                 "amenity": "pharmacy",
-                "addr:place": "Szropy"
+                "addr:place": "Szropy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Sztum",
                 "addr:postcode": "82-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +186,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Stary Targ",
                 "addr:postcode": "82-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Sztum",
                 "addr:postcode": "82-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sztum",
                 "addr:postcode": "82-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sztum",
                 "addr:postcode": "82-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

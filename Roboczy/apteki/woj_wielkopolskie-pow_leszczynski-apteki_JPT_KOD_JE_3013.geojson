@@ -11,7 +11,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Włoszakowice",
                 "addr:postcode": "64-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "RYDZYNA",
                 "addr:postcode": "64-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "29A",
                 "addr:city": "KRZEMIENIEWO",
                 "addr:postcode": "64-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "WIJEWO",
                 "addr:postcode": "64-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "11C",
                 "addr:city": "Włoszakowice",
                 "addr:postcode": "64-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "KĄKOLEWO",
                 "addr:postcode": "64-113",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "OSIECZNA",
                 "addr:postcode": "64-113",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "9",
                 "addr:postcode": "23-107",
                 "amenity": "pharmacy",
-                "addr:place": "Strzyżewice"
+                "addr:place": "Strzyżewice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +167,8 @@
                 "addr:housenumber": "63",
                 "addr:postcode": "64-120",
                 "amenity": "pharmacy",
-                "addr:place": "Górzno"
+                "addr:place": "Górzno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -176,7 +185,8 @@
                 "addr:housenumber": "14",
                 "addr:postcode": "64-140",
                 "amenity": "pharmacy",
-                "addr:place": "Boszkowo"
+                "addr:place": "Boszkowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +205,8 @@
                 "addr:housenumber": "18A",
                 "addr:city": "Brenno",
                 "addr:postcode": "64-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -214,7 +225,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "PAWŁOWICE",
                 "addr:postcode": "64-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -233,7 +245,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "ŚWIĘCIECHOWA",
                 "addr:postcode": "64-115",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -252,7 +265,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Krzycko Wielkie",
                 "addr:postcode": "64-117",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -271,7 +285,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "RYDZYNA",
                 "addr:postcode": "64-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +305,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "OSIECZNA",
                 "addr:postcode": "64-113",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +325,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "KRZEMIENIEWO",
                 "addr:postcode": "64-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -328,7 +345,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "OSIECZNA",
                 "addr:postcode": "64-113",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -347,7 +365,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Święciechowa",
                 "addr:postcode": "64-115",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -366,7 +385,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Lipno",
                 "addr:postcode": "64-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -383,7 +403,8 @@
                 "addr:housenumber": "25",
                 "addr:postcode": "64-130",
                 "amenity": "pharmacy",
-                "addr:place": "Dąbcze"
+                "addr:place": "Dąbcze",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -402,7 +423,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Włoszakowice",
                 "addr:postcode": "64-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

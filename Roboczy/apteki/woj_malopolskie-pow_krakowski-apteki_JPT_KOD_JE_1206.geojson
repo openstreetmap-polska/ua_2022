@@ -11,7 +11,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Krzeszowice",
                 "addr:postcode": "32-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Krzeszowice",
                 "addr:postcode": "32-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Jerzmanowice",
                 "addr:postcode": "32-048",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Krzeszowice",
                 "addr:postcode": "32-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "292",
                 "addr:postcode": "32-084",
                 "amenity": "pharmacy",
-                "addr:place": "Morawica"
+                "addr:place": "Morawica",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Krzeszowice",
                 "addr:postcode": "32-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Krzeszowice",
                 "addr:postcode": "32-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Krzeszowice",
                 "addr:postcode": "32-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "316",
                 "addr:city": "Zabierzów",
                 "addr:postcode": "32-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Krzeszowice",
                 "addr:postcode": "32-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Krzeszowice",
                 "addr:postcode": "32-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "425",
                 "addr:postcode": "32-065",
                 "amenity": "pharmacy",
-                "addr:place": "Nowa Góra"
+                "addr:place": "Nowa Góra",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Rudawa",
                 "addr:postcode": "32-064",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "116",
                 "addr:postcode": "32-300",
                 "amenity": "pharmacy",
-                "addr:place": "Przeginia"
+                "addr:place": "Przeginia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "6A",
                 "addr:city": "Krzeszowice",
                 "addr:postcode": "32-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -289,7 +304,8 @@
                 "addr:housenumber": "168",
                 "addr:postcode": "32-222",
                 "amenity": "pharmacy",
-                "addr:place": "Racławice"
+                "addr:place": "Racławice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -307,7 +323,8 @@
                 "addr:housenumber": "78",
                 "addr:city": "Zalas",
                 "addr:postcode": "32-067",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -324,7 +341,8 @@
                 "addr:housenumber": "52",
                 "addr:postcode": "32-049",
                 "amenity": "pharmacy",
-                "addr:place": "Racławice"
+                "addr:place": "Racławice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -343,7 +361,8 @@
                 "addr:housenumber": "100",
                 "addr:city": "Jerzmanowice",
                 "addr:postcode": "32-048",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -361,7 +380,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wola Filipowska",
                 "addr:postcode": "32-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -380,7 +400,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Krzeszowice",
                 "addr:postcode": "32-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -397,7 +418,8 @@
                 "addr:housenumber": "275",
                 "addr:postcode": "32-051",
                 "amenity": "pharmacy",
-                "addr:place": "Jaśkowice"
+                "addr:place": "Jaśkowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -415,7 +437,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Czernichów",
                 "addr:postcode": "32-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -434,7 +457,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Czernichów",
                 "addr:postcode": "32-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -453,7 +477,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Czernichów",
                 "addr:postcode": "32-070",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -470,7 +495,8 @@
                 "addr:housenumber": "102",
                 "addr:postcode": "32-051",
                 "amenity": "pharmacy",
-                "addr:place": "Wielkie Drogi"
+                "addr:place": "Wielkie Drogi",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -487,7 +513,8 @@
                 "addr:housenumber": "384",
                 "addr:postcode": "32-071",
                 "amenity": "pharmacy",
-                "addr:place": "Kamień"
+                "addr:place": "Kamień",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -504,7 +531,8 @@
                 "addr:housenumber": "259",
                 "addr:postcode": "32-051",
                 "amenity": "pharmacy",
-                "addr:place": "Zelczyna"
+                "addr:place": "Zelczyna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -523,7 +551,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Dojazdów",
                 "addr:postcode": "32-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -540,7 +569,8 @@
                 "addr:housenumber": "88",
                 "addr:postcode": "32-010",
                 "amenity": "pharmacy",
-                "addr:place": "Luborzyca"
+                "addr:place": "Luborzyca",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -559,7 +589,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kocmyrzów",
                 "addr:postcode": "32-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +607,8 @@
                 "addr:housenumber": "16",
                 "addr:postcode": "32-126",
                 "amenity": "pharmacy",
-                "addr:place": "Igołomia"
+                "addr:place": "Igołomia",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -594,7 +626,8 @@
                 "addr:housenumber": "18",
                 "addr:postcode": "32-053",
                 "amenity": "pharmacy",
-                "addr:place": "Wola Radziszowska"
+                "addr:place": "Wola Radziszowska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -613,7 +646,8 @@
                 "addr:housenumber": "232",
                 "addr:city": "Zabierzów",
                 "addr:postcode": "32-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -632,7 +666,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Zielonki",
                 "addr:postcode": "32-087",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -650,7 +685,8 @@
                 "addr:housenumber": "97",
                 "addr:postcode": "32-060",
                 "amenity": "pharmacy",
-                "addr:place": "Kryspinów"
+                "addr:place": "Kryspinów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -669,7 +705,8 @@
                 "addr:housenumber": "49A",
                 "addr:city": "Rząska",
                 "addr:postcode": "30-199",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -688,7 +725,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Zielonki",
                 "addr:postcode": "32-087",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -706,7 +744,8 @@
                 "addr:housenumber": "469",
                 "addr:postcode": "32-060",
                 "amenity": "pharmacy",
-                "addr:place": "Liszki"
+                "addr:place": "Liszki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -725,7 +764,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Zabierzów",
                 "addr:postcode": "32-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -743,7 +783,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Zabierzów",
                 "addr:postcode": "32-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -761,7 +802,8 @@
                 "addr:housenumber": "87",
                 "addr:city": "Zielonki",
                 "addr:postcode": "32-087",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -780,7 +822,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Modlniczka",
                 "addr:postcode": "32-085",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -798,7 +841,8 @@
                 "addr:housenumber": "23A",
                 "addr:city": "Ujazd",
                 "addr:postcode": "32-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -817,7 +861,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Boleń",
                 "addr:postcode": "32-087",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -836,7 +881,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Modlnica",
                 "addr:postcode": "32-085",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -855,7 +901,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Węgrzce",
                 "addr:postcode": "32-086",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -874,7 +921,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Szyce",
                 "addr:postcode": "32-085",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -892,7 +940,8 @@
                 "addr:housenumber": "463",
                 "addr:postcode": "32-060",
                 "amenity": "pharmacy",
-                "addr:place": "Kryspinów"
+                "addr:place": "Kryspinów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -910,7 +959,8 @@
                 "addr:housenumber": "207",
                 "addr:postcode": "32-060",
                 "amenity": "pharmacy",
-                "addr:place": "Liszki"
+                "addr:place": "Liszki",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -928,7 +978,8 @@
                 "addr:housenumber": "317",
                 "addr:city": "Zabierzów",
                 "addr:postcode": "32-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -947,7 +998,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Bolechowice",
                 "addr:postcode": "32-082",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -966,7 +1018,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Modlniczka",
                 "addr:postcode": "32-085",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -984,7 +1037,8 @@
                 "addr:housenumber": "10B",
                 "addr:postcode": "32-125",
                 "amenity": "pharmacy",
-                "addr:place": "Wawrzeńczyce"
+                "addr:place": "Wawrzeńczyce",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1002,7 +1056,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Słomniki",
                 "addr:postcode": "32-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1020,7 +1075,8 @@
                 "addr:housenumber": "209",
                 "addr:city": "Michałowice",
                 "addr:postcode": "32-091",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1038,7 +1094,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Bębło",
                 "addr:postcode": "32-089",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1057,7 +1114,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Słomniki",
                 "addr:postcode": "32-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1075,7 +1133,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Skała",
                 "addr:postcode": "32-043",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1094,7 +1153,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Brzozówka",
                 "addr:postcode": "32-088",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1113,7 +1173,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Zagórzyce Dworskie",
                 "addr:postcode": "32-091",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1132,7 +1193,8 @@
                 "addr:housenumber": "58",
                 "addr:city": "Słomniki",
                 "addr:postcode": "32-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1151,7 +1213,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Skała",
                 "addr:postcode": "32-043",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1170,7 +1233,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Słomniki",
                 "addr:postcode": "32-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1188,7 +1252,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Skała",
                 "addr:postcode": "32-043",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1206,7 +1271,8 @@
                 "addr:housenumber": "99",
                 "addr:postcode": "32-095",
                 "amenity": "pharmacy",
-                "addr:place": "Iwanowice Włościańskie"
+                "addr:place": "Iwanowice Włościańskie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1224,7 +1290,8 @@
                 "addr:housenumber": "68B",
                 "addr:postcode": "32-095",
                 "amenity": "pharmacy",
-                "addr:place": "Iwanowice Dworskie"
+                "addr:place": "Iwanowice Dworskie",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1243,7 +1310,8 @@
                 "addr:housenumber": "154",
                 "addr:city": "Michałowice",
                 "addr:postcode": "32-091",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1262,7 +1330,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1280,7 +1349,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1299,7 +1369,8 @@
                 "addr:housenumber": "1B",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1318,7 +1389,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1337,7 +1409,8 @@
                 "addr:housenumber": "33A",
                 "addr:city": "Świątniki Górne",
                 "addr:postcode": "32-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1356,7 +1429,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Świątniki Górne",
                 "addr:postcode": "32-040",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1375,7 +1449,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1394,7 +1469,8 @@
                 "addr:housenumber": "2A",
                 "addr:city": "Mogilany",
                 "addr:postcode": "32-031",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1413,7 +1489,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1431,7 +1508,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Radziszów",
                 "addr:postcode": "32-052",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1450,7 +1528,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1469,7 +1548,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1488,7 +1568,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Radziszów",
                 "addr:postcode": "32-052",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1506,7 +1587,8 @@
                 "addr:housenumber": "5E",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1525,7 +1607,8 @@
                 "addr:housenumber": "19 A",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1544,7 +1627,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1563,7 +1647,8 @@
                 "addr:housenumber": "4a",
                 "addr:city": "Mogilany",
                 "addr:postcode": "32-031",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1582,7 +1667,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1601,7 +1687,8 @@
                 "addr:housenumber": "19e",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1620,7 +1707,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Libertów",
                 "addr:postcode": "30-444",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1639,7 +1727,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Skawina",
                 "addr:postcode": "32-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

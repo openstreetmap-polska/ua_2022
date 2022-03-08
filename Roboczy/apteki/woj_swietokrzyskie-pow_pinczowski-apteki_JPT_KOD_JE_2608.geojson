@@ -10,7 +10,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Pińczów",
                 "addr:postcode": "28-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Pińczów",
                 "addr:postcode": "28-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Pińczów",
                 "addr:postcode": "28-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Pińczów",
                 "addr:postcode": "28-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Pińczów",
                 "addr:postcode": "28-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Pińczów",
                 "addr:postcode": "28-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Pińczów",
                 "addr:postcode": "28-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Pińczów",
                 "addr:postcode": "28-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "25",
                 "addr:postcode": "28-404",
                 "amenity": "pharmacy",
-                "addr:place": "Kije"
+                "addr:place": "Kije",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Pińczów",
                 "addr:postcode": "28-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Złota",
                 "addr:postcode": "28-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "6A",
                 "addr:postcode": "28-400",
                 "amenity": "pharmacy",
-                "addr:place": "Leszcze"
+                "addr:place": "Leszcze",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "DZIAŁOSZYCE",
                 "addr:postcode": "28-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Działoszyce",
                 "addr:postcode": "28-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -271,7 +285,8 @@
                 "addr:housenumber": "286",
                 "addr:postcode": "28-411",
                 "amenity": "pharmacy",
-                "addr:place": "Michałów"
+                "addr:place": "Michałów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

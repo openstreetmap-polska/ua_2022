@@ -11,7 +11,8 @@
                 "addr:housenumber": "2b",
                 "addr:city": "Mieszkowice",
                 "addr:postcode": "74-505",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Trzcińsko-Zdrój",
                 "addr:postcode": "74-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "50",
                 "addr:postcode": "74-520",
                 "amenity": "pharmacy",
-                "addr:place": "Osinów Dolny"
+                "addr:place": "Osinów Dolny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Cedynia",
                 "addr:postcode": "74-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Mieszkowice",
                 "addr:postcode": "74-505",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "14A",
                 "addr:city": "Cedynia",
                 "addr:postcode": "74-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "36A",
                 "addr:postcode": "74-520",
                 "amenity": "pharmacy",
-                "addr:place": "Osinów Dolny"
+                "addr:place": "Osinów Dolny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Moryń",
                 "addr:postcode": "74-503",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +168,8 @@
                 "addr:housenumber": "43a",
                 "addr:postcode": "74-506",
                 "amenity": "pharmacy",
-                "addr:place": "Krajnik Dolny"
+                "addr:place": "Krajnik Dolny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -178,7 +187,8 @@
                 "addr:housenumber": "4D",
                 "addr:postcode": "74-520",
                 "amenity": "pharmacy",
-                "addr:place": "Osinów Dolny"
+                "addr:place": "Osinów Dolny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -197,7 +207,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Trzcińsko-Zdrój",
                 "addr:postcode": "74-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -216,7 +227,8 @@
                 "addr:housenumber": "9a",
                 "addr:city": "Mieszkowice",
                 "addr:postcode": "74-505",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -235,7 +247,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Chojna",
                 "addr:postcode": "74-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +267,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Chojna",
                 "addr:postcode": "74-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Chojna",
                 "addr:postcode": "74-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Widuchowa",
                 "addr:postcode": "74-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -311,7 +327,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Banie",
                 "addr:postcode": "74-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -330,7 +347,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Chojna",
                 "addr:postcode": "74-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -349,7 +367,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Chojna",
                 "addr:postcode": "74-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +386,8 @@
                 "addr:housenumber": "50",
                 "addr:postcode": "74-500",
                 "amenity": "pharmacy",
-                "addr:place": "Osinów Dolny"
+                "addr:place": "Osinów Dolny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -385,7 +405,8 @@
                 "addr:housenumber": "49a",
                 "addr:postcode": "74-500",
                 "amenity": "pharmacy",
-                "addr:place": "Krajnik Dolny"
+                "addr:place": "Krajnik Dolny",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -404,7 +425,8 @@
                 "addr:housenumber": "63",
                 "addr:city": "Gryfino",
                 "addr:postcode": "74-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -423,7 +445,8 @@
                 "addr:housenumber": "89",
                 "addr:city": "Gryfino",
                 "addr:postcode": "74-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -442,7 +465,8 @@
                 "addr:housenumber": "66-68",
                 "addr:city": "Gryfino",
                 "addr:postcode": "74-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -461,7 +485,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Gryfino",
                 "addr:postcode": "74-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -480,7 +505,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Gryfino",
                 "addr:postcode": "74-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -499,7 +525,8 @@
                 "addr:housenumber": "10a",
                 "addr:city": "Gryfino",
                 "addr:postcode": "74-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -517,7 +544,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Gryfino",
                 "addr:postcode": "74-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -536,7 +564,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Gryfino",
                 "addr:postcode": "74-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -555,7 +584,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Gryfino",
                 "addr:postcode": "74-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -574,7 +604,8 @@
                 "addr:housenumber": "16f",
                 "addr:city": "Gryfino",
                 "addr:postcode": "74-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -593,7 +624,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Kołbacz",
                 "addr:postcode": "74-106",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -611,7 +643,8 @@
                 "addr:housenumber": "74",
                 "addr:postcode": "74-105",
                 "amenity": "pharmacy",
-                "addr:place": "Nowe Czarnowo"
+                "addr:place": "Nowe Czarnowo",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

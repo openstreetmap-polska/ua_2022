@@ -10,7 +10,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "147",
                 "addr:city": "Bukowina Tatrzańska",
                 "addr:postcode": "34-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Bukowina Tatrzańska",
                 "addr:postcode": "34-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Ząb",
                 "addr:postcode": "34-521",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +88,8 @@
                 "addr:housenumber": "55",
                 "addr:city": "Murzasichle",
                 "addr:postcode": "34-531",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "40A",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +126,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "75",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -157,7 +165,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -194,7 +204,8 @@
                 "addr:housenumber": "45",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +224,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -232,7 +244,8 @@
                 "addr:housenumber": "79 A",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -251,7 +264,8 @@
                 "addr:housenumber": "178",
                 "addr:city": "Białka Tatrzańska",
                 "addr:postcode": "34-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -270,7 +284,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -288,7 +303,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -306,7 +322,8 @@
                 "addr:housenumber": "140",
                 "addr:city": "Kościelisko",
                 "addr:postcode": "34-511",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -325,7 +342,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -344,7 +362,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -363,7 +382,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Poronin",
                 "addr:postcode": "34-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -381,7 +401,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -400,7 +421,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -419,7 +441,8 @@
                 "addr:housenumber": "184 B",
                 "addr:city": "Biały Dunajec",
                 "addr:postcode": "34-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -438,7 +461,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -457,7 +481,8 @@
                 "addr:housenumber": "188",
                 "addr:city": "Biały Dunajec",
                 "addr:postcode": "34-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -476,7 +501,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-501",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -495,7 +521,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -512,7 +539,8 @@
                 "addr:housenumber": "188",
                 "addr:postcode": "34-512",
                 "amenity": "pharmacy",
-                "addr:place": "Witów"
+                "addr:place": "Witów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -531,7 +559,8 @@
                 "addr:housenumber": "97",
                 "addr:city": "Poronin",
                 "addr:postcode": "34-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -548,7 +577,8 @@
                 "addr:housenumber": "173",
                 "addr:postcode": "34-514",
                 "amenity": "pharmacy",
-                "addr:place": "Dzianisz"
+                "addr:place": "Dzianisz",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -567,7 +597,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -586,7 +617,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -605,7 +637,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Zakopane",
                 "addr:postcode": "34-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

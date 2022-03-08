@@ -11,7 +11,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-792",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-794",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-791",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "49",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-219",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "48",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-642",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +111,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-088",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -125,7 +131,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-643",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +151,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-796",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -163,7 +171,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +191,8 @@
                 "addr:housenumber": "91",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-022",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +211,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-806",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -220,7 +231,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-634",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +251,8 @@
                 "addr:housenumber": "66a",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-733",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -258,7 +271,8 @@
                 "addr:housenumber": "34b",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-094",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -277,7 +291,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-316",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -296,7 +311,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-154",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -315,7 +331,8 @@
                 "addr:housenumber": "4-6",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -334,7 +351,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-796",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -353,7 +371,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-792",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -372,7 +391,8 @@
                 "addr:housenumber": "9d",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-796",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -391,7 +411,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-829",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +431,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-313",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +451,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-156",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -448,7 +471,8 @@
                 "addr:housenumber": "213",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-391",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +491,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-733",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -486,7 +511,8 @@
                 "addr:housenumber": "81",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-009",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -505,7 +531,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -524,7 +551,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-791",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -543,7 +571,8 @@
                 "addr:housenumber": "39-47",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-097",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -562,7 +591,8 @@
                 "addr:housenumber": "92",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-861",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -581,7 +611,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-791",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -600,7 +631,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -619,7 +651,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -638,7 +671,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-856",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -657,7 +691,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-793",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -676,7 +711,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-794",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -695,7 +731,8 @@
                 "addr:housenumber": "19a",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -714,7 +751,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-090",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -733,7 +771,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-132",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -752,7 +791,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-095",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -771,7 +811,8 @@
                 "addr:housenumber": "93-95",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-312",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -790,7 +831,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-862",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -809,7 +851,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-728",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -828,7 +871,8 @@
                 "addr:housenumber": "33A",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-733",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -847,7 +891,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-094",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -866,7 +911,8 @@
                 "addr:housenumber": "16a",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-858",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -885,7 +931,8 @@
                 "addr:housenumber": "38",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-433",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -904,7 +951,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-011",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -923,7 +971,8 @@
                 "addr:housenumber": "101",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-817",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -942,7 +991,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-532",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -961,7 +1011,8 @@
                 "addr:housenumber": "86",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-358",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -980,7 +1031,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-711",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -999,7 +1051,8 @@
                 "addr:housenumber": "51",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-011",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1018,7 +1071,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1037,7 +1091,8 @@
                 "addr:housenumber": "51",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1056,7 +1111,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1075,7 +1131,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1094,7 +1151,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-669",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1113,7 +1171,8 @@
                 "addr:housenumber": "51b",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-863",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1132,7 +1191,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-105",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1151,7 +1211,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1170,7 +1231,8 @@
                 "addr:housenumber": "99",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-790",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1189,7 +1251,8 @@
                 "addr:housenumber": "27a",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-870",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1208,7 +1271,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1227,7 +1291,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1246,7 +1311,8 @@
                 "addr:housenumber": "57",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1265,7 +1331,8 @@
                 "addr:housenumber": "37",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-239",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1284,7 +1351,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-403",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1303,7 +1371,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-236",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1322,7 +1391,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-791",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1341,7 +1411,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-796",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1360,7 +1431,8 @@
                 "addr:housenumber": "37a",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-806",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1379,7 +1451,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-555",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1398,7 +1471,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-077",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1417,7 +1491,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-708",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1436,7 +1511,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-822",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1455,7 +1531,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-094",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1474,7 +1551,8 @@
                 "addr:housenumber": "140",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-021",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1493,7 +1571,8 @@
                 "addr:housenumber": "71",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-239",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1512,7 +1591,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-094",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1531,7 +1611,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-790",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1550,7 +1631,8 @@
                 "addr:housenumber": "109",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-435",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1569,7 +1651,8 @@
                 "addr:housenumber": "42",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1588,7 +1671,8 @@
                 "addr:housenumber": "8a",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-884",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1607,7 +1691,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-791",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1626,7 +1711,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-643",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1645,7 +1731,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-133",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1664,7 +1751,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-861",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1683,7 +1771,8 @@
                 "addr:housenumber": "156 A",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1702,7 +1791,8 @@
                 "addr:housenumber": "45",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-011",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1721,7 +1811,8 @@
                 "addr:housenumber": "5a",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-794",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1740,7 +1831,8 @@
                 "addr:housenumber": "54",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-127",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1759,7 +1851,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-868",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1778,7 +1871,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1797,7 +1891,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-796",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1816,7 +1911,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-636",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1835,7 +1931,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-164",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1854,7 +1951,8 @@
                 "addr:housenumber": "66",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-409",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1873,7 +1971,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-676",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1892,7 +1991,8 @@
                 "addr:housenumber": "51",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-791",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1911,7 +2011,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-868",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1930,7 +2031,8 @@
                 "addr:housenumber": "327",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-391",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1949,7 +2051,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-631",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1968,7 +2071,8 @@
                 "addr:housenumber": "251",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-485",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1987,7 +2091,8 @@
                 "addr:housenumber": "327",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-391",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2006,7 +2111,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-896",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2025,7 +2131,8 @@
                 "addr:housenumber": "75",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-168",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2044,7 +2151,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-826",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2063,7 +2171,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-667",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2082,7 +2191,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2101,7 +2211,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-094",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2120,7 +2231,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-826",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2139,7 +2251,8 @@
                 "addr:housenumber": "141",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-739",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2158,7 +2271,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-128",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2177,7 +2291,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-128",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2196,7 +2311,8 @@
                 "addr:housenumber": "4-6",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2215,7 +2331,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-681",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2234,7 +2351,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-094",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2253,7 +2371,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-636",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2272,7 +2391,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-811",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2291,7 +2411,8 @@
                 "addr:housenumber": "61",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-168",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2310,7 +2431,8 @@
                 "addr:housenumber": "10a",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2329,7 +2451,8 @@
                 "addr:housenumber": "75",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-168",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2348,7 +2471,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-163",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2367,7 +2491,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2386,7 +2511,8 @@
                 "addr:housenumber": "410",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-790",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2405,7 +2531,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-433",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2424,7 +2551,8 @@
                 "addr:housenumber": "161",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-674",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2443,7 +2571,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-171",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2462,7 +2591,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-858",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2481,7 +2611,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-316",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2500,7 +2631,8 @@
                 "addr:housenumber": "13a",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-165",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2519,7 +2651,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-870",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2538,7 +2671,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-125",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2557,7 +2691,8 @@
                 "addr:housenumber": "33",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-733",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2576,7 +2711,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-006",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2595,7 +2731,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2614,7 +2751,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-011",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2633,7 +2771,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-129",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2652,7 +2791,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-796",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2671,7 +2811,8 @@
                 "addr:housenumber": "5a",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-791",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2690,7 +2831,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-323",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2709,7 +2851,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-794",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2728,7 +2871,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-096",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2747,7 +2891,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-824",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2766,7 +2911,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-794",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2785,7 +2931,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2804,7 +2951,8 @@
                 "addr:housenumber": "138",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-429",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2823,7 +2971,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-791",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -2842,7 +2991,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Bydgoszcz",
                 "addr:postcode": "85-124",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

@@ -11,7 +11,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "GOLINA",
                 "addr:postcode": "62-590",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "KRZYMÓW",
                 "addr:postcode": "62-513",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "KRAMSK",
                 "addr:postcode": "62-511",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "ŚLESIN",
                 "addr:postcode": "63-561",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "addr:housenumber": "32",
                 "addr:city": "GOLINA",
                 "addr:postcode": "62-590",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "RYCHWAŁ",
                 "addr:postcode": "62-570",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "KAZIMIERZ BISKUPI",
                 "addr:postcode": "62-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "21",
                 "addr:city": "GOLINA",
                 "addr:postcode": "62-590",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "RYCHWAŁ",
                 "addr:postcode": "62-570",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +189,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "KLECZEW",
                 "addr:postcode": "62-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -199,7 +209,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "SKULSK",
                 "addr:postcode": "62-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "KAZIMIERZ BISKUPI",
                 "addr:postcode": "62-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "77",
                 "addr:city": "ŻYCHLIN",
                 "addr:postcode": "62-571",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Sławsk",
                 "addr:postcode": "62-586",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Kleczew",
                 "addr:postcode": "62-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -292,7 +307,8 @@
                 "addr:housenumber": "7",
                 "addr:postcode": "62-619",
                 "amenity": "pharmacy",
-                "addr:place": "Sadlno"
+                "addr:place": "Sadlno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -310,7 +326,8 @@
                 "addr:housenumber": "112",
                 "addr:postcode": "62-619",
                 "amenity": "pharmacy",
-                "addr:place": "Wierzbinek"
+                "addr:place": "Wierzbinek",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -329,7 +346,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "KRAMSK",
                 "addr:postcode": "62-511",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -348,7 +366,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "WILCZYN",
                 "addr:postcode": "62-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -367,7 +386,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "SOMPOLNO",
                 "addr:postcode": "62-610",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -386,7 +406,8 @@
                 "addr:housenumber": "31A",
                 "addr:city": "STARE MIASTO",
                 "addr:postcode": "62-571",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -405,7 +426,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "ŚLESIN",
                 "addr:postcode": "62-561",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -424,7 +446,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "ŚLESIN",
                 "addr:postcode": "62-561",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -443,7 +466,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "SOMPOLNO",
                 "addr:postcode": "62-610",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -462,7 +486,8 @@
                 "addr:housenumber": "56",
                 "addr:city": "LICHEŃ STARY",
                 "addr:postcode": "62-563",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -481,7 +506,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "STARE MIASTO",
                 "addr:postcode": "62-571",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -500,7 +526,8 @@
                 "addr:housenumber": "12A",
                 "addr:city": "ŚLESIN",
                 "addr:postcode": "62-561",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -519,7 +546,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "GRODZIEC",
                 "addr:postcode": "62-580",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -538,7 +566,8 @@
                 "addr:housenumber": "19E",
                 "addr:city": "RZGÓW",
                 "addr:postcode": "62-586",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -557,7 +586,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Licheń Stary",
                 "addr:postcode": "62-563",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +606,8 @@
                 "addr:housenumber": "6B",
                 "addr:city": "POSADA",
                 "addr:postcode": "62-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -594,7 +625,8 @@
                 "addr:housenumber": "6",
                 "addr:postcode": "62-590",
                 "amenity": "pharmacy",
-                "addr:place": "Kawnice"
+                "addr:place": "Kawnice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -613,7 +645,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Lisiec Wielki",
                 "addr:postcode": "62-571",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -632,7 +665,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Wilczyn",
                 "addr:postcode": "62-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -651,7 +685,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Budzisław Kościelny",
                 "addr:postcode": "62-541",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -670,7 +705,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Skulsk",
                 "addr:postcode": "62-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -689,7 +725,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Ślesin",
                 "addr:postcode": "62-561",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -707,7 +744,8 @@
                 "addr:housenumber": "10A",
                 "addr:city": "Brzeźno",
                 "addr:postcode": "62-513",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

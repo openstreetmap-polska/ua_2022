@@ -11,7 +11,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Chełmek",
                 "addr:postcode": "32-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Chełmek",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Chełmek",
                 "addr:postcode": "32-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Chełmek",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "13A",
                 "addr:city": "Brzeszcze",
                 "addr:postcode": "32-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Brzeszcze",
                 "addr:postcode": "32-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Kęty",
                 "addr:postcode": "32-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "25",
                 "addr:city": "Kęty",
                 "addr:postcode": "32-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "24A",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "31",
                 "addr:city": "Brzeszcze",
                 "addr:postcode": "32-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Brzeszcze",
                 "addr:postcode": "32-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "11",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Kęty",
                 "addr:postcode": "32-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -274,7 +288,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Brzeszcze",
                 "addr:postcode": "32-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -293,7 +308,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-606",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -312,7 +328,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +348,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Brzeszcze",
                 "addr:postcode": "32-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -350,7 +368,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Kęty",
                 "addr:postcode": "32-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -369,7 +388,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -388,7 +408,8 @@
                 "addr:housenumber": "23-39",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -407,7 +428,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Kęty",
                 "addr:postcode": "32-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -426,7 +448,8 @@
                 "addr:housenumber": "1D",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -445,7 +468,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -464,7 +488,8 @@
                 "addr:housenumber": "106",
                 "addr:city": "Kęty",
                 "addr:postcode": "32-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -483,7 +508,8 @@
                 "addr:housenumber": "7A",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -502,7 +528,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -521,7 +548,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -540,7 +568,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -558,7 +587,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -576,7 +606,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Osiek",
                 "addr:postcode": "32-608",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -595,7 +626,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Bulowice",
                 "addr:postcode": "32-652",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -614,7 +646,8 @@
                 "addr:housenumber": "11A",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -633,7 +666,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -652,7 +686,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Kęty",
                 "addr:postcode": "32-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -670,7 +705,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -689,7 +725,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -708,7 +745,8 @@
                 "addr:housenumber": "1a",
                 "addr:city": "Brzeszcze",
                 "addr:postcode": "32-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -726,7 +764,8 @@
                 "addr:housenumber": "74",
                 "addr:city": "Zasole",
                 "addr:postcode": "32-626",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -745,7 +784,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -763,7 +803,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -782,7 +823,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -801,7 +843,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Kęty",
                 "addr:postcode": "32-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -820,7 +863,8 @@
                 "addr:housenumber": "52 A",
                 "addr:city": "Nowa Wieś",
                 "addr:postcode": "32-651",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -839,7 +883,8 @@
                 "addr:housenumber": "219",
                 "addr:city": "Osiek",
                 "addr:postcode": "32-608",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -857,7 +902,8 @@
                 "addr:housenumber": "26",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -876,7 +922,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Grojec",
                 "addr:postcode": "32-615",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -895,7 +942,8 @@
                 "addr:housenumber": "9a",
                 "addr:city": "Grojec",
                 "addr:postcode": "32-615",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -914,7 +962,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -933,7 +982,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -952,7 +1002,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Oświęcim",
                 "addr:postcode": "32-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -971,7 +1022,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Zator",
                 "addr:postcode": "32-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -989,7 +1041,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Zator",
                 "addr:postcode": "32-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1007,7 +1060,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Polanka Wielka",
                 "addr:postcode": "32-607",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1026,7 +1080,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Zator",
                 "addr:postcode": "32-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1045,7 +1100,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Przeciszów",
                 "addr:postcode": "32-641",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1064,7 +1120,8 @@
                 "addr:housenumber": "77",
                 "addr:city": "Piotrowice",
                 "addr:postcode": "32-641",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1083,7 +1140,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Zator",
                 "addr:postcode": "32-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1102,7 +1160,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Polanka Wielka",
                 "addr:postcode": "32-607",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1121,7 +1180,8 @@
                 "addr:housenumber": "5A",
                 "addr:city": "Polanka Wielka",
                 "addr:postcode": "32-607",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -1140,7 +1200,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Zator",
                 "addr:postcode": "32-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

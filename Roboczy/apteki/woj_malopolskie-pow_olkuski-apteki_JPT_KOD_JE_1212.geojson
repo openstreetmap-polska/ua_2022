@@ -11,7 +11,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Bukowno",
                 "addr:postcode": "32-332",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -30,7 +31,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -49,7 +51,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Wolbrom",
                 "addr:postcode": "32-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +71,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +91,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Klucze",
                 "addr:postcode": "32-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Klucze",
                 "addr:postcode": "32-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Klucze",
                 "addr:postcode": "32-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "1",
                 "addr:city": "Bukowno",
                 "addr:postcode": "32-332",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Wolbrom",
                 "addr:postcode": "32-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -236,7 +248,8 @@
                 "addr:housenumber": "46",
                 "addr:city": "Bolesław",
                 "addr:postcode": "32-329",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -255,7 +268,8 @@
                 "addr:housenumber": "64b",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -273,7 +287,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -290,7 +305,8 @@
                 "addr:housenumber": "174",
                 "addr:postcode": "33-220",
                 "amenity": "pharmacy",
-                "addr:place": "Bolesław"
+                "addr:place": "Bolesław",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +325,8 @@
                 "addr:housenumber": "36",
                 "addr:city": "Hutki",
                 "addr:postcode": "32-329",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -327,7 +344,8 @@
                 "addr:housenumber": "51",
                 "addr:postcode": "32-300",
                 "amenity": "pharmacy",
-                "addr:place": "Zimnodół"
+                "addr:place": "Zimnodół",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -346,7 +364,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -365,7 +384,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -384,7 +404,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -403,7 +424,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Chechło",
                 "addr:postcode": "32-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +442,8 @@
                 "addr:housenumber": "71",
                 "addr:postcode": "35-353",
                 "amenity": "pharmacy",
-                "addr:place": "Trzyciąż"
+                "addr:place": "Trzyciąż",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -439,7 +462,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -458,7 +482,8 @@
                 "addr:housenumber": "60",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -477,7 +502,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -496,7 +522,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Bukowno",
                 "addr:postcode": "32-332",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -514,7 +541,8 @@
                 "addr:housenumber": "155",
                 "addr:postcode": "32-340",
                 "amenity": "pharmacy",
-                "addr:place": "Łobzów"
+                "addr:place": "Łobzów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -532,7 +560,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -551,7 +580,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Bolesław",
                 "addr:postcode": "32-329",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -570,7 +600,8 @@
                 "addr:housenumber": "39",
                 "addr:city": "Wolbrom",
                 "addr:postcode": "32-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -589,7 +620,8 @@
                 "addr:housenumber": "37A",
                 "addr:city": "Jaroszowiec",
                 "addr:postcode": "32-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -608,7 +640,8 @@
                 "addr:housenumber": "24",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -627,7 +660,8 @@
                 "addr:housenumber": "15A",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -646,7 +680,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Bukowno",
                 "addr:postcode": "32-332",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -665,7 +700,8 @@
                 "addr:housenumber": "13",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -684,7 +720,8 @@
                 "addr:housenumber": "1A",
                 "addr:city": "Jaroszowiec",
                 "addr:postcode": "32-312",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -703,7 +740,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Wolbrom",
                 "addr:postcode": "32-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -722,7 +760,8 @@
                 "addr:housenumber": "23",
                 "addr:city": "Bydlin",
                 "addr:postcode": "32-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -741,7 +780,8 @@
                 "addr:housenumber": "37A",
                 "addr:city": "Jaroszowiec",
                 "addr:postcode": "32-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -760,7 +800,8 @@
                 "addr:housenumber": "22",
                 "addr:city": "Wolbrom",
                 "addr:postcode": "32-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -779,7 +820,8 @@
                 "addr:housenumber": "4A",
                 "addr:city": "Olkusz",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -798,7 +840,8 @@
                 "addr:housenumber": "43",
                 "addr:city": "Wolbrom",
                 "addr:postcode": "32-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -815,7 +858,8 @@
                 "addr:housenumber": "140",
                 "addr:postcode": "32-353",
                 "amenity": "pharmacy",
-                "addr:place": "Imbramowice"
+                "addr:place": "Imbramowice",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

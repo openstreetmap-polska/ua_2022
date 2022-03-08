@@ -10,7 +10,8 @@
                 "addr:housenumber": "8B",
                 "addr:postcode": "39-220",
                 "amenity": "pharmacy",
-                "addr:place": "Dobrków"
+                "addr:place": "Dobrków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "78",
                 "addr:postcode": "39-231",
                 "amenity": "pharmacy",
-                "addr:place": "Smarżowa"
+                "addr:place": "Smarżowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "91",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -66,7 +69,8 @@
                 "addr:housenumber": "52C",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -85,7 +89,8 @@
                 "addr:housenumber": "66",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -104,7 +109,8 @@
                 "addr:housenumber": "114",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -123,7 +129,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Brzostek",
                 "addr:postcode": "39-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -142,7 +149,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +169,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Brzostek",
                 "addr:postcode": "39-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -179,7 +188,8 @@
                 "addr:housenumber": "245F",
                 "addr:postcode": "39-200",
                 "amenity": "pharmacy",
-                "addr:place": "Nagawczyna"
+                "addr:place": "Nagawczyna",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +208,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -217,7 +228,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Brzostek",
                 "addr:postcode": "39-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -234,7 +246,8 @@
                 "addr:housenumber": "516",
                 "addr:postcode": "39-205",
                 "amenity": "pharmacy",
-                "addr:place": "Pustków"
+                "addr:place": "Pustków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -253,7 +266,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +286,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -291,7 +306,8 @@
                 "addr:housenumber": "19",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -309,7 +325,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -328,7 +345,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -346,7 +364,8 @@
                 "addr:housenumber": "88a",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -365,7 +384,8 @@
                 "addr:housenumber": "91",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -382,7 +402,8 @@
                 "addr:housenumber": "36B",
                 "addr:postcode": "39-206",
                 "amenity": "pharmacy",
-                "addr:place": "Pustków-Osiedle"
+                "addr:place": "Pustków-Osiedle",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -401,7 +422,8 @@
                 "addr:housenumber": "34",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -420,7 +442,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -439,7 +462,8 @@
                 "addr:housenumber": "44",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -457,7 +481,8 @@
                 "addr:housenumber": "147a",
                 "addr:postcode": "39-204",
                 "amenity": "pharmacy",
-                "addr:place": "Żyraków"
+                "addr:place": "Żyraków",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -476,7 +501,8 @@
                 "addr:housenumber": "116",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -495,7 +521,8 @@
                 "addr:housenumber": "18",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -514,7 +541,8 @@
                 "addr:housenumber": "131",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -532,7 +560,8 @@
                 "addr:housenumber": "108E",
                 "addr:postcode": "39-203",
                 "amenity": "pharmacy",
-                "addr:place": "Bobrowa"
+                "addr:place": "Bobrowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -551,7 +580,8 @@
                 "addr:housenumber": "16",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -570,7 +600,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -589,7 +620,8 @@
                 "addr:housenumber": "94e",
                 "addr:city": "Dębica",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -607,7 +639,8 @@
                 "addr:housenumber": "142B",
                 "addr:postcode": "39-215",
                 "amenity": "pharmacy",
-                "addr:place": "Róża"
+                "addr:place": "Róża",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -625,7 +658,8 @@
                 "addr:housenumber": "25B",
                 "addr:postcode": "38-218",
                 "amenity": "pharmacy",
-                "addr:place": "Jodłowa"
+                "addr:place": "Jodłowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -644,7 +678,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Czarna",
                 "addr:postcode": "39-215",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -662,7 +697,8 @@
                 "addr:housenumber": "29",
                 "addr:postcode": "39-225",
                 "amenity": "pharmacy",
-                "addr:place": "Jodłowa"
+                "addr:place": "Jodłowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -681,7 +717,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Czarna",
                 "addr:postcode": "39-215",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -700,7 +737,8 @@
                 "addr:housenumber": "28",
                 "addr:city": "Pilzno",
                 "addr:postcode": "39-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -718,7 +756,8 @@
                 "addr:housenumber": "12",
                 "addr:city": "Pilzno",
                 "addr:postcode": "39-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -737,7 +776,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Pilzno",
                 "addr:postcode": "39-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -756,7 +796,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Pilzno",
                 "addr:postcode": "39-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -774,7 +815,8 @@
                 "addr:housenumber": "186A",
                 "addr:postcode": "39-216",
                 "amenity": "pharmacy",
-                "addr:place": "Róża"
+                "addr:place": "Róża",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -792,7 +834,8 @@
                 "addr:housenumber": "16",
                 "addr:postcode": "39-225",
                 "amenity": "pharmacy",
-                "addr:place": "Jodłowa"
+                "addr:place": "Jodłowa",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",

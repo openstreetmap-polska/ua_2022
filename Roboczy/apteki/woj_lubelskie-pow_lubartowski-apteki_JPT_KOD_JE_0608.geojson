@@ -10,7 +10,8 @@
                 "addr:housenumber": "17",
                 "addr:city": "Kock",
                 "addr:postcode": "21-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -28,7 +29,8 @@
                 "addr:housenumber": "66",
                 "addr:postcode": "24-104",
                 "amenity": "pharmacy",
-                "addr:place": "Niedźwiada Kol."
+                "addr:place": "Niedźwiada Kol.",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -47,7 +49,8 @@
                 "addr:housenumber": "30",
                 "addr:city": "Jeziorzany",
                 "addr:postcode": "21-146",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +68,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Kock",
                 "addr:postcode": "21-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -83,7 +87,8 @@
                 "addr:housenumber": "41",
                 "addr:city": "Rudno",
                 "addr:postcode": "21-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -102,7 +107,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Michów",
                 "addr:postcode": "21-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -121,7 +127,8 @@
                 "addr:housenumber": "6",
                 "addr:city": "Kock",
                 "addr:postcode": "21-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -139,7 +146,8 @@
                 "addr:housenumber": "9A",
                 "addr:city": "Firlej",
                 "addr:postcode": "21-136",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -158,7 +166,8 @@
                 "addr:housenumber": "8",
                 "addr:city": "Firlej",
                 "addr:postcode": "21-136",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -175,7 +184,8 @@
                 "name": "-",
                 "addr:housenumber": "66",
                 "amenity": "pharmacy",
-                "addr:place": "Wola Skromowska"
+                "addr:place": "Wola Skromowska",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -192,7 +202,8 @@
                 "addr:housenumber": "29",
                 "addr:postcode": "21-109",
                 "amenity": "pharmacy",
-                "addr:place": "Stary Uścimów"
+                "addr:place": "Stary Uścimów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -210,7 +221,8 @@
                 "addr:housenumber": "15",
                 "addr:city": "Ostrów Lubelski",
                 "addr:postcode": "21-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -228,7 +240,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Ostrów Lubelski",
                 "addr:postcode": "21-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -247,7 +260,8 @@
                 "addr:housenumber": "10",
                 "addr:city": "Ostrów Lubelski",
                 "addr:postcode": "21-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -265,7 +279,8 @@
                 "addr:housenumber": "134",
                 "addr:postcode": "42-445",
                 "amenity": "pharmacy",
-                "addr:place": "Rokitno"
+                "addr:place": "Rokitno",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -282,7 +297,8 @@
                 "addr:housenumber": "74a",
                 "addr:postcode": "08-503",
                 "amenity": "pharmacy",
-                "addr:place": "Nowodwór"
+                "addr:place": "Nowodwór",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -299,7 +315,8 @@
                 "addr:housenumber": "2T",
                 "addr:postcode": "21-100",
                 "amenity": "pharmacy",
-                "addr:place": "Lisów"
+                "addr:place": "Lisów",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -318,7 +335,8 @@
                 "addr:housenumber": "9",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -337,7 +355,8 @@
                 "addr:housenumber": "3A",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -356,7 +375,8 @@
                 "addr:housenumber": "52",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -375,7 +395,8 @@
                 "addr:housenumber": "3-5",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -393,7 +414,8 @@
                 "addr:housenumber": "20",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -411,7 +433,8 @@
                 "addr:housenumber": "7",
                 "addr:city": "Kamionka",
                 "addr:postcode": "21-132",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -429,7 +452,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -447,7 +471,8 @@
                 "addr:housenumber": "27",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -466,7 +491,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -484,7 +510,8 @@
                 "addr:housenumber": "I",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -501,7 +528,8 @@
                 "addr:housenumber": "41a",
                 "addr:postcode": "21-132",
                 "amenity": "pharmacy",
-                "addr:place": "\"Starościn Kolonia,\""
+                "addr:place": "\"Starościn Kolonia,\"",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -520,7 +548,8 @@
                 "addr:housenumber": "3",
                 "addr:city": "Kamionka",
                 "addr:postcode": "21-132",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -539,7 +568,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -557,7 +587,8 @@
                 "addr:housenumber": "2B",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -575,7 +606,8 @@
                 "addr:housenumber": "243",
                 "addr:postcode": "21-107",
                 "amenity": "pharmacy",
-                "addr:place": "Wola Sernicka"
+                "addr:place": "Wola Sernicka",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -594,7 +626,8 @@
                 "addr:housenumber": "14",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -613,7 +646,8 @@
                 "addr:housenumber": "95B",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -632,7 +666,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -651,7 +686,8 @@
                 "addr:housenumber": "5",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -670,7 +706,8 @@
                 "addr:housenumber": "135",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -689,7 +726,8 @@
                 "addr:housenumber": "102",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -708,7 +746,8 @@
                 "addr:housenumber": "29",
                 "addr:city": "Lubartów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -726,7 +765,8 @@
                 "addr:housenumber": "4",
                 "addr:city": "Abramów",
                 "addr:postcode": "21-143",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
@@ -744,7 +784,8 @@
                 "addr:housenumber": "2",
                 "addr:city": "Abramów",
                 "addr:postcode": "21-143",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "dispensing": "yes"
             },
             "geometry": {
                 "type": "Point",
