@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1015756,
                 "addr:housenumber": "54",
-                "addr:city": "Nowinka",
                 "addr:postcode": "16-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowinka"
             },
             "geometry": {
                 "type": "Point",
@@ -82,9 +82,9 @@
                 "ref:csioz": 1020641,
                 "name": "Apteka W Płaskiej Jolanta Krutul",
                 "addr:housenumber": "53D",
-                "addr:city": "Płaska",
                 "addr:postcode": "16-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Płaska"
             },
             "geometry": {
                 "type": "Point",

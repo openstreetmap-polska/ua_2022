@@ -266,9 +266,9 @@
             "properties": {
                 "ref:csioz": 1163091,
                 "addr:housenumber": "51A",
-                "addr:city": "Ludwin",
                 "addr:postcode": "21-075",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ludwin"
             },
             "geometry": {
                 "type": "Point",
@@ -378,9 +378,9 @@
             "properties": {
                 "ref:csioz": 1158119,
                 "addr:housenumber": "1A",
-                "addr:city": "Kijany",
                 "addr:postcode": "21-077",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kijany"
             },
             "geometry": {
                 "type": "Point",
@@ -396,9 +396,9 @@
                 "ref:csioz": 1229721,
                 "name": "Dział Farmacji Szpitalnej",
                 "addr:housenumber": "11A",
-                "addr:city": "Ludwików",
                 "addr:postcode": "21-077",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ludwików"
             },
             "geometry": {
                 "type": "Point",

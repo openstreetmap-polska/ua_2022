@@ -346,9 +346,9 @@
                 "ref:csioz": 1186862,
                 "name": "Zakład Opiekuńczo-Leczniczy Dla Dorosłych Zgromadzenia Sióstr Franciszkanek Rodziny Maryi",
                 "addr:housenumber": "26",
-                "addr:city": "Skrzeszewy",
                 "addr:postcode": "09-541",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Skrzeszewy"
             },
             "geometry": {
                 "type": "Point",

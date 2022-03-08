@@ -46,9 +46,9 @@
                 "ref:csioz": 1033830,
                 "addr:housenumber": "12",
                 "addr:flats": "11",
-                "addr:city": "Objazda",
                 "addr:postcode": "76-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Objazda"
             },
             "geometry": {
                 "type": "Point",
@@ -464,9 +464,9 @@
                 "ref:csioz": 1034089,
                 "addr:housenumber": "59",
                 "addr:flats": "7",
-                "addr:city": "Budowo",
                 "addr:postcode": "77-113",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Budowo"
             },
             "geometry": {
                 "type": "Point",
@@ -482,9 +482,9 @@
                 "ref:csioz": 1122268,
                 "name": "Calendula",
                 "addr:housenumber": "15",
-                "addr:city": "Stowięcino",
                 "addr:postcode": "76-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stowięcino"
             },
             "geometry": {
                 "type": "Point",
@@ -500,9 +500,9 @@
                 "ref:csioz": 1179977,
                 "name": "Pod Agawą",
                 "addr:housenumber": "12 A",
-                "addr:city": "Pobłocie",
                 "addr:postcode": "76-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pobłocie"
             },
             "geometry": {
                 "type": "Point",

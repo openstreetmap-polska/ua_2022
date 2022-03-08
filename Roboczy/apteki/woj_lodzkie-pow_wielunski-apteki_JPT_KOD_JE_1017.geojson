@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1010174,
                 "addr:housenumber": "11",
-                "addr:city": "Biała-Parcela",
                 "addr:postcode": "98-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Biała-Parcela"
             },
             "geometry": {
                 "type": "Point",
@@ -24,9 +24,9 @@
             "properties": {
                 "ref:csioz": 1019953,
                 "addr:housenumber": "233",
-                "addr:city": "Mokrsko",
                 "addr:postcode": "98-345",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mokrsko"
             },
             "geometry": {
                 "type": "Point",
@@ -60,9 +60,9 @@
             "properties": {
                 "ref:csioz": 1230805,
                 "addr:housenumber": "246",
-                "addr:city": "Mokrsko",
                 "addr:postcode": "98-345",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mokrsko"
             },
             "geometry": {
                 "type": "Point",
@@ -169,9 +169,9 @@
             "properties": {
                 "ref:csioz": 1018744,
                 "addr:housenumber": "191I",
-                "addr:city": "Czarnożyły",
                 "addr:postcode": "98-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czarnożyły"
             },
             "geometry": {
                 "type": "Point",
@@ -415,9 +415,9 @@
                 "ref:csioz": 1113871,
                 "name": "Doz Punkt Apteczny Dbam O Zdrowie",
                 "addr:housenumber": "38",
-                "addr:city": "Masłowice",
                 "addr:postcode": "97-515",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Masłowice"
             },
             "geometry": {
                 "type": "Point",
@@ -640,9 +640,9 @@
             "properties": {
                 "ref:csioz": 1014160,
                 "addr:housenumber": "115",
-                "addr:city": "Ostrówek",
                 "addr:postcode": "98-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ostrówek"
             },
             "geometry": {
                 "type": "Point",
@@ -676,9 +676,9 @@
             "properties": {
                 "ref:csioz": 1230784,
                 "addr:housenumber": "48A",
-                "addr:city": "Szynkielów",
                 "addr:postcode": "98-313",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szynkielów"
             },
             "geometry": {
                 "type": "Point",
@@ -694,9 +694,9 @@
                 "ref:csioz": 1015762,
                 "name": "Pigułka",
                 "addr:housenumber": "159A",
-                "addr:city": "Mierzyce",
                 "addr:postcode": "98-324",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mierzyce"
             },
             "geometry": {
                 "type": "Point",
@@ -711,9 +711,9 @@
             "properties": {
                 "ref:csioz": 1026585,
                 "addr:housenumber": "108A",
-                "addr:city": "Dzietrzniki",
                 "addr:postcode": "98-355",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dzietrzniki"
             },
             "geometry": {
                 "type": "Point",
@@ -728,9 +728,9 @@
             "properties": {
                 "ref:csioz": 1010434,
                 "addr:housenumber": "50A",
-                "addr:city": "Pątnów",
                 "addr:postcode": "98-335",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pątnów"
             },
             "geometry": {
                 "type": "Point",

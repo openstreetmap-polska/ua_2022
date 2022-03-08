@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1011428,
                 "addr:housenumber": "53",
-                "addr:city": "Kaleń",
                 "addr:postcode": "96-206",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kaleń"
             },
             "geometry": {
                 "type": "Point",
@@ -101,9 +101,9 @@
                 "ref:csioz": 1019104,
                 "name": "Beata",
                 "addr:housenumber": "3",
-                "addr:city": "Dańków",
                 "addr:postcode": "96-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dańków"
             },
             "geometry": {
                 "type": "Point",
@@ -119,9 +119,9 @@
                 "ref:csioz": 1020276,
                 "name": "Pod Jarzębiną",
                 "addr:housenumber": "86",
-                "addr:city": "Regnów",
                 "addr:postcode": "96-232",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Regnów"
             },
             "geometry": {
                 "type": "Point",

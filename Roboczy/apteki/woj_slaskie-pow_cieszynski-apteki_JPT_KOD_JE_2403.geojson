@@ -8,9 +8,9 @@
                 "ref:csioz": 1062629,
                 "name": "Na Dzielcu",
                 "addr:housenumber": "1475",
-                "addr:city": "Istebna",
                 "addr:postcode": "43-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Istebna"
             },
             "geometry": {
                 "type": "Point",
@@ -26,9 +26,9 @@
                 "ref:csioz": 1062632,
                 "name": "Brak",
                 "addr:housenumber": "68",
-                "addr:city": "Istebna",
                 "addr:postcode": "43-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Istebna"
             },
             "geometry": {
                 "type": "Point",
@@ -44,9 +44,9 @@
                 "ref:csioz": 1064912,
                 "name": "Apteka Pod Ochodzitą",
                 "addr:housenumber": "783",
-                "addr:city": "Koniaków",
                 "addr:postcode": "43-474",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Koniaków"
             },
             "geometry": {
                 "type": "Point",
@@ -62,9 +62,9 @@
                 "ref:csioz": 1174147,
                 "name": "Szpital Kubalonka",
                 "addr:housenumber": "500",
-                "addr:city": "Istebna",
                 "addr:postcode": "43-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Istebna"
             },
             "geometry": {
                 "type": "Point",
@@ -99,9 +99,9 @@
                 "ref:csioz": 1063321,
                 "name": "Brak",
                 "addr:housenumber": "641",
-                "addr:city": "Jaworzynka",
                 "addr:postcode": "43-476",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jaworzynka"
             },
             "geometry": {
                 "type": "Point",

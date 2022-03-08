@@ -290,9 +290,9 @@
                 "ref:csioz": 1221976,
                 "name": "Medica",
                 "addr:housenumber": "7",
-                "addr:city": "Sadlno",
                 "addr:postcode": "62-619",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sadlno"
             },
             "geometry": {
                 "type": "Point",
@@ -308,9 +308,9 @@
                 "ref:csioz": 1230831,
                 "name": "\"\"\"Zdrowie I Uroda\"\"\"",
                 "addr:housenumber": "112",
-                "addr:city": "Wierzbinek",
                 "addr:postcode": "62-619",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wierzbinek"
             },
             "geometry": {
                 "type": "Point",
@@ -593,9 +593,9 @@
                 "ref:csioz": 1191498,
                 "name": "Vita",
                 "addr:housenumber": "6",
-                "addr:city": "Kawnice",
                 "addr:postcode": "62-590",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kawnice"
             },
             "geometry": {
                 "type": "Point",

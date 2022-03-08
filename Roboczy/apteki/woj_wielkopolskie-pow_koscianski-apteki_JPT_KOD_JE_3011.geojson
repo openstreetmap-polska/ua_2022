@@ -8,9 +8,9 @@
                 "ref:csioz": 1043827,
                 "name": "Remedium",
                 "addr:housenumber": "117",
-                "addr:city": "Bieżyń",
                 "addr:postcode": "64-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bieżyń"
             },
             "geometry": {
                 "type": "Point",
@@ -158,9 +158,9 @@
             "properties": {
                 "ref:csioz": 1226305,
                 "addr:housenumber": "44",
-                "addr:city": "Wonieść",
                 "addr:postcode": "64-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wonieść"
             },
             "geometry": {
                 "type": "Point",

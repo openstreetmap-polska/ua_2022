@@ -8,9 +8,9 @@
                 "ref:csioz": 1186731,
                 "name": "Apteka Mgr Bober Apteki Polskie",
                 "addr:housenumber": "33 A",
-                "addr:city": "Słupia",
                 "addr:postcode": "26-234",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Słupia"
             },
             "geometry": {
                 "type": "Point",
@@ -100,9 +100,9 @@
                 "ref:csioz": 1121633,
                 "name": "Punkt Apteczny Melisa",
                 "addr:housenumber": "99A",
-                "addr:city": "Ruda Maleniecka",
                 "addr:postcode": "26-242",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ruda Maleniecka"
             },
             "geometry": {
                 "type": "Point",
@@ -135,9 +135,9 @@
             "properties": {
                 "ref:csioz": 1000053,
                 "addr:housenumber": "52",
-                "addr:city": "Krasna",
                 "addr:postcode": "26-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krasna"
             },
             "geometry": {
                 "type": "Point",
@@ -358,9 +358,9 @@
                 "ref:csioz": 1003147,
                 "name": "Apteka Gminy Smyków",
                 "addr:housenumber": "91",
-                "addr:city": "Smyków",
                 "addr:postcode": "26-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Smyków"
             },
             "geometry": {
                 "type": "Point",
@@ -508,9 +508,9 @@
                 "ref:csioz": 1191831,
                 "name": "Dział Farmacji Szpitalnej",
                 "addr:housenumber": "43",
-                "addr:city": "Czarniecka Góra",
                 "addr:postcode": "26-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czarniecka Góra"
             },
             "geometry": {
                 "type": "Point",
@@ -564,9 +564,9 @@
                 "ref:csioz": 1224275,
                 "name": "Stowarzyszenie Opieki Paliatywno-Hospicyjnej Im. Bł. Ks. Kazimierza Sykulskiego W Rudzie Białaczowskiej",
                 "addr:housenumber": "1A",
-                "addr:city": "Ruda Białaczowska",
                 "addr:postcode": "26-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ruda Białaczowska"
             },
             "geometry": {
                 "type": "Point",

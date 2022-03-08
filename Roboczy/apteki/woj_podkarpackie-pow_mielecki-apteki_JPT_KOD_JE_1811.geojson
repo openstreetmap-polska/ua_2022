@@ -214,9 +214,9 @@
                 "ref:csioz": 1144639,
                 "name": "Pod Modrzewiami",
                 "addr:housenumber": "51B",
-                "addr:city": "Tuszów Narodowy",
                 "addr:postcode": "39-332",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tuszów Narodowy"
             },
             "geometry": {
                 "type": "Point",
@@ -289,9 +289,9 @@
                 "ref:csioz": 1221574,
                 "name": "Arnika",
                 "addr:housenumber": "6D",
-                "addr:city": "Gawłuszowice",
                 "addr:postcode": "39-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gawłuszowice"
             },
             "geometry": {
                 "type": "Point",
@@ -324,9 +324,9 @@
             "properties": {
                 "ref:csioz": 1144626,
                 "addr:housenumber": "260",
-                "addr:city": "Rzemień",
                 "addr:postcode": "39-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rzemień"
             },
             "geometry": {
                 "type": "Point",
@@ -490,9 +490,9 @@
             "properties": {
                 "ref:csioz": 1144517,
                 "addr:housenumber": "333A",
-                "addr:city": "Borowa",
                 "addr:postcode": "39-305",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Borowa"
             },
             "geometry": {
                 "type": "Point",
@@ -508,9 +508,9 @@
                 "ref:csioz": 1144549,
                 "name": "Arnika",
                 "addr:housenumber": "112",
-                "addr:city": "Chorzelów",
                 "addr:postcode": "39-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chorzelów"
             },
             "geometry": {
                 "type": "Point",
@@ -526,9 +526,9 @@
                 "ref:csioz": 1144558,
                 "name": "Twoje Zdrowie",
                 "addr:housenumber": "763",
-                "addr:city": "Chorzelów",
                 "addr:postcode": "39-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chorzelów"
             },
             "geometry": {
                 "type": "Point",
@@ -637,9 +637,9 @@
                 "ref:csioz": 1186437,
                 "name": "Punkt Apteczny Artfarm",
                 "addr:housenumber": "138a",
-                "addr:city": "Tuszyma",
                 "addr:postcode": "39-321",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tuszyma"
             },
             "geometry": {
                 "type": "Point",
@@ -674,9 +674,9 @@
                 "ref:csioz": 1205077,
                 "name": "Arnika",
                 "addr:housenumber": "421C",
-                "addr:city": "Chorzelów",
                 "addr:postcode": "39-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chorzelów"
             },
             "geometry": {
                 "type": "Point",
@@ -748,9 +748,9 @@
             "properties": {
                 "ref:csioz": 1144525,
                 "addr:housenumber": "43",
-                "addr:city": "Czermin",
                 "addr:postcode": "39-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czermin"
             },
             "geometry": {
                 "type": "Point",
@@ -766,9 +766,9 @@
                 "ref:csioz": 1144530,
                 "name": "Antidotum",
                 "addr:housenumber": "470",
-                "addr:city": "Czermin",
                 "addr:postcode": "39-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czermin"
             },
             "geometry": {
                 "type": "Point",
@@ -783,9 +783,9 @@
             "properties": {
                 "ref:csioz": 1144647,
                 "addr:housenumber": "136",
-                "addr:city": "Wadowice Górne",
                 "addr:postcode": "39-308",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wadowice Górne"
             },
             "geometry": {
                 "type": "Point",

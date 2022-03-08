@@ -26,9 +26,9 @@
                 "ref:csioz": 1056272,
                 "name": "\"Apteka \"\"Zdrowie\"\" Krupińska-Nowak Spółka Jawna\"",
                 "addr:housenumber": "201",
-                "addr:city": "Opatkowice",
                 "addr:postcode": "32-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Opatkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -61,9 +61,9 @@
             "properties": {
                 "ref:csioz": 1076878,
                 "addr:housenumber": "80",
-                "addr:city": "Łętkowice-Kolonia",
                 "addr:postcode": "32-108",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łętkowice-Kolonia"
             },
             "geometry": {
                 "type": "Point",
@@ -78,9 +78,9 @@
             "properties": {
                 "ref:csioz": 1119898,
                 "addr:housenumber": "26",
-                "addr:city": "Bobin",
                 "addr:postcode": "32-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bobin"
             },
             "geometry": {
                 "type": "Point",
@@ -115,9 +115,9 @@
             "properties": {
                 "ref:csioz": 1190927,
                 "addr:housenumber": "72",
-                "addr:city": "Niegardów",
                 "addr:postcode": "32-104",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niegardów"
             },
             "geometry": {
                 "type": "Point",
@@ -151,9 +151,9 @@
             "properties": {
                 "ref:csioz": 1034720,
                 "addr:housenumber": "80",
-                "addr:city": "Radziemice",
                 "addr:postcode": "32-107",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Radziemice"
             },
             "geometry": {
                 "type": "Point",
@@ -187,9 +187,9 @@
                 "ref:csioz": 1175142,
                 "name": "Punkt Apteczny Bliski",
                 "addr:housenumber": "11",
-                "addr:city": "Pałecznica",
                 "addr:postcode": "32-109",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pałecznica"
             },
             "geometry": {
                 "type": "Point",
@@ -223,9 +223,9 @@
             "properties": {
                 "ref:csioz": 1193194,
                 "addr:housenumber": "22A",
-                "addr:city": "Kościelec",
                 "addr:postcode": "32-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kościelec"
             },
             "geometry": {
                 "type": "Point",
@@ -260,9 +260,9 @@
                 "ref:csioz": 1229956,
                 "name": "Zakład Opieuńczo Leczniczy",
                 "addr:housenumber": "63",
-                "addr:city": "Winiary",
                 "addr:postcode": "32-109",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Winiary"
             },
             "geometry": {
                 "type": "Point",
@@ -278,9 +278,9 @@
                 "ref:csioz": 1187884,
                 "name": "Bliska Tobie",
                 "addr:housenumber": "4",
-                "addr:city": "Wierzbno",
                 "addr:postcode": "32-104",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wierzbno"
             },
             "geometry": {
                 "type": "Point",

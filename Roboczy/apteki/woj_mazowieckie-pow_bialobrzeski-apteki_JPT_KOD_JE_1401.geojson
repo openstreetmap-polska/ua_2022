@@ -63,9 +63,9 @@
             "properties": {
                 "ref:csioz": 1096234,
                 "addr:housenumber": "72",
-                "addr:city": "Radzanów",
                 "addr:postcode": "26-807",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Radzanów"
             },
             "geometry": {
                 "type": "Point",
@@ -194,9 +194,9 @@
             "properties": {
                 "ref:csioz": 1226990,
                 "addr:housenumber": "9",
-                "addr:city": "Stara Błotnica",
                 "addr:postcode": "26-806",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stara Błotnica"
             },
             "geometry": {
                 "type": "Point",

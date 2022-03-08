@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1096779,
                 "addr:housenumber": "76A",
-                "addr:city": "Huszlew",
                 "addr:postcode": "08-206",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Huszlew"
             },
             "geometry": {
                 "type": "Point",
@@ -43,9 +43,9 @@
             "properties": {
                 "ref:csioz": 1098120,
                 "addr:housenumber": "30A",
-                "addr:city": "Olszanka",
                 "addr:postcode": "08-207",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Olszanka"
             },
             "geometry": {
                 "type": "Point",
@@ -210,9 +210,9 @@
             "properties": {
                 "ref:csioz": 1096873,
                 "addr:housenumber": "284",
-                "addr:city": "Stara Kornica",
                 "addr:postcode": "08-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stara Kornica"
             },
             "geometry": {
                 "type": "Point",
@@ -247,9 +247,9 @@
                 "ref:csioz": 1195069,
                 "name": "Doz Apteka. Dbam O Zdrowie",
                 "addr:housenumber": "23A",
-                "addr:city": "Nowa Kornica",
                 "addr:postcode": "08-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowa Kornica"
             },
             "geometry": {
                 "type": "Point",

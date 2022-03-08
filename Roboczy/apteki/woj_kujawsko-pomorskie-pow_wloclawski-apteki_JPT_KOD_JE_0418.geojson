@@ -65,9 +65,9 @@
                 "ref:csioz": 1105569,
                 "name": "Verbena",
                 "addr:housenumber": "87",
-                "addr:city": "Kłotno",
                 "addr:postcode": "87-821",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kłotno"
             },
             "geometry": {
                 "type": "Point",
@@ -157,9 +157,9 @@
                 "ref:csioz": 1202194,
                 "name": "Punkt Apteczny Vigor 3",
                 "addr:housenumber": "32B",
-                "addr:city": "Kłóbka",
                 "addr:postcode": "87-840",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kłóbka"
             },
             "geometry": {
                 "type": "Point",
@@ -175,9 +175,9 @@
                 "ref:csioz": 1228070,
                 "name": "Zdrowie I Uroda",
                 "addr:housenumber": "44",
-                "addr:city": "Baruchowo",
                 "addr:postcode": "87-821",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Baruchowo"
             },
             "geometry": {
                 "type": "Point",
@@ -381,9 +381,9 @@
                 "ref:csioz": 1176773,
                 "name": "Dla Ciebie",
                 "addr:housenumber": "10",
-                "addr:city": "Zgłowiączka",
                 "addr:postcode": "87-890",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zgłowiączka"
             },
             "geometry": {
                 "type": "Point",
@@ -418,9 +418,9 @@
                 "ref:csioz": 1104226,
                 "name": "Pod Chabrami",
                 "addr:housenumber": "28",
-                "addr:city": "Lubanie",
                 "addr:postcode": "87-732",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lubanie"
             },
             "geometry": {
                 "type": "Point",
@@ -512,9 +512,9 @@
                 "ref:csioz": 1104042,
                 "name": "Eliksir",
                 "addr:housenumber": "3",
-                "addr:city": "Fabianki",
                 "addr:postcode": "87-811",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Fabianki"
             },
             "geometry": {
                 "type": "Point",
@@ -530,9 +530,9 @@
                 "ref:csioz": 1206551,
                 "name": "Martynka",
                 "addr:housenumber": "16",
-                "addr:city": "Smólnik",
                 "addr:postcode": "87-815",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Smólnik"
             },
             "geometry": {
                 "type": "Point",

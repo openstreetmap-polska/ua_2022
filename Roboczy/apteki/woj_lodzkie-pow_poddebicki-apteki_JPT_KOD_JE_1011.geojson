@@ -27,9 +27,9 @@
                 "ref:csioz": 1014256,
                 "name": "Parkowa",
                 "addr:housenumber": "63",
-                "addr:city": "Zadzim",
                 "addr:postcode": "99-232",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zadzim"
             },
             "geometry": {
                 "type": "Point",
@@ -327,9 +327,9 @@
                 "ref:csioz": 1120424,
                 "name": "\"U \"\"Ani\"\"\"",
                 "addr:housenumber": "34",
-                "addr:city": "Niemysłów",
                 "addr:postcode": "99-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niemysłów"
             },
             "geometry": {
                 "type": "Point",

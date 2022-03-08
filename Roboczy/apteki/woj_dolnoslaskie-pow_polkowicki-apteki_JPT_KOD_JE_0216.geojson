@@ -293,9 +293,9 @@
                 "ref:csioz": 1202340,
                 "name": "Medi",
                 "addr:housenumber": "4",
-                "addr:city": "Grębocice",
                 "addr:postcode": "59-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Grębocice"
             },
             "geometry": {
                 "type": "Point",

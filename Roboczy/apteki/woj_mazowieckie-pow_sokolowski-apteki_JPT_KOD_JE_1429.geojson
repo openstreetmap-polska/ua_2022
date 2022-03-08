@@ -199,9 +199,9 @@
                 "ref:csioz": 1125052,
                 "name": "Centrum Rehabilitacji Leczniczej",
                 "addr:housenumber": "19",
-                "addr:city": "Sawice Wieś",
                 "addr:postcode": "08-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sawice Wieś"
             },
             "geometry": {
                 "type": "Point",
@@ -314,9 +314,9 @@
                 "ref:csioz": 1197920,
                 "name": "Punkt Apteczny Centrum",
                 "addr:housenumber": "25",
-                "addr:city": "Ceranów",
                 "addr:postcode": "08-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ceranów"
             },
             "geometry": {
                 "type": "Point",

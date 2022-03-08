@@ -312,9 +312,9 @@
             "properties": {
                 "ref:csioz": 1135544,
                 "addr:housenumber": "1",
-                "addr:city": "Domaszków",
                 "addr:postcode": "57-522",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Domaszków"
             },
             "geometry": {
                 "type": "Point",
@@ -368,9 +368,9 @@
                 "ref:csioz": 1137074,
                 "name": "Biały Len Ii",
                 "addr:housenumber": "115",
-                "addr:city": "Wolibórz",
                 "addr:postcode": "57-431",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wolibórz"
             },
             "geometry": {
                 "type": "Point",
@@ -634,9 +634,9 @@
                 "ref:csioz": 1111769,
                 "name": "Esculap",
                 "addr:housenumber": "46",
-                "addr:city": "Wojciechowice",
                 "addr:postcode": "27-532",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wojciechowice"
             },
             "geometry": {
                 "type": "Point",
@@ -918,9 +918,9 @@
                 "ref:csioz": 1137049,
                 "name": "Zakład Leczniczo-Opiekuńczy Dla Dzieci",
                 "addr:housenumber": "53",
-                "addr:city": "Piszkowice",
                 "addr:postcode": "57-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Piszkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -936,9 +936,9 @@
                 "ref:csioz": 1137775,
                 "name": "Zdrowie",
                 "addr:housenumber": "179 A",
-                "addr:city": "Krosnowice",
                 "addr:postcode": "57-362",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krosnowice"
             },
             "geometry": {
                 "type": "Point",
@@ -1220,9 +1220,9 @@
                 "ref:csioz": 1193058,
                 "name": "Miłek",
                 "addr:housenumber": "69c",
-                "addr:city": "Szalejów Dolny",
                 "addr:postcode": "57-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szalejów Dolny"
             },
             "geometry": {
                 "type": "Point",

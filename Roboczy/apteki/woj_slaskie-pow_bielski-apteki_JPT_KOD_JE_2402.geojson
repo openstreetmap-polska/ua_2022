@@ -161,9 +161,9 @@
                 "ref:csioz": 1062717,
                 "name": "Apteka Familia",
                 "addr:housenumber": "933",
-                "addr:city": "Jasienica",
                 "addr:postcode": "43-385",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jasienica"
             },
             "geometry": {
                 "type": "Point",
@@ -255,9 +255,9 @@
                 "ref:csioz": 1065702,
                 "name": "Bursztynowa",
                 "addr:housenumber": "433",
-                "addr:city": "Międzyrzecze Górne",
                 "addr:postcode": "43-392",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Międzyrzecze Górne"
             },
             "geometry": {
                 "type": "Point",
@@ -616,9 +616,9 @@
                 "ref:csioz": 1065627,
                 "name": "Brak",
                 "addr:housenumber": "22",
-                "addr:city": "Mazańcowice",
                 "addr:postcode": "43-391",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mazańcowice"
             },
             "geometry": {
                 "type": "Point",
@@ -711,9 +711,9 @@
                 "name": "Familia",
                 "addr:housenumber": "541",
                 "addr:flats": "6",
-                "addr:city": "Rudzica",
                 "addr:postcode": "43-394",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rudzica"
             },
             "geometry": {
                 "type": "Point",
@@ -748,9 +748,9 @@
                 "ref:csioz": 1175487,
                 "name": "Apteka Familia Plus",
                 "addr:housenumber": "845",
-                "addr:city": "Jasienica",
                 "addr:postcode": "43-385",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jasienica"
             },
             "geometry": {
                 "type": "Point",
@@ -956,9 +956,9 @@
                 "ref:csioz": 1225456,
                 "name": "Apteka Familia",
                 "addr:housenumber": "1045",
-                "addr:city": "Mazańcowice",
                 "addr:postcode": "43-391",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mazańcowice"
             },
             "geometry": {
                 "type": "Point",

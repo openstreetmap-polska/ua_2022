@@ -64,9 +64,9 @@
                 "ref:csioz": 1048637,
                 "name": "Zielona",
                 "addr:housenumber": "53",
-                "addr:city": "KOWALE PAŃSKIE KOLONIA",
                 "addr:postcode": "62-704",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "KOWALE PAŃSKIE KOLONIA"
             },
             "geometry": {
                 "type": "Point",
@@ -422,9 +422,9 @@
                 "ref:csioz": 1179664,
                 "name": "Stars",
                 "addr:housenumber": "4A",
-                "addr:city": "Malanów",
                 "addr:postcode": "62-709",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Malanów"
             },
             "geometry": {
                 "type": "Point",
@@ -440,9 +440,9 @@
                 "ref:csioz": 1191487,
                 "name": "Stars",
                 "addr:housenumber": "37A",
-                "addr:city": "Tokary Pierwsze",
                 "addr:postcode": "62-704",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tokary Pierwsze"
             },
             "geometry": {
                 "type": "Point",

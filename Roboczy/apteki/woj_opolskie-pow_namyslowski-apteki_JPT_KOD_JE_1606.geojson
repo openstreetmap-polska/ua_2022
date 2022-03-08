@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1162370,
                 "addr:housenumber": "62A",
-                "addr:city": "Wilków",
                 "addr:postcode": "24-313",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wilków"
             },
             "geometry": {
                 "type": "Point",

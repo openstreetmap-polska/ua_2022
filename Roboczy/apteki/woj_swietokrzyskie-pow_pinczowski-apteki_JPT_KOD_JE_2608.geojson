@@ -158,9 +158,9 @@
                 "ref:csioz": 1117080,
                 "name": "\"Punkt Apteczny \"\"Kije\"\"\"",
                 "addr:housenumber": "25",
-                "addr:city": "Kije",
                 "addr:postcode": "28-404",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kije"
             },
             "geometry": {
                 "type": "Point",
@@ -214,9 +214,9 @@
                 "ref:csioz": 1229051,
                 "name": "Pod Aniołami",
                 "addr:housenumber": "6A",
-                "addr:city": "Leszcze",
                 "addr:postcode": "28-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Leszcze"
             },
             "geometry": {
                 "type": "Point",
@@ -269,9 +269,9 @@
                 "ref:csioz": 1123288,
                 "name": "Michałów",
                 "addr:housenumber": "286",
-                "addr:city": "Michałów",
                 "addr:postcode": "28-411",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Michałów"
             },
             "geometry": {
                 "type": "Point",

@@ -347,9 +347,9 @@
                 "ref:csioz": 1109846,
                 "name": "Teresa Neudek Punkt Apteczny",
                 "addr:housenumber": "16",
-                "addr:city": "Jasienica Dolna",
                 "addr:postcode": "48-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jasienica Dolna"
             },
             "geometry": {
                 "type": "Point",
@@ -498,9 +498,9 @@
                 "ref:csioz": 1135308,
                 "name": "Sanitas",
                 "addr:housenumber": "21",
-                "addr:city": "Chróścina",
                 "addr:postcode": "56-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chróścina"
             },
             "geometry": {
                 "type": "Point",

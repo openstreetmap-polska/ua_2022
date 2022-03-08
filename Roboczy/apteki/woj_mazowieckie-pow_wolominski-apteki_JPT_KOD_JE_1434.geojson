@@ -1153,9 +1153,9 @@
                 "ref:csioz": 1214526,
                 "name": "\"Antidotum Mgr Farm. A. Łuszcz, Mgr Farm. M. Poźniak S.C.\"",
                 "addr:housenumber": "22",
-                "addr:city": "Lipka",
                 "addr:postcode": "05-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipka"
             },
             "geometry": {
                 "type": "Point",

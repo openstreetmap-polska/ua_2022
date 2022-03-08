@@ -232,9 +232,9 @@
             "properties": {
                 "ref:csioz": 1148414,
                 "addr:housenumber": "169a",
-                "addr:city": "Niegosławice",
                 "addr:postcode": "67-312",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niegosławice"
             },
             "geometry": {
                 "type": "Point",

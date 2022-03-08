@@ -43,9 +43,9 @@
             "properties": {
                 "ref:csioz": 1092001,
                 "addr:housenumber": "193",
-                "addr:city": "Lipowiec Kościelny",
                 "addr:postcode": "06-545",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipowiec Kościelny"
             },
             "geometry": {
                 "type": "Point",
@@ -60,9 +60,9 @@
             "properties": {
                 "ref:csioz": 1092030,
                 "addr:housenumber": "37",
-                "addr:city": "Niedzbórz",
                 "addr:postcode": "06-458",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niedzbórz"
             },
             "geometry": {
                 "type": "Point",
@@ -490,9 +490,9 @@
             "properties": {
                 "ref:csioz": 1230810,
                 "addr:housenumber": "44",
-                "addr:city": "Wieczfnia Kościelna",
                 "addr:postcode": "06-513",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wieczfnia Kościelna"
             },
             "geometry": {
                 "type": "Point",

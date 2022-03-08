@@ -61,9 +61,9 @@
             "properties": {
                 "ref:csioz": 1156076,
                 "addr:housenumber": "26A",
-                "addr:city": "Tuczna",
                 "addr:postcode": "21-523",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tuczna"
             },
             "geometry": {
                 "type": "Point",
@@ -136,9 +136,9 @@
                 "ref:csioz": 1199222,
                 "name": "Punkt Apteczny Rokitno",
                 "addr:housenumber": "55",
-                "addr:city": "Rokitno",
                 "addr:postcode": "21-504",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rokitno"
             },
             "geometry": {
                 "type": "Point",
@@ -340,9 +340,9 @@
                 "ref:csioz": 1204937,
                 "name": "Punkt Apteczny Urtica Iii",
                 "addr:housenumber": "21A",
-                "addr:city": "Woskrzenice Duże",
                 "addr:postcode": "21-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Woskrzenice Duże"
             },
             "geometry": {
                 "type": "Point",
@@ -396,9 +396,9 @@
                 "ref:csioz": 1230812,
                 "name": "\"Punkt Apteczny \"\"Jego 36,6\"\"\"",
                 "addr:housenumber": "29c",
-                "addr:city": "Horbów-Kolonia",
                 "addr:postcode": "21-512",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Horbów-Kolonia"
             },
             "geometry": {
                 "type": "Point",
@@ -622,9 +622,9 @@
                 "ref:csioz": 1197084,
                 "name": "Punkt Apteczny W Tłuścu Dorota Dziewulska",
                 "addr:housenumber": "8",
-                "addr:city": "Tłuściec",
                 "addr:postcode": "21-564",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tłuściec"
             },
             "geometry": {
                 "type": "Point",
@@ -697,9 +697,9 @@
                 "ref:csioz": 1207492,
                 "name": "\"Punkt Apteczny \"\"U Tomka\"\"\"",
                 "addr:housenumber": "76",
-                "addr:city": "Rogoźnica",
                 "addr:postcode": "21-560",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rogoźnica"
             },
             "geometry": {
                 "type": "Point",

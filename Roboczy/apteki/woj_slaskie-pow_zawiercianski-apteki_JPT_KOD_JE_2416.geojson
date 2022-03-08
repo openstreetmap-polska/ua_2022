@@ -543,9 +543,9 @@
                 "ref:csioz": 1177408,
                 "name": "Zakład Pielęgnacyjno-Rehabilitacyjny",
                 "addr:housenumber": "42A",
-                "addr:city": "Kocikowa",
                 "addr:postcode": "42-436",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kocikowa"
             },
             "geometry": {
                 "type": "Point",
@@ -767,9 +767,9 @@
             "properties": {
                 "ref:csioz": 1182487,
                 "addr:housenumber": "128",
-                "addr:city": "Irządze",
                 "addr:postcode": "42-446",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Irządze"
             },
             "geometry": {
                 "type": "Point",

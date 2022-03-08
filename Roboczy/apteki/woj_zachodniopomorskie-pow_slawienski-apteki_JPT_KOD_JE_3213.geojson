@@ -236,9 +236,9 @@
                 "ref:csioz": 1147790,
                 "name": "Agawa",
                 "addr:housenumber": "6a",
-                "addr:city": "Postomino",
                 "addr:postcode": "76-113",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Postomino"
             },
             "geometry": {
                 "type": "Point",
@@ -329,9 +329,9 @@
                 "ref:csioz": 1139917,
                 "name": "Panaceum",
                 "addr:housenumber": "20",
-                "addr:city": "Malechowo",
                 "addr:postcode": "76-142",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Malechowo"
             },
             "geometry": {
                 "type": "Point",

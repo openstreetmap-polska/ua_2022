@@ -481,9 +481,9 @@
                 "ref:csioz": 1125047,
                 "name": "Oddział Stacjonarny",
                 "addr:housenumber": "5A",
-                "addr:city": "Drożdżówka",
                 "addr:postcode": "05-332",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Drożdżówka"
             },
             "geometry": {
                 "type": "Point",

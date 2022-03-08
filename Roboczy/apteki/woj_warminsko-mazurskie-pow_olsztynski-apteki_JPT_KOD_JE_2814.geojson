@@ -178,9 +178,9 @@
             "properties": {
                 "ref:csioz": 1014262,
                 "addr:housenumber": "35",
-                "addr:city": "Świątki",
                 "addr:postcode": "11-008",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Świątki"
             },
             "geometry": {
                 "type": "Point",
@@ -309,9 +309,9 @@
                 "ref:csioz": 1229189,
                 "name": "Punkt Apteczny W Tuławkach",
                 "addr:housenumber": "14",
-                "addr:city": "Tuławki",
                 "addr:postcode": "11-001",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tuławki"
             },
             "geometry": {
                 "type": "Point",
@@ -613,9 +613,9 @@
             "properties": {
                 "ref:csioz": 1041948,
                 "addr:housenumber": "21",
-                "addr:city": "Ameryka",
                 "addr:postcode": "11-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ameryka"
             },
             "geometry": {
                 "type": "Point",
@@ -783,9 +783,9 @@
             "properties": {
                 "ref:csioz": 1014986,
                 "addr:housenumber": "1",
-                "addr:city": "Biesal",
                 "addr:postcode": "11-036",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Biesal"
             },
             "geometry": {
                 "type": "Point",

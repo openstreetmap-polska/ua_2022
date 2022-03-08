@@ -267,9 +267,9 @@
                 "name": "Punkt Apteczny Mgr Farm. Iwona Ferenc",
                 "addr:housenumber": "21",
                 "addr:flats": "5",
-                "addr:city": "Wożuczyn",
                 "addr:postcode": "22-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wożuczyn"
             },
             "geometry": {
                 "type": "Point",
@@ -450,9 +450,9 @@
             "properties": {
                 "ref:csioz": 1154841,
                 "addr:housenumber": "84 D",
-                "addr:city": "Krynice",
                 "addr:postcode": "22-610",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krynice"
             },
             "geometry": {
                 "type": "Point",
@@ -694,9 +694,9 @@
                 "ref:csioz": 1191142,
                 "name": "-",
                 "addr:housenumber": "112A",
-                "addr:city": "Majdan Sopocki Pierwszy",
                 "addr:postcode": "22-672",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Majdan Sopocki Pierwszy"
             },
             "geometry": {
                 "type": "Point",

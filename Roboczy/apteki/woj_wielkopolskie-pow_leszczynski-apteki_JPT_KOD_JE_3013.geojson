@@ -140,9 +140,9 @@
             "properties": {
                 "ref:csioz": 1158983,
                 "addr:housenumber": "9",
-                "addr:city": "Strzyżewice",
                 "addr:postcode": "23-107",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Strzyżewice"
             },
             "geometry": {
                 "type": "Point",
@@ -157,9 +157,9 @@
             "properties": {
                 "ref:csioz": 1227125,
                 "addr:housenumber": "63",
-                "addr:city": "Górzno",
                 "addr:postcode": "64-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Górzno"
             },
             "geometry": {
                 "type": "Point",
@@ -174,9 +174,9 @@
             "properties": {
                 "ref:csioz": 1043758,
                 "addr:housenumber": "14",
-                "addr:city": "Boszkowo",
                 "addr:postcode": "64-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Boszkowo"
             },
             "geometry": {
                 "type": "Point",
@@ -381,9 +381,9 @@
             "properties": {
                 "ref:csioz": 1208245,
                 "addr:housenumber": "25",
-                "addr:city": "Dąbcze",
                 "addr:postcode": "64-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dąbcze"
             },
             "geometry": {
                 "type": "Point",

@@ -609,9 +609,9 @@
                 "ref:csioz": 1166852,
                 "name": "Eskulap",
                 "addr:housenumber": "26",
-                "addr:city": "Lubięcin",
                 "addr:postcode": "67-108",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lubięcin"
             },
             "geometry": {
                 "type": "Point",

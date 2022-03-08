@@ -84,9 +84,9 @@
                 "ref:csioz": 1220460,
                 "name": "Słoneczny Punkt Apteczny",
                 "addr:housenumber": "14B",
-                "addr:city": "Kołacin",
                 "addr:postcode": "95-061",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kołacin"
             },
             "geometry": {
                 "type": "Point",
@@ -102,9 +102,9 @@
                 "ref:csioz": 1012429,
                 "name": "Punkt Apteczny Jakub Nowak I S-Pka",
                 "addr:housenumber": "16",
-                "addr:city": "Nagawki",
                 "addr:postcode": "95-061",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nagawki"
             },
             "geometry": {
                 "type": "Point",
@@ -306,9 +306,9 @@
             "properties": {
                 "ref:csioz": 1229265,
                 "addr:housenumber": "12",
-                "addr:city": "Dmosin",
                 "addr:postcode": "95-061",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dmosin"
             },
             "geometry": {
                 "type": "Point",

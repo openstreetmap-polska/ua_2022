@@ -28,9 +28,9 @@
                 "name": "Apteka Św. Jana",
                 "addr:housenumber": "288",
                 "addr:flats": "-",
-                "addr:city": "Gruta",
                 "addr:postcode": "86-327",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gruta"
             },
             "geometry": {
                 "type": "Point",
@@ -66,9 +66,9 @@
                 "name": "Im. Jana Pawła Ii",
                 "addr:housenumber": "57A",
                 "addr:flats": "-",
-                "addr:city": "Mełno",
                 "addr:postcode": "86-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mełno"
             },
             "geometry": {
                 "type": "Point",
@@ -85,9 +85,9 @@
                 "name": "Flos",
                 "addr:housenumber": "15",
                 "addr:flats": "-",
-                "addr:city": "Rogóźno",
                 "addr:postcode": "86-318",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rogóźno"
             },
             "geometry": {
                 "type": "Point",
@@ -161,9 +161,9 @@
                 "ref:csioz": 1103720,
                 "name": "Nad Osą",
                 "addr:housenumber": "5A",
-                "addr:city": "Świecie nad Osą",
                 "addr:postcode": "86-341",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Świecie nad Osą"
             },
             "geometry": {
                 "type": "Point",
@@ -178,9 +178,9 @@
             "properties": {
                 "ref:csioz": 1170912,
                 "addr:housenumber": "69",
-                "addr:city": "Lisnowo",
                 "addr:postcode": "86-342",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lisnowo"
             },
             "geometry": {
                 "type": "Point",

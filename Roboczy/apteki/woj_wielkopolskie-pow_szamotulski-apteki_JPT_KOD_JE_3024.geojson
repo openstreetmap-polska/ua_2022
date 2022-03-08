@@ -8,9 +8,9 @@
                 "ref:csioz": 1044145,
                 "name": "Zielony",
                 "addr:housenumber": "10",
-                "addr:city": "Duszniki",
                 "addr:postcode": "64-550",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Duszniki"
             },
             "geometry": {
                 "type": "Point",

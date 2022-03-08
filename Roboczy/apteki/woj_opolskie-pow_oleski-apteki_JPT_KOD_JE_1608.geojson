@@ -158,9 +158,9 @@
                 "ref:csioz": 1227207,
                 "name": "Punkt Apteczny Magnolia",
                 "addr:housenumber": "180",
-                "addr:city": "Żytniów",
                 "addr:postcode": "46-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Żytniów"
             },
             "geometry": {
                 "type": "Point",

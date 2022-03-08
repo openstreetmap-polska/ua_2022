@@ -45,9 +45,9 @@
                 "ref:csioz": 1035166,
                 "name": "Apteka Prywatna Mgr Farm. Gertruda Kawaler",
                 "addr:housenumber": "363",
-                "addr:city": "Leńcze",
                 "addr:postcode": "34-142",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Leńcze"
             },
             "geometry": {
                 "type": "Point",
@@ -287,9 +287,9 @@
                 "ref:csioz": 1077570,
                 "name": "„Pharmavit”",
                 "addr:housenumber": "191B",
-                "addr:city": "Wysoka",
                 "addr:postcode": "34-105",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wysoka"
             },
             "geometry": {
                 "type": "Point",
@@ -380,9 +380,9 @@
             "properties": {
                 "ref:csioz": 1190975,
                 "addr:housenumber": "119A",
-                "addr:city": "Klecza Górna",
                 "addr:postcode": "34-124",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Klecza Górna"
             },
             "geometry": {
                 "type": "Point",
@@ -489,9 +489,9 @@
             "properties": {
                 "ref:csioz": 1036455,
                 "addr:housenumber": "226",
-                "addr:city": "Mucharz",
                 "addr:postcode": "34-106",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mucharz"
             },
             "geometry": {
                 "type": "Point",
@@ -506,9 +506,9 @@
             "properties": {
                 "ref:csioz": 1036478,
                 "addr:housenumber": "605",
-                "addr:city": "Przytkowice",
                 "addr:postcode": "34-141",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Przytkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -655,9 +655,9 @@
                 "ref:csioz": 1115078,
                 "name": "Apteka Rodzinna Centrum Dla Zdrowia",
                 "addr:housenumber": "626",
-                "addr:city": "Stryszów",
                 "addr:postcode": "34-146",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stryszów"
             },
             "geometry": {
                 "type": "Point",
@@ -709,9 +709,9 @@
             "properties": {
                 "ref:csioz": 1123093,
                 "addr:housenumber": "92",
-                "addr:city": "Frydrychowice",
                 "addr:postcode": "34-108",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Frydrychowice"
             },
             "geometry": {
                 "type": "Point",
@@ -878,9 +878,9 @@
                 "ref:csioz": 1208931,
                 "name": "Centrum Dla Zdrowia",
                 "addr:housenumber": "509",
-                "addr:city": "Przytkowice",
                 "addr:postcode": "34-141",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Przytkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -990,9 +990,9 @@
                 "ref:csioz": 1042310,
                 "name": "\"Apteka \"\" Nad Cedronem\"\"\"",
                 "addr:housenumber": "148",
-                "addr:city": "Brody",
                 "addr:postcode": "34-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brody"
             },
             "geometry": {
                 "type": "Point",

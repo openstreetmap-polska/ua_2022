@@ -25,9 +25,9 @@
             "properties": {
                 "ref:csioz": 1010680,
                 "addr:housenumber": "56",
-                "addr:city": "Mazew",
                 "addr:postcode": "99-107",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mazew"
             },
             "geometry": {
                 "type": "Point",
@@ -43,9 +43,9 @@
                 "ref:csioz": 1024396,
                 "name": "Przyjazny",
                 "addr:housenumber": "36",
-                "addr:city": "Daszyna",
                 "addr:postcode": "99-107",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Daszyna"
             },
             "geometry": {
                 "type": "Point",
@@ -118,9 +118,9 @@
                 "ref:csioz": 1118406,
                 "name": "Elfarm 5",
                 "addr:housenumber": "18",
-                "addr:city": "Stara Sobótka",
                 "addr:postcode": "99-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stara Sobótka"
             },
             "geometry": {
                 "type": "Point",
@@ -325,9 +325,9 @@
                 "ref:csioz": 1023159,
                 "name": "Punkt Apteczny Świętej Małgorzaty",
                 "addr:housenumber": "50",
-                "addr:city": "Góra Świętej Małgorzaty",
                 "addr:postcode": "99-122",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Góra Świętej Małgorzaty"
             },
             "geometry": {
                 "type": "Point",
@@ -343,9 +343,9 @@
                 "ref:csioz": 1164217,
                 "name": "Przyjazny",
                 "addr:housenumber": "28",
-                "addr:city": "Leźnica Mała",
                 "addr:postcode": "99-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Leźnica Mała"
             },
             "geometry": {
                 "type": "Point",

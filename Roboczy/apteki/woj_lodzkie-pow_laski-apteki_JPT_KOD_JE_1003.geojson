@@ -159,9 +159,9 @@
             "properties": {
                 "ref:csioz": 1026621,
                 "addr:housenumber": "57",
-                "addr:city": "Wodzierady",
                 "addr:postcode": "98-105",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wodzierady"
             },
             "geometry": {
                 "type": "Point",

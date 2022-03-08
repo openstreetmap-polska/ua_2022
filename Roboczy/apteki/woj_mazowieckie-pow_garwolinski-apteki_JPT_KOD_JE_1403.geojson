@@ -43,9 +43,9 @@
             "properties": {
                 "ref:csioz": 1096706,
                 "addr:housenumber": "65",
-                "addr:city": "Trojanów",
                 "addr:postcode": "08-445",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trojanów"
             },
             "geometry": {
                 "type": "Point",
@@ -250,9 +250,9 @@
             "properties": {
                 "ref:csioz": 1096787,
                 "addr:housenumber": "127D",
-                "addr:city": "Gończyce",
                 "addr:postcode": "08-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gończyce"
             },
             "geometry": {
                 "type": "Point",
@@ -268,9 +268,9 @@
                 "ref:csioz": 1098173,
                 "name": "Monika",
                 "addr:housenumber": "58",
-                "addr:city": "Podłęż",
                 "addr:postcode": "08-480",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Podłęż"
             },
             "geometry": {
                 "type": "Point",
@@ -904,9 +904,9 @@
                 "ref:csioz": 1215803,
                 "name": "Ostrowia Zol",
                 "addr:housenumber": "15A",
-                "addr:city": "Wólka Ostrożeńska",
                 "addr:postcode": "08-404",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wólka Ostrożeńska"
             },
             "geometry": {
                 "type": "Point",
@@ -922,9 +922,9 @@
                 "ref:csioz": 1228081,
                 "name": "\"Niepubliczny Zakład Pielęgnacyjno-Opiekuńczy \"\"Beata\"\"\"",
                 "addr:housenumber": "32",
-                "addr:city": "Trzcianka",
                 "addr:postcode": "08-470",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trzcianka"
             },
             "geometry": {
                 "type": "Point",

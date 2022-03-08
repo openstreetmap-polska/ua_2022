@@ -27,9 +27,9 @@
                 "ref:csioz": 1155629,
                 "name": "Sanus",
                 "addr:housenumber": "77",
-                "addr:city": "Ulan Majorat",
                 "addr:postcode": "21-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ulan Majorat"
             },
             "geometry": {
                 "type": "Point",
@@ -175,9 +175,9 @@
             "properties": {
                 "ref:csioz": 1170854,
                 "addr:housenumber": "119C",
-                "addr:city": "Brzozowica Duża",
                 "addr:postcode": "21-302",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brzozowica Duża"
             },
             "geometry": {
                 "type": "Point",
@@ -250,9 +250,9 @@
             "properties": {
                 "ref:csioz": 1161850,
                 "addr:housenumber": "56a",
-                "addr:city": "Marynin",
                 "addr:postcode": "21-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Marynin"
             },
             "geometry": {
                 "type": "Point",
@@ -398,9 +398,9 @@
                 "ref:csioz": 1189994,
                 "name": "Dział Farmacji Szpitalnej",
                 "addr:housenumber": "48",
-                "addr:city": "Kuraszew",
                 "addr:postcode": "21-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kuraszew"
             },
             "geometry": {
                 "type": "Point",
@@ -491,9 +491,9 @@
                 "ref:csioz": 1225585,
                 "name": "Punkt Apteczny Rodzinny",
                 "addr:housenumber": "131D",
-                "addr:city": "Polskowola",
                 "addr:postcode": "21-302",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Polskowola"
             },
             "geometry": {
                 "type": "Point",

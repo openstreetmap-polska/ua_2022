@@ -27,9 +27,9 @@
                 "ref:csioz": 1150734,
                 "name": "Vital",
                 "addr:housenumber": "12",
-                "addr:city": "Wędrzyn",
                 "addr:postcode": "69-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wędrzyn"
             },
             "geometry": {
                 "type": "Point",

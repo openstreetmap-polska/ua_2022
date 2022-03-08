@@ -140,9 +140,9 @@
             "properties": {
                 "ref:csioz": 1185387,
                 "addr:housenumber": "15",
-                "addr:city": "Plecka Dąbrowa",
                 "addr:postcode": "99-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Plecka Dąbrowa"
             },
             "geometry": {
                 "type": "Point",
@@ -195,9 +195,9 @@
             "properties": {
                 "ref:csioz": 1229685,
                 "addr:housenumber": "30A",
-                "addr:city": "Bedlno",
                 "addr:postcode": "99-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bedlno"
             },
             "geometry": {
                 "type": "Point",
@@ -288,9 +288,9 @@
             "properties": {
                 "ref:csioz": 1010948,
                 "addr:housenumber": "12",
-                "addr:city": "Krzyżanów",
                 "addr:postcode": "99-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krzyżanów"
             },
             "geometry": {
                 "type": "Point",
@@ -379,9 +379,9 @@
             "properties": {
                 "ref:csioz": 1013745,
                 "addr:housenumber": "25/1",
-                "addr:city": "Oporów",
                 "addr:postcode": "99-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Oporów"
             },
             "geometry": {
                 "type": "Point",
@@ -416,9 +416,9 @@
                 "ref:csioz": 1018565,
                 "name": "Pod Jesionem",
                 "addr:housenumber": "17",
-                "addr:city": "Ostrowy",
                 "addr:postcode": "99-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ostrowy"
             },
             "geometry": {
                 "type": "Point",
@@ -509,9 +509,9 @@
             "properties": {
                 "ref:csioz": 1211483,
                 "addr:housenumber": "9A",
-                "addr:city": "Łanięta",
                 "addr:postcode": "99-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łanięta"
             },
             "geometry": {
                 "type": "Point",
@@ -621,9 +621,9 @@
                 "ref:csioz": 1021194,
                 "name": "Medest",
                 "addr:housenumber": "7",
-                "addr:city": "Wołodrza",
                 "addr:postcode": "99-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wołodrza"
             },
             "geometry": {
                 "type": "Point",

@@ -101,9 +101,9 @@
             "properties": {
                 "ref:csioz": 1080823,
                 "addr:housenumber": "482",
-                "addr:city": "Tymbark",
                 "addr:postcode": "34-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tymbark"
             },
             "geometry": {
                 "type": "Point",
@@ -156,9 +156,9 @@
             "properties": {
                 "ref:csioz": 1204762,
                 "addr:housenumber": "157",
-                "addr:city": "Nowe Rybie",
                 "addr:postcode": "34-652",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowe Rybie"
             },
             "geometry": {
                 "type": "Point",
@@ -174,9 +174,9 @@
                 "ref:csioz": 1080183,
                 "name": "Nowa",
                 "addr:housenumber": "419",
-                "addr:city": "Laskowa",
                 "addr:postcode": "34-602",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Laskowa"
             },
             "geometry": {
                 "type": "Point",
@@ -228,9 +228,9 @@
                 "ref:csioz": 1080788,
                 "name": "Apteka Vita Kazimierz Garbacz",
                 "addr:housenumber": "717",
-                "addr:city": "Laskowa",
                 "addr:postcode": "34-602",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Laskowa"
             },
             "geometry": {
                 "type": "Point",
@@ -322,9 +322,9 @@
                 "ref:csioz": 1211916,
                 "name": "\"Apteka 'Centrum' Sp.J. Halina I Jakub Tokarz 34-615 Słopnice - 597\"",
                 "addr:housenumber": "597",
-                "addr:city": "Słopnice",
                 "addr:postcode": "34-615",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Słopnice"
             },
             "geometry": {
                 "type": "Point",
@@ -340,9 +340,9 @@
                 "ref:csioz": 1214046,
                 "name": "\"'Nowa'\"",
                 "addr:housenumber": "888",
-                "addr:city": "Słopnice",
                 "addr:postcode": "34-615",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Słopnice"
             },
             "geometry": {
                 "type": "Point",
@@ -358,9 +358,9 @@
                 "ref:csioz": 1224029,
                 "name": "\"Apteka \"\"Centrum\"\" Sp.J. - Halina I Jakub Tokarz 34-650 Tymbark 215\"",
                 "addr:housenumber": "215",
-                "addr:city": "Tymbark",
                 "addr:postcode": "34-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tymbark"
             },
             "geometry": {
                 "type": "Point",
@@ -396,9 +396,9 @@
                 "ref:csioz": 1080592,
                 "name": "Apteka Dobra",
                 "addr:housenumber": "426",
-                "addr:city": "Dobra",
                 "addr:postcode": "34-642",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dobra"
             },
             "geometry": {
                 "type": "Point",
@@ -414,9 +414,9 @@
                 "ref:csioz": 1080791,
                 "name": "Punkt Apteczny Vita W Jodłowniku",
                 "addr:housenumber": "180",
-                "addr:city": "Jodłownik",
                 "addr:postcode": "34-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jodłownik"
             },
             "geometry": {
                 "type": "Point",
@@ -489,9 +489,9 @@
                 "ref:csioz": 1121024,
                 "name": "Apteka Nowa Farmacja Centrum Tanich Leków",
                 "addr:housenumber": "734",
-                "addr:city": "Dobra",
                 "addr:postcode": "34-642",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dobra"
             },
             "geometry": {
                 "type": "Point",
@@ -507,9 +507,9 @@
                 "ref:csioz": 1121917,
                 "name": "Medic",
                 "addr:housenumber": "188",
-                "addr:city": "Szczyrzyc",
                 "addr:postcode": "34-623",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szczyrzyc"
             },
             "geometry": {
                 "type": "Point",
@@ -525,9 +525,9 @@
                 "ref:csioz": 1080769,
                 "name": "Apteka Centrum Sp.J.Halina I Jakub Tokarz",
                 "addr:housenumber": "259",
-                "addr:city": "Jodłownik",
                 "addr:postcode": "34-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jodłownik"
             },
             "geometry": {
                 "type": "Point",
@@ -561,9 +561,9 @@
                 "ref:csioz": 1080941,
                 "name": "Vigor",
                 "addr:housenumber": "617",
-                "addr:city": "Kasinka Mała",
                 "addr:postcode": "34-734",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kasinka Mała"
             },
             "geometry": {
                 "type": "Point",
@@ -579,9 +579,9 @@
                 "ref:csioz": 1081367,
                 "name": "Dział Farmacji Szpitalnej",
                 "addr:housenumber": "107",
-                "addr:city": "Szczyrzyc",
                 "addr:postcode": "34-623",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szczyrzyc"
             },
             "geometry": {
                 "type": "Point",
@@ -597,9 +597,9 @@
                 "ref:csioz": 1113320,
                 "name": "Vita",
                 "addr:housenumber": "49",
-                "addr:city": "Krasne-Lasocice",
                 "addr:postcode": "34-621",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krasne-Lasocice"
             },
             "geometry": {
                 "type": "Point",
@@ -614,9 +614,9 @@
             "properties": {
                 "ref:csioz": 1120435,
                 "addr:housenumber": "279",
-                "addr:city": "Skrzydlna",
                 "addr:postcode": "34-625",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Skrzydlna"
             },
             "geometry": {
                 "type": "Point",
@@ -632,9 +632,9 @@
                 "ref:csioz": 1203544,
                 "name": "Krokus",
                 "addr:housenumber": "546",
-                "addr:city": "Kasina Wielka",
                 "addr:postcode": "34-741",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kasina Wielka"
             },
             "geometry": {
                 "type": "Point",
@@ -650,9 +650,9 @@
                 "ref:csioz": 1080851,
                 "name": "Apteka Vademecum",
                 "addr:housenumber": "536",
-                "addr:city": "Męcina",
                 "addr:postcode": "34-654",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Męcina"
             },
             "geometry": {
                 "type": "Point",
@@ -667,9 +667,9 @@
             "properties": {
                 "ref:csioz": 1112916,
                 "addr:housenumber": "2",
-                "addr:city": "Ujanowice",
                 "addr:postcode": "34-603",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ujanowice"
             },
             "geometry": {
                 "type": "Point",
@@ -685,9 +685,9 @@
                 "ref:csioz": 1220351,
                 "name": "Apteka Pod Magnolią",
                 "addr:housenumber": "880",
-                "addr:city": "Męcina",
                 "addr:postcode": "34-654",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Męcina"
             },
             "geometry": {
                 "type": "Point",
@@ -703,9 +703,9 @@
                 "ref:csioz": 1080545,
                 "name": "Farmacja S.C.",
                 "addr:housenumber": "8",
-                "addr:city": "Łukowica",
                 "addr:postcode": "34-606",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łukowica"
             },
             "geometry": {
                 "type": "Point",
@@ -721,9 +721,9 @@
                 "ref:csioz": 1080576,
                 "name": "Apteka Prywatna S.C.",
                 "addr:housenumber": "46A",
-                "addr:city": "Kamienica",
                 "addr:postcode": "34-608",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kamienica"
             },
             "geometry": {
                 "type": "Point",
@@ -739,9 +739,9 @@
                 "ref:csioz": 1110749,
                 "name": "Punkt Apteczny Szczawa",
                 "addr:housenumber": "425",
-                "addr:city": "Szczawa",
                 "addr:postcode": "34-607",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szczawa"
             },
             "geometry": {
                 "type": "Point",
@@ -757,9 +757,9 @@
                 "ref:csioz": 1115630,
                 "name": "Apteka Vita",
                 "addr:housenumber": "283",
-                "addr:city": "Łukowica",
                 "addr:postcode": "34-606",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łukowica"
             },
             "geometry": {
                 "type": "Point",
@@ -775,9 +775,9 @@
                 "ref:csioz": 1122869,
                 "name": "\"Niedźwiadek Dawid Florek\"\"\"",
                 "addr:housenumber": "353",
-                "addr:city": "Niedźwiedź",
                 "addr:postcode": "34-735",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niedźwiedź"
             },
             "geometry": {
                 "type": "Point",
@@ -811,9 +811,9 @@
             "properties": {
                 "ref:csioz": 1230761,
                 "addr:housenumber": "723",
-                "addr:city": "Kamienica",
                 "addr:postcode": "34-608",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kamienica"
             },
             "geometry": {
                 "type": "Point",
@@ -828,9 +828,9 @@
             "properties": {
                 "ref:csioz": 1230763,
                 "addr:housenumber": "407",
-                "addr:city": "Przyszowa",
                 "addr:postcode": "34-604",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Przyszowa"
             },
             "geometry": {
                 "type": "Point",
@@ -845,9 +845,9 @@
             "properties": {
                 "ref:csioz": 1080814,
                 "addr:housenumber": "52A",
-                "addr:city": "Jurków",
                 "addr:postcode": "34-643",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jurków"
             },
             "geometry": {
                 "type": "Point",
@@ -882,9 +882,9 @@
                 "ref:csioz": 1080907,
                 "name": "\"Punkt Apteczny 'Krokus'\"",
                 "addr:housenumber": "218",
-                "addr:city": "Raba Niżna",
                 "addr:postcode": "34-730",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Raba Niżna"
             },
             "geometry": {
                 "type": "Point",
@@ -900,9 +900,9 @@
                 "ref:csioz": 1080932,
                 "name": "Apis",
                 "addr:housenumber": "573",
-                "addr:city": "Mszana Górna",
                 "addr:postcode": "34-733",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mszana Górna"
             },
             "geometry": {
                 "type": "Point",
@@ -917,9 +917,9 @@
             "properties": {
                 "ref:csioz": 1080955,
                 "addr:housenumber": "693",
-                "addr:city": "Niedźwiedź",
                 "addr:postcode": "34-735",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niedźwiedź"
             },
             "geometry": {
                 "type": "Point",
@@ -974,9 +974,9 @@
                 "ref:csioz": 1080194,
                 "name": "Nowa",
                 "addr:housenumber": "533",
-                "addr:city": "Łukowica",
                 "addr:postcode": "34-606",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łukowica"
             },
             "geometry": {
                 "type": "Point",

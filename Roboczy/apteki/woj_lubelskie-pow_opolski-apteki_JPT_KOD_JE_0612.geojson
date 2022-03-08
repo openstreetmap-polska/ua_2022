@@ -26,9 +26,9 @@
             "properties": {
                 "ref:csioz": 1162999,
                 "addr:housenumber": "28",
-                "addr:city": "Zagłoba",
                 "addr:postcode": "24-313",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zagłoba"
             },
             "geometry": {
                 "type": "Point",
@@ -64,9 +64,9 @@
                 "ref:csioz": 1106189,
                 "name": "Punkt Apteczny - Maria Janczarek",
                 "addr:housenumber": "214",
-                "addr:city": "Ratoszyn Drugi",
                 "addr:postcode": "24-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ratoszyn Drugi"
             },
             "geometry": {
                 "type": "Point",
@@ -81,9 +81,9 @@
             "properties": {
                 "ref:csioz": 1106265,
                 "addr:housenumber": "74",
-                "addr:city": "Niezabitów",
                 "addr:postcode": "24-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niezabitów"
             },
             "geometry": {
                 "type": "Point",
@@ -152,9 +152,9 @@
             "properties": {
                 "ref:csioz": 1162130,
                 "addr:housenumber": "300",
-                "addr:city": "Karczmiska Drugie",
                 "addr:postcode": "24-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Karczmiska Drugie"
             },
             "geometry": {
                 "type": "Point",
@@ -448,9 +448,9 @@
                 "ref:csioz": 1230793,
                 "name": "Punkt Apteczny Edyta Górniak",
                 "addr:housenumber": "74",
-                "addr:city": "Niezabitów",
                 "addr:postcode": "24-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niezabitów"
             },
             "geometry": {
                 "type": "Point",
@@ -465,9 +465,9 @@
             "properties": {
                 "ref:csioz": 1161678,
                 "addr:housenumber": "30",
-                "addr:city": "Boiska Stare",
                 "addr:postcode": "24-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Boiska Stare"
             },
             "geometry": {
                 "type": "Point",

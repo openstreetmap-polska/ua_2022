@@ -214,9 +214,9 @@
                 "ref:csioz": 1110054,
                 "name": "Punkt Apteczny Strama Natalia",
                 "addr:housenumber": "74",
-                "addr:city": "Reńska Wieś",
                 "addr:postcode": "48-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Reńska Wieś"
             },
             "geometry": {
                 "type": "Point",

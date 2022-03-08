@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1145529,
                 "addr:housenumber": "1362",
-                "addr:city": "Markowa",
                 "addr:postcode": "37-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Markowa"
             },
             "geometry": {
                 "type": "Point",
@@ -98,9 +98,9 @@
             "properties": {
                 "ref:csioz": 1137809,
                 "addr:housenumber": "180",
-                "addr:city": "Kosina",
                 "addr:postcode": "37-112",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kosina"
             },
             "geometry": {
                 "type": "Point",
@@ -116,9 +116,9 @@
                 "ref:csioz": 1145471,
                 "name": "Pod Gwiazdą",
                 "addr:housenumber": "3",
-                "addr:city": "Białobrzegi",
                 "addr:postcode": "37-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Białobrzegi"
             },
             "geometry": {
                 "type": "Point",
@@ -134,9 +134,9 @@
                 "ref:csioz": 1185689,
                 "name": "Apteka W Markowej",
                 "addr:housenumber": "1679",
-                "addr:city": "Markowa",
                 "addr:postcode": "37-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Markowa"
             },
             "geometry": {
                 "type": "Point",
@@ -151,9 +151,9 @@
             "properties": {
                 "ref:csioz": 1193576,
                 "addr:housenumber": "1035",
-                "addr:city": "Kosina",
                 "addr:postcode": "37-112",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kosina"
             },
             "geometry": {
                 "type": "Point",
@@ -168,9 +168,9 @@
             "properties": {
                 "ref:csioz": 1202716,
                 "addr:housenumber": "66",
-                "addr:city": "Budy Łańcuckie",
                 "addr:postcode": "37-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Budy Łańcuckie"
             },
             "geometry": {
                 "type": "Point",
@@ -186,9 +186,9 @@
                 "ref:csioz": 1226966,
                 "name": "Rodzinny",
                 "addr:housenumber": "1",
-                "addr:city": "Husów",
                 "addr:postcode": "37-121",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Husów"
             },
             "geometry": {
                 "type": "Point",
@@ -203,9 +203,9 @@
             "properties": {
                 "ref:csioz": 1230744,
                 "addr:housenumber": "376",
-                "addr:city": "Rogóżno",
                 "addr:postcode": "37-112",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rogóżno"
             },
             "geometry": {
                 "type": "Point",
@@ -220,9 +220,9 @@
             "properties": {
                 "ref:csioz": 1145507,
                 "addr:housenumber": "285",
-                "addr:city": "Kraczkowa",
                 "addr:postcode": "37-124",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kraczkowa"
             },
             "geometry": {
                 "type": "Point",
@@ -351,9 +351,9 @@
             "properties": {
                 "ref:csioz": 1145483,
                 "addr:housenumber": "262c",
-                "addr:city": "Czarna",
                 "addr:postcode": "37-125",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czarna"
             },
             "geometry": {
                 "type": "Point",
@@ -368,9 +368,9 @@
             "properties": {
                 "ref:csioz": 1145510,
                 "addr:housenumber": "676",
-                "addr:city": "Krzemienica",
                 "addr:postcode": "37-127",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krzemienica"
             },
             "geometry": {
                 "type": "Point",
@@ -385,9 +385,9 @@
             "properties": {
                 "ref:csioz": 1145541,
                 "addr:housenumber": "427",
-                "addr:city": "Rakszawa",
                 "addr:postcode": "37-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rakszawa"
             },
             "geometry": {
                 "type": "Point",
@@ -421,9 +421,9 @@
             "properties": {
                 "ref:csioz": 1219220,
                 "addr:housenumber": "619",
-                "addr:city": "Medynia Głogowska",
                 "addr:postcode": "37-126",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Medynia Głogowska"
             },
             "geometry": {
                 "type": "Point",
@@ -515,9 +515,9 @@
                 "ref:csioz": 1164704,
                 "name": "Przyjazna Dla Pacjenta",
                 "addr:housenumber": "1054a",
-                "addr:city": "Albigowa",
                 "addr:postcode": "37-122",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Albigowa"
             },
             "geometry": {
                 "type": "Point",
@@ -552,9 +552,9 @@
                 "ref:csioz": 1183200,
                 "name": "Apteka W Centrum",
                 "addr:housenumber": "344 A",
-                "addr:city": "Rakszawa",
                 "addr:postcode": "37-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rakszawa"
             },
             "geometry": {
                 "type": "Point",
@@ -588,9 +588,9 @@
             "properties": {
                 "ref:csioz": 1222445,
                 "addr:housenumber": "222",
-                "addr:city": "Dąbrówki",
                 "addr:postcode": "37-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dąbrówki"
             },
             "geometry": {
                 "type": "Point",
@@ -606,9 +606,9 @@
                 "ref:csioz": 1227747,
                 "name": "Rodzinny",
                 "addr:housenumber": "150",
-                "addr:city": "Brzóza Stadnicka",
                 "addr:postcode": "37-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brzóza Stadnicka"
             },
             "geometry": {
                 "type": "Point",

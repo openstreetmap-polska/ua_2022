@@ -27,9 +27,9 @@
                 "ref:csioz": 1103821,
                 "name": "Doz Apteka.Dbam O Zdrowie.Bobrowo 21.",
                 "addr:housenumber": "21",
-                "addr:city": "Bobrowo",
                 "addr:postcode": "87-327",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bobrowo"
             },
             "geometry": {
                 "type": "Point",
@@ -63,9 +63,9 @@
             "properties": {
                 "ref:csioz": 1105231,
                 "addr:housenumber": "39",
-                "addr:city": "Nieżywięć",
                 "addr:postcode": "87-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nieżywięć"
             },
             "geometry": {
                 "type": "Point",
@@ -81,9 +81,9 @@
                 "ref:csioz": 1116732,
                 "name": "Ars Medica Spółka Z Ograniczoną Odpowiedzialnością",
                 "addr:housenumber": "14",
-                "addr:city": "Wichulec",
                 "addr:postcode": "87-327",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wichulec"
             },
             "geometry": {
                 "type": "Point",
@@ -193,9 +193,9 @@
             "properties": {
                 "ref:csioz": 1105145,
                 "addr:housenumber": "27",
-                "addr:city": "Pokrzydowo",
                 "addr:postcode": "87-312",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pokrzydowo"
             },
             "geometry": {
                 "type": "Point",
@@ -211,9 +211,9 @@
                 "ref:csioz": 1105228,
                 "name": "Aquavit",
                 "addr:housenumber": "176",
-                "addr:city": "Brzozie",
                 "addr:postcode": "87-313",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brzozie"
             },
             "geometry": {
                 "type": "Point",
@@ -341,9 +341,9 @@
             "properties": {
                 "ref:csioz": 1105215,
                 "addr:housenumber": "82",
-                "addr:city": "Osiek",
                 "addr:postcode": "87-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Osiek"
             },
             "geometry": {
                 "type": "Point",
@@ -454,9 +454,9 @@
                 "ref:csioz": 1187405,
                 "name": "Św. Marcina",
                 "addr:housenumber": "63",
-                "addr:city": "Brodnica",
                 "addr:postcode": "63-112",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brodnica"
             },
             "geometry": {
                 "type": "Point",
@@ -511,9 +511,9 @@
                 "ref:csioz": 1223910,
                 "name": "Avena W Jastrzębiu",
                 "addr:housenumber": "15",
-                "addr:city": "Jastrzębie",
                 "addr:postcode": "87-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jastrzębie"
             },
             "geometry": {
                 "type": "Point",
@@ -530,9 +530,9 @@
                 "name": "Pod Kasztanami",
                 "addr:housenumber": "93",
                 "addr:flats": "6",
-                "addr:city": "Świedziebnia",
                 "addr:postcode": "87-335",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Świedziebnia"
             },
             "geometry": {
                 "type": "Point",

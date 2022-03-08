@@ -120,9 +120,9 @@
             "properties": {
                 "ref:csioz": 1102242,
                 "addr:housenumber": "85",
-                "addr:city": "Wylatowo",
                 "addr:postcode": "88-342",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wylatowo"
             },
             "geometry": {
                 "type": "Point",
@@ -253,9 +253,9 @@
                 "ref:csioz": 1100694,
                 "name": "Pamiątkowa",
                 "addr:housenumber": "16a",
-                "addr:city": "Jeziora Wielkie",
                 "addr:postcode": "88-324",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jeziora Wielkie"
             },
             "geometry": {
                 "type": "Point",

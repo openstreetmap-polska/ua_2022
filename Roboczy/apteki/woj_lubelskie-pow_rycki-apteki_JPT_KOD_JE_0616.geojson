@@ -488,9 +488,9 @@
                 "ref:csioz": 1162985,
                 "name": "Doz Apteka.Dbam O Zdrowie",
                 "addr:housenumber": "172",
-                "addr:city": "Ułęż",
                 "addr:postcode": "08-504",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ułęż"
             },
             "geometry": {
                 "type": "Point",

@@ -140,9 +140,9 @@
             "properties": {
                 "ref:csioz": 1136660,
                 "addr:housenumber": "131",
-                "addr:city": "Niemstów",
                 "addr:postcode": "37-611",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niemstów"
             },
             "geometry": {
                 "type": "Point",
@@ -157,9 +157,9 @@
             "properties": {
                 "ref:csioz": 1136762,
                 "addr:housenumber": "18",
-                "addr:city": "Podemszczyzna",
                 "addr:postcode": "37-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Podemszczyzna"
             },
             "geometry": {
                 "type": "Point",
@@ -454,9 +454,9 @@
             "properties": {
                 "ref:csioz": 1229908,
                 "addr:housenumber": "121A",
-                "addr:city": "Ruda Różaniecka",
                 "addr:postcode": "37-613",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ruda Różaniecka"
             },
             "geometry": {
                 "type": "Point",

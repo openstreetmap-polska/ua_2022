@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1162264,
                 "addr:housenumber": "84",
-                "addr:city": "Batorz Pierwszy",
                 "addr:postcode": "23-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Batorz Pierwszy"
             },
             "geometry": {
                 "type": "Point",
@@ -25,9 +25,9 @@
                 "ref:csioz": 1106211,
                 "name": "Punkt Apteczny Mgr Farm. Bożena Tuszyńska",
                 "addr:housenumber": "33",
-                "addr:city": "Potoczek",
                 "addr:postcode": "23-313",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Potoczek"
             },
             "geometry": {
                 "type": "Point",
@@ -42,9 +42,9 @@
             "properties": {
                 "ref:csioz": 1106233,
                 "addr:housenumber": "106",
-                "addr:city": "Zdziłowice Drugie",
                 "addr:postcode": "23-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zdziłowice Drugie"
             },
             "geometry": {
                 "type": "Point",
@@ -59,9 +59,9 @@
             "properties": {
                 "ref:csioz": 1106303,
                 "addr:housenumber": "158",
-                "addr:city": "Wierzchowiska Pierwsze",
                 "addr:postcode": "23-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wierzchowiska Pierwsze"
             },
             "geometry": {
                 "type": "Point",
@@ -76,9 +76,9 @@
             "properties": {
                 "ref:csioz": 1106222,
                 "addr:housenumber": "113",
-                "addr:city": "Krzemień Pierwszy",
                 "addr:postcode": "23-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krzemień Pierwszy"
             },
             "geometry": {
                 "type": "Point",
@@ -147,9 +147,9 @@
             "properties": {
                 "ref:csioz": 1163180,
                 "addr:housenumber": "88A",
-                "addr:city": "Godziszów Pierwszy",
                 "addr:postcode": "23-302",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Godziszów Pierwszy"
             },
             "geometry": {
                 "type": "Point",
@@ -239,9 +239,9 @@
             "properties": {
                 "ref:csioz": 1153683,
                 "addr:housenumber": "107",
-                "addr:city": "Potok Wielki",
                 "addr:postcode": "23-313",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Potok Wielki"
             },
             "geometry": {
                 "type": "Point",
@@ -405,9 +405,9 @@
                 "ref:csioz": 1229095,
                 "name": "Punkt Apteczny Małgorzata Sznajdrowicz",
                 "addr:housenumber": "111",
-                "addr:city": "Chrzanów",
                 "addr:postcode": "23-305",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chrzanów"
             },
             "geometry": {
                 "type": "Point",

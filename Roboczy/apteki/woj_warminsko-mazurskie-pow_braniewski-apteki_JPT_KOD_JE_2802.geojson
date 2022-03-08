@@ -8,9 +8,9 @@
                 "ref:csioz": 1016372,
                 "name": "Promyk",
                 "addr:housenumber": "95",
-                "addr:city": "Wilczęta",
                 "addr:postcode": "14-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wilczęta"
             },
             "geometry": {
                 "type": "Point",

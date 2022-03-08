@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1188600,
                 "addr:housenumber": "119B",
-                "addr:city": "Lubzina",
                 "addr:postcode": "39-102",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lubzina"
             },
             "geometry": {
                 "type": "Point",
@@ -24,9 +24,9 @@
             "properties": {
                 "ref:csioz": 1145773,
                 "addr:housenumber": "10",
-                "addr:city": "Niedźwiada",
                 "addr:postcode": "39-107",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niedźwiada"
             },
             "geometry": {
                 "type": "Point",
@@ -42,9 +42,9 @@
                 "ref:csioz": 1227898,
                 "name": "Familijna",
                 "addr:housenumber": "248",
-                "addr:city": "Łączki Kucharskie",
                 "addr:postcode": "39-106",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łączki Kucharskie"
             },
             "geometry": {
                 "type": "Point",
@@ -59,9 +59,9 @@
             "properties": {
                 "ref:csioz": 1125675,
                 "addr:housenumber": "206",
-                "addr:city": "Wielopole Skrzyńskie",
                 "addr:postcode": "39-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wielopole Skrzyńskie"
             },
             "geometry": {
                 "type": "Point",
@@ -76,9 +76,9 @@
             "properties": {
                 "ref:csioz": 1125688,
                 "addr:housenumber": "229",
-                "addr:city": "Wielopole Skrzyńskie",
                 "addr:postcode": "39-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wielopole Skrzyńskie"
             },
             "geometry": {
                 "type": "Point",
@@ -168,9 +168,9 @@
             "properties": {
                 "ref:csioz": 1145761,
                 "addr:housenumber": "260",
-                "addr:city": "Wielopole Skrzyńskie",
                 "addr:postcode": "39-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wielopole Skrzyńskie"
             },
             "geometry": {
                 "type": "Point",
@@ -280,9 +280,9 @@
                 "ref:csioz": 1206804,
                 "name": "Apteka Artfarm",
                 "addr:housenumber": "224 a",
-                "addr:city": "Ostrów",
                 "addr:postcode": "39-103",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ostrów"
             },
             "geometry": {
                 "type": "Point",
@@ -316,9 +316,9 @@
             "properties": {
                 "ref:csioz": 1080243,
                 "addr:housenumber": "182",
-                "addr:city": "Klęczany",
                 "addr:postcode": "33-395",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Klęczany"
             },
             "geometry": {
                 "type": "Point",
@@ -351,9 +351,9 @@
             "properties": {
                 "ref:csioz": 1136465,
                 "addr:housenumber": "219",
-                "addr:city": "Kamionka",
                 "addr:postcode": "39-122",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kamionka"
             },
             "geometry": {
                 "type": "Point",
@@ -368,9 +368,9 @@
             "properties": {
                 "ref:csioz": 1145662,
                 "addr:housenumber": "81",
-                "addr:city": "Iwierzyce",
                 "addr:postcode": "39-124",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Iwierzyce"
             },
             "geometry": {
                 "type": "Point",
@@ -423,9 +423,9 @@
                 "ref:csioz": 1145681,
                 "name": "Apteka Prywatna „Remedium” Lidia Kaźmierczak",
                 "addr:housenumber": "226",
-                "addr:city": "Ostrów",
                 "addr:postcode": "39-103",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ostrów"
             },
             "geometry": {
                 "type": "Point",
@@ -440,9 +440,9 @@
             "properties": {
                 "ref:csioz": 1145785,
                 "addr:housenumber": "367",
-                "addr:city": "Zagorzyce",
                 "addr:postcode": "39-126",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zagorzyce"
             },
             "geometry": {
                 "type": "Point",
@@ -533,9 +533,9 @@
             "properties": {
                 "ref:csioz": 1225922,
                 "addr:housenumber": "145",
-                "addr:city": "Czarna Sędziszowska",
                 "addr:postcode": "39-123",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czarna Sędziszowska"
             },
             "geometry": {
                 "type": "Point",

@@ -122,9 +122,9 @@
             "properties": {
                 "ref:csioz": 1043902,
                 "addr:housenumber": "15",
-                "addr:city": "Huta",
                 "addr:postcode": "64-708",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Huta"
             },
             "geometry": {
                 "type": "Point",
@@ -159,9 +159,9 @@
                 "ref:csioz": 1044231,
                 "name": "Czajka",
                 "addr:housenumber": "64",
-                "addr:city": "Młynkowo",
                 "addr:postcode": "64-711",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Młynkowo"
             },
             "geometry": {
                 "type": "Point",
@@ -520,9 +520,9 @@
                 "ref:csioz": 1043977,
                 "name": "Factum",
                 "addr:housenumber": "35",
-                "addr:city": "Siedlisko",
                 "addr:postcode": "64-980",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Siedlisko"
             },
             "geometry": {
                 "type": "Point",

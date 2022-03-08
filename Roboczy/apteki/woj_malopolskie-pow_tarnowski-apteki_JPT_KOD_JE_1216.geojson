@@ -27,9 +27,9 @@
                 "ref:csioz": 1078936,
                 "name": "Apteka Arnika Mgr Farm. Anna Fidowicz",
                 "addr:housenumber": "458",
-                "addr:city": "Pleśna",
                 "addr:postcode": "33-171",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pleśna"
             },
             "geometry": {
                 "type": "Point",
@@ -81,9 +81,9 @@
             "properties": {
                 "ref:csioz": 1079001,
                 "addr:housenumber": "645",
-                "addr:city": "Skrzyszów",
                 "addr:postcode": "33-156",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Skrzyszów"
             },
             "geometry": {
                 "type": "Point",
@@ -98,9 +98,9 @@
             "properties": {
                 "ref:csioz": 1079030,
                 "addr:housenumber": "10",
-                "addr:city": "Szynwałd",
                 "addr:postcode": "33-158",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szynwałd"
             },
             "geometry": {
                 "type": "Point",
@@ -154,9 +154,9 @@
                 "ref:csioz": 1079105,
                 "name": "Apteka Centrum",
                 "addr:housenumber": "809",
-                "addr:city": "Wierzchosławice",
                 "addr:postcode": "33-122",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wierzchosławice"
             },
             "geometry": {
                 "type": "Point",
@@ -190,9 +190,9 @@
             "properties": {
                 "ref:csioz": 1079126,
                 "addr:housenumber": "2",
-                "addr:city": "Wietrzychowice",
                 "addr:postcode": "33-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wietrzychowice"
             },
             "geometry": {
                 "type": "Point",
@@ -320,9 +320,9 @@
                 "ref:csioz": 1079653,
                 "name": "Punkt Apteczny Apteki Im. I. Łukasiewicza",
                 "addr:housenumber": "124b",
-                "addr:city": "Stare Żukowice",
                 "addr:postcode": "33-151",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stare Żukowice"
             },
             "geometry": {
                 "type": "Point",
@@ -357,9 +357,9 @@
                 "ref:csioz": 1116987,
                 "name": "Apteka Centrum",
                 "addr:housenumber": "457A",
-                "addr:city": "Wola Rzędzińska",
                 "addr:postcode": "33-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wola Rzędzińska"
             },
             "geometry": {
                 "type": "Point",
@@ -374,9 +374,9 @@
             "properties": {
                 "ref:csioz": 1172121,
                 "addr:housenumber": "453",
-                "addr:city": "Rzuchowa",
                 "addr:postcode": "33-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rzuchowa"
             },
             "geometry": {
                 "type": "Point",
@@ -468,9 +468,9 @@
                 "ref:csioz": 1199956,
                 "name": "Punkt Apteczny Bliski",
                 "addr:housenumber": "348",
-                "addr:city": "Biadoliny Radłowskie",
                 "addr:postcode": "32-828",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Biadoliny Radłowskie"
             },
             "geometry": {
                 "type": "Point",
@@ -504,9 +504,9 @@
             "properties": {
                 "ref:csioz": 1079499,
                 "addr:housenumber": "312",
-                "addr:city": "Janowice",
                 "addr:postcode": "33-115",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Janowice"
             },
             "geometry": {
                 "type": "Point",
@@ -597,9 +597,9 @@
                 "ref:csioz": 1111880,
                 "name": "Apteka Pharmax",
                 "addr:housenumber": "39B",
-                "addr:city": "Wierzchosławice",
                 "addr:postcode": "33-122",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wierzchosławice"
             },
             "geometry": {
                 "type": "Point",
@@ -671,9 +671,9 @@
                 "ref:csioz": 1189489,
                 "name": "Apteka Bliska",
                 "addr:housenumber": "205",
-                "addr:city": "Wietrzychowice",
                 "addr:postcode": "33-270",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wietrzychowice"
             },
             "geometry": {
                 "type": "Point",
@@ -709,9 +709,9 @@
                 "ref:csioz": 1205800,
                 "name": "Punkt Apteczny Bliski",
                 "addr:housenumber": "259",
-                "addr:city": "Otfinów",
                 "addr:postcode": "33-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Otfinów"
             },
             "geometry": {
                 "type": "Point",
@@ -747,9 +747,9 @@
                 "name": "Apteka Lafarma",
                 "addr:housenumber": "537",
                 "addr:flats": "2",
-                "addr:city": "Pleśna",
                 "addr:postcode": "33-171",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pleśna"
             },
             "geometry": {
                 "type": "Point",
@@ -783,9 +783,9 @@
                 "ref:csioz": 1221267,
                 "name": "Dział Farmacji Szpitalnej",
                 "addr:housenumber": "1",
-                "addr:city": "Wał-Ruda",
                 "addr:postcode": "33-133",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wał-Ruda"
             },
             "geometry": {
                 "type": "Point",
@@ -801,9 +801,9 @@
                 "ref:csioz": 1229935,
                 "name": "\"Punkt Apteczny \"\"Centrum\"\"\"",
                 "addr:housenumber": "77B",
-                "addr:city": "Pogórska Wola",
                 "addr:postcode": "33-152",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pogórska Wola"
             },
             "geometry": {
                 "type": "Point",
@@ -838,9 +838,9 @@
                 "name": "\"Apteka \"\"Przy Przychodni\"\"\"",
                 "addr:housenumber": "501",
                 "addr:flats": "A",
-                "addr:city": "Lubcza",
                 "addr:postcode": "33-162",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lubcza"
             },
             "geometry": {
                 "type": "Point",
@@ -857,9 +857,9 @@
                 "name": "Lekoland",
                 "addr:housenumber": "72",
                 "addr:flats": "B",
-                "addr:city": "Nowodworze",
                 "addr:postcode": "33-112",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowodworze"
             },
             "geometry": {
                 "type": "Point",
@@ -874,9 +874,9 @@
             "properties": {
                 "ref:csioz": 1078999,
                 "addr:housenumber": "169",
-                "addr:city": "Rzepiennik Strzyżewski",
                 "addr:postcode": "33-163",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rzepiennik Strzyżewski"
             },
             "geometry": {
                 "type": "Point",
@@ -928,9 +928,9 @@
             "properties": {
                 "ref:csioz": 1079592,
                 "addr:housenumber": "549",
-                "addr:city": "Olszyny",
                 "addr:postcode": "33-164",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Olszyny"
             },
             "geometry": {
                 "type": "Point",
@@ -946,9 +946,9 @@
                 "ref:csioz": 1079602,
                 "name": "Herbamed",
                 "addr:housenumber": "97",
-                "addr:city": "Ołpiny",
                 "addr:postcode": "38-247",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ołpiny"
             },
             "geometry": {
                 "type": "Point",
@@ -1097,9 +1097,9 @@
                 "ref:csioz": 1174791,
                 "name": "\"'Herbamed'\"",
                 "addr:housenumber": "296/b",
-                "addr:city": "Szerzyny",
                 "addr:postcode": "38-246",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szerzyny"
             },
             "geometry": {
                 "type": "Point",
@@ -1114,9 +1114,9 @@
             "properties": {
                 "ref:csioz": 1181695,
                 "addr:housenumber": "180 A",
-                "addr:city": "Jastrzębia",
                 "addr:postcode": "33-191",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jastrzębia"
             },
             "geometry": {
                 "type": "Point",
@@ -1133,9 +1133,9 @@
                 "name": "\"Apteka 'Witaminka'\"",
                 "addr:housenumber": "670",
                 "addr:flats": "A",
-                "addr:city": "Szerzyny",
                 "addr:postcode": "28-246",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szerzyny"
             },
             "geometry": {
                 "type": "Point",
@@ -1151,9 +1151,9 @@
                 "ref:csioz": 1195138,
                 "name": "Herbamed Punkt Apteczny Żurowa",
                 "addr:housenumber": "7",
-                "addr:city": "Żurowa",
                 "addr:postcode": "38-247",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Żurowa"
             },
             "geometry": {
                 "type": "Point",
@@ -1188,9 +1188,9 @@
                 "ref:csioz": 1208543,
                 "name": "\"Apteka 'Witaminka'\"",
                 "addr:housenumber": "639/A",
-                "addr:city": "Ołpiny",
                 "addr:postcode": "38-247",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ołpiny"
             },
             "geometry": {
                 "type": "Point",

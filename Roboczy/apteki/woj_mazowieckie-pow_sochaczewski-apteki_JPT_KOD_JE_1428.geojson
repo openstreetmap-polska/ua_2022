@@ -178,9 +178,9 @@
                 "ref:csioz": 1117807,
                 "name": "Centralny",
                 "addr:housenumber": "49",
-                "addr:city": "Brzozów Stary",
                 "addr:postcode": "96-521",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brzozów Stary"
             },
             "geometry": {
                 "type": "Point",
@@ -214,9 +214,9 @@
             "properties": {
                 "ref:csioz": 1230497,
                 "addr:housenumber": "122",
-                "addr:city": "Brochów",
                 "addr:postcode": "05-088",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brochów"
             },
             "geometry": {
                 "type": "Point",
@@ -326,9 +326,9 @@
             "properties": {
                 "ref:csioz": 1094223,
                 "addr:housenumber": "50A",
-                "addr:city": "Nowa Sucha",
                 "addr:postcode": "96-513",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowa Sucha"
             },
             "geometry": {
                 "type": "Point",
@@ -571,9 +571,9 @@
                 "ref:csioz": 1230780,
                 "name": "Vita",
                 "addr:housenumber": "117",
-                "addr:city": "Żuków",
                 "addr:postcode": "96-503",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Żuków"
             },
             "geometry": {
                 "type": "Point",

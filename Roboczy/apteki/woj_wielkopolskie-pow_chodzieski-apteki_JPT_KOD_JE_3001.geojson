@@ -122,9 +122,9 @@
                 "ref:csioz": 1044097,
                 "name": "Pod Jarzębinami",
                 "addr:housenumber": "22",
-                "addr:city": "Wyszyny",
                 "addr:postcode": "64-834",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wyszyny"
             },
             "geometry": {
                 "type": "Point",

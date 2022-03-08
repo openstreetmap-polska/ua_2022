@@ -199,9 +199,9 @@
                 "ref:csioz": 1135335,
                 "name": "\"Punkt Apteczny \"\"Słonecznik\"\"\"",
                 "addr:housenumber": "26",
-                "addr:city": "Biały Kościół",
                 "addr:postcode": "57-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Biały Kościół"
             },
             "geometry": {
                 "type": "Point",

@@ -197,9 +197,9 @@
             "properties": {
                 "ref:csioz": 1169238,
                 "addr:housenumber": "56",
-                "addr:city": "Przelewice",
                 "addr:postcode": "74-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Przelewice"
             },
             "geometry": {
                 "type": "Point",
@@ -235,9 +235,9 @@
                 "ref:csioz": 1230841,
                 "name": "Doz Punkt Apteczny Dbam O Zdrowie",
                 "addr:housenumber": "38",
-                "addr:city": "Warnice",
                 "addr:postcode": "74-201",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Warnice"
             },
             "geometry": {
                 "type": "Point",

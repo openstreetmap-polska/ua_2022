@@ -45,9 +45,9 @@
             "properties": {
                 "ref:csioz": 1098112,
                 "addr:housenumber": "86A",
-                "addr:city": "Wierzbno",
                 "addr:postcode": "07-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wierzbno"
             },
             "geometry": {
                 "type": "Point",
@@ -82,9 +82,9 @@
                 "ref:csioz": 1177283,
                 "name": "Centrum Zdrowia",
                 "addr:housenumber": "28",
-                "addr:city": "Wyszków",
                 "addr:postcode": "07-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wyszków"
             },
             "geometry": {
                 "type": "Point",
@@ -250,9 +250,9 @@
             "properties": {
                 "ref:csioz": 1162904,
                 "addr:housenumber": "39",
-                "addr:city": "Ostrówek",
                 "addr:postcode": "21-102",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ostrówek"
             },
             "geometry": {
                 "type": "Point",

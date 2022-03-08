@@ -65,9 +65,9 @@
                 "ref:csioz": 1064999,
                 "name": "Brak",
                 "addr:housenumber": "142",
-                "addr:city": "Koszarawa",
                 "addr:postcode": "34-332",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Koszarawa"
             },
             "geometry": {
                 "type": "Point",
@@ -273,9 +273,9 @@
                 "ref:csioz": 1058643,
                 "name": "Brak",
                 "addr:housenumber": "227",
-                "addr:city": "Brzuśnik",
                 "addr:postcode": "34-382",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brzuśnik"
             },
             "geometry": {
                 "type": "Point",
@@ -654,9 +654,9 @@
                 "ref:csioz": 1120344,
                 "name": "Zakład Pielęgnacyjno-Opiekuńczy Medicus",
                 "addr:housenumber": "251A",
-                "addr:city": "Złatna",
                 "addr:postcode": "34-371",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Złatna"
             },
             "geometry": {
                 "type": "Point",

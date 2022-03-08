@@ -118,9 +118,9 @@
                 "ref:csioz": 1165342,
                 "name": "Punkt Apteczny Rodzinny",
                 "addr:housenumber": "89",
-                "addr:city": "Stale",
                 "addr:postcode": "39-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stale"
             },
             "geometry": {
                 "type": "Point",
@@ -211,9 +211,9 @@
                 "ref:csioz": 1144012,
                 "name": "Rumianek",
                 "addr:housenumber": "36",
-                "addr:city": "Ślęzaki",
                 "addr:postcode": "39-450",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ślęzaki"
             },
             "geometry": {
                 "type": "Point",

@@ -465,9 +465,9 @@
             "properties": {
                 "ref:csioz": 1155065,
                 "addr:housenumber": "380",
-                "addr:city": "Aleksandrów",
                 "addr:postcode": "23-408",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Aleksandrów"
             },
             "geometry": {
                 "type": "Point",
@@ -557,9 +557,9 @@
             "properties": {
                 "ref:csioz": 1191422,
                 "addr:housenumber": "38",
-                "addr:city": "Majdan Nowy",
                 "addr:postcode": "23-414",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Majdan Nowy"
             },
             "geometry": {
                 "type": "Point",
@@ -575,9 +575,9 @@
                 "ref:csioz": 1195998,
                 "name": "Punkt Apteczny-Monika Łukasik",
                 "addr:housenumber": "23 a",
-                "addr:city": "Sól",
                 "addr:postcode": "23-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sól"
             },
             "geometry": {
                 "type": "Point",
@@ -688,9 +688,9 @@
                 "ref:csioz": 1154981,
                 "name": "Apteka Marianna Garbacz",
                 "addr:housenumber": "51",
-                "addr:city": "Łukowa",
                 "addr:postcode": "23-412",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łukowa"
             },
             "geometry": {
                 "type": "Point",
@@ -705,9 +705,9 @@
             "properties": {
                 "ref:csioz": 1154177,
                 "addr:housenumber": "543 A",
-                "addr:city": "Łukowa",
                 "addr:postcode": "23-412",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łukowa"
             },
             "geometry": {
                 "type": "Point",
@@ -723,9 +723,9 @@
                 "ref:csioz": 1154792,
                 "name": "Apteka Mgr Farm. Jolanta Ważna",
                 "addr:housenumber": "35 B",
-                "addr:city": "Obsza",
                 "addr:postcode": "23-413",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Obsza"
             },
             "geometry": {
                 "type": "Point",
@@ -741,9 +741,9 @@
                 "ref:csioz": 1214095,
                 "name": "Moja Apteka",
                 "addr:housenumber": "50 A",
-                "addr:city": "Łukowa",
                 "addr:postcode": "23-412",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łukowa"
             },
             "geometry": {
                 "type": "Point",
@@ -759,9 +759,9 @@
                 "ref:csioz": 1106496,
                 "name": "Matki Bożej",
                 "addr:housenumber": "194E",
-                "addr:city": "Potok Górny",
                 "addr:postcode": "23-423",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Potok Górny"
             },
             "geometry": {
                 "type": "Point",
@@ -776,9 +776,9 @@
             "properties": {
                 "ref:csioz": 1154430,
                 "addr:housenumber": "50",
-                "addr:city": "Biszcza",
                 "addr:postcode": "23-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Biszcza"
             },
             "geometry": {
                 "type": "Point",
@@ -793,9 +793,9 @@
             "properties": {
                 "ref:csioz": 1154768,
                 "addr:housenumber": "2A",
-                "addr:city": "Lipiny Górne-Lewki",
                 "addr:postcode": "23-423",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipiny Górne-Lewki"
             },
             "geometry": {
                 "type": "Point",

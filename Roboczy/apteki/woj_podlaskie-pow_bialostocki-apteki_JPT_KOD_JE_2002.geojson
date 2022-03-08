@@ -610,9 +610,9 @@
                 "ref:csioz": 1192363,
                 "name": "Apteka Małgorzata Lipińska",
                 "addr:housenumber": "11",
-                "addr:city": "Poświętne",
                 "addr:postcode": "18-112",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Poświętne"
             },
             "geometry": {
                 "type": "Point",
@@ -704,9 +704,9 @@
             "properties": {
                 "ref:csioz": 1211761,
                 "addr:housenumber": "9",
-                "addr:city": "Kozińce",
                 "addr:postcode": "16-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kozińce"
             },
             "geometry": {
                 "type": "Point",
@@ -781,9 +781,9 @@
                 "ref:csioz": 1228289,
                 "name": "Punkt Apteczny Nova",
                 "addr:housenumber": "57",
-                "addr:city": "Szymki",
                 "addr:postcode": "16-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szymki"
             },
             "geometry": {
                 "type": "Point",
@@ -799,9 +799,9 @@
                 "ref:csioz": 1228290,
                 "name": "Punkt Apteczny Nova",
                 "addr:housenumber": "1",
-                "addr:city": "Bondary",
                 "addr:postcode": "16-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bondary"
             },
             "geometry": {
                 "type": "Point",

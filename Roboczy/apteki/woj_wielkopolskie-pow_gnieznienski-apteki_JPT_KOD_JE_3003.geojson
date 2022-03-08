@@ -235,9 +235,9 @@
                 "name": "Św.Mikołaja",
                 "addr:housenumber": "13B",
                 "addr:flats": "2",
-                "addr:city": "Łubowo",
                 "addr:postcode": "62-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łubowo"
             },
             "geometry": {
                 "type": "Point",
@@ -273,9 +273,9 @@
                 "ref:csioz": 1123444,
                 "name": "Przy Przychodni",
                 "addr:housenumber": "2D",
-                "addr:city": "Łubowo",
                 "addr:postcode": "62-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łubowo"
             },
             "geometry": {
                 "type": "Point",
@@ -421,9 +421,9 @@
                 "ref:csioz": 1044826,
                 "name": "Libra",
                 "addr:housenumber": "11",
-                "addr:city": "Mieleszyn",
                 "addr:postcode": "62-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mieleszyn"
             },
             "geometry": {
                 "type": "Point",

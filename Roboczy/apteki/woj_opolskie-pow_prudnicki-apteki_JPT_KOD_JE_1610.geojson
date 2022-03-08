@@ -175,9 +175,9 @@
             "properties": {
                 "ref:csioz": 1109823,
                 "addr:housenumber": "29A",
-                "addr:city": "Gostomia",
                 "addr:postcode": "48-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gostomia"
             },
             "geometry": {
                 "type": "Point",
@@ -325,9 +325,9 @@
             "properties": {
                 "ref:csioz": 1181442,
                 "addr:housenumber": "186A",
-                "addr:city": "Biedrzychowice",
                 "addr:postcode": "48-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Biedrzychowice"
             },
             "geometry": {
                 "type": "Point",

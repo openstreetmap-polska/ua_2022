@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1201981,
                 "addr:housenumber": "21A",
-                "addr:city": "Kunin",
                 "addr:postcode": "07-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kunin"
             },
             "geometry": {
                 "type": "Point",
@@ -98,9 +98,9 @@
             "properties": {
                 "ref:csioz": 1116874,
                 "addr:housenumber": "40",
-                "addr:city": "Czarnia",
                 "addr:postcode": "07-431",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czarnia"
             },
             "geometry": {
                 "type": "Point",
@@ -226,9 +226,9 @@
             "properties": {
                 "ref:csioz": 1091721,
                 "addr:housenumber": "46B",
-                "addr:city": "Zalas",
                 "addr:postcode": "07-437",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zalas"
             },
             "geometry": {
                 "type": "Point",

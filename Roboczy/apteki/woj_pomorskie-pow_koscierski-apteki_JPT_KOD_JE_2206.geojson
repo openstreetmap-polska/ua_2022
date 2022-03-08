@@ -103,9 +103,9 @@
                 "ref:csioz": 1029356,
                 "name": "Magnolia",
                 "addr:housenumber": "27",
-                "addr:city": "Lubieszyn",
                 "addr:postcode": "83-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lubieszyn"
             },
             "geometry": {
                 "type": "Point",

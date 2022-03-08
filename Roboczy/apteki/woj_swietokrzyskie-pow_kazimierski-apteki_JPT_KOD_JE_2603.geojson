@@ -249,9 +249,9 @@
                 "ref:csioz": 1000635,
                 "name": "Apteka Nowa",
                 "addr:housenumber": "236/C",
-                "addr:city": "Bejsce",
                 "addr:postcode": "28-512",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bejsce"
             },
             "geometry": {
                 "type": "Point",
@@ -266,9 +266,9 @@
             "properties": {
                 "ref:csioz": 1004453,
                 "addr:housenumber": "43A",
-                "addr:city": "Krzczonów",
                 "addr:postcode": "28-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krzczonów"
             },
             "geometry": {
                 "type": "Point",

@@ -845,9 +845,9 @@
                 "ref:csioz": 1136921,
                 "name": "Zakład Opiekuńczo-Leczniczy Dla Dzieci Im. Jana Pawła Ii Prowadzony Przez Zgromadzenie Sióstr Maryi Niepokalanej",
                 "addr:housenumber": "21",
-                "addr:city": "Jaszkotle",
                 "addr:postcode": "55-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jaszkotle"
             },
             "geometry": {
                 "type": "Point",

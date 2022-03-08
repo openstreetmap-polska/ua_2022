@@ -306,9 +306,9 @@
             "properties": {
                 "ref:csioz": 1004711,
                 "addr:housenumber": "12C",
-                "addr:city": "Serwis",
                 "addr:postcode": "26-006",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Serwis"
             },
             "geometry": {
                 "type": "Point",
@@ -362,9 +362,9 @@
                 "ref:csioz": 1004392,
                 "name": "Apteka Medica",
                 "addr:housenumber": "24",
-                "addr:city": "Samsonów",
                 "addr:postcode": "26-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Samsonów"
             },
             "geometry": {
                 "type": "Point",
@@ -416,9 +416,9 @@
             "properties": {
                 "ref:csioz": 1004722,
                 "addr:housenumber": "34A",
-                "addr:city": "Wiśniówka",
                 "addr:postcode": "26-001",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wiśniówka"
             },
             "geometry": {
                 "type": "Point",
@@ -434,9 +434,9 @@
                 "ref:csioz": 1114634,
                 "name": "Apteka Codzienna",
                 "addr:housenumber": "279 A",
-                "addr:city": "Suków",
                 "addr:postcode": "26-021",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Suków"
             },
             "geometry": {
                 "type": "Point",
@@ -471,9 +471,9 @@
                 "ref:csioz": 1184399,
                 "name": "Apteka Z Sercem",
                 "addr:housenumber": "80",
-                "addr:city": "Górno",
                 "addr:postcode": "26-008",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Górno"
             },
             "geometry": {
                 "type": "Point",
@@ -941,9 +941,9 @@
                 "ref:csioz": 1191853,
                 "name": "Dział Farmacji Szpitalnej",
                 "addr:housenumber": "54 B",
-                "addr:city": "Osiny",
                 "addr:postcode": "26-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Osiny"
             },
             "geometry": {
                 "type": "Point",
@@ -1035,9 +1035,9 @@
                 "ref:csioz": 1228963,
                 "name": "\"Punkt Apteczny \"\"Dla Ciebie\"\"\"\"\"",
                 "addr:housenumber": "104A",
-                "addr:city": "Makoszyn",
                 "addr:postcode": "26-004",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Makoszyn"
             },
             "geometry": {
                 "type": "Point",
@@ -1091,9 +1091,9 @@
                 "ref:csioz": 1176258,
                 "name": "Apteczka",
                 "addr:housenumber": "56A",
-                "addr:city": "Radlin",
                 "addr:postcode": "26-008",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Radlin"
             },
             "geometry": {
                 "type": "Point",

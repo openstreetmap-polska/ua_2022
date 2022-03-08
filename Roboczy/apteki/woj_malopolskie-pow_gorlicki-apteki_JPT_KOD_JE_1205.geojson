@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1081258,
                 "addr:housenumber": "419",
-                "addr:city": "Szalowa",
                 "addr:postcode": "38-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szalowa"
             },
             "geometry": {
                 "type": "Point",
@@ -25,9 +25,9 @@
                 "ref:csioz": 1081015,
                 "name": "Alba",
                 "addr:housenumber": "494",
-                "addr:city": "Dominikowice",
                 "addr:postcode": "38-303",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dominikowice"
             },
             "geometry": {
                 "type": "Point",
@@ -138,9 +138,9 @@
                 "ref:csioz": 1081249,
                 "name": "Apteka Prywatna Mgr Farm. Sowa Janina",
                 "addr:housenumber": "766",
-                "addr:city": "Łużna",
                 "addr:postcode": "38-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łużna"
             },
             "geometry": {
                 "type": "Point",
@@ -230,9 +230,9 @@
                 "ref:csioz": 1114642,
                 "name": "Herbamed Spółka Jawna",
                 "addr:housenumber": "323",
-                "addr:city": "Sękowa",
                 "addr:postcode": "38-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sękowa"
             },
             "geometry": {
                 "type": "Point",
@@ -286,9 +286,9 @@
                 "ref:csioz": 1081133,
                 "name": "Punkt Apteczny Zdrowie",
                 "addr:housenumber": "246",
-                "addr:city": "Mszanka",
                 "addr:postcode": "38-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mszanka"
             },
             "geometry": {
                 "type": "Point",
@@ -303,9 +303,9 @@
             "properties": {
                 "ref:csioz": 1081154,
                 "addr:housenumber": "446",
-                "addr:city": "Kryg",
                 "addr:postcode": "38-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kryg"
             },
             "geometry": {
                 "type": "Point",
@@ -320,9 +320,9 @@
             "properties": {
                 "ref:csioz": 1081165,
                 "addr:housenumber": "44",
-                "addr:city": "Lipinki",
                 "addr:postcode": "38-305",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipinki"
             },
             "geometry": {
                 "type": "Point",
@@ -337,9 +337,9 @@
             "properties": {
                 "ref:csioz": 1081187,
                 "addr:housenumber": "652",
-                "addr:city": "Libusza",
                 "addr:postcode": "38-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Libusza"
             },
             "geometry": {
                 "type": "Point",
@@ -507,9 +507,9 @@
                 "ref:csioz": 1226213,
                 "name": "Punkt Apteczny Zagórzany",
                 "addr:housenumber": "207",
-                "addr:city": "Zagórzany",
                 "addr:postcode": "38-333",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zagórzany"
             },
             "geometry": {
                 "type": "Point",
@@ -544,9 +544,9 @@
                 "ref:csioz": 1117189,
                 "name": "Zdrowie",
                 "addr:housenumber": "84",
-                "addr:city": "Śnietnica",
                 "addr:postcode": "38-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Śnietnica"
             },
             "geometry": {
                 "type": "Point",
@@ -562,9 +562,9 @@
                 "ref:csioz": 1188069,
                 "name": "\"Apteka \"\"Centrum\"\"\"",
                 "addr:housenumber": "917",
-                "addr:city": "Ropa",
                 "addr:postcode": "38-312",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ropa"
             },
             "geometry": {
                 "type": "Point",
@@ -597,9 +597,9 @@
             "properties": {
                 "ref:csioz": 1080644,
                 "addr:housenumber": "149",
-                "addr:city": "Wysowa-Zdrój",
                 "addr:postcode": "38-316",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wysowa-Zdrój"
             },
             "geometry": {
                 "type": "Point",
@@ -691,9 +691,9 @@
                 "ref:csioz": 1081179,
                 "name": "Apteka Galena",
                 "addr:housenumber": "522",
-                "addr:city": "Lipinki",
                 "addr:postcode": "38-305",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipinki"
             },
             "geometry": {
                 "type": "Point",
@@ -708,9 +708,9 @@
             "properties": {
                 "ref:csioz": 1081217,
                 "addr:housenumber": "680",
-                "addr:city": "Ropa",
                 "addr:postcode": "38-312",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ropa"
             },
             "geometry": {
                 "type": "Point",
@@ -725,9 +725,9 @@
             "properties": {
                 "ref:csioz": 1081225,
                 "addr:housenumber": "155",
-                "addr:city": "Uście Gorlickie",
                 "addr:postcode": "38-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Uście Gorlickie"
             },
             "geometry": {
                 "type": "Point",
@@ -761,9 +761,9 @@
             "properties": {
                 "ref:csioz": 1184081,
                 "addr:housenumber": "590",
-                "addr:city": "Szymbark",
                 "addr:postcode": "38-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szymbark"
             },
             "geometry": {
                 "type": "Point",
@@ -779,9 +779,9 @@
                 "ref:csioz": 1193742,
                 "name": "Dział Farmacji Szpitalnej",
                 "addr:housenumber": "98",
-                "addr:city": "Wysowa-Zdrój",
                 "addr:postcode": "38-316",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wysowa-Zdrój"
             },
             "geometry": {
                 "type": "Point",

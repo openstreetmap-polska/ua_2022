@@ -8,9 +8,9 @@
                 "ref:csioz": 1224798,
                 "name": "\"Punkt Apteczny ''Pod Ostrzycą''\"",
                 "addr:housenumber": "109F",
-                "addr:city": "Pielgrzymka",
                 "addr:postcode": "59-524",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pielgrzymka"
             },
             "geometry": {
                 "type": "Point",
@@ -198,9 +198,9 @@
                 "ref:csioz": 1227854,
                 "name": "Na Dobre I Na Złe",
                 "addr:housenumber": "56A",
-                "addr:city": "Zagrodno",
                 "addr:postcode": "59-516",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zagrodno"
             },
             "geometry": {
                 "type": "Point",
@@ -292,9 +292,9 @@
                 "ref:csioz": 1189674,
                 "name": "Niebo",
                 "addr:housenumber": "62a",
-                "addr:city": "Zagrodno",
                 "addr:postcode": "59-516",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zagrodno"
             },
             "geometry": {
                 "type": "Point",

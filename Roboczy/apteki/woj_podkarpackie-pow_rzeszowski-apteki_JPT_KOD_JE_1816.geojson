@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1081338,
                 "addr:housenumber": "198",
-                "addr:city": "Siedliska",
                 "addr:postcode": "38-324",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Siedliska"
             },
             "geometry": {
                 "type": "Point",
@@ -42,9 +42,9 @@
             "properties": {
                 "ref:csioz": 1125753,
                 "addr:housenumber": "88",
-                "addr:city": "Dylągówka",
                 "addr:postcode": "36-025",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dylągówka"
             },
             "geometry": {
                 "type": "Point",
@@ -61,9 +61,9 @@
                 "name": "Melisa",
                 "addr:housenumber": "35",
                 "addr:flats": "35",
-                "addr:city": "Kielanówka",
                 "addr:postcode": "35-106",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kielanówka"
             },
             "geometry": {
                 "type": "Point",
@@ -78,9 +78,9 @@
             "properties": {
                 "ref:csioz": 1125808,
                 "addr:housenumber": "215",
-                "addr:city": "Łowisko",
                 "addr:postcode": "36-053",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łowisko"
             },
             "geometry": {
                 "type": "Point",
@@ -95,9 +95,9 @@
             "properties": {
                 "ref:csioz": 1125856,
                 "addr:housenumber": "302",
-                "addr:city": "Wysoka Głogowska",
                 "addr:postcode": "36-061",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wysoka Głogowska"
             },
             "geometry": {
                 "type": "Point",
@@ -112,9 +112,9 @@
             "properties": {
                 "ref:csioz": 1146143,
                 "addr:housenumber": "170",
-                "addr:city": "Łąka",
                 "addr:postcode": "36-004",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łąka"
             },
             "geometry": {
                 "type": "Point",
@@ -129,9 +129,9 @@
             "properties": {
                 "ref:csioz": 1146156,
                 "addr:housenumber": "695A",
-                "addr:city": "Nienadówka",
                 "addr:postcode": "36-052",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nienadówka"
             },
             "geometry": {
                 "type": "Point",
@@ -203,9 +203,9 @@
                 "ref:csioz": 1166024,
                 "name": "Różana",
                 "addr:housenumber": "200",
-                "addr:city": "Malawa",
                 "addr:postcode": "36-007",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Malawa"
             },
             "geometry": {
                 "type": "Point",
@@ -221,9 +221,9 @@
                 "ref:csioz": 1183213,
                 "name": "Apteka W Hyżnem",
                 "addr:housenumber": "104",
-                "addr:city": "Hyżne",
                 "addr:postcode": "36-024",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Hyżne"
             },
             "geometry": {
                 "type": "Point",
@@ -238,9 +238,9 @@
             "properties": {
                 "ref:csioz": 1226803,
                 "addr:housenumber": "972",
-                "addr:city": "Niechobrz",
                 "addr:postcode": "36-047",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niechobrz"
             },
             "geometry": {
                 "type": "Point",
@@ -255,9 +255,9 @@
             "properties": {
                 "ref:csioz": 1125819,
                 "addr:housenumber": "426",
-                "addr:city": "Łukawiec",
                 "addr:postcode": "36-004",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łukawiec"
             },
             "geometry": {
                 "type": "Point",
@@ -272,9 +272,9 @@
             "properties": {
                 "ref:csioz": 1125257,
                 "addr:housenumber": "600",
-                "addr:city": "Rudna Mała",
                 "addr:postcode": "36-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rudna Mała"
             },
             "geometry": {
                 "type": "Point",
@@ -307,9 +307,9 @@
             "properties": {
                 "ref:csioz": 1136422,
                 "addr:housenumber": "393",
-                "addr:city": "Stobierna",
                 "addr:postcode": "36-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stobierna"
             },
             "geometry": {
                 "type": "Point",
@@ -325,9 +325,9 @@
                 "ref:csioz": 1136596,
                 "name": "Nzoz Leśniówka",
                 "addr:housenumber": "242",
-                "addr:city": "Turza",
                 "addr:postcode": "36-050",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Turza"
             },
             "geometry": {
                 "type": "Point",
@@ -342,9 +342,9 @@
             "properties": {
                 "ref:csioz": 1136853,
                 "addr:housenumber": "66A",
-                "addr:city": "Tajęcina",
                 "addr:postcode": "36-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tajęcina"
             },
             "geometry": {
                 "type": "Point",
@@ -378,9 +378,9 @@
                 "ref:csioz": 1146041,
                 "name": "„Apteka W Przychodni”",
                 "addr:housenumber": "50A",
-                "addr:city": "Chmielnik",
                 "addr:postcode": "36-016",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chmielnik"
             },
             "geometry": {
                 "type": "Point",
@@ -471,9 +471,9 @@
                 "ref:csioz": 1146197,
                 "name": "Doz Apteka. Dbam O Zdrowie. Viola",
                 "addr:housenumber": "866",
-                "addr:city": "Trzebownisko",
                 "addr:postcode": "36-001",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trzebownisko"
             },
             "geometry": {
                 "type": "Point",
@@ -507,9 +507,9 @@
             "properties": {
                 "ref:csioz": 1146227,
                 "addr:housenumber": "246",
-                "addr:city": "Zaczernie",
                 "addr:postcode": "36-062",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zaczernie"
             },
             "geometry": {
                 "type": "Point",
@@ -524,9 +524,9 @@
             "properties": {
                 "ref:csioz": 1146242,
                 "addr:housenumber": "583",
-                "addr:city": "Jasionka",
                 "addr:postcode": "36-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jasionka"
             },
             "geometry": {
                 "type": "Point",
@@ -559,9 +559,9 @@
             "properties": {
                 "ref:csioz": 1180279,
                 "addr:housenumber": "33",
-                "addr:city": "Krasne",
                 "addr:postcode": "36-007",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krasne"
             },
             "geometry": {
                 "type": "Point",
@@ -577,9 +577,9 @@
                 "ref:csioz": 1210809,
                 "name": "Pharm-Sis",
                 "addr:housenumber": "84",
-                "addr:city": "Borek Stary",
                 "addr:postcode": "36-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Borek Stary"
             },
             "geometry": {
                 "type": "Point",
@@ -614,9 +614,9 @@
                 "ref:csioz": 1195940,
                 "name": "Apteka Difarm",
                 "addr:housenumber": "67A",
-                "addr:city": "Zgłobień",
                 "addr:postcode": "36-046",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zgłobień"
             },
             "geometry": {
                 "type": "Point",
@@ -632,9 +632,9 @@
                 "ref:csioz": 1195954,
                 "name": "Punkt Apteczny Difarm",
                 "addr:housenumber": "795",
-                "addr:city": "Niechobrz",
                 "addr:postcode": "36-047",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niechobrz"
             },
             "geometry": {
                 "type": "Point",
@@ -688,9 +688,9 @@
                 "ref:csioz": 1221272,
                 "name": "Rodzinna",
                 "addr:housenumber": "817",
-                "addr:city": "Trzebownisko",
                 "addr:postcode": "36-001",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trzebownisko"
             },
             "geometry": {
                 "type": "Point",
@@ -724,9 +724,9 @@
             "properties": {
                 "ref:csioz": 1228008,
                 "addr:housenumber": "33",
-                "addr:city": "Krasne",
                 "addr:postcode": "36-007",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krasne"
             },
             "geometry": {
                 "type": "Point",
@@ -743,9 +743,9 @@
                 "name": "\"Apteka \"\"U Galena\"\"\"",
                 "addr:housenumber": "374",
                 "addr:flats": "1",
-                "addr:city": "Lubenia",
                 "addr:postcode": "36-042",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lubenia"
             },
             "geometry": {
                 "type": "Point",
@@ -761,9 +761,9 @@
                 "ref:csioz": 1146124,
                 "name": "Dr.Max",
                 "addr:housenumber": "20B",
-                "addr:city": "Krasne",
                 "addr:postcode": "36-007",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krasne"
             },
             "geometry": {
                 "type": "Point",
@@ -779,9 +779,9 @@
                 "ref:csioz": 1146032,
                 "name": "Abira",
                 "addr:housenumber": "13",
-                "addr:city": "Bratkowice",
                 "addr:postcode": "36-055",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bratkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -797,9 +797,9 @@
                 "ref:csioz": 1165265,
                 "name": "Abira",
                 "addr:housenumber": "164",
-                "addr:city": "Świlcza",
                 "addr:postcode": "36-072",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Świlcza"
             },
             "geometry": {
                 "type": "Point",
@@ -815,9 +815,9 @@
                 "ref:csioz": 1146108,
                 "name": "Apteka Centrum",
                 "addr:housenumber": "313",
-                "addr:city": "Kamień",
                 "addr:postcode": "36-053",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kamień"
             },
             "geometry": {
                 "type": "Point",
@@ -833,9 +833,9 @@
                 "ref:csioz": 1216680,
                 "name": "Apteka Bliska Sercu",
                 "addr:housenumber": "746A",
-                "addr:city": "Krasne",
                 "addr:postcode": "36-007",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krasne"
             },
             "geometry": {
                 "type": "Point",
@@ -986,9 +986,9 @@
                 "ref:csioz": 1227973,
                 "name": "Danfarm Punkt Apteczny Harta",
                 "addr:housenumber": "320",
-                "addr:city": "Harta",
                 "addr:postcode": "36-067",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Harta"
             },
             "geometry": {
                 "type": "Point",

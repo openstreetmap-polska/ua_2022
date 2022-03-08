@@ -44,9 +44,9 @@
             "properties": {
                 "ref:csioz": 1183352,
                 "addr:housenumber": "12B/2",
-                "addr:city": "Naruszewo",
                 "addr:postcode": "09-152",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Naruszewo"
             },
             "geometry": {
                 "type": "Point",
@@ -80,9 +80,9 @@
             "properties": {
                 "ref:csioz": 1092703,
                 "addr:housenumber": "59B",
-                "addr:city": "Załuski",
                 "addr:postcode": "09-142",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Załuski"
             },
             "geometry": {
                 "type": "Point",
@@ -116,9 +116,9 @@
             "properties": {
                 "ref:csioz": 1092049,
                 "addr:housenumber": "28",
-                "addr:city": "Dzierzążnia",
                 "addr:postcode": "09-164",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dzierzążnia"
             },
             "geometry": {
                 "type": "Point",
@@ -133,9 +133,9 @@
             "properties": {
                 "ref:csioz": 1091893,
                 "addr:housenumber": "51",
-                "addr:city": "Joniec",
                 "addr:postcode": "09-131",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Joniec"
             },
             "geometry": {
                 "type": "Point",
@@ -223,9 +223,9 @@
             "properties": {
                 "ref:csioz": 1122087,
                 "addr:housenumber": "13",
-                "addr:city": "Unieck",
                 "addr:postcode": "09-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Unieck"
             },
             "geometry": {
                 "type": "Point",
@@ -241,9 +241,9 @@
                 "ref:csioz": 1124590,
                 "name": "Centrum Medyczne Grupa Zdrowie",
                 "addr:housenumber": "23A",
-                "addr:city": "Kraszewo-Czubaki",
                 "addr:postcode": "09-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kraszewo-Czubaki"
             },
             "geometry": {
                 "type": "Point",
@@ -519,9 +519,9 @@
                 "ref:csioz": 1124680,
                 "name": "Opieka Długoterminowa",
                 "addr:housenumber": "51",
-                "addr:city": "Joniec",
                 "addr:postcode": "09-131",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Joniec"
             },
             "geometry": {
                 "type": "Point",

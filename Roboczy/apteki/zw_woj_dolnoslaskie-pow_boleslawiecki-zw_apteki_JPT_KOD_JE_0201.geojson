@@ -142,9 +142,9 @@
                 "ref:csioz": 1135442,
                 "name": "Aloes",
                 "addr:housenumber": "59",
-                "addr:city": "Raciborowice Dolne",
                 "addr:postcode": "59-720",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Raciborowice Dolne"
             },
             "geometry": {
                 "type": "Point",
@@ -160,9 +160,9 @@
                 "ref:csioz": 1135450,
                 "name": "\"Punkt Apteczny 'Chumed'\"",
                 "addr:housenumber": "40d",
-                "addr:city": "Warta Bolesławiecka",
                 "addr:postcode": "59-722",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Warta Bolesławiecka"
             },
             "geometry": {
                 "type": "Point",

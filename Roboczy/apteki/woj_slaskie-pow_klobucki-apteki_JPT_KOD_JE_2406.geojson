@@ -160,9 +160,9 @@
                 "ref:csioz": 1065317,
                 "name": "Brak Nazwy",
                 "addr:housenumber": "21",
-                "addr:city": "Lipie",
                 "addr:postcode": "42-165",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipie"
             },
             "geometry": {
                 "type": "Point",
@@ -933,9 +933,9 @@
             "properties": {
                 "ref:csioz": 1226033,
                 "addr:housenumber": "32",
-                "addr:city": "Puszczew",
                 "addr:postcode": "42-133",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Puszczew"
             },
             "geometry": {
                 "type": "Point",
@@ -951,9 +951,9 @@
                 "ref:csioz": 1229594,
                 "name": "Apfarm",
                 "addr:housenumber": "44",
-                "addr:city": "Zajączki Pierwsze",
                 "addr:postcode": "42-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zajączki Pierwsze"
             },
             "geometry": {
                 "type": "Point",

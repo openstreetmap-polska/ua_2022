@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1036357,
                 "addr:housenumber": "82a",
-                "addr:city": "Krzeszów",
                 "addr:postcode": "32-206",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krzeszów"
             },
             "geometry": {
                 "type": "Point",
@@ -82,9 +82,9 @@
                 "ref:csioz": 1076189,
                 "name": "P.H Apteka Św. Franciszka",
                 "addr:housenumber": "23",
-                "addr:city": "Stryszawa",
                 "addr:postcode": "34-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stryszawa"
             },
             "geometry": {
                 "type": "Point",
@@ -100,9 +100,9 @@
                 "ref:csioz": 1077383,
                 "name": "Apteka Corda",
                 "addr:housenumber": "460",
-                "addr:city": "Budzów",
                 "addr:postcode": "34-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Budzów"
             },
             "geometry": {
                 "type": "Point",
@@ -137,9 +137,9 @@
                 "ref:csioz": 1196259,
                 "name": "Zdrowie",
                 "addr:housenumber": "721",
-                "addr:city": "Sidzina",
                 "addr:postcode": "34-236",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sidzina"
             },
             "geometry": {
                 "type": "Point",
@@ -193,9 +193,9 @@
                 "ref:csioz": 1038457,
                 "name": "Apteka Dbam O Zdrowie",
                 "addr:housenumber": "1560",
-                "addr:city": "Zawoja",
                 "addr:postcode": "34-222",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zawoja"
             },
             "geometry": {
                 "type": "Point",
@@ -211,9 +211,9 @@
                 "ref:csioz": 1042295,
                 "name": "Apteka Pod Kasztanami G. Mazur Spółka Jawna",
                 "addr:housenumber": "541",
-                "addr:city": "Zembrzyce",
                 "addr:postcode": "34-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zembrzyce"
             },
             "geometry": {
                 "type": "Point",
@@ -247,9 +247,9 @@
             "properties": {
                 "ref:csioz": 1074659,
                 "addr:housenumber": "833",
-                "addr:city": "Zawoja",
                 "addr:postcode": "34-222",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zawoja"
             },
             "geometry": {
                 "type": "Point",
@@ -358,9 +358,9 @@
             "properties": {
                 "ref:csioz": 1195016,
                 "addr:housenumber": "410",
-                "addr:city": "Bieńkówka",
                 "addr:postcode": "34-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bieńkówka"
             },
             "geometry": {
                 "type": "Point",
@@ -393,9 +393,9 @@
             "properties": {
                 "ref:csioz": 1228503,
                 "addr:housenumber": "448",
-                "addr:city": "Skawica",
                 "addr:postcode": "34-221",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Skawica"
             },
             "geometry": {
                 "type": "Point",
@@ -410,9 +410,9 @@
             "properties": {
                 "ref:csioz": 1230075,
                 "addr:housenumber": "195 B",
-                "addr:city": "Lachowice",
                 "addr:postcode": "34-232",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lachowice"
             },
             "geometry": {
                 "type": "Point",
@@ -428,9 +428,9 @@
                 "ref:csioz": 1220494,
                 "name": "Corda",
                 "addr:housenumber": "32A",
-                "addr:city": "Stryszawa",
                 "addr:postcode": "34-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stryszawa"
             },
             "geometry": {
                 "type": "Point",
@@ -484,9 +484,9 @@
                 "ref:csioz": 1220483,
                 "name": "Corda",
                 "addr:housenumber": "542 A",
-                "addr:city": "Juszczyn",
                 "addr:postcode": "34-231",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Juszczyn"
             },
             "geometry": {
                 "type": "Point",
@@ -502,9 +502,9 @@
                 "ref:csioz": 1038513,
                 "name": "Therapia",
                 "addr:housenumber": "540",
-                "addr:city": "Osielec",
                 "addr:postcode": "34-786",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Osielec"
             },
             "geometry": {
                 "type": "Point",
@@ -520,9 +520,9 @@
                 "ref:csioz": 1075569,
                 "name": "Apteka Bystrzańska",
                 "addr:housenumber": "353A",
-                "addr:city": "Bystra Podhalańska",
                 "addr:postcode": "34-235",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bystra Podhalańska"
             },
             "geometry": {
                 "type": "Point",
@@ -575,9 +575,9 @@
             "properties": {
                 "ref:csioz": 1076222,
                 "addr:housenumber": "477",
-                "addr:city": "Naprawa",
                 "addr:postcode": "34-785",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Naprawa"
             },
             "geometry": {
                 "type": "Point",
@@ -628,9 +628,9 @@
             "properties": {
                 "ref:csioz": 1196245,
                 "addr:housenumber": "465",
-                "addr:city": "Łętownia",
                 "addr:postcode": "34-242",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łętownia"
             },
             "geometry": {
                 "type": "Point",

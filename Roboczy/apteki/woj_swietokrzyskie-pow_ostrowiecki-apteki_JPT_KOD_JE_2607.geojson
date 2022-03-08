@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1000106,
                 "addr:housenumber": "107",
-                "addr:city": "GARBACZ",
                 "addr:postcode": "27-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "GARBACZ"
             },
             "geometry": {
                 "type": "Point",
@@ -324,9 +324,9 @@
                 "ref:csioz": 1207349,
                 "name": "Apteka Jurajska",
                 "addr:housenumber": "32 A",
-                "addr:city": "Bałtów",
                 "addr:postcode": "27-423",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bałtów"
             },
             "geometry": {
                 "type": "Point",
@@ -455,9 +455,9 @@
                 "ref:csioz": 1134782,
                 "name": "\"Punkt Apteczny 'Miłków'\"",
                 "addr:housenumber": "74",
-                "addr:city": "Miłków",
                 "addr:postcode": "58-535",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Miłków"
             },
             "geometry": {
                 "type": "Point",

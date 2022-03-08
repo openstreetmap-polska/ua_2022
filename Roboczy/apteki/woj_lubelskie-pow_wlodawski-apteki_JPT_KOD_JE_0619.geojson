@@ -8,9 +8,9 @@
                 "ref:csioz": 1106417,
                 "name": "\"Punkt Apteczny \"\"Vita\"\"\"",
                 "addr:housenumber": "155",
-                "addr:city": "Wyryki-Połód",
                 "addr:postcode": "22-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wyryki-Połód"
             },
             "geometry": {
                 "type": "Point",
@@ -287,9 +287,9 @@
             "properties": {
                 "ref:csioz": 1157137,
                 "addr:housenumber": "8",
-                "addr:city": "Stary Brus",
                 "addr:postcode": "22-244",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stary Brus"
             },
             "geometry": {
                 "type": "Point",

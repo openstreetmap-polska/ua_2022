@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1000712,
                 "addr:housenumber": "41",
-                "addr:city": "Tuczępy",
                 "addr:postcode": "28-142",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tuczępy"
             },
             "geometry": {
                 "type": "Point",
@@ -24,9 +24,9 @@
             "properties": {
                 "ref:csioz": 1000154,
                 "addr:housenumber": "147",
-                "addr:city": "Gnojno",
                 "addr:postcode": "28-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gnojno"
             },
             "geometry": {
                 "type": "Point",
@@ -41,9 +41,9 @@
             "properties": {
                 "ref:csioz": 1000122,
                 "addr:housenumber": "133",
-                "addr:city": "Brzostków",
                 "addr:postcode": "28-136",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brzostków"
             },
             "geometry": {
                 "type": "Point",

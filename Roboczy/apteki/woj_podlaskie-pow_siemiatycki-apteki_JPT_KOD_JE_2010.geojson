@@ -306,9 +306,9 @@
                 "ref:csioz": 1224918,
                 "name": "Rodzinny Punkt Apteczny Janusz Bonda",
                 "addr:housenumber": "44B",
-                "addr:city": "Perlejewo",
                 "addr:postcode": "17-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Perlejewo"
             },
             "geometry": {
                 "type": "Point",
@@ -323,9 +323,9 @@
             "properties": {
                 "ref:csioz": 1230659,
                 "addr:housenumber": "47",
-                "addr:city": "Dziadkowice",
                 "addr:postcode": "17-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dziadkowice"
             },
             "geometry": {
                 "type": "Point",

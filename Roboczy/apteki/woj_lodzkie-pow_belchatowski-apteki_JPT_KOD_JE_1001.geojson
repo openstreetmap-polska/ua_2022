@@ -46,9 +46,9 @@
                 "ref:csioz": 1026520,
                 "name": "Twoje Zdrowie",
                 "addr:housenumber": "82",
-                "addr:city": "Wadlew",
                 "addr:postcode": "97-403",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wadlew"
             },
             "geometry": {
                 "type": "Point",
@@ -102,9 +102,9 @@
                 "ref:csioz": 1226292,
                 "name": "Twoje Zdrowie",
                 "addr:housenumber": "18",
-                "addr:city": "Drużbice",
                 "addr:postcode": "97-403",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Drużbice"
             },
             "geometry": {
                 "type": "Point",
@@ -385,9 +385,9 @@
                 "ref:csioz": 1122834,
                 "name": "Żyj - Zdrowo.Com",
                 "addr:housenumber": "51",
-                "addr:city": "Kluki",
                 "addr:postcode": "97-415",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kluki"
             },
             "geometry": {
                 "type": "Point",
@@ -461,9 +461,9 @@
                 "ref:csioz": 1193420,
                 "name": "Klinika Psychiatryczna I Terapii Uzależnień Wolmed Joanna Wysogląd-Wolniak",
                 "addr:housenumber": "1A",
-                "addr:city": "Dubie",
                 "addr:postcode": "97-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dubie"
             },
             "geometry": {
                 "type": "Point",
@@ -517,9 +517,9 @@
                 "ref:csioz": 1224939,
                 "name": "Agata Łuszczyk",
                 "addr:housenumber": "13",
-                "addr:city": "Wola Wiązowa",
                 "addr:postcode": "97-438",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wola Wiązowa"
             },
             "geometry": {
                 "type": "Point",

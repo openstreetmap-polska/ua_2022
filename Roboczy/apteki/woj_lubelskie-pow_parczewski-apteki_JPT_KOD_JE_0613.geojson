@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1156264,
                 "addr:housenumber": "46A",
-                "addr:city": "Podedwórze",
                 "addr:postcode": "21-222",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Podedwórze"
             },
             "geometry": {
                 "type": "Point",
@@ -25,9 +25,9 @@
                 "ref:csioz": 1209825,
                 "name": "\"Punkt Apteczny \"\"Vita\"\"\"",
                 "addr:housenumber": "64",
-                "addr:city": "Kodeniec",
                 "addr:postcode": "21-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kodeniec"
             },
             "geometry": {
                 "type": "Point",
@@ -194,9 +194,9 @@
                 "name": "Hibiscus",
                 "addr:housenumber": "15",
                 "addr:flats": "1",
-                "addr:city": "DZIAŁYŃ",
                 "addr:postcode": "62-271",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "DZIAŁYŃ"
             },
             "geometry": {
                 "type": "Point",
@@ -211,9 +211,9 @@
             "properties": {
                 "ref:csioz": 1106657,
                 "addr:housenumber": "140",
-                "addr:city": "\"Siemień, Gródek Szlachecki\"",
                 "addr:postcode": "21-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "\"Siemień, Gródek Szlachecki\""
             },
             "geometry": {
                 "type": "Point",

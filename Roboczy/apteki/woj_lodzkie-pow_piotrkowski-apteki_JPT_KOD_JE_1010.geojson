@@ -8,9 +8,9 @@
                 "ref:csioz": 1018579,
                 "name": "Apteka Ogólnodostępna S.C. Katarzyna Łaska Cezary Łaski",
                 "addr:housenumber": "55A",
-                "addr:city": "Grabica",
                 "addr:postcode": "97-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Grabica"
             },
             "geometry": {
                 "type": "Point",
@@ -139,9 +139,9 @@
                 "ref:csioz": 1025960,
                 "name": "Punkt Apteczny Arnika",
                 "addr:housenumber": "40D",
-                "addr:city": "Aleksandrów",
                 "addr:postcode": "26-337",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Aleksandrów"
             },
             "geometry": {
                 "type": "Point",
@@ -233,9 +233,9 @@
                 "ref:csioz": 1026645,
                 "name": "Punkt Apteczny Arnika",
                 "addr:housenumber": "76",
-                "addr:city": "Dąbrowa nad Czarną",
                 "addr:postcode": "26-337",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dąbrowa nad Czarną"
             },
             "geometry": {
                 "type": "Point",
@@ -363,9 +363,9 @@
                 "ref:csioz": 1118479,
                 "name": "Na Szóstkę",
                 "addr:housenumber": "50",
-                "addr:city": "Parzniewice Duże",
                 "addr:postcode": "97-371",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Parzniewice Duże"
             },
             "geometry": {
                 "type": "Point",
@@ -457,9 +457,9 @@
                 "ref:csioz": 1193152,
                 "name": "\"Punkt Apteczny 'Arnika\"",
                 "addr:housenumber": "10",
-                "addr:city": "Trzepnica-Kolonia",
                 "addr:postcode": "97-352",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trzepnica-Kolonia"
             },
             "geometry": {
                 "type": "Point",
@@ -494,9 +494,9 @@
                 "ref:csioz": 1111867,
                 "name": "Pod Opatrznością",
                 "addr:housenumber": "128",
-                "addr:city": "Czarnocin",
                 "addr:postcode": "28-506",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czarnocin"
             },
             "geometry": {
                 "type": "Point",

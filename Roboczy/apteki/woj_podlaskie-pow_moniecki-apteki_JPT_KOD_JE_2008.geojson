@@ -43,9 +43,9 @@
             "properties": {
                 "ref:csioz": 1020006,
                 "addr:housenumber": "4",
-                "addr:city": "Krypno Wielkie",
                 "addr:postcode": "19-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krypno Wielkie"
             },
             "geometry": {
                 "type": "Point",
@@ -98,9 +98,9 @@
             "properties": {
                 "ref:csioz": 1014521,
                 "addr:housenumber": "142A",
-                "addr:city": "Dolistowo Stare",
                 "addr:postcode": "19-124",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dolistowo Stare"
             },
             "geometry": {
                 "type": "Point",
@@ -116,9 +116,9 @@
                 "ref:csioz": 1015175,
                 "name": "Aspirynka",
                 "addr:housenumber": "12",
-                "addr:city": "Jaświły",
                 "addr:postcode": "19-124",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jaświły"
             },
             "geometry": {
                 "type": "Point",

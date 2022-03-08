@@ -62,9 +62,9 @@
             "properties": {
                 "ref:csioz": 1034471,
                 "addr:housenumber": "58",
-                "addr:city": "Pisanica",
                 "addr:postcode": "19-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pisanica"
             },
             "geometry": {
                 "type": "Point",

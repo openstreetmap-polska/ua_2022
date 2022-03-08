@@ -27,9 +27,9 @@
                 "ref:csioz": 1097946,
                 "name": "Mgr Farm. Ewa Krasnodębska",
                 "addr:housenumber": "18C",
-                "addr:city": "Domanice-Kolonia",
                 "addr:postcode": "08-113",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Domanice-Kolonia"
             },
             "geometry": {
                 "type": "Point",
@@ -45,9 +45,9 @@
                 "ref:csioz": 1098185,
                 "name": "Punkt Apteczny Centrum",
                 "addr:housenumber": "65",
-                "addr:city": "Oleśnica",
                 "addr:postcode": "08-117",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Oleśnica"
             },
             "geometry": {
                 "type": "Point",
@@ -83,9 +83,9 @@
                 "name": "Melisana",
                 "addr:housenumber": "1",
                 "addr:flats": "1",
-                "addr:city": "CHODÓW",
                 "addr:postcode": "62-652",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "CHODÓW"
             },
             "geometry": {
                 "type": "Point",
@@ -120,9 +120,9 @@
                 "ref:csioz": 1097688,
                 "name": "Rafał Serementa",
                 "addr:housenumber": "33",
-                "addr:city": "Krzesk-Królowa Niwa",
                 "addr:postcode": "08-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krzesk-Królowa Niwa"
             },
             "geometry": {
                 "type": "Point",
@@ -211,9 +211,9 @@
             "properties": {
                 "ref:csioz": 1170324,
                 "addr:housenumber": "19A",
-                "addr:city": "Żeliszew Podkościelny",
                 "addr:postcode": "08-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Żeliszew Podkościelny"
             },
             "geometry": {
                 "type": "Point",
@@ -286,9 +286,9 @@
                 "ref:csioz": 1225138,
                 "name": "\"Zakład Opiekuńczo-Leczniczy \"\"Centrum\"\"\"",
                 "addr:housenumber": "132",
-                "addr:city": "Oleśnica",
                 "addr:postcode": "08-117",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Oleśnica"
             },
             "geometry": {
                 "type": "Point",

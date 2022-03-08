@@ -25,9 +25,9 @@
             "properties": {
                 "ref:csioz": 1142742,
                 "addr:housenumber": "53",
-                "addr:city": "Kombornia",
                 "addr:postcode": "38-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kombornia"
             },
             "geometry": {
                 "type": "Point",
@@ -117,9 +117,9 @@
             "properties": {
                 "ref:csioz": 1142716,
                 "addr:housenumber": "323",
-                "addr:city": "Jaszczew",
                 "addr:postcode": "38-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jaszczew"
             },
             "geometry": {
                 "type": "Point",
@@ -192,9 +192,9 @@
                 "ref:csioz": 1142666,
                 "name": "Arkadia",
                 "addr:housenumber": "31c",
-                "addr:city": "Wojaszówka",
                 "addr:postcode": "38-471",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wojaszówka"
             },
             "geometry": {
                 "type": "Point",
@@ -321,9 +321,9 @@
                 "ref:csioz": 1142750,
                 "name": "Avena",
                 "addr:housenumber": "57",
-                "addr:city": "Kopytowa",
                 "addr:postcode": "38-459",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kopytowa"
             },
             "geometry": {
                 "type": "Point",
@@ -543,9 +543,9 @@
             "properties": {
                 "ref:csioz": 1142568,
                 "addr:housenumber": "313",
-                "addr:city": "Kobylany",
                 "addr:postcode": "38-462",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kobylany"
             },
             "geometry": {
                 "type": "Point",
@@ -561,9 +561,9 @@
                 "ref:csioz": 1142602,
                 "name": "Apteka Lubatowa",
                 "addr:housenumber": "291a",
-                "addr:city": "Lubatowa",
                 "addr:postcode": "38-441",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lubatowa"
             },
             "geometry": {
                 "type": "Point",
@@ -708,9 +708,9 @@
             "properties": {
                 "ref:csioz": 1142727,
                 "addr:housenumber": "2",
-                "addr:city": "Jaśliska",
                 "addr:postcode": "38-525",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jaśliska"
             },
             "geometry": {
                 "type": "Point",
@@ -800,9 +800,9 @@
             "properties": {
                 "ref:csioz": 1228062,
                 "addr:housenumber": "30",
-                "addr:city": "Równe",
                 "addr:postcode": "38-451",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Równe"
             },
             "geometry": {
                 "type": "Point",
@@ -818,9 +818,9 @@
                 "ref:csioz": 1229962,
                 "name": "Almaz",
                 "addr:housenumber": "83",
-                "addr:city": "Łęki Dukielskie",
                 "addr:postcode": "38-456",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łęki Dukielskie"
             },
             "geometry": {
                 "type": "Point",

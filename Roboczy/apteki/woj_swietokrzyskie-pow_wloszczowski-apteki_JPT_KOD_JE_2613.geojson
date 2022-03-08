@@ -44,9 +44,9 @@
             "properties": {
                 "ref:csioz": 1001061,
                 "addr:housenumber": "42",
-                "addr:city": "Moskorzew",
                 "addr:postcode": "29-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Moskorzew"
             },
             "geometry": {
                 "type": "Point",
@@ -117,9 +117,9 @@
             "properties": {
                 "ref:csioz": 1004415,
                 "addr:housenumber": "99",
-                "addr:city": "Radków",
                 "addr:postcode": "29-135",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Radków"
             },
             "geometry": {
                 "type": "Point",
@@ -285,9 +285,9 @@
                 "ref:csioz": 1195548,
                 "name": "\"Punkt Apteczny \"\"Amicus\"\"\"",
                 "addr:housenumber": "150",
-                "addr:city": "Radków",
                 "addr:postcode": "29-135",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Radków"
             },
             "geometry": {
                 "type": "Point",

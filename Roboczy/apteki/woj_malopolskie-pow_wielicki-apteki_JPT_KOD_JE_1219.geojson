@@ -8,9 +8,9 @@
                 "ref:csioz": 1076102,
                 "name": "Twoja Apteka",
                 "addr:housenumber": "651",
-                "addr:city": "Kłaj",
                 "addr:postcode": "32-014",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kłaj"
             },
             "geometry": {
                 "type": "Point",
@@ -25,9 +25,9 @@
             "properties": {
                 "ref:csioz": 1202311,
                 "addr:housenumber": "53",
-                "addr:city": "Zabierzów Bocheński",
                 "addr:postcode": "32-007",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zabierzów Bocheński"
             },
             "geometry": {
                 "type": "Point",
@@ -43,9 +43,9 @@
                 "ref:csioz": 1224567,
                 "name": "Apteka Promienna",
                 "addr:housenumber": "820",
-                "addr:city": "Kłaj",
                 "addr:postcode": "32-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kłaj"
             },
             "geometry": {
                 "type": "Point",
@@ -61,9 +61,9 @@
                 "ref:csioz": 1194918,
                 "name": "Dr. Max",
                 "addr:housenumber": "53",
-                "addr:city": "Gdów",
                 "addr:postcode": "32-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gdów"
             },
             "geometry": {
                 "type": "Point",
@@ -79,9 +79,9 @@
                 "ref:csioz": 1114220,
                 "name": "Zdrowe Ceny",
                 "addr:housenumber": "336",
-                "addr:city": "Gdów",
                 "addr:postcode": "32-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gdów"
             },
             "geometry": {
                 "type": "Point",
@@ -96,9 +96,9 @@
             "properties": {
                 "ref:csioz": 1204866,
                 "addr:housenumber": "294",
-                "addr:city": "Gdów",
                 "addr:postcode": "32-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gdów"
             },
             "geometry": {
                 "type": "Point",
@@ -114,9 +114,9 @@
                 "ref:csioz": 1224359,
                 "name": "Doz Apteka. Dbam O Zdrowie. Vita",
                 "addr:housenumber": "331",
-                "addr:city": "Gdów",
                 "addr:postcode": "32-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gdów"
             },
             "geometry": {
                 "type": "Point",
@@ -132,9 +132,9 @@
                 "ref:csioz": 1075320,
                 "name": "Apteka „Magda”. Gorzków",
                 "addr:housenumber": "242",
-                "addr:city": "Gorzków",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gorzków"
             },
             "geometry": {
                 "type": "Point",
@@ -150,9 +150,9 @@
                 "ref:csioz": 1075550,
                 "name": "\"Apteka \"\"Mniszek\"\"\"",
                 "addr:housenumber": "666",
-                "addr:city": "Koźmice Wielkie",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Koźmice Wielkie"
             },
             "geometry": {
                 "type": "Point",
@@ -205,9 +205,9 @@
             "properties": {
                 "ref:csioz": 1036588,
                 "addr:housenumber": "140",
-                "addr:city": "Chorągwica",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chorągwica"
             },
             "geometry": {
                 "type": "Point",
@@ -278,9 +278,9 @@
             "properties": {
                 "ref:csioz": 1074676,
                 "addr:housenumber": "121",
-                "addr:city": "Niegowić",
                 "addr:postcode": "32-013",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niegowić"
             },
             "geometry": {
                 "type": "Point",
@@ -389,9 +389,9 @@
             "properties": {
                 "ref:csioz": 1034624,
                 "addr:housenumber": "605",
-                "addr:city": "Podłęże",
                 "addr:postcode": "32-003",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Podłęże"
             },
             "geometry": {
                 "type": "Point",
@@ -445,9 +445,9 @@
                 "ref:csioz": 1037119,
                 "name": "Panoramix",
                 "addr:housenumber": "340",
-                "addr:city": "Trąbki",
                 "addr:postcode": "32-020",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trąbki"
             },
             "geometry": {
                 "type": "Point",
@@ -539,9 +539,9 @@
                 "ref:csioz": 1194291,
                 "name": "Apteka Krokus",
                 "addr:housenumber": "519",
-                "addr:city": "Kokotów",
                 "addr:postcode": "32-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kokotów"
             },
             "geometry": {
                 "type": "Point",
@@ -557,9 +557,9 @@
                 "ref:csioz": 1219897,
                 "name": "Apteka Zdrowie",
                 "addr:housenumber": "730",
-                "addr:city": "Podłęże",
                 "addr:postcode": "32-003",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Podłęże"
             },
             "geometry": {
                 "type": "Point",
@@ -574,9 +574,9 @@
             "properties": {
                 "ref:csioz": 1226006,
                 "addr:housenumber": "79",
-                "addr:city": "Brzezie",
                 "addr:postcode": "32-014",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brzezie"
             },
             "geometry": {
                 "type": "Point",
@@ -592,9 +592,9 @@
                 "ref:csioz": 1214547,
                 "name": "\"Apteka \"\"Niebieska\"\" Mikołaj Front, Paulina Front, Spółka Jawna\"",
                 "addr:housenumber": "580",
-                "addr:city": "Staniątki",
                 "addr:postcode": "32-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Staniątki"
             },
             "geometry": {
                 "type": "Point",

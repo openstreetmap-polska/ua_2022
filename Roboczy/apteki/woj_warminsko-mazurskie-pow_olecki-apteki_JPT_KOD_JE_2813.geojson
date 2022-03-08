@@ -156,9 +156,9 @@
             "properties": {
                 "ref:csioz": 1041854,
                 "addr:housenumber": "104",
-                "addr:city": "Świętajno",
                 "addr:postcode": "19-411",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Świętajno"
             },
             "geometry": {
                 "type": "Point",
@@ -193,9 +193,9 @@
                 "ref:csioz": 1121588,
                 "name": "Zakład Opieki Długoterminowej",
                 "addr:housenumber": "4",
-                "addr:city": "Olecko-Kolonia",
                 "addr:postcode": "19-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Olecko-Kolonia"
             },
             "geometry": {
                 "type": "Point",

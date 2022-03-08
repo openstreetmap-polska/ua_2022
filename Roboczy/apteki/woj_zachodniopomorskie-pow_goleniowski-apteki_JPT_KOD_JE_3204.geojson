@@ -178,9 +178,9 @@
             "properties": {
                 "ref:csioz": 1169127,
                 "addr:housenumber": "1A",
-                "addr:city": "Osina",
                 "addr:postcode": "72-221",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Osina"
             },
             "geometry": {
                 "type": "Point",
@@ -254,9 +254,9 @@
                 "ref:csioz": 1228464,
                 "name": "Pod Lipami",
                 "addr:housenumber": "56a",
-                "addr:city": "Mosty",
                 "addr:postcode": "72-132",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mosty"
             },
             "geometry": {
                 "type": "Point",

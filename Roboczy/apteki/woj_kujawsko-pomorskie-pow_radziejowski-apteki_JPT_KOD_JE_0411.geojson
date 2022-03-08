@@ -45,9 +45,9 @@
                 "ref:csioz": 1104328,
                 "name": "Pharmacon Apteka Prywatna Mgr Farm. Jolanta Sobieska",
                 "addr:housenumber": "104",
-                "addr:city": "Czołowo",
                 "addr:postcode": "88-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czołowo"
             },
             "geometry": {
                 "type": "Point",
@@ -311,9 +311,9 @@
                 "ref:csioz": 1104435,
                 "name": "Doz Apteka Dbam O Zdrowie Apteka Przyjazna",
                 "addr:housenumber": "120",
-                "addr:city": "Topólka",
                 "addr:postcode": "87-875",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Topólka"
             },
             "geometry": {
                 "type": "Point",
@@ -347,9 +347,9 @@
             "properties": {
                 "ref:csioz": 1196827,
                 "addr:housenumber": "24",
-                "addr:city": "Nowa Wieś",
                 "addr:postcode": "88-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowa Wieś"
             },
             "geometry": {
                 "type": "Point",
@@ -365,9 +365,9 @@
                 "ref:csioz": 1230759,
                 "name": "Zdrowie I Uroda",
                 "addr:housenumber": "51",
-                "addr:city": "Bytoń",
                 "addr:postcode": "88-231",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bytoń"
             },
             "geometry": {
                 "type": "Point",

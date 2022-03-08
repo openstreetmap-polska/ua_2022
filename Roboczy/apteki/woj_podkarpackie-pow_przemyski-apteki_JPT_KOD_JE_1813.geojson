@@ -25,9 +25,9 @@
             "properties": {
                 "ref:csioz": 1140043,
                 "addr:housenumber": "479a",
-                "addr:city": "Medyka",
                 "addr:postcode": "37-732",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Medyka"
             },
             "geometry": {
                 "type": "Point",
@@ -43,9 +43,9 @@
                 "ref:csioz": 1140081,
                 "name": "Niezapominajka Dla Całej Rodziny",
                 "addr:housenumber": "69a",
-                "addr:city": "Stubno",
                 "addr:postcode": "37-723",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stubno"
             },
             "geometry": {
                 "type": "Point",
@@ -60,9 +60,9 @@
             "properties": {
                 "ref:csioz": 1166097,
                 "addr:housenumber": "55",
-                "addr:city": "Wacławice",
                 "addr:postcode": "37-716",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wacławice"
             },
             "geometry": {
                 "type": "Point",
@@ -135,9 +135,9 @@
                 "name": "Słoneczko",
                 "addr:housenumber": "405A",
                 "addr:flats": "80",
-                "addr:city": "Medyka",
                 "addr:postcode": "37-732",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Medyka"
             },
             "geometry": {
                 "type": "Point",
@@ -190,9 +190,9 @@
                 "ref:csioz": 1230771,
                 "name": "Danfarm Punkt Apteczny Wyszatyce",
                 "addr:housenumber": "214a",
-                "addr:city": "Wyszatyce",
                 "addr:postcode": "37-722",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wyszatyce"
             },
             "geometry": {
                 "type": "Point",
@@ -226,9 +226,9 @@
             "properties": {
                 "ref:csioz": 1140062,
                 "addr:housenumber": "67",
-                "addr:city": "Krzywcza",
                 "addr:postcode": "37-754",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krzywcza"
             },
             "geometry": {
                 "type": "Point",
@@ -282,9 +282,9 @@
                 "ref:csioz": 1229878,
                 "name": "Danfarm Punkt Apteczny Krasiczyn",
                 "addr:housenumber": "138",
-                "addr:city": "Krasiczyn",
                 "addr:postcode": "37-741",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krasiczyn"
             },
             "geometry": {
                 "type": "Point",
@@ -300,9 +300,9 @@
                 "ref:csioz": 1225940,
                 "name": "\"Niepubliczny Zakład Opiekuńczo-Leczniczy \"\"Zacisze\"\"\"",
                 "addr:housenumber": "11",
-                "addr:city": "Winne-Podbukowina",
                 "addr:postcode": "37-750",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Winne-Podbukowina"
             },
             "geometry": {
                 "type": "Point",

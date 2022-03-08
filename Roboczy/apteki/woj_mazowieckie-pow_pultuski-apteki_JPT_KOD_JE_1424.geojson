@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1172184,
                 "addr:housenumber": "101A",
-                "addr:city": "Dzierżenin",
                 "addr:postcode": "06-121",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dzierżenin"
             },
             "geometry": {
                 "type": "Point",
@@ -137,9 +137,9 @@
             "properties": {
                 "ref:csioz": 1092513,
                 "addr:housenumber": "187",
-                "addr:city": "Obryte",
                 "addr:postcode": "07-215",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Obryte"
             },
             "geometry": {
                 "type": "Point",

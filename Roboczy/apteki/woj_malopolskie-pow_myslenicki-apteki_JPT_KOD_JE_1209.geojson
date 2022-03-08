@@ -26,9 +26,9 @@
             "properties": {
                 "ref:csioz": 1036399,
                 "addr:housenumber": "415",
-                "addr:city": "Skomielna Czarna",
                 "addr:postcode": "32-437",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Skomielna Czarna"
             },
             "geometry": {
                 "type": "Point",
@@ -62,9 +62,9 @@
             "properties": {
                 "ref:csioz": 1042329,
                 "addr:housenumber": "791",
-                "addr:city": "Stróża",
                 "addr:postcode": "32-431",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stróża"
             },
             "geometry": {
                 "type": "Point",
@@ -80,9 +80,9 @@
                 "ref:csioz": 1074599,
                 "name": "\"Nasza Apteka Zdrowia Mgr Bogumiła Leśniak Pcim1, 32-432 Pcim\"",
                 "addr:housenumber": "1",
-                "addr:city": "Pcim",
                 "addr:postcode": "32-432",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pcim"
             },
             "geometry": {
                 "type": "Point",
@@ -117,9 +117,9 @@
                 "ref:csioz": 1075654,
                 "name": "Apteka Vita",
                 "addr:housenumber": "925",
-                "addr:city": "Krzywaczka",
                 "addr:postcode": "32-442",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krzywaczka"
             },
             "geometry": {
                 "type": "Point",
@@ -173,9 +173,9 @@
                 "ref:csioz": 1077284,
                 "addr:housenumber": "317",
                 "addr:flats": "1",
-                "addr:city": "Wiśniowa",
                 "addr:postcode": "32-412",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wiśniowa"
             },
             "geometry": {
                 "type": "Point",
@@ -191,9 +191,9 @@
                 "ref:csioz": 1077480,
                 "name": "Maria",
                 "addr:housenumber": "400",
-                "addr:city": "Tokarnia",
                 "addr:postcode": "32-436",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tokarnia"
             },
             "geometry": {
                 "type": "Point",
@@ -209,9 +209,9 @@
                 "ref:csioz": 1114193,
                 "name": "Punkt Apteczny Trzebunia",
                 "addr:housenumber": "182",
-                "addr:city": "Trzebunia",
                 "addr:postcode": "32-438",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trzebunia"
             },
             "geometry": {
                 "type": "Point",
@@ -227,9 +227,9 @@
                 "ref:csioz": 1118085,
                 "name": "Pod Modrzewiami",
                 "addr:housenumber": "1238",
-                "addr:city": "Siepraw",
                 "addr:postcode": "32-447",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Siepraw"
             },
             "geometry": {
                 "type": "Point",
@@ -264,9 +264,9 @@
                 "ref:csioz": 1172081,
                 "name": "\"Apteka \"\"Gaja\"\" Krystyna Duma\"",
                 "addr:housenumber": "581",
-                "addr:city": "Trzemeśnia",
                 "addr:postcode": "32-425",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trzemeśnia"
             },
             "geometry": {
                 "type": "Point",
@@ -282,9 +282,9 @@
                 "ref:csioz": 1036176,
                 "name": "Zdrowe Ceny",
                 "addr:housenumber": "615",
-                "addr:city": "Pcim",
                 "addr:postcode": "32-432",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pcim"
             },
             "geometry": {
                 "type": "Point",
@@ -299,9 +299,9 @@
             "properties": {
                 "ref:csioz": 1036591,
                 "addr:housenumber": "313",
-                "addr:city": "Raciechowice",
                 "addr:postcode": "32-415",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Raciechowice"
             },
             "geometry": {
                 "type": "Point",
@@ -372,9 +372,9 @@
             "properties": {
                 "ref:csioz": 1056142,
                 "addr:housenumber": "317",
-                "addr:city": "Wiśniowa",
                 "addr:postcode": "32-412",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wiśniowa"
             },
             "geometry": {
                 "type": "Point",
@@ -408,9 +408,9 @@
                 "ref:csioz": 1075312,
                 "name": "Apteka „Magda”. Siepraw",
                 "addr:housenumber": "782",
-                "addr:city": "Siepraw",
                 "addr:postcode": "32-447",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Siepraw"
             },
             "geometry": {
                 "type": "Point",
@@ -538,9 +538,9 @@
                 "ref:csioz": 1190868,
                 "name": "Doz Apteka. Dbam O Zdrowie. Rumianek",
                 "addr:housenumber": "321",
-                "addr:city": "Raciechowice",
                 "addr:postcode": "32-415",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Raciechowice"
             },
             "geometry": {
                 "type": "Point",
@@ -555,9 +555,9 @@
             "properties": {
                 "ref:csioz": 1192374,
                 "addr:housenumber": "223",
-                "addr:city": "Lubień",
                 "addr:postcode": "32-433",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lubień"
             },
             "geometry": {
                 "type": "Point",
@@ -650,9 +650,9 @@
                 "ref:csioz": 1228591,
                 "name": "Punkt Apteczny Krokus",
                 "addr:housenumber": "77",
-                "addr:city": "Głogoczów",
                 "addr:postcode": "32-444",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Głogoczów"
             },
             "geometry": {
                 "type": "Point",
@@ -705,9 +705,9 @@
             "properties": {
                 "ref:csioz": 1194873,
                 "addr:housenumber": "391",
-                "addr:city": "Skomielna Biała",
                 "addr:postcode": "32-434",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Skomielna Biała"
             },
             "geometry": {
                 "type": "Point",

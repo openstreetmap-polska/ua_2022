@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1000089,
                 "addr:housenumber": "57",
-                "addr:city": "Pawłów",
                 "addr:postcode": "27-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pawłów"
             },
             "geometry": {
                 "type": "Point",
@@ -25,9 +25,9 @@
                 "ref:csioz": 1004682,
                 "name": "Wiktoria",
                 "addr:housenumber": "42",
-                "addr:city": "Chybice",
                 "addr:postcode": "27-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chybice"
             },
             "geometry": {
                 "type": "Point",
@@ -62,9 +62,9 @@
                 "ref:csioz": 1001329,
                 "name": "Zakład Medycyny Paliatywno-Hospicyjnej",
                 "addr:housenumber": "84 a",
-                "addr:city": "Kałków-Godów",
                 "addr:postcode": "27-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kałków-Godów"
             },
             "geometry": {
                 "type": "Point",
@@ -379,9 +379,9 @@
                 "ref:csioz": 1178382,
                 "name": "\"Punkt Apteczny \"\"Jagodne\"\"\"",
                 "addr:housenumber": "118",
-                "addr:city": "Jagodne",
                 "addr:postcode": "27-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jagodne"
             },
             "geometry": {
                 "type": "Point",
@@ -567,9 +567,9 @@
                 "ref:csioz": 1120778,
                 "name": "\"Apteka Cef@Rm 36,6 \"",
                 "addr:housenumber": "20",
-                "addr:city": "Wąchock",
                 "addr:postcode": "27-215",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wąchock"
             },
             "geometry": {
                 "type": "Point",

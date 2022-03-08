@@ -159,9 +159,9 @@
                 "ref:csioz": 1137243,
                 "name": "Apsik",
                 "addr:housenumber": "96",
-                "addr:city": "Miszkowice",
                 "addr:postcode": "58-420",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Miszkowice"
             },
             "geometry": {
                 "type": "Point",

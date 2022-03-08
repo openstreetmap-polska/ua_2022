@@ -215,9 +215,9 @@
             "properties": {
                 "ref:csioz": 1021838,
                 "addr:housenumber": "209",
-                "addr:city": "Nieborów",
                 "addr:postcode": "99-416",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nieborów"
             },
             "geometry": {
                 "type": "Point",
@@ -233,9 +233,9 @@
                 "ref:csioz": 1021993,
                 "name": "Słoneczna",
                 "addr:housenumber": "101",
-                "addr:city": "Kocierzew Południowy",
                 "addr:postcode": "99-414",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kocierzew Południowy"
             },
             "geometry": {
                 "type": "Point",
@@ -308,9 +308,9 @@
                 "ref:csioz": 1210058,
                 "name": "Cito",
                 "addr:housenumber": "53A",
-                "addr:city": "Chąśno",
                 "addr:postcode": "99-413",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chąśno"
             },
             "geometry": {
                 "type": "Point",
@@ -344,9 +344,9 @@
             "properties": {
                 "ref:csioz": 1017016,
                 "addr:housenumber": "34",
-                "addr:city": "Zduny",
                 "addr:postcode": "99-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zduny"
             },
             "geometry": {
                 "type": "Point",
@@ -626,9 +626,9 @@
             "properties": {
                 "ref:csioz": 1010021,
                 "addr:housenumber": "1A",
-                "addr:city": "Zduny",
                 "addr:postcode": "99-440",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zduny"
             },
             "geometry": {
                 "type": "Point",

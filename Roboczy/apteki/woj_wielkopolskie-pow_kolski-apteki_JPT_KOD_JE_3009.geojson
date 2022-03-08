@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1049787,
                 "addr:housenumber": "21",
-                "addr:city": "CHEŁMNO NAD NEREM",
                 "addr:postcode": "62-660",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "CHEŁMNO NAD NEREM"
             },
             "geometry": {
                 "type": "Point",
@@ -119,9 +119,9 @@
             "properties": {
                 "ref:csioz": 1048922,
                 "addr:housenumber": "41",
-                "addr:city": "ADAMIN",
                 "addr:postcode": "62-661",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "ADAMIN"
             },
             "geometry": {
                 "type": "Point",
@@ -213,9 +213,9 @@
                 "ref:csioz": 1049674,
                 "name": "Twoje Leki",
                 "addr:housenumber": "45",
-                "addr:city": "WRZĄCA WIELKA",
                 "addr:postcode": "62-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "WRZĄCA WIELKA"
             },
             "geometry": {
                 "type": "Point",
@@ -325,9 +325,9 @@
             "properties": {
                 "ref:csioz": 1120195,
                 "addr:housenumber": "88",
-                "addr:city": "DĘBY SZLACHECKIE",
                 "addr:postcode": "62-613",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "DĘBY SZLACHECKIE"
             },
             "geometry": {
                 "type": "Point",

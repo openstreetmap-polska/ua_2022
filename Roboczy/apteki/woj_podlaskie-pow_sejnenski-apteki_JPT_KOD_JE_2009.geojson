@@ -120,9 +120,9 @@
                 "ref:csioz": 1230741,
                 "name": "Punkt Apteczny W Gibach",
                 "addr:housenumber": "7",
-                "addr:city": "Dziemianówka",
                 "addr:postcode": "16-506",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dziemianówka"
             },
             "geometry": {
                 "type": "Point",

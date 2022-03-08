@@ -83,9 +83,9 @@
             "properties": {
                 "ref:csioz": 1075575,
                 "addr:housenumber": "292",
-                "addr:city": "Morawica",
                 "addr:postcode": "32-084",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Morawica"
             },
             "geometry": {
                 "type": "Point",
@@ -215,9 +215,9 @@
                 "ref:csioz": 1036486,
                 "name": "Hygieia",
                 "addr:housenumber": "425",
-                "addr:city": "Nowa Góra",
                 "addr:postcode": "32-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowa Góra"
             },
             "geometry": {
                 "type": "Point",
@@ -251,9 +251,9 @@
             "properties": {
                 "ref:csioz": 1075847,
                 "addr:housenumber": "116",
-                "addr:city": "Przeginia",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Przeginia"
             },
             "geometry": {
                 "type": "Point",
@@ -287,9 +287,9 @@
             "properties": {
                 "ref:csioz": 1114627,
                 "addr:housenumber": "168",
-                "addr:city": "Racławice",
                 "addr:postcode": "32-222",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Racławice"
             },
             "geometry": {
                 "type": "Point",
@@ -322,9 +322,9 @@
             "properties": {
                 "ref:csioz": 1194861,
                 "addr:housenumber": "52",
-                "addr:city": "Racławice",
                 "addr:postcode": "32-049",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Racławice"
             },
             "geometry": {
                 "type": "Point",
@@ -395,9 +395,9 @@
             "properties": {
                 "ref:csioz": 1035458,
                 "addr:housenumber": "275",
-                "addr:city": "Jaśkowice",
                 "addr:postcode": "32-051",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jaśkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -468,9 +468,9 @@
             "properties": {
                 "ref:csioz": 1176338,
                 "addr:housenumber": "102",
-                "addr:city": "Wielkie Drogi",
                 "addr:postcode": "32-051",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wielkie Drogi"
             },
             "geometry": {
                 "type": "Point",
@@ -485,9 +485,9 @@
             "properties": {
                 "ref:csioz": 1204191,
                 "addr:housenumber": "384",
-                "addr:city": "Kamień",
                 "addr:postcode": "32-071",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kamień"
             },
             "geometry": {
                 "type": "Point",
@@ -502,9 +502,9 @@
             "properties": {
                 "ref:csioz": 1223823,
                 "addr:housenumber": "259",
-                "addr:city": "Zelczyna",
                 "addr:postcode": "32-051",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zelczyna"
             },
             "geometry": {
                 "type": "Point",
@@ -538,9 +538,9 @@
             "properties": {
                 "ref:csioz": 1038322,
                 "addr:housenumber": "88",
-                "addr:city": "Luborzyca",
                 "addr:postcode": "32-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Luborzyca"
             },
             "geometry": {
                 "type": "Point",
@@ -574,9 +574,9 @@
             "properties": {
                 "ref:csioz": 1077409,
                 "addr:housenumber": "16",
-                "addr:city": "Igołomia",
                 "addr:postcode": "32-126",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Igołomia"
             },
             "geometry": {
                 "type": "Point",
@@ -592,9 +592,9 @@
                 "ref:csioz": 1230331,
                 "name": "Apteka Vita",
                 "addr:housenumber": "18",
-                "addr:city": "Wola Radziszowska",
                 "addr:postcode": "32-053",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wola Radziszowska"
             },
             "geometry": {
                 "type": "Point",
@@ -648,9 +648,9 @@
                 "ref:csioz": 1076759,
                 "name": "Apteka Kryspinów",
                 "addr:housenumber": "97",
-                "addr:city": "Kryspinów",
                 "addr:postcode": "32-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kryspinów"
             },
             "geometry": {
                 "type": "Point",
@@ -704,9 +704,9 @@
                 "ref:csioz": 1042150,
                 "name": "Twoja Apteka",
                 "addr:housenumber": "469",
-                "addr:city": "Liszki",
                 "addr:postcode": "32-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Liszki"
             },
             "geometry": {
                 "type": "Point",
@@ -893,9 +893,9 @@
                 "ref:csioz": 1209998,
                 "name": "Apteka Zdrowie",
                 "addr:housenumber": "463",
-                "addr:city": "Kryspinów",
                 "addr:postcode": "32-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kryspinów"
             },
             "geometry": {
                 "type": "Point",
@@ -911,9 +911,9 @@
                 "ref:csioz": 1220845,
                 "name": "Twoja Apteka",
                 "addr:housenumber": "207",
-                "addr:city": "Liszki",
                 "addr:postcode": "32-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Liszki"
             },
             "geometry": {
                 "type": "Point",
@@ -985,9 +985,9 @@
                 "ref:csioz": 1075253,
                 "name": "Apteka Bliska Tobie",
                 "addr:housenumber": "10B",
-                "addr:city": "Wawrzeńczyce",
                 "addr:postcode": "32-125",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wawrzeńczyce"
             },
             "geometry": {
                 "type": "Point",
@@ -1207,9 +1207,9 @@
                 "ref:csioz": 1042246,
                 "name": "Apteka Monika Prus - Niewiadomska I Wspólnik Sp. J.",
                 "addr:housenumber": "99",
-                "addr:city": "Iwanowice Włościańskie",
                 "addr:postcode": "32-095",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Iwanowice Włościańskie"
             },
             "geometry": {
                 "type": "Point",
@@ -1225,9 +1225,9 @@
                 "ref:csioz": 1195205,
                 "name": "Twoja Apteka",
                 "addr:housenumber": "68B",
-                "addr:city": "Iwanowice Dworskie",
                 "addr:postcode": "32-095",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Iwanowice Dworskie"
             },
             "geometry": {
                 "type": "Point",

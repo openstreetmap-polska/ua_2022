@@ -273,9 +273,9 @@
                 "ref:csioz": 1230772,
                 "name": "Punkt Apteczny Urszula Stasiewicz",
                 "addr:housenumber": "69A",
-                "addr:city": "Czyże",
                 "addr:postcode": "17-207",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czyże"
             },
             "geometry": {
                 "type": "Point",

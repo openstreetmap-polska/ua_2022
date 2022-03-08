@@ -385,9 +385,9 @@
                 "ref:csioz": 1044035,
                 "name": "Arnika",
                 "addr:housenumber": "55",
-                "addr:city": "Żelice",
                 "addr:postcode": "62-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Żelice"
             },
             "geometry": {
                 "type": "Point",

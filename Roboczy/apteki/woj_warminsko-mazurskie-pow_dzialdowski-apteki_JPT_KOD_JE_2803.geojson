@@ -26,9 +26,9 @@
             "properties": {
                 "ref:csioz": 1016619,
                 "addr:housenumber": "68",
-                "addr:city": "Ruszkowo",
                 "addr:postcode": "13-214",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ruszkowo"
             },
             "geometry": {
                 "type": "Point",
@@ -378,9 +378,9 @@
                 "ref:csioz": 1176002,
                 "name": "Lubczyk",
                 "addr:housenumber": "92",
-                "addr:city": "Niechłonin",
                 "addr:postcode": "13-206",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niechłonin"
             },
             "geometry": {
                 "type": "Point",
@@ -452,9 +452,9 @@
             "properties": {
                 "ref:csioz": 1229636,
                 "addr:housenumber": "124",
-                "addr:city": "Kisiny",
                 "addr:postcode": "13-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kisiny"
             },
             "geometry": {
                 "type": "Point",

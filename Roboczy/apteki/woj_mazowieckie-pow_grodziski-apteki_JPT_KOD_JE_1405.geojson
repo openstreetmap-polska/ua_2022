@@ -253,9 +253,9 @@
                 "ref:csioz": 1114728,
                 "name": "Farmacja 24",
                 "addr:housenumber": "50",
-                "addr:city": "Gole",
                 "addr:postcode": "96-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gole"
             },
             "geometry": {
                 "type": "Point",

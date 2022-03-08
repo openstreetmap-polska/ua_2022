@@ -156,9 +156,9 @@
                 "ref:csioz": 1003846,
                 "name": "Dobre Apteki",
                 "addr:housenumber": "1",
-                "addr:city": "Wodzisław",
                 "addr:postcode": "28-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wodzisław"
             },
             "geometry": {
                 "type": "Point",
@@ -192,9 +192,9 @@
                 "ref:csioz": 1004952,
                 "name": "Nova-Sędziszów",
                 "addr:housenumber": "102",
-                "addr:city": "Słupia",
                 "addr:postcode": "28-350",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Słupia"
             },
             "geometry": {
                 "type": "Point",
@@ -304,9 +304,9 @@
             "properties": {
                 "ref:csioz": 1002789,
                 "addr:housenumber": "37A",
-                "addr:city": "Raków",
                 "addr:postcode": "28-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Raków"
             },
             "geometry": {
                 "type": "Point",
@@ -435,9 +435,9 @@
             "properties": {
                 "ref:csioz": 1207261,
                 "addr:housenumber": "3",
-                "addr:city": "Osowa",
                 "addr:postcode": "28-305",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Osowa"
             },
             "geometry": {
                 "type": "Point",
@@ -491,9 +491,9 @@
                 "ref:csioz": 1004696,
                 "name": "Lubcza",
                 "addr:housenumber": "107",
-                "addr:city": "Lubcza",
                 "addr:postcode": "28-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lubcza"
             },
             "geometry": {
                 "type": "Point",

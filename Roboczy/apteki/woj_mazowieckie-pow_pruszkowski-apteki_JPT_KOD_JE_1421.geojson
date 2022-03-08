@@ -141,9 +141,9 @@
             "properties": {
                 "ref:csioz": 1004384,
                 "addr:housenumber": "27",
-                "addr:city": "Stara Wieś",
                 "addr:postcode": "26-010",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stara Wieś"
             },
             "geometry": {
                 "type": "Point",

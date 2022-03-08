@@ -102,9 +102,9 @@
                 "ref:csioz": 1215199,
                 "name": "Pod Dębami",
                 "addr:housenumber": "84A",
-                "addr:city": "Haczów",
                 "addr:postcode": "36-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Haczów"
             },
             "geometry": {
                 "type": "Point",
@@ -195,9 +195,9 @@
                 "ref:csioz": 1140654,
                 "name": "Pod Dębami",
                 "addr:housenumber": "95",
-                "addr:city": "Haczów",
                 "addr:postcode": "36-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Haczów"
             },
             "geometry": {
                 "type": "Point",
@@ -212,9 +212,9 @@
             "properties": {
                 "ref:csioz": 1140679,
                 "addr:housenumber": "471",
-                "addr:city": "Blizne",
                 "addr:postcode": "36-221",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Blizne"
             },
             "geometry": {
                 "type": "Point",
@@ -230,9 +230,9 @@
                 "ref:csioz": 1140709,
                 "name": "Remedium",
                 "addr:housenumber": "53",
-                "addr:city": "Humniska",
                 "addr:postcode": "36-206",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Humniska"
             },
             "geometry": {
                 "type": "Point",
@@ -248,9 +248,9 @@
                 "ref:csioz": 1140751,
                 "name": "Danfarm",
                 "addr:housenumber": "143A",
-                "addr:city": "Niebocko",
                 "addr:postcode": "36-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niebocko"
             },
             "geometry": {
                 "type": "Point",
@@ -284,9 +284,9 @@
                 "ref:csioz": 1175563,
                 "name": "Danfarm Apteka Dydnia",
                 "addr:housenumber": "312",
-                "addr:city": "Dydnia",
                 "addr:postcode": "36-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dydnia"
             },
             "geometry": {
                 "type": "Point",
@@ -302,9 +302,9 @@
                 "ref:csioz": 1182341,
                 "name": "Apteka Omega",
                 "addr:housenumber": "216",
-                "addr:city": "Jasienica Rosielna",
                 "addr:postcode": "36-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jasienica Rosielna"
             },
             "geometry": {
                 "type": "Point",
@@ -320,9 +320,9 @@
                 "ref:csioz": 1205662,
                 "name": "Danfarm Punkt Apteczny",
                 "addr:housenumber": "379",
-                "addr:city": "Izdebki",
                 "addr:postcode": "36-203",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Izdebki"
             },
             "geometry": {
                 "type": "Point",
@@ -357,9 +357,9 @@
                 "ref:csioz": 1217958,
                 "name": "\"Apteka 'Omega'\"",
                 "addr:housenumber": "676",
-                "addr:city": "Przysietnica",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Przysietnica"
             },
             "geometry": {
                 "type": "Point",
@@ -375,9 +375,9 @@
                 "ref:csioz": 1229417,
                 "name": "Danfarm Punkt Apteczny Stara Wieś",
                 "addr:housenumber": "621A",
-                "addr:city": "Stara Wieś",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stara Wieś"
             },
             "geometry": {
                 "type": "Point",
@@ -393,9 +393,9 @@
                 "ref:csioz": 1140633,
                 "name": "Arjed",
                 "addr:housenumber": "323",
-                "addr:city": "Domaradz",
                 "addr:postcode": "36-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Domaradz"
             },
             "geometry": {
                 "type": "Point",
@@ -411,9 +411,9 @@
                 "ref:csioz": 1202160,
                 "name": "Arjed",
                 "addr:housenumber": "71",
-                "addr:city": "Golcowa",
                 "addr:postcode": "36-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Golcowa"
             },
             "geometry": {
                 "type": "Point",
@@ -428,9 +428,9 @@
             "properties": {
                 "ref:csioz": 1140767,
                 "addr:housenumber": "230",
-                "addr:city": "Nozdrzec",
                 "addr:postcode": "38-245",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nozdrzec"
             },
             "geometry": {
                 "type": "Point",
@@ -445,9 +445,9 @@
             "properties": {
                 "ref:csioz": 1140780,
                 "addr:housenumber": "432A",
-                "addr:city": "Wesoła",
                 "addr:postcode": "36-233",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wesoła"
             },
             "geometry": {
                 "type": "Point",
@@ -463,9 +463,9 @@
                 "ref:csioz": 1151249,
                 "name": "Danfarm",
                 "addr:housenumber": "275",
-                "addr:city": "Grabownica Starzeńska",
                 "addr:postcode": "36-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Grabownica Starzeńska"
             },
             "geometry": {
                 "type": "Point",
@@ -480,9 +480,9 @@
             "properties": {
                 "ref:csioz": 1140698,
                 "addr:housenumber": "396",
-                "addr:city": "Grabownica Starzeńska",
                 "addr:postcode": "36-207",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Grabownica Starzeńska"
             },
             "geometry": {
                 "type": "Point",
@@ -498,9 +498,9 @@
                 "ref:csioz": 1140738,
                 "name": "Danfarm",
                 "addr:housenumber": "282A",
-                "addr:city": "Jasionów",
                 "addr:postcode": "36-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jasionów"
             },
             "geometry": {
                 "type": "Point",
@@ -515,9 +515,9 @@
             "properties": {
                 "ref:csioz": 1140795,
                 "addr:housenumber": "87a",
-                "addr:city": "Trześniów",
                 "addr:postcode": "36-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trześniów"
             },
             "geometry": {
                 "type": "Point",

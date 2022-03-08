@@ -159,9 +159,9 @@
             "properties": {
                 "ref:csioz": 1105168,
                 "addr:housenumber": "112",
-                "addr:city": "Stolno",
                 "addr:postcode": "86-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stolno"
             },
             "geometry": {
                 "type": "Point",

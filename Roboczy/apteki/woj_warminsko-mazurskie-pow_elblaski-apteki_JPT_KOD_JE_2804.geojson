@@ -28,9 +28,9 @@
                 "name": "Verbena",
                 "addr:housenumber": "70",
                 "addr:flats": "1",
-                "addr:city": "MARKUSY",
                 "addr:postcode": "82-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "MARKUSY"
             },
             "geometry": {
                 "type": "Point",
@@ -45,9 +45,9 @@
             "properties": {
                 "ref:csioz": 1014354,
                 "addr:housenumber": "62",
-                "addr:city": "Godkowo",
                 "addr:postcode": "14-407",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Godkowo"
             },
             "geometry": {
                 "type": "Point",
@@ -249,9 +249,9 @@
             "properties": {
                 "ref:csioz": 1205950,
                 "addr:housenumber": "119B",
-                "addr:city": "Rychliki",
                 "addr:postcode": "14-411",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rychliki"
             },
             "geometry": {
                 "type": "Point",

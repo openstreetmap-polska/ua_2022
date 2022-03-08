@@ -8,9 +8,9 @@
                 "ref:csioz": 1003867,
                 "name": "Apteka Dla Ciebie",
                 "addr:housenumber": "85A",
-                "addr:city": "Baćkowice",
                 "addr:postcode": "27-552",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Baćkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -139,9 +139,9 @@
                 "ref:csioz": 1004812,
                 "name": "Punkt Apteczny Medyk",
                 "addr:housenumber": "255",
-                "addr:city": "Włostów",
                 "addr:postcode": "27-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Włostów"
             },
             "geometry": {
                 "type": "Point",
@@ -156,9 +156,9 @@
             "properties": {
                 "ref:csioz": 1004873,
                 "addr:housenumber": "2",
-                "addr:city": "Wólka Lipowa",
                 "addr:postcode": "27-515",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wólka Lipowa"
             },
             "geometry": {
                 "type": "Point",

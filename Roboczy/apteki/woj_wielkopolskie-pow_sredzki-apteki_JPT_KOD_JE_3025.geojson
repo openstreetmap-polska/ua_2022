@@ -27,9 +27,9 @@
                 "ref:csioz": 1044056,
                 "name": "Prymulka",
                 "addr:housenumber": "8",
-                "addr:city": "Chocicza",
                 "addr:postcode": "63-041",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chocicza"
             },
             "geometry": {
                 "type": "Point",

@@ -82,9 +82,9 @@
             "properties": {
                 "ref:csioz": 1140534,
                 "addr:housenumber": "75",
-                "addr:city": "Czarna Górna",
                 "addr:postcode": "38-710",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czarna Górna"
             },
             "geometry": {
                 "type": "Point",
@@ -101,9 +101,9 @@
                 "name": "Remedium",
                 "addr:housenumber": "83",
                 "addr:flats": "2",
-                "addr:city": "Lutowiska",
                 "addr:postcode": "38-713",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lutowiska"
             },
             "geometry": {
                 "type": "Point",

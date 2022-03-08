@@ -383,9 +383,9 @@
             "properties": {
                 "ref:csioz": 1225146,
                 "addr:housenumber": "8",
-                "addr:city": "Poręba Średnia",
                 "addr:postcode": "07-308",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Poręba Średnia"
             },
             "geometry": {
                 "type": "Point",
@@ -401,9 +401,9 @@
                 "ref:csioz": 1230755,
                 "name": "Antidotum",
                 "addr:housenumber": "14",
-                "addr:city": "Wola Mystkowska",
                 "addr:postcode": "07-206",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wola Mystkowska"
             },
             "geometry": {
                 "type": "Point",
@@ -418,9 +418,9 @@
             "properties": {
                 "ref:csioz": 1091222,
                 "addr:housenumber": "25B",
-                "addr:city": "Somianka-Parcele",
                 "addr:postcode": "07-203",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Somianka-Parcele"
             },
             "geometry": {
                 "type": "Point",

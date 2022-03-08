@@ -198,9 +198,9 @@
                 "ref:csioz": 1222995,
                 "name": "Pod Eskulapem",
                 "addr:housenumber": "49",
-                "addr:city": "Krzelów",
                 "addr:postcode": "56-160",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krzelów"
             },
             "geometry": {
                 "type": "Point",

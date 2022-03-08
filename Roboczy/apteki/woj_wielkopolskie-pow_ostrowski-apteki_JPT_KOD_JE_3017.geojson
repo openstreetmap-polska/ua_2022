@@ -44,9 +44,9 @@
                 "ref:csioz": 1178642,
                 "name": "Doz Punkt Apteczny. Dbam O Zdrowie W Parczewie",
                 "addr:housenumber": "113",
-                "addr:city": "Parczew",
                 "addr:postcode": "63-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Parczew"
             },
             "geometry": {
                 "type": "Point",
@@ -157,9 +157,9 @@
                 "ref:csioz": 1053669,
                 "name": "Arnika",
                 "addr:housenumber": "25A",
-                "addr:city": "CZARNYLAS",
                 "addr:postcode": "63-421",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "CZARNYLAS"
             },
             "geometry": {
                 "type": "Point",
@@ -363,9 +363,9 @@
             "properties": {
                 "ref:csioz": 1053511,
                 "addr:housenumber": "127",
-                "addr:city": "Daniszyn",
                 "addr:postcode": "63-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Daniszyn"
             },
             "geometry": {
                 "type": "Point",
@@ -835,9 +835,9 @@
                 "ref:csioz": 1191411,
                 "name": "Orchidea",
                 "addr:housenumber": "155",
-                "addr:city": "Lamki",
                 "addr:postcode": "63-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lamki"
             },
             "geometry": {
                 "type": "Point",

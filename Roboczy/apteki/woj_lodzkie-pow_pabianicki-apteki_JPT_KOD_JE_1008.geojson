@@ -578,9 +578,9 @@
                 "ref:csioz": 1025798,
                 "name": "Medilek",
                 "addr:housenumber": "21",
-                "addr:city": "Petrykozy",
                 "addr:postcode": "95-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Petrykozy"
             },
             "geometry": {
                 "type": "Point",
@@ -595,9 +595,9 @@
             "properties": {
                 "ref:csioz": 1119783,
                 "addr:housenumber": "7",
-                "addr:city": "Pawlikowice",
                 "addr:postcode": "95-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pawlikowice"
             },
             "geometry": {
                 "type": "Point",

@@ -26,9 +26,9 @@
                 "ref:csioz": 1078450,
                 "name": "\"'Malwa'\"",
                 "addr:housenumber": "124",
-                "addr:city": "Łysa Góra",
                 "addr:postcode": "32-583",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łysa Góra"
             },
             "geometry": {
                 "type": "Point",
@@ -44,9 +44,9 @@
                 "ref:csioz": 1078416,
                 "name": "\"Apteka Prywatna \"\"Pod Dębem\"\"\"",
                 "addr:housenumber": "600",
-                "addr:city": "Gnojnik",
                 "addr:postcode": "32-864",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gnojnik"
             },
             "geometry": {
                 "type": "Point",
@@ -138,9 +138,9 @@
                 "ref:csioz": 1190720,
                 "name": "Punkt Apteczny Bliski",
                 "addr:housenumber": "311",
-                "addr:city": "Porąbka Uszewska",
                 "addr:postcode": "32-854",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Porąbka Uszewska"
             },
             "geometry": {
                 "type": "Point",
@@ -156,9 +156,9 @@
                 "ref:csioz": 1192248,
                 "name": "Apteka Bliska",
                 "addr:housenumber": "380",
-                "addr:city": "Dębno",
                 "addr:postcode": "32-852",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dębno"
             },
             "geometry": {
                 "type": "Point",
@@ -288,9 +288,9 @@
                 "ref:csioz": 1117526,
                 "name": "Zdrowe Ceny",
                 "addr:housenumber": "87B",
-                "addr:city": "Borzęcin",
                 "addr:postcode": "32-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Borzęcin"
             },
             "geometry": {
                 "type": "Point",
@@ -306,9 +306,9 @@
                 "ref:csioz": 1118223,
                 "name": "Apteka Bliska I Tania",
                 "addr:housenumber": "563B",
-                "addr:city": "Borzęcin",
                 "addr:postcode": "32-825",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Borzęcin"
             },
             "geometry": {
                 "type": "Point",
@@ -324,9 +324,9 @@
                 "ref:csioz": 1179213,
                 "name": "Punkt Apteczny Bliski",
                 "addr:housenumber": "460",
-                "addr:city": "Uszew",
                 "addr:postcode": "32-865",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Uszew"
             },
             "geometry": {
                 "type": "Point",
@@ -438,9 +438,9 @@
             "properties": {
                 "ref:csioz": 1217019,
                 "addr:housenumber": "172",
-                "addr:city": "Wola Dębińska",
                 "addr:postcode": "32-852",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wola Dębińska"
             },
             "geometry": {
                 "type": "Point",
@@ -476,9 +476,9 @@
                 "name": "Punkt Apteczny Bliski",
                 "addr:housenumber": "90",
                 "addr:flats": "1",
-                "addr:city": "Zaborów",
                 "addr:postcode": "32-821",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zaborów"
             },
             "geometry": {
                 "type": "Point",
@@ -532,9 +532,9 @@
                 "ref:csioz": 1229737,
                 "name": "Apteka Rumianek",
                 "addr:housenumber": "527",
-                "addr:city": "Gnojnik",
                 "addr:postcode": "32-864",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gnojnik"
             },
             "geometry": {
                 "type": "Point",
@@ -569,9 +569,9 @@
                 "ref:csioz": 1078442,
                 "name": "\"Apteka \"\"Rumianek\"\"\"",
                 "addr:housenumber": "109",
-                "addr:city": "Porąbka Iwkowska",
                 "addr:postcode": "32-862",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Porąbka Iwkowska"
             },
             "geometry": {
                 "type": "Point",
@@ -626,9 +626,9 @@
                 "ref:csioz": 1198687,
                 "name": "Apteka Rumianek",
                 "addr:housenumber": "829",
-                "addr:city": "Iwkowa",
                 "addr:postcode": "32-861",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Iwkowa"
             },
             "geometry": {
                 "type": "Point",
@@ -645,9 +645,9 @@
                 "name": "Apteka Św. Justa",
                 "addr:housenumber": "379",
                 "addr:flats": "1",
-                "addr:city": "Jurków",
                 "addr:postcode": "32-860",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jurków"
             },
             "geometry": {
                 "type": "Point",

@@ -234,9 +234,9 @@
             "properties": {
                 "ref:csioz": 1091829,
                 "addr:housenumber": "43",
-                "addr:city": "Ościsłowo",
                 "addr:postcode": "06-452",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ościsłowo"
             },
             "geometry": {
                 "type": "Point",
@@ -458,9 +458,9 @@
                 "ref:csioz": 1116659,
                 "name": "Przyjazna - Przyjazne Ceny",
                 "addr:housenumber": "65",
-                "addr:city": "Władysławowo",
                 "addr:postcode": "06-406",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Władysławowo"
             },
             "geometry": {
                 "type": "Point",
@@ -513,9 +513,9 @@
             "properties": {
                 "ref:csioz": 1092063,
                 "addr:housenumber": "36A",
-                "addr:city": "Soboklęszcz",
                 "addr:postcode": "06-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Soboklęszcz"
             },
             "geometry": {
                 "type": "Point",

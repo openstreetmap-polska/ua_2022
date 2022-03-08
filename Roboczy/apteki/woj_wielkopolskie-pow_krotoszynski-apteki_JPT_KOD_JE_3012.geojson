@@ -465,9 +465,9 @@
                 "ref:csioz": 1052298,
                 "name": "Esculap",
                 "addr:housenumber": "17",
-                "addr:city": "Koźmin Wielkopolski",
                 "addr:postcode": "63-720",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Koźmin Wielkopolski"
             },
             "geometry": {
                 "type": "Point",

@@ -45,9 +45,9 @@
             "properties": {
                 "ref:csioz": 1135381,
                 "addr:housenumber": "70",
-                "addr:city": "Rębiszów",
                 "addr:postcode": "58-537",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rębiszów"
             },
             "geometry": {
                 "type": "Point",
@@ -82,9 +82,9 @@
                 "ref:csioz": 1137457,
                 "name": "\"Dział Farmacji Szpitalnej \"\"Pj-Med\"\" Szpital Rehabilitacyjny\"\"\"",
                 "addr:housenumber": "1",
-                "addr:city": "Popielówek",
                 "addr:postcode": "59-623",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Popielówek"
             },
             "geometry": {
                 "type": "Point",

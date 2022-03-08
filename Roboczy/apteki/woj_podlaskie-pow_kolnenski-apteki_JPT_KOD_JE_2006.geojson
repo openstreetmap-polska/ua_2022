@@ -26,9 +26,9 @@
                 "ref:csioz": 1016510,
                 "addr:housenumber": "38",
                 "addr:flats": "2",
-                "addr:city": "KOLNO",
                 "addr:postcode": "11-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "KOLNO"
             },
             "geometry": {
                 "type": "Point",
@@ -211,9 +211,9 @@
             "properties": {
                 "ref:csioz": 1180474,
                 "addr:housenumber": "11",
-                "addr:city": "Lachowo",
                 "addr:postcode": "18-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lachowo"
             },
             "geometry": {
                 "type": "Point",

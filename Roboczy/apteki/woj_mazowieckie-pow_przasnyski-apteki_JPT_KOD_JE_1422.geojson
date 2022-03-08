@@ -101,9 +101,9 @@
                 "ref:csioz": 1091759,
                 "name": "Mgr Farm. Anna Andrzejewska",
                 "addr:housenumber": "41A",
-                "addr:city": "Żelazna Rządowa",
                 "addr:postcode": "06-323",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Żelazna Rządowa"
             },
             "geometry": {
                 "type": "Point",
@@ -345,9 +345,9 @@
                 "ref:csioz": 1230637,
                 "name": "\"Punkt Apteczny, Klewki 15\"",
                 "addr:housenumber": "15",
-                "addr:city": "Klewki",
                 "addr:postcode": "10-687",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Klewki"
             },
             "geometry": {
                 "type": "Point",

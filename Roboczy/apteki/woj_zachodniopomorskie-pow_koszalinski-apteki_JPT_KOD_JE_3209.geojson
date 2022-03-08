@@ -160,9 +160,9 @@
                 "ref:csioz": 1139839,
                 "name": "Aspirynka",
                 "addr:housenumber": "18",
-                "addr:city": "Będzino",
                 "addr:postcode": "76-037",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Będzino"
             },
             "geometry": {
                 "type": "Point",
@@ -253,9 +253,9 @@
             "properties": {
                 "ref:csioz": 1188205,
                 "addr:housenumber": "41",
-                "addr:city": "Biesiekierz",
                 "addr:postcode": "76-039",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Biesiekierz"
             },
             "geometry": {
                 "type": "Point",

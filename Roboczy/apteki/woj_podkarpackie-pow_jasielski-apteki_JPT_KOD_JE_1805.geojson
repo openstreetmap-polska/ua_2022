@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1230195,
                 "addr:housenumber": "1106A",
-                "addr:city": "Osobnica",
                 "addr:postcode": "33-241",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Osobnica"
             },
             "geometry": {
                 "type": "Point",
@@ -193,9 +193,9 @@
             "properties": {
                 "ref:csioz": 1141924,
                 "addr:housenumber": "397",
-                "addr:city": "Brzyska",
                 "addr:postcode": "38-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brzyska"
             },
             "geometry": {
                 "type": "Point",
@@ -230,9 +230,9 @@
                 "ref:csioz": 1201518,
                 "name": "Salus",
                 "addr:housenumber": "360",
-                "addr:city": "Harklowa",
                 "addr:postcode": "38-243",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Harklowa"
             },
             "geometry": {
                 "type": "Point",
@@ -436,9 +436,9 @@
             "properties": {
                 "ref:csioz": 1141935,
                 "addr:housenumber": "82",
-                "addr:city": "Dębowiec",
                 "addr:postcode": "38-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dębowiec"
             },
             "geometry": {
                 "type": "Point",
@@ -473,9 +473,9 @@
                 "ref:csioz": 1141943,
                 "name": "Apteka Pod Gwiazdą",
                 "addr:housenumber": "645",
-                "addr:city": "Dębowiec",
                 "addr:postcode": "38-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dębowiec"
             },
             "geometry": {
                 "type": "Point",
@@ -529,9 +529,9 @@
                 "ref:csioz": 1142017,
                 "name": "Remedium",
                 "addr:housenumber": "15",
-                "addr:city": "Skołyszyn",
                 "addr:postcode": "38-242",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Skołyszyn"
             },
             "geometry": {
                 "type": "Point",
@@ -661,9 +661,9 @@
                 "ref:csioz": 1230768,
                 "name": "Antidotum",
                 "addr:housenumber": "152",
-                "addr:city": "Sieklówka",
                 "addr:postcode": "38-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sieklówka"
             },
             "geometry": {
                 "type": "Point",
@@ -678,9 +678,9 @@
             "properties": {
                 "ref:csioz": 1142025,
                 "addr:housenumber": "256",
-                "addr:city": "Tarnowiec",
                 "addr:postcode": "38-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tarnowiec"
             },
             "geometry": {
                 "type": "Point",
@@ -695,9 +695,9 @@
             "properties": {
                 "ref:csioz": 1142096,
                 "addr:housenumber": "1",
-                "addr:city": "Święcany",
                 "addr:postcode": "38-242",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Święcany"
             },
             "geometry": {
                 "type": "Point",
@@ -749,9 +749,9 @@
             "properties": {
                 "ref:csioz": 1141997,
                 "addr:housenumber": "103",
-                "addr:city": "Osiek Jasielski",
                 "addr:postcode": "38-223",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Osiek Jasielski"
             },
             "geometry": {
                 "type": "Point",
@@ -767,9 +767,9 @@
                 "ref:csioz": 1142049,
                 "name": "Fragaria",
                 "addr:housenumber": "32",
-                "addr:city": "Krempna",
                 "addr:postcode": "38-232",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krempna"
             },
             "geometry": {
                 "type": "Point",
@@ -804,9 +804,9 @@
                 "ref:csioz": 1165067,
                 "name": "W Nienaszowie",
                 "addr:housenumber": "45",
-                "addr:city": "Nienaszów",
                 "addr:postcode": "38-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nienaszów"
             },
             "geometry": {
                 "type": "Point",

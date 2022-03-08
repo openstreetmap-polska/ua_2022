@@ -312,9 +312,9 @@
             "properties": {
                 "ref:csioz": 1156182,
                 "addr:housenumber": "63",
-                "addr:city": "Sosnówka",
                 "addr:postcode": "21-518",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sosnówka"
             },
             "geometry": {
                 "type": "Point",

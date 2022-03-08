@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1075698,
                 "addr:housenumber": "551",
-                "addr:city": "Lipnica Wielka",
                 "addr:postcode": "34-483",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipnica Wielka"
             },
             "geometry": {
                 "type": "Point",
@@ -44,9 +44,9 @@
                 "ref:csioz": 1077543,
                 "name": "\"Apteka \"\"Maria\"\"\"",
                 "addr:housenumber": "499",
-                "addr:city": "Zubrzyca Górna",
                 "addr:postcode": "34-484",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zubrzyca Górna"
             },
             "geometry": {
                 "type": "Point",
@@ -62,9 +62,9 @@
                 "ref:csioz": 1209195,
                 "name": "Arnika",
                 "addr:housenumber": "301B",
-                "addr:city": "Lipnica Mała",
                 "addr:postcode": "34-482",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipnica Mała"
             },
             "geometry": {
                 "type": "Point",
@@ -137,9 +137,9 @@
                 "ref:csioz": 1036751,
                 "name": "Apteka Prywatna Jolanta Chyła",
                 "addr:housenumber": "639",
-                "addr:city": "Skawa",
                 "addr:postcode": "34-713",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Skawa"
             },
             "geometry": {
                 "type": "Point",
@@ -155,9 +155,9 @@
                 "ref:csioz": 1036361,
                 "name": "Punkt Apteczny Jolanta Chyła",
                 "addr:housenumber": "26",
-                "addr:city": "Spytkowice",
                 "addr:postcode": "34-745",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Spytkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -211,9 +211,9 @@
                 "ref:csioz": 1038559,
                 "name": "Apteka Rodzinna",
                 "addr:housenumber": "40a",
-                "addr:city": "Klikuszowa",
                 "addr:postcode": "34-404",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Klikuszowa"
             },
             "geometry": {
                 "type": "Point",
@@ -471,9 +471,9 @@
                 "ref:csioz": 1172679,
                 "name": "Punkt Apteczny Adrian Chyła",
                 "addr:housenumber": "2",
-                "addr:city": "Sieniawa",
                 "addr:postcode": "34-723",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sieniawa"
             },
             "geometry": {
                 "type": "Point",
@@ -545,9 +545,9 @@
             "properties": {
                 "ref:csioz": 1194798,
                 "addr:housenumber": "140A",
-                "addr:city": "Pieniążkowice",
                 "addr:postcode": "34-408",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pieniążkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -563,9 +563,9 @@
                 "ref:csioz": 1195497,
                 "name": "Apteka Rodzinna",
                 "addr:housenumber": "719",
-                "addr:city": "Spytkowice",
                 "addr:postcode": "34-745",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Spytkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -581,9 +581,9 @@
                 "ref:csioz": 1208519,
                 "name": "Apteka Im. Jana Pawła Ii",
                 "addr:housenumber": "64",
-                "addr:city": "Raba Wyżna",
                 "addr:postcode": "34-721",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Raba Wyżna"
             },
             "geometry": {
                 "type": "Point",
@@ -784,9 +784,9 @@
                 "ref:csioz": 1120600,
                 "name": "Zakład Opiekuńczo Leczniczy Im. Św. Siostry Faustyny Kowalskiej",
                 "addr:housenumber": "435a",
-                "addr:city": "Raba Wyżna",
                 "addr:postcode": "34-721",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Raba Wyżna"
             },
             "geometry": {
                 "type": "Point",
@@ -802,9 +802,9 @@
                 "ref:csioz": 1123143,
                 "name": "Apteka Rodzinna",
                 "addr:housenumber": "38 a",
-                "addr:city": "Raba Wyżna",
                 "addr:postcode": "32-721",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Raba Wyżna"
             },
             "geometry": {
                 "type": "Point",
@@ -934,9 +934,9 @@
                 "ref:csioz": 1183891,
                 "name": "Apteka Rodzinna",
                 "addr:housenumber": "16A",
-                "addr:city": "Ciche",
                 "addr:postcode": "34-407",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ciche"
             },
             "geometry": {
                 "type": "Point",
@@ -987,9 +987,9 @@
             "properties": {
                 "ref:csioz": 1196237,
                 "addr:housenumber": "127",
-                "addr:city": "Piekielnik",
                 "addr:postcode": "34-472",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Piekielnik"
             },
             "geometry": {
                 "type": "Point",
@@ -1004,9 +1004,9 @@
             "properties": {
                 "ref:csioz": 1193602,
                 "addr:housenumber": "303",
-                "addr:city": "Podwilk",
                 "addr:postcode": "34-422",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Podwilk"
             },
             "geometry": {
                 "type": "Point",
@@ -1173,9 +1173,9 @@
             "properties": {
                 "ref:csioz": 1213433,
                 "addr:housenumber": "557a",
-                "addr:city": "Raba Wyżna",
                 "addr:postcode": "34-721",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Raba Wyżna"
             },
             "geometry": {
                 "type": "Point",
@@ -1305,9 +1305,9 @@
                 "ref:csioz": 1074830,
                 "name": "\"Apteka \"\"Pod Różą\"\"\"",
                 "addr:housenumber": "180",
-                "addr:city": "Ochotnica Dolna",
                 "addr:postcode": "34-452",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ochotnica Dolna"
             },
             "geometry": {
                 "type": "Point",

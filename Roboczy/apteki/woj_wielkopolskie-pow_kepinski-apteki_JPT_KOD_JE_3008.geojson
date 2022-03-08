@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1053923,
                 "addr:housenumber": "90",
-                "addr:city": "PERZÓW",
                 "addr:postcode": "63-642",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "PERZÓW"
             },
             "geometry": {
                 "type": "Point",
@@ -137,9 +137,9 @@
             "properties": {
                 "ref:csioz": 1053909,
                 "addr:housenumber": "98",
-                "addr:city": "MYJOMICE",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "MYJOMICE"
             },
             "geometry": {
                 "type": "Point",
@@ -192,9 +192,9 @@
                 "ref:csioz": 1052316,
                 "name": "Aspirynka",
                 "addr:housenumber": "145",
-                "addr:city": "MROCZEŃ",
                 "addr:postcode": "63-611",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "MROCZEŃ"
             },
             "geometry": {
                 "type": "Point",
@@ -210,9 +210,9 @@
                 "ref:csioz": 1051987,
                 "name": "Św. Idziego",
                 "addr:housenumber": "55A",
-                "addr:city": "MIKORZYN",
                 "addr:postcode": "63-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "MIKORZYN"
             },
             "geometry": {
                 "type": "Point",

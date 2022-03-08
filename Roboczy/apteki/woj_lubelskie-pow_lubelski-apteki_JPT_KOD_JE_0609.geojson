@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1158804,
                 "addr:housenumber": "6",
-                "addr:city": "Wysokie",
                 "addr:postcode": "23-145",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wysokie"
             },
             "geometry": {
                 "type": "Point",
@@ -229,9 +229,9 @@
                 "ref:csioz": 1228996,
                 "name": "Punkt Apteczny Amber",
                 "addr:housenumber": "2A",
-                "addr:city": "Giełczew",
                 "addr:postcode": "23-145",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Giełczew"
             },
             "geometry": {
                 "type": "Point",
@@ -246,9 +246,9 @@
             "properties": {
                 "ref:csioz": 1106391,
                 "addr:housenumber": "42",
-                "addr:city": "Tomaszowice-Kolonia",
                 "addr:postcode": "21-008",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tomaszowice-Kolonia"
             },
             "geometry": {
                 "type": "Point",
@@ -300,9 +300,9 @@
             "properties": {
                 "ref:csioz": 1162695,
                 "addr:housenumber": "165",
-                "addr:city": "Mętów",
                 "addr:postcode": "20-388",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mętów"
             },
             "geometry": {
                 "type": "Point",
@@ -354,9 +354,9 @@
             "properties": {
                 "ref:csioz": 1163896,
                 "addr:housenumber": "80",
-                "addr:city": "Kozubszczyzna",
                 "addr:postcode": "21-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kozubszczyzna"
             },
             "geometry": {
                 "type": "Point",
@@ -372,9 +372,9 @@
                 "ref:csioz": 1194197,
                 "name": "Vital Centrum",
                 "addr:housenumber": "67 A",
-                "addr:city": "Kozubszczyzna",
                 "addr:postcode": "21-030",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kozubszczyzna"
             },
             "geometry": {
                 "type": "Point",
@@ -410,9 +410,9 @@
                 "ref:csioz": 1227566,
                 "name": "\"Apteka \"\"Piguła\"\"\"",
                 "addr:housenumber": "144D",
-                "addr:city": "Dąbrowica",
                 "addr:postcode": "21-008",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dąbrowica"
             },
             "geometry": {
                 "type": "Point",
@@ -446,9 +446,9 @@
                 "ref:csioz": 1124293,
                 "name": "Amber",
                 "addr:housenumber": "154B",
-                "addr:city": "Piotrowice",
                 "addr:postcode": "23-107",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Piotrowice"
             },
             "geometry": {
                 "type": "Point",
@@ -499,9 +499,9 @@
             "properties": {
                 "ref:csioz": 1161875,
                 "addr:housenumber": "16",
-                "addr:city": "Jabłonna-Majątek",
                 "addr:postcode": "23-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jabłonna-Majątek"
             },
             "geometry": {
                 "type": "Point",
@@ -536,9 +536,9 @@
                 "ref:csioz": 1163548,
                 "name": "Top-Farm",
                 "addr:housenumber": "17c",
-                "addr:city": "Wólka",
                 "addr:postcode": "20-258",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wólka"
             },
             "geometry": {
                 "type": "Point",
@@ -610,9 +610,9 @@
                 "ref:csioz": 1199855,
                 "name": "Apteka Rodzinna Beata Gęca",
                 "addr:housenumber": "6 C",
-                "addr:city": "Wólka",
                 "addr:postcode": "20-258",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wólka"
             },
             "geometry": {
                 "type": "Point",
@@ -646,9 +646,9 @@
             "properties": {
                 "ref:csioz": 1158345,
                 "addr:housenumber": "35C",
-                "addr:city": "Krężnica Okrągła",
                 "addr:postcode": "24-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krężnica Okrągła"
             },
             "geometry": {
                 "type": "Point",
@@ -664,9 +664,9 @@
                 "ref:csioz": 1162726,
                 "name": "Apteka Małgorzata Marzec-Kowalczyk",
                 "addr:housenumber": "229",
-                "addr:city": "Borzechów",
                 "addr:postcode": "24-224",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Borzechów"
             },
             "geometry": {
                 "type": "Point",
@@ -699,9 +699,9 @@
             "properties": {
                 "ref:csioz": 1163849,
                 "addr:housenumber": "34",
-                "addr:city": "Garbów",
                 "addr:postcode": "21-080",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Garbów"
             },
             "geometry": {
                 "type": "Point",
@@ -736,9 +736,9 @@
                 "ref:csioz": 1106287,
                 "name": "Punkt Apteczny Mgr Urszula Wójcik",
                 "addr:housenumber": "10",
-                "addr:city": "Palikije I",
                 "addr:postcode": "24-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Palikije I"
             },
             "geometry": {
                 "type": "Point",

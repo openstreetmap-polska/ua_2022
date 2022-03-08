@@ -138,9 +138,9 @@
                 "ref:csioz": 1039683,
                 "name": "Apteka Twój Partner Nowa Farmacja",
                 "addr:housenumber": "14",
-                "addr:city": "Pilnik",
                 "addr:postcode": "11-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pilnik"
             },
             "geometry": {
                 "type": "Point",

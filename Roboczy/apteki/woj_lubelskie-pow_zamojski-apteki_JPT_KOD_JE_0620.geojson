@@ -62,9 +62,9 @@
                 "ref:csioz": 1204945,
                 "name": "Punkt Apteczny Prima Mgr Farmacji Monika Oleszek",
                 "addr:housenumber": "82 a",
-                "addr:city": "Sitno",
                 "addr:postcode": "22-424",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sitno"
             },
             "geometry": {
                 "type": "Point",
@@ -97,9 +97,9 @@
             "properties": {
                 "ref:csioz": 1154612,
                 "addr:housenumber": "109",
-                "addr:city": "Miączyn",
                 "addr:postcode": "22-455",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Miączyn"
             },
             "geometry": {
                 "type": "Point",
@@ -188,9 +188,9 @@
                 "ref:csioz": 1106547,
                 "name": "\"Punkt Apteczny Katarzyna Koluch, Rafał Koluch S.C.\"",
                 "addr:housenumber": "19A",
-                "addr:city": "Tworyczów",
                 "addr:postcode": "22-448",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tworyczów"
             },
             "geometry": {
                 "type": "Point",
@@ -241,9 +241,9 @@
             "properties": {
                 "ref:csioz": 1154190,
                 "addr:housenumber": "197",
-                "addr:city": "Lipsko",
                 "addr:postcode": "22-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipsko"
             },
             "geometry": {
                 "type": "Point",
@@ -258,9 +258,9 @@
             "properties": {
                 "ref:csioz": 1154298,
                 "addr:housenumber": "152",
-                "addr:city": "Wysokie",
                 "addr:postcode": "22-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wysokie"
             },
             "geometry": {
                 "type": "Point",
@@ -275,9 +275,9 @@
             "properties": {
                 "ref:csioz": 1154458,
                 "addr:housenumber": "279",
-                "addr:city": "Nielisz",
                 "addr:postcode": "22-413",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nielisz"
             },
             "geometry": {
                 "type": "Point",
@@ -292,9 +292,9 @@
             "properties": {
                 "ref:csioz": 1154699,
                 "addr:housenumber": "237 a",
-                "addr:city": "Suchowola",
                 "addr:postcode": "22-443",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Suchowola"
             },
             "geometry": {
                 "type": "Point",
@@ -365,9 +365,9 @@
                 "ref:csioz": 1208842,
                 "name": "Punkt Apteczny Adonis Mgr Farm. Bogumił Siemczyk",
                 "addr:housenumber": "152",
-                "addr:city": "Wysokie",
                 "addr:postcode": "22-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wysokie"
             },
             "geometry": {
                 "type": "Point",
@@ -436,9 +436,9 @@
             "properties": {
                 "ref:csioz": 1153913,
                 "addr:housenumber": "272",
-                "addr:city": "Zawada",
                 "addr:postcode": "22-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zawada"
             },
             "geometry": {
                 "type": "Point",
@@ -472,9 +472,9 @@
             "properties": {
                 "ref:csioz": 1154474,
                 "addr:housenumber": "98 A",
-                "addr:city": "Gorajec Stara Wieś",
                 "addr:postcode": "22-463",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gorajec Stara Wieś"
             },
             "geometry": {
                 "type": "Point",
@@ -638,9 +638,9 @@
                 "ref:csioz": 1191433,
                 "name": "-",
                 "addr:housenumber": "106",
-                "addr:city": "Adamów",
                 "addr:postcode": "22-442",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Adamów"
             },
             "geometry": {
                 "type": "Point",
@@ -656,9 +656,9 @@
                 "ref:csioz": 1200963,
                 "name": "Apteka Lubelska",
                 "addr:housenumber": "20",
-                "addr:city": "Wierzba",
                 "addr:postcode": "22-417",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wierzba"
             },
             "geometry": {
                 "type": "Point",

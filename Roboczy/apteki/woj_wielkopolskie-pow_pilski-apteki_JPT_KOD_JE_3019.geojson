@@ -969,9 +969,9 @@
                 "ref:csioz": 1191618,
                 "name": "Punkt Apteczny W Jaraczewie",
                 "addr:housenumber": "2A",
-                "addr:city": "Jaraczewo",
                 "addr:postcode": "64-920",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jaraczewo"
             },
             "geometry": {
                 "type": "Point",

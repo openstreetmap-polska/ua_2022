@@ -295,9 +295,9 @@
                 "ref:csioz": 1230788,
                 "name": "Zdrowie I Uroda",
                 "addr:housenumber": "7",
-                "addr:city": "Nowy Dwór",
                 "addr:postcode": "88-231",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowy Dwór"
             },
             "geometry": {
                 "type": "Point",
@@ -617,9 +617,9 @@
                 "ref:csioz": 1214233,
                 "name": "Strumyk",
                 "addr:housenumber": "37A",
-                "addr:city": "Samborowo",
                 "addr:postcode": "14-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Samborowo"
             },
             "geometry": {
                 "type": "Point",
@@ -674,9 +674,9 @@
                 "ref:csioz": 1227130,
                 "addr:housenumber": "57",
                 "addr:flats": "14",
-                "addr:city": "Gierzwałd",
                 "addr:postcode": "14-107",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gierzwałd"
             },
             "geometry": {
                 "type": "Point",

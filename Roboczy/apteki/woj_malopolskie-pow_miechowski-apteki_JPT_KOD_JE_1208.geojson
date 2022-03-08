@@ -157,9 +157,9 @@
                 "ref:csioz": 1124241,
                 "name": "Twoja Apteka",
                 "addr:housenumber": "80D",
-                "addr:city": "Gołcza",
                 "addr:postcode": "32-075",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gołcza"
             },
             "geometry": {
                 "type": "Point",
@@ -249,9 +249,9 @@
             "properties": {
                 "ref:csioz": 1042332,
                 "addr:housenumber": "25",
-                "addr:city": "Dziaduszyce",
                 "addr:postcode": "32-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dziaduszyce"
             },
             "geometry": {
                 "type": "Point",
@@ -322,9 +322,9 @@
             "properties": {
                 "ref:csioz": 1196318,
                 "addr:housenumber": "63",
-                "addr:city": "Kozłów",
                 "addr:postcode": "32-241",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kozłów"
             },
             "geometry": {
                 "type": "Point",
@@ -340,9 +340,9 @@
                 "ref:csioz": 1206368,
                 "name": "Punkt Apteczny Mgr Alicja Boszkowska",
                 "addr:housenumber": "67",
-                "addr:city": "Kalina Wielka",
                 "addr:postcode": "32-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kalina Wielka"
             },
             "geometry": {
                 "type": "Point",
@@ -376,9 +376,9 @@
             "properties": {
                 "ref:csioz": 1218509,
                 "addr:housenumber": "112",
-                "addr:city": "Szreniawa",
                 "addr:postcode": "32-075",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szreniawa"
             },
             "geometry": {
                 "type": "Point",
@@ -413,9 +413,9 @@
                 "ref:csioz": 1196409,
                 "name": "\"Punkt Apteczny \"\"Pod Kłosem\"\"\"",
                 "addr:housenumber": "12",
-                "addr:city": "Książ Mały",
                 "addr:postcode": "32-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Książ Mały"
             },
             "geometry": {
                 "type": "Point",

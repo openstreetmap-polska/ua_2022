@@ -82,9 +82,9 @@
             "properties": {
                 "ref:csioz": 1209954,
                 "addr:housenumber": "387",
-                "addr:city": "Wierzawice",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wierzawice"
             },
             "geometry": {
                 "type": "Point",
@@ -136,9 +136,9 @@
             "properties": {
                 "ref:csioz": 1145230,
                 "addr:housenumber": "530A",
-                "addr:city": "Kuryłówka",
                 "addr:postcode": "37-303",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kuryłówka"
             },
             "geometry": {
                 "type": "Point",
@@ -268,9 +268,9 @@
                 "ref:csioz": 1166432,
                 "name": "Miła",
                 "addr:housenumber": "208",
-                "addr:city": "Sarzyna",
                 "addr:postcode": "37-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sarzyna"
             },
             "geometry": {
                 "type": "Point",
@@ -305,9 +305,9 @@
                 "ref:csioz": 1181609,
                 "name": "Apteka Rodzinna",
                 "addr:housenumber": "125C",
-                "addr:city": "Grodzisko Dolne",
                 "addr:postcode": "37-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Grodzisko Dolne"
             },
             "geometry": {
                 "type": "Point",
@@ -322,9 +322,9 @@
             "properties": {
                 "ref:csioz": 1189682,
                 "addr:housenumber": "482",
-                "addr:city": "Brzóza Królewska",
                 "addr:postcode": "37-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brzóza Królewska"
             },
             "geometry": {
                 "type": "Point",
@@ -376,9 +376,9 @@
             "properties": {
                 "ref:csioz": 1221127,
                 "addr:housenumber": "338",
-                "addr:city": "Giedlarowa",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Giedlarowa"
             },
             "geometry": {
                 "type": "Point",
@@ -413,9 +413,9 @@
                 "ref:csioz": 1145225,
                 "name": "Berberis",
                 "addr:housenumber": "126G",
-                "addr:city": "Grodzisko Dolne",
                 "addr:postcode": "37-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Grodzisko Dolne"
             },
             "geometry": {
                 "type": "Point",
@@ -449,9 +449,9 @@
             "properties": {
                 "ref:csioz": 1230776,
                 "addr:housenumber": "110",
-                "addr:city": "PISKOROWICE",
                 "addr:postcode": "37-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "PISKOROWICE"
             },
             "geometry": {
                 "type": "Point",
@@ -467,9 +467,9 @@
                 "ref:csioz": 1125603,
                 "addr:housenumber": "310A",
                 "addr:flats": "2",
-                "addr:city": "Łętownia",
                 "addr:postcode": "37-051",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łętownia"
             },
             "geometry": {
                 "type": "Point",
@@ -484,9 +484,9 @@
             "properties": {
                 "ref:csioz": 1145296,
                 "addr:housenumber": "147C",
-                "addr:city": "Wola Zarczycka",
                 "addr:postcode": "37-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wola Zarczycka"
             },
             "geometry": {
                 "type": "Point",
@@ -502,9 +502,9 @@
                 "ref:csioz": 1223139,
                 "name": "Wolańska",
                 "addr:housenumber": "405 E",
-                "addr:city": "Wola Zarczycka",
                 "addr:postcode": "37-310",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wola Zarczycka"
             },
             "geometry": {
                 "type": "Point",

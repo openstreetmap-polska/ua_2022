@@ -273,9 +273,9 @@
             "properties": {
                 "ref:csioz": 1161284,
                 "addr:housenumber": "11",
-                "addr:city": "Raszówka",
                 "addr:postcode": "59-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Raszówka"
             },
             "geometry": {
                 "type": "Point",

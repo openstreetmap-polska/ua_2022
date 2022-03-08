@@ -289,9 +289,9 @@
             "properties": {
                 "ref:csioz": 1079365,
                 "addr:housenumber": "174",
-                "addr:city": "Bolesław",
                 "addr:postcode": "33-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bolesław"
             },
             "geometry": {
                 "type": "Point",
@@ -326,9 +326,9 @@
                 "ref:csioz": 1117908,
                 "name": "\"Nzoz Zakład Pielęgnacyjno - Opiekuńczy \"\"Zacisze\"\" Pielęgniarki I Położne Ewa Stanek, Bożena Mitka\"",
                 "addr:housenumber": "51",
-                "addr:city": "Zimnodół",
                 "addr:postcode": "32-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zimnodół"
             },
             "geometry": {
                 "type": "Point",
@@ -419,9 +419,9 @@
             "properties": {
                 "ref:csioz": 1036633,
                 "addr:housenumber": "71",
-                "addr:city": "Trzyciąż",
                 "addr:postcode": "35-353",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trzyciąż"
             },
             "geometry": {
                 "type": "Point",
@@ -513,9 +513,9 @@
                 "ref:csioz": 1042355,
                 "name": "Echinacea",
                 "addr:housenumber": "155",
-                "addr:city": "Łobzów",
                 "addr:postcode": "32-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łobzów"
             },
             "geometry": {
                 "type": "Point",
@@ -814,9 +814,9 @@
             "properties": {
                 "ref:csioz": 1221188,
                 "addr:housenumber": "140",
-                "addr:city": "Imbramowice",
                 "addr:postcode": "32-353",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Imbramowice"
             },
             "geometry": {
                 "type": "Point",

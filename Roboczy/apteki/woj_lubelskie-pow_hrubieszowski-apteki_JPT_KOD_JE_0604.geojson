@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1106539,
                 "addr:housenumber": "37",
-                "addr:city": "Turkowice",
                 "addr:postcode": "22-546",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Turkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -24,9 +24,9 @@
             "properties": {
                 "ref:csioz": 1106474,
                 "addr:housenumber": "258",
-                "addr:city": "Nieledew",
                 "addr:postcode": "22-554",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nieledew"
             },
             "geometry": {
                 "type": "Point",
@@ -41,9 +41,9 @@
             "properties": {
                 "ref:csioz": 1106526,
                 "addr:housenumber": "28",
-                "addr:city": "Teratyn",
                 "addr:postcode": "22-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Teratyn"
             },
             "geometry": {
                 "type": "Point",
@@ -261,9 +261,9 @@
             "properties": {
                 "ref:csioz": 1154604,
                 "addr:housenumber": "146",
-                "addr:city": "Trzeszczany",
                 "addr:postcode": "22-554",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trzeszczany"
             },
             "geometry": {
                 "type": "Point",
@@ -314,9 +314,9 @@
             "properties": {
                 "ref:csioz": 1155098,
                 "addr:housenumber": "134",
-                "addr:city": "Dziekanów",
                 "addr:postcode": "22-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dziekanów"
             },
             "geometry": {
                 "type": "Point",

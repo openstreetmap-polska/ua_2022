@@ -553,9 +553,9 @@
                 "ref:csioz": 1149075,
                 "name": "Arnika",
                 "addr:housenumber": "75",
-                "addr:city": "Zasieki",
                 "addr:postcode": "68-343",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zasieki"
             },
             "geometry": {
                 "type": "Point",

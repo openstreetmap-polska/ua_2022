@@ -82,9 +82,9 @@
             "properties": {
                 "ref:csioz": 1165240,
                 "addr:housenumber": "141",
-                "addr:city": "Zapałów",
                 "addr:postcode": "37-544",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zapałów"
             },
             "geometry": {
                 "type": "Point",
@@ -100,9 +100,9 @@
                 "ref:csioz": 1195195,
                 "name": "Melisa",
                 "addr:housenumber": "35A",
-                "addr:city": "Laszki",
                 "addr:postcode": "37-543",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Laszki"
             },
             "geometry": {
                 "type": "Point",
@@ -287,9 +287,9 @@
             "properties": {
                 "ref:csioz": 1151106,
                 "addr:housenumber": "235",
-                "addr:city": "Chłopice",
                 "addr:postcode": "37-561",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chłopice"
             },
             "geometry": {
                 "type": "Point",
@@ -322,9 +322,9 @@
             "properties": {
                 "ref:csioz": 1151179,
                 "addr:housenumber": "645",
-                "addr:city": "Rokietnica",
                 "addr:postcode": "37-562",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rokietnica"
             },
             "geometry": {
                 "type": "Point",
@@ -583,9 +583,9 @@
                 "ref:csioz": 1151187,
                 "name": "Lawenda",
                 "addr:housenumber": "201",
-                "addr:city": "Roźwienica",
                 "addr:postcode": "37-565",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Roźwienica"
             },
             "geometry": {
                 "type": "Point",
@@ -770,9 +770,9 @@
                 "ref:csioz": 1218275,
                 "name": "Punkt Apteczny Medika",
                 "addr:housenumber": "147",
-                "addr:city": "Łowce",
                 "addr:postcode": "37-554",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łowce"
             },
             "geometry": {
                 "type": "Point",
@@ -807,9 +807,9 @@
                 "ref:csioz": 1228429,
                 "name": "Kraina Leków",
                 "addr:housenumber": "128C",
-                "addr:city": "Wólka Pełkińska",
                 "addr:postcode": "37-511",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wólka Pełkińska"
             },
             "geometry": {
                 "type": "Point",

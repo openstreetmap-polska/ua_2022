@@ -764,9 +764,9 @@
             "properties": {
                 "ref:csioz": 1110827,
                 "addr:housenumber": "6",
-                "addr:city": "Okleśna",
                 "addr:postcode": "32-567",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Okleśna"
             },
             "geometry": {
                 "type": "Point",

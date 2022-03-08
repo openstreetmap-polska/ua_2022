@@ -27,9 +27,9 @@
                 "ref:csioz": 1105100,
                 "name": "Eskulap",
                 "addr:housenumber": "42A",
-                "addr:city": "Płużnica",
                 "addr:postcode": "87-214",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Płużnica"
             },
             "geometry": {
                 "type": "Point",
@@ -178,9 +178,9 @@
                 "ref:csioz": 1188151,
                 "name": "\"'Pod Dębami'\"",
                 "addr:housenumber": "23",
-                "addr:city": "Dębowa Łąka",
                 "addr:postcode": "87-207",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dębowa Łąka"
             },
             "geometry": {
                 "type": "Point",

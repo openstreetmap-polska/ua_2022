@@ -101,9 +101,9 @@
             "properties": {
                 "ref:csioz": 1143182,
                 "addr:housenumber": "291",
-                "addr:city": "Bukowsko",
                 "addr:postcode": "38-505",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bukowsko"
             },
             "geometry": {
                 "type": "Point",
@@ -118,9 +118,9 @@
             "properties": {
                 "ref:csioz": 1143207,
                 "addr:housenumber": "160",
-                "addr:city": "Komańcza",
                 "addr:postcode": "38-543",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Komańcza"
             },
             "geometry": {
                 "type": "Point",
@@ -135,9 +135,9 @@
             "properties": {
                 "ref:csioz": 1143210,
                 "addr:housenumber": "81",
-                "addr:city": "Tarnawa Górna",
                 "addr:postcode": "38-616",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tarnawa Górna"
             },
             "geometry": {
                 "type": "Point",
@@ -190,9 +190,9 @@
                 "ref:csioz": 1143264,
                 "name": "Werbena-Bis",
                 "addr:housenumber": "234",
-                "addr:city": "Jaćmierz",
                 "addr:postcode": "38-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jaćmierz"
             },
             "geometry": {
                 "type": "Point",
@@ -509,9 +509,9 @@
                 "ref:csioz": 1143278,
                 "name": "Panaceum",
                 "addr:housenumber": "30",
-                "addr:city": "Mrzygłód",
                 "addr:postcode": "38-503",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mrzygłód"
             },
             "geometry": {
                 "type": "Point",
@@ -544,9 +544,9 @@
             "properties": {
                 "ref:csioz": 1143293,
                 "addr:housenumber": "93",
-                "addr:city": "Nowotaniec",
                 "addr:postcode": "38-505",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowotaniec"
             },
             "geometry": {
                 "type": "Point",
@@ -619,9 +619,9 @@
             "properties": {
                 "ref:csioz": 1174907,
                 "addr:housenumber": "1A",
-                "addr:city": "Rzepedź",
                 "addr:postcode": "38-542",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rzepedź"
             },
             "geometry": {
                 "type": "Point",
@@ -732,9 +732,9 @@
                 "ref:csioz": 1226276,
                 "name": "Danfarm Punkt Apteczny Tyrawa Wołoska",
                 "addr:housenumber": "238",
-                "addr:city": "Tyrawa Wołoska",
                 "addr:postcode": "38-535",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tyrawa Wołoska"
             },
             "geometry": {
                 "type": "Point",

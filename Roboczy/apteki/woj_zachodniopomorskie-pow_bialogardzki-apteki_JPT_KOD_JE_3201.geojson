@@ -122,9 +122,9 @@
             "properties": {
                 "ref:csioz": 1175501,
                 "addr:housenumber": "5",
-                "addr:city": "Stanomino",
                 "addr:postcode": "78-217",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stanomino"
             },
             "geometry": {
                 "type": "Point",

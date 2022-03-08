@@ -28,9 +28,9 @@
                 "name": "Kruszyna",
                 "addr:housenumber": "74",
                 "addr:flats": "Gminny Ośrodek Zdrowia",
-                "addr:city": "Kowiesy",
                 "addr:postcode": "96-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kowiesy"
             },
             "geometry": {
                 "type": "Point",
@@ -120,9 +120,9 @@
                 "ref:csioz": 1182085,
                 "name": "Punkt Apteczny - Słoneczko",
                 "addr:housenumber": "133",
-                "addr:city": "Słupia",
                 "addr:postcode": "96-128",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Słupia"
             },
             "geometry": {
                 "type": "Point",
@@ -137,9 +137,9 @@
             "properties": {
                 "ref:csioz": 1177793,
                 "addr:housenumber": "1",
-                "addr:city": "Nowy Kawęczyn",
                 "addr:postcode": "96-115",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowy Kawęczyn"
             },
             "geometry": {
                 "type": "Point",

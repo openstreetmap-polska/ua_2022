@@ -138,9 +138,9 @@
             "properties": {
                 "ref:csioz": 1107888,
                 "addr:housenumber": "99A",
-                "addr:city": "Lasowice Wielkie",
                 "addr:postcode": "46-282",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lasowice Wielkie"
             },
             "geometry": {
                 "type": "Point",

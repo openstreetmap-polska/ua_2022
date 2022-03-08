@@ -311,9 +311,9 @@
                 "ref:csioz": 1167359,
                 "name": "Apteka Portowa",
                 "addr:housenumber": "44",
-                "addr:city": "Warzymice",
                 "addr:postcode": "72-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Warzymice"
             },
             "geometry": {
                 "type": "Point",
@@ -406,9 +406,9 @@
                 "ref:csioz": 1183562,
                 "name": "Punkt Apteczny Efekt Apotheke Punkt",
                 "addr:housenumber": "1B",
-                "addr:city": "Lubieszyn",
                 "addr:postcode": "72-002",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lubieszyn"
             },
             "geometry": {
                 "type": "Point",
@@ -443,9 +443,9 @@
                 "ref:csioz": 1215524,
                 "name": "Panaceum",
                 "addr:housenumber": "56",
-                "addr:city": "Przecław",
                 "addr:postcode": "72-005",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Przecław"
             },
             "geometry": {
                 "type": "Point",

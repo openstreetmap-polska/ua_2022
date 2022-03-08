@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1015048,
                 "addr:housenumber": "149",
-                "addr:city": "Janowiec Kościelny",
                 "addr:postcode": "13-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Janowiec Kościelny"
             },
             "geometry": {
                 "type": "Point",

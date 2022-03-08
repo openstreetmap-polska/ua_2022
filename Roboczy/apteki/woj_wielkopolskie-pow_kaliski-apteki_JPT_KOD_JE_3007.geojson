@@ -101,9 +101,9 @@
                 "ref:csioz": 1051830,
                 "name": "Medykon",
                 "addr:housenumber": "73A",
-                "addr:city": "JASTRZĘBNIKI",
                 "addr:postcode": "62-812",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "JASTRZĘBNIKI"
             },
             "geometry": {
                 "type": "Point",
@@ -176,9 +176,9 @@
             "properties": {
                 "ref:csioz": 1053468,
                 "addr:housenumber": "116",
-                "addr:city": "KORZENIEW",
                 "addr:postcode": "62-831",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "KORZENIEW"
             },
             "geometry": {
                 "type": "Point",
@@ -194,9 +194,9 @@
                 "ref:csioz": 1053476,
                 "name": "Stylowy",
                 "addr:housenumber": "54",
-                "addr:city": "Blizanów",
                 "addr:postcode": "62-814",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Blizanów"
             },
             "geometry": {
                 "type": "Point",
@@ -212,9 +212,9 @@
                 "ref:csioz": 1195520,
                 "name": "Stylowy",
                 "addr:housenumber": "171 B",
-                "addr:city": "Zbiersk-Cukrownia",
                 "addr:postcode": "62-830",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zbiersk-Cukrownia"
             },
             "geometry": {
                 "type": "Point",
@@ -230,9 +230,9 @@
                 "ref:csioz": 1053766,
                 "name": "Vita",
                 "addr:housenumber": "134C",
-                "addr:city": "ŻELAZKÓW",
                 "addr:postcode": "62-817",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "ŻELAZKÓW"
             },
             "geometry": {
                 "type": "Point",
@@ -247,9 +247,9 @@
             "properties": {
                 "ref:csioz": 1053777,
                 "addr:housenumber": "109",
-                "addr:city": "ŻELAZKÓW",
                 "addr:postcode": "62-817",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "ŻELAZKÓW"
             },
             "geometry": {
                 "type": "Point",
@@ -265,9 +265,9 @@
                 "ref:csioz": 1053808,
                 "name": "Pod Lwem",
                 "addr:housenumber": "17B",
-                "addr:city": "Ceków-Kolonia",
                 "addr:postcode": "62-834",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ceków-Kolonia"
             },
             "geometry": {
                 "type": "Point",
@@ -283,9 +283,9 @@
                 "ref:csioz": 1181667,
                 "name": "Stylowy",
                 "addr:housenumber": "22",
-                "addr:city": "Mycielin",
                 "addr:postcode": "62-831",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mycielin"
             },
             "geometry": {
                 "type": "Point",
@@ -301,9 +301,9 @@
                 "ref:csioz": 1227229,
                 "name": "Punkt Apteczny W Kamieniu",
                 "addr:housenumber": "2",
-                "addr:city": "Kamień",
                 "addr:postcode": "62-834",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kamień"
             },
             "geometry": {
                 "type": "Point",
@@ -319,9 +319,9 @@
                 "ref:csioz": 1230003,
                 "name": "Rodzinny",
                 "addr:housenumber": "246",
-                "addr:city": "Zbiersk-Cukrownia",
                 "addr:postcode": "62-830",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zbiersk-Cukrownia"
             },
             "geometry": {
                 "type": "Point",
@@ -392,9 +392,9 @@
             "properties": {
                 "ref:csioz": 1191558,
                 "addr:housenumber": "113",
-                "addr:city": "Wolica",
                 "addr:postcode": "62-872",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wolica"
             },
             "geometry": {
                 "type": "Point",
@@ -466,9 +466,9 @@
                 "ref:csioz": 1208891,
                 "name": "Punkt Apteczny Szczytniki",
                 "addr:housenumber": "31",
-                "addr:city": "Szczytniki",
                 "addr:postcode": "62-865",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szczytniki"
             },
             "geometry": {
                 "type": "Point",
@@ -503,9 +503,9 @@
                 "ref:csioz": 1228145,
                 "name": "Punkt Apteczny Wolica",
                 "addr:housenumber": "62",
-                "addr:city": "Wolica",
                 "addr:postcode": "62-872",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wolica"
             },
             "geometry": {
                 "type": "Point",

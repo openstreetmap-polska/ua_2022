@@ -43,9 +43,9 @@
             "properties": {
                 "ref:csioz": 1145934,
                 "addr:housenumber": "139",
-                "addr:city": "Niebylec",
                 "addr:postcode": "38-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niebylec"
             },
             "geometry": {
                 "type": "Point",
@@ -60,9 +60,9 @@
             "properties": {
                 "ref:csioz": 1125691,
                 "addr:housenumber": "337",
-                "addr:city": "Lutcza",
                 "addr:postcode": "38-112",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lutcza"
             },
             "geometry": {
                 "type": "Point",
@@ -77,9 +77,9 @@
             "properties": {
                 "ref:csioz": 1125702,
                 "addr:housenumber": "4c",
-                "addr:city": "Małówka",
                 "addr:postcode": "38-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Małówka"
             },
             "geometry": {
                 "type": "Point",
@@ -114,9 +114,9 @@
                 "ref:csioz": 1145927,
                 "addr:housenumber": "22",
                 "addr:flats": "1",
-                "addr:city": "Markuszowa",
                 "addr:postcode": "38-126",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Markuszowa"
             },
             "geometry": {
                 "type": "Point",
@@ -131,9 +131,9 @@
             "properties": {
                 "ref:csioz": 1145942,
                 "addr:housenumber": "136",
-                "addr:city": "Wiśniowa",
                 "addr:postcode": "38-124",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wiśniowa"
             },
             "geometry": {
                 "type": "Point",
@@ -186,9 +186,9 @@
             "properties": {
                 "ref:csioz": 1147220,
                 "addr:housenumber": "67",
-                "addr:city": "Niebylec",
                 "addr:postcode": "38-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niebylec"
             },
             "geometry": {
                 "type": "Point",
@@ -355,9 +355,9 @@
                 "ref:csioz": 1145845,
                 "name": "Ania",
                 "addr:housenumber": "466A",
-                "addr:city": "Dobrzechów",
                 "addr:postcode": "38-122",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dobrzechów"
             },
             "geometry": {
                 "type": "Point",

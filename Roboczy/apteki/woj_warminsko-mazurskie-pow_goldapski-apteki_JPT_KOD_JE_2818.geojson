@@ -45,9 +45,9 @@
             "properties": {
                 "ref:csioz": 1185448,
                 "addr:housenumber": "27A",
-                "addr:city": "Grabowo",
                 "addr:postcode": "19-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Grabowo"
             },
             "geometry": {
                 "type": "Point",

@@ -64,9 +64,9 @@
             "properties": {
                 "ref:csioz": 1014322,
                 "addr:housenumber": "43",
-                "addr:city": "WOJCIECHY",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "WOJCIECHY"
             },
             "geometry": {
                 "type": "Point",
@@ -138,9 +138,9 @@
             "properties": {
                 "ref:csioz": 1014964,
                 "addr:housenumber": "18",
-                "addr:city": "Bezledy",
                 "addr:postcode": "11-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bezledy"
             },
             "geometry": {
                 "type": "Point",
@@ -155,9 +155,9 @@
             "properties": {
                 "ref:csioz": 1016471,
                 "addr:housenumber": "9B",
-                "addr:city": "Kandyty",
                 "addr:postcode": "11-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kandyty"
             },
             "geometry": {
                 "type": "Point",

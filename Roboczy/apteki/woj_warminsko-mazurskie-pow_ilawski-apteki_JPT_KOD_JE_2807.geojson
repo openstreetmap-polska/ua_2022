@@ -102,9 +102,9 @@
             "properties": {
                 "ref:csioz": 1210235,
                 "addr:housenumber": "54",
-                "addr:city": "Prątnica",
                 "addr:postcode": "14-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Prątnica"
             },
             "geometry": {
                 "type": "Point",
@@ -636,9 +636,9 @@
                 "ref:csioz": 1229240,
                 "name": "Punkt Apteczny Arnika",
                 "addr:housenumber": "123A",
-                "addr:city": "Rożental",
                 "addr:postcode": "14-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rożental"
             },
             "geometry": {
                 "type": "Point",

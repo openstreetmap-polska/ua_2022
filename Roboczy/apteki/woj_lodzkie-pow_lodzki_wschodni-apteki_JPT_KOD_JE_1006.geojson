@@ -195,9 +195,9 @@
             "properties": {
                 "ref:csioz": 1016367,
                 "addr:housenumber": "41A",
-                "addr:city": "Brójce",
                 "addr:postcode": "95-006",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brójce"
             },
             "geometry": {
                 "type": "Point",

@@ -64,9 +64,9 @@
                 "name": "Punkt Apteczny Zdrowie",
                 "addr:housenumber": "71",
                 "addr:flats": "3",
-                "addr:city": "Lipowiec",
                 "addr:postcode": "12-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipowiec"
             },
             "geometry": {
                 "type": "Point",

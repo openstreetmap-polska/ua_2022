@@ -84,9 +84,9 @@
                 "ref:csioz": 1150653,
                 "name": "Pinus",
                 "addr:housenumber": "116",
-                "addr:city": "Gościm",
                 "addr:postcode": "66-535",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gościm"
             },
             "geometry": {
                 "type": "Point",
@@ -119,9 +119,9 @@
             "properties": {
                 "ref:csioz": 1158143,
                 "addr:housenumber": "7",
-                "addr:city": "Kosin",
                 "addr:postcode": "23-235",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kosin"
             },
             "geometry": {
                 "type": "Point",

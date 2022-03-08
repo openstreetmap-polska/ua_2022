@@ -99,9 +99,9 @@
             "properties": {
                 "ref:csioz": 1141560,
                 "addr:housenumber": "62",
-                "addr:city": "Jarocin",
                 "addr:postcode": "37-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jarocin"
             },
             "geometry": {
                 "type": "Point",
@@ -192,9 +192,9 @@
                 "ref:csioz": 1165482,
                 "name": "Nad Tanwią",
                 "addr:housenumber": "111A",
-                "addr:city": "Harasiuki",
                 "addr:postcode": "37-413",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Harasiuki"
             },
             "geometry": {
                 "type": "Point",
@@ -285,9 +285,9 @@
                 "ref:csioz": 1199526,
                 "name": "Medica",
                 "addr:housenumber": "652 C",
-                "addr:city": "Jeżowe",
                 "addr:postcode": "37-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jeżowe"
             },
             "geometry": {
                 "type": "Point",
@@ -379,9 +379,9 @@
                 "ref:csioz": 1227324,
                 "name": "Apteka Zdrowie",
                 "addr:housenumber": "662B",
-                "addr:city": "Jeżowe",
                 "addr:postcode": "37-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jeżowe"
             },
             "geometry": {
                 "type": "Point",

@@ -27,9 +27,9 @@
                 "ref:csioz": 1033979,
                 "name": "Punkt Apteczny Dbam O Zdrowie",
                 "addr:housenumber": "11",
-                "addr:city": "Sianowo",
                 "addr:postcode": "83-328",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sianowo"
             },
             "geometry": {
                 "type": "Point",
@@ -766,9 +766,9 @@
                 "ref:csioz": 1215451,
                 "name": "\"Dział Farmacji Szpitalnej W Zakładzie Leczniczym: Zakład Rehabilitacji Leczniczej 'Wieżyca'\"",
                 "addr:housenumber": "29",
-                "addr:city": "Wieżyca",
                 "addr:postcode": "83-315",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wieżyca"
             },
             "geometry": {
                 "type": "Point",

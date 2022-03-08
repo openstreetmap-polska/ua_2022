@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1180009,
                 "addr:housenumber": "1C",
-                "addr:city": "Kamionki",
                 "addr:postcode": "26-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kamionki"
             },
             "geometry": {
                 "type": "Point",
@@ -25,9 +25,9 @@
                 "ref:csioz": 1229388,
                 "name": "Bluemed",
                 "addr:housenumber": "87A",
-                "addr:city": "Łączna",
                 "addr:postcode": "26-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łączna"
             },
             "geometry": {
                 "type": "Point",

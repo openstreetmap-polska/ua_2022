@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1015085,
                 "addr:housenumber": "63",
-                "addr:city": "Holonki",
                 "addr:postcode": "17-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Holonki"
             },
             "geometry": {
                 "type": "Point",

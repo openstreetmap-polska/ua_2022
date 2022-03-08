@@ -180,9 +180,9 @@
                 "ref:csioz": 1215543,
                 "name": "Punkt Apteczny Zdrowie",
                 "addr:housenumber": "92",
-                "addr:city": "Radowo Małe",
                 "addr:postcode": "72-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Radowo Małe"
             },
             "geometry": {
                 "type": "Point",
@@ -235,9 +235,9 @@
             "properties": {
                 "ref:csioz": 1228373,
                 "addr:housenumber": "1",
-                "addr:city": "Grabowo",
                 "addr:postcode": "73-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Grabowo"
             },
             "geometry": {
                 "type": "Point",

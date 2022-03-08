@@ -309,9 +309,9 @@
                 "ref:csioz": 1033497,
                 "name": "Medical",
                 "addr:housenumber": "23A",
-                "addr:city": "Kopytkowo",
                 "addr:postcode": "83-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kopytkowo"
             },
             "geometry": {
                 "type": "Point",

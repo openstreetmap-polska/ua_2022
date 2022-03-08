@@ -310,9 +310,9 @@
                 "ref:csioz": 1194227,
                 "name": "Jaśmin Punkt Apteczny",
                 "addr:housenumber": "15",
-                "addr:city": "Włodzienin",
                 "addr:postcode": "48-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Włodzienin"
             },
             "geometry": {
                 "type": "Point",

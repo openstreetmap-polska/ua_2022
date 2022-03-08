@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1153618,
                 "addr:housenumber": "84",
-                "addr:city": "Rybczewice Drugie",
                 "addr:postcode": "21-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rybczewice Drugie"
             },
             "geometry": {
                 "type": "Point",
@@ -79,9 +79,9 @@
                 "ref:csioz": 1165673,
                 "name": "Apteka Luxfarm",
                 "addr:housenumber": "120C",
-                "addr:city": "Rybczewice Drugie",
                 "addr:postcode": "21-065",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rybczewice Drugie"
             },
             "geometry": {
                 "type": "Point",
@@ -133,9 +133,9 @@
                 "ref:csioz": 1189706,
                 "name": "Apteka Pod Kasztanami",
                 "addr:housenumber": "529a",
-                "addr:city": "Trawniki",
                 "addr:postcode": "21-044",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trawniki"
             },
             "geometry": {
                 "type": "Point",

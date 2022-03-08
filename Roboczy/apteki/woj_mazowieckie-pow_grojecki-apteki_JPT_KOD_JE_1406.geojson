@@ -575,9 +575,9 @@
             "properties": {
                 "ref:csioz": 1096250,
                 "addr:housenumber": "133A",
-                "addr:city": "Wilków Drugi",
                 "addr:postcode": "05-620",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wilków Drugi"
             },
             "geometry": {
                 "type": "Point",
@@ -724,9 +724,9 @@
                 "ref:csioz": 1094683,
                 "name": "E-50",
                 "addr:housenumber": "1",
-                "addr:city": "Jeziora",
                 "addr:postcode": "05-652",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jeziora"
             },
             "geometry": {
                 "type": "Point",

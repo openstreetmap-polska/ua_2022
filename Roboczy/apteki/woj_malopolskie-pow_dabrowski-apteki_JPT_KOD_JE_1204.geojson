@@ -232,9 +232,9 @@
                 "ref:csioz": 1121622,
                 "name": "Centrum",
                 "addr:housenumber": "917",
-                "addr:city": "Mędrzechów",
                 "addr:postcode": "33-221",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mędrzechów"
             },
             "geometry": {
                 "type": "Point",
@@ -269,9 +269,9 @@
                 "ref:csioz": 1181705,
                 "name": "Apteka Nova",
                 "addr:housenumber": "139",
-                "addr:city": "Gręboszów",
                 "addr:postcode": "33-260",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gręboszów"
             },
             "geometry": {
                 "type": "Point",

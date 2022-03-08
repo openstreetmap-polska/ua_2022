@@ -216,9 +216,9 @@
                 "ref:csioz": 1114047,
                 "name": "\"Dział Farmacji Szpitalnej W Niepublicznym Zakładzie Opieki Zdrowotnej Homo-Liber, Oddział Terapii Uzależnienia Od Alkoholu\"",
                 "addr:housenumber": "16",
-                "addr:city": "Żukówko",
                 "addr:postcode": "77-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Żukówko"
             },
             "geometry": {
                 "type": "Point",
@@ -329,9 +329,9 @@
                 "ref:csioz": 1034249,
                 "name": "\"Dział Farmacji Szpitalnej W Niepublicznym Zakładzie Opieki Zdrowotnej \"\"Lancet\"\" Piotr Lange\"",
                 "addr:housenumber": "15E",
-                "addr:city": "Węgorzynko",
                 "addr:postcode": "77-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Węgorzynko"
             },
             "geometry": {
                 "type": "Point",

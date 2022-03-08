@@ -63,9 +63,9 @@
             "properties": {
                 "ref:csioz": 1091737,
                 "addr:housenumber": "41A",
-                "addr:city": "Czerwonka Włościańska",
                 "addr:postcode": "06-232",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czerwonka Włościańska"
             },
             "geometry": {
                 "type": "Point",
@@ -98,9 +98,9 @@
             "properties": {
                 "ref:csioz": 1091482,
                 "addr:housenumber": "22",
-                "addr:city": "Rzewnie",
                 "addr:postcode": "06-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rzewnie"
             },
             "geometry": {
                 "type": "Point",
@@ -248,9 +248,9 @@
                 "ref:csioz": 1212435,
                 "name": "Kurpiowska Iv",
                 "addr:housenumber": "58A",
-                "addr:city": "Drążdżewo",
                 "addr:postcode": "06-214",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Drążdżewo"
             },
             "geometry": {
                 "type": "Point",
@@ -266,9 +266,9 @@
                 "ref:csioz": 1212786,
                 "name": "Lawendowa",
                 "addr:housenumber": "98",
-                "addr:city": "Szczuki",
                 "addr:postcode": "06-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szczuki"
             },
             "geometry": {
                 "type": "Point",
@@ -283,9 +283,9 @@
             "properties": {
                 "ref:csioz": 1225252,
                 "addr:housenumber": "45",
-                "addr:city": "Stary Szelków",
                 "addr:postcode": "06-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stary Szelków"
             },
             "geometry": {
                 "type": "Point",
@@ -301,9 +301,9 @@
                 "ref:csioz": 1230797,
                 "name": "Makofarm Maciej Libchaber",
                 "addr:housenumber": "84a",
-                "addr:city": "Płoniawy-Bramura",
                 "addr:postcode": "06-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Płoniawy-Bramura"
             },
             "geometry": {
                 "type": "Point",

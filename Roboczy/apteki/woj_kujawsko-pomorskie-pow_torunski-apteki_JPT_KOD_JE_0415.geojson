@@ -141,9 +141,9 @@
                 "name": "Puls 9",
                 "addr:housenumber": "62B",
                 "addr:flats": "-",
-                "addr:city": "Dobrzejewice",
                 "addr:postcode": "87-123",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dobrzejewice"
             },
             "geometry": {
                 "type": "Point",
@@ -310,9 +310,9 @@
                 "ref:csioz": 1103372,
                 "name": "Nagietek",
                 "addr:housenumber": "8",
-                "addr:city": "Zelgno",
                 "addr:postcode": "87-141",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zelgno"
             },
             "geometry": {
                 "type": "Point",

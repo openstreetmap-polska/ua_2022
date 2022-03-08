@@ -8,9 +8,9 @@
                 "ref:csioz": 1125540,
                 "addr:housenumber": "238b",
                 "addr:flats": "1",
-                "addr:city": "Cmolas",
                 "addr:postcode": "36-105",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Cmolas"
             },
             "geometry": {
                 "type": "Point",
@@ -64,9 +64,9 @@
             "properties": {
                 "ref:csioz": 1145089,
                 "addr:housenumber": "431",
-                "addr:city": "Niwiska",
                 "addr:postcode": "36-147",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niwiska"
             },
             "geometry": {
                 "type": "Point",
@@ -139,9 +139,9 @@
                 "ref:csioz": 1125554,
                 "name": "Medimo",
                 "addr:housenumber": "279",
-                "addr:city": "Lipnica",
                 "addr:postcode": "36-123",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipnica"
             },
             "geometry": {
                 "type": "Point",
@@ -157,9 +157,9 @@
                 "ref:csioz": 1125565,
                 "name": "Medimo",
                 "addr:housenumber": "184",
-                "addr:city": "Przedbórz",
                 "addr:postcode": "36-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Przedbórz"
             },
             "geometry": {
                 "type": "Point",
@@ -212,9 +212,9 @@
                 "ref:csioz": 1145111,
                 "name": "Arnika",
                 "addr:housenumber": "213",
-                "addr:city": "Widełka",
                 "addr:postcode": "36-145",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Widełka"
             },
             "geometry": {
                 "type": "Point",
@@ -229,9 +229,9 @@
             "properties": {
                 "ref:csioz": 1145122,
                 "addr:housenumber": "315",
-                "addr:city": "Wola Raniżowska",
                 "addr:postcode": "36-125",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wola Raniżowska"
             },
             "geometry": {
                 "type": "Point",
@@ -323,9 +323,9 @@
                 "ref:csioz": 1230754,
                 "name": "Punkt Apteczny Gemi",
                 "addr:housenumber": "201",
-                "addr:city": "Siedlanka",
                 "addr:postcode": "36-147",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Siedlanka"
             },
             "geometry": {
                 "type": "Point",

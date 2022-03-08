@@ -3554,9 +3554,9 @@
             "properties": {
                 "ref:csioz": 1044320,
                 "addr:housenumber": "135/147",
-                "addr:city": "Poznań",
                 "addr:postcode": "61-545",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Poznań"
             },
             "geometry": {
                 "type": "Point",

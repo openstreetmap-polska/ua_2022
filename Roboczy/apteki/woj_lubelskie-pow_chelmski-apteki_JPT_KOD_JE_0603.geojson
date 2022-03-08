@@ -80,9 +80,9 @@
                 "ref:csioz": 1194376,
                 "name": "Punkt Apteczny Pod Świerkami",
                 "addr:housenumber": "97",
-                "addr:city": "Leśniowice",
                 "addr:postcode": "22-122",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Leśniowice"
             },
             "geometry": {
                 "type": "Point",
@@ -210,9 +210,9 @@
             "properties": {
                 "ref:csioz": 1106425,
                 "addr:housenumber": "44 A",
-                "addr:city": "Liszno",
                 "addr:postcode": "22-171",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Liszno"
             },
             "geometry": {
                 "type": "Point",

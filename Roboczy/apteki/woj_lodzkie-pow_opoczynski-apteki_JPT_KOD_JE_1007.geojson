@@ -303,9 +303,9 @@
                 "ref:csioz": 1164662,
                 "name": "Flos",
                 "addr:housenumber": "90",
-                "addr:city": "Wójcin",
                 "addr:postcode": "26-333",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wójcin"
             },
             "geometry": {
                 "type": "Point",
@@ -491,9 +491,9 @@
                 "ref:csioz": 1026247,
                 "name": "\"Pigułka Ewelina Strzałkowska\"\"\"",
                 "addr:housenumber": "77",
-                "addr:city": "Petrykozy",
                 "addr:postcode": "26-307",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Petrykozy"
             },
             "geometry": {
                 "type": "Point",
@@ -545,9 +545,9 @@
             "properties": {
                 "ref:csioz": 1230573,
                 "addr:housenumber": "1",
-                "addr:city": "Jelnia",
                 "addr:postcode": "26-340",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jelnia"
             },
             "geometry": {
                 "type": "Point",

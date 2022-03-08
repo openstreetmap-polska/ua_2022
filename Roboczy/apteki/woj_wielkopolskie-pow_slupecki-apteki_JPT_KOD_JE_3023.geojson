@@ -65,9 +65,9 @@
                 "ref:csioz": 1048729,
                 "name": "Ars Farmaceutica",
                 "addr:housenumber": "53",
-                "addr:city": "TRĄBCZYN",
                 "addr:postcode": "62-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "TRĄBCZYN"
             },
             "geometry": {
                 "type": "Point",
@@ -215,9 +215,9 @@
                 "ref:csioz": 1049682,
                 "name": "Pod Złotą Wagą",
                 "addr:housenumber": "51",
-                "addr:city": "CIENIN ZABORNY",
                 "addr:postcode": "62-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "CIENIN ZABORNY"
             },
             "geometry": {
                 "type": "Point",
@@ -307,9 +307,9 @@
             "properties": {
                 "ref:csioz": 1049812,
                 "addr:housenumber": "7",
-                "addr:city": "Słupca",
                 "addr:postcode": "62-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Słupca"
             },
             "geometry": {
                 "type": "Point",

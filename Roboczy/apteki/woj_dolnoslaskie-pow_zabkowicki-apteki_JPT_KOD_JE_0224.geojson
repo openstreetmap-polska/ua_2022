@@ -179,9 +179,9 @@
                 "ref:csioz": 1137058,
                 "name": "Srebrny Punkt Apteczny",
                 "addr:housenumber": "178 A",
-                "addr:city": "Budzów",
                 "addr:postcode": "57-214",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Budzów"
             },
             "geometry": {
                 "type": "Point",

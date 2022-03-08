@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1221921,
                 "addr:housenumber": "29",
-                "addr:city": "Krzywa",
                 "addr:postcode": "59-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krzywa"
             },
             "geometry": {
                 "type": "Point",
@@ -44,9 +44,9 @@
                 "ref:csioz": 1134902,
                 "name": "\"Punkt Apteczny 'Witaminka'\"",
                 "addr:housenumber": "54",
-                "addr:city": "Tyniec Legnicki",
                 "addr:postcode": "59-243",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tyniec Legnicki"
             },
             "geometry": {
                 "type": "Point",
@@ -62,9 +62,9 @@
                 "ref:csioz": 1134915,
                 "name": "Punkt Apteczny Lekosfera Dga 19",
                 "addr:housenumber": "37",
-                "addr:city": "Jaśkowice Legnickie",
                 "addr:postcode": "59-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jaśkowice Legnickie"
             },
             "geometry": {
                 "type": "Point",

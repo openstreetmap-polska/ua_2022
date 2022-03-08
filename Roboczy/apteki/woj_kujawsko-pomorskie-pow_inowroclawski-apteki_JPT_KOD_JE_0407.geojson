@@ -27,9 +27,9 @@
                 "ref:csioz": 1099252,
                 "name": "Św. Marka",
                 "addr:housenumber": "26",
-                "addr:city": "Polanowice",
                 "addr:postcode": "88-150",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Polanowice"
             },
             "geometry": {
                 "type": "Point",
@@ -273,9 +273,9 @@
                 "ref:csioz": 1102162,
                 "name": "Św. Łukasza",
                 "addr:housenumber": "90",
-                "addr:city": "Chełmce",
                 "addr:postcode": "88-121",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chełmce"
             },
             "geometry": {
                 "type": "Point",
@@ -898,9 +898,9 @@
                 "ref:csioz": 1225239,
                 "name": "Punkt Apteczny Parchanie",
                 "addr:housenumber": "11",
-                "addr:city": "Parchanie",
                 "addr:postcode": "88-110",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Parchanie"
             },
             "geometry": {
                 "type": "Point",
@@ -953,9 +953,9 @@
             "properties": {
                 "ref:csioz": 1229648,
                 "addr:housenumber": "17A",
-                "addr:city": "Szadłowice",
                 "addr:postcode": "88-140",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szadłowice"
             },
             "geometry": {
                 "type": "Point",
@@ -989,9 +989,9 @@
             "properties": {
                 "ref:csioz": 1099481,
                 "addr:housenumber": "97",
-                "addr:city": "Rojewo",
                 "addr:postcode": "88-111",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rojewo"
             },
             "geometry": {
                 "type": "Point",

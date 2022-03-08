@@ -540,9 +540,9 @@
                 "ref:csioz": 1208438,
                 "name": "Punkt Apteczny Zbrachlin",
                 "addr:housenumber": "49a",
-                "addr:city": "Zbrachlin",
                 "addr:postcode": "87-731",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zbrachlin"
             },
             "geometry": {
                 "type": "Point",

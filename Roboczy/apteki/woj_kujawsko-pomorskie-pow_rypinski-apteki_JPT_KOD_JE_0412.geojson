@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1105464,
                 "addr:housenumber": "6",
-                "addr:city": "Ostrowite",
                 "addr:postcode": "87-522",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ostrowite"
             },
             "geometry": {
                 "type": "Point",
@@ -25,9 +25,9 @@
                 "ref:csioz": 1202775,
                 "name": "Rodzinny",
                 "addr:housenumber": "20A",
-                "addr:city": "Wąpielsk",
                 "addr:postcode": "87-337",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wąpielsk"
             },
             "geometry": {
                 "type": "Point",
@@ -80,9 +80,9 @@
             "properties": {
                 "ref:csioz": 1105441,
                 "addr:housenumber": "44",
-                "addr:city": "Rogowo",
                 "addr:postcode": "87-515",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rogowo"
             },
             "geometry": {
                 "type": "Point",
@@ -99,9 +99,9 @@
                 "name": "Przy Przychodni",
                 "addr:housenumber": "137",
                 "addr:flats": "1",
-                "addr:city": "Okalewo",
                 "addr:postcode": "87-510",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Okalewo"
             },
             "geometry": {
                 "type": "Point",

@@ -311,9 +311,9 @@
             "properties": {
                 "ref:csioz": 1158010,
                 "addr:housenumber": "22A",
-                "addr:city": "Zakrzew",
                 "addr:postcode": "23-155",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zakrzew"
             },
             "geometry": {
                 "type": "Point",

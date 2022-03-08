@@ -101,9 +101,9 @@
             "properties": {
                 "ref:csioz": 1096135,
                 "addr:housenumber": "30A",
-                "addr:city": "Lipiny",
                 "addr:postcode": "26-704",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipiny"
             },
             "geometry": {
                 "type": "Point",

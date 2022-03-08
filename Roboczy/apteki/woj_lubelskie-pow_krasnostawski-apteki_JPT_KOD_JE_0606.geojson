@@ -43,9 +43,9 @@
             "properties": {
                 "ref:csioz": 1141391,
                 "addr:housenumber": "29",
-                "addr:city": "Adamówka",
                 "addr:postcode": "37-534",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Adamówka"
             },
             "geometry": {
                 "type": "Point",
@@ -115,9 +115,9 @@
             "properties": {
                 "ref:csioz": 1156973,
                 "addr:housenumber": "259A",
-                "addr:city": "Siennica Różana",
                 "addr:postcode": "22-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Siennica Różana"
             },
             "geometry": {
                 "type": "Point",
@@ -206,9 +206,9 @@
                 "ref:csioz": 1181747,
                 "name": "Apteka Rodzinna",
                 "addr:housenumber": "24",
-                "addr:city": "Fajsławice",
                 "addr:postcode": "21-060",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Fajsławice"
             },
             "geometry": {
                 "type": "Point",
@@ -280,9 +280,9 @@
             "properties": {
                 "ref:csioz": 1157056,
                 "addr:housenumber": "101",
-                "addr:city": "Łopiennik Nadrzeczny",
                 "addr:postcode": "22-351",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łopiennik Nadrzeczny"
             },
             "geometry": {
                 "type": "Point",
@@ -413,9 +413,9 @@
                 "ref:csioz": 1211066,
                 "name": "Premium-Lek",
                 "addr:housenumber": "15G",
-                "addr:city": "Siennica Nadolna",
                 "addr:postcode": "22-302",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Siennica Nadolna"
             },
             "geometry": {
                 "type": "Point",
@@ -431,9 +431,9 @@
                 "ref:csioz": 1217591,
                 "name": "-",
                 "addr:housenumber": "64",
-                "addr:city": "Rudnik",
                 "addr:postcode": "22-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rudnik"
             },
             "geometry": {
                 "type": "Point",
@@ -448,9 +448,9 @@
             "properties": {
                 "ref:csioz": 1230600,
                 "addr:housenumber": "64",
-                "addr:city": "Rudnik",
                 "addr:postcode": "22-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rudnik"
             },
             "geometry": {
                 "type": "Point",

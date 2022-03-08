@@ -306,9 +306,9 @@
             "properties": {
                 "ref:csioz": 1004477,
                 "addr:housenumber": "94",
-                "addr:city": "Lipnik",
                 "addr:postcode": "27-540",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipnik"
             },
             "geometry": {
                 "type": "Point",

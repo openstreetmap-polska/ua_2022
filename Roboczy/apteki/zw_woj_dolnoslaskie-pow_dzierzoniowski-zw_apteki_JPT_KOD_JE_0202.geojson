@@ -769,9 +769,9 @@
                 "ref:csioz": 1225874,
                 "name": "Na Dobre I Na Złe",
                 "addr:housenumber": "113",
-                "addr:city": "Jaźwina",
                 "addr:postcode": "58-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jaźwina"
             },
             "geometry": {
                 "type": "Point",

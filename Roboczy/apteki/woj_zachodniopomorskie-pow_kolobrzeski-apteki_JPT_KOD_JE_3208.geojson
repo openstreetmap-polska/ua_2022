@@ -105,9 +105,9 @@
                 "ref:csioz": 1139795,
                 "name": "Medi-Farm",
                 "addr:housenumber": "59b",
-                "addr:city": "Drzonowo",
                 "addr:postcode": "78-133",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Drzonowo"
             },
             "geometry": {
                 "type": "Point",
@@ -331,9 +331,9 @@
                 "ref:csioz": 1138154,
                 "name": "Pigułka",
                 "addr:housenumber": "54a",
-                "addr:city": "Wrzosowo",
                 "addr:postcode": "78-114",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wrzosowo"
             },
             "geometry": {
                 "type": "Point",

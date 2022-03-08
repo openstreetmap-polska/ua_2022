@@ -80,9 +80,9 @@
             "properties": {
                 "ref:csioz": 1178579,
                 "addr:housenumber": "210",
-                "addr:city": "Olszanica",
                 "addr:postcode": "38-722",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Olszanica"
             },
             "geometry": {
                 "type": "Point",
@@ -98,9 +98,9 @@
                 "ref:csioz": 1182724,
                 "name": "Danfarm Punkt Apteczny Cisna",
                 "addr:housenumber": "26",
-                "addr:city": "Cisna",
                 "addr:postcode": "38-607",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Cisna"
             },
             "geometry": {
                 "type": "Point",
@@ -211,9 +211,9 @@
                 "ref:csioz": 1221479,
                 "name": "Danfarm Apteka Olszanica",
                 "addr:housenumber": "208",
-                "addr:city": "Olszanica",
                 "addr:postcode": "38-722",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Olszanica"
             },
             "geometry": {
                 "type": "Point",

@@ -122,9 +122,9 @@
                 "ref:csioz": 1134888,
                 "name": "\"Punkt Apteczny \"\"Melisa\"\"\"",
                 "addr:housenumber": "166A",
-                "addr:city": "Wądroże Wielkie",
                 "addr:postcode": "59-430",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wądroże Wielkie"
             },
             "geometry": {
                 "type": "Point",
@@ -331,9 +331,9 @@
                 "ref:csioz": 1230801,
                 "name": "Punkt Apteczny Impuls",
                 "addr:housenumber": "260",
-                "addr:city": "Paszowice",
                 "addr:postcode": "59-411",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Paszowice"
             },
             "geometry": {
                 "type": "Point",

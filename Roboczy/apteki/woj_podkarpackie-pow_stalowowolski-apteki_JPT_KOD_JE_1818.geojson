@@ -382,9 +382,9 @@
                 "ref:csioz": 1181904,
                 "name": "Punkt Apteczny Słoneczny",
                 "addr:housenumber": "111",
-                "addr:city": "Antoniów",
                 "addr:postcode": "37-455",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Antoniów"
             },
             "geometry": {
                 "type": "Point",
@@ -586,9 +586,9 @@
                 "ref:csioz": 1143865,
                 "name": "Panax",
                 "addr:housenumber": "223",
-                "addr:city": "Rzeczyca Długa",
                 "addr:postcode": "37-455",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rzeczyca Długa"
             },
             "geometry": {
                 "type": "Point",

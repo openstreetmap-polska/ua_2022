@@ -324,9 +324,9 @@
                 "ref:csioz": 1188435,
                 "name": "Apteka Prywatna S.C. Mgr J. Kozak Mgr E. Stec",
                 "addr:housenumber": "37",
-                "addr:city": "Wilkołaz Pierwszy",
                 "addr:postcode": "23-211",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wilkołaz Pierwszy"
             },
             "geometry": {
                 "type": "Point",
@@ -399,9 +399,9 @@
                 "ref:csioz": 1224572,
                 "name": "Punkt Apteczny Rodzinny",
                 "addr:housenumber": "6",
-                "addr:city": "Popkowice",
                 "addr:postcode": "23-250",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Popkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -435,9 +435,9 @@
                 "ref:csioz": 1106342,
                 "name": "Punkt Apteczny Olbięcin",
                 "addr:housenumber": "202",
-                "addr:city": "Olbięcin",
                 "addr:postcode": "23-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Olbięcin"
             },
             "geometry": {
                 "type": "Point",
@@ -678,9 +678,9 @@
             "properties": {
                 "ref:csioz": 1157852,
                 "addr:housenumber": "57A",
-                "addr:city": "Gościeradów Ukazowy",
                 "addr:postcode": "23-275",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gościeradów Ukazowy"
             },
             "geometry": {
                 "type": "Point",
@@ -695,9 +695,9 @@
             "properties": {
                 "ref:csioz": 1162515,
                 "addr:housenumber": "115",
-                "addr:city": "Polichna II",
                 "addr:postcode": "23-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Polichna II"
             },
             "geometry": {
                 "type": "Point",
@@ -714,9 +714,9 @@
                 "name": "Nowa Rzeczycka",
                 "addr:housenumber": "56",
                 "addr:flats": "1.3. A",
-                "addr:city": "Rzeczyca Ziemiańska",
                 "addr:postcode": "23-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rzeczyca Ziemiańska"
             },
             "geometry": {
                 "type": "Point",
@@ -732,9 +732,9 @@
                 "ref:csioz": 1116585,
                 "name": "Apteka Zawsze Najniższe Ceny",
                 "addr:housenumber": "71A",
-                "addr:city": "Trzydnik Duży",
                 "addr:postcode": "23-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trzydnik Duży"
             },
             "geometry": {
                 "type": "Point",
@@ -750,9 +750,9 @@
                 "ref:csioz": 1158428,
                 "name": "\"Apteka \"\"Zdrowie\"\"\"",
                 "addr:housenumber": "156",
-                "addr:city": "Gościeradów Ukazowy",
                 "addr:postcode": "23-275",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gościeradów Ukazowy"
             },
             "geometry": {
                 "type": "Point",

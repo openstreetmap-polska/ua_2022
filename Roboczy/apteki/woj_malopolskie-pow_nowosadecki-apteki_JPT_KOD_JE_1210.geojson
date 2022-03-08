@@ -27,9 +27,9 @@
                 "ref:csioz": 1080152,
                 "name": "Apteka Nowa",
                 "addr:housenumber": "377",
-                "addr:city": "Łososina Dolna",
                 "addr:postcode": "33-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łososina Dolna"
             },
             "geometry": {
                 "type": "Point",
@@ -44,9 +44,9 @@
             "properties": {
                 "ref:csioz": 1080208,
                 "addr:housenumber": "406",
-                "addr:city": "Rożnów",
                 "addr:postcode": "33-316",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rożnów"
             },
             "geometry": {
                 "type": "Point",
@@ -62,9 +62,9 @@
                 "ref:csioz": 1192492,
                 "name": "Apteka Gródek",
                 "addr:housenumber": "54",
-                "addr:city": "Gródek nad Dunajcem",
                 "addr:postcode": "33-318",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gródek nad Dunajcem"
             },
             "geometry": {
                 "type": "Point",
@@ -80,9 +80,9 @@
                 "ref:csioz": 1080219,
                 "name": "Paracelsus",
                 "addr:housenumber": "338",
-                "addr:city": "Korzenna",
                 "addr:postcode": "33-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Korzenna"
             },
             "geometry": {
                 "type": "Point",
@@ -98,9 +98,9 @@
                 "ref:csioz": 1080224,
                 "name": "Apteka Bena-Cor",
                 "addr:housenumber": "425",
-                "addr:city": "Korzenna",
                 "addr:postcode": "33-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Korzenna"
             },
             "geometry": {
                 "type": "Point",
@@ -134,9 +134,9 @@
             "properties": {
                 "ref:csioz": 1080628,
                 "addr:housenumber": "585",
-                "addr:city": "Stróże",
                 "addr:postcode": "33-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stróże"
             },
             "geometry": {
                 "type": "Point",
@@ -152,9 +152,9 @@
                 "ref:csioz": 1114533,
                 "name": "Dział Farmacji Szpitalnej",
                 "addr:housenumber": "622",
-                "addr:city": "Stróże",
                 "addr:postcode": "33-331",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stróże"
             },
             "geometry": {
                 "type": "Point",
@@ -188,9 +188,9 @@
                 "ref:csioz": 1181515,
                 "name": "Apteka Paszyńska Mgr Farm. Lucyna Baranowska",
                 "addr:housenumber": "527",
-                "addr:city": "Paszyn",
                 "addr:postcode": "33-326",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Paszyn"
             },
             "geometry": {
                 "type": "Point",
@@ -206,9 +206,9 @@
                 "ref:csioz": 1183292,
                 "name": "Nova-Pharm Punkt Apteczny",
                 "addr:housenumber": "45",
-                "addr:city": "Wielogłowy",
                 "addr:postcode": "33-311",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wielogłowy"
             },
             "geometry": {
                 "type": "Point",
@@ -225,9 +225,9 @@
                 "name": "Apteka Pod Justem",
                 "addr:housenumber": "377",
                 "addr:flats": "B",
-                "addr:city": "Łososina Dolna",
                 "addr:postcode": "33-314",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łososina Dolna"
             },
             "geometry": {
                 "type": "Point",
@@ -243,9 +243,9 @@
                 "ref:csioz": 1208796,
                 "name": "Arnika",
                 "addr:housenumber": "228",
-                "addr:city": "Siedlce",
                 "addr:postcode": "33-322",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Siedlce"
             },
             "geometry": {
                 "type": "Point",
@@ -261,9 +261,9 @@
                 "ref:csioz": 1227502,
                 "name": "Punkt Apteczny Adma",
                 "addr:housenumber": "181",
-                "addr:city": "Krużlowa Wyżna",
                 "addr:postcode": "33-325",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krużlowa Wyżna"
             },
             "geometry": {
                 "type": "Point",
@@ -298,9 +298,9 @@
                 "ref:csioz": 1080365,
                 "name": "Apteka Łabowska",
                 "addr:housenumber": "253",
-                "addr:city": "Łabowa",
                 "addr:postcode": "33-336",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łabowa"
             },
             "geometry": {
                 "type": "Point",
@@ -315,9 +315,9 @@
             "properties": {
                 "ref:csioz": 1080096,
                 "addr:housenumber": "265",
-                "addr:city": "Rytro",
                 "addr:postcode": "33-343",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rytro"
             },
             "geometry": {
                 "type": "Point",
@@ -350,9 +350,9 @@
             "properties": {
                 "ref:csioz": 1080448,
                 "addr:housenumber": "258",
-                "addr:city": "Jazowsko",
                 "addr:postcode": "33-389",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jazowsko"
             },
             "geometry": {
                 "type": "Point",
@@ -368,9 +368,9 @@
                 "ref:csioz": 1080436,
                 "name": "\"Apteka \"\"Pilula\"\" S.C.\"",
                 "addr:housenumber": "426",
-                "addr:city": "Podegrodzie",
                 "addr:postcode": "33-386",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Podegrodzie"
             },
             "geometry": {
                 "type": "Point",
@@ -537,9 +537,9 @@
             "properties": {
                 "ref:csioz": 1080742,
                 "addr:housenumber": "396",
-                "addr:city": "Brzezna",
                 "addr:postcode": "33-386",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brzezna"
             },
             "geometry": {
                 "type": "Point",
@@ -592,9 +592,9 @@
                 "ref:csioz": 1080311,
                 "name": "Dr. Max",
                 "addr:housenumber": "270",
-                "addr:city": "Stróże",
                 "addr:postcode": "38-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stróże"
             },
             "geometry": {
                 "type": "Point",
@@ -610,9 +610,9 @@
                 "ref:csioz": 1080322,
                 "name": "Dr. Max",
                 "addr:housenumber": "633",
-                "addr:city": "Ptaszkowa",
                 "addr:postcode": "33-333",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ptaszkowa"
             },
             "geometry": {
                 "type": "Point",
@@ -627,9 +627,9 @@
             "properties": {
                 "ref:csioz": 1080333,
                 "addr:housenumber": "254",
-                "addr:city": "Florynka",
                 "addr:postcode": "33-332",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Florynka"
             },
             "geometry": {
                 "type": "Point",
@@ -795,9 +795,9 @@
             "properties": {
                 "ref:csioz": 1081426,
                 "addr:housenumber": "422",
-                "addr:city": "Barcice",
                 "addr:postcode": "33-342",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Barcice"
             },
             "geometry": {
                 "type": "Point",
@@ -850,9 +850,9 @@
             "properties": {
                 "ref:csioz": 1119427,
                 "addr:housenumber": "1",
-                "addr:city": "Łącko",
                 "addr:postcode": "33-390",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łącko"
             },
             "geometry": {
                 "type": "Point",
@@ -868,9 +868,9 @@
                 "ref:csioz": 1117700,
                 "name": "Pro Vitae",
                 "addr:housenumber": "10",
-                "addr:city": "Chomranice",
                 "addr:postcode": "33-394",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Chomranice"
             },
             "geometry": {
                 "type": "Point",
@@ -886,9 +886,9 @@
                 "ref:csioz": 1122339,
                 "name": "Ew-Ko Ewa Buchalska-Konior Apteka Ryterska",
                 "addr:housenumber": "541",
-                "addr:city": "Rytro",
                 "addr:postcode": "33-343",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rytro"
             },
             "geometry": {
                 "type": "Point",
@@ -904,9 +904,9 @@
                 "ref:csioz": 1123124,
                 "name": "Apteka Nova-Pharm",
                 "addr:housenumber": "512",
-                "addr:city": "Kamionka Wielka",
                 "addr:postcode": "33-334",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kamionka Wielka"
             },
             "geometry": {
                 "type": "Point",
@@ -921,9 +921,9 @@
             "properties": {
                 "ref:csioz": 1173131,
                 "addr:housenumber": "140",
-                "addr:city": "Czarny Potok",
                 "addr:postcode": "33-390",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czarny Potok"
             },
             "geometry": {
                 "type": "Point",
@@ -1015,9 +1015,9 @@
                 "ref:csioz": 1192220,
                 "name": "Dział Farmacji Szpitalnej",
                 "addr:housenumber": "284",
-                "addr:city": "Łabowa",
                 "addr:postcode": "33-335",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łabowa"
             },
             "geometry": {
                 "type": "Point",
@@ -1053,9 +1053,9 @@
                 "name": "Nowa",
                 "addr:housenumber": "210",
                 "addr:flats": "A",
-                "addr:city": "Podegrodzie",
                 "addr:postcode": "33-386",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Podegrodzie"
             },
             "geometry": {
                 "type": "Point",
@@ -1108,9 +1108,9 @@
                 "ref:csioz": 1217336,
                 "name": "Dział Farmacji Szpitalnej",
                 "addr:housenumber": "850",
-                "addr:city": "Ptaszkowa",
                 "addr:postcode": "33-333",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ptaszkowa"
             },
             "geometry": {
                 "type": "Point",
@@ -1126,9 +1126,9 @@
                 "ref:csioz": 1219094,
                 "name": "Apteka Krokus",
                 "addr:housenumber": "843",
-                "addr:city": "Łącko",
                 "addr:postcode": "33-390",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łącko"
             },
             "geometry": {
                 "type": "Point",
@@ -1144,9 +1144,9 @@
                 "ref:csioz": 1221004,
                 "name": "Apteka Mojej Mamy",
                 "addr:housenumber": "963",
-                "addr:city": "Łącko",
                 "addr:postcode": "33-390",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łącko"
             },
             "geometry": {
                 "type": "Point",
@@ -1200,9 +1200,9 @@
                 "ref:csioz": 1229547,
                 "name": "Punkt Apteczny Kinga",
                 "addr:housenumber": "24",
-                "addr:city": "Gołkowice Dolne",
                 "addr:postcode": "33-388",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gołkowice Dolne"
             },
             "geometry": {
                 "type": "Point",
@@ -1218,9 +1218,9 @@
                 "ref:csioz": 1230789,
                 "name": "Łukasz Korpak „Apteka Sądecka”",
                 "addr:housenumber": "645",
-                "addr:city": "Brzezna",
                 "addr:postcode": "33-386",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brzezna"
             },
             "geometry": {
                 "type": "Point",

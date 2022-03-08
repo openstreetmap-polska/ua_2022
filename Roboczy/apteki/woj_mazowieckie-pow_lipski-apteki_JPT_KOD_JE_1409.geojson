@@ -62,9 +62,9 @@
                 "ref:csioz": 1096337,
                 "name": "Stara Plebania",
                 "addr:housenumber": "68",
-                "addr:city": "Pawłowice",
                 "addr:postcode": "27-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pawłowice"
             },
             "geometry": {
                 "type": "Point",
@@ -173,9 +173,9 @@
             "properties": {
                 "ref:csioz": 1107259,
                 "addr:housenumber": "63",
-                "addr:city": "Kałków",
                 "addr:postcode": "48-364",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kałków"
             },
             "geometry": {
                 "type": "Point",
@@ -228,9 +228,9 @@
             "properties": {
                 "ref:csioz": 1094945,
                 "addr:housenumber": "4",
-                "addr:city": "Rzeczniówek",
                 "addr:postcode": "27-353",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rzeczniówek"
             },
             "geometry": {
                 "type": "Point",

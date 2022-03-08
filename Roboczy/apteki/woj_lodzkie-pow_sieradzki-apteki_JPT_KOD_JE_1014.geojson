@@ -368,9 +368,9 @@
                 "ref:csioz": 1177573,
                 "name": "\"Apteka \"\"Pod Fontanną\"\"\"",
                 "addr:housenumber": "109A",
-                "addr:city": "Gruszczyce",
                 "addr:postcode": "98-235",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gruszczyce"
             },
             "geometry": {
                 "type": "Point",
@@ -480,9 +480,9 @@
             "properties": {
                 "ref:csioz": 1025971,
                 "addr:housenumber": "10C",
-                "addr:city": "Wróblew",
                 "addr:postcode": "98-285",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wróblew"
             },
             "geometry": {
                 "type": "Point",
@@ -669,9 +669,9 @@
                 "ref:csioz": 1193256,
                 "name": "\"Dział Farmacji Szpitalnej Nzoz \"\"Clinica 'Gruszczyce\"",
                 "addr:housenumber": "111",
-                "addr:city": "Gruszczyce",
                 "addr:postcode": "98-235",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gruszczyce"
             },
             "geometry": {
                 "type": "Point",
@@ -762,9 +762,9 @@
                 "ref:csioz": 1022813,
                 "name": "Retiro",
                 "addr:housenumber": "107A",
-                "addr:city": "Kalinowa",
                 "addr:postcode": "98-235",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kalinowa"
             },
             "geometry": {
                 "type": "Point",

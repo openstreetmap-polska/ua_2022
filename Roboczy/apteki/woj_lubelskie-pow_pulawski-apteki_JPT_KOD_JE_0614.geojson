@@ -230,9 +230,9 @@
                 "ref:csioz": 1190187,
                 "name": "Dział Farmacjiszpitalnej",
                 "addr:housenumber": "68",
-                "addr:city": "Celejów",
                 "addr:postcode": "24-120",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Celejów"
             },
             "geometry": {
                 "type": "Point",
@@ -323,9 +323,9 @@
             "properties": {
                 "ref:csioz": 1157963,
                 "addr:housenumber": "314",
-                "addr:city": "Klementowice",
                 "addr:postcode": "24-170",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Klementowice"
             },
             "geometry": {
                 "type": "Point",

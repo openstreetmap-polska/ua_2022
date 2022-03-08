@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1090591,
                 "addr:housenumber": "98",
-                "addr:city": "Sowia Wola",
                 "addr:postcode": "05-152",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sowia Wola"
             },
             "geometry": {
                 "type": "Point",

@@ -7,9 +7,9 @@
             "properties": {
                 "ref:csioz": 1168838,
                 "addr:housenumber": "73",
-                "addr:city": "Świerzno",
                 "addr:postcode": "72-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Świerzno"
             },
             "geometry": {
                 "type": "Point",

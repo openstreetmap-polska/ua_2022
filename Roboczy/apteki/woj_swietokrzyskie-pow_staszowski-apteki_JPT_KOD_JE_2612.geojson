@@ -156,9 +156,9 @@
                 "ref:csioz": 1004899,
                 "name": "Punkt Apteczny Rodzinny",
                 "addr:housenumber": "116",
-                "addr:city": "Wiśniowa",
                 "addr:postcode": "28-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wiśniowa"
             },
             "geometry": {
                 "type": "Point",
@@ -399,9 +399,9 @@
             "properties": {
                 "ref:csioz": 1004779,
                 "addr:housenumber": "62",
-                "addr:city": "Jurkowice",
                 "addr:postcode": "28-210",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jurkowice"
             },
             "geometry": {
                 "type": "Point",
@@ -473,9 +473,9 @@
             "properties": {
                 "ref:csioz": 1004514,
                 "addr:housenumber": "73",
-                "addr:city": "ŁUBNICE",
                 "addr:postcode": "28-232",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "ŁUBNICE"
             },
             "geometry": {
                 "type": "Point",
@@ -508,9 +508,9 @@
             "properties": {
                 "ref:csioz": 1001134,
                 "addr:housenumber": "24",
-                "addr:city": "Zawada",
                 "addr:postcode": "28-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zawada"
             },
             "geometry": {
                 "type": "Point",
@@ -585,9 +585,9 @@
                 "name": "\"Punkt Apteczny \"\"Nad Potokiem\"\"\"",
                 "addr:housenumber": "70",
                 "addr:flats": "2",
-                "addr:city": "Strzelce",
                 "addr:postcode": "58-124",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Strzelce"
             },
             "geometry": {
                 "type": "Point",

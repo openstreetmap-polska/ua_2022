@@ -576,9 +576,9 @@
             "properties": {
                 "ref:csioz": 1177858,
                 "addr:housenumber": "14",
-                "addr:city": "Sobików",
                 "addr:postcode": "05-530",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sobików"
             },
             "geometry": {
                 "type": "Point",
@@ -708,9 +708,9 @@
                 "ref:csioz": 1230353,
                 "name": "Rehabilitacja Konstancin",
                 "addr:housenumber": "5",
-                "addr:city": "Szymanów",
                 "addr:postcode": "05-532",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szymanów"
             },
             "geometry": {
                 "type": "Point",

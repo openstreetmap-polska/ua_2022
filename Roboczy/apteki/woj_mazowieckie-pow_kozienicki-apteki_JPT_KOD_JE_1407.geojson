@@ -100,9 +100,9 @@
                 "ref:csioz": 1229009,
                 "name": "Nzoz Ośrodek Readaptacyjny Dla Osób Uzależnionych W Radomiu Filia Nr 2",
                 "addr:housenumber": "81A",
-                "addr:city": "Bogucin",
                 "addr:postcode": "26-930",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bogucin"
             },
             "geometry": {
                 "type": "Point",
@@ -362,9 +362,9 @@
                 "ref:csioz": 1211619,
                 "addr:housenumber": "55",
                 "addr:flats": "2",
-                "addr:city": "Świerże Górne",
                 "addr:postcode": "26-900",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Świerże Górne"
             },
             "geometry": {
                 "type": "Point",
@@ -399,9 +399,9 @@
             "properties": {
                 "ref:csioz": 1096288,
                 "addr:housenumber": "18",
-                "addr:city": "Mniszew",
                 "addr:postcode": "26-914",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mniszew"
             },
             "geometry": {
                 "type": "Point",

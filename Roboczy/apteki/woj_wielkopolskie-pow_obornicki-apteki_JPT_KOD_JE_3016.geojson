@@ -157,9 +157,9 @@
                 "ref:csioz": 1175652,
                 "name": "Chiron",
                 "addr:housenumber": "11G",
-                "addr:city": "Bogdanowo",
                 "addr:postcode": "64-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bogdanowo"
             },
             "geometry": {
                 "type": "Point",
@@ -423,9 +423,9 @@
                 "ref:csioz": 1192301,
                 "name": "Passiflora",
                 "addr:housenumber": "71",
-                "addr:city": "Ludomy",
                 "addr:postcode": "64-603",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ludomy"
             },
             "geometry": {
                 "type": "Point",
@@ -441,9 +441,9 @@
                 "ref:csioz": 1226953,
                 "name": "Agnus",
                 "addr:housenumber": "99",
-                "addr:city": "Parkowo",
                 "addr:postcode": "64-608",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Parkowo"
             },
             "geometry": {
                 "type": "Point",

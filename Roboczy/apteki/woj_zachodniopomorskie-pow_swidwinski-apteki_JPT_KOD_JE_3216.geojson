@@ -123,9 +123,9 @@
                 "ref:csioz": 1147938,
                 "name": "Melisa",
                 "addr:housenumber": "47",
-                "addr:city": "Brzeżno",
                 "addr:postcode": "78-316",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Brzeżno"
             },
             "geometry": {
                 "type": "Point",

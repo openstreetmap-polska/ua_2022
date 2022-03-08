@@ -118,9 +118,9 @@
             "properties": {
                 "ref:csioz": 1025663,
                 "addr:housenumber": "185B",
-                "addr:city": "Osiek",
                 "addr:postcode": "98-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Osiek"
             },
             "geometry": {
                 "type": "Point",

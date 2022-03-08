@@ -141,9 +141,9 @@
                 "ref:csioz": 1045139,
                 "name": "Aronia",
                 "addr:housenumber": "96A",
-                "addr:city": "BELĘCIN",
                 "addr:postcode": "64-231",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "BELĘCIN"
             },
             "geometry": {
                 "type": "Point",

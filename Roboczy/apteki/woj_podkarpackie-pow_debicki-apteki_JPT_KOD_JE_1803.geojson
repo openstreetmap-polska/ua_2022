@@ -8,9 +8,9 @@
                 "ref:csioz": 1125459,
                 "name": "Melisa",
                 "addr:housenumber": "8B",
-                "addr:city": "Dobrków",
                 "addr:postcode": "39-220",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dobrków"
             },
             "geometry": {
                 "type": "Point",
@@ -26,9 +26,9 @@
                 "ref:csioz": 1125511,
                 "name": "Vita",
                 "addr:housenumber": "78",
-                "addr:city": "Smarżowa",
                 "addr:postcode": "39-231",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Smarżowa"
             },
             "geometry": {
                 "type": "Point",
@@ -178,9 +178,9 @@
                 "ref:csioz": 1144937,
                 "name": "Galen",
                 "addr:housenumber": "245F",
-                "addr:city": "Nagawczyna",
                 "addr:postcode": "39-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nagawczyna"
             },
             "geometry": {
                 "type": "Point",
@@ -233,9 +233,9 @@
             "properties": {
                 "ref:csioz": 1171733,
                 "addr:housenumber": "516",
-                "addr:city": "Pustków",
                 "addr:postcode": "39-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pustków"
             },
             "geometry": {
                 "type": "Point",
@@ -381,9 +381,9 @@
             "properties": {
                 "ref:csioz": 1144984,
                 "addr:housenumber": "36B",
-                "addr:city": "Pustków-Osiedle",
                 "addr:postcode": "39-206",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Pustków-Osiedle"
             },
             "geometry": {
                 "type": "Point",
@@ -456,9 +456,9 @@
                 "ref:csioz": 1196725,
                 "name": "Witaminka",
                 "addr:housenumber": "147a",
-                "addr:city": "Żyraków",
                 "addr:postcode": "39-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Żyraków"
             },
             "geometry": {
                 "type": "Point",
@@ -531,9 +531,9 @@
                 "ref:csioz": 1229657,
                 "name": "Witaminka",
                 "addr:housenumber": "108E",
-                "addr:city": "Bobrowa",
                 "addr:postcode": "39-203",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bobrowa"
             },
             "geometry": {
                 "type": "Point",
@@ -606,9 +606,9 @@
                 "ref:csioz": 1125492,
                 "name": "Pod Jesionem",
                 "addr:housenumber": "142B",
-                "addr:city": "Róża",
                 "addr:postcode": "39-215",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Róża"
             },
             "geometry": {
                 "type": "Point",
@@ -624,9 +624,9 @@
                 "ref:csioz": 1125468,
                 "name": "Dbam O Zdrowie",
                 "addr:housenumber": "25B",
-                "addr:city": "Jodłowa",
                 "addr:postcode": "38-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jodłowa"
             },
             "geometry": {
                 "type": "Point",
@@ -661,9 +661,9 @@
                 "ref:csioz": 1144921,
                 "name": "Apteka W Jodłowej",
                 "addr:housenumber": "29",
-                "addr:city": "Jodłowa",
                 "addr:postcode": "39-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jodłowa"
             },
             "geometry": {
                 "type": "Point",
@@ -773,9 +773,9 @@
                 "ref:csioz": 1224804,
                 "name": "Melilotus",
                 "addr:housenumber": "186A",
-                "addr:city": "Róża",
                 "addr:postcode": "39-216",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Róża"
             },
             "geometry": {
                 "type": "Point",
@@ -791,9 +791,9 @@
                 "ref:csioz": 1203362,
                 "name": "Arnika",
                 "addr:housenumber": "16",
-                "addr:city": "Jodłowa",
                 "addr:postcode": "39-225",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jodłowa"
             },
             "geometry": {
                 "type": "Point",

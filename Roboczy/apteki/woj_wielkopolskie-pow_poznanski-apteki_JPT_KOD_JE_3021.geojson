@@ -1017,9 +1017,9 @@
                 "ref:csioz": 1139826,
                 "name": "Apteka Leśna",
                 "addr:housenumber": "19",
-                "addr:city": "Rosnowo",
                 "addr:postcode": "76-042",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rosnowo"
             },
             "geometry": {
                 "type": "Point",
@@ -2314,9 +2314,9 @@
                 "ref:csioz": 1046862,
                 "name": "Nagradowice",
                 "addr:housenumber": "11",
-                "addr:city": "Nagradowice",
                 "addr:postcode": "63-006",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nagradowice"
             },
             "geometry": {
                 "type": "Point",

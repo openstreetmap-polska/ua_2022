@@ -371,9 +371,9 @@
                 "ref:csioz": 1183966,
                 "name": "Dział Farmacji Szpitalnej W Ośrodku Medycyny Paliatywnej I Hospicyjnej",
                 "addr:housenumber": "1",
-                "addr:city": "Będkowo",
                 "addr:postcode": "55-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Będkowo"
             },
             "geometry": {
                 "type": "Point",
@@ -427,9 +427,9 @@
                 "ref:csioz": 1135623,
                 "name": "Farmax",
                 "addr:housenumber": "26A",
-                "addr:city": "Ujeździec Wielki",
                 "addr:postcode": "55-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ujeździec Wielki"
             },
             "geometry": {
                 "type": "Point",

@@ -102,9 +102,9 @@
             "properties": {
                 "ref:csioz": 1052648,
                 "addr:housenumber": "36A",
-                "addr:city": "SOWINA BŁOTNA",
                 "addr:postcode": "63-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "SOWINA BŁOTNA"
             },
             "geometry": {
                 "type": "Point",
@@ -138,9 +138,9 @@
                 "ref:csioz": 1052807,
                 "name": "Panaceum",
                 "addr:housenumber": "17",
-                "addr:city": "CZERMIN",
                 "addr:postcode": "63-304",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "CZERMIN"
             },
             "geometry": {
                 "type": "Point",

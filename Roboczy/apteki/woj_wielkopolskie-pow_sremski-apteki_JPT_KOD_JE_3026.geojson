@@ -83,9 +83,9 @@
                 "ref:csioz": 1192212,
                 "name": "Gracja",
                 "addr:housenumber": "41",
-                "addr:city": "Mchy",
                 "addr:postcode": "63-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mchy"
             },
             "geometry": {
                 "type": "Point",
@@ -101,9 +101,9 @@
                 "ref:csioz": 1193978,
                 "name": "Przy Biedronce",
                 "addr:housenumber": "22",
-                "addr:city": "Radoszkowo Drugie",
                 "addr:postcode": "63-130",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Radoszkowo Drugie"
             },
             "geometry": {
                 "type": "Point",

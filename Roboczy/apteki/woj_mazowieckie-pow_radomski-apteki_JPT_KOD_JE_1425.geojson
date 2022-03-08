@@ -194,9 +194,9 @@
             "properties": {
                 "ref:csioz": 1095884,
                 "addr:housenumber": "90",
-                "addr:city": "Kowala-Stępocina",
                 "addr:postcode": "26-624",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kowala-Stępocina"
             },
             "geometry": {
                 "type": "Point",
@@ -248,9 +248,9 @@
             "properties": {
                 "ref:csioz": 1096384,
                 "addr:housenumber": "79",
-                "addr:city": "Jasieniec Iłżecki Górny",
                 "addr:postcode": "27-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jasieniec Iłżecki Górny"
             },
             "geometry": {
                 "type": "Point",
@@ -453,9 +453,9 @@
                 "ref:csioz": 1195088,
                 "name": "Zakrzew Em-Farm Jarosław Stępień",
                 "addr:housenumber": "41A",
-                "addr:city": "Zakrzew",
                 "addr:postcode": "26-652",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zakrzew"
             },
             "geometry": {
                 "type": "Point",
@@ -547,9 +547,9 @@
                 "ref:csioz": 1230389,
                 "name": "Punkt Apteczny Od Serca",
                 "addr:housenumber": "77A",
-                "addr:city": "Jedlnia",
                 "addr:postcode": "26-670",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jedlnia"
             },
             "geometry": {
                 "type": "Point",

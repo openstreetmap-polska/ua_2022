@@ -139,9 +139,9 @@
                 "ref:csioz": 1078695,
                 "name": "\"Apteka Prywatna 'Pod Orzechem'\"",
                 "addr:housenumber": "213",
-                "addr:city": "Cikowice",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Cikowice"
             },
             "geometry": {
                 "type": "Point",
@@ -156,9 +156,9 @@
             "properties": {
                 "ref:csioz": 1078718,
                 "addr:housenumber": "19",
-                "addr:city": "Dziewin",
                 "addr:postcode": "32-008",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dziewin"
             },
             "geometry": {
                 "type": "Point",
@@ -174,9 +174,9 @@
                 "ref:csioz": 1078739,
                 "name": "Apteka Remedium",
                 "addr:housenumber": "407",
-                "addr:city": "Łąkta Górna",
                 "addr:postcode": "32-731",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łąkta Górna"
             },
             "geometry": {
                 "type": "Point",
@@ -192,9 +192,9 @@
                 "ref:csioz": 1078747,
                 "name": "\"Apteka 'Vita' A.P. Mendrych Spółka Jawna\"",
                 "addr:housenumber": "185",
-                "addr:city": "Łapanów",
                 "addr:postcode": "32-740",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łapanów"
             },
             "geometry": {
                 "type": "Point",
@@ -210,9 +210,9 @@
                 "ref:csioz": 1078752,
                 "name": "Kinga",
                 "addr:housenumber": "204",
-                "addr:city": "Łapczyca",
                 "addr:postcode": "32-744",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łapczyca"
             },
             "geometry": {
                 "type": "Point",
@@ -228,9 +228,9 @@
                 "ref:csioz": 1079545,
                 "name": "Krokus",
                 "addr:housenumber": "25",
-                "addr:city": "Łapanów",
                 "addr:postcode": "32-740",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łapanów"
             },
             "geometry": {
                 "type": "Point",
@@ -245,9 +245,9 @@
             "properties": {
                 "ref:csioz": 1079644,
                 "addr:housenumber": "444",
-                "addr:city": "Stanisławice",
                 "addr:postcode": "32-015",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stanisławice"
             },
             "geometry": {
                 "type": "Point",
@@ -282,9 +282,9 @@
                 "ref:csioz": 1183467,
                 "name": "\"Apteka 'Remedium'\"",
                 "addr:housenumber": "548",
-                "addr:city": "Proszówki",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Proszówki"
             },
             "geometry": {
                 "type": "Point",
@@ -320,9 +320,9 @@
                 "ref:csioz": 1199046,
                 "name": "Remedium",
                 "addr:housenumber": "9",
-                "addr:city": "Rajbrot",
                 "addr:postcode": "32-725",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rajbrot"
             },
             "geometry": {
                 "type": "Point",
@@ -338,9 +338,9 @@
                 "ref:csioz": 1079689,
                 "name": "Rumianek",
                 "addr:housenumber": "234",
-                "addr:city": "Trzciana",
                 "addr:postcode": "32-733",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trzciana"
             },
             "geometry": {
                 "type": "Point",
@@ -355,9 +355,9 @@
             "properties": {
                 "ref:csioz": 1079690,
                 "addr:housenumber": "93",
-                "addr:city": "Trzciana",
                 "addr:postcode": "32-733",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Trzciana"
             },
             "geometry": {
                 "type": "Point",
@@ -427,9 +427,9 @@
             "properties": {
                 "ref:csioz": 1078680,
                 "addr:housenumber": "188",
-                "addr:city": "Bogucice",
                 "addr:postcode": "32-711",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bogucice"
             },
             "geometry": {
                 "type": "Point",
@@ -483,9 +483,9 @@
                 "ref:csioz": 1079716,
                 "name": "Wiesiołek",
                 "addr:housenumber": "96",
-                "addr:city": "Zawada",
                 "addr:postcode": "32-700",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zawada"
             },
             "geometry": {
                 "type": "Point",
@@ -559,9 +559,9 @@
                 "name": "Apteka Rumianek",
                 "addr:housenumber": "473",
                 "addr:flats": "B",
-                "addr:city": "Żegocina",
                 "addr:postcode": "32-731",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Żegocina"
             },
             "geometry": {
                 "type": "Point",
@@ -596,9 +596,9 @@
             "properties": {
                 "ref:csioz": 1185615,
                 "addr:housenumber": "240",
-                "addr:city": "Żegocina",
                 "addr:postcode": "32-731",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Żegocina"
             },
             "geometry": {
                 "type": "Point",
@@ -671,9 +671,9 @@
                 "name": "Vitaminka",
                 "addr:housenumber": "253",
                 "addr:flats": "2",
-                "addr:city": "Siedlec",
                 "addr:postcode": "32-744",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Siedlec"
             },
             "geometry": {
                 "type": "Point",
@@ -689,9 +689,9 @@
                 "ref:csioz": 1209585,
                 "name": "Apteka Rumianek",
                 "addr:housenumber": "18",
-                "addr:city": "Łapanów",
                 "addr:postcode": "32-740",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łapanów"
             },
             "geometry": {
                 "type": "Point",
@@ -746,9 +746,9 @@
                 "ref:csioz": 1226556,
                 "name": "Agavit",
                 "addr:housenumber": "311",
-                "addr:city": "Królówka",
                 "addr:postcode": "32-722",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Królówka"
             },
             "geometry": {
                 "type": "Point",
@@ -764,9 +764,9 @@
                 "ref:csioz": 1111703,
                 "name": "Apteka Rumianek",
                 "addr:housenumber": "50",
-                "addr:city": "Lipnica Murowana",
                 "addr:postcode": "32-724",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipnica Murowana"
             },
             "geometry": {
                 "type": "Point",
@@ -782,9 +782,9 @@
                 "ref:csioz": 1187351,
                 "name": "\"Apteka 'Remedium'\"",
                 "addr:housenumber": "83",
-                "addr:city": "Lipnica Murowana",
                 "addr:postcode": "32-724",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lipnica Murowana"
             },
             "geometry": {
                 "type": "Point",

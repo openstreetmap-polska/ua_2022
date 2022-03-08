@@ -64,9 +64,9 @@
             "properties": {
                 "ref:csioz": 1105410,
                 "addr:housenumber": "15",
-                "addr:city": "Czarne",
                 "addr:postcode": "87-603",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czarne"
             },
             "geometry": {
                 "type": "Point",
@@ -81,9 +81,9 @@
             "properties": {
                 "ref:csioz": 1105478,
                 "addr:housenumber": "1",
-                "addr:city": "Zaduszniki",
                 "addr:postcode": "87-603",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zaduszniki"
             },
             "geometry": {
                 "type": "Point",
@@ -99,9 +99,9 @@
                 "ref:csioz": 1105516,
                 "name": "Punkt Apteczny W Łochocinie",
                 "addr:housenumber": "5",
-                "addr:city": "Łochocin",
                 "addr:postcode": "87-600",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łochocin"
             },
             "geometry": {
                 "type": "Point",
@@ -325,9 +325,9 @@
                 "ref:csioz": 1170904,
                 "addr:housenumber": "4",
                 "addr:flats": "1",
-                "addr:city": "Grochowalsk",
                 "addr:postcode": "87-610",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Grochowalsk"
             },
             "geometry": {
                 "type": "Point",
@@ -362,9 +362,9 @@
                 "ref:csioz": 1221364,
                 "name": "Apteka Św. Jakuba",
                 "addr:housenumber": "48",
-                "addr:city": "Janiszewo",
                 "addr:postcode": "87-602",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Janiszewo"
             },
             "geometry": {
                 "type": "Point",

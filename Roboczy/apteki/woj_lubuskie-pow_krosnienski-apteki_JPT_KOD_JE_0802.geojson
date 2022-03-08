@@ -140,9 +140,9 @@
                 "ref:csioz": 1150742,
                 "name": "Bobrowice",
                 "addr:housenumber": "104",
-                "addr:city": "Bobrowice",
                 "addr:postcode": "66-627",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bobrowice"
             },
             "geometry": {
                 "type": "Point",
@@ -252,9 +252,9 @@
             "properties": {
                 "ref:csioz": 1178995,
                 "addr:housenumber": "112",
-                "addr:city": "Maszewo",
                 "addr:postcode": "66-614",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Maszewo"
             },
             "geometry": {
                 "type": "Point",
@@ -344,9 +344,9 @@
             "properties": {
                 "ref:csioz": 1228746,
                 "addr:housenumber": "52c",
-                "addr:city": "Bytnica",
                 "addr:postcode": "66-630",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bytnica"
             },
             "geometry": {
                 "type": "Point",

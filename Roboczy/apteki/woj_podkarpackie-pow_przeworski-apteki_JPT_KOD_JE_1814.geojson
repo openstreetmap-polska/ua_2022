@@ -137,9 +137,9 @@
             "properties": {
                 "ref:csioz": 1141375,
                 "addr:housenumber": "375",
-                "addr:city": "Tryńcza",
                 "addr:postcode": "37-204",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Tryńcza"
             },
             "geometry": {
                 "type": "Point",
@@ -154,9 +154,9 @@
             "properties": {
                 "ref:csioz": 1141401,
                 "addr:housenumber": "137A",
-                "addr:city": "Białoboki",
                 "addr:postcode": "37-207",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Białoboki"
             },
             "geometry": {
                 "type": "Point",
@@ -172,9 +172,9 @@
                 "ref:csioz": 1141430,
                 "name": "Twoje Zdrowie",
                 "addr:housenumber": "139",
-                "addr:city": "Manasterz",
                 "addr:postcode": "37-232",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Manasterz"
             },
             "geometry": {
                 "type": "Point",
@@ -190,9 +190,9 @@
                 "ref:csioz": 1141316,
                 "name": "Kraina Leków",
                 "addr:housenumber": "215",
-                "addr:city": "Jawornik Polski",
                 "addr:postcode": "37-232",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jawornik Polski"
             },
             "geometry": {
                 "type": "Point",
@@ -246,9 +246,9 @@
                 "ref:csioz": 1187282,
                 "name": "Rodzinny",
                 "addr:housenumber": "484",
-                "addr:city": "Urzejowice",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Urzejowice"
             },
             "geometry": {
                 "type": "Point",
@@ -263,9 +263,9 @@
             "properties": {
                 "ref:csioz": 1230785,
                 "addr:housenumber": "599",
-                "addr:city": "Rozbórz",
                 "addr:postcode": "37-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rozbórz"
             },
             "geometry": {
                 "type": "Point",
@@ -301,9 +301,9 @@
                 "ref:csioz": 1186445,
                 "name": "Rupfam",
                 "addr:housenumber": "227",
-                "addr:city": "Siennów",
                 "addr:postcode": "37-205",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Siennów"
             },
             "geometry": {
                 "type": "Point",
@@ -491,9 +491,9 @@
                 "ref:csioz": 1220028,
                 "name": "Apteka Lafarma",
                 "addr:housenumber": "643",
-                "addr:city": "Gniewczyna Łańcucka",
                 "addr:postcode": "37-203",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gniewczyna Łańcucka"
             },
             "geometry": {
                 "type": "Point",
@@ -584,9 +584,9 @@
                 "ref:csioz": 1227739,
                 "name": "Rodzinny",
                 "addr:housenumber": "96",
-                "addr:city": "Sietesz",
                 "addr:postcode": "37-206",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sietesz"
             },
             "geometry": {
                 "type": "Point",

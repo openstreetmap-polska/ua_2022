@@ -312,9 +312,9 @@
                 "name": "Arnika",
                 "addr:housenumber": "65",
                 "addr:flats": "6",
-                "addr:city": "Wierzchowo",
                 "addr:postcode": "78-411",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wierzchowo"
             },
             "geometry": {
                 "type": "Point",

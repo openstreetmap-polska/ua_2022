@@ -8,9 +8,9 @@
                 "ref:csioz": 1014398,
                 "name": "Melisa",
                 "addr:housenumber": "138",
-                "addr:city": "Łąkorz",
                 "addr:postcode": "13-334",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łąkorz"
             },
             "geometry": {
                 "type": "Point",
@@ -62,9 +62,9 @@
             "properties": {
                 "ref:csioz": 1016351,
                 "addr:housenumber": "19",
-                "addr:city": "TERESZEWO",
                 "addr:postcode": "13-306",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "TERESZEWO"
             },
             "geometry": {
                 "type": "Point",
@@ -174,9 +174,9 @@
             "properties": {
                 "ref:csioz": 1115242,
                 "addr:housenumber": "41A",
-                "addr:city": "Krotoszyny",
                 "addr:postcode": "13-330",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krotoszyny"
             },
             "geometry": {
                 "type": "Point",
@@ -191,9 +191,9 @@
             "properties": {
                 "ref:csioz": 1115269,
                 "addr:housenumber": "17C",
-                "addr:city": "Nowe Grodziczno",
                 "addr:postcode": "13-324",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowe Grodziczno"
             },
             "geometry": {
                 "type": "Point",

@@ -173,9 +173,9 @@
                 "ref:csioz": 1183347,
                 "name": "Niepubliczny Zakład Opieki Zdrowotnej Promień Oddział Rehabilitacji",
                 "addr:housenumber": "1",
-                "addr:city": "Mariówka",
                 "addr:postcode": "26-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Mariówka"
             },
             "geometry": {
                 "type": "Point",

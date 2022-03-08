@@ -193,9 +193,9 @@
             "properties": {
                 "ref:csioz": 1004740,
                 "addr:housenumber": "30A",
-                "addr:city": "Wilczyce",
                 "addr:postcode": "27-612",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wilczyce"
             },
             "geometry": {
                 "type": "Point",
@@ -211,9 +211,9 @@
                 "ref:csioz": 1004857,
                 "name": "Zdrowie",
                 "addr:housenumber": "7",
-                "addr:city": "Goźlice",
                 "addr:postcode": "27-640",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Goźlice"
             },
             "geometry": {
                 "type": "Point",
@@ -229,9 +229,9 @@
                 "ref:csioz": 1004926,
                 "name": "Punkt Apteczny Miętowy",
                 "addr:housenumber": "144",
-                "addr:city": "Kleczanów",
                 "addr:postcode": "27-641",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Kleczanów"
             },
             "geometry": {
                 "type": "Point",
@@ -247,9 +247,9 @@
                 "ref:csioz": 1114843,
                 "name": "Rodzinny",
                 "addr:housenumber": "78",
-                "addr:city": "Sulisławice",
                 "addr:postcode": "27-670",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sulisławice"
             },
             "geometry": {
                 "type": "Point",
@@ -323,9 +323,9 @@
                 "ref:csioz": 1207358,
                 "name": "Arnika",
                 "addr:housenumber": "43",
-                "addr:city": "Samborzec",
                 "addr:postcode": "27-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Samborzec"
             },
             "geometry": {
                 "type": "Point",
@@ -377,9 +377,9 @@
             "properties": {
                 "ref:csioz": 1002951,
                 "addr:housenumber": "71",
-                "addr:city": "Samborzec",
                 "addr:postcode": "27-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Samborzec"
             },
             "geometry": {
                 "type": "Point",
@@ -453,9 +453,9 @@
                 "ref:csioz": 1180737,
                 "name": "Apteka Wilczyce Jacek Kwiecień",
                 "addr:housenumber": "173",
-                "addr:city": "Wilczyce",
                 "addr:postcode": "27-612",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wilczyce"
             },
             "geometry": {
                 "type": "Point",
@@ -565,9 +565,9 @@
                 "ref:csioz": 1212911,
                 "name": "Arnika",
                 "addr:housenumber": "50",
-                "addr:city": "Łoniów",
                 "addr:postcode": "27-670",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łoniów"
             },
             "geometry": {
                 "type": "Point",
@@ -660,9 +660,9 @@
                 "ref:csioz": 1221831,
                 "name": "Punkt Apteczny Rodzinny",
                 "addr:housenumber": "29",
-                "addr:city": "Świniary Stare",
                 "addr:postcode": "27-670",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Świniary Stare"
             },
             "geometry": {
                 "type": "Point",
@@ -678,9 +678,9 @@
                 "ref:csioz": 1222005,
                 "name": "Apteka Nova",
                 "addr:housenumber": "50A",
-                "addr:city": "Samborzec",
                 "addr:postcode": "27-650",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Samborzec"
             },
             "geometry": {
                 "type": "Point",
@@ -695,9 +695,9 @@
             "properties": {
                 "ref:csioz": 1230684,
                 "addr:housenumber": "124A",
-                "addr:city": "Czyżów Szlachecki",
                 "addr:postcode": "27-630",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Czyżów Szlachecki"
             },
             "geometry": {
                 "type": "Point",

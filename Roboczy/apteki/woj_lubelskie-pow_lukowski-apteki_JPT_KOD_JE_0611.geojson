@@ -81,9 +81,9 @@
                 "ref:csioz": 1106699,
                 "name": "Pod Klasztorem",
                 "addr:housenumber": "48B",
-                "addr:city": "Wola Gułowska",
                 "addr:postcode": "21-481",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wola Gułowska"
             },
             "geometry": {
                 "type": "Point",
@@ -98,9 +98,9 @@
             "properties": {
                 "ref:csioz": 1106721,
                 "addr:housenumber": "7A",
-                "addr:city": "Zembry",
                 "addr:postcode": "21-405",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zembry"
             },
             "geometry": {
                 "type": "Point",
@@ -319,9 +319,9 @@
             "properties": {
                 "ref:csioz": 1219459,
                 "addr:housenumber": "57",
-                "addr:city": "Wola Mysłowska",
                 "addr:postcode": "21-426",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wola Mysłowska"
             },
             "geometry": {
                 "type": "Point",
@@ -337,9 +337,9 @@
                 "ref:csioz": 1219468,
                 "name": "-",
                 "addr:housenumber": "40 A",
-                "addr:city": "Wandów",
                 "addr:postcode": "21-426",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wandów"
             },
             "geometry": {
                 "type": "Point",
@@ -485,9 +485,9 @@
                 "ref:csioz": 1165095,
                 "name": "Lukrecja",
                 "addr:housenumber": "54 A",
-                "addr:city": "Stanin",
                 "addr:postcode": "21-422",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stanin"
             },
             "geometry": {
                 "type": "Point",
@@ -598,9 +598,9 @@
                 "ref:csioz": 1211748,
                 "name": "-",
                 "addr:housenumber": "35 A",
-                "addr:city": "Gręzówka",
                 "addr:postcode": "21-400",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gręzówka"
             },
             "geometry": {
                 "type": "Point",

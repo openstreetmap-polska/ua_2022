@@ -140,9 +140,9 @@
                 "ref:csioz": 1015103,
                 "name": "Dbam O Zdrowie",
                 "addr:housenumber": "52",
-                "addr:city": "Jabłonka Kościelna",
                 "addr:postcode": "18-200",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jabłonka Kościelna"
             },
             "geometry": {
                 "type": "Point",
@@ -455,9 +455,9 @@
             "properties": {
                 "ref:csioz": 1228826,
                 "addr:housenumber": "46",
-                "addr:city": "Dworaki-Staśki",
                 "addr:postcode": "18-218",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dworaki-Staśki"
             },
             "geometry": {
                 "type": "Point",

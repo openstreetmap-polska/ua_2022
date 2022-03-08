@@ -47,9 +47,9 @@
                 "ref:csioz": 1166043,
                 "name": "Apotheke Punkt Eskulap",
                 "addr:housenumber": "50",
-                "addr:city": "Osinów Dolny",
                 "addr:postcode": "74-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Osinów Dolny"
             },
             "geometry": {
                 "type": "Point",
@@ -122,9 +122,9 @@
                 "ref:csioz": 1179774,
                 "name": "Apotheke Corax",
                 "addr:housenumber": "36A",
-                "addr:city": "Osinów Dolny",
                 "addr:postcode": "74-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Osinów Dolny"
             },
             "geometry": {
                 "type": "Point",
@@ -159,9 +159,9 @@
                 "ref:csioz": 1212801,
                 "name": "Weronika",
                 "addr:housenumber": "43a",
-                "addr:city": "Krajnik Dolny",
                 "addr:postcode": "74-506",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krajnik Dolny"
             },
             "geometry": {
                 "type": "Point",
@@ -177,9 +177,9 @@
                 "ref:csioz": 1219400,
                 "name": "Apotheke Ginko",
                 "addr:housenumber": "4D",
-                "addr:city": "Osinów Dolny",
                 "addr:postcode": "74-520",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Osinów Dolny"
             },
             "geometry": {
                 "type": "Point",
@@ -367,9 +367,9 @@
                 "ref:csioz": 1222688,
                 "name": "Przy Moście",
                 "addr:housenumber": "50",
-                "addr:city": "Osinów Dolny",
                 "addr:postcode": "74-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Osinów Dolny"
             },
             "geometry": {
                 "type": "Point",
@@ -385,9 +385,9 @@
                 "ref:csioz": 1228714,
                 "name": "\"Punkt Apteczny \"\"Nad Odrą\"\" Aleksandra Zawada\"",
                 "addr:housenumber": "49a",
-                "addr:city": "Krajnik Dolny",
                 "addr:postcode": "74-500",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Krajnik Dolny"
             },
             "geometry": {
                 "type": "Point",
@@ -612,9 +612,9 @@
                 "ref:csioz": 1223895,
                 "name": "Khallomed Apteka Bazz Khallo",
                 "addr:housenumber": "74",
-                "addr:city": "Nowe Czarnowo",
                 "addr:postcode": "74-105",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowe Czarnowo"
             },
             "geometry": {
                 "type": "Point",

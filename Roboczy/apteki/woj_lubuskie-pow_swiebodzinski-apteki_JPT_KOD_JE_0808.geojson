@@ -27,9 +27,9 @@
                 "ref:csioz": 1150788,
                 "name": "Dr. Max",
                 "addr:housenumber": "2D",
-                "addr:city": "Gronów",
                 "addr:postcode": "66-615",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gronów"
             },
             "geometry": {
                 "type": "Point",
@@ -366,9 +366,9 @@
             "properties": {
                 "ref:csioz": 1164187,
                 "addr:housenumber": "49a",
-                "addr:city": "Skąpe",
                 "addr:postcode": "66-213",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Skąpe"
             },
             "geometry": {
                 "type": "Point",
@@ -383,9 +383,9 @@
             "properties": {
                 "ref:csioz": 1167032,
                 "addr:housenumber": "5",
-                "addr:city": "Cibórz",
                 "addr:postcode": "66-212",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Cibórz"
             },
             "geometry": {
                 "type": "Point",

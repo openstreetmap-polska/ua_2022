@@ -158,9 +158,9 @@
                 "name": "Koala",
                 "addr:housenumber": "80",
                 "addr:flats": "6",
-                "addr:city": "Łęka Wielka",
                 "addr:postcode": "63-805",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Łęka Wielka"
             },
             "geometry": {
                 "type": "Point",
@@ -364,9 +364,9 @@
                 "ref:csioz": 1221530,
                 "name": "Medica",
                 "addr:housenumber": "70A",
-                "addr:city": "Bodzewo",
                 "addr:postcode": "63-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Bodzewo"
             },
             "geometry": {
                 "type": "Point",
@@ -494,9 +494,9 @@
                 "ref:csioz": 1221525,
                 "name": "Medica",
                 "addr:housenumber": "2A",
-                "addr:city": "Szelejewo Drugie",
                 "addr:postcode": "63-820",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Szelejewo Drugie"
             },
             "geometry": {
                 "type": "Point",

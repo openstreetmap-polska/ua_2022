@@ -254,9 +254,9 @@
                 "ref:csioz": 1135125,
                 "name": "-",
                 "addr:housenumber": "53",
-                "addr:city": "Gądkowice",
                 "addr:postcode": "56-300",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Gądkowice"
             },
             "geometry": {
                 "type": "Point",

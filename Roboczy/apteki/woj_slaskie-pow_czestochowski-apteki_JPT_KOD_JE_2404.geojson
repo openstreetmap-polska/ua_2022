@@ -954,9 +954,9 @@
                 "ref:csioz": 1176201,
                 "name": "Apteka Świętej Anny",
                 "addr:housenumber": "14",
-                "addr:city": "Święta Anna",
                 "addr:postcode": "42-265",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Święta Anna"
             },
             "geometry": {
                 "type": "Point",

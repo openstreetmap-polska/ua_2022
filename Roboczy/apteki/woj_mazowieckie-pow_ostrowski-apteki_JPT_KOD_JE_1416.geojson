@@ -438,9 +438,9 @@
             "properties": {
                 "ref:csioz": 1227609,
                 "addr:housenumber": "165",
-                "addr:city": "Prostyń",
                 "addr:postcode": "07-319",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Prostyń"
             },
             "geometry": {
                 "type": "Point",
@@ -473,9 +473,9 @@
             "properties": {
                 "ref:csioz": 1091745,
                 "addr:housenumber": "31",
-                "addr:city": "Jelonki",
                 "addr:postcode": "07-302",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Jelonki"
             },
             "geometry": {
                 "type": "Point",
@@ -509,9 +509,9 @@
             "properties": {
                 "ref:csioz": 1091661,
                 "addr:housenumber": "42",
-                "addr:city": "Stary Lubotyń",
                 "addr:postcode": "07-303",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stary Lubotyń"
             },
             "geometry": {
                 "type": "Point",

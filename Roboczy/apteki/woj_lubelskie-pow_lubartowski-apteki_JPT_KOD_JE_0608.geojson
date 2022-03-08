@@ -26,9 +26,9 @@
                 "ref:csioz": 1158971,
                 "name": "Apteka Bożena Wilczyńska - Czekaj",
                 "addr:housenumber": "66",
-                "addr:city": "Niedźwiada Kol.",
                 "addr:postcode": "24-104",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Niedźwiada Kol."
             },
             "geometry": {
                 "type": "Point",
@@ -174,8 +174,8 @@
                 "ref:csioz": 1191307,
                 "name": "-",
                 "addr:housenumber": "66",
-                "addr:city": "Wola Skromowska",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wola Skromowska"
             },
             "geometry": {
                 "type": "Point",
@@ -190,9 +190,9 @@
             "properties": {
                 "ref:csioz": 1111058,
                 "addr:housenumber": "29",
-                "addr:city": "Stary Uścimów",
                 "addr:postcode": "21-109",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Stary Uścimów"
             },
             "geometry": {
                 "type": "Point",
@@ -263,9 +263,9 @@
                 "ref:csioz": 1057208,
                 "name": "\"Niepubliczny Zakład Opieki Zdrowotnej \"\"Vera\"\"\"",
                 "addr:housenumber": "134",
-                "addr:city": "Rokitno",
                 "addr:postcode": "42-445",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Rokitno"
             },
             "geometry": {
                 "type": "Point",
@@ -280,9 +280,9 @@
             "properties": {
                 "ref:csioz": 1153660,
                 "addr:housenumber": "74a",
-                "addr:city": "Nowodwór",
                 "addr:postcode": "08-503",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowodwór"
             },
             "geometry": {
                 "type": "Point",
@@ -297,9 +297,9 @@
             "properties": {
                 "ref:csioz": 1157818,
                 "addr:housenumber": "2T",
-                "addr:city": "Lisów",
                 "addr:postcode": "21-100",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Lisów"
             },
             "geometry": {
                 "type": "Point",
@@ -500,9 +500,9 @@
             "properties": {
                 "ref:csioz": 1157871,
                 "addr:housenumber": "41a",
-                "addr:city": "\"Starościn Kolonia,\"",
                 "addr:postcode": "21-132",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "\"Starościn Kolonia,\""
             },
             "geometry": {
                 "type": "Point",
@@ -574,9 +574,9 @@
                 "ref:csioz": 1188896,
                 "name": "Apteka Zielona Sp. Z O.O.",
                 "addr:housenumber": "243",
-                "addr:city": "Wola Sernicka",
                 "addr:postcode": "21-107",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wola Sernicka"
             },
             "geometry": {
                 "type": "Point",

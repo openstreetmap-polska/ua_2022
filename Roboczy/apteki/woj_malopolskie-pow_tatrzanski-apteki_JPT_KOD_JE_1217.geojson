@@ -510,9 +510,9 @@
             "properties": {
                 "ref:csioz": 1195172,
                 "addr:housenumber": "188",
-                "addr:city": "Witów",
                 "addr:postcode": "34-512",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Witów"
             },
             "geometry": {
                 "type": "Point",
@@ -546,9 +546,9 @@
             "properties": {
                 "ref:csioz": 1229886,
                 "addr:housenumber": "173",
-                "addr:city": "Dzianisz",
                 "addr:postcode": "34-514",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Dzianisz"
             },
             "geometry": {
                 "type": "Point",

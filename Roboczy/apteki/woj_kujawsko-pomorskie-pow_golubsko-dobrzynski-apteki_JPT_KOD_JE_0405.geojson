@@ -65,9 +65,9 @@
             "properties": {
                 "ref:csioz": 1105121,
                 "addr:housenumber": "86",
-                "addr:city": "Wrocki",
                 "addr:postcode": "87-423",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wrocki"
             },
             "geometry": {
                 "type": "Point",
@@ -159,9 +159,9 @@
                 "ref:csioz": 1173673,
                 "name": "\"'Punkt Apteczny Ciechocin' \"",
                 "addr:housenumber": "176",
-                "addr:city": "Ciechocin",
                 "addr:postcode": "87-408",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ciechocin"
             },
             "geometry": {
                 "type": "Point",
@@ -234,9 +234,9 @@
                 "ref:csioz": 1226120,
                 "name": "Avena W Radominie",
                 "addr:housenumber": "10",
-                "addr:city": "Radomin",
                 "addr:postcode": "87-404",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Radomin"
             },
             "geometry": {
                 "type": "Point",
@@ -252,9 +252,9 @@
                 "ref:csioz": 1119335,
                 "name": "\"Apteka \"\"Mandragora\"\"\"",
                 "addr:housenumber": "149",
-                "addr:city": "Zbójno",
                 "addr:postcode": "87-645",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zbójno"
             },
             "geometry": {
                 "type": "Point",
@@ -269,9 +269,9 @@
             "properties": {
                 "ref:csioz": 1105373,
                 "addr:housenumber": "3",
-                "addr:city": "Wielkie Rychnowo",
                 "addr:postcode": "87-410",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wielkie Rychnowo"
             },
             "geometry": {
                 "type": "Point",

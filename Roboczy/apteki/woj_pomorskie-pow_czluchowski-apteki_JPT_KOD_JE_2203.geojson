@@ -237,9 +237,9 @@
                 "ref:csioz": 1034282,
                 "name": "\"Dział Farmacji Szpitalnej W Ośrodku Readaptacji Stowarzyszenia Solidarni \"\"Plus\"\" Eko \"\"Szkoła Życia\"\" Nzoz\"",
                 "addr:housenumber": "1",
-                "addr:city": "Wandzin",
                 "addr:postcode": "77-323",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Wandzin"
             },
             "geometry": {
                 "type": "Point",

@@ -177,9 +177,9 @@
                 "ref:csioz": 1230512,
                 "name": "Doz Apteka Dbam O Zdrowie Mgr Farm. Ernest Niewiadomski",
                 "addr:housenumber": "4",
-                "addr:city": "Nowe Łubki",
                 "addr:postcode": "09-454",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowe Łubki"
             },
             "geometry": {
                 "type": "Point",
@@ -195,9 +195,9 @@
                 "ref:csioz": 1230710,
                 "name": "Dział Farmacji Szpitalnej",
                 "addr:housenumber": "59",
-                "addr:city": "Ciućkowo",
                 "addr:postcode": "09-460",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Ciućkowo"
             },
             "geometry": {
                 "type": "Point",
@@ -232,9 +232,9 @@
                 "ref:csioz": 1094341,
                 "name": "Milmed Milena Mazurkiewicz",
                 "addr:housenumber": "22",
-                "addr:city": "Zągoty",
                 "addr:postcode": "09-230",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Zągoty"
             },
             "geometry": {
                 "type": "Point",
@@ -456,9 +456,9 @@
                 "ref:csioz": 1164541,
                 "name": "Zdrowie",
                 "addr:housenumber": "20",
-                "addr:city": "Nowy Kamień",
                 "addr:postcode": "36-053",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Nowy Kamień"
             },
             "geometry": {
                 "type": "Point",

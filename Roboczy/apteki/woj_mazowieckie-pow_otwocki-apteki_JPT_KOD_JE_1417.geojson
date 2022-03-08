@@ -326,9 +326,9 @@
             "properties": {
                 "ref:csioz": 1090654,
                 "addr:housenumber": "27A",
-                "addr:city": "Sobiekursk",
                 "addr:postcode": "05-480",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sobiekursk"
             },
             "geometry": {
                 "type": "Point",

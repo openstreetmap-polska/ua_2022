@@ -560,9 +560,9 @@
                 "ref:csioz": 1230294,
                 "name": "Punkt Apteczny W Sokolnikach",
                 "addr:housenumber": "78 A",
-                "addr:city": "Sokolniki",
                 "addr:postcode": "42-320",
-                "amenity": "pharmacy"
+                "amenity": "pharmacy",
+                "addr:place": "Sokolniki"
             },
             "geometry": {
                 "type": "Point",
