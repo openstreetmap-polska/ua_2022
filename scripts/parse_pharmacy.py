@@ -12,7 +12,6 @@ KEYS = {
     'nazwa_apteki': 'name',
     'nazwa_ulicy': 'addr:street',
     'numer_budynku': 'addr:housenumber',
-    'numer_lokalu': 'addr:flats',
     'miejscowosc': 'addr:city',
     'kod_pocztowy': 'addr:postcode'
 }
