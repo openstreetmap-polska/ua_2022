@@ -14,7 +14,7 @@ def fix_coordinates(geojson: Dict) -> Dict:
 
     for feature in geojson['features']:
         lon, lat = feature['geometry']['coordinates']
-        if (lon, lat) in coordinates:
+        while (lon, lat) in coordinates:
             lat -= OFFSET
         coordinates.add((lon, lat))
 
